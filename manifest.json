@@ -1,20 +1,24 @@
 {
-  "updated": "Mo, 16. März 2026 – 14:05 Uhr",
+  "updated": "Mo, 16. März 2026 – 14:15 Uhr",
   "days": [
     {
       "date": "2026-03-16",
       "editions": {
         "morning": {
-          "time": "14:05",
+          "time": "14:15",
           "articles": [
             {
               "id": "2026-03-16-hormuz-krieg",
               "category": "international",
               "icon": "🌍",
-              "title": "Tag 17: USA und Israel im Krieg mit Iran – Hormuz-Strasse gesperrt",
-              "source": "The Guardian / Reuters",
+              "title": "Tag 17: USA & Israel im Krieg mit Iran – Hormuz-Strasse gesperrt",
+              "sources": [
+                {"name": "The Guardian", "url": "https://www.theguardian.com/world/2026/mar/13/what-is-strait-hormuz-can-us-stop-iran-blocking-it"},
+                {"name": "Reuters", "url": "https://www.reuters.com"},
+                {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"}
+              ],
               "time": "Heute",
-              "kurz": "Seit dem 28. Februar führen USA und Israel Krieg gegen Iran. Die Strasse von Hormuz ist für westliche Schiffe gesperrt – 20% der weltweiten Ölversorgung blockiert, Ölpreise steigen stark.",
+              "kurz": "20% der Weltölversorgung blockiert. Iran hat die Strasse von Hormuz für westliche Schiffe gesperrt – Tag 17 des US-Israel-Iran-Krieges. Ölpreise steigen stark.",
               "file": "articles/2026-03-16-hormuz-krieg.md"
             },
             {
@@ -22,9 +26,12 @@
               "category": "politik",
               "icon": "🏛️",
               "title": "Bundesrat verabschiedet Botschaft zu Bilateralen III ans Parlament",
-              "source": "EDA / Bundesrat",
+              "sources": [
+                {"name": "EDA / Bundesrat", "url": "https://www.eda.admin.ch"},
+                {"name": "Proudmag", "url": "https://www.proudmag.com/bundesrat-verabschiedet-die-botschaft-zu-den-bilateralen-iii/"}
+              ],
               "time": "13.03.2026",
-              "kurz": "Der Bundesrat hat die Botschaft zum EU-Paket Bilaterale III ans Parlament übergeben und schlägt ein fakultatives Staatsvertragsreferendum vor – das Volk entscheidet nur bei 50'000 Unterschriften.",
+              "kurz": "Bundesrat übergibt EU-Paket ans Parlament. Fakultatives Referendum vorgeschlagen – SVP will Unterschriften sammeln. Volksabstimmung frühestens 2027.",
               "file": "articles/2026-03-16-bilaterale-iii.md"
             },
             {
@@ -32,39 +39,48 @@
               "category": "politik",
               "icon": "🏛️",
               "title": "US-Militärflüge über Schweiz: Bundesrat genehmigt 3 von 5 Gesuchen",
-              "source": "Weltwoche",
+              "sources": [
+                {"name": "Weltwoche", "url": "https://weltwoche.ch/daily/us-militaerfluege-ueber-der-schweiz-bundesrat-genehmigt-drei-von-fuenf-gesuchen/"}
+              ],
               "time": "15.03.2026",
-              "kurz": "Der Bundesrat hat drei von fünf US-Militärfluggesuchen über Schweizer Territorium bewilligt – eine Entscheidung mit erheblicher Brisanz für die Schweizer Neutralität.",
+              "kurz": "Der Bundesrat bewilligte 3 von 5 US-Militärfluggesuchen – neutralitätspolitisch heikel angesichts des laufenden Kriegs gegen Iran.",
               "file": "articles/2026-03-16-us-militaerfluege.md"
             },
             {
               "id": "2026-03-16-bern-regierungsrat",
               "category": "regional",
               "icon": "🏘️",
-              "title": "Bern Regierungsratswahlen 2026: Geht das bürgerliche Powerplay auf?",
-              "source": "SRF",
+              "title": "Bern Regierungsratswahlen 29. März: Bürgerliches Powerplay oder Linksblock?",
+              "sources": [
+                {"name": "SRF", "url": "https://www.srf.ch/news/schweiz/regierungsratswahlen-bern-2026-wahlen-kanton-bern-geht-das-buergerliche-powerplay-auf"},
+                {"name": "votez.ch", "url": "https://votez.ch/regierungsratswahlen-kanton-bern-fuer-fortgeschrittene/"}
+              ],
               "time": "Letzte Woche",
-              "kurz": "Drei von sieben Berner Regierungsräten treten ab – Bürgerliche hoffen auf zusätzlichen Sitz, aktuelle Umfragen sprechen jedoch dagegen. Wahlsonntag: 29. März.",
+              "kurz": "Drei von sieben Berner Regierungsräten treten ab. Bürgerliche hoffen auf Sitzgewinn, Umfragen dagegen. Wahlsonntag: 29. März 2026.",
               "file": "articles/2026-03-16-bern-regierungsrat.md"
             },
             {
               "id": "2026-03-16-kita-gesetz",
               "category": "schweiz",
               "icon": "🇨🇭",
-              "title": "Schweiz erhält erstmals ein nationales Kitagesetz – Eltern entlastet, Betreuerinnen vergessen",
-              "source": "Die Zeit",
+              "title": "Schweiz erhält erstmals nationales Kitagesetz – Eltern entlastet, Betreuerinnen vergessen",
+              "sources": [
+                {"name": "Die Zeit", "url": "https://www.zeit.de"}
+              ],
               "time": "Heute",
-              "kurz": "Die Schweiz bekommt erstmals ein einheitliches nationales Kitagesetz. Eltern werden finanziell entlastet – doch das schlecht bezahlte Betreuungspersonal wurde erneut ignoriert.",
+              "kurz": "Historisch: die Schweiz bekommt ein nationales Kitagesetz. Eltern werden subventioniert – das Betreuungspersonal geht leer aus.",
               "file": "articles/2026-03-16-kita-gesetz.md"
             },
             {
               "id": "2026-03-16-tesla-aktie",
               "category": "wirtschaft",
               "icon": "💼",
-              "title": "Tesla-Aktie bei 391 Dollar – Analysten uneinig, chinesische Konkurrenz drückt",
-              "source": "Marktanalyse",
+              "title": "Tesla bei 391 Dollar – chinesische Konkurrenz und Hormuz-Krise belasten",
+              "sources": [
+                {"name": "Ad-hoc-news", "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/tesla-inc-aktie-isin-us88160r1014-unter-druck-kurs-faellt-auf-391/68693958"}
+              ],
               "time": "Heute",
-              "kurz": "Tesla notiert bei 391 Dollar (1,47 Bio. USD Marktkapitalisierung). Extreme Bewertung trifft auf chinesische Konkurrenz und Iran-bedingte Marktturbulenzen – Analysten gespalten.",
+              "kurz": "Tesla-Aktie bei 391 USD (Mktcap 1,47 Bio.). Analysten gespalten: BYD überholt Tesla global, Hormuz-Krise verunsichert Märkte, KGV bleibt extrem hoch.",
               "file": "articles/2026-03-16-tesla-aktie.md"
             },
             {
@@ -72,9 +88,11 @@
               "category": "tech",
               "icon": "⚡",
               "title": "E-Autos schwächeln in der Schweiz – Skoda führt, BYD und Leapmotor holen auf",
-              "source": "Watson",
+              "sources": [
+                {"name": "Watson", "url": "https://www.watson.ch/digital/schweiz/800585057-das-waren-im-februar-2026-die-beliebtesten-e-autos-der-schweiz"}
+              ],
               "time": "Diese Woche",
-              "kurz": "Im Februar 2026 gingen die Gesamtverkäufe von E-Autos in der Schweiz zurück. Skoda Enyaq führt die Liste an, chinesische Marken BYD und Leapmotor holen rasant auf – Tesla verliert.",
+              "kurz": "Februar 2026: E-Auto-Zulassungen rückläufig in der Schweiz. Skoda Enyaq führt die Liste an. BYD, Leapmotor und MG gewinnen stark – Tesla verliert.",
               "file": "articles/2026-03-16-eauto-schweiz.md"
             }
           ]
