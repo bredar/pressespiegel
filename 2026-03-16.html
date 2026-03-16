@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pressespiegel – Montag, 16. März 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Source Sans 3', sans-serif; background: #f5f0e8; color: #1a1a1a; min-height: 100vh; }
+    .top-bar { background: #8b1a1a; color: #f5f0e8; padding: 7px 20px; display: flex; justify-content: space-between; align-items: center; font-size: 0.75em; letter-spacing: 2px; text-transform: uppercase; }
+    .top-bar .editions { display: flex; gap: 12px; }
+    .edition-badge { padding: 2px 10px; border-radius: 10px; background: rgba(255,255,255,0.15); font-size: 0.9em; cursor: pointer; transition: background 0.15s; }
+    .edition-badge.active { background: rgba(255,255,255,0.35); font-weight: 600; }
+    .edition-badge:hover { background: rgba(255,255,255,0.25); }
+    header { background: #1a1a1a; color: white; padding: 24px 40px 18px; text-align: center; border-bottom: 4px solid #c9a84c; }
+    header h1 { font-family: 'Playfair Display', serif; font-size: 2.8em; letter-spacing: 3px; }
+    header .tagline { font-size: 0.75em; color: #c9a84c; margin-top: 5px; letter-spacing: 4px; text-transform: uppercase; }
+    header .meta { font-size: 0.8em; color: #888; margin-top: 8px; }
+    .controls { background: white; border-bottom: 1px solid #e8e0d0; padding: 10px 20px; display: flex; align-items: center; gap: 10px; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+    .controls label { font-size: 0.78em; color: #888; text-transform: uppercase; letter-spacing: 1.5px; margin-right: 4px; }
+    .level-btn { padding: 5px 16px; border: 1px solid #d9d2c5; border-radius: 20px; background: none; font-size: 0.82em; cursor: pointer; color: #777; transition: all 0.15s; font-family: inherit; }
+    .level-btn.active { background: #1a1a1a; border-color: #1a1a1a; color: white; }
+    .level-btn:hover:not(.active) { border-color: #c9a84c; color: #555; }
+    .controls .updated { margin-left: auto; font-size: 0.75em; color: #bbb; font-style: italic; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 30px 20px; }
+    .edition-divider { display: flex; align-items: center; gap: 12px; margin: 32px 0 20px; }
+    .edition-divider .ed-label { font-size: 0.72em; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; color: white; background: #1a1a1a; padding: 4px 14px; border-radius: 2px; white-space: nowrap; }
+    .edition-divider .ed-label.morgen { background: #c9a84c; color: #1a1a1a; }
+    .edition-divider .ed-label.mittag { background: #8b1a1a; }
+    .edition-divider .ed-label.abend  { background: #2c3e50; }
+    .edition-divider hr { flex: 1; border: none; border-top: 1px solid #d9d2c5; }
+    .section { margin-bottom: 36px; }
+    .section-header { border-bottom: 2px solid #c9a84c; margin-bottom: 14px; padding-bottom: 7px; display: flex; align-items: center; gap: 8px; }
+    .section-header h2 { font-family: 'Playfair Display', serif; font-size: 1.25em; }
+    .articles-grid { display: grid; gap: 16px; }
+    @media (min-width: 700px) { .articles-grid.two-col { grid-template-columns: 1fr 1fr; } }
+    .article-card { background: white; border-radius: 3px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; border-left: 4px solid #c9a84c; }
+    .article-card:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(0,0,0,0.1); }
+    .article-card.voted-up { border-left-color: #2d7d46; }
+    .article-card.voted-down { border-left-color: #ccc; opacity: 0.6; }
+    .article-content { padding: 18px 18px 0; }
+    .article-source { font-size: 0.7em; font-weight: 600; color: #c9a84c; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 6px; }
+    .article-title { font-family: 'Playfair Display', serif; font-size: 1.15em; line-height: 1.4; margin-bottom: 10px; }
+    .article-title a { color: #1a1a1a; text-decoration: none; }
+    .article-title a:hover { color: #8b1a1a; }
+    .level-kurz, .level-mittel, .level-lang { font-size: 0.9em; line-height: 1.7; color: #555; margin-bottom: 10px; }
+    .level-mittel, .level-lang { display: none; border-top: 1px dashed #e8e0d0; padding-top: 10px; margin-top: 4px; }
+    .level-lang { color: #444; }
+    body.show-kurz .level-kurz { display: block; }
+    body.show-mittel .level-kurz, body.show-mittel .level-mittel { display: block; }
+    body.show-lang .level-kurz, body.show-lang .level-mittel, body.show-lang .level-lang { display: block; }
+    .article-actions { display: flex; align-items: center; gap: 8px; padding: 10px 18px 12px; border-top: 1px solid #f0ebe0; margin-top: 8px; }
+    .vote-btn { background: none; border: 1px solid #e0d9ce; border-radius: 20px; padding: 3px 12px; font-size: 0.8em; cursor: pointer; color: #999; transition: all 0.15s; font-family: inherit; }
+    .vote-btn:hover { border-color: #c9a84c; color: #555; }
+    .vote-btn.active-up { background: #e8f5ec; border-color: #2d7d46; color: #2d7d46; font-weight: 600; }
+    .vote-btn.active-down { background: #f5f5f5; border-color: #bbb; color: #999; }
+    .vote-label { font-size: 0.73em; color: #ccc; margin-left: auto; font-style: italic; }
+    footer { background: #1a1a1a; color: #666; text-align: center; padding: 20px; font-size: 0.76em; letter-spacing: 1px; margin-top: 20px; }
+    footer span { color: #c9a84c; }
+  </style>
+</head>
+<body class="show-kurz">
+
+<div class="top-bar">
+  <span>📰 Persönlicher Pressespiegel</span>
+  <div class="editions" id="editionNav"></div>
+</div>
+
+<header>
+  <h1>Pressespiegel</h1>
+  <div class="tagline">Täglich · Morgen · Mittag · Abend · Zusammengestellt von Data</div>
+  <div class="meta">Montag, 16. März 2026</div>
+</header>
+
+<div class="controls">
+  <label>Lese-Tiefe:</label>
+  <button class="level-btn active" data-level="kurz">⚡ Kurz</button>
+  <button class="level-btn" data-level="mittel">📄 Mittel</button>
+  <button class="level-btn" data-level="lang">📖 Volltext</button>
+  <span class="updated">Morgenausgabe · 13:55 Uhr</span>
+</div>
+
+<div class="container" id="mainContent">
+
+  <div class="edition-divider" data-edition="morning">
+    <span class="ed-label morgen">🌅 Morgenausgabe</span>
+    <hr>
+  </div>
+
+  <div class="section">
+    <div class="section-header"><span>🌍</span><h2>International</h2></div>
+    <div class="articles-grid">
+      <div class="article-card" data-id="2026-03-16-hormuz-krieg">
+        <div class="article-content">
+          <div class="article-source">The Guardian / Reuters · Heute</div>
+          <div class="article-title"><a href="https://www.theguardian.com/world/2026/mar/13/what-is-strait-hormuz-can-us-stop-iran-blocking-it" target="_blank" id="title-2026-03-16-hormuz-krieg">Tag 17: USA und Israel im Krieg mit Iran – Hormuz-Strasse fast vollständig gesperrt</a></div>
+          <div class="level-kurz">Seit dem 28. Februar führen USA und Israel Krieg gegen Iran. Die Strasse von Hormuz ist für westliche Schiffe gesperrt – 20% der weltweiten Ölversorgung ist blockiert.</div>
+          <div class="level-mittel">Seit dem gemeinsamen US-israelischen Angriff auf Iran am 28. Februar – bei dem auch Revolutionsführer Khamenei getötet wurde – hat der Iran die strategisch wichtige Strasse von Hormuz für Schiffe aus den USA, Israel und westlichen Verbündeten geschlossen. Über 1000 Tanker liegen blockiert, der Tankerverkehr ist auf nahezu null gesunken.<br><br>Die Folgen sind massiv: Ca. 20% der weltweiten täglichen Ölversorgung sind betroffen, Öl- und Gaspreise haben stark angezogen. Trump versucht internationale Partner für eine gemeinsame Sicherung der Meerenge zu gewinnen – bisher mit wenig Erfolg. Dubai-Flughafen wurde heute durch einen Drohnenangriff beschädigt.</div>
+          <div class="level-lang">Am 28. Februar 2026 begannen die USA und Israel koordinierte Militärschläge gegen den Iran, die auch den Tod von Revolutionsführer Ali Khamenei zur Folge hatten. Als Reaktion darauf schloss der Islamische Revolutionsgarden-Korps (IRGC) die Strasse von Hormuz für alle Schiffe aus den USA, Israel und ihren westlichen Verbündeten.<br><br>Die Strasse von Hormuz ist der engste und strategisch wichtigste Seeweg der Welt: Täglich passieren normalerweise Schiffe mit 20% des weltweiten Öls und erhebliche Mengen Flüssiggas. Seit der Sperrung ist der Tankerverkehr auf nahezu null gesunken – über 1000 Frachtschiffe ankern ausserhalb der Meerenge.<br><br>Die wirtschaftlichen Auswirkungen sind bereits spürbar: Öl- und Gaspreise sind deutlich gestiegen, grosse Reedereien haben den Betrieb in der Region eingestellt. Energieminister Chris Wright räumte ein, die Preise könnten länger erhöht bleiben.<br><br>Präsident Trump wirbt international für eine gemeinsame Sicherung der Hormuz-Strasse, stösst dabei aber auf wenig Resonanz. Die Türkei konnte als Ausnahme die Passage eines Schiffes aushandeln. Am heutigen Montag traf ein Drohnenangriff den Flughafen Dubai, was die Instabilität der gesamten Golfregion unterstreicht.<br><br>Für die Schweiz und Europa bedeutet die Krise höhere Energiepreise und Versorgungsunsicherheit – eine direkte Folge des mittlerweile 17 Tage dauernden Konflikts.</div>
+        </div>
+        <div class="article-actions">
+          <button class="vote-btn vote-up">👍 Interessant</button>
+          <button class="vote-btn vote-down">👎 Weniger</button>
+          <span class="vote-label"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header"><span>🏛️</span><h2>Politik</h2></div>
+    <div class="articles-grid two-col">
+      <div class="article-card" data-id="2026-03-16-bilaterale-iii">
+        <div class="article-content">
+          <div class="article-source">EDA / Bundesrat · 13. März 2026</div>
+          <div class="article-title"><a href="https://www.proudmag.com/bundesrat-verabschiedet-die-botschaft-zu-den-bilateralen-iii/" target="_blank" id="title-2026-03-16-bilaterale-iii">Bundesrat verabschiedet Botschaft zu Bilateralen III ans Parlament</a></div>
+          <div class="level-kurz">Der Bundesrat hat die Botschaft zum EU-Paket Bilaterale III ans Parlament übergeben und schlägt ein fakultatives Staatsvertragsreferendum vor.</div>
+          <div class="level-mittel">Am 13. März 2026 hat der Bundesrat die Botschaft zum Paket «Stabilisierung und Weiterentwicklung der Beziehungen Schweiz-EU» (Bilaterale III) ans Parlament verabschiedet. Der Bundesrat hält am bilateralen Weg fest: Die EU sei der wichtigste Handelspartner, stabile Beziehungen seien gerade in der aktuellen Weltlage entscheidend.<br><br>Konkret schlägt der Bundesrat ein fakultatives Staatsvertragsreferendum vor – das Volk kann also, muss aber nicht zwingend abstimmen. Das Vertragspaket soll laut Bundesrat Wohlstand, Sicherheit und Unabhängigkeit der Schweiz langfristig sichern.</div>
+          <div class="level-lang">Der Bundesrat hat am 13. März 2026 einen wichtigen Meilenstein im Verhältnis Schweiz-EU gesetzt: Die Botschaft zum Paket «Stabilisierung und Weiterentwicklung der Beziehungen Schweiz-EU» – kurz Bilaterale III – wurde zuhanden des Parlaments gutgeheissen.<br><br>Das Vertragspaket, das im vergangenen Jahr in Brüssel unterzeichnet wurde, umfasst eine Aktualisierung und Erweiterung der bestehenden bilateralen Verträge. Es regelt unter anderem die Personenfreizügigkeit, den Marktzugang sowie institutionelle Mechanismen zur Übernahme von EU-Recht.<br><br>Der Bundesrat begründet den Schritt mit der wirtschaftlichen Abhängigkeit: Die EU nimmt rund die Hälfte aller Schweizer Exporte ab. Stabile, vertraglich gesicherte Beziehungen seien gerade angesichts der globalen Unsicherheiten – Krieg in der Golfregion, geopolitische Spannungen – unabdingbar.<br><br>Politisch brisant: Der Bundesrat schlägt ein fakultatives Staatsvertragsreferendum vor. Das bedeutet, eine Volksabstimmung ist nur nötig, wenn 50'000 Unterschriften gesammelt werden. SVP und weitere eurokritische Kreise haben bereits angekündigt, das Referendum zu ergreifen.<br><br>Das Parlament wird die Botschaft nun beraten. Mit einer Volksabstimmung ist frühestens 2027 zu rechnen – die politische Auseinandersetzung über die Bilateralen III beginnt damit erst richtig.</div>
+        </div>
+        <div class="article-actions">
+          <button class="vote-btn vote-up">👍 Interessant</button>
+          <button class="vote-btn vote-down">👎 Weniger</button>
+          <span class="vote-label"></span>
+        </div>
+      </div>
+      <div class="article-card" data-id="2026-03-16-us-militaerfluege">
+        <div class="article-content">
+          <div class="article-source">Weltwoche · 15. März 2026</div>
+          <div class="article-title"><a href="https://weltwoche.ch/daily/us-militaerfluege-ueber-der-schweiz-bundesrat-genehmigt-drei-von-fuenf-gesuchen/" target="_blank" id="title-2026-03-16-us-militaerfluege">US-Militärflüge über Schweiz: Bundesrat genehmigt 3 von 5 Gesuchen</a></div>
+          <div class="level-kurz">Der Bundesrat hat drei von fünf US-Militärfluggesuchen über Schweizer Territorium genehmigt – mit erheblicher neutralitätspolitischer Brisanz.</div>
+          <div class="level-mittel">Angesichts des laufenden US-israelischen Krieges gegen Iran hat der Bundesrat am 15. März drei von fünf Gesuchen der USA für Militärflüge über Schweizer Territorium bewilligt. Zwei Gesuche wurden abgelehnt.<br><br>Die Entscheidung wirft Fragen zur Schweizer Neutralität auf: Kritiker sehen darin eine faktische Parteinahme für die USA. Der Bundesrat betont, die Genehmigungen seien mit dem Neutralitätsrecht vereinbar.</div>
+          <div class="level-lang">Der Bundesrat hat am 15. März 2026 drei von fünf amerikanischen Gesuchen für Militärflüge über Schweizer Territorium genehmigt. Der Kontext: Die USA und Israel befinden sich seit dem 28. Februar im aktiven Krieg gegen Iran, und die USA benötigen für bestimmte Logistikrouten den Schweizer Luftraum.<br><br>Die Entscheidung ist neutralitätspolitisch heikel. Die Schweiz ist seit Jahrhunderten neutral – die Genehmigung von Militärflügen einer Kriegspartei berührt diesen Status direkt. Der Bundesrat argumentiert, die bewilligten Flüge seien humanitärer oder nicht-kampfbezogener Natur und daher mit dem Neutralitätsrecht vereinbar.<br><br>Zwei Gesuche wurden abgelehnt, was darauf hindeutet, dass die Regierung eine Linie ziehen wollte. Die genauen Kriterien für die Unterscheidung sind nicht öffentlich bekannt.<br><br>Die Reaktionen sind gespalten: Bürgerliche Parteien betonen die transatlantischen Beziehungen, SP und Grüne kritisieren die Entscheidung als Neutralitätsverletzung. Die Schweiz navigiert in einer zunehmend komplexen geopolitischen Lage – ohne klaren Kompass.</div>
+        </div>
+        <div class="article-actions">
+          <button class="vote-btn vote-up">👍 Interessant</button>
+          <button class="vote-btn vote-down">👎 Weniger</button>
+          <span class="vote-label"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header"><span>🇨🇭</span><h2>Schweiz</h2></div>
+    <div class="articles-grid two-col">
+      <div class="article-card" data-id="2026-03-16-kita-gesetz">
+        <div class="article-content">
+          <div class="article-source">Die Zeit · Heute</div>
+          <div class="article-title"><a href="https://www.zeit.de/index" target="_blank" id="title-2026-03-16-kita-gesetz">Schweiz erhält erstmals ein nationales Kitagesetz – Eltern werden entlastet</a></div>
+          <div class="level-kurz">Die Schweiz bekommt erstmals ein einheitliches nationales Gesetz für Kindertagesstätten – Eltern werden finanziell entlastet, aber die Betreuerinnen wurden erneut vergessen.</div>
+          <div class="level-mittel">Ein Meilenstein für die Schweizer Familienpolitik: Das Land erhält erstmals ein einheitliches nationales Gesetz für Kindertagesstätten. Bisher regelten die Kantone alles selbst, was zu grossen regionalen Unterschieden führte.<br><br>Das neue Gesetz soll Eltern finanziell entlasten und den Zugang zu Kinderbetreuung verbessern. Kritik kommt jedoch von Seiten des Betreuungspersonals: Arbeitsbedingungen und Löhne der Kita-Mitarbeitenden – fast ausschliesslich Frauen – wurden im Gesetz weitgehend ignoriert.</div>
+          <div class="level-lang">Die Schweiz hat sich lange Zeit damit begnügt, die Regelung von Kindertagesstätten den Kantonen zu überlassen. Das Ergebnis: Ein Flickenteppich von 26 verschiedenen Systemen mit enormen Unterschieden bei Kosten, Qualität und Verfügbarkeit. Mit dem neuen nationalen Kitagesetz ändert sich das nun grundlegend.<br><br>Das Gesetz sieht vor, dass Eltern mit niedrigem und mittlerem Einkommen stärker subventioniert werden. Ziel ist es, die finanzielle Hürde für den Kita-Besuch zu senken und mehr Frauen die Rückkehr in den Beruf zu ermöglichen – ein wirtschaftspolitisches Anliegen, das angesichts des Fachkräftemangels an Dringlichkeit gewonnen hat.<br><br>Die Kritik trifft einen wunden Punkt: Das Gesetz fokussiert auf die Nachfrageseite (Eltern), vernachlässigt aber die Angebotsseite. Kita-Betreuerinnen – über 90% weiblich, oft in Teilzeit, schlecht bezahlt – profitieren kaum.<br><br>Politisch ist das Gesetz trotzdem ein Fortschritt – der erste Schritt zu einem nationalen Betreuungssystem, das in den kommenden Jahren sicher weiterentwickelt wird.</div>
+        </div>
+        <div class="article-actions">
+          <button class="vote-btn vote-up">👍 Interessant</button>
+          <button class="vote-btn vote-down">👎 Weniger</button>
+          <span class="vote-label"></span>
+        </div>
+      </div>
+      <div class="article-card" data-id="2026-03-16-10mio-schweiz">
+        <div class="article-content">
+          <div class="article-source">Plattform J · Heute</div>
+          <div class="article-title"><a href="https://www.plattformj.ch/artikel/241321/" target="_blank" id="title-2026-03-16-10mio-schweiz">Breite Allianz warnt vor Initiative «Keine 10-Millionen-Schweiz»</a></div>
+          <div class="level-kurz">Bundesrat Beat Jans, Kantone und Sozialpartner warnen gemeinsam: Ein Ja zur Initiative gegen eine 10-Millionen-Schweiz gefährde die Personenfreizügigkeit und damit zentrale bilaterale Verträge.</div>
+          <div class="level-mittel">Eine breite Allianz aus Bundesrat, Kantonen und Sozialpartnern hat in Bern gegen die Initiative «Keine 10-Millionen-Schweiz» Stellung bezogen. Bundesrat Beat Jans betonte, ein Ja gefährde die Personenfreizügigkeit mit der EU – und damit indirekt auch die Bilateralen III, die gerade ans Parlament verabschiedet wurden.<br><br>Die Initiative will gesetzliche Obergrenzen für die Bevölkerungszahl einführen. Kritiker sehen darin einen verfassungsrechtlich problematischen Eingriff in das Freizügigkeitsrecht und eine faktische Kündigung zentraler EU-Verträge.</div>
+          <div class="level-lang">Die Initiative «Keine 10-Millionen-Schweiz» will die Einwanderung so stark begrenzen, dass die Bevölkerung die 10-Millionen-Grenze nicht überschreitet. Dies würde zwangsläufig eine Einschränkung der Personenfreizügigkeit mit der EU bedeuten – und damit einen Bruch der Bilateralen I.<br><br>Gegen diese Perspektive hat sich heute eine ungewöhnlich breite Allianz zusammengefunden: Bundesrat Beat Jans als Vorsteher des EJPD, Kantonsregierungen und Sozialpartner (Arbeitgeber und Gewerkschaften gemeinsam) warnten öffentlich vor den Folgen.<br><br>Das Timing ist nicht zufällig: Gleichentags wurde die Botschaft zu den Bilateralen III ans Parlament verabschiedet. Die Initiative würde dieses gesamte Vertragswerk gefährden und kommt damit zu einem politisch heiklen Moment.<br><br>Rechtlich ist die Initiative umstritten: Experten zweifeln an ihrer Vereinbarkeit mit dem Völkerrecht. Politisch wird sie von der SVP unterstützt, die sie als Instrument zur Begrenzung der Zuwanderung sieht.<br><br>Eine Volksabstimmung dürfte frühestens 2027 stattfinden – und wird zum nächsten grossen Richtungsentscheid über das Verhältnis Schweiz-EU.</div>
+        </div>
+        <div class="article-actions">
+          <button class="vote-btn vote-up">👍 Interessant</button>
+          <button class="vote-btn vote-down">👎 Weniger</button>
+          <span class="vote-label"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header"><span>🏘️</span><h2>Bern &amp; Region</h2></div>
+    <div class="articles-grid">
+      <div class="article-card" data-id="2026-03-16-bern-regierungsrat">
+        <div class="article-content">
+          <div class="article-source">SRF · Letzte Woche</div>
+          <div class="article-title"><a href="https://www.srf.ch/news/schweiz/regierungsratswahlen-bern-2026-wahlen-kanton-bern-geht-das-buergerliche-powerplay-auf" target="_blank" id="title-2026-03-16-bern-regierungsrat">Bern Regierungsratswahlen 2026: Geht das bürgerliche Powerplay auf?</a></div>
+          <div class="level-kurz">Drei von sieben Berner Regierungsräten treten ab – Bürgerliche hoffen auf zusätzlichen Sitz, aktuelle Umfragen sprechen aber dagegen.</div>
+          <div class="level-mittel">Die Berner Kantonsregierung wird 2026 zur Erneuerungswahl: Drei der sieben amtierenden Mitglieder treten ab. Für die Bürgerlichen eine Chance – sie wollen ihre Position ausbauen.<br><br>Die linke Seite setzt auf ein Viererticket mit Evi Allemann (SP), Aline Trede (Grüne), Reto Müller (SP) und Hervé Gullotti (SP, Berner Jura). Aktuelle Umfragen deuten allerdings darauf hin, dass das bürgerliche Powerplay nicht aufgehen dürfte.</div>
+          <div class="level-lang">Im Kanton Bern stehen 2026 Regierungsratswahlen an – und sie versprechen eine echte Richtungsentscheidung. Von den sieben Sitzen treten drei bisherige Mitglieder nicht mehr an, was ungewöhnlich viel Bewegung bringt.<br><br>Die Bürgerlichen – FDP, SVP, Die Mitte – sehen eine Chance, ihre Stellung auszubauen. Aktuell halten sie drei Sitze, die Linke vier. Ein zusätzlicher Sitz würde die Mehrheitsverhältnisse kippen.<br><br>Die Linke verteidigt mit einem koordinierten Viererticket: Bisherige Evi Allemann (SP), Aline Trede (Grüne) sowie Reto Müller (SP) und Hervé Gullotti (SP, Berner Jura). Gullotti soll den garantierten Sitz des Berner Juras übernehmen, der aktuell von Pierre Alain Schnegg (SVP) gehalten wird.<br><br>Laut aktuellen Umfragen dürfte das bürgerliche Vorhaben allerdings scheitern. Entscheidend wird die Mobilisierung sein. Für die Region Bern/Zollikofen ist diese Wahl von direkter Bedeutung: Die Kantonsregierung entscheidet über Infrastruktur, Bildung und Sozialpolitik.</div>
+        </div>
+        <div class="article-actions">
+          <button class="vote-btn vote-up">👍 Interessant</button>
+          <button class="vote-btn vote-down">👎 Weniger</button>
+          <span class="vote-label"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header"><span>💼</span><h2>Wirtschaft</h2></div>
+    <div class="articles-grid">
+      <div class="article-card" data-id="2026-03-16-tesla-aktie">
+        <div class="article-content">
+          <div class="article-source">Ad-hoc-news · Heute</div>
+          <div class="article-title"><a href="https://www.ad-hoc-news.de/boerse/news/ueberblick/tesla-inc-aktie-isin-us88160r1014-unter-druck-kurs-faellt-auf-391/68693958" target="_blank" id="title-2026-03-16-tesla-aktie">Tesla-Aktie unter Druck: 391 Dollar, Analysten uneinig – China-EV-Konkurrenz drückt auf Margen</a></div>
+          <div class="level-kurz">Tesla notiert heute bei ~391 Dollar (Marktkapitalisierung 1,47 Bio. USD) – extreme Bewertungsmultiplikatoren und wachsende chinesische EV-Konkurrenz belasten, Analysten gespalten.</div>
+          <div class="level-mittel">Die Tesla-Aktie steht am Montag, 16. März 2026, bei knapp 391 Dollar – Marktkapitalisierung 1,47 Billionen USD. Die Bewertung bleibt extrem: Multiples weit über dem Branchendurchschnitt, was Analysten skeptisch stimmt.<br><br>Während die EV-Nachfrage global robust bleibt, drückt die chinesische Konkurrenz (BYD, Leapmotor, SAIC) auf die Margen. Tesla setzt auf günstigere Modelle, um Volumen zu erhalten. Prognosen sehen kurzfristig ein mögliches Hoch um 557 Dollar, gefolgt von Korrekturen.</div>
+          <div class="level-lang">Tesla ist und bleibt das polarisierende Unternehmen an den Finanzmärkten. Die Bullen verweisen auf das Wachstumspotenzial: günstigere Modelle, starker Energiespeicher-Bereich (Megapack), autonomes Fahren als langfristiges Milliardengeschäft.<br><br>Die Bären sehen es anders: Bei einem KGV weit über 100 und 1,47 Billionen Marktkapitalisierung ist jede Enttäuschung gefährlich. BYD hat Tesla global bei den Verkaufszahlen bereits überholt. Leapmotor und MG gewinnen auch in der Schweiz Marktanteile.<br><br>Der aktuelle Kursrückgang hängt auch mit der Iran-Krise zusammen: Steigende Ölpreise erhöhen Produktionskosten und verunsichern die Märkte generell.<br><br>Prognosen sehen für März 2026 ein mögliches Hoch von 556 Dollar, gefolgt von einer Korrekturphase. Für langfristige Investoren bleibt Tesla eine Wette auf die Zukunft der Mobilität – mit entsprechend hohem Risiko.</div>
+        </div>
+        <div class="article-actions">
+          <button class="vote-btn vote-up">👍 Interessant</button>
+          <button class="vote-btn vote-down">👎 Weniger</button>
+          <span class="vote-label"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-header"><span>⚡</span><h2>Tech &amp; Mobilität</h2></div>
+    <div class="articles-grid">
+      <div class="article-card" data-id="2026-03-16-eauto-schweiz">
+        <div class="article-content">
+          <div class="article-source">Watson · Diese Woche</div>
+          <div class="article-title"><a href="https://www.watson.ch/digital/schweiz/800585057-das-waren-im-februar-2026-die-beliebtesten-e-autos-der-schweiz" target="_blank" id="title-2026-03-16-eauto-schweiz">E-Autos schwächeln in der Schweiz – aber Skoda, BYD und Leapmotor holen rasant auf</a></div>
+          <div class="level-kurz">Im Februar 2026 gingen die Gesamtverkäufe von E-Autos in der Schweiz zurück. Gewinner: Skoda (Platz 1), dahinter chinesische Marken wie Leapmotor, BYD, MG. Tesla verliert Marktanteile.</div>
+          <div class="level-mittel">Der Schweizer Elektroautomarkt zeigt ein zweigeteiltes Bild: Insgesamt schwächeln die EV-Zulassungen – ein Trend, der auch andere europäische Märkte betrifft. Gleichzeitig gewinnen neue Anbieter stark an Boden.<br><br>Besonders auffällig: Skoda führt im Februar die EV-Hitliste an. Dahinter drängen chinesische Hersteller wie Leapmotor, BYD und MG mit günstigen Modellen. Tesla verliert Marktanteile. Der Preisdruck und verunsichertes Kaufklima – verstärkt durch die Geopolitik – bremsen den Gesamtmarkt.</div>
+          <div class="level-lang">Der Schweizer Elektroautomarkt Februar 2026 gibt zu denken. Der überraschende Gewinner: Skoda. Mit dem kompakten Enyaq und günstigen Einstiegspreisen hat die tschechische VW-Tochter im Februar die Hitliste angeführt. Schweizer Käufer sind zunehmend preissensitiv.<br><br>Noch spannender ist der Aufstieg der chinesischen Marken. Leapmotor, erst seit kurzem in der Schweiz erhältlich, hat sich bereits in den Top 10 etabliert. BYD und MG wachsen kontinuierlich. Diese Anbieter unterbieten etablierte Hersteller preislich deutlich.<br><br>Tesla, lange die dominante EV-Marke in der Schweiz, verliert Marktanteile. Das Modell Y und Model 3 sind nicht mehr automatisch die erste Wahl, wenn günstigere Alternativen mit vergleichbarer Reichweite verfügbar sind.<br><br>Der Rückgang der Gesamtzulassungen hat mehrere Ursachen: Verunsicherung durch die globale Lage (Iran-Krise, Öl-Preisschock), auslaufende Förderungen und ein generelles Abwarten vieler Käufer. Experten erwarten eine Erholung im zweiten Halbjahr 2026, sobald mehr günstige Modelle im mittleren Preissegment verfügbar sind.</div>
+        </div>
+        <div class="article-actions">
+          <button class="vote-btn vote-up">👍 Interessant</button>
+          <button class="vote-btn vote-down">👎 Weniger</button>
+          <span class="vote-label"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  Generiert von <span>Data</span> für François · <span>OpenClaw Pressespiegel</span> · Montag, 16. März 2026
+</footer>
+
+<script>
+document.querySelectorAll('.level-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.level-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const level = btn.dataset.level;
+    document.body.className = document.body.className.replace(/show-\w+/g, '');
+    document.body.classList.add('show-' + level);
+    localStorage.setItem('ps-level', level);
+  });
+});
+const savedLevel = localStorage.getItem('ps-level') || 'kurz';
+document.querySelector(`[data-level="${savedLevel}"]`)?.click();
+
+const editionNav = document.getElementById('editionNav');
+document.querySelectorAll('.edition-divider').forEach(div => {
+  const label = div.querySelector('.ed-label').textContent;
+  const badge = document.createElement('span');
+  badge.className = 'edition-badge';
+  badge.textContent = label;
+  badge.onclick = () => div.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  editionNav.appendChild(badge);
+});
+
+const STORAGE_KEY = 'pressespiegel-votes';
+function loadVotes() { try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch { return {}; } }
+function saveVote(id, vote) {
+  const votes = loadVotes();
+  if (votes[id]?.vote === vote) { delete votes[id]; vote = null; }
+  else votes[id] = { vote, title: document.getElementById('title-' + id)?.innerText || id, ts: Date.now() };
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(votes));
+}
+function applyVotes() {
+  const votes = loadVotes();
+  document.querySelectorAll('.article-card[data-id]').forEach(card => {
+    const id = card.dataset.id;
+    const entry = votes[id];
+    card.classList.remove('voted-up', 'voted-down');
+    card.querySelector('.vote-up')?.classList.remove('active-up');
+    card.querySelector('.vote-down')?.classList.remove('active-down');
+    const lbl = card.querySelector('.vote-label');
+    if (entry?.vote === 'up') { card.classList.add('voted-up'); card.querySelector('.vote-up')?.classList.add('active-up'); if (lbl) lbl.textContent = 'Mehr davon'; }
+    else if (entry?.vote === 'down') { card.classList.add('voted-down'); card.querySelector('.vote-down')?.classList.add('active-down'); if (lbl) lbl.textContent = 'Weniger davon'; }
+    else { if (lbl) lbl.textContent = ''; }
+  });
+}
+document.addEventListener('click', e => {
+  const btn = e.target.closest('.vote-btn');
+  if (!btn) return;
+  const card = btn.closest('.article-card[data-id]');
+  if (!card) return;
+  saveVote(card.dataset.id, btn.classList.contains('vote-up') ? 'up' : 'down');
+  applyVotes();
+});
+applyVotes();
+</script>
+</body>
+</html>
