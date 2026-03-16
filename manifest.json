@@ -1,0 +1,87 @@
+{
+  "updated": "Mo, 16. März 2026 – 14:05 Uhr",
+  "days": [
+    {
+      "date": "2026-03-16",
+      "editions": {
+        "morning": {
+          "time": "14:05",
+          "articles": [
+            {
+              "id": "2026-03-16-hormuz-krieg",
+              "category": "international",
+              "icon": "🌍",
+              "title": "Tag 17: USA und Israel im Krieg mit Iran – Hormuz-Strasse gesperrt",
+              "source": "The Guardian / Reuters",
+              "time": "Heute",
+              "kurz": "Seit dem 28. Februar führen USA und Israel Krieg gegen Iran. Die Strasse von Hormuz ist für westliche Schiffe gesperrt – 20% der weltweiten Ölversorgung blockiert, Ölpreise steigen stark.",
+              "file": "articles/2026-03-16-hormuz-krieg.md"
+            },
+            {
+              "id": "2026-03-16-bilaterale-iii",
+              "category": "politik",
+              "icon": "🏛️",
+              "title": "Bundesrat verabschiedet Botschaft zu Bilateralen III ans Parlament",
+              "source": "EDA / Bundesrat",
+              "time": "13.03.2026",
+              "kurz": "Der Bundesrat hat die Botschaft zum EU-Paket Bilaterale III ans Parlament übergeben und schlägt ein fakultatives Staatsvertragsreferendum vor – das Volk entscheidet nur bei 50'000 Unterschriften.",
+              "file": "articles/2026-03-16-bilaterale-iii.md"
+            },
+            {
+              "id": "2026-03-16-us-militaerfluege",
+              "category": "politik",
+              "icon": "🏛️",
+              "title": "US-Militärflüge über Schweiz: Bundesrat genehmigt 3 von 5 Gesuchen",
+              "source": "Weltwoche",
+              "time": "15.03.2026",
+              "kurz": "Der Bundesrat hat drei von fünf US-Militärfluggesuchen über Schweizer Territorium bewilligt – eine Entscheidung mit erheblicher Brisanz für die Schweizer Neutralität.",
+              "file": "articles/2026-03-16-us-militaerfluege.md"
+            },
+            {
+              "id": "2026-03-16-bern-regierungsrat",
+              "category": "regional",
+              "icon": "🏘️",
+              "title": "Bern Regierungsratswahlen 2026: Geht das bürgerliche Powerplay auf?",
+              "source": "SRF",
+              "time": "Letzte Woche",
+              "kurz": "Drei von sieben Berner Regierungsräten treten ab – Bürgerliche hoffen auf zusätzlichen Sitz, aktuelle Umfragen sprechen jedoch dagegen. Wahlsonntag: 29. März.",
+              "file": "articles/2026-03-16-bern-regierungsrat.md"
+            },
+            {
+              "id": "2026-03-16-kita-gesetz",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "title": "Schweiz erhält erstmals ein nationales Kitagesetz – Eltern entlastet, Betreuerinnen vergessen",
+              "source": "Die Zeit",
+              "time": "Heute",
+              "kurz": "Die Schweiz bekommt erstmals ein einheitliches nationales Kitagesetz. Eltern werden finanziell entlastet – doch das schlecht bezahlte Betreuungspersonal wurde erneut ignoriert.",
+              "file": "articles/2026-03-16-kita-gesetz.md"
+            },
+            {
+              "id": "2026-03-16-tesla-aktie",
+              "category": "wirtschaft",
+              "icon": "💼",
+              "title": "Tesla-Aktie bei 391 Dollar – Analysten uneinig, chinesische Konkurrenz drückt",
+              "source": "Marktanalyse",
+              "time": "Heute",
+              "kurz": "Tesla notiert bei 391 Dollar (1,47 Bio. USD Marktkapitalisierung). Extreme Bewertung trifft auf chinesische Konkurrenz und Iran-bedingte Marktturbulenzen – Analysten gespalten.",
+              "file": "articles/2026-03-16-tesla-aktie.md"
+            },
+            {
+              "id": "2026-03-16-eauto-schweiz",
+              "category": "tech",
+              "icon": "⚡",
+              "title": "E-Autos schwächeln in der Schweiz – Skoda führt, BYD und Leapmotor holen auf",
+              "source": "Watson",
+              "time": "Diese Woche",
+              "kurz": "Im Februar 2026 gingen die Gesamtverkäufe von E-Autos in der Schweiz zurück. Skoda Enyaq führt die Liste an, chinesische Marken BYD und Leapmotor holen rasant auf – Tesla verliert.",
+              "file": "articles/2026-03-16-eauto-schweiz.md"
+            }
+          ]
+        },
+        "midday": null,
+        "evening": null
+      }
+    }
+  ]
+}
