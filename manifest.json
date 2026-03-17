@@ -1,5 +1,5 @@
 {
-  "updated": "07:53 UTC",
+  "updated": "10:45 UTC",
   "days": [
     {
       "date": "2026-03-17",
@@ -340,6 +340,203 @@
               ],
               "file": "2026-03-17/trump-nato-europa-druck.md",
               "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&h=450&fit=crop"
+            }
+          ]
+        },
+        "midday": {
+          "label": "Mittagsausgabe",
+          "articles": [
+            {
+              "id": "2026-03-17-israel-toetet-larijani",
+              "title": "Israel meldet Tötung von Irans Sicherheitsratschef Ali Larijani",
+              "date": "2026-03-17",
+              "time": "12:30",
+              "category": "international",
+              "icon": "💥",
+              "edition": "midday",
+              "kurz": "Israel behauptet, den Sekretär des Obersten Nationalen Sicherheitsrats des Iran, Ali Larijani, bei nächtlichen Luftangriffen auf Teheran getötet zu haben. Er wäre der ranghöchste iranische Funktionär seit dem Tod des Obersten Führers.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog-march-17-2026/"
+                },
+                {
+                  "name": "Military.com",
+                  "url": "https://www.military.com/daily-news/2026/03/17/israel-says-ali-larijani-top-iranian-security-official-killed-israel-strike.html"
+                }
+              ],
+              "file": "2026-03-17/israel-toetet-larijani.md",
+              "image": "https://images.unsplash.com/photo-1580752300992-559f8e0734e0?w=800&h=450&fit=crop"
+            },
+            {
+              "id": "2026-03-17-manor-schliesst-warenhaeuser",
+              "title": "Manor schliesst drei Warenhäuser — Detailhandel unter Druck",
+              "date": "2026-03-17",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🏬",
+              "edition": "midday",
+              "kurz": "Die Warenhauskette Manor schliesst ihre Standorte in Delémont, Wohlen und Sargans. Der Strukturwandel im Schweizer Detailhandel beschleunigt sich.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch"
+                }
+              ],
+              "file": "2026-03-17/manor-schliesst-warenhaeuser.md",
+              "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=450&fit=crop"
+            },
+            {
+              "id": "2026-03-17-dengue-tigermuecke-basel",
+              "title": "Erstmals Dengue-Virus in Basler Tigermücke nachgewiesen",
+              "date": "2026-03-17",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🦟",
+              "edition": "midday",
+              "kurz": "Das Kantonale Laboratorium Basel-Stadt hat erstmals das Dengue-Virus bei einer in Basel gefangenen Tigermücke nachgewiesen. Experten sprechen von einem Wendepunkt für die Gesundheitsvorsorge.",
+              "sources": [
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/basel/869227868-erstmals-dengue-virus-bei-tigermueckenprobe-in-basel-nachgewiesen"
+                },
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/uebertragbare-krankheiten-basel-stadt-ruestet-sich-gegen-die-tigermuecken"
+                },
+                {
+                  "name": "Kanton Basel-Stadt",
+                  "url": "https://www.bs.ch/gd/md/gesundheitsschutz/uebertragbarekrankheiten/dengue-chikungunya-und-zika"
+                }
+              ],
+              "file": "2026-03-17/dengue-tigermuecke-basel.md",
+              "image": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&h=450&fit=crop"
+            },
+            {
+              "id": "2026-03-17-snb-devisen-52-milliarden",
+              "title": "Nationalbank kauft Devisen für 5.2 Milliarden Franken",
+              "date": "2026-03-17",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "midday",
+              "kurz": "Die SNB hat 2025 Fremdwährungen im Umfang von 5.2 Milliarden Franken gekauft — das grösste Volumen seit Trumps Liberation Day. Der Iran-Krieg verstärkt den Aufwertungsdruck auf den Franken.",
+              "sources": [
+                {
+                  "name": "Finanz und Wirtschaft",
+                  "url": "https://www.fuw.ch/snb-kaufte-2025-devisen-fuer-5-2-milliarden-franken-755374923661"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/banken/573024638-snb-hat-2025-devisen-im-umfang-von-5-2-milliarden-franken-gekauft"
+                }
+              ],
+              "file": "2026-03-17/snb-devisen-52-milliarden.md",
+              "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=450&fit=crop"
+            },
+            {
+              "id": "2026-03-17-zehn-millionen-initiative-umfrage",
+              "title": "10-Millionen-Initiative: Kopf-an-Kopf-Rennen drei Monate vor der Abstimmung",
+              "date": "2026-03-17",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "midday",
+              "kurz": "Drei Monate vor der Abstimmung liefern sich Befürworter und Gegner der SVP-Zuwanderungsinitiative ein Kopf-an-Kopf-Rennen: 45 Prozent dafür, 47 Prozent dagegen.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/umfrage-keine-10-millionen-schweiz-abstimmungskrimi-bahnt-sich-an-103527572"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/109874868-10-millionen-initiative-der-svp-umfrage-deutet-knappes-rennen-an"
+                }
+              ],
+              "file": "2026-03-17/zehn-millionen-initiative-umfrage.md",
+              "image": "https://images.unsplash.com/photo-1494172961521-33799ddd43a5?w=800&h=450&fit=crop"
+            },
+            {
+              "id": "2026-03-17-selenski-london-ruestung",
+              "title": "Selenski in London: Neue Rüstungskooperation mit Grossbritannien",
+              "date": "2026-03-17",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "midday",
+              "kurz": "Der ukrainische Präsident Selenski trifft Premierminister Starmer in London. Im Fokus: Rüstungslieferungen, Sicherheitsgarantien und die Sorge, dass der Iran-Krieg Putin in die Hände spielt.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/politics/2026/mar/16/iran-war-cannot-be-windfall-for-putin-says-starmer-as-zelenskyy-arrives-in-uk"
+                },
+                {
+                  "name": "Präsidialamt Ukraine",
+                  "url": "https://www.president.gov.ua/en/news/u-londoni-volodimir-zelenskij-i-kir-starmer-obgovorili-ochik-99569"
+                }
+              ],
+              "file": "2026-03-17/selenski-london-ruestung.md",
+              "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&h=450&fit=crop"
+            },
+            {
+              "id": "2026-03-17-schifffahrt-profitiert-iran-krieg",
+              "title": "Schifffahrt und Ölbranche: Die Gewinner des Iran-Kriegs",
+              "date": "2026-03-17",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🚢",
+              "edition": "midday",
+              "kurz": "Während die Weltwirtschaft unter dem Iran-Krieg leidet, machen Reedereien und Ölhändler Rekordgewinne. Tankercharterraten haben sich auf über 400'000 Dollar pro Tag verdoppelt.",
+              "sources": [
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/03/03/middle-east-crisis-iran-us-shipping-oil-tankers-strait-of-hormuz.html"
+                },
+                {
+                  "name": "Wikipedia – Hormuz Crisis",
+                  "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+                },
+                {
+                  "name": "NYT",
+                  "url": "https://www.nytimes.com/2026/03/17/business/iran-war-boats-russian-oil.html"
+                }
+              ],
+              "file": "2026-03-17/schifffahrt-profitiert-iran-krieg.md",
+              "image": "https://images.unsplash.com/photo-1524522173746-f628baad3644?w=800&h=450&fit=crop"
+            },
+            {
+              "id": "2026-03-17-grok-deepfake-klage-teenager",
+              "title": "Teenager verklagen Elon Musks xAI wegen Deepfake-Nacktbildern",
+              "date": "2026-03-17",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Drei minderjährige Klägerinnen aus Tennessee haben eine Sammelklage gegen xAI eingereicht. Der Chatbot Grok soll sexualisierte Deepfake-Bilder von ihnen erstellt und verbreitet haben.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/technology/2026/mar/16/lawsuit-elon-musk-ai-grok-child-sexual-abuse"
+                },
+                {
+                  "name": "Washington Post",
+                  "url": "https://www.washingtonpost.com/technology/2026/03/16/teens-sue-musk-xai-grok/"
+                },
+                {
+                  "name": "SiliconANGLE",
+                  "url": "https://siliconangle.com/2026/03/16/teens-launch-lawsuit-xai-grok-deepfakes/"
+                }
+              ],
+              "file": "2026-03-17/grok-deepfake-klage-teenager.md",
+              "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=450&fit=crop"
             }
           ]
         }
