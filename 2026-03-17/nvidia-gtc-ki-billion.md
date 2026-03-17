@@ -35,7 +35,3 @@ Huang zeichnete ein Bild von einer neuen Generation von Technologieunternehmen, 
 ## Einordnung
 
 Nvidias GTC 2026 markiert eine strategische Neuausrichtung: weg vom reinen Chip-Lieferanten hin zum Plattformanbieter für autonome KI. Die Verdoppelung der eigenen Prognose auf eine Billion Dollar ist ein mutiges Signal an den Kapitalmarkt – und ein Fingerzeig, dass der Wettbewerb um die Inferenz-Infrastruktur gerade erst beginnt. Für Unternehmen aller Branchen bedeutet das: Die Frage ist nicht mehr ob KI-Agenten kommen, sondern wann und auf welcher Plattform.
-
----
-**Quellen:**
-- NZZ, 17.03.2026: [Ultraschnelle neue Chips, mehr Roboter und KI-Agenten: Nvidia feiert das neue Zeitalter der Inferenz](https://www.nzz.ch/technologie/ultraschnelle-neue-chips-mehr-roboter-und-ki-agenten-nvidia-feiert-das-neue-zeitalter-der-inferenz-ld.1929584)
