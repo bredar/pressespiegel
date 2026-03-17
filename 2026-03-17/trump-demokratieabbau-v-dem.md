@@ -29,8 +29,3 @@ Kritiker sprechen von gezielter Wahlunterdrückung: Rund 140 Millionen Amerikane
 ## Einordnung
 
 Die V-Dem-Einstufung ist kein politisches Urteil, sondern das Ergebnis einer wissenschaftlichen Messung von über 600 Demokratieindikatoren. Dass die USA unter die Schwelle der liberalen Demokratie gefallen sind, ist ein historischer Einschnitt. Die entscheidende Frage ist, ob die Midterms 2026 noch frei und fair ablaufen können – Erfahrungen aus anderen Ländern zeigen, dass frühe Wahlen im Autokratisierungsprozess die wirksamste Gegenkraft sind, wenn sie noch kompetitiv sind.
-
----
-**Quellen:**
-- SRF News, 17.03.2026: [Trump baut die Demokratie in den USA beispiellos schnell ab](https://www.srf.ch/news/international/demokratie-studie-trump-baut-die-demokratie-in-den-usa-beispiellos-schnell-ab)
-- V-Dem Institut, Universität Göteborg: [https://v-dem.net/](https://v-dem.net/)
