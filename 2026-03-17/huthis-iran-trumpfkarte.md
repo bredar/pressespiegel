@@ -29,7 +29,3 @@ Was ein Huthi-Eingreifen konkret bedeuten würde: Angriffe auf israelische Häfe
 ## Einordnung
 
 Die Zurückhaltung der Huthis ist strategisch nachvollziehbar und sollte nicht als Zeichen dauerhafter Passivität missverstanden werden. Sie sind Irans Reserve – und Reserven werden dann eingesetzt, wenn es darauf ankommt. Die entscheidende Frage ist, welches Ereignis den Auslöser bildet: eine dramatische Wende im Iran-Krieg, ein israelischer Angriff auf ein besonders symbolträchtiges Ziel, oder ein Signal aus Teheran, dass es Zeit ist. Europa und die Weltwirtschaft sollten dieses Szenario als reale Option im Kalkül behalten.
-
----
-**Quellen:**
-- Der Spiegel: [Warum die Huthis noch nicht in den Krieg eingegriffen haben](https://www.spiegel.de/ausland/stellvertretermilizen-warum-die-huthis-noch-nicht-in-den-krieg-eingegriffen-haben-a-f3f55126-1638-402b-8b32-e0bc06a5f031)
