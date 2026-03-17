@@ -33,10 +33,3 @@ Möglich bleibt eine Koalition der Willigen ausserhalb der NATO. Grossbritannien
 ## Einordnung
 
 Das transatlantische Verhältnis befindet sich in einer ernsten Krise. Trump instrumentalisiert die Hormuz-Frage, um Europa vorzuführen – obwohl er die Verbündeten vor Kriegsbeginn nicht konsultiert hat. Merz wiederum vollzog eine auffällige Kehrtwende: Er hatte den Krieg anfangs begrüsst und nun den schärfsten Kurs nach aussen eingeschlagen. Ob diese Geschlossenheit der Europäer – ähnlich wie beim Grönland-Streit – Trump zum Einlenken bewegt, bleibt abzuwarten. Das Risiko: Je länger Hormuz blockiert bleibt, desto grösser der wirtschaftliche Druck auf Europa selbst.
-
----
-**Quellen:**
-- NZZ Meinung: [Trump versucht die Europäer zu demütigen – Merz entlarvt sich als Heuchler](https://www.nzz.ch/meinung/zwei-lausige-partner-trump-versucht-die-europaeer-zu-demuetigen-merz-entlarvt-sich-als-heuchler-ld.1929465)
-- NZZ: [Europäer wehren sich gegen Hormuz-Einsatz](https://www.nzz.ch/international/europaeer-wehren-sich-gegen-einen-einsatz-in-der-strasse-von-hormuz-obwohl-trump-mit-sehr-schlechter-zukunft-droht-ld.1929422)
-- NZZ: [Merz will Europa aus dem Iran-Kampf heraushalten](https://www.nzz.ch/international/dieser-krieg-ist-nicht-angelegenheit-der-nato-friedrich-merz-will-europa-aus-dem-kampf-gegen-iran-heraushalten-ld.1929556)
-- Der Spiegel: [So setzt Trump die Nato-Verbündeten unter Druck](https://www.spiegel.de/politik/deutschland/news-donald-trump-libanon-russlands-wegwerf-agenten-a-20d9b9fc-c551-495b-b80d-a622c28f481d)
