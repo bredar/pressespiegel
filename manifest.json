@@ -1,5 +1,5 @@
 {
-  "updated": "10:45 UTC",
+  "updated": "17:08 UTC",
   "days": [
     {
       "date": "2026-03-17",
@@ -537,6 +537,187 @@
               ],
               "file": "2026-03-17/grok-deepfake-klage-teenager.md",
               "image": "https://i.guim.co.uk/img/media/9d1aeba56b7fd7e3ece52ae38e496eef75a46756/1729_590_4264_3410/master/4264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f1c8ac486c72e80858a5d39e378ef049"
+            }
+          ]
+        },
+        "evening": {
+          "label": "Abendausgabe",
+          "articles": [
+            {
+              "id": "2026-03-17-joe-kent-ruecktritt-iran",
+              "title": "Trumps Gegenterror-Chef tritt zurück: 'Iran war keine unmittelbare Bedrohung",
+              "date": "2026-03-17",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🚨",
+              "edition": "evening",
+              "kurz": "Joe Kent, Direktor des Nationalen Antiterrorzentrums, tritt als erster hochrangiger Trump-Beamter wegen des Iran-Kriegs zurück. Er sagt, Iran habe 'keine unmittelbare Bedrohung' dargestellt.",
+              "sources": [
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html"
+                },
+                {
+                  "name": "Axios",
+                  "url": "https://www.axios.com/2026/03/17/joe-kent-resigns-trump-iran-israel-threat"
+                },
+                {
+                  "name": "AP News",
+                  "url": "https://apnews.com/article/trump-iran-war-kent-resignation-e2e17a76d79617a68370f076c0291208"
+                }
+              ],
+              "file": "2026-03-17/joe-kent-ruecktritt-iran.md",
+              "image": "https://image.cnbcfm.com/api/v1/image/108278902-1773755381192-gettyimages-2250672964-house_homeland_561_121125.jpeg?v=1773755402&amp;w=1920&amp;h=1080"
+            },
+            {
+              "id": "2026-03-17-mekong-beizli-bern-schliesst",
+              "title": "Mekong-Beizli am Kornhausplatz schliesst nach 26 Jahren",
+              "date": "2026-03-17",
+              "time": "18:00",
+              "category": "regional",
+              "icon": "🍜",
+              "edition": "evening",
+              "kurz": "Das legendäre vietnamesische Restaurant am Berner Kornhausplatz schliesst Ende März nach 26 Jahren. Die Familie Huynh zieht sich aus der Gastronomie zurück.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/mekong-beizli-bern-schliesst-nach-26-jahren-508511744952"
+                }
+              ],
+              "file": "2026-03-17/mekong-beizli-bern-schliesst.md",
+              "image": "https://cdn.unitycms.io/images/BOwVZml_qAd97huhM8Effa.jpg"
+            },
+            {
+              "id": "2026-03-17-bundesgericht-schwimmunterricht",
+              "title": "Bundesgericht: Religiöse Eltern können Sohn nicht vom Schwimmunterricht dispensieren",
+              "date": "2026-03-17",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "kurz": "Das Bundesgericht weist die Beschwerde einer Familie der Palmarianisch-Katholischen Kirche ab. Ihr Sohn muss am Schwimmunterricht teilnehmen — Schulpflicht geht vor Religionsfreiheit.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/bundesgerichtsurteil-bub-von-christlicher-glaubensgruppe-muss-in-den-schwimmunterricht"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/todsuende-schwimmunterricht-das-bundesgericht-erteilt-mitgliedern-einer-radikalen-katholischen-sekte-eine-abfuhr-ld.1929502"
+                }
+              ],
+              "file": "2026-03-17/bundesgericht-schwimmunterricht.md",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/322716.jpg"
+            },
+            {
+              "id": "2026-03-17-parlament-sparpaket-geschrumpft",
+              "title": "Parlament schrumpft Keller-Sutters Sparpaket auf 60 Prozent",
+              "date": "2026-03-17",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "📋",
+              "edition": "evening",
+              "kurz": "National- und Ständerat haben das Entlastungspaket des Bundesrats bereinigt — und dabei 40 Prozent der geplanten Einsparungen gestrichen. Von Keller-Sutters Sparzielen bleibt ein 'Päckli'.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/40-prozent-kleiner-parlament-schrumpft-keller-sutters-sparpaket-zum-paeckli-103528169"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/das-finanzpaket-steht-wo-wird-der-bund-nun-sparen-und-wo-nicht-ld.1928731"
+                }
+              ],
+              "file": "2026-03-17/parlament-sparpaket-geschrumpft.md",
+              "image": "https://image.20min.ch/2026/03/17/7e0d2de4-85b3-4c6e-bed3-6804d03b5df8.jpg"
+            },
+            {
+              "id": "2026-03-17-bern-belp-suedanflug",
+              "title": "Flughafen Bern-Belp: Südanflug startet nach jahrelangem Rechtsstreit",
+              "date": "2026-03-17",
+              "time": "18:00",
+              "category": "regional",
+              "icon": "✈️",
+              "edition": "evening",
+              "kurz": "Am Donnerstag startet der satellitengestützte Südanflug auf den Flughafen Bern-Belp. Das Verfahren verteilt den Fluglärm in der Region neu — nach jahrelanger Planung und Rechtsstreit.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/flughafen-bern-belp-suedanflug-startet-am-19-maerz-833333069551"
+                },
+                {
+                  "name": "TeleBärn",
+                  "url": "https://www.telebaern.tv/"
+                }
+              ],
+              "file": "2026-03-17/bern-belp-suedanflug.md",
+              "image": "https://cdn.unitycms.io/images/Eq6QfawR4MYAzv8UVAiK2Y.jpg"
+            },
+            {
+              "id": "2026-03-17-bern-wasserrohrbruch-thormannstrasse",
+              "title": "Wasserrohrbruch flutet Thormannstrasse beim Tierpark Dählhölzli",
+              "date": "2026-03-17",
+              "time": "18:00",
+              "category": "regional",
+              "icon": "💧",
+              "edition": "evening",
+              "kurz": "Ein Wasserrohrbruch hat die Thormannstrasse beim Tierpark Dählhölzli überschwemmt. Die Strasse bleibt tagelang gesperrt.",
+              "sources": [
+                {
+                  "name": "TeleBärn",
+                  "url": "https://www.telebaern.tv/news/wasserrohrbruch-flutet-thormannstrasse-nahe-tierpark-daehlhoelzli-163714763"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch"
+                }
+              ],
+              "file": "2026-03-17/bern-wasserrohrbruch-thormannstrasse.md",
+              "image": "https://images.unsplash.com/photo-1504309092620-4d0ec726efa4?w=800&h=450&fit=crop"
+            },
+            {
+              "id": "2026-03-17-weidel-russisches-oel-iran",
+              "title": "Weidel fordert Rückkehr zu russischem Öl — und kritisiert USA für Iran-Krieg",
+              "date": "2026-03-17",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🇩🇪",
+              "edition": "evening",
+              "kurz": "AfD-Chefin Alice Weidel kritisiert die US-Politik im Iran-Krieg scharf und fordert, Deutschland solle wieder russisches Öl kaufen. Die Forderung löst eine Kontroverse aus.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article69b9711f56ad962f523d399a/energiekrise-weidel-kritisiert-usa-fuer-iran-krieg-und-fordert-rueckkehr-zu-russischem-oel.html"
+                }
+              ],
+              "file": "2026-03-17/weidel-russisches-oel-iran.md",
+              "image": "https://images.welt.de/69b9711f56ad962f523d399a/864adc84aa1cdac294c9b03be00f0353-master/ci16x9-w1200/dpa-com-20090101-260317-911-017874-jpg"
+            },
+            {
+              "id": "2026-03-17-sparkassen-neobroker-s-neo",
+              "title": "Sparkassen lancieren Neobroker S-Neo — Kampfansage an Trade Republic",
+              "date": "2026-03-17",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "📱",
+              "edition": "evening",
+              "kurz": "Die deutschen Sparkassen starten mit S-Neo einen eigenen Neobroker in der Sparkassen-App. Ab April können Kunden ETFs direkt handeln — ein Angriff auf Trade Republic und Scalable.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com"
+                },
+                {
+                  "name": "Focus",
+                  "url": "https://www.focus.de/digital/internet/sparkassen-starten-neobroker-s-neo-konkurrenz-fuer-trade-republic_83fb6eb4-93e7-45f5-8952-f4c28ff07423.html"
+                },
+                {
+                  "name": "neuebanken.de",
+                  "url": "https://www.neuebanken.de/sparkassen-s-neo-neobroker/"
+                }
+              ],
+              "file": "2026-03-17/sparkassen-neobroker-s-neo.md",
+              "image": "https://images.unsplash.com/photo-1563986768609-322da13575f2?w=800&h=450&fit=crop"
             }
           ]
         }
