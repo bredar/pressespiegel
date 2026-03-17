@@ -202,7 +202,7 @@ function rD(date){
 
 function mC(a,d){
   const src=Array.isArray(a.sources)?a.sources.map(s=>s.name||s).join(' · '):(a.source||'');
-  const iu=a.image?`${R}/${d}/${a.image}`:'';
+  const iu=a.image?(a.image.startsWith('http')?a.image:`${R}/${d}/${a.image}`):'';
   const img=iu?`<img class="card-img" src="${iu}" loading="lazy" onerror="this.style.display='none'">`:'';
   const sid=a.id.replace(/[^a-z0-9-]/gi,'_');
   return`<div class="card" data-id="${a.id}" data-cat="${a.category}" onclick="oA('${a.id}','${d}')">
@@ -261,7 +261,8 @@ async function oA(id,d){
   const html=marked.parse(p.body);
   const gegH=geg?`<div class="pgeg"><div class="pgeg-l">Gegenperspektive</div><p>${geg.replace(/\\n/g,'<br>')}</p></div>`:'';
   const sftr=srcs.length?`<div class="pftr"><div class="pftr-l">Quellen</div><ul>${srcs.map(s=>`<li>${s.url?`<a href="${s.url}" target="_blank">${s.name||s}</a>`:s.name||s}</li>`).join('')}</ul></div>`:'';
-  sc.innerHTML=`${hero?`<img class="phero" src="${R}/${d}/${hero}" onerror="this.style.display='none'">`:''}
+  const heroUrl=hero?(hero.startsWith('http')?hero:`${R}/${d}/${hero}`):'';
+  sc.innerHTML=`${heroUrl?`<img class="phero" src="${heroUrl}" onerror="this.style.display='none'">`:''}
     <div class="pcont"><div class="pt">${fm.title||meta?.title||''}</div>
     <div class="psrc">${chips}<span class="ptm">${fm.date?fD(fm.date):''}${fm.time?' · '+fm.time:''}</span></div>
     ${sum?`<div class="psum">${sum.replace(/\\n/g,'<br><br>')}</div>`:''}${gegH}
@@ -297,6 +298,7 @@ init()
 </script>
 </body>
 </html>
+
 
 
 
