@@ -35,7 +35,3 @@ Unabhängig davon, wie das Parlament entscheidet: Jede Änderung der Mehrwertste
 ## Einordnung
 
 Die Debatte offenbart ein grundlegendes Finanzierungsdilemma: Die Schweiz hat in den letzten Jahren Leistungsversprechen gemacht (13. AHV-Rente) und Sicherheitsziele gesetzt (Armeeaufrüstung), ohne die Finanzierungsfrage zu lösen. Die Mehrwertsteuer ist das Instrument des geringsten politischen Widerstands – aber auch sie wird am Ende das Stimmvolk passieren müssen. Der eigentliche Entscheid ist auf 2025–2026 vertagt worden und fällt nun.
-
----
-**Quellen:**
-- SRF News, 17.03.2026: [Für Armee und AHV – Das kostet die höhere Mehrwertsteuer die Haushalte](https://www.srf.ch/news/schweiz/fuer-armee-und-ahv-das-kostet-die-hoehere-mehrwertsteuer-die-haushalte)
