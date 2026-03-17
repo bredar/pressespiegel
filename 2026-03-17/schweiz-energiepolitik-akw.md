@@ -37,8 +37,3 @@ Der Beschluss des Ständerats ist noch kein fertiges Gesetz. Der Nationalrat mus
 ## Einordnung
 
 Der Ständeratsbeschluss ist primär ein politisches Signal: Die Schweizer Mitte-Rechts-Mehrheit will alle Optionen zur Energieversorgung offenhalten. Ob daraus jemals ein konkretes AKW-Projekt wird, ist eine andere Frage. Der eigentliche Entscheid liegt beim Stimmvolk – und dort ist die Ausgangslage angesichts der historischen Stimmung gegen Kernkraft alles andere als gewiss.
-
----
-**Quellen:**
-- SRF News, 11.03.2026: [Ständerat will Bau von AKW grundsätzlich wieder erlauben](https://www.srf.ch/news/schweiz/blackout-initiative-staenderat-will-bau-von-akw-grundsaetzlich-wieder-erlauben)
-- Swissinfo.ch: [Kehrtwende bei der Schweizer Energiepolitik](https://www.swissinfo.ch/ger/klimaanpassung/kehrtwende-bei-der-schweizer-energiepolitik/91092349)
