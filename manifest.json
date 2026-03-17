@@ -1,563 +1,334 @@
 {
-  "updated": "Mo, 16. März 2026 – 19:00 Uhr",
+  "updated": "07:53 UTC",
   "days": [
     {
-      "date": "2026-03-16",
+      "date": "2026-03-17",
       "editions": {
         "morning": {
-          "time": "14:15",
+          "label": "Morgenausgabe",
           "articles": [
             {
-              "id": "2026-03-16-hormuz-krieg",
-              "category": "international",
-              "icon": "🌍",
-              "title": "Tag 17: USA & Israel im Krieg mit Iran – Hormuz-Strasse gesperrt",
+              "id": "2026-03-17-deutsche-investoren-usa-europa",
+              "title": "Deutsche Grossinvestoren flüchten aus US-Märkten nach Europa",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "📊",
+              "edition": "morning",
+              "kurz": "Grosse deutsche Versicherer und institutionelle Investoren schichten ihre Portfolios massiv um: Raus aus US-Aktien, rein in europäische Märkte. Treiber sind politische Unsicherheit und hohe US-Bewertungen.",
               "sources": [
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/13/what-is-strait-hormuz-can-us-stop-iran-blocking-it"
+                  "name": "Der Aktionär – Allianz setzt auf Europa",
+                  "url": "https://www.deraktionaer.de/artikel/aktien/europa-asien-selektion-darauf-setzt-die-allianz-2026-20392604.html"
+                },
+                {
+                  "name": "20 Minuten – Kapitalabfluss aus den USA",
+                  "url": "https://www.20min.ch/story/langfristiger-trend-geldabzug-aus-den-usa-europa-wird-fuer-anleger-attraktiver-103512378"
+                },
+                {
+                  "name": "Frankfurter Rundschau – Trump-Effekt",
+                  "url": "https://www.fr.de/wirtschaft/usa-der-trump-effekt-deutscher-mittelstand-meidet-die-94164470.html"
+                }
+              ],
+              "file": "2026-03-17/deutsche-investoren-usa-europa.md"
+            },
+            {
+              "id": "2026-03-17-huthis-iran-trumpfkarte",
+              "title": "Huthis: Irans Trumpfkarte – wann greifen sie ein?",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "morning",
+              "kurz": "Die Huthis im Jemen bleiben trotz des Iran-Krieges bisher passiv. Analysten fragen: Warten sie auf den richtigen Moment – oder haben sie eigene Gründe zum Zögern?",
+              "sources": [
+                {
+                  "name": "Der Spiegel – Warum die Huthis noch nicht in den Krieg eingegriffen haben",
+                  "url": "https://www.spiegel.de/ausland/stellvertretermilizen-warum-die-huthis-noch-nicht-in-den-krieg-eingegriffen-haben-a-f3f55126-1638-402b-8b32-e0bc06a5f031"
+                }
+              ],
+              "file": "2026-03-17/huthis-iran-trumpfkarte.md"
+            },
+            {
+              "id": "2026-03-17-iran-krieg-hormuz-blockade",
+              "title": "Iran-Krieg: Blockade der Strasse von Hormuz und globale Auswirkungen",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "morning",
+              "kurz": "Iran blockiert mit Minen, Drohnen und Raketen 20% des weltweiten Ölhandels. Die US-Botschaft in Bagdad wurde per Drohne angegriffen, Asien rationiert Treibstoff.",
+              "sources": [
+                {
+                  "name": "NZZ – Wie Iran die Blockade der Strasse von Hormuz durchsetzt",
+                  "url": "https://www.nzz.ch/international/minen-raketen-drohnen-und-schnellboote-wie-iran-die-blockade-der-strasse-von-hormuz-durchsetzt-ld.1929499"
+                },
+                {
+                  "name": "The Guardian – Iran War Live Updates",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest"
+                },
+                {
+                  "name": "BBC – US embassy in Iraq hit by drone strike",
+                  "url": "https://www.bbc.com/news/live/cx2lr40g17kt"
+                },
+                {
+                  "name": "SRF – Wann der NATO-Bündnisfall greift",
+                  "url": "https://www.srf.ch/news/international/trumps-ruf-nach-nato-hilfe-wann-der-nato-buendnisfall-greift"
+                }
+              ],
+              "file": "2026-03-17/iran-krieg-hormuz-blockade.md"
+            },
+            {
+              "id": "2026-03-17-iran-krieg-wirtschaft-oel-fed",
+              "title": "Ölpreis und Inflation: Wie der Iran-Krieg Amerikas Wirtschaft belastet",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "morning",
+              "kurz": "Der Iran-Krieg treibt den Ölpreis und damit die US-Inflation in die Höhe. Das Fed steckt in der Klemme: Zinssenkungen riskieren weitere Teuerung, Stabilität bremst die Wirtschaft.",
+              "sources": [
+                {
+                  "name": "NZZ – US-Wirtschaft im Iran-Krieg",
+                  "url": "https://www.nzz.ch/wirtschaft/der-iran-krieg-setzt-amerikas-wirtschaft-unter-druck-doch-das-fed-kann-trumps-ruf-nach-tiefen-zinsen-kaum-folgen-ld.1929215"
+                }
+              ],
+              "file": "2026-03-17/iran-krieg-wirtschaft-oel-fed.md"
+            },
+            {
+              "id": "2026-03-17-ki-misinformation-iran-krieg",
+              "title": "KI-Desinformation im Iran-Krieg: Gefälschte Bilder und halluzinierende Chatbots",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "🤔",
+              "edition": "morning",
+              "kurz": "Im Iran-Krieg überschwemmen KI-generierte Falschbilder das Netz – und KI-Assistenten wie Gemini und Grok verschlimmern die Lage durch selbstbewusst vorgetragene Fehlinformationen.",
+              "sources": [
+                {
+                  "name": "The Guardian – A photo of Iran bombed schoolgirl graveyard",
+                  "url": "https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves"
+                }
+              ],
+              "file": "2026-03-17/ki-misinformation-iran-krieg.md"
+            },
+            {
+              "id": "2026-03-17-kuba-stromkollaps-trump",
+              "title": "Kuba im Dunkel: Totalausfall des Stromnetzes – Trump will die Insel 'nehmen",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🕯️",
+              "edition": "morning",
+              "kurz": "Kubas nationales Stromnetz ist vollständig zusammengebrochen. Zehn Millionen Menschen sitzen im Dunkeln. Trump erklärt, er werde die Insel 'nehmen' – und verlangt den Abgang von Präsident Diaz-Canel.",
+              "sources": [
+                {
+                  "name": "The Guardian – Trump predicts US will have honour of taking Cuba",
+                  "url": "https://www.theguardian.com/world/2026/mar/17/donald-trump-can-take-cuba-oil"
+                },
+                {
+                  "name": "BBC – Cuba: Millions without electricity as power grid collapses",
+                  "url": "https://www.bbc.com/news/articles/c07j40dyx53o"
+                },
+                {
+                  "name": "Der Spiegel – Holt Trump sich die verbotene Insel Charg?",
+                  "url": "https://www.spiegel.de/ausland/iran-holt-donald-trump-sich-die-verbotene-insel-charg-a-7d415d66-7b97-4d57-bf94-0402aedc083b"
+                }
+              ],
+              "file": "2026-03-17/kuba-stromkollaps-trump.md"
+            },
+            {
+              "id": "2026-03-17-nvidia-gtc-ki-billion",
+              "title": "Nvidia verdoppelt KI-Prognose: Eine Billion Dollar bis 2027",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "kurz": "An der GTC 2026 stellt Nvidia-CEO Jensen Huang ultraschnelle Chips und KI-Agenten-Plattformen vor – und prognostiziert eine Verdoppelung des KI-Chip-Umsatzes auf eine Billion Dollar.",
+              "sources": [
+                {
+                  "name": "NZZ – Nvidia feiert das neue Zeitalter der Inferenz",
+                  "url": "https://www.nzz.ch/technologie/ultraschnelle-neue-chips-mehr-roboter-und-ki-agenten-nvidia-feiert-das-neue-zeitalter-der-inferenz-ld.1929584"
+                }
+              ],
+              "file": "2026-03-17/nvidia-gtc-ki-billion.md"
+            },
+            {
+              "id": "2026-03-17-pakistan-afghanistan-spital-kabul",
+              "title": "Pakistan greift Krankenhaus in Kabul an – Taliban melden hunderte Tote",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🏥",
+              "edition": "morning",
+              "kurz": "Ein pakistanischer Luftangriff auf ein Sucht-Rehabilitationsspital in Kabul forderte laut Taliban bis zu 400 Tote. Pakistan bestreitet, ein Krankenhaus getroffen zu haben.",
+              "sources": [
+                {
+                  "name": "NZZ – Taliban melden Hunderte Tote durch Pakistan-Angriff in Kabul",
+                  "url": "https://www.nzz.ch/international/taliban-melden-hunderte-tote-bei-einem-angriff-auf-ein-spital-in-kabul-ld.1929603"
+                },
+                {
+                  "name": "The Guardian – Afghanistan accuses Pakistan of deadly strike on Kabul hospital",
+                  "url": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed"
+                },
+                {
+                  "name": "BBC – Dozens killed after rehab hospital struck",
+                  "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o"
+                }
+              ],
+              "file": "2026-03-17/pakistan-afghanistan-spital-kabul.md"
+            },
+            {
+              "id": "2026-03-17-pfas-schweizer-boden",
+              "title": "PFAS-Belastung: Fast jeder Schweizer Boden ist kontaminiert",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🌱",
+              "edition": "morning",
+              "kurz": "In über 99 Prozent aller untersuchten Schweizer Bodenproben wurden PFAS-Chemikalien nachgewiesen – eine flächendeckende Belastung, die nun Handlungsbedarf bei Bund und Kantonen auslöst.",
+              "sources": [
+                {
+                  "name": "SRF News – Experte zu PFAS-Belastung",
+                  "url": "https://www.srf.ch/news/schweiz/experte-zu-pfas-belastung-muessen-davon-ausgehen-dass-jeder-boden-mit-pfas-belastet-ist"
+                }
+              ],
+              "file": "2026-03-17/pfas-schweizer-boden.md"
+            },
+            {
+              "id": "2026-03-17-schweiz-energiepolitik-akw",
+              "title": "Kehrtwende in der Schweizer Energiepolitik: Ständerat lässt neue AKW wieder zu",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "⚡",
+              "edition": "morning",
+              "kurz": "Der Ständerat hat das seit 2017 geltende Neubauverbot für Atomkraftwerke de facto aufgehoben – ein Entscheid, der die Schweizer Energiepolitik grundlegend verändert.",
+              "sources": [
+                {
+                  "name": "SRF News – Ständerat will Bau von AKW grundsätzlich wieder erlauben",
+                  "url": "https://www.srf.ch/news/schweiz/blackout-initiative-staenderat-will-bau-von-akw-grundsaetzlich-wieder-erlauben"
+                },
+                {
+                  "name": "Swissinfo – Kehrtwende bei der Schweizer Energiepolitik",
+                  "url": "https://www.swissinfo.ch/ger/klimaanpassung/kehrtwende-bei-der-schweizer-energiepolitik/91092349"
+                }
+              ],
+              "file": "2026-03-17/schweiz-energiepolitik-akw.md"
+            },
+            {
+              "id": "2026-03-17-schweiz-mehrwertsteuer-ahv-armee",
+              "title": "Mehrwertsteuererhöhung für AHV und Armee: Bis 1400 Franken Mehrkosten pro Haushalt",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "💰",
+              "edition": "morning",
+              "kurz": "Der Bundesrat will die Mehrwertsteuer um 1,5 Prozentpunkte erhöhen, um AHV und Armee zu finanzieren – das kostet je nach Haushalt zwischen 300 und 1400 Franken jährlich.",
+              "sources": [
+                {
+                  "name": "SRF News – Das kostet die höhere Mehrwertsteuer die Haushalte",
+                  "url": "https://www.srf.ch/news/schweiz/fuer-armee-und-ahv-das-kostet-die-hoehere-mehrwertsteuer-die-haushalte"
+                }
+              ],
+              "file": "2026-03-17/schweiz-mehrwertsteuer-ahv-armee.md"
+            },
+            {
+              "id": "2026-03-17-schweizer-neutralitaet-iran-gute-dienste",
+              "title": "Schweizer Neutralität unter Druck: Gute Dienste im Iran-Krieg",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "kurz": "Der Iran-Krieg setzt die Schweizer Neutralitätspolitik unter Druck. Botschafter Bangerter schildert die dramatische Evakuierung aus Teheran – und eine Debatte über die Verfassungsverankerung der Neutralität entflammt neu.",
+              "sources": [
+                {
+                  "name": "SWI Swissinfo – Iran-Krieg und Gute Dienste",
+                  "url": "https://www.swissinfo.ch/ger/aussenpolitik/der-iran-krieg-und-die-guten-dienste-der-schweiz-eine-bilanz/91105120"
+                },
+                {
+                  "name": "NZZ Meinung – Neutralität in der Verfassung",
+                  "url": "https://www.nzz.ch/meinung/eine-festgeschriebene-neutralitaet-allein-bietet-keinen-schutz-des-standortes-schweiz-im-gegenteil-ld.1929460"
+                },
+                {
+                  "name": "SRF News – Botschafter Bangerter",
+                  "url": "https://www.srf.ch/news/international/schweizer-diplomat-erzaehlt-so-erlebte-botschafter-bangerter-die-flucht-aus-dem-iran"
+                }
+              ],
+              "file": "2026-03-17/schweizer-neutralitaet-iran-gute-dienste.md"
+            },
+            {
+              "id": "2026-03-17-sec-quartalszahlen-abschaffen",
+              "title": "US-Börsenaufsicht will Pflicht zu Quartalszahlen kippen",
+              "date": "2026-03-17",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "morning",
+              "kurz": "Die SEC bereitet einen Vorschlag vor, der börsennotierte US-Unternehmen nur noch zu halbjährlichen statt vierteljährlichen Berichten verpflichten würde. Investoren warnen vor weniger Transparenz.",
+              "sources": [
+                {
+                  "name": "PYMNTS – SEC Quarterly Reporting",
+                  "url": "https://www.pymnts.com/news/regulation/2026/sec-prepares-proposal-ending-mandatory-quarterly-reporting/"
                 },
                 {
                   "name": "Reuters",
-                  "url": "https://www.reuters.com"
-                },
-                {
-                  "name": "Wikipedia",
-                  "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+                  "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/"
                 }
               ],
-              "time": "Morgen",
-              "kurz": "20% der Weltölversorgung blockiert. Hormuz-Strasse für westliche Schiffe gesperrt – Tag 17 des US-Israel-Iran-Krieges. Ölpreise steigen stark.",
-              "file": "2026-03-16/hormuz-krieg.md"
+              "file": "2026-03-17/sec-quartalszahlen-abschaffen.md"
             },
             {
-              "id": "2026-03-16-bilaterale-iii",
-              "category": "politik",
-              "icon": "🏛️",
-              "title": "Bundesrat verabschiedet Botschaft zu Bilateralen III ans Parlament",
-              "sources": [
-                {
-                  "name": "EDA / Bundesrat",
-                  "url": "https://www.eda.admin.ch"
-                },
-                {
-                  "name": "Proudmag",
-                  "url": "https://www.proudmag.com/bundesrat-verabschiedet-die-botschaft-zu-den-bilateralen-iii/"
-                }
-              ],
-              "time": "13.03.",
-              "kurz": "Bundesrat übergibt EU-Paket ans Parlament. Fakultatives Referendum – SVP will Unterschriften sammeln.",
-              "file": "2026-03-16/bilaterale-iii.md"
-            },
-            {
-              "id": "2026-03-16-us-militaerfluege",
-              "category": "politik",
-              "icon": "🏛️",
-              "title": "US-Militärflüge über Schweiz: Bundesrat genehmigt 3 von 5 Gesuchen",
-              "sources": [
-                {
-                  "name": "Weltwoche",
-                  "url": "https://weltwoche.ch/daily/us-militaerfluege-ueber-der-schweiz-bundesrat-genehmigt-drei-von-fuenf-gesuchen/"
-                }
-              ],
-              "time": "15.03.",
-              "kurz": "Bundesrat bewilligte 3 von 5 US-Militärfluggesuchen – neutralitätspolitisch heikel angesichts des laufenden Iran-Kriegs.",
-              "file": "2026-03-16/us-militaerfluege.md"
-            },
-            {
-              "id": "2026-03-16-bern-regierungsrat",
-              "category": "regional",
-              "icon": "🏘️",
-              "title": "Bern Regierungsratswahlen 29. März: Bürgerliches Powerplay oder Linksblock?",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/schweiz/regierungsratswahlen-bern-2026-wahlen-kanton-bern-geht-das-buergerliche-powerplay-auf"
-                },
-                {
-                  "name": "votez.ch",
-                  "url": "https://votez.ch/regierungsratswahlen-kanton-bern-fuer-fortgeschrittene/"
-                }
-              ],
-              "time": "Letzte Woche",
-              "kurz": "Drei von sieben Berner Regierungsräten treten ab. Bürgerliche hoffen auf Sitzgewinn, Umfragen dagegen. Wahlsonntag 29. März.",
-              "file": "2026-03-16/bern-regierungsrat.md"
-            },
-            {
-              "id": "2026-03-16-kita-gesetz",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "title": "Schweiz erhält erstmals nationales Kitagesetz – Eltern entlastet, Betreuerinnen vergessen",
-              "sources": [
-                {
-                  "name": "Die Zeit",
-                  "url": "https://www.zeit.de"
-                }
-              ],
-              "time": "Heute früh",
-              "kurz": "Historisch: die Schweiz bekommt ein nationales Kitagesetz. Eltern werden subventioniert – das Betreuungspersonal geht leer aus.",
-              "file": "2026-03-16/kita-gesetz.md"
-            },
-            {
-              "id": "2026-03-16-tesla-aktie",
-              "category": "wirtschaft",
-              "icon": "💼",
-              "title": "Tesla bei 391 Dollar – chinesische Konkurrenz und Hormuz-Krise belasten",
-              "sources": [
-                {
-                  "name": "Ad-hoc-news",
-                  "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/tesla-inc-aktie-isin-us88160r1014-unter-druck-kurs-faellt-auf-391/68693958"
-                }
-              ],
-              "time": "Heute früh",
-              "kurz": "Tesla bei 391 USD. BYD überholt Tesla global, Hormuz-Krise verunsichert Märkte, KGV extrem hoch.",
-              "file": "2026-03-16/tesla-aktie.md"
-            }
-          ]
-        },
-        "midday": {
-          "time": "15:35",
-          "articles": [
-            {
-              "id": "2026-03-16-hormuz-europa",
+              "id": "2026-03-17-trump-demokratieabbau-v-dem",
+              "title": "Demokratieabbau unter Trump: Die USA sind keine liberale Demokratie mehr",
+              "date": "2026-03-17",
+              "time": "07:00",
               "category": "international",
-              "icon": "🌍",
-              "title": "Europa verweigert Trump – Niemand schickt Kriegsschiffe in den Hormuz",
+              "icon": "🗳️",
+              "edition": "morning",
+              "kurz": "Das schwedische V-Dem Institut stuft die USA im aktuellen Jahresbericht nicht mehr als liberale Demokratie ein. Der Abbau demokratischer Institutionen unter Trump ist laut Forschenden beispiellos schnell.",
               "sources": [
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets"
-                },
-                {
-                  "name": "Politico EU",
-                  "url": "https://www.politico.eu/article/germany-to-trump-this-not-nato-war-strait-hormuz-iran/"
-                },
-                {
-                  "name": "Al Jazeera",
-                  "url": "https://www.aljazeera.com/news/liveblog/2026/3/16/iran-war-live-tehran-rejects-trump-claim-on-talks-gulf-attacks-continue"
+                  "name": "SRF News – Demokratie-Studie V-Dem",
+                  "url": "https://www.srf.ch/news/international/demokratie-studie-trump-baut-die-demokratie-in-den-usa-beispiellos-schnell-ab"
                 }
               ],
-              "time": "15:30",
-              "kurz": "Trump fordert NATO-Schiffe für Hormuz – Europa lehnt ab. Israel greift Teheran, Shiraz, Tabriz an.",
-              "file": "2026-03-16/hormuz-europa.md"
+              "file": "2026-03-17/trump-demokratieabbau-v-dem.md"
             },
             {
-              "id": "2026-03-16-10mio-initiative",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "title": "SVP-Initiative «Keine 10-Millionen-Schweiz»: Jans eröffnet Kampf mit breiter Allianz",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/10-millionen-schweiz-mit-verstaerkung-so-will-jans-die-svp-initiative-bodigen-103527409"
-                },
-                {
-                  "name": "Plattform J",
-                  "url": "https://www.plattformj.ch/artikel/241321/"
-                }
-              ],
-              "time": "09:14",
-              "kurz": "Volksabstimmung 14. Juni. Jans mit Arbeitgebern, Gewerkschaften & Kantonen – ein Ja würde Bilaterale gefährden.",
-              "file": "2026-03-16/10mio-initiative.md"
-            },
-            {
-              "id": "2026-03-16-tesla-terafab",
-              "category": "tech",
-              "icon": "⚡",
-              "title": "Tesla «Terafab»: Musk kündigt eigene KI-Chip-Fabrik für 21. März an",
-              "sources": [
-                {
-                  "name": "Reuters / Gulf Business",
-                  "url": "https://gulfbusiness.com/en/2026/tech/elon-musk-says-teslas-mega-ai-chip-terafab-project-to-launch-in-7-days/"
-                },
-                {
-                  "name": "IBTimes",
-                  "url": "https://www.ibtimes.com.au/elon-musk-announces-tesla-terafab-ai-chip-launch-amid-xai-rebuild-spacex-ipo-buzz-1863354"
-                }
-              ],
-              "time": "Gestern",
-              "kurz": "Musk kündigt «Terafab» an – Teslas eigene KI-Chip-Fabrik startet 21. März. Ziel: Unabhängigkeit von Nvidia.",
-              "file": "2026-03-16/tesla-terafab.md"
-            }
-          ]
-        },
-        "evening": {
-          "time": "16:20",
-          "articles": [
-            {
-              "id": "2026-03-16-trump-hormuz-abend",
+              "id": "2026-03-17-trump-nato-europa-druck",
+              "title": "Trump gegen NATO: Europa widersetzt sich dem Iran-Einsatz",
+              "date": "2026-03-17",
+              "time": "07:00",
               "category": "international",
-              "icon": "🌍",
-              "title": "Trump spricht zu Hormuz-Krise – Verbündete widerstehen, Eskalation in Teheran",
+              "icon": "🇪🇺",
+              "edition": "morning",
+              "kurz": "Trump droht der NATO mit 'sehr schlechter Zukunft', falls Europa bei der Hormuz-Sicherung nicht hilft. Deutschland, Italien, Spanien und weitere Länder lehnen ab.",
               "sources": [
                 {
-                  "name": "New York Times",
-                  "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon"
+                  "name": "NZZ – Trump versucht die Europäer zu demütigen",
+                  "url": "https://www.nzz.ch/meinung/zwei-lausige-partner-trump-versucht-die-europaeer-zu-demuetigen-merz-entlarvt-sich-als-heuchler-ld.1929465"
                 },
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets"
-                }
-              ],
-              "time": "16:15",
-              "kurz": "Verbündete widerstehen Trump. Israelischer Minister warnt vor Eskalation. Erstmals passiert ein Tanker die Hormuz-Strasse – nach Pakistan.",
-              "file": "2026-03-16/trump-hormuz-abend.md"
-            },
-            {
-              "id": "2026-03-16-smi-kursrutsch",
-              "category": "wirtschaft",
-              "icon": "💼",
-              "title": "SMI unter Druck: Kursrutsch geht weiter – Ölpreis über 105 Dollar",
-              "sources": [
-                {
-                  "name": "MarketScreener / AWP",
-                  "url": "https://ch.marketscreener.com/boerse-nachrichten/aktien-schweiz-kursrutsch-geht-weiter-keine-beruhigung-im-iran-konflikt-ce7e5edada81f621"
+                  "name": "NZZ – Europäer wehren sich gegen Hormuz-Einsatz",
+                  "url": "https://www.nzz.ch/international/europaeer-wehren-sich-gegen-einen-einsatz-in-der-strasse-von-hormuz-obwohl-trump-mit-sehr-schlechter-zukunft-droht-ld.1929422"
                 },
                 {
-                  "name": "cash.ch",
-                  "url": "https://www.cash.ch/news/aktien-schweiz-eroffnung-smi-kaum-verandert-nachrichtensattigung-918963"
-                }
-              ],
-              "time": "16:00",
-              "kurz": "SMI –0,62% auf 12'759 Punkte. Brent-Öl über 105 Dollar. Kein Entspannungssignal in Sicht.",
-              "file": "2026-03-16/smi-kursrutsch.md"
-            },
-            {
-              "id": "2026-03-16-china-chip",
-              "category": "tech",
-              "icon": "⚡",
-              "title": "China produziert bald eigene 7nm-KI-Chips – Durchbruch für Pekings Tech-Souveränität",
-              "sources": [
-                {
-                  "name": "Reuters (exklusiv)",
-                  "url": "https://www.reuters.com/world/asia-pacific/chinas-no-2-chipmaker-readies-7-nm-production-beijing-ramps-up-self-suffiency-2026-03-16/"
-                }
-              ],
-              "time": "10:00",
-              "kurz": "Reuters exklusiv: Hua Hong Group entwickelt 7nm-Fertigung für KI-Chips – Meilenstein in Pekings Kampf gegen US-Exportkontrollen.",
-              "file": "2026-03-16/china-chip.md"
-            },
-            {
-              "id": "2026-03-16-schweizer-botschafter-teheran",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "title": "Schweizer Botschafter aus Teheran abgezogen – Schutzmachtmandat bleibt",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/schweiz/brieftraegerin-zwischen-feinden-was-steckt-hinter-dem-schutzmachtmandat-der-schweiz"
+                  "name": "NZZ – Merz will Europa aus dem Iran-Kampf heraushalten",
+                  "url": "https://www.nzz.ch/international/dieser-krieg-ist-nicht-angelegenheit-der-nato-friedrich-merz-will-europa-aus-dem-kampf-gegen-iran-heraushalten-ld.1929556"
                 },
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/der-schweizer-botschafter-aus-teheran-weilt-nun-in-bern-die-intensitaet-der-angriffe-ist-aussergewoehnlich-ld.1929423"
+                  "name": "Der Spiegel – So setzt Trump die Nato-Verbündeten unter Druck",
+                  "url": "https://www.spiegel.de/politik/deutschland/news-donald-trump-libanon-russlands-wegwerf-agenten-a-20d9b9fc-c551-495b-b80d-a622c28f481d"
                 }
               ],
-              "time": "17:00",
-              "kurz": "Schweiz zieht Botschafter aus Teheran ab, aber das Schutzmachtmandat für die USA bleibt bestehen. Was steckt dahinter?",
-              "file": "2026-03-16/schweizer-botschafter-teheran.md"
-            },
-            {
-              "id": "2026-03-16-swiss-kuendigung",
-              "category": "wirtschaft",
-              "icon": "💼",
-              "title": "Swiss bietet Flugbegleitern Tausende Franken für Kündigung",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/wirtschaft/pesonalueberhang-in-der-kabine-swiss-bietet-flugbegleitern-tausende-franken-fuer-kuendigung"
-                }
-              ],
-              "time": "17:00",
-              "kurz": "Swiss zahlt 15'000 CHF für freiwillige Kündigungen – rund 300 Kabinenmitarbeitende sind überzählig wegen Triebwerkproblemen und Cockpitmangel.",
-              "file": "2026-03-16/swiss-kuendigung.md"
-            },
-            {
-              "id": "2026-03-16-usa-lucas-drohne",
-              "category": "international",
-              "icon": "🌍",
-              "title": "USA kopieren Irans Shahed-Drohne – die Lucas-Drohne kommt",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/das-ist-die-amerikanische-antwort-auf-irans-shahed-drohne-ld.1928463"
-                }
-              ],
-              "time": "17:00",
-              "kurz": "Pentagon lässt iranische Shahed-Drohne nachbauen. Die «Lucas»-Drohne soll billig und massenhaft produziert werden – Abhängigkeit von China bleibt das Problem.",
-              "file": "2026-03-16/usa-lucas-drohne.md"
-            },
-            {
-              "id": "2026-03-16-nato-trump-merz",
-              "category": "politik",
-              "icon": "🏛️",
-              "title": "NATO geht nicht auf Trump ein – Merz: «Kein NATO-Krieg»",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/krieg-in-nahost-nato-geht-vorerst-nicht-auf-trump-drohung-ein"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/c8r17plnvy3o"
-                }
-              ],
-              "time": "17:00",
-              "kurz": "NATO weigert sich, Trump zu folgen. Kanzler Merz: «Der Iran-Krieg ist kein NATO-Krieg.» EU schickt 450 Mio. Euro Hilfe in den Nahen Osten.",
-              "file": "2026-03-16/nato-trump-merz.md"
-            },
-            {
-              "id": "2026-03-16-irak-milizen",
-              "category": "international",
-              "icon": "🌍",
-              "title": "Irak: Schiitische Milizen greifen USA an – aber viele halten sich still",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/kaempfen-fuer-iran-bis-zum-tod-schiitische-milizen-im-irak-greifen-die-usa-an-doch-viele-halten-sich-still-ld.1928975"
-                }
-              ],
-              "time": "17:00",
-              "kurz": "Im Irak greifen einige schiitische Milizen die USA an, doch viele halten sich zurück. Die wirtschaftlichen Eigeninteressen der Kommandeure wiegen schwerer als Iran-Loyalität.",
-              "file": "2026-03-16/irak-milizen.md"
-            },
-            {
-              "id": "2026-03-16-trump-rhetorik-putin",
-              "category": "international",
-              "icon": "🌍",
-              "title": "Trump-Regierung macht rhetorisch auf Putin – auffällige Parallelen",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/kriege-in-ukraine-und-iran-trump-regierung-macht-rhetorisch-auf-putin"
-                }
-              ],
-              "time": "17:00",
-              "kurz": "Trumps Rechtfertigung für den Iran-Krieg ähnelt Putins Rhetorik zum Ukraine-Krieg auffallend – bis in einzelne Formulierungen hinein.",
-              "file": "2026-03-16/trump-rhetorik-putin.md"
+              "file": "2026-03-17/trump-nato-europa-druck.md"
             }
           ]
         }
       }
-    }
-  ],
-  "articles": [
-    {
-      "id": "2026-03-17-deutsche-investoren-usa-europa",
-      "title": "Deutsche Grossinvestoren flüchten aus US-Märkten nach Europa",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "wirtschaft",
-      "icon": "📊",
-      "edition": "morning",
-      "kurz": "Grosse deutsche Versicherer und institutionelle Investoren schichten ihre Portfolios massiv um: Raus aus US-Aktien, rein in europäische Märkte. Treiber sind politische Unsicherheit und hohe US-Bewertungen.",
-      "summary": "Die Kombination aus Trumps unberechenbarer Wirtschaftspolitik, hohen US-Aktienbewertungen und dem Iran-Krieg veranlasst deutsche Grossinvestoren zu einer strategischen Neuausrichtung. Institutionelle Anleger wie die Allianz signalisieren offen, vorsichtiger auf die USA zu schauen und Europa stärker zu gewichten. Dieser Trend wird durch geringere US-Marktrenditen und ein gestiegenes politisches Risiko in den USA beschleunigt.",
-      "gegenstimme": "Kritiker des Abzugs aus US-Märkten warnen, dass eine Übergewichtung Europas eigene Risiken birgt: schwaches Wachstum, hohe Staatsverschuldung in Südeuropa und die Abhängigkeit vom globalen Handel. Zudem könnte eine Entspannung im Iran-Konflikt und eine Zinswende des Fed die US-Märkte schnell wieder attraktiv machen. Wer jetzt verkauft, könnte eine Erholung verpassen.",
-      "sources_json": "[{\"name\":\"Der Aktionär – Allianz setzt auf Europa\",\"url\":\"https://www.deraktionaer.de/artikel/aktien/europa-asien-selektion-darauf-setzt-die-allianz-2026-20392604.html\"},{\"name\":\"20 Minuten – Kapitalabfluss aus den USA\",\"url\":\"https://www.20min.ch/story/langfristiger-trend-geldabzug-aus-den-usa-europa-wird-fuer-anleger-attraktiver-103512378\"},{\"name\":\"Frankfurter Rundschau – Trump-Effekt\",\"url\":\"https://www.fr.de/wirtschaft/usa-der-trump-effekt-deutscher-mittelstand-meidet-die-94164470.html\"}]",
-      "slug": "deutsche-investoren-usa-europa"
-    },
-    {
-      "id": "2026-03-17-huthis-iran-trumpfkarte",
-      "title": "Huthis: Irans Trumpfkarte – wann greifen sie ein?",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "international",
-      "icon": "🚀",
-      "edition": "morning",
-      "kurz": "Die Huthis im Jemen bleiben trotz des Iran-Krieges bisher passiv. Analysten fragen: Warten sie auf den richtigen Moment – oder haben sie eigene Gründe zum Zögern?",
-      "summary": "Die Huthi-Bewegung im Jemen ist Irans kampferprobter Stellvertreter mit bewiesener Fähigkeit zur Störung des Roten Meeres und der Schifffahrt. Seit Beginn des US-israelischen Angriffs auf Iran Ende Februar haben sie sich jedoch zurückgehalten. Analysten sehen dafür mehrere Gründe: eigene Schwächung durch US-Bombardements, strategisches Kalkül, maximale Wirkung zu erzielen, und die Frage, ob ein Eingreifen im Interesse der Huthis selbst liegt. Ein Einstieg ins Gefecht würde den Druck auf Saudi-Arabien, Israel und den globalen Frachtverkehr massiv erhöhen.",
-      "gegenstimme": "Die Huthis handeln nicht blind nach Teherans Befehl – sie haben eigene Interessen. Ein eskalierter Einsatz würde weitere massive US-Angriffe auf ihre Stellungen im Jemen provozieren und den im Oktober 2025 ausgehandelten Waffenstillstand im jemenitischen Bürgerkrieg endgültig begraben. Es ist durchaus möglich, dass die Huthis ihre Zurückhaltung als Druckmittel einsetzen – als Verhandlungsmasse gegenüber Iran ebenso wie gegenüber Washington.",
-      "sources_json": "[{\"name\":\"Der Spiegel – Warum die Huthis noch nicht in den Krieg eingegriffen haben\",\"url\":\"https://www.spiegel.de/ausland/stellvertretermilizen-warum-die-huthis-noch-nicht-in-den-krieg-eingegriffen-haben-a-f3f55126-1638-402b-8b32-e0bc06a5f031\"}]",
-      "slug": "huthis-iran-trumpfkarte"
-    },
-    {
-      "id": "2026-03-17-iran-krieg-hormuz-blockade",
-      "title": "Iran-Krieg: Blockade der Strasse von Hormuz und globale Auswirkungen",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "international",
-      "icon": "🌍",
-      "edition": "morning",
-      "kurz": "Iran blockiert mit Minen, Drohnen und Raketen 20% des weltweiten Ölhandels. Die US-Botschaft in Bagdad wurde per Drohne angegriffen, Asien rationiert Treibstoff.",
-      "summary": "Seit dem Beginn des US-israelischen Krieges gegen Iran vor rund zwei Wochen blockiert Teheran die Strasse von Hormuz mit einem Mix aus Seeminen, Anti-Schiff-Raketen, Schnellbooten und Unterwasserdrohnen. Zwei US-Flugzeugträgerkampfgruppen sind vor Ort – dennoch gelingt es Washington nicht, den Schiffsverkehr zu sichern. Die Internationale Energieagentur spricht von der grössten Angebotsstörung der Geschichte. Asiatische Länder, auf die rund 90% des Hormuz-Öls entfällt, führen drastische Sparmassnahmen ein.",
-      "gegenstimme": "Iran betrachtet die Blockade als legitimes Verteidigungsmittel gegen einen Angriffskrieg der USA und Israels. Der Chef der Internationalen Seeschifffahrts-Organisation (IMO) warnt, dass Marine-Eskorten keine hundertprozentige Sicherheit bieten und keine nachhaltige Lösung darstellen. Kritiker in den USA selbst fragen, wie Trump einen Krieg beginnen konnte, ohne einen Plan für die unvermeidliche Gegenstrategie Irans zu haben.",
-      "sources_json": "[{\"name\":\"NZZ – Wie Iran die Blockade der Strasse von Hormuz durchsetzt\",\"url\":\"https://www.nzz.ch/international/minen-raketen-drohnen-und-schnellboote-wie-iran-die-blockade-der-strasse-von-hormuz-durchsetzt-ld.1929499\"},{\"name\":\"The Guardian – Iran War Live Updates\",\"url\":\"https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest\"},{\"name\":\"BBC – US embassy in Iraq hit by drone strike\",\"url\":\"https://www.bbc.com/news/live/cx2lr40g17kt\"},{\"name\":\"SRF – Wann der NATO-Bündnisfall greift\",\"url\":\"https://www.srf.ch/news/international/trumps-ruf-nach-nato-hilfe-wann-der-nato-buendnisfall-greift\"}]",
-      "slug": "iran-krieg-hormuz-blockade"
-    },
-    {
-      "id": "2026-03-17-iran-krieg-wirtschaft-oel-fed",
-      "title": "Ölpreis und Inflation: Wie der Iran-Krieg Amerikas Wirtschaft belastet",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "wirtschaft",
-      "icon": "📉",
-      "edition": "morning",
-      "kurz": "Der Iran-Krieg treibt den Ölpreis und damit die US-Inflation in die Höhe. Das Fed steckt in der Klemme: Zinssenkungen riskieren weitere Teuerung, Stabilität bremst die Wirtschaft.",
-      "summary": "Seit Beginn des Iran-Kriegs ist der Benzinpreis in den USA um über 20 Prozent gestiegen. Ökonomen rechnen damit, dass die Inflation von 2,4 auf über 3 Prozent ansteigen könnte. Das Fed, das am Mittwoch seinen Zinsentscheid bekanntgibt, muss zwischen Inflationsbekämpfung und Konjunkturstützung abwägen. Donald Trump fordert derweil per Sondersitzung unverzügliche Zinssenkungen – ein Ansinnen, das innerhalb des Offenmarktausschusses auf Widerstand stösst.",
-      "gegenstimme": "Manche Fed-Gouverneure, die Trump nahestehen, warnen vor Schwächen am Arbeitsmarkt und plädieren für eine lockerere Zinspolitik. Sie argumentieren, die US-Wirtschaft habe bewiesen, dass sie Krisen abfedern kann – die Februar-Arbeitsmarktzahlen seien durch Sondereffekte wie Schneestürme und Streiks verzerrt gewesen.",
-      "sources_json": "[{\"name\":\"NZZ – US-Wirtschaft im Iran-Krieg\",\"url\":\"https://www.nzz.ch/wirtschaft/der-iran-krieg-setzt-amerikas-wirtschaft-unter-druck-doch-das-fed-kann-trumps-ruf-nach-tiefen-zinsen-kaum-folgen-ld.1929215\"}]",
-      "slug": "iran-krieg-wirtschaft-oel-fed"
-    },
-    {
-      "id": "2026-03-17-ki-misinformation-iran-krieg",
-      "title": "KI-Desinformation im Iran-Krieg: Gefälschte Bilder und halluzinierende Chatbots",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "tech",
-      "icon": "🤔",
-      "edition": "morning",
-      "kurz": "Im Iran-Krieg überschwemmen KI-generierte Falschbilder das Netz – und KI-Assistenten wie Gemini und Grok verschlimmern die Lage durch selbstbewusst vorgetragene Fehlinformationen.",
-      "summary": "Ein virales Foto eines Kindergräberfelds in Minab, Iran, wurde von den KI-Assistenten Gemini (Google) und Grok (X/Twitter) fälschlicherweise als Bild aus der Türkei bzw. Indonesien identifiziert – obwohl das Bild nachweislich echt ist. Fact-Checker des BBC-Verify-Teams berichten, dass heute fast die Hälfte aller viralen Falschinformationen KI-generiert sind. Besonders tückisch: KI-Assistenten präsentieren ihre falschen Antworten mit grosser Autorität und erfinden Quellenangaben, die beim Nachprüfen ins Leere führen.",
-      "gegenstimme": "KI-Unternehmen wie Google und xAI betonen, dass ihre Systeme kontinuierlich verbessert werden und Nutzer ausdrücklich dazu aufgefordert werden, kritisch zu denken und Primärquellen zu prüfen. Technologie-Optimisten argumentieren, dass KI-Tools die Gesamtmenge von verfügbaren Informationen erhöhen und auch bei der Fact-Checking-Arbeit helfen können – solange Medienkompetenz gezielt gefördert wird.",
-      "sources_json": "[{\"name\":\"The Guardian – A photo of Iran bombed schoolgirl graveyard\",\"url\":\"https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves\"}]",
-      "slug": "ki-misinformation-iran-krieg"
-    },
-    {
-      "id": "2026-03-17-kuba-stromkollaps-trump",
-      "title": "Kuba im Dunkel: Totalausfall des Stromnetzes – Trump will die Insel 'nehmen",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "international",
-      "icon": "🕯️",
-      "edition": "morning",
-      "kurz": "Kubas nationales Stromnetz ist vollständig zusammengebrochen. Zehn Millionen Menschen sitzen im Dunkeln. Trump erklärt, er werde die Insel 'nehmen' – und verlangt den Abgang von Präsident Diaz-Canel.",
-      "summary": "Das gesamte Stromnetz Kubas ist in der Nacht auf Montag kollabiert. Die Ursache liegt in einer durch US-Sanktionen verursachten totalen Ölblockade: Seit dem Sturz von Venezuelas Präsident Maduro im Januar sind keine Öltanker mehr auf Kuba eingelaufen. Trump nutzt die Schwäche des Landes politisch aus: Er sprach am Montag davon, die 'Ehre' zu haben, Kuba zu 'nehmen', und US-Offizielle forderten bei Gesprächen mit Havanna den Rücktritt von Präsident Diaz-Canel.",
-      "gegenstimme": "Kuba besteht auf dem Grundsatz der Nichteinmischung und Souveränität. Präsident Diaz-Canel erklärte, er erwarte Gespräche 'unter den Prinzipien der Gleichheit und des Respekts für die politischen Systeme beider Länder'. Die kubanische Bevölkerung leidet seit Jahren unter Stromausfällen und Lebensmittelknappheit – der aktuelle Kollaps ist die Spitze eines langjährigen wirtschaftlichen Zusammenbruchs, den Kritiker auch auf das US-Embargo der letzten sechs Jahrzehnte zurückführen.",
-      "sources_json": "[{\"name\":\"The Guardian – Trump predicts US will have honour of taking Cuba\",\"url\":\"https://www.theguardian.com/world/2026/mar/17/donald-trump-can-take-cuba-oil\"},{\"name\":\"BBC – Cuba: Millions without electricity as power grid collapses\",\"url\":\"https://www.bbc.com/news/articles/c07j40dyx53o\"},{\"name\":\"Der Spiegel – Holt Trump sich die verbotene Insel Charg?\",\"url\":\"https://www.spiegel.de/ausland/iran-holt-donald-trump-sich-die-verbotene-insel-charg-a-7d415d66-7b97-4d57-bf94-0402aedc083b\"}]",
-      "slug": "kuba-stromkollaps-trump"
-    },
-    {
-      "id": "2026-03-17-nvidia-gtc-ki-billion",
-      "title": "Nvidia verdoppelt KI-Prognose: Eine Billion Dollar bis 2027",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "tech",
-      "icon": "🤖",
-      "edition": "morning",
-      "kurz": "An der GTC 2026 stellt Nvidia-CEO Jensen Huang ultraschnelle Chips und KI-Agenten-Plattformen vor – und prognostiziert eine Verdoppelung des KI-Chip-Umsatzes auf eine Billion Dollar.",
-      "summary": "Auf der GPU Technology Conference 2026 in San Jose präsentierte Jensen Huang neue Produkte für das Zeitalter der KI-Inferenz: den Chip Vera Rubin, ein Hochleistungs-Inferenz-Rack mit 700 Millionen Token pro Sekunde sowie eine Open-Source-Plattform für KI-Agenten. Nvidia erhöhte seine Umsatzprognose für KI-Chips auf mindestens eine Billion Dollar bis 2027 – doppelt so viel wie die bisherige Schätzung. Im Mittelpunkt steht die Verschiebung von KI-Training hin zu autonomen KI-Agenten, die selbstständig Aufgaben erledigen.",
-      "gegenstimme": "Kritiker weisen darauf hin, dass Nvidias bisherige Chips (Hopper, Blackwell) primär für das Training von KI-Modellen optimiert waren und bei der nun relevanten Inferenz Schwächen zeigen – zu hoher Energieverbrauch, zu wenig Arbeitsspeicher, zu hohe Latenz. Konkurrenten wie AMD, Intel und spezialisierte Chip-Startups drängen gezielt in die Inferenz-Lücke. Zudem sind Nvidias Preise nicht transparent, und ob die Billion-Dollar-Prognose realistisch ist, bezweifeln manche Analysten.",
-      "sources_json": "[{\"name\":\"NZZ – Nvidia feiert das neue Zeitalter der Inferenz\",\"url\":\"https://www.nzz.ch/technologie/ultraschnelle-neue-chips-mehr-roboter-und-ki-agenten-nvidia-feiert-das-neue-zeitalter-der-inferenz-ld.1929584\"}]",
-      "slug": "nvidia-gtc-ki-billion"
-    },
-    {
-      "id": "2026-03-17-pakistan-afghanistan-spital-kabul",
-      "title": "Pakistan greift Krankenhaus in Kabul an – Taliban melden hunderte Tote",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "international",
-      "icon": "🏥",
-      "edition": "morning",
-      "kurz": "Ein pakistanischer Luftangriff auf ein Sucht-Rehabilitationsspital in Kabul forderte laut Taliban bis zu 400 Tote. Pakistan bestreitet, ein Krankenhaus getroffen zu haben.",
-      "summary": "Im Schatten des Iran-Krieges eskaliert der seit Ende Februar schwelende Konflikt zwischen Pakistan und Afghanistan dramatisch. Pakistanische Luftangriffe auf Kabul haben in der Nacht auf Montag ein Spital für Suchtkranke mit über 2000 Patienten getroffen. Die Taliban melden 400 Tote und 250 Verletzte – die Angaben konnten unabhängig nicht verifiziert werden. Die BBC bestätigte vor Ort über 30 abtransportierte Leichen. Pakistan behauptet, ausschliesslich militärische Infrastruktur angegriffen zu haben. China versucht zu vermitteln, bisher ohne Erfolg.",
-      "gegenstimme": "Pakistan beharrt darauf, dass Afghanistan Terrorgruppen wie die Pakistanische Taliban (TTP) beherbergt und von dort aus Anschläge auf pakistanischem Boden ermöglicht. Die Taliban-Regierung bestreitet dies. Die Wahrheitsfindung ist extrem schwierig: Weder unabhängige Medien noch internationale Beobachter haben freien Zugang. Der UN-Sicherheitsrat verabschiedete jüngst einstimmig eine Resolution, die Terrorismus verurteilt – ohne Pakistan namentlich zu erwähnen, was beide Seiten als Bestätigung ihrer eigenen Position deuten.",
-      "sources_json": "[{\"name\":\"NZZ – Taliban melden Hunderte Tote durch Pakistan-Angriff in Kabul\",\"url\":\"https://www.nzz.ch/international/taliban-melden-hunderte-tote-bei-einem-angriff-auf-ein-spital-in-kabul-ld.1929603\"},{\"name\":\"The Guardian – Afghanistan accuses Pakistan of deadly strike on Kabul hospital\",\"url\":\"https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed\"},{\"name\":\"BBC – Dozens killed after rehab hospital struck\",\"url\":\"https://www.bbc.com/news/articles/c4g8n7e0l40o\"}]",
-      "slug": "pakistan-afghanistan-spital-kabul"
-    },
-    {
-      "id": "2026-03-17-pfas-schweizer-boden",
-      "title": "PFAS-Belastung: Fast jeder Schweizer Boden ist kontaminiert",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "schweiz",
-      "icon": "🌱",
-      "edition": "morning",
-      "kurz": "In über 99 Prozent aller untersuchten Schweizer Bodenproben wurden PFAS-Chemikalien nachgewiesen – eine flächendeckende Belastung, die nun Handlungsbedarf bei Bund und Kantonen auslöst.",
-      "summary": "Eine neue Auswertung von 1070 Bodenmessungen durch ZHAW und ETH Zürich im Auftrag des BAFU zeigt: PFAS sind in mehr als 99 Prozent der Schweizer Bodenproben nachweisbar. Der mittlere Gehalt liegt bei 2,4 Mikrogramm pro Kilogramm. Besonders erhöhte Werte finden sich an Standorten, wo Löschschaum oder Klärschlamm eingesetzt wurde. Für den Alltag sieht Experte Basilius Thalmann von der ZHAW keine direkte Gefährdung – warnt aber vor langfristigen Risiken für Trinkwasser und Lebensmittelproduktion.",
-      "gegenstimme": "Einige Wissenschaftler mahnen zur Verhältnismässigkeit: Der Anstieg des mittleren PFAS-Werts gegenüber 2022 sei methodisch bedingt (mehr Proben aus belasteten Siedlungsgebieten), kein Beweis für eine zunehmende Kontamination. Industrie- und Landwirtschaftsverbände verweisen darauf, dass die Grenzwertdebatte noch nicht abgeschlossen sei und die politischen Massnahmen nicht über das Ziel hinausschiessen sollten.",
-      "sources_json": "[{\"name\":\"SRF News – Experte zu PFAS-Belastung\",\"url\":\"https://www.srf.ch/news/schweiz/experte-zu-pfas-belastung-muessen-davon-ausgehen-dass-jeder-boden-mit-pfas-belastet-ist\"}]",
-      "slug": "pfas-schweizer-boden"
-    },
-    {
-      "id": "2026-03-17-schweiz-energiepolitik-akw",
-      "title": "Kehrtwende in der Schweizer Energiepolitik: Ständerat lässt neue AKW wieder zu",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "schweiz",
-      "icon": "⚡",
-      "edition": "morning",
-      "kurz": "Der Ständerat hat das seit 2017 geltende Neubauverbot für Atomkraftwerke de facto aufgehoben – ein Entscheid, der die Schweizer Energiepolitik grundlegend verändert.",
-      "summary": "Der Ständerat hat sich mit klarer Mehrheit für den indirekten Gegenvorschlag zur 'Blackout-Initiative' ausgesprochen. Damit soll das seit 2017 geltende Neubauverbot für Atomkraftwerke aus dem Kernenergiegesetz gestrichen werden. Befürworter aus SVP, FDP und Mitte argumentieren mit drohender Strommangellage und wachsendem Energiebedarf; Gegner von Grünen und SP verweisen auf ungelöste Entsorgungsfragen und das Risiko einer geschwächten Energiewende. Das letzte Wort hat das Schweizer Volk: Änderungen am Kernenergiegesetz sind obligatorisch referendumspflichtig.",
-      "gegenstimme": "Die Grünen haben bereits das Referendum angekündigt. Kritiker argumentieren, neue AKW seien nicht vor 2045–2050 betriebsbereit und könnten nicht zur akuten Versorgungssicherheit beitragen. Die ungelöste Frage der Atommülllagerung bleibt bestehen. Teile der Mitte-Fraktion sowie Umweltverbände warnen, dass die politische Signalwirkung des Entscheids Investitionen in erneuerbare Energien hemmen könnte.",
-      "sources_json": "[{\"name\":\"SRF News – Ständerat will Bau von AKW grundsätzlich wieder erlauben\",\"url\":\"https://www.srf.ch/news/schweiz/blackout-initiative-staenderat-will-bau-von-akw-grundsaetzlich-wieder-erlauben\"},{\"name\":\"Swissinfo – Kehrtwende bei der Schweizer Energiepolitik\",\"url\":\"https://www.swissinfo.ch/ger/klimaanpassung/kehrtwende-bei-der-schweizer-energiepolitik/91092349\"}]",
-      "slug": "schweiz-energiepolitik-akw"
-    },
-    {
-      "id": "2026-03-17-schweiz-mehrwertsteuer-ahv-armee",
-      "title": "Mehrwertsteuererhöhung für AHV und Armee: Bis 1400 Franken Mehrkosten pro Haushalt",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "schweiz",
-      "icon": "💰",
-      "edition": "morning",
-      "kurz": "Der Bundesrat will die Mehrwertsteuer um 1,5 Prozentpunkte erhöhen, um AHV und Armee zu finanzieren – das kostet je nach Haushalt zwischen 300 und 1400 Franken jährlich.",
-      "summary": "Zur Finanzierung der 13. AHV-Rente und der Armeeaufrüstung schlägt der Bundesrat eine Mehrwertsteuererhöhung auf insgesamt 9,6 Prozent vor (+1,5 Prozentpunkte). Haushalte müssten dafür 300 bis 1400 Franken pro Jahr mehr ausgeben – wobei Einpersonenhaushalte verhältnismässig stärker belastet würden als Familien und Rentner. National- und Ständerat streiten seit über einem Jahr über die Finanzierungsform, und in der Bevölkerung überwiegt laut Umfragen derzeit die Ablehnung der Mehrwertsteuererhöhung.",
-      "gegenstimme": "Linke Parteien wie die SP bevorzugen höhere Lohnabzüge, die hohe Einkommen stärker treffen. Grünliberale schlagen eine nationale Vermögenssteuer vor; Teile der Mitte setzen auf Wehranleihen oder einen Sonderfonds. SVP und FDP wollen zuerst beim Staatshaushalt sparen, liefern aber laut SRF den Beweis dafür nicht: Beide Parteien halfen zuletzt, das Entlastungspaket des Bundesrats im Parlament zu verkleinern.",
-      "sources_json": "[{\"name\":\"SRF News – Das kostet die höhere Mehrwertsteuer die Haushalte\",\"url\":\"https://www.srf.ch/news/schweiz/fuer-armee-und-ahv-das-kostet-die-hoehere-mehrwertsteuer-die-haushalte\"}]",
-      "slug": "schweiz-mehrwertsteuer-ahv-armee"
-    },
-    {
-      "id": "2026-03-17-schweizer-neutralitaet-iran-gute-dienste",
-      "title": "Schweizer Neutralität unter Druck: Gute Dienste im Iran-Krieg",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "schweiz",
-      "icon": "🇨🇭",
-      "edition": "morning",
-      "kurz": "Der Iran-Krieg setzt die Schweizer Neutralitätspolitik unter Druck. Botschafter Bangerter schildert die dramatische Evakuierung aus Teheran – und eine Debatte über die Verfassungsverankerung der Neutralität entflammt neu.",
-      "summary": "Die Schweizer Botschaft in Teheran wurde nach den ersten Angriffen evakuiert – Botschafter Olivier Bangerter berichtet von einer zehnstündigen Ausreise nach minutiöser Vorbereitung. Gleichzeitig leistet die Schweiz weiterhin ihre traditionellen Guten Dienste als Vermittlerin, steht aber vor der Frage, wie weit Neutralität in einem aktiven Konflikt reicht. Der Nationalrat debattiert diese Woche über die Neutralitätsinitiative und einen Gegenvorschlag – beides lehnt die NZZ als gefährlich ab.",
-      "gegenstimme": "Befürworter einer verfassungsrechtlich verankerten Neutralität argumentieren, dass die Schweiz gerade als streng neutrale Partei einzigartigen diplomatischen Wert besitzt. Die SVP-Initiative will die Schweiz als verlässliche Vermittlerin positionieren und warnt vor einer schleichenden Einbindung in Militärbündnisse. Aus ihrer Sicht schützt echte Neutralität langfristig besser als pragmatische Anpassung an westliche Sanktionspolitik.",
-      "sources_json": "[{\"name\":\"SWI Swissinfo – Iran-Krieg und Gute Dienste\",\"url\":\"https://www.swissinfo.ch/ger/aussenpolitik/der-iran-krieg-und-die-guten-dienste-der-schweiz-eine-bilanz/91105120\"},{\"name\":\"NZZ Meinung – Neutralität in der Verfassung\",\"url\":\"https://www.nzz.ch/meinung/eine-festgeschriebene-neutralitaet-allein-bietet-keinen-schutz-des-standortes-schweiz-im-gegenteil-ld.1929460\"},{\"name\":\"SRF News – Botschafter Bangerter\",\"url\":\"https://www.srf.ch/news/international/schweizer-diplomat-erzaehlt-so-erlebte-botschafter-bangerter-die-flucht-aus-dem-iran\"}]",
-      "slug": "schweizer-neutralitaet-iran-gute-dienste"
-    },
-    {
-      "id": "2026-03-17-sec-quartalszahlen-abschaffen",
-      "title": "US-Börsenaufsicht will Pflicht zu Quartalszahlen kippen",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "wirtschaft",
-      "icon": "🏦",
-      "edition": "morning",
-      "kurz": "Die SEC bereitet einen Vorschlag vor, der börsennotierte US-Unternehmen nur noch zu halbjährlichen statt vierteljährlichen Berichten verpflichten würde. Investoren warnen vor weniger Transparenz.",
-      "summary": "Die US-Börsenaufsichtsbehörde SEC plant laut einem Bericht des Wall Street Journal, die seit Jahrzehnten geltende Pflicht zu Quartalsberichten abzuschaffen. Unternehmen könnten dann nur noch zweimal pro Jahr Ergebnisse veröffentlichen. Der Vorschlag könnte bereits im April zur öffentlichen Konsultation vorgelegt werden. Trump hatte die Idee schon in seiner ersten Amtszeit und erneut im Herbst 2025 öffentlich gefordert.",
-      "gegenstimme": "Institutionelle Investoren und Transparenz-Verfechter lehnen die Idee ab: Seltener Berichterstattung bedeute weniger Möglichkeit zur Kurskorrektur, längere Zeitfenster für Informationsasymmetrien und ein schlechteres Frühwarnsystem bei sich abzeichnenden Schieflagen. Analysten befürchten zudem, dass der Informationsvorsprung von Unternehmensinsider zu Marktverzerrungen führen könnte.",
-      "sources_json": "[{\"name\":\"PYMNTS – SEC Quarterly Reporting\",\"url\":\"https://www.pymnts.com/news/regulation/2026/sec-prepares-proposal-ending-mandatory-quarterly-reporting/\"},{\"name\":\"Reuters\",\"url\":\"https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/\"}]",
-      "slug": "sec-quartalszahlen-abschaffen"
-    },
-    {
-      "id": "2026-03-17-trump-demokratieabbau-v-dem",
-      "title": "Demokratieabbau unter Trump: Die USA sind keine liberale Demokratie mehr",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "international",
-      "icon": "🗳️",
-      "edition": "morning",
-      "kurz": "Das schwedische V-Dem Institut stuft die USA im aktuellen Jahresbericht nicht mehr als liberale Demokratie ein. Der Abbau demokratischer Institutionen unter Trump ist laut Forschenden beispiellos schnell.",
-      "summary": "Das V-Dem Institut der Universität Göteborg hat die USA in seinem neuesten Demokratie-Bericht von einer liberalen Demokratie herabgestuft. Meinungsfreiheit befindet sich auf dem tiefsten Stand seit dem Ende des Zweiten Weltkriegs, zivile Rechte sind auf das Niveau der späten 1960er-Jahre zurückgefallen. Die parlamentarische Kontrolle der Exekutive ist quasi inexistent, da Trump mit Dekreten regiert und weder Kongress noch Senat Widerstand leisten. Entscheidend für den weiteren Verlauf sind die Midterm-Wahlen im Herbst 2026.",
-      "gegenstimme": "Andere Politologen wie Elaine Kamarck vom Brookings Institution sind zuversichtlicher: Die Bundesstaaten kontrollieren die Wahlen, was grossflächige Einflussnahme erschwere. Die Qualität der bisherigen Wahlen – zuletzt 2024 unter Biden – ist im V-Dem-Modell noch hoch bewertet, was die Gesamteinstufung als Demokratie vorerst aufrechterhält. Kritiker des Berichts weisen zudem auf die politisch links stehende Positionierung mancher V-Dem-Partner hin.",
-      "sources_json": "[{\"name\":\"SRF News – Demokratie-Studie V-Dem\",\"url\":\"https://www.srf.ch/news/international/demokratie-studie-trump-baut-die-demokratie-in-den-usa-beispiellos-schnell-ab\"}]",
-      "slug": "trump-demokratieabbau-v-dem"
-    },
-    {
-      "id": "2026-03-17-trump-nato-europa-druck",
-      "title": "Trump gegen NATO: Europa widersetzt sich dem Iran-Einsatz",
-      "date": "2026-03-17",
-      "time": "07:00",
-      "category": "international",
-      "icon": "🇪🇺",
-      "edition": "morning",
-      "kurz": "Trump droht der NATO mit 'sehr schlechter Zukunft', falls Europa bei der Hormuz-Sicherung nicht hilft. Deutschland, Italien, Spanien und weitere Länder lehnen ab.",
-      "summary": "US-Präsident Trump verlangt von den europäischen NATO-Partnern, sich an der militärischen Sicherung der Strasse von Hormuz zu beteiligen, und droht mit Konsequenzen für das Bündnis. Europa verweigert geschlossen: Deutschland, Frankreich, Italien, Spanien und Polen erteilen dem Ansinnen klare Absagen. Bundeskanzler Merz formuliert am schärfsten: 'Dieser Krieg ist nicht Angelegenheit der NATO.' Die EU versucht stattdessen, via UNO ein Abkommen über freie Passage auszuhandeln. Rechtlich ist die NATO-Beistandspflicht nach Einschätzung von Experten hier nicht anwendbar.",
-      "gegenstimme": "Trumps Argument hat eine gewisse Logik: Europa profitiert ebenfalls vom freien Ölfluss durch Hormuz und hat ein vitales Interesse an offenen Seewegen. Einige kleinere NATO-Partner – Niederlande, Dänemark, Grossbritannien – schliessen eine Beteiligung ausserhalb des NATO-Rahmens nicht kategorisch aus, sobald es einen Waffenstillstand gibt. Kritiker von Merz werfen ihm vor, anfangs den Krieg begrüsst zu haben und sich nun, als es ernst wird, wegzuducken.",
-      "sources_json": "[{\"name\":\"NZZ – Trump versucht die Europäer zu demütigen\",\"url\":\"https://www.nzz.ch/meinung/zwei-lausige-partner-trump-versucht-die-europaeer-zu-demuetigen-merz-entlarvt-sich-als-heuchler-ld.1929465\"},{\"name\":\"NZZ – Europäer wehren sich gegen Hormuz-Einsatz\",\"url\":\"https://www.nzz.ch/international/europaeer-wehren-sich-gegen-einen-einsatz-in-der-strasse-von-hormuz-obwohl-trump-mit-sehr-schlechter-zukunft-droht-ld.1929422\"},{\"name\":\"NZZ – Merz will Europa aus dem Iran-Kampf heraushalten\",\"url\":\"https://www.nzz.ch/international/dieser-krieg-ist-nicht-angelegenheit-der-nato-friedrich-merz-will-europa-aus-dem-kampf-gegen-iran-heraushalten-ld.1929556\"},{\"name\":\"Der Spiegel – So setzt Trump die Nato-Verbündeten unter Druck\",\"url\":\"https://www.spiegel.de/politik/deutschland/news-donald-trump-libanon-russlands-wegwerf-agenten-a-20d9b9fc-c551-495b-b80d-a622c28f481d\"}]",
-      "slug": "trump-nato-europa-druck"
-    }
-  ],
-  "editions": [
-    {
-      "date": "2026-03-17",
-      "edition": "morning",
-      "label": "Morgenausgabe",
-      "count": 15
     }
   ]
 }
