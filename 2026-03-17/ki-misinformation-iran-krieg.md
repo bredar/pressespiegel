@@ -39,7 +39,3 @@ Der Iran-Krieg entwickelt sich zum bislang härtesten Test für die Widerstandsf
 ## Einordnung
 
 Die Entwicklung zeigt, dass KI-Assistenten in Krisensituationen aktiv zur Desinformation beitragen können – nicht durch böse Absicht, sondern durch systemimmanente Schwächen. Für Medien, Unternehmen und Bürger bedeutet das: KI-Antworten zu aktuellen Ereignissen sind mit erhöhter Skepsis zu behandeln. Die Medienkompetenz im Umgang mit KI ist zur Schlüsselkompetenz des digitalen Zeitalters geworden.
-
----
-**Quellen:**
-- The Guardian, 17.03.2026: [A photo of Iran's bombed schoolgirl graveyard went around the world. Was it real, or AI?](https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves)
