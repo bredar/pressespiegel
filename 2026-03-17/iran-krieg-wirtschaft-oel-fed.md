@@ -31,7 +31,3 @@ Ein Indikator, dass die Märkte noch keine Panik zeigen: Der Ölpreis für WTI-F
 ## Einordnung
 
 Das Fed befindet sich in einer klassischen Stagflationsfalle: Steigende Energiepreise treiben die Inflation an, während der Konsumrückgang das Wachstum bremst. Beides gleichzeitig zu bekämpfen ist kaum möglich. Trumps politischer Druck auf die Notenbankführung verschärft die Situation zusätzlich und untergräbt das Vertrauen in die institutionelle Unabhängigkeit – ein Faktor, der mittel- bis langfristig selbst inflationsfördernd wirken kann, weil Inflationserwartungen steigen. Die Zinsentscheidung vom Mittwoch wird vor allem als Signal gewertet: Wie ernst nimmt die Notenbank das Inflationsrisiko – und wie viel Spielraum lässt sie sich gegenüber politischem Druck?
-
----
-**Quellen:**
-- NZZ, 17.03.2026: [US-Wirtschaft im Iran-Krieg: Das Fed steht vor einem Dilemma](https://www.nzz.ch/wirtschaft/der-iran-krieg-setzt-amerikas-wirtschaft-unter-druck-doch-das-fed-kann-trumps-ruf-nach-tiefen-zinsen-kaum-folgen-ld.1929215)
