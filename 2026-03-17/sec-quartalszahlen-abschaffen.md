@@ -31,8 +31,3 @@ Earnings Calls, also die Telefonkonferenzen mit Analysten, die die Quartalszahle
 ## Einordnung
 
 Der Vorstoss der SEC ist Teil eines breiteren deregulatorischen Kurses der Trump-Administration im Finanzbereich. Die Frage, ob Quartalsberichte wirklich kurzfristiges Denken fördern, ist in der Finanzforschung umstritten. Was klar ist: Weniger Pflichtberichte bedeuten weniger Transparenz, und das trifft vor allem Kleinanleger und externe Stakeholder – während grosse institutionelle Investoren und Unternehmensseitige oft Zugang zu anderen Informationsquellen haben. Europa hat diese Frage vor zehn Jahren anders beantwortet und die Quartalsberichterstattung abgeschafft – mit bislang keineswegs eindeutig positivem Befund.
-
----
-**Quellen:**
-- PYMNTS, 16.03.2026: [SEC Prepares Proposal Ending Mandatory Quarterly Reporting](https://www.pymnts.com/news/regulation/2026/sec-prepares-proposal-ending-mandatory-quarterly-reporting/)
-- Reuters, 16.03.2026: [US SEC preparing to eliminate quarterly reporting requirement, WSJ says](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
