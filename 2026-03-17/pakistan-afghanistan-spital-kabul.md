@@ -31,9 +31,3 @@ China hat einen Sondergesandten in die Region geschickt, bisher ohne Erfolg. Die
 ## Einordnung
 
 Der Konflikt zwischen Pakistan und Afghanistan droht in einem Krieg zu eskalieren, der humanitär katastrophal wäre – in einem Land, das bereits zu den ärmsten der Welt zählt und nach wie vor unter Taliban-Herrschaft steht. Der Angriff auf ein Krankenhaus – ob absichtlich oder Kollateralschaden – ist ein möglicher Verstoss gegen das humanitäre Völkerrecht. Ohne unabhängige Verifikation ist eine abschliessende Beurteilung unmöglich. Die internationale Gemeinschaft, mit dem Iran-Krieg beschäftigt, widmet diesem Konflikt kaum Aufmerksamkeit.
-
----
-**Quellen:**
-- NZZ: [Taliban melden Hunderte Tote durch Pakistan-Angriff in Kabul](https://www.nzz.ch/international/taliban-melden-hunderte-tote-bei-einem-angriff-auf-ein-spital-in-kabul-ld.1929603)
-- The Guardian: [Afghanistan accuses Pakistan of deadly strike on Kabul hospital](https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed)
-- BBC: [Dozens killed after rehab hospital struck](https://www.bbc.com/news/articles/c4g8n7e0l40o)
