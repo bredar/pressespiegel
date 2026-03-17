@@ -41,7 +41,3 @@ Die Studienergebnisse dürften den Druck auf Bund und Kantone erhöhen, klare Gr
 ## Einordnung
 
 Die Studie ist weniger ein Alarm- als ein Lagebericht: PFAS sind seit Jahrzehnten im Umlauf, die Belastung ist real, aber beherrschbar. Entscheidend ist nun, ob die Politik die Erkenntnisse für wirksame Massnahmen nutzt – Einschränkungen beim Einsatz PFAS-haltiger Produkte, Sanierung bekannter Hotspots und klare Grenzwerte für landwirtschaftliche Nutzflächen. Je länger gewartet wird, desto teurer und schwieriger wird die Sanierung.
-
----
-**Quellen:**
-- SRF News, 17.03.2026: [Experte zu PFAS-Belastung: «Müssen davon ausgehen, dass jeder Boden mit PFAS belastet ist»](https://www.srf.ch/news/schweiz/experte-zu-pfas-belastung-muessen-davon-ausgehen-dass-jeder-boden-mit-pfas-belastet-ist)
