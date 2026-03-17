@@ -29,9 +29,3 @@ Diaz-Canel hatte noch letzte Woche bestätigt, dass sich sein Land in «ersten G
 ## Einordnung
 
 Kuba ist nach Venezuela das zweite lateinamerikanische Land, das Trump gezielt in die Knie zwingt. Die Strategie ist konsistent: wirtschaftlichen Druck bis zur Systemgrenze eskalieren, dann politische Bedingungen stellen. Ob Trumps Rhetorik vom «Nehmen» ernst gemeint ist oder Verhandlungsbluff bleibt unklar. Was klar ist: Die humanitäre Lage auf der Insel ist kritisch, und die internationale Gemeinschaft ist derzeit mit dem Iran-Krieg zu beschäftigt, um substanziell zu reagieren.
-
----
-**Quellen:**
-- The Guardian: [Trump predicts US will have 'honour of taking Cuba'](https://www.theguardian.com/world/2026/mar/17/donald-trump-can-take-cuba-oil)
-- BBC: [Cuba: Millions without electricity as power grid collapses](https://www.bbc.com/news/articles/c07j40dyx53o)
-- Der Spiegel: [Holt Trump sich die 'verbotene Insel' Charg?](https://www.spiegel.de/ausland/iran-holt-donald-trump-sich-die-verbotene-insel-charg-a-7d415d66-7b97-4d57-bf94-0402aedc083b)
