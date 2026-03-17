@@ -207,7 +207,7 @@ function mC(a,d){
   const sid=a.id.replace(/[^a-z0-9-]/gi,'_');
   return`<div class="card" data-id="${a.id}" data-cat="${a.category}" onclick="oA('${a.id}','${d}')">
     ${img}
-    <div class="card-meta"><span class="csrc">${src}</span><span class="ctime">${a.time||''}</span></div>
+    <div class="card-meta"><span class="ctime">${a.time||''}</span></div>
     <div class="ctitle">${a.title}</div>
     <div class="ckurz">${a.kurz||''}</div>
     <div class="cfoot" onclick="event.stopPropagation()">
@@ -264,7 +264,7 @@ async function oA(id,d){
   const heroUrl=hero?(hero.startsWith('http')?hero:`${R}/${d}/${hero}`):'';
   sc.innerHTML=`${heroUrl?`<img class="phero" src="${heroUrl}" onerror="this.style.display='none'">`:''}
     <div class="pcont"><div class="pt">${fm.title||meta?.title||''}</div>
-    <div class="psrc">${chips}<span class="ptm">${fm.date?fD(fm.date):''}${fm.time?' · '+fm.time:''}</span></div>
+    <div class="psrc"><span class="ptm">${fm.date?fD(fm.date):''}${fm.time?' · '+fm.time:''}</span></div>
     ${sum?`<div class="psum">${sum.replace(/\\n/g,'<br><br>')}</div>`:''}${gegH}
     <div class="pbdy">${html}</div>${sftr}</div>`;sc.scrollTop=0
 }
@@ -298,6 +298,7 @@ init()
 </script>
 </body>
 </html>
+
 
 
 
