@@ -29,9 +29,3 @@ Gleichzeitig warnen Analysten vor Übertreibungen: Ein US-Dollar, der unter Druc
 ## Einordnung
 
 Der Kapitalabfluss aus den USA nach Europa ist ein aussagekräftiges Signal: Grosse institutionelle Investoren, die langfristig und risikobewusst anlegen müssen, nehmen die politischen und wirtschaftlichen Risiken der Trump-Ära ernst. Diese Umschichtungen sind keine kurzfristigen Stimmungsschwankungen, sondern strukturelle Entscheidungen, die auf Monate und Jahre angelegt sind. Für die Eurozone – und damit auch die Schweiz – bedeutet das erhöhte Kapitalzuflüsse, stärkere Währungen und möglicherweise mehr Spielraum für Investitionen in Infrastruktur und Transformation.
-
----
-**Quellen:**
-- Der Aktionär: [Allianz setzt 2026 auf Europa, Asien und Selektion](https://www.deraktionaer.de/artikel/aktien/europa-asien-selektion-darauf-setzt-die-allianz-2026-20392604.html)
-- 20 Minuten: [Kapitalabfluss aus den USA – Europa wird für Anleger attraktiver](https://www.20min.ch/story/langfristiger-trend-geldabzug-aus-den-usa-europa-wird-fuer-anleger-attraktiver-103512378)
-- Frankfurter Rundschau: [Der Trump-Effekt – Deutscher Mittelstand meidet die USA](https://www.fr.de/wirtschaft/usa-der-trump-effekt-deutscher-mittelstand-meidet-die-94164470.html)
