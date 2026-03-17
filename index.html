@@ -129,7 +129,17 @@
     footer{text-align:center;padding:20px;font-size:.65em;color:var(--ink3);letter-spacing:1px;border-top:3px double var(--rule2)}
     footer span{color:var(--accent)}
 
-    @media(max-width:600px){.masthead h1{font-size:2em}.pcont{padding:20px 16px 30px}.main{padding:14px 10px 60px}.grid{grid-template-columns:1fr}}
+    /* ══ Weather Widget ══ */
+    .wx{background:var(--bg2);border-bottom:1px solid var(--rule);padding:12px 20px;display:flex;align-items:center;justify-content:center;gap:24px;flex-wrap:wrap;font-size:.82em;color:var(--ink2)}
+    .wx-item{display:flex;align-items:center;gap:6px}
+    .wx-val{color:var(--ink);font-weight:600}
+    .wx-aare{color:var(--blue);font-weight:600}
+    .wx-fc{display:flex;gap:16px;font-size:.9em;color:var(--ink3)}
+    .wx-fc-day{display:flex;align-items:center;gap:4px}
+    .wx-fc-day .day{font-weight:500;color:var(--ink2)}
+    .wx-arrow{color:var(--ink3);font-size:.8em}
+
+    @media(max-width:600px){.masthead h1{font-size:2em}.pcont{padding:20px 16px 30px}.main{padding:14px 10px 60px}.grid{grid-template-columns:1fr}.wx{gap:12px;padding:10px 12px}.wx-fc{gap:8px}}
   </style>
 </head>
 <body>
@@ -137,6 +147,12 @@
   <h1>PRESSESPIEGEL</h1>
   <div class="edition" id="hM">Wird geladen…</div>
   <div class="rule"></div>
+</div>
+<div class="wx" id="wx">
+  <span class="wx-item">🌡️ <span class="wx-val" id="wxTemp">–</span>°C</span>
+  <span class="wx-item" id="wxSym">–</span>
+  <span class="wx-item">🏊 Aare: <span class="wx-aare" id="wxAare">–</span>°C <span class="wx-arrow">→</span> <span class="wx-aare" id="wxAare2h">–</span>°C</span>
+  <span class="wx-fc" id="wxFc"></span>
 </div>
 <div class="dbar" id="db"></div>
 <div class="tbar">
@@ -183,7 +199,15 @@ function fDs(d){const ds=['So','Mo','Di','Mi','Do','Fr','Sa'];const dt=new Date(
 function toast(msg,err){const t=document.getElementById('toast');t.textContent=msg;t.classList.toggle('err',!!err);t.classList.add('show');setTimeout(()=>t.classList.remove('show'),3000)}
 function getT(id){let t='';M?.days?.forEach(d=>{Object.values(d.editions||{}).forEach(ed=>{ed?.articles?.forEach(a=>{if(a.id===id)t=a.title})})});return t}
 
-async function init(){try{const r=await fetch(`${R}/manifest.json${cb()}`);M=await r.json();bD();rD(M.days[0].date)}catch(e){document.getElementById('loadS').innerHTML=`⚠️ ${e.message}`}}
+async function init(){try{const r=await fetch(`${R}/manifest.json${cb()}`);M=await r.json();bD();rD(M.days[0].date)}catch(e){document.getElementById('loadS').innerHTML=`⚠️ ${e.message}`};loadWx()}
+async function loadWx(){try{const r=await fetch('https://aareguru.existenz.ch/v2018/current?city=bern&app=openclaw.pressespiegel&version=1.0');const d=await r.json();const a=d.aare,w=d.weather||{},c=w.current||{},fc=w.forecast||[];
+document.getElementById('wxTemp').textContent=c.tt||'–';
+document.getElementById('wxAare').textContent=a.temperature||'–';
+document.getElementById('wxAare2h').textContent=a.forecast2h||'–';
+const syE=s=>{s=(s||'').toLowerCase();if(s.includes('sonn')||s.includes('sunn'))return'☀️';if(s.includes('bewö'))return'⛅';if(s.includes('regen')||s.includes('räge'))return'🌧️';if(s.includes('schnee'))return'❄️';if(s.includes('gewitter'))return'⛈️';if(s.includes('nebel'))return'🌫️';return'🌤️'};
+document.getElementById('wxSym').textContent=syE(c.syt)+(c.syt?' '+c.syt:'');
+const fcEl=document.getElementById('wxFc');
+fcEl.innerHTML=fc.slice(0,4).map(f=>`<span class="wx-fc-day"><span class="day">${f.dayshort||'?'}</span>${f.tn||'?'}–${f.tx||'?'}°C ${syE(f.syt)}</span>`).join('')}catch(e){console.warn('Weather load failed',e)}}
 function bD(){const b=document.getElementById('db');b.innerHTML='';M.days.forEach((d,i)=>{const t=document.createElement('button');t.className='dtab'+(i===0?' on':'');t.textContent=i===0?'Heute':fDs(d.date);t.onclick=()=>{document.querySelectorAll('.dtab').forEach(x=>x.classList.remove('on'));t.classList.add('on');rD(d.date)};b.appendChild(t)})}
 
 function rD(date){
@@ -298,6 +322,7 @@ init()
 </script>
 </body>
 </html>
+
 
 
 
