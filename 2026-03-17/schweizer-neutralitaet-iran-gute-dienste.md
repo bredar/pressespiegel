@@ -31,9 +31,3 @@ Die Schweiz hat 7,5 Millionen Franken für humanitäre Hilfe im Nahen Osten bere
 ## Einordnung
 
 Die Schweiz befindet sich in einem Balanceakt: ihre wertvollen Guten Dienste fortführen, gleichzeitig Personal schützen und innenpolitisch eine Grundsatzdebatte führen, die den Handlungsspielraum des Bundesrats für Jahre definieren könnte. Die Debatte über die Verfassungsverankerung der Neutralität ist keine abstrakte Staatsrechtsfrage mehr – sie findet statt, während Bomben fallen und Botschafter flüchten. Das erhöht den Druck auf den Nationalrat, eine Lösung zu finden, die weder Dogma noch Beliebigkeit ist.
-
----
-**Quellen:**
-- SWI Swissinfo, 17.03.2026: [Der Iran-Krieg und die Guten Dienste der Schweiz: Eine Bilanz](https://www.swissinfo.ch/ger/aussenpolitik/der-iran-krieg-und-die-guten-dienste-der-schweiz-eine-bilanz/91105120)
-- NZZ Meinung, 17.03.2026: [Eine festgeschriebene Neutralität allein bietet keinen Schutz des Standortes Schweiz](https://www.nzz.ch/meinung/eine-festgeschriebene-neutralitaet-allein-bietet-keinen-schutz-des-standortes-schweiz-im-gegenteil-ld.1929460)
-- SRF News, 16.03.2026: [So erlebte Botschafter Bangerter die Flucht aus dem Iran](https://www.srf.ch/news/international/schweizer-diplomat-erzaehlt-so-erlebte-botschafter-bangerter-die-flucht-aus-dem-iran)
