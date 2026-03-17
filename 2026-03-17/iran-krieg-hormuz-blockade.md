@@ -29,10 +29,3 @@ Der Chef der Internationalen Seeschifffahrts-Organisation warnte, dass Marine-Es
 ## Einordnung
 
 Die Situation verdeutlicht das fundamentale Paradox des Krieges: Die USA haben die grösste Seerüstungskonzentration seit dem ersten Golfkrieg 1991 aufgeboten – und können dennoch eine strategische Wasserstrasse nicht kontrollieren. Iran nutzt bewusst asymmetrische Mittel, die zwar keine Gefechtssiege liefern, aber die globale Energieversorgung nachhaltig destabilisieren. Je länger die Blockade anhält, desto grösser der wirtschaftliche Druck – nicht nur auf die USA, sondern auf die gesamte Weltwirtschaft.
-
----
-**Quellen:**
-- NZZ: [Wie Iran die Blockade der Strasse von Hormuz durchsetzt](https://www.nzz.ch/international/minen-raketen-drohnen-und-schnellboote-wie-iran-die-blockade-der-strasse-von-hormuz-durchsetzt-ld.1929499)
-- The Guardian: [Iran War Live Updates](https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest)
-- BBC: [US embassy in Iraq hit by drone strike](https://www.bbc.com/news/live/cx2lr40g17kt)
-- SRF: [Trumps Ruf nach Nato-Hilfe – wann der Nato-Bündnisfall greift](https://www.srf.ch/news/international/trumps-ruf-nach-nato-hilfe-wann-der-nato-buendnisfall-greift)
