@@ -321,6 +321,109 @@
               "path": "2026-03-18/swiss-fluege-pilotenmangel.md"
             }
           ]
+        },
+        "evening": {
+          "label": "Abendausgabe",
+          "articles": [
+            {
+              "id": "2026-03-18-gondel-absturz-engelberg",
+              "slug": "gondel-absturz-engelberg",
+              "title": "Toedlicher Gondelabsturz am Titlis – eine Person tot, 100+ evakuiert",
+              "date": "2026-03-18",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🚡",
+              "edition": "evening",
+              "kurz": "Am Mittwochvormittag stuerzte im Skigebiet Titlis eine Gondel ab. Eine Person kam ums Leben, Dutzende Passagiere mussten evakuiert werden.",
+              "summary": "Im Skigebiet Titlis bei Engelberg stuerzte am 18. Maerz 2026 gegen 11 Uhr eine Gondel ab. Die einzige Person in der Gondel ueberlebte den Unfall nicht. Starke Winde mit Boeen bis zu 105 km/h herrschten zum Zeitpunkt des Absturzes. Meteorologen hatten solche Windspitzen bereits im Voraus angekuendigt – die Bahn blieb dennoch in Betrieb.",
+              "image": "https://cdn.unitycms.io/images/DTupvFH9a0S8kLN523Kv17.jpg",
+              "path": "2026-03-18/gondel-absturz-engelberg.md"
+            },
+            {
+              "id": "2026-03-18-iran-gasfeld-khatib",
+              "slug": "iran-gasfeld-khatib",
+              "title": "Israel greift iranisches Gasfeld an – Geheimdienstminister Khatib getoetet",
+              "date": "2026-03-18",
+              "time": "18:00",
+              "category": "international",
+              "icon": "💣",
+              "edition": "evening",
+              "kurz": "Israel hat das South Pars Gasfeld im Iran angegriffen, das groesste Erdgasfeld der Welt. Der iranische Geheimdienstminister Esmail Khatib wurde bei einem gezielten Angriff auf Teheran getoetet.",
+              "summary": "Im eskalierenden Krieg zwischen Israel, den USA und dem Iran griff Israel das South Pars Erdgasfeld an und verursachte dort Braende. Gleichzeitig bestaettigte der iranische Praesident Pezeshkian den Tod von Geheimdienstminister Esmail Khatib bei einem gezielten Angriff auf Teheran. Katar und die Vereinigten Arabischen Emirate verurteilten den Angriff auf die Energieinfrastruktur. Der Oelpreis stieg daraufhin auf ueber 108 Dollar pro Barrel.",
+              "image": "",
+              "path": "2026-03-18/iran-gasfeld-khatib.md"
+            },
+            {
+              "id": "2026-03-18-swatch-bilanz-hayek",
+              "slug": "swatch-bilanz-hayek",
+              "title": "Swatch-Chef Hayek nennt Morgan-Stanley-Studie «Schwindel» – Gewinn brach um 90% ein",
+              "date": "2026-03-18",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "⌚",
+              "edition": "evening",
+              "kurz": "Swatch-Konzernchef Nick Hayek wirft Morgan Stanley in einem offenen Brief geschäftsschädigende Falschaussagen vor und droht mit rechtlichen Schritten. Hintergrund ist ein Gewinneinbruch der Swatch Group von 89% im Jahr 2025.",
+              "summary": "Die US-Investmentbank Morgan Stanley veröffentlichte eine kritische Studie zur Schweizer Uhrenindustrie, in der die Swatch Group schlecht abschneidet. CEO Nick Hayek konterte mit einem vierseitigen offenen Brief und bezeichnete die Studie als inhaltlich falsch. Die Abweichungen bei den Markenumsatzzahlen sollen laut Swatch Group zwischen minus 53 und plus 46 Prozent liegen. Besonders pikant: Die Studie behauptete, Longines sei 2025 in die Verlustzone gerutscht – tatsächlich wies die Marke eine Nettogewinnmarge von 16.6% aus.",
+              "image": "https://cdn.unitycms.io/images/AGBFgRUXKtMBVUA_zFo8ei.jpg",
+              "path": "2026-03-18/swatch-bilanz-hayek.md"
+            },
+            {
+              "id": "2026-03-18-kof-rezession-oelpreis",
+              "slug": "kof-rezession-oelpreis",
+              "title": "KOF warnt: Anhaltend hohe Ölpreise könnten Schweiz in Rezession treiben",
+              "date": "2026-03-18",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "evening",
+              "kurz": "Das KOF Institut der ETH Zürich senkt seine Konjunkturprognose für die Schweiz 2026 auf 1.0% BIP-Wachstum. In einem Alternativszenario mit dauerhaft hohen Ölpreisen könnte das Wachstum auf 0.7% einbrechen und 20'000 Stellen weniger entstehen.",
+              "summary": "Das KOF Konjunkturforschungsinstitut veröffentlichte seine neue Prognose unter dem Titel «Schweizer Konjunktur im Schatten globaler Machtpolitik». Die Basisprognose sieht 1.0% BIP-Wachstum 2026 vor – weit unter dem langjährigen Schnitt. Als Hauptrisiken gelten der Iran-Krieg und die US-Zollpolitik. Ein Szenario mit dauerhaft erhöhten Ölpreisen (+30%) würde das Wachstum auf 0.7% drücken, rund 20'000 Vollzeitstellen kosten und die Inflation auf 0.6% treiben. Die SNB dürfte den Leitzins über den gesamten Prognosezeitraum bei 0% belassen.",
+              "image": "https://cdn.unitycms.io/images/0W3QzZhxa5W9iSY-t3B6se.jpg",
+              "path": "2026-03-18/kof-rezession-oelpreis.md"
+            },
+            {
+              "id": "2026-03-18-spitalnotfall-gebuehr",
+              "slug": "spitalnotfall-gebuehr",
+              "title": "Nationalrat beschliesst 50-Franken-Gebühr für Spitalnotfall",
+              "date": "2026-03-18",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🏥",
+              "edition": "evening",
+              "kurz": "Der Nationalrat hat heute knapp eine optionale Gebühr von 50 Franken für den Besuch der Spitalnotaufnahme beschlossen. Die Einführung bleibt den Kantonen überlassen.",
+              "summary": "Mit einer knappen Mehrheit hat der Nationalrat einer Vorlage zugestimmt, die es den Kantonen erlaubt, eine Gebühr von 50 Franken für selbst eintreffende Patienten in Spitalnotfällen zu erheben. Ziel ist es, Bagatellfälle aus den überlasteten Notaufnahmen fernzuhalten und in günstigere Versorgungsformen wie Hausarzt oder Permanence zu lenken. Ausnahmen gelten für Kinder, Schwangere, Unfallverletzte sowie Personen, die per Ambulanz oder mit ärztlicher Überweisung kommen. Das Geschäft geht nun in den Ständerat.",
+              "image": "https://image.20min.ch/2026/02/23/358f605e-07c8-450e-8926-eecaaaf6952b.jpg",
+              "path": "2026-03-18/spitalnotfall-gebuehr.md"
+            },
+            {
+              "id": "2026-03-18-bundeswehr-jordanien-schaeden",
+              "slug": "bundeswehr-jordanien-schaeden",
+              "title": "Satellitenbilder zeigen massive Schäden an Bundeswehrlager in Jordanien",
+              "date": "2026-03-18",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🛡️",
+              "edition": "evening",
+              "kurz": "Neue Satellitenaufnahmen zeigen erstmals das volle Ausmass des iranischen Raketenangriffs auf den deutschen Stützpunkt Al-Azraq in Jordanien. Ein Unterkunftsgebäude wurde grösstenteils zerstört.",
+              "summary": "Der Spiegel hat heute Satellitenbilder veröffentlicht, die erstmals das Ausmass der Zerstörung im deutschen Feldlager Al-Azraq in Jordanien zeigen. In den ersten Kriegstagen im März 2026 schlugen iranische ballistische Raketen auf dem Stützpunkt ein und zerstörten einen grossen Teil des Unterkunftsgebäudes des deutschen Kontingents. Die rund 100 deutschen Soldaten befanden sich zum Zeitpunkt des Angriffs in Schutzräumen und blieben unverletzt. Die Bundeswehr ist seit 2017 in Al-Azraq stationiert und unterstützt dort eine internationale Anti-Terror-Koalition.",
+              "image": "",
+              "path": "2026-03-18/bundeswehr-jordanien-schaeden.md"
+            },
+            {
+              "id": "2026-03-18-basf-chemikalien-preise",
+              "slug": "basf-chemikalien-preise",
+              "title": "BASF erhöht wegen Iran-Krieg Chemikalienpreise um 30 Prozent",
+              "date": "2026-03-18",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "🏭",
+              "edition": "evening",
+              "kurz": "Der Chemiekonzern BASF kündigt Preiserhöhungen von bis zu 30 Prozent für bestimmte Chemikalien an. Ursache sind gestiegene Öl- und Gaskosten infolge der Blockade der Strasse von Hormus.",
+              "summary": "BASF, der weltgrösste Chemiekonzern, hat angekündigt, die Preise für Reinigungschemikalien und weitere Produkte um bis zu 30 Prozent anzuheben. Als Grund nennt das Unternehmen drastisch gestiegene Rohstoffkosten infolge des Iran-Kriegs und der Blockade der Strasse von Hormus. Der Verband der Chemischen Industrie (VCI) warnt vor ernsthaften Versorgungsengpässen bei Ammoniak, Phosphat, Helium und Schwefel. Lebensmittelexperten befürchten, dass sich die Kostensteigerungen ab Sommer in den Supermarktregalen niederschlagen könnten.",
+              "image": "",
+              "path": "2026-03-18/basf-chemikalien-preise.md"
+            }
+          ]
         }
       }
     },
