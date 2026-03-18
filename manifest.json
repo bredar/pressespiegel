@@ -218,6 +218,109 @@
               "path": "2026-03-18/zelensky-trump-starmer.md"
             }
           ]
+        },
+        "midday": {
+          "label": "Mittagsausgabe",
+          "articles": [
+            {
+              "id": "2026-03-18-bmw-neuer-i3-elektro",
+              "slug": "bmw-neuer-i3-elektro",
+              "title": "BMW enthüllt neuen vollelektrischen i3 der «Neuen Klasse» – 900 km Reichweite",
+              "date": "2026-03-18",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "midday",
+              "kurz": "BMW feiert Weltpremiere des neuen elektrischen 3er der «Neuen Klasse». Bis zu 900 km Reichweite, Serienproduktion ab Sommer 2026 in München.",
+              "summary": "BMW hat den vollelektrischen i3 der «Neuen Klasse» der Welt vorgestellt. Das Modell bietet eine Reichweite von bis zu 900 Kilometern und soll ab Herbst 2026 auf den Markt kommen. Der 3er macht über ein Fünftel aller BMW-Auslieferungen aus und ist damit zentral für die Elektrostrategie des Konzerns. BMW will bis Ende des Jahrzehnts mindestens die Hälfte aller verkauften Fahrzeuge elektrisch anbieten.",
+              "image": "",
+              "path": "2026-03-18/bmw-neuer-i3-elektro.md"
+            },
+            {
+              "id": "2026-03-18-crans-montana-brand-video",
+              "slug": "crans-montana-brand-video",
+              "title": "Crans-Montana-Brand: Video zeigt fatale Fehler der Gäste",
+              "date": "2026-03-18",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🔥",
+              "edition": "midday",
+              "kurz": "Überwachungsvideos des Crans-Montana-Brandes zeigen: Gäste holten Jacken statt zu fliehen und übersahen den blockierten Notausgang.",
+              "summary": "Neue Videoaufnahmen der Überwachungskameras aus der Bar Le Constellation in Crans-Montana zeigen dramatische Details des Silvesterbrandes, bei dem 41 Menschen ums Leben kamen. Mehrere Gäste liefen in Richtung einer improvisierten Garderobe, statt sofort zu fliehen. Dabei passierten sie zweimal einen Notausgang, der durch einen Barhocker blockiert war. Ein Experte erklärt, warum dieses Verhalten in Paniksituationen typisch ist.",
+              "image": "https://cdn.unitycms.io/images/1qvarVMgqx_B6HAE1p4E2h.jpg",
+              "path": "2026-03-18/crans-montana-brand-video.md"
+            },
+            {
+              "id": "2026-03-18-iran-flugzeugtraeger-abzug",
+              "slug": "iran-flugzeugtraeger-abzug",
+              "title": "USA müssen grössten Flugzeugträger aus Iran-Krieg vorläufig abziehen",
+              "date": "2026-03-18",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🛥️",
+              "edition": "midday",
+              "kurz": "Die USS Gerald R. Ford muss wegen eines Brandes an Bord vorübergehend aus dem Iran-Kriegsgebiet abgezogen werden.",
+              "summary": "Der grösste Flugzeugträger der US-Marine, die USS Gerald R. Ford, muss vorübergehend in einen griechischen Hafen einlaufen. Ein Feuer im Hauptwäscheraum des Schiffes vor wenigen Tagen verletzte fast 200 Besatzungsmitglieder durch Rauchvergiftungen. Über 600 Crewmitglieder haben kein Bett mehr. Der Abzug des Trägers erfolgt inmitten intensiver Kampfhandlungen zwischen den USA und Israel einerseits sowie dem Iran andererseits.",
+              "image": "",
+              "path": "2026-03-18/iran-flugzeugtraeger-abzug.md"
+            },
+            {
+              "id": "2026-03-18-samsung-streik-chipkrise",
+              "slug": "samsung-streik-chipkrise",
+              "title": "Samsung-Streik droht: Speicherchipkrise könnte sich verschärfen",
+              "date": "2026-03-18",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "💾",
+              "edition": "midday",
+              "kurz": "Die grösste Samsung-Gewerkschaft hat einen Streikplan für Mai 2026 genehmigt. Ein 18-tägiger Ausstand könnte die Hälfte der Produktion im Pyeongtaek-Werk lahmlegen.",
+              "summary": "Die Mitglieder der grössten Gewerkschaft bei Samsung Electronics in Südkorea haben einen Streik für Mai 2026 genehmigt. Der geplante 18-tägige Ausstand richtet sich gegen das Bonussystem des Konzerns und könnte erhebliche Teile der Speicherchipproduktion im Werk Pyeongtaek unterbrechen. Samsung ist der weltgrösste Hersteller von DRAM- und NAND-Speicherchips. Eine Unterbrechung der Produktion würde die globale Halbleiterversorgung spürbar belasten.",
+              "image": "",
+              "path": "2026-03-18/samsung-streik-chipkrise.md"
+            },
+            {
+              "id": "2026-03-18-schweiz-zwangsarbeit-lieferketten",
+              "slug": "schweiz-zwangsarbeit-lieferketten",
+              "title": "Trump-Druck: USA untersuchen Zwangsarbeit in Schweizer Lieferketten",
+              "date": "2026-03-18",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "midday",
+              "kurz": "Die USA untersuchen bei über 60 Ländern – darunter der Schweiz – Zwangsarbeit in Lieferketten. Neue Zölle drohen.",
+              "summary": "Die Trump-Administration hat eine Untersuchung nach dem US-Handelsgesetz «Section 301» aus dem Jahr 1974 eingeleitet, die über 60 Länder betrifft. Auch die Schweiz steht auf der Liste, da sie kein klares Gesetz gegen den Import von Produkten aus Zwangsarbeit kennt. Das Staatssekretariat für Wirtschaft (Seco) hat den Eingang des Untersuchungsschreibens bestätigt und prüft die Implikationen. Experten halten neue Strafzölle für möglich, aber eher unwahrscheinlich.",
+              "image": "https://cdn.unitycms.io/images/5wIPPNXJ4U3BOcgjan9YA1.jpg",
+              "path": "2026-03-18/schweiz-zwangsarbeit-lieferketten.md"
+            },
+            {
+              "id": "2026-03-18-staenderat-asyl-verschaerfung",
+              "slug": "staenderat-asyl-verschaerfung",
+              "title": "Ständerat lehnt Verschärfungen im Asylbereich ab",
+              "date": "2026-03-18",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "midday",
+              "kurz": "Der Ständerat hat in der Frühjahrssession 2026 mehrere Verschärfungsanträge im Asylbereich abgelehnt – und hält dennoch den politischen Druck aufrecht.",
+              "summary": "In der dritten Woche der Frühjahrssession 2026 hat der Ständerat mehrere Motionen zur Verschärfung des Asylwesens abgelehnt. Gleichzeitig forderte er Massnahmen gegen parallele Rechtssysteme. Die Frühjahrssession lief vom 2. bis 20. März 2026. Das Thema Migration bleibt politisch hoch umstritten – während der Nationalrat zuvor für Grenzkontrollen und Asylrechtsverschärfungen gestimmt hatte, setzte der Ständerat hier eine andere Akzente.",
+              "image": "",
+              "path": "2026-03-18/staenderat-asyl-verschaerfung.md"
+            },
+            {
+              "id": "2026-03-18-swiss-fluege-pilotenmangel",
+              "slug": "swiss-fluege-pilotenmangel",
+              "title": "Swiss streicht 326 Flüge wegen Pilotenmangel",
+              "date": "2026-03-18",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "✈️",
+              "edition": "midday",
+              "kurz": "Swiss streicht 326 Langstreckenflüge im Sommer 2026 – zu wenig Piloten, zu viel Kabinenpersonal.",
+              "summary": "Die Schweizer Airline Swiss muss im Sommer 2026 rund 326 Flüge aus ihrem Sommerflugplan streichen. Betroffen sind vor allem Langstreckenverbindungen wie Chicago und Shanghai. Als Ursache nennt die Airline Pilotenmangel durch laufende Umschulungen sowie Triebwerksprobleme bei mehreren Flugzeugtypen. Gleichzeitig hat die Swiss einen Personalüberbestand beim Kabinenpersonal und bietet Flugbegleitern bis zu 15'000 Franken Abgangsprämie an.",
+              "image": "https://cdn.unitycms.io/images/8YTXnVddKqTAXkPpd-S4sj.jpg",
+              "path": "2026-03-18/swiss-fluege-pilotenmangel.md"
+            }
+          ]
         }
       }
     },
