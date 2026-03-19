@@ -1,5 +1,5 @@
 {
-  "updated": "07:00 UTC",
+  "updated": "12:15 UTC",
   "days": [
     {
       "date": "2026-03-19",
@@ -408,6 +408,191 @@
                 {
                   "name": "Der Spiegel",
                   "url": "https://www.spiegel.de/panorama/australien-wirbelsturm-der-hoechsten-kategorie-steuert-auf-queensland-zu-a-d6ee9289-e5d6-46ba-99c4-58e55efb7809"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-19-china-tech-offensive-europa",
+              "slug": "china-tech-offensive-europa",
+              "title": "Chinas Fünfjahresplan als Warnsignal: Europas Industrie verliert Tech-Markt",
+              "date": "2026-03-19",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🇨🇳",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Chinas neuer Fünfjahresplan zielt auf technologische Unabhängigkeit und globale Führerschaft in Schlüsselindustrien. Der BDI warnt Europa vor dem Absturz in die Nische.",
+              "summary": "Mit dem neuen Fünfjahresplan startet China eine umfassende Tech-Offensive in Branchen, in denen Europa heute noch führend ist. Wolfgang Niedermark vom Bundesverband der Deutschen Industrie (BDI) warnt: Europa droht auf dem chinesischen Markt zum Nischenanbieter zu werden – und auf anderen Märkten sogar überholt zu werden. Peking baut seit zwei Jahrzehnten systematisch industrielle Kapazitäten auf und investiert massiv in Forschung, Entwicklung und strategische Lieferketten. Die Dringlichkeit des Handelns sei jetzt höher denn je.",
+              "gegenstimme": "Kritiker mahnen, Europa solle nicht reflexartig in Abschottung und Subventionswettläufe verfallen. Eine engere Kooperation mit China in bestimmten Bereichen – etwa Klimatechnologie – könnte langfristig vorteilhafter sein als ein reiner Konfrontationskurs.",
+              "sources": [
+                {
+                  "name": "Handelsblatt – Gastkommentar Wolfgang Niedermark (BDI)",
+                  "url": "https://www.handelsblatt.com/meinung/global-challenges/gastkommentar-global-challenges-chinas-fuenfjahresplan-ist-ein-weckruf-fuer-europas-industrie/100209100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-19-dengue-tigermuecke-schweiz",
+              "slug": "dengue-tigermuecke-schweiz",
+              "title": "Dengue-Virus erstmals in Tigermücke nördlich der Alpen nachgewiesen",
+              "date": "2026-03-19",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🦟",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Das Kantonale Laboratorium Basel-Stadt hat das Dengue-Virus in einer Tigermücke gefunden – ein Erstfund nördlich der Alpen. Der Nachweis stammt aus dem Jahr 2024, wurde aber erst jetzt publiziert.",
+              "summary": "Wissenschafter haben 2024 in Basel erstmals das Dengue-Virus in einer Asiatischen Tigermücke nördlich der Alpen nachgewiesen. Der Fund unterstreicht, wie Klimawandel und globaler Reiseverkehr exotische Krankheitserreger in die Schweiz bringen. Experten geben teilweise Entwarnung: Eine dauerhafte lokale Übertragungskette gilt als unwahrscheinlich, da die Viren hohe Temperaturen benötigen. Dennoch sind Tigermücken auch ohne Viren eine wachsende Plage in Nordschweizer Städten.",
+              "gegenstimme": "Experten betonen, dass die lokale Übertragungskette von Dengue in Mitteleuropa wegen ungenügend hoher Durchschnittstemperaturen unwahrscheinlich bleibt. Kritisch ist aber die unzureichende Eigeninitiative der Bevölkerung nördlich der Alpen: Kontrollen in Spitälern, Schulen und Wohnhäusern in Basel zeigten kaum Vorkehrungen gegen Tigermücken – obwohl Informationsmaterial der Behörden vorhanden ist.",
+              "sources": [
+                {
+                  "name": "NZZ – Kommentar",
+                  "url": "https://www.nzz.ch/meinung/erstmals-wurde-das-dengue-virus-in-einer-tigermuecke-noerdlich-der-alpen-nachgewiesen-es-ist-hoechste-zeit-dass-wir-entschieden-gegen-die-plagegeister-vorgehen-ld.1929874"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-19-geistertanker-mittelmeer",
+              "slug": "geistertanker-mittelmeer",
+              "title": "Russischer Geistertanker treibt seit Wochen fuehrerlos im Mittelmeer",
+              "date": "2026-03-19",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🚢",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/03/19/a83d0b35-ff3e-4a39-9c68-219f0f6c5e70.jpg",
+              "kurz": "Ein beschaedigter russischer Schattenflotten-Tanker treibt seit ueber zwei Wochen fuehrerlos im Mittelmeer. An Bord befinden sich 700 Tonnen Treibstoff sowie grosse Mengen Erdgas – eine Umweltkatastrophe droht.",
+              "summary": "Der Tanker Arctic Metagaz, Teil der russischen Schattenflotte, wurde laut Moskau bei einem ukrainischen Angriff schwer beschaedigt und treibt seitdem manoverierunfaehig im Mittelmeer. Das Schiff hat ein klaffendes Loch und transportiert gefaehrliche Mengen Treibstoff und Erdgas. Russland fordert die Anrainerstaaten auf, die Situation zu bewaeltigen – und zeigt damit, wie problematisch die rechtliche Zustaendigkeit bei solchen Schattenflottenschiffen ist.",
+              "gegenstimme": "Russland gibt die Ukraine als Schuldige an, ohne unabhaengige Beweise vorzulegen. Gleichzeitig operieren Schattenflotten-Tanker absichtlich ausserhalb regulaerer Meldesysteme und ohne Versicherung – das macht die Haftungsfrage zum juristischen Niemandsland, von dem Moskau nun profitieren will.",
+              "sources": [
+                {
+                  "name": "20min: Russischer Geister-Tanker treibt fuehrerlos im Mittelmeer",
+                  "url": "https://www.20min.ch/story/katastrophe-droht-russischer-geister-tanker-treibt-fuehrerlos-im-mittelmeer-103529493"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-19-iran-hormus-energiekrise-europa",
+              "slug": "iran-hormus-energiekrise-europa",
+              "title": "Hormus-Strasse: Europa droht dritte Energiekrise – Spritpreise explodieren",
+              "date": "2026-03-19",
+              "time": "12:15",
+              "category": "international",
+              "icon": "⛽",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/03/19/3b2b6246-41f5-4319-a097-4252bcba494f.jpg",
+              "kurz": "Seit dem US-israelischen Angriff auf den Iran am 28. Februar ist die Strasse von Hormus faktisch blockiert. Europa steuert auf eine dritte Energiekrise zu – Italien und Oesterreich reagieren mit Steuersenkungen.",
+              "summary": "Die Blockade der Strasse von Hormus durch den Iran trifft Europa mit voller Wucht. Rund 20 Prozent des weltweiten Oels und Fluessigerdgases passieren normalerweise diesen Korridor. Die Spritpreise sind seither stark gestiegen – besonders betroffen ist Suedeuropa. Waehrend Deutschland noch vergleichsweise glimpflich davonkommt, senken Italien und Oesterreich bereits die Mineralolsteuer, um die Buerger zu entlasten.",
+              "gegenstimme": "Kritiker warnen, dass Steuersenkungen lediglich kurzfristige Symptombekaempfung sind und die strukturelle Abhaengigkeit Europas von Golfstaaten-Energie nicht loesen. Eine beschleunigte Energiewende waere die nachhaltigere Antwort – doch die politische Bereitschaft dafuer fehlt in vielen EU-Laendern.",
+              "sources": [
+                {
+                  "name": "BBC: Why the Strait of Hormuz matters",
+                  "url": "https://www.bbc.com/news/articles/c78n6p09pzno"
+                },
+                {
+                  "name": "BBC: How the Iran war has left Europe facing yet another energy crisis",
+                  "url": "https://www.bbc.com/news/articles/c24de9e97vno"
+                },
+                {
+                  "name": "Spiegel: Hormus-Blockade belastet Italien staerker als Deutschland",
+                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland-a-d25d3f51-d4f5-4375-9df3-846262bcf064"
+                },
+                {
+                  "name": "20min: Oesterreich und Italien senken Mineralol-Steuer",
+                  "url": "https://www.20min.ch/story/italien-und-oesterreich-explodierende-benzinpreise-nachbarn-reagieren-mit-steuersenkung-103529595"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-19-nestle-schokoladenpark",
+              "slug": "nestle-schokoladenpark",
+              "title": "Nestlé investiert 400 Millionen in riesigen Cailler-Schokoladenpark in Broc",
+              "date": "2026-03-19",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🍫",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Nestlé und die Investmentgesellschaft Jogne Invest planen in Broc FR einen Schokoladenpark fuer CHF 400 Millionen. Das Projekt soll bis zu einer Million Besuchende pro Jahr anziehen.",
+              "summary": "Auf dem historischen Gelände der Cailler-Fabrik in Broc (Freiburg) entsteht ein Schokoladenpark der Superlative: 400 Millionen Franken Investitionsvolumen, 30'000 Quadratmeter Fläche, drei Kakao-Gewächshäuser und eine Seilbahn vom geplanten Parkhaus. Das Projekt von Nestlé Schweiz und Jogne Invest wurde nach Einwänden eidgenössischer Denkmalschutzkommissionen angepasst. Zehn Baugesuche werden Ende März öffentlich aufgelegt. Die erste Bauetappe soll ab 2030 eröffnet werden.",
+              "gegenstimme": "Zwei eidgenössische Kommissionen fuer Denkmalschutz sowie Natur- und Heimatschutz haben eine frühere Projektversion 2025 kritisiert und eine Redimensionierung verlangt, um das national bedeutsame Ortsbild zu erhalten. Kritiker befürchten zudem, dass ein Besucherstrom von bis zu einer Million Personen die Infrastruktur und den Charakter des kleinen Dorfes Broc dauerhaft verändern könnte.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/grossprojekt-im-greyerzerland-nestle-plant-riesigen-schokoladenpark-fuer-400-millionen-franken"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-19-olympia-2038-schweiz",
+              "slug": "olympia-2038-schweiz",
+              "title": "Olympische Winterspiele 2038 in der Schweiz: Abstimmung droht der Kandidatur",
+              "date": "2026-03-19",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🏔️",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Die Schweiz bewirbt sich für die Olympischen Winterspiele 2038, doch Politiker aus verschiedenen Lagern fordern zuerst eine Volksabstimmung. Die Zeit drängt: Das IOC entscheidet noch in diesem Jahr.",
+              "summary": "Der Bund unterstützt eine Schweizer Olympia-Kandidatur 2038 offiziell mit 200 Millionen Franken, doch in der Politik ist umstritten, ob das Volk darüber abstimmen soll. SVP, SP und Grüne fordern einen Urnengang als Voraussetzung für Steuergelder. Die FDP zeigt sich offen, hält ihn aber nicht für zwingend. Der Verein «Switzerland 2038» rechnet mit einem harten Abstimmungskampf – und die Geschichte zeigt: Olympia-Vorlagen hatten in der Schweiz bisher meist keinen Erfolg.",
+              "gegenstimme": "Skeptiker – darunter die Grünen – zweifeln an der Nachhaltigkeit grosser Olympia-Infrastrukturen: Neubauten, die nach den Spielen leer stehen, verstärkter Verkehr und ökologische Belastungen seien nicht mit den Klimazielen der Schweiz vereinbar.",
+              "sources": [
+                {
+                  "name": "SRF News – Droht der Schweizer Olympia-Kandidatur das Aus an der Urne?",
+                  "url": "https://www.srf.ch/news/schweiz/olympische-winterspiele-2038-droht-der-schweizer-olympia-kandidatur-das-aus-an-der-urne"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-19-snb-nullzins",
+              "slug": "snb-nullzins",
+              "title": "SNB belässt Leitzins bei 0% – Nullzins trotz Inflation und Konjunkturabschwächung",
+              "date": "2026-03-19",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "midday",
+              "image": "https://media.20min.ch/6/image/2025/12/11/ea8eceeb-6f60-4a8c-9273-b52f5f89eda0.jpg",
+              "kurz": "Die Schweizerische Nationalbank belässt den Leitzins erneut bei 0 Prozent – zum dritten Mal in Folge. Das Seco senkt gleichzeitig seine Wachstumsprognose für 2026 auf 1,0 Prozent.",
+              "summary": "Die SNB hält an ihrem Nullzins fest und begründet dies mit tiefer Inflation und erhöhter Unsicherheit durch den Irankrieg. SNB-Präsident Martin Schlegel betonte die erhöhte Bereitschaft zur Devisenmarktintervention. Das Staatssekretariat für Wirtschaft (Seco) senkte seine BIP-Wachstumsprognose für 2026 von 1,1 auf 1,0 Prozent, vor allem wegen steigender Ölpreise und eines starken Frankens. Für 2027 rechnen die Bundesökonomen mit einer moderaten Erholung auf 1,7 Prozent BIP-Wachstum.",
+              "gegenstimme": "Gewerkschaften und Exportindustrie kritisieren die SNB für Passivität beim starken Franken. Ein unveränderter Nullzins und ein starker Franken kombiniert mit US-Zöllen bilden für die Exportwirtschaft eine gefährliche Mischung. Laut Ökonomen lassen sich sinkende Margen und Produktivitätssteigerungen nicht endlos durchhalten.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/wirtschaft/geldpolitische-lagebeurteilung-snb-belaesst-den-zinssatz-bei-0-prozent"
+                },
+                {
+                  "name": "cash.ch / AWP",
+                  "url": "https://www.cash.ch/news/bundesokonomen-erwarten-wegen-olpreisschub-leicht-tieferes-wachstum-919825"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-19-ukraine-friedensgespraeche-pausiert",
+              "slug": "ukraine-friedensgespraeche-pausiert",
+              "title": "Iran-Krieg stoppt Ukraine-Friedensgespraeche – Verhandlungen ausgesetzt",
+              "date": "2026-03-19",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Die trilateralen Friedensgespraeche zwischen den USA, Russland und der Ukraine sind wegen des Iran-Kriegs offenbar unterbrochen worden. Gleichzeitig blockiert Ungarn eine EU-Anleihe von 90 Milliarden Euro fuer Kiew.",
+              "summary": "Laut einem russischen Medienbericht ruhen die Verhandlungen zur Beendigung des Ukraine-Kriegs derzeit. Die diplomatische Aufmerksamkeit der USA ist durch den Iran-Konflikt gebunden. Moskau profitiert von der Pause, da der militaerische Druck auf die Ukraine anhalt. Parallel dazu verhindert Ungarns Premier Viktor Orban beim EU-Gipfel in Bruessel die Freigabe eines 90-Milliarden-Euro-Kredits fuer die Ukraine.",
+              "gegenstimme": "Russische Medienberichte ueber eine Unterbrechung der Gespraeche koennen auch strategischer Natur sein – Moskau hat Interesse daran, den Eindruck zu erwecken, dass Verhandlungen scheitern, um westliche Uneinigkeit zu betonen. Die tatsaechliche Gespraechslage bleibt unklar.",
+              "sources": [
+                {
+                  "name": "Spiegel: Friedensgespraeche offenbar unterbrochen wegen Iran-Krieg",
+                  "url": "https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg-a-58db423d-4fd8-4967-ab32-0e939424f0e1"
+                },
+                {
+                  "name": "The Guardian: Europe live – Orban blocks EU loan to Ukraine",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/19/europe-ukraine-russian-eu-loan-orban-hungary-tariffs-iran-nato-latest-news-updates"
                 }
               ]
             }
