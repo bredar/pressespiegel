@@ -1,5 +1,5 @@
 {
-  "updated": "13:21 UTC",
+  "updated": "17:33 UTC",
   "days": [
     {
       "date": "2026-03-20",
@@ -573,6 +573,183 @@
                 {
                   "name": "Economic Times",
                   "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-war-global-oil-crisis-energy-impact-iea-disruption-gulf-supply-threat-2026-middle-east-war-trump-netanyahu-middle-east/articleshow/129700675.cms"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-20-chuck-norris-tot",
+              "slug": "chuck-norris-tot",
+              "title": "Chuck Norris ist tot – Actionstar und Karate-Weltmeister mit 86",
+              "date": "2026-03-20",
+              "time": "18:00",
+              "category": "international",
+              "icon": "⭐",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/6LAffyYZKvI8q7cBTpUQ9p.jpg",
+              "kurz": "Chuck Norris, die Ikone des Actionkinos, ist im Alter von 86 Jahren friedlich verstorben.",
+              "summary": "Der amerikanische Schauspieler und Kampfsportler Chuck Norris ist am 20. März 2026 im Alter von 86 Jahren gestorben. Norris wurde weltberühmt durch Actionfilme der 1980er Jahre und die Serie «Walker, Texas Ranger». Sein Tod wurde von seiner Familie bestätigt. Er hinterlässt fünf Kinder.",
+              "gegenstimme": "Norris war auch politisch aktiv und unterstützte konservative Anliegen in den USA – eine Seite seiner Persönlichkeit, die nicht alle schätzten.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/film/2026/mar/20/chuck-norris-prolific-action-star-and-martial-arts-champion-dies-aged-86"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/feuilleton/schauspieler-chuck-norris-ist-mit-86-jahren-verstorben-ld.1930335"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-frankreich-schattenflotte-tanker",
+              "slug": "frankreich-schattenflotte-tanker",
+              "title": "Frankreichs Marine stoppt russischen Schattenflotten-Tanker im Mittelmeer",
+              "date": "2026-03-20",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🛳️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/92796f06-da40-4b08-b2a1-13f4bc6799cb_w520_r2.08_fpx46.66_fpy50.jpg",
+              "kurz": "Die französische Marine hat erneut einen Öltanker der russischen Schattenflotte im Mittelmeer aufgebracht.",
+              "summary": "Frankreich setzt seine Bemühungen fort, die russische Schattenflotte zu unterbinden: Ein weiterer Öltanker mit verdächtiger Flagge wurde im Mittelmeer gestoppt. Die Schattenflotte ermöglicht es Russland, trotz westlicher Sanktionen Öl zu exportieren. Der Vorfall reiht sich in eine Serie ähnlicher Aktionen ein.",
+              "gegenstimme": "Kritiker fragen, ob das Aufbringen einzelner Tanker wirklich etwas an Russlands Gesamteinnahmen ändert – oder ob es vor allem symbolische Politik ist.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/schattenflotte-frankreich-stoppt-erneut-oeltanker-aus-russland-im-mittelmeer-a-51bc57eb-3527-456d-97ae-adea9b730482"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-trump-pearl-harbor-japan",
+              "slug": "trump-pearl-harbor-japan",
+              "title": "Trump vergleicht Iran-Krieg mit Pearl Harbor – Japan irritiert",
+              "date": "2026-03-20",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🗣️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/e079e70b-8835-4881-9f54-572a2dc7c0c0_w520_r2.08_fpx33.34_fpy50.jpg",
+              "kurz": "Bei seinem Japan-Besuch zog Trump eine Parallele zwischen dem Iran-Krieg und Pearl Harbor – ein diplomatischer Fauxpas.",
+              "summary": "US-Präsident Trump hat bei seinem Besuch in Japan einen Vergleich zwischen dem aktuellen Iran-Krieg und dem japanischen Angriff auf Pearl Harbor gezogen. Die Äusserung irritierte seine Gastgeber erheblich. Regierungschefin Takaichi versuchte die Situation diplomatisch zu glätten. Japan bleibt trotz der Verstimmung ein enger Partner der USA.",
+              "gegenstimme": "Verteidiger Trumps sehen in der Aussage lediglich eine unglückliche Formulierung, keine bewusste Provokation.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/pearl-harbor-donald-trump-irritiert-mit-aussage-bei-besuch-in-japan-a-a906b8d8-1ca7-432e-be79-d21c87aa6625"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/international/usa-trump-irritiert-takaichi-mit-bemerkung-ueber-pearl-harbor/29669594.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-schweiz-usa-handelsuntersuchung",
+              "slug": "schweiz-usa-handelsuntersuchung",
+              "title": "USA starten Handelsuntersuchung gegen die Schweiz",
+              "date": "2026-03-20",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "⚠️",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Washington wirft der Schweiz unlautere Handelspraktiken vor – eine neue Front im globalen Handelskrieg.",
+              "summary": "Die USA haben eine formelle Handelsuntersuchung gegen die Schweiz eingeleitet. Der Bund hat den entsprechenden Brief aus Washington bestätigt. Als Vorwurf werden unlautere Handelspraktiken genannt. Die Schweiz steht damit neben der EU und anderen Ländern unter dem Druck der Trump-Administration.",
+              "gegenstimme": "Ökonomen zweifeln, ob die Schweiz tatsächlich unfaire Handelspraktiken betreibt oder ob es sich um eine Verhandlungstaktik Washingtons handelt.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/bund-bestaetigt-briefeingang-usa-starten-untersuchung-gegen-schweiz-wegen-unlauteren-handels"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/neue-exportzahlen-helfen-der-schweiz-im-zollstreit-mit-den-usa-ld.1929998"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-bern-aarehafen-marzili",
+              "slug": "bern-aarehafen-marzili",
+              "title": "Bern: Aarehafen mit Brücke im Marzili bewilligt",
+              "date": "2026-03-20",
+              "time": "18:00",
+              "category": "regional",
+              "icon": "⛵",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/8eXmo-b74lK8K_sMMx1pqx.jpg",
+              "kurz": "Das Statthalteramt Bern-Mittelland hat den neuen Aarehafen mit Auswasserungsstelle im Marzili genehmigt.",
+              "summary": "Der geplante Aarehafen im Berner Marzili hat die nötige Bewilligung erhalten. Das Projekt umfasst eine Auswasserungsstelle und eine neue Brücke. Es ist Teil der umfassenden 66,8-Millionen-Sanierung des Freibads Marzili. Für Bernerin­nen und Berner, die die Aare als Freizeitgewässer nutzen, ist das eine gute Nachricht.",
+              "gegenstimme": "Anwohnende haben Bedenken wegen des zusätzlichen Lärms und Betriebs im sensiblen Naherholungsgebiet Marzili.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/bern-aarehafen-mit-bruecke-im-marzili-bewilligt-497080515080"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-bern-airline-muenchen-belp",
+              "slug": "bern-airline-muenchen-belp",
+              "title": "Bern bekommt neue Flugverbindung: Mini-Airline fliegt ab Belp nach München",
+              "date": "2026-03-20",
+              "time": "18:00",
+              "category": "regional",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/FY3EMFo3arE9ZWI3IsxsIt.jpg",
+              "kurz": "Ab Juni fliegt die neue Airline Vini dreimal wöchentlich von Bern-Belp nach München.",
+              "summary": "Der Flughafen Bern-Belp bekommt eine neue Direktverbindung nach München. Die Airline Vini – gegründet von Tomislav Lang, einem der Skywork-Mitgründer – startet ab Juni mit drei Flügen pro Woche. Für den Wirtschaftsstandort Bern ist die Verbindung nach München, einem der wichtigsten Wirtschaftszentren Europas, bedeutsam.",
+              "gegenstimme": "Kritiker erinnern daran, dass Bern-Belp schon mehrfach Airline-Starts erlebt hat, die rasch scheiterten – darunter Skywork selbst 2018.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/bern-belp-neue-airline-fliegt-3x-pro-woche-nach-muenchen-578502799338"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-ezb-nagel-zinserhoehung",
+              "slug": "ezb-nagel-zinserhoehung",
+              "title": "EZB-Nagel offen für Zinserhöhung – Märkte justieren Prognosen",
+              "date": "2026-03-20",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "📊",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Bundesbank-Chef Nagel signalisiert Offenheit für eine EZB-Zinserhöhung – eine Kehrtwende angesichts steigender Energiepreise.",
+              "summary": "EZB-Ratsmitglied und Bundesbank-Chef Joachim Nagel hat sich offen für eine mögliche Zinserhöhung gezeigt. Der Iran-Krieg treibt die Energiepreise und damit die Inflation nach oben. Analysten haben ihre Zinsprognosen bereits nach oben revidiert. Die EZB hatte den Leitzins erst heute bei 2,0% belassen.",
+              "gegenstimme": "Andere EZB-Ratsmitglieder warnen vor einer Zinserhöhung, die die konjunkturelle Abschwächung durch den Energieschock verstärken könnte.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-nagel-offen-fuer-zinserhoehung-analysten-heben-zinsprognosen-an/100210195.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-supermicro-chip-schmuggel-china",
+              "slug": "supermicro-chip-schmuggel-china",
+              "title": "Super-Micro-Gründer wegen Chip-Schmuggel nach China angeklagt",
+              "date": "2026-03-20",
+              "time": "18:00",
+              "category": "tech",
+              "icon": "🔧",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Der Gründer von Super Micro Computer ist wegen illegalen Chip-Exports nach China angeklagt.",
+              "summary": "Charles Liang, Gründer des US-Serveranbieters Super Micro Computer, ist von US-Behörden wegen des illegalen Exports von Halbleitern nach China angeklagt worden. Der Fall wirft ein Schlaglicht auf die Lücken in den US-Exportkontrollen für Chips. Super Micro ist ein wichtiger Zulieferer für KI-Rechenzentren weltweit.",
+              "gegenstimme": "Super Micro weist die Vorwürfe zurück. Kritiker fragen, warum derartige Exporte trotz verschärfter Kontrollen möglich waren.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/super-micro-us-unternehmer-wegen-chip-schmuggel-nach-china-angeklagt/100210288.html"
                 }
               ]
             }
