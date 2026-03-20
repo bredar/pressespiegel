@@ -1,5 +1,5 @@
 {
-  "updated": "05:13 UTC",
+  "updated": "13:21 UTC",
   "days": [
     {
       "date": "2026-03-20",
@@ -372,6 +372,207 @@
                 {
                   "name": "Der Spiegel",
                   "url": "https://www.spiegel.de/mobilitaet/tesla-us-behoerde-intensiviert-pruefung-von-teslas-selbstfahr-technik-a-5c9bd12b-db44-4e7b-85b5-7ef2398f4927"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-20-imamoglu-erdogan-gefaengnis",
+              "slug": "imamoglu-erdogan-gefaengnis",
+              "title": "İmamoğlu spricht aus dem Gefängnis: «Erdoğan fürchtet die Demokratie»",
+              "date": "2026-03-20",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇹🇷",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/98904f53-f83f-4933-a9b6-90b1ac5704cb_w520_r2.08_fpx33.25_fpy49.86.jpg",
+              "kurz": "Der inhaftierte Istanbuler Oberbürgermeister Ekrem İmamoğlu hat sich in einem Interview erstmals aus dem Gefängnis zu Wort gemeldet. Er beschreibt schwierige Haftbedingungen und kündigt an, trotz allem für die Demokratie in der Türkei einzustehen.",
+              "summary": "Ekrem İmamoğlu, der wichtigste Oppositionspolitiker der Türkei und frühere Bürgermeister Istanbuls, sitzt seit rund einem Jahr in Haft. Im Interview mit dem Spiegel beschreibt er eingeschränkte Haftbedingungen – er darf nur einmal pro Woche eine Stunde spazieren gehen. Dennoch bekräftigt er seinen Willen, bei Wahlen anzutreten, und wirft Präsident Erdoğan vor, die Demokratie zu fürchten. Sein Prozess begann Anfang März 2026 und wird international als politisch motiviert bewertet.",
+              "gegenstimme": "Die türkische Regierung betont, dass es sich um ein rechtsstaatliches Verfahren handle und die Vorwürfe gegen İmamoğlu – darunter Korruption und Terrorismusunterstützung – auf konkreten Beweisen beruhen. Kritiker dieser Sichtweise sehen in den Anklagen einen konstruierten Vorwand, um den aussichtsreichsten Kandidaten gegen Erdoğan vor den nächsten Wahlen politisch auszuschalten.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ekrem-imamoglu-aus-dem-gefaengnis-erdogan-gegner-spricht-ueber-haftbedingungen-und-zukunft-der-tuerkei-a-eb44e8ab-ec3f-4589-a18d-71a56b85fe27"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/news/2026-03/09/erdogan-gegner-vor-gericht-was-das-fuer-die-tuerkei-bedeutet"
+                },
+                {
+                  "name": "Tiroler Tageszeitung",
+                  "url": "https://www.tt.com/artikel/30929418/hauptprozess-gegen-erdogan-rivalen-imamoglu-begonnen"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-iran-krieg-trump-oelsanktionen",
+              "slug": "iran-krieg-trump-oelsanktionen",
+              "title": "Trump will Ölsanktionen gegen Iran lockern – mitten im Krieg",
+              "date": "2026-03-20",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/4e7b6235-684d-4d5b-907f-74d64cd27e85_w520_r2.08_fpx69.14_fpy50.98.jpg",
+              "kurz": "Die Trump-Regierung prüft, Sanktionen auf bereits verschifftes iranisches Öl zu lockern, um die Energiepreise zu dämpfen. Das wäre ein paradoxer Schritt: Kriegsgegner Iran würde wirtschaftlich entlastet.",
+              "summary": "US-Finanzminister Scott Bessent bestätigte, die Regierung könnte Sanktionen auf rund 140 Millionen Barrel bereits auf Schiffen befindliches iranisches Öl aufheben. Gleichzeitig sollen Ausnahmeregelungen für russisches Öl geprüft werden. Trumps Ziel: den Ölpreis senken, der durch den Krieg stark gestiegen ist. Kritiker sehen darin ein Eingeständnis, dass die Kriegsstrategie die US-Wirtschaft unter Druck setzt.",
+              "gegenstimme": "Die Lockerung von Ölsanktionen gegenüber einem aktiven Kriegsgegner ist strategisch widersprüchlich und könnte Teheran Spielraum verschaffen, den Krieg länger zu finanzieren. Verbündete im Nahen Osten und in Europa könnten dies als Zeichen von Schwäche oder Unzuverlässigkeit interpretieren.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/donald-trump-will-die-oel-sanktionen-gegen-iran-lockern-mitten-im-krieg-a-72391856-8007-4cb8-8d12-b54599ee2096"
+                },
+                {
+                  "name": "New York Times",
+                  "url": "https://www.nytimes.com/2026/03/19/us/politics/iran-oil-sanctions.html"
+                },
+                {
+                  "name": "Washington Post",
+                  "url": "https://www.washingtonpost.com/world/2026/03/19/us-iran-war-trump-gas-prices-qatar/"
+                },
+                {
+                  "name": "Axios",
+                  "url": "https://www.axios.com/2026/03/19/trump-iran-oil-sanctions"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-selenskyj-ukraine-gespraeche-washington",
+              "slug": "selenskyj-ukraine-gespraeche-washington",
+              "title": "Selenskyj schickt Delegation nach Washington – neue Ukraine-Gespräche",
+              "date": "2026-03-20",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/f5504a4c-d61a-4419-93c8-8d62a0efc4ce_w520_r2.08_fpx44.44_fpy50.jpg",
+              "kurz": "Die Ukraine schickt eine Delegation nach Washington, um die Friedensverhandlungen wiederaufzunehmen. Die trilateralen Gespräche zwischen USA, Russland und Ukraine waren wegen des Irankriegs unterbrochen.",
+              "summary": "Präsident Selenskyj kündigte an, eine ukrainische Delegation sei auf dem Weg nach Washington. Ein erstes Treffen wird für Samstag erwartet. Die trilateralen Gespräche zwischen den USA, Russland und der Ukraine lagen auf Eis, seitdem der Irankrieg Anfang März begann. Russlands Kremlsprecher Peskow hatte die Pause als «vorübergehend» bezeichnet. Ob Russland an den neuen Gesprächen direkt teilnimmt, blieb zunächst offen.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass Russland strategisch vom Irankrieg profitiert: Washington ist abgelenkt, die Ukraine erhält weniger Aufmerksamkeit, und Putin hat Zeit gewonnen. Es gibt Stimmen, die bezweifeln, dass Moskau ernsthaft an einem raschen Verhandlungsergebnis interessiert ist.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-kuendigt-neue-gespraeche-in-den-usa-an-a-719773f7-b702-4031-87b5-101ca963c5cb"
+                },
+                {
+                  "name": "Tass (Peskow-Zitat)",
+                  "url": "https://t.me/tass_agency/366977"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-usa-kharg-island-hormuz",
+              "slug": "usa-kharg-island-hormuz",
+              "title": "USA erwägen Besetzung von Kharg Island – Hormuz-Öffnung mit Gewalt?",
+              "date": "2026-03-20",
+              "time": "12:15",
+              "category": "international",
+              "icon": "⚔️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/4e7b6235-684d-4d5b-907f-74d64cd27e85_w520_r2.08_fpx69.14_fpy50.98.jpg",
+              "kurz": "Laut Medienberichten prüft Washington eine Besetzung oder Blockade der iranischen Ölinsel Kharg, um die Strasse von Hormuz wieder zu öffnen. Ein solcher Schritt wäre militärisch hochriskant.",
+              "summary": "Die US-Regierung soll Pläne zur Besetzung oder Blockade von Kharg Island erwägen – der wichtigsten Ölexportanlage des Iran. Das Pentagon hat bereits rund 2200 Marines in die Region verlegt. Gleichzeitig eskaliert der Krieg weiter: Iran griff eine kuwaitische Raffinerie an, USA und Israel versenkten 16 iranische Frachtschiffe. Der neue iranische Oberste Führer Khamenei drohte, den Feinden ihre Sicherheit zu nehmen.",
+              "gegenstimme": "Eine physische Besetzung von Kharg Island wäre militärisch äusserst riskant: Die Insel ist nur 20 km² gross, liegt unweit der iranischen Küste und wäre für iranische Drohnen und Raketen ein leichtes Ziel. Kritiker bezweifeln, ob Washington einen solchen Schritt tatsächlich wagen würde – zumal Trump selbst Bodentruppen-Einsätze zuvor als unwahrscheinlich bezeichnete.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump"
+                },
+                {
+                  "name": "Axios",
+                  "url": "https://www.axios.com/2026/03/19/trump-iran-oil-sanctions"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-schweiz-ruestungsexporte-usa-stopp",
+              "slug": "schweiz-ruestungsexporte-usa-stopp",
+              "title": "Bundesrat stoppt neue Rüstungsexporte in die USA wegen Iran-Krieg",
+              "date": "2026-03-20",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/1IisX86k4EK8N2NDHA21uE.jpg",
+              "kurz": "Der Bundesrat bewilligt wegen des laufenden Kriegs gegen den Iran keine neuen Rüstungsexporte in die USA mehr. Bestehende Ausfuhrbewilligungen werden von einer Expertengruppe regelmässig überprüft.",
+              "summary": "Der Bundesrat hat am Freitag entschieden, auf neue Bewilligungen für Rüstungsexporte in die USA zu verzichten, solange der Iran-Krieg andauert. Grundlage sind die Schweizer Neutralität und das Kriegsmaterialgesetz. Für Israel und den Iran galten bereits seit Jahren entsprechende Exportstopps. Eine interdepartementale Expertengruppe soll die Lage laufend beobachten und neutralitätsrechtlichen Handlungsbedarf prüfen.",
+              "gegenstimme": "Kritiker aus der Exportindustrie und aus dem bürgerlichen Lager warnen vor diplomatischen Konsequenzen: Ein Exportstopp gegenüber einem wichtigen Partner wie den USA könnte Gegenreaktionen von Präsident Trump provozieren und die wirtschaftlichen Beziehungen belasten. Zudem wird gefragt, ob der Beschluss tatsächlich eine neutrale Haltung widerspiegelt oder primär politisch motiviert ist.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-bundesrat-schraenkt-ruestungsexporte-in-die-usa-ein"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/bundeshaus/bundesrat-schrankt-wegen-iran-krieg-rustungsexporte-in-die-usa-ein-67108169"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/bundesrat-bewilligt-wegen-iran-krieg-keine-neuen-ruestungsexporte-in-die-usa-ld.1930108"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-bern-gaza-demo-fahndung",
+              "slug": "bern-gaza-demo-fahndung",
+              "title": "Berner Polizei fahndet nach 32 Gaza-Demo-Tätern – verpixelte Fotos veröffentlicht",
+              "date": "2026-03-20",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "👮",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/0vFEySGl4HwAknr4f_ogi_.jpg",
+              "kurz": "Die Kantonspolizei Bern veröffentlicht heute verpixelte Bilder von 32 mutmasslichen Straftätern der Palästina-Demo vom Oktober 2025. Wer nicht innert einer Woche identifiziert wird, dessen Foto erscheint am 30. März unverpixelt.",
+              "summary": "Bei der unbewilligten Palästina-Kundgebung vom 11. Oktober 2025 in Bern wurden 18 Polizisten verletzt und ein Sachschaden von über 600'000 Franken verursacht. Nach monatelangen Ermittlungen wurden 101 Personen bereits identifiziert. 32 weitere Verdächtige konnten trotz umfangreicher Bildauswertung noch nicht namentlich erfasst werden – ihre verpixelten Fotos werden nun veröffentlicht. Die zuständige Staatsanwaltschaft Bern-Mittelland hat ein dreistufiges Fahndungsverfahren angeordnet.",
+              "gegenstimme": "Datenschützer und Bürgerrechtsorganisationen stehen öffentlichen Fahndungen mit Bildmaterial kritisch gegenüber. Sie bemängeln, dass verpixelte Bilder trotzdem zur Identifikation Unbeteiligter missbraucht werden könnten. Zudem wird die Verhältnismässigkeit diskutiert: Ein Teil der Szene sieht die Strafverfolgung als überproportional gegenüber dem politischen Hintergrund der Demonstration.",
+              "sources": [
+                {
+                  "name": "Watson.ch",
+                  "url": "https://www.watson.ch/schweiz/bern/157008641-gaza-demo-in-bern-polizei-veroeffentlicht-fotos-von-verdaechtigen"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/bern/nach-berner-krawallen-polizei-startet-grossangelegte-oeffentlichkeitsfahndung-id21786518.html"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-kantonspolizei-fahndet-nach-32-palaestina-demo-taetern-891618503204"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-iea-tempolimit-homeoffice-oelkrise",
+              "slug": "iea-tempolimit-homeoffice-oelkrise",
+              "title": "IEA fordert Tempolimit und Homeoffice gegen die Ölkrise",
+              "date": "2026-03-20",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/8740b504-4b21-4705-9508-5e95b1f4e97d_w520_r2.08_fpx54.67_fpy50.jpg",
+              "kurz": "Die Internationale Energieagentur hat einen Notfallplan vorgelegt: Tempolimit, Homeoffice, weniger Flugreisen. Die Nachfrageseite soll entlastet werden, weil die Angebotskrise durch den Irankrieg anhält.",
+              "summary": "Die IEA hat angesichts der anhaltenden Krise in der Strasse von Hormuz konkrete Notfallmassnahmen empfohlen: niedrigere Tempolimits auf Autobahnen, mehr Homeoffice, Förderung des öffentlichen Verkehrs und Einschränkungen bei Autofahrten in Städten – etwa durch gerade/ungerade Nummernschild-Regeln. Die OECD rät gleichzeitig Deutschland, Energiehilfen gezielt auf einkommensschwache Haushalte zu konzentrieren statt breite Tankrabatte einzuführen. Globale Ölreserven werden als unzureichend für eine längere Unterbrechung eingeschätzt.",
+              "gegenstimme": "Tempolimits und Homeoffice-Appelle wirken für viele wie eine Rückkehr zu den Energiekrisen der 1970er-Jahre. Kritiker bezweifeln deren kurzfristige Wirksamkeit und sehen die Massnahmen als symbolische Politik. Energiekonzerne verbuchen derweil Milliardengewinne – Greenpeace spricht von 21 Millionen Euro Übergewinnen täglich allein in Deutschland.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/mar/20/oil-price-energy-watchdog-iea-emergency-measures-work-from-home-slow-down-on-the-road"
+                },
+                {
+                  "name": "Der Spiegel/OECD",
+                  "url": "https://www.spiegel.de/wirtschaft/oecd-wuerde-energiehilfen-eher-fuer-aermere-reservieren-a-60eae113-b16c-4434-a784-9ff1dc49b2f8"
+                },
+                {
+                  "name": "Energy Live News",
+                  "url": "https://www.energylivenews.com/2026/03/20/iea-says-use-less-to-ride-out-energy-price-chaos-from-iran-war/"
+                },
+                {
+                  "name": "Economic Times",
+                  "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-war-global-oil-crisis-energy-impact-iea-disruption-gulf-supply-threat-2026-middle-east-war-trump-netanyahu-middle-east/articleshow/129700675.cms"
                 }
               ]
             }
