@@ -1,787 +1,377 @@
 {
-  "updated": "16:09 UTC",
+  "updated": "05:13 UTC",
   "days": [
     {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-03-19-iran-krieg-eskalation",
-              "slug": "iran-krieg-eskalation",
-              "title": "Iran-Krieg: Israel trifft South Pars – Trump droht mit Totalzerstörung",
-              "date": "2026-03-19",
+              "id": "2026-03-20-daenemark-groenland-militaer",
+              "slug": "daenemark-groenland-militaer",
+              "title": "Dänemark schickte Elitetruppen mit Sprengstoff nach Grönland",
+              "date": "2026-03-20",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🧊",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/3319eac7-0722-4a83-a113-7fe9959f4f9b_w520_r2.08_fpx54.59_fpy49.87.jpg",
+              "kurz": "Dänemark bereitete sich laut dem Staatssender DR heimlich auf eine mögliche US-Invasion Grönlands vor – mit Elitetruppen, Sprengstoff für Landebahnen und Blutkonserven.",
+              "summary": "Der dänische Staatssender DR berichtet, dass Kopenhagen im Januar 2026 Elitetruppen mit Sprengstoff und medizinischen Vorräten nach Grönland entsandte, um auf eine mögliche US-Invasion vorbereitet zu sein. Die Soldaten sollten im Notfall Landebahnen in Nuuk und Kangerlussuaq sprengen, um US-Flugzeuge an der Landung zu hindern. Mehrere europäische Länder koordinierten sich in geheimen Gesprächen. Ein französischer Spitzenbeamter bezeichnete die Grönlandkrise als den Moment, in dem Europa «ein für alle Mal» erkannte, seine eigene Sicherheit gewährleisten zu müssen.",
+              "gegenstimme": "Das dänische Verteidigungsministerium sowie die Büros der grönländischen und dänischen Regierungschefs lehnten jede Stellungnahme ab. Es ist unklar, ob die beschriebenen Massnahmen tatsächlich als Vorbereitung auf einen US-Angriff gedacht waren oder ob es sich um Routine-Militärübungen handelte, die im Nachhinein anders interpretiert werden.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/19/denmark-prepared-for-us-attack-donald-trump-greenland"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-eu-gipfel-orban-ukraine",
+              "slug": "eu-gipfel-orban-ukraine",
+              "title": "EU-Gipfel: Orbán blockiert Ukraine-Milliarden – Merz tobt",
+              "date": "2026-03-20",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🇪🇺",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/8e128c03-0950-44f0-89e3-fadcb00aa5c5_w520_r2.08_fpx33.33_fpy49.99.jpg",
+              "kurz": "Ungarns Premier Orbán blockiert das 90-Milliarden-Kreditpaket für die Ukraine am EU-Gipfel. Merz nennt es einen 'groben Akt der Illoyalität'.",
+              "summary": "Am EU-Gipfel in Brüssel verweigerte Ungarns Ministerpräsident Viktor Orbán erneut die Freigabe des im Dezember vereinbarten 90-Milliarden-Euro-Kredits für die Ukraine. Kanzler Friedrich Merz bezeichnete Orbáns Kehrtwende als 'groben Akt der Illoyalität', der 'tiefe Spuren hinterlassen' werde. EU-Kommissionspräsidentin von der Leyen versprach, den Kredit 'auf die eine oder andere Weise' auszuzahlen. Gleichzeitig bekräftigten sechs Staaten ihre Bereitschaft, sich an einer Hormuz-Mission zu beteiligen.",
+              "gegenstimme": "Orbán begründet seine Blockade mit dem Ausfall der Druzhba-Ölpipeline, die russisches Öl nach Ungarn und die Slowakei transportiert und seit einem russischen Drohnenangriff beschädigt ist. Er wirft Kiew vor, die Reparatur bewusst zu verzögern, um ihn im bevorstehenden Wahlkampf zu schwächen. Aus Orbáns Sicht handelt er im nationalen Interesse Ungarns – aus Sicht seiner Kollegen verletzt er fundamentale EU-Vertragsprinzipien.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/eu-gipfel-kanzler-merz-und-seine-kollegen-im-wuergegriff-von-orban-und-trump-a-5567c300-2f76-4839-997b-715d36c384a9"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/europaeer-sind-nun-offener-fuer-hormuz-einsatz-und-beissen-sich-an-viktor-orban-die-zaehne-aus-ld.1929961"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-iran-energiekrieg-katar-lng",
+              "slug": "iran-energiekrieg-katar-lng",
+              "title": "Iran-Krieg: Angriffe auf LNG-Anlagen – Energiekrieg eskaliert",
+              "date": "2026-03-20",
               "time": "07:00",
               "category": "international",
               "icon": "🔥",
               "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/18/8a104cab-5538-4a84-95f3-6c15a90cfafc.png",
-              "kurz": "Israel greift das iranische South-Pars-Gasfeld an und trifft damit das Herzstück der iranischen Energieinfrastruktur. Trump droht mit totaler Zerstörung des Feldes, falls Iran Katar weiter angreift.",
-              "summary": "Israel hat das South-Pars-Gasfeld, das grösste Erdgasfeld der Welt, bombardiert und damit eine neue Eskalationsstufe im Iran-Krieg ausgelöst. Als Vergeltung griff Iran die katarische Flüssiggas-Anlage Ras Laffan an, was schwere Schäden verursachte. US-Präsident Trump drohte daraufhin auf Truth Social damit, das gesamte South-Pars-Feld zu vernichten, falls Iran weitere Angriffe auf Katar durchführt. Europa lehnte eine militärische Beteiligung ab; Frankreich forderte ein Moratorium auf Angriffe gegen zivile Infrastruktur.",
-              "gegenstimme": "Irans Präsident Peseschkian entschuldigte sich für die Angriffe auf Nachbarländer und erklärte, die Streitkräfte hätten nach dem Tod hochrangiger Kommandeure führungslos gehandelt. Kritiker sehen in Trumps Drohung eine gefährliche Eskalation, die den Konflikt weiter anheizen könnte. Saudi-Arabien und die VAE reagieren mit Zurückhaltung, behalten sich aber militärische Schritte vor.",
+              "image": "https://cdn.unitycms.io/images/9P-xB4pHqMU97D2cZVQGia.jpg",
+              "kurz": "Iran beschädigt die weltgrösste LNG-Anlage in Katar, Israel bombardiert Irans Gasfeld South Pars. Qatar Energy warnt vor jahrelangen Ausfällen.",
+              "summary": "Der Nahostkrieg hat eine neue Dimension erreicht: Israel griff Irans wichtigstes Erdgasfeld South Pars an, worauf der Iran seinerseits die weltgrösste LNG-Produktionsanlage im katarischen Ras Laffan beschädigte. Die europäischen Gaspreise stiegen um bis zu 35 Prozent. Qatar-Energy-Chef Saad al-Kaabi warnte, die Reparatur der Anlagen könnte bis zu fünf Jahre dauern. Saudi-Arabien sieht das Öl bereits bei 180 Dollar pro Barrel.",
+              "gegenstimme": "Experten warnen, dass Militärschläge keine politische Lösung herbeiführen können. Der deutsche Aussenminister Wadephul betonte, weder im Irak noch in Libyen habe ein militärisches Engagement zu einem geordneten demokratischen Wandel geführt. Eine längere Schliessung der Strasse von Hormuz könnte zudem eine Nahrungsmittelkrise in Teilen Afrikas auslösen, da die Düngerversorgung aus der Region essenziell ist.",
               "sources": [
-                {
-                  "name": "NZZ Live-Ticker",
-                  "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292"
-                },
-                {
-                  "name": "The Guardian Live",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/19/iran-war-live-updates-oil-prices-gas-field-strikes-pentagon-more-funds-trump-news"
-                },
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/krieg-in-nahost-iran-greift-fluessiggasanlage-in-katar-an-trump-droht-iran"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-russland-moskau-internet",
-              "slug": "russland-moskau-internet",
-              "title": "Moskau geht vom Netz: Russland kappt Internet für die Hauptstadt",
-              "date": "2026-03-19",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🚫",
-              "edition": "morning",
-              "image": "",
-              "kurz": "Moskau ist seit knapp zwei Wochen vom mobilen Internet weitgehend abgeschnitten. Ein früherer Putin-Loyalist fordert öffentlich ein Kriegsverbrechertribunal gegen den Präsidenten.",
-              "summary": "Der Kreml hat das mobile Internet in Moskau und vielen weiteren russischen Städten flächendeckend gedrosselt oder abgeschaltet. Betroffen sind Taxifahrer, Schüler, Ladenbesitzer und ganze Lieferketten. Gleichzeitig sorgt ein Posting des bekannten Putin-Propagandisten Ilja Remeslo für Aufruhr: Er bezeichnete Putin als illegitimen Kriegsverbrecher und forderte dessen Rücktritt – was in Russland für sich genommen schon Haftstrafen nach sich ziehen kann.",
-              "gegenstimme": "Kremltreue Kreise bezeichnen die Internetsperrung als notwendige Sicherheitsmassnahme. Nawalnys ehemaliger Mitarbeiter Leonid Wolkow ist überzeugt, dass Remeslos Kehrtwende ein inszeniertes Manöver des Kreml ist – möglicherweise im Vorfeld von Parlamentswahlen oder zur Ablenkung von innenpolitischen Krisen. Remeslo selbst beteuert auf Video, sein Konto sei nicht gehackt worden und er befinde sich weiterhin in Russland.",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/zensur-in-russland-moskau-geht-vom-netz"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/russland-telegram-aufruf-von-ilja-remeslo-gegen-putin-sorgt-fuer-aufsehen-a-b5d5c8b4-1d54-4769-8168-09f07314cb29"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-ukraine-offensive-sued",
-              "slug": "ukraine-offensive-sued",
-              "title": "Ukraine: 400 km² im Süden zurückerobert – grösster Erfolg seit 2023",
-              "date": "2026-03-19",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🇺🇦",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/3aQW8g9IKie9u-gCMkByWP.jpg",
-              "kurz": "Die Ukraine meldet überraschende Geländegewinne im Süden und trifft mit Langstreckenwaffen russische Militärflugzeuge 800 km hinter der Front.",
-              "summary": "Ukrainische Streitkräfte haben nach Angaben des ukrainischen Generalstabs über 400 Quadratkilometer im südlichen Frontabschnitt zurückerobert – der grösste Geländegewinn seit der Herbstoffensive 2023. Gleichzeitig führte die Ukraine gezielte Drohnen- und Raketenangriffe auf russische Flugzeugwerke und Wartungsanlagen tief im russischen Hinterland durch, darunter das Aviastar-Werk in Uljanowsk rund 800 km von der ukrainischen Grenze entfernt. Russland meldete seinerseits die Einnahme des Dorfes Oleksandrivka in der Region Donezk.",
-              "gegenstimme": "Russische Militärblogger und der Kreml bestreiten das Ausmass der ukrainischen Vorstösse und betonen eigene Fortschritte im Donbass. Unabhängige Bestätigungen der genauen Flächengewinne sind schwierig, da beide Seiten im Informationskrieg aktiv sind. Kritiker in der Ukraine warnen zudem, dass Einzelerfolge nicht über die anhaltend angespannte Gesamtlage hinwegtäuschen dürfen.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/19/ukraine-war-briefing-ukraine-strikes-russian-aircraft-sites-800km-from-border"
-                },
                 {
                   "name": "Der Bund",
-                  "url": "https://www.derbund.ch/ukraine-ueberraschende-front-erfolge-im-krieg-gegen-russland-936278519288"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-weltgluecksbericht-2026",
-              "slug": "weltgluecksbericht-2026",
-              "title": "Weltglücksbericht 2026: Finnland vorne, Schweiz verbessert sich",
-              "date": "2026-03-19",
-              "time": "07:00",
-              "category": "international",
-              "icon": "😊",
-              "edition": "morning",
-              "image": "",
-              "kurz": "Finnland bleibt zum neunten Mal in Folge das glücklichste Land der Welt. Die Schweiz klettert von Rang 13 auf Rang 10 – und damit erstmals seit Jahren wieder in die Top 10.",
-              "summary": "Der Weltglücksbericht 2026, veröffentlicht pünktlich zum Weltglückstag am 20. März, zeigt eine stabile Dominanz nordischer Länder an der Spitze. Finnland führt die Rangliste nun zum neunten Mal in Folge an. Die Schweiz hat sich im Vergleich zum Vorjahr von Platz 13 auf Platz 10 verbessert. Ein Schwerpunktthema des diesjährigen Berichts ist der Einfluss sozialer Medien auf das Wohlbefinden – mit klaren Erkenntnissen zu Nutzungszeit und Plattformtyp.",
-              "gegenstimme": "Kritiker des Weltglücksberichts weisen regelmässig darauf hin, dass Selbsteinschätzungen zur Lebenszufriedenheit kulturell stark variieren – was den Vergleich zwischen Ländern methodisch erschwert. Zudem spiegeln Ranglisten dieser Art oft strukturelle Vorteile wie hohes Pro-Kopf-Einkommen und starke Sozialsysteme wider, weniger das subjektive Alltagsglück. Länder mit geringerem Wohlstand könnten durch kulturell unterschiedliche Referenzpunkte systematisch benachteiligt sein.",
-              "sources": [
+                  "url": "https://www.derbund.ch/katar-iran-greift-weltweit-groesste-gasanlage-an-594913380371"
+                },
                 {
-                  "name": "SRF News – Weltglücksbericht 2026",
-                  "url": "https://www.srf.ch/news/international/weltgluecksbericht-2026-finnland-ist-das-gluecklichste-land-schweiz-macht-raenge-gut"
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt-a-5b989375-154d-4553-8541-d1865d5af30f"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/iran-krieg-reparatur-der-lng-anlagen-koennte-bis-zu-fuenf-jahre-dauern/100209824.html"
                 }
               ]
             },
             {
-              "id": "2026-03-19-zyklon-narelle-australien",
-              "slug": "zyklon-narelle-australien",
-              "title": "Jahrhundertsturm «Narelle»: Kategorie-5-Zyklon peilt Nordaustralien an",
-              "date": "2026-03-19",
+              "id": "2026-03-20-iran-hinrichtung-ringer-mohammadi",
+              "slug": "iran-hinrichtung-ringer-mohammadi",
+              "title": "Iran richtet 19-jährigen Ringer öffentlich hin",
+              "date": "2026-03-20",
               "time": "07:00",
               "category": "international",
-              "icon": "🌪️",
+              "icon": "⚫",
               "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/19/4504c987-43fe-4eeb-b97d-a8a65927f547.png",
-              "kurz": "Zyklon «Narelle» der höchsten Kategorie 5 steuert auf Queensland zu – mit Böen bis 285 km/h und dem stärksten Sturm in der Region seit über 100 Jahren.",
-              "summary": "Der Tropensturm «Narelle» hat sich zum Zyklon der Kategorie 5 verstärkt und trifft voraussichtlich am Freitagmorgen (Ortszeit) auf die Halbinsel Cape York im Bundesstaat Queensland. Der australische Wetterdienst meldet Windgeschwindigkeiten von 205 km/h und Böen bis 285 km/h. Australiens Premierminister Anthony Albanese spricht von einem sehr gefährlichen Ereignis; sein Amtskollege in Queensland, David Crisafulli, betont, einen solchen Sturm habe es in der Region seit mehr als 100 Jahren nicht gegeben. Schulen sind geschlossen, Evakuierungen laufen.",
-              "gegenstimme": "Experten betonen, dass die am stärksten betroffene Region zwischen Lockhart River und Cape Melville sehr dünn besiedelt ist, was die Opferzahl begrenzen könnte. Dennoch warnen Katastrophenschützer vor schweren Schäden an Infrastruktur und langen Stromausfällen. Klimaforscher weisen darauf hin, dass die zunehmende Intensität solcher Stürme im Zusammenhang mit der Meereserwärmung steht, auch wenn ein einzelnes Ereignis nicht direkt dem Klimawandel zugeschrieben werden kann.",
+              "image": "https://image.20min.ch/2026/03/19/da45572a-8a42-4678-83c5-405608c342a8.png",
+              "kurz": "Im Iran wurden drei Männer öffentlich gehängt, darunter der 19-jährige Ringer Saleh Mohammadi. Sie sollen während Protesten Polizisten getötet haben.",
+              "summary": "Am Donnerstag, 19. März 2026, wurden im Iran drei Männer öffentlich hingerichtet: der 19-jährige Ringer Saleh Mohammadi aus Qom sowie Mehdi Ghasemi und Saeed Davoudi. Alle drei waren im Zusammenhang mit Protesten gegen das Regime im Januar festgenommen worden. Menschenrechtsorganisationen wie Amnesty International werfen den iranischen Behörden vor, die Männer unter Folter zu Geständnissen gezwungen und ihnen faire Gerichtsverfahren verweigert zu haben. Weitere Hinrichtungen werden befürchtet.",
+              "gegenstimme": "Die iranischen Behörden beharren darauf, die drei Männer seien wegen der Tötung zweier Polizisten mit Messern und Schwertern rechtmässig verurteilt worden. Aus Teheran heisst es, das Verfahren sei korrekt durchgeführt worden. Unabhängige Überprüfungen dieser Aussagen sind angesichts der eingeschränkten Pressefreiheit im Iran kaum möglich.",
               "sources": [
                 {
                   "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/kategorie-5-tropensturm-jahrhundert-zyklon-steuert-auf-australien-zu-103529457"
+                  "url": "https://www.20min.ch/story/iran-ringer-saleh-mohammadi-19-wurde-oeffentlich-hingerichtet-103529931"
                 },
                 {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/panorama/australien-wirbelsturm-der-hoechsten-kategorie-steuert-auf-queensland-zu-a-d6ee9289-e5d6-46ba-99c4-58e55efb7809"
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/international/liveticker/455779172-krieg-in-nahost-iran-richtet-drei-demonstranten-hin"
                 }
               ]
             },
             {
-              "id": "2026-03-19-gondel-absturz-engelberg",
-              "slug": "gondel-absturz-engelberg",
-              "title": "Gondel-Absturz am Titlis: Frau stirbt bei Windunfall",
-              "date": "2026-03-19",
+              "id": "2026-03-20-usa-japan-atomreaktoren-deal",
+              "slug": "usa-japan-atomreaktoren-deal",
+              "title": "USA und Japan: 40 Milliarden Dollar für Mini-Atomreaktoren",
+              "date": "2026-03-20",
+              "time": "07:00",
+              "category": "international",
+              "icon": "⚛️",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/ed10d343-0d7b-48e2-88b0-48cafbb456a7_w520_r2.08_fpx30_fpy55.jpg",
+              "kurz": "Trump und Japans Regierungschefin Takaichi vereinbaren Milliardeninvestitionen in Mini-Atomreaktoren und Gaskraftwerke – eingebettet in ein breites Handels- und Energiepaket.",
+              "summary": "Die USA und Japan haben bei einem Treffen von Präsident Trump und Ministerpräsidentin Sanae Takaichi im Weissen Haus ein gemeinsames Investitionspaket im Energiebereich vereinbart. Japanische Unternehmen investieren 40 Milliarden Dollar in sogenannte Small Modular Reactors (SMR) in den US-Bundesstaaten Tennessee und Alabama sowie weitere 33 Milliarden Dollar in Erdgas-Kraftwerksanlagen in Pennsylvania und Texas. Das Paket ist Teil von Japans Zusagen über 550 Milliarden Dollar Gesamtinvestitionen in den USA als Gegenleistung für günstigere Zölle.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass SMR-Technologie noch weitgehend unbewiesen ist und in der Vergangenheit wiederholt mit Kosten- und Zeitüberschreitungen zu kämpfen hatte. Die Vereinbarung trägt auch diplomatische Züge: Takaichi bemüht sich, Trump mit Investitionszusagen zu beschwichtigen, während sie gleichzeitig versucht, japanische Truppen nicht in die Hormuz-Mission zu schicken – verfassungsrechtliche Schranken machen das schwierig.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/investitionen-usa-und-japan-planen-milliardenprojekt-fuer-atomreaktoren-a-ad08e976-c515-47fd-b3ed-75f581246782"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/japans-regierungschefin-umgarnt-trump-auf-schwieriger-mission-ich-glaube-fest-dass-nur-du-donald-frieden-erreichen-kannst-ld.1930083"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-genf-burkini-verbot",
+              "slug": "genf-burkini-verbot",
+              "title": "Genf verbietet Burkinis in Schwimmbädern",
+              "date": "2026-03-20",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🏊",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/03/19/f01e4e73-8b97-4e88-ad0b-5fbd35f9ecbe.jpg",
+              "kurz": "Das Genfer Kantonsparlament hat mit 83 zu 53 Stimmen ein Gesetz verabschiedet, das Burkinis in öffentlichen Schwimmbädern faktisch verbietet.",
+              "summary": "Der Grosse Rat des Kantons Genf hat am Donnerstagabend mit einer rechten Mehrheit ein Gesetz über Schwimmbäder und öffentliche Bäder verabschiedet. Dieses definiert erlaubte Badekleidung so eng, dass Burkinis – Ganzkörperbadeanzüge, die viele Musliminnen tragen – faktisch ausgeschlossen sind. Das Gesetz nennt den Burkini nicht namentlich, schreibt aber vor, dass Badeanzüge maximal knielang sein und die Arme freilassen müssen. Der Entscheid ist politisch stark umstritten und dürfte die Gerichte beschäftigen.",
+              "gegenstimme": "Die politische Linke kritisiert das Gesetz scharf als fremdenfeindlich und als Ausschluss bestimmter Frauen aus dem öffentlichen Raum. SP-Politikerinnen werfen den Befürwortern vor, unter dem Deckmantel der Frauenrechte eine diskriminierende Regulierung einzuführen. Gerichtliche Anfechtungen sind angekündigt.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/neues-gesetz-genf-verbietet-burkinis-in-schwimmbaedern"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/abstimmung-genf-verbietet-burkinis-in-badis-103529976"
+                },
+                {
+                  "name": "SWI swissinfo.ch",
+                  "url": "https://www.swissinfo.ch/ger/genf-verbietet-indirekt-das-tragen-von-burkinis-in-schwimmb%C3%A4dern/91129871"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-schweiz-iran-krieg-wirtschaft",
+              "slug": "schweiz-iran-krieg-wirtschaft",
+              "title": "Iran-Krieg trifft die Schweiz: Von KI-Chips bis Waschmittel",
+              "date": "2026-03-20",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/55zb7fmU4dQ847G3wnFUD2.jpg",
+              "kurz": "Der Iran-Krieg und die Blockade der Strasse von Hormuz treffen auch die Schweizer Wirtschaft: Teuerung bei Diesel, Kerosin, Chemikalien und Halbleitern. Im Zollstreit mit den USA erwartet die Handelskammer erst Ende Juli einen Deal.",
+              "summary": "Die Blockade der Strasse von Hormuz infolge des Iran-Kriegs löst weltweit Lieferkettenprobleme aus, die über den Energiesektor hinausreichen. Besonders betroffen sind Transportkosten (Diesel, Kerosin), die Chemieindustrie (Reinigungsmittel, Dünger) und die Halbleiterproduktion (Helium-Engpass). Für die Schweiz kommt erschwerend hinzu, dass der Zollstreit mit den USA trotz günstigerer Handelszahlen andauert – ein Abkommen wird erst Ende Juli erwartet.",
+              "gegenstimme": "Einige Ökonomen relativieren die Panik: Die Schweizer Wirtschaft ist divers aufgestellt, und die Exportzahlen in die USA sind derzeit rückläufig – was die Verhandlungsposition gegenüber Washington verbessert. Zudem sind die Lagerbestände in Europa nach den Erfahrungen von 2022 deutlich besser aufgebaut als damals.",
+              "sources": [
+                {
+                  "name": "NZZ – Branchen unter Druck",
+                  "url": "https://www.nzz.ch/wirtschaft/von-ki-chips-ueber-lastwagen-diesel-bis-zu-waschmitteln-der-iran-krieg-trifft-viele-branchen-hart-ld.1930038"
+                },
+                {
+                  "name": "NZZ – Zollstreit USA",
+                  "url": "https://www.nzz.ch/wirtschaft/neue-exportzahlen-helfen-der-schweiz-im-zollstreit-mit-den-usa-handelskammer-chef-erwartet-erst-ende-juli-einen-deal-ld.1929998"
+                },
+                {
+                  "name": "Der Bund – EU-Gipfel und Energiepreise",
+                  "url": "https://www.derbund.ch/eu-gipfel-wie-der-iran-krieg-europas-energiepreise-treibt-581735360368"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-titlis-gondel-ursache-wind",
+              "slug": "titlis-gondel-ursache-wind",
+              "title": "Titlis-Gondel: Windböe mit bis zu 105 km/h – neue Details zum Unglück",
+              "date": "2026-03-20",
               "time": "07:00",
               "category": "schweiz",
               "icon": "🚡",
               "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/18/9c43a62b-27b2-438a-9e51-e6f5f2a1e4d5.jpg",
-              "kurz": "Im Skigebiet Engelberg-Titlis stürzte bei starkem Wind eine Gondel ab und tötete eine 61-jährige Frau. 100 bis 200 Personen mussten aus den Gondeln evakuiert werden.",
-              "summary": "Am Mittwochmorgen, 18. März 2026, stürzte eine Gondel der Anlage «Titlis Xpress» im Skigebiet Engelberg ab und überschlug sich mehrmals. Die allein fahrende 61-jährige Frau aus der Region kam ums Leben. Bei starken Windböen von über 80 km/h löste sich die Gondel kurz nach der Mittelstation Trübsee vom Seil. Zwischen 100 und 200 Personen wurden aus rund 40 Gondeln evakuiert. Die Schweizer Unfalluntersuchungsstelle (Sust) hat die Ermittlungen aufgenommen.",
-              "gegenstimme": "Seilbahnexperte Reto Canale (ETH) findet es «sehr ungewöhnlich», dass ein solcher Unfall geschehen konnte, und verweist auf die extrem geringe Unfallrate im Schweizer Seilbahnbetrieb. Unklar bleibt, ob zum Unfallzeitpunkt ein Windalarm ausgelöst worden war und ob der Betrieb hätte früher eingestellt werden müssen – eine Frage, die die laufende Untersuchung beantworten muss.",
+              "image": "https://cdn.unitycms.io/images/BdAgoXDuqwL8JB9zpoc7Pr.jpg",
+              "kurz": "Drei Tage nach dem tödlichen Gondelabsturz am Titlis werden neue Details bekannt: Windböen von bis zu 105 km/h schleuderten die Gondel gegen eine Stütze. Eine 61-jährige Frau starb.",
+              "summary": "Am Mittwoch, 18. März 2026, stürzte im Skigebiet Engelberg-Titlis eine Gondel der Linie Xpress Trübsee–Stand ab. Eine 61-jährige Frau aus der Region kam dabei ums Leben. Der Gondelhersteller Garaventa erklärt, eine kräftige Windböe habe das Fahrzeug so stark ausgelenkt, dass es mit einer Stütze kollidierte und vom Seil gerissen wurde. Auf dem Titlis wurden zum Unfallzeitpunkt Böen von bis zu 105 km/h gemessen. Die Schweizerische Sicherheitsuntersuchungsstelle (Sust) ermittelt, schliesst aber ein systematisches technisches Problem aus.",
+              "gegenstimme": "Kritische Stimmen fragen, weshalb die Seilbahn trotz vorhergesagter Windböen von bis zu 100 km/h noch in Betrieb war. Die meisten Bergbahnen schliessen bereits bei Windgeschwindigkeiten ab 75 km/h. Der Titlis-Betrieb muss sich erklären, ob die Wetterprognosen angemessen berücksichtigt wurden.",
               "sources": [
                 {
-                  "name": "SRF News – Absturz",
-                  "url": "https://www.srf.ch/news/schweiz/anlage-auf-neuestem-stand-frau-stirbt-bei-gondelabsturz-in-engelberg"
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/engelberg-titlis-gondel-duerfte-mit-stuetze-kollidiert-sein-103529950"
                 },
                 {
-                  "name": "SRF News – Experte",
-                  "url": "https://www.srf.ch/news/schweiz/seilbahnunfall-in-engelberg-experte-ungewoehnlich-dass-ein-solcher-unfall-geschehen-konnte"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/toedliche-tragoedie-am-berg-im-skigebiet-titlis-stuerzte-eine-gondel-ab-und-alle-raetseln-wie-dies-geschehen-konnte-ld.1929846"
                 },
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cq575yp1lw6o"
+                  "name": "20 Minuten – Warum blieb die Bahn offen?",
+                  "url": "https://www.20min.ch/story/meteorologe-boeen-bis-100-kmh-erwartet-warum-blieb-die-bergbahn-offen-103528894"
                 }
               ]
             },
             {
-              "id": "2026-03-19-schweiz-energie-iran",
-              "slug": "schweiz-energie-iran",
-              "title": "Schweizer Energieversorgung trotz Iran-Krieg gesichert",
-              "date": "2026-03-19",
+              "id": "2026-03-20-bern-benzinpreise-explosion",
+              "slug": "bern-benzinpreise-explosion",
+              "title": "Berner Tankstellenbetreiber warnt: «Benzinpreise explodieren»",
+              "date": "2026-03-20",
               "time": "07:00",
-              "category": "schweiz",
-              "icon": "⚡",
+              "category": "regional",
+              "icon": "⛽",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/B5v9gF2HqOh8_8und9YfZw.webp",
+              "kurz": "Ein Berner Tankstellenbetreiber warnt vor einer Mangellage, falls der Irankrieg anhält. Österreich und Italien senken die Mineralölsteuer – die Schweiz hat noch keine Massnahmen ergriffen.",
+              "summary": "Der anhaltende Irankrieg hat die Ölpreise weltweit in die Höhe getrieben und macht sich auch an Schweizer Zapfsäulen bemerkbar. Ein Berner Tankstellenbetreiber warnt vor einer drohenden Mangellage. Während Österreich die Mineralölsteuer ab 1. April um bis zu 10 Cent pro Liter senkt und Italien bereits per Dekret 25 Cent Ersparnis pro Liter bewirkt hat, fehlen in der Schweiz bisher konkrete Gegenmassnahmen. In Deutschland debattiert der Bundestag über eine Preiserhöhungsbremse für Tankstellen.",
+              "gegenstimme": "Kritiker warnen, dass staatliche Steuersenkungen auf Benzin das falsche Signal in der Klimapolitik senden und fossile Mobilität subventionieren, anstatt den Umstieg auf emissionsfreie Alternativen zu fördern. Greenpeace Deutschland zeigt zudem, dass die Preiserhöhungen an den Zapfsäulen weit stärker ausfallen als der Anstieg des Rohölpreises – was auf Übergewinne der Konzerne hindeutet.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/benzinpreis-tankstelle-in-bern-warnt-vor-preisexplosion-716043108043"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/explodierende-benzinpreise-nachbarn-reagieren-mit-steuersenkung-103529595"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-bern-rbs-stoerung-zollikofen",
+              "slug": "bern-rbs-stoerung-zollikofen",
+              "title": "Fahrleitungsstörung: RBS-Linien nach Zollikofen unterbrochen",
+              "date": "2026-03-20",
+              "time": "07:00",
+              "category": "regional",
+              "icon": "🚆",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/C2gemdNkqfK9IZ1LTaHQH2.jpg",
+              "kurz": "Eine Fahrleitungsstörung auf dem RBS-Netz unterbricht den Bahnverkehr Richtung Zollikofen. Die Linien S8 und RE5 sind betroffen.",
+              "summary": "Auf dem Streckennetz des Regionalverkehrs Bern-Solothurn (RBS) kam es zu einer Fahrleitungsstörung, die den Bahnbetrieb auf den Linien S8 und RE5 im Abschnitt Richtung Zollikofen unterbrach. Fahrgäste wurden auf Ersatzmittel verwiesen. Die Störungsdauer war zunächst unbestimmt. Der RBS befördert jährlich rund 26 Millionen Fahrgäste und ist eine wichtige Pendler-Achse zwischen Bern und dem Mittelland.",
+              "gegenstimme": "Für Pendlerinnen und Pendler zwischen Zollikofen und Bern sind solche Unterbrüche besonders belastend, da das RBS-Netz auf dieser Achse oft keine einfachen Ausweichalternativen bietet. Kritiker fordern seit Jahren eine höhere Investition in die Infrastrukturinstandhaltung, um Fahrleitungsstörungen zu reduzieren.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/rbs-stoerung-verkehr-nach-zollikofen-unterbrochen-228040387726"
+                },
+                {
+                  "name": "RBS Aktuell",
+                  "url": "https://www.rbs.ch/aktuell"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-20-bezos-ki-fertigung-milliarden",
+              "slug": "bezos-ki-fertigung-milliarden",
+              "title": "Bezos plant 100 Milliarden Dollar in KI-gestützte Fertigung",
+              "date": "2026-03-20",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "🏭",
               "edition": "morning",
               "image": "",
-              "kurz": "Die Schweizer Öl- und Gasversorgung ist trotz der Sperrung der Strasse von Hormus durch den Iran nicht gefährdet. Die Preise sind jedoch gestiegen – und die Guten Dienste der Schweiz stehen auf dem Prüfstand.",
-              "summary": "Der Militärkonflikt zwischen Israel, den USA und dem Iran hat die Preise für Öl und Gas weltweit in die Höhe getrieben. Die Schweiz bezieht rund die Hälfte ihres Rohöls aus den USA und ist daher von der Sperrung der Strasse von Hormus nur indirekt betroffen. Pflichtlager reichen für viereinhalb Monate. Gleichzeitig gerät die traditionelle Rolle der Schweiz als diplomatische Vermittlerin unter Druck – neue Akteure wie China und Katar haben an Bedeutung gewonnen.",
-              "gegenstimme": "Kritiker im Inland, darunter Parlamentarier der Mitte-Partei, werfen der Schweiz vor, mit ihrem Schutzmachtmandat das iranische Regime stabilisiert zu haben. Zudem ist fraglich, ob die Neutralität der Schweiz langfristig als Alleinstellungsmerkmal trägt, wenn andere Staaten aktiver in die Diplomatie einsteigen.",
+              "kurz": "Amazon-Gründer Jeff Bezos soll einen 100-Milliarden-Dollar-Fonds aufbauen, der KI-gestützte Fertigungsunternehmen übernehmen und automatisieren soll.",
+              "summary": "Laut einem Bericht des Wall Street Journal führt Jeff Bezos Gespräche mit grossen Vermögensverwaltern und nahöstlichen Staatsfonds, um einen 100-Milliarden-Dollar-Fonds für KI-gestützte Fertigung aufzubauen. Ziel ist die Übernahme und Automatisierung von Firmen in Bereichen wie Chipherstellung, Rüstung sowie Luft- und Raumfahrt. Das Vorhaben ist eng mit Bezos' Engagement beim KI-Start-up Project Prometheus verknüpft, das sich auf KI-Anwendungen für Produktion und Engineering konzentriert.",
+              "gegenstimme": "Bezos und die Mitgründer von Project Prometheus haben sich bisher nicht öffentlich geäussert. Kritiker fragen, ob die Verbindung zwischen einem riesigen Investitionsfonds und einem KI-Start-up, in dem Bezos Co-Chef sein soll, zu Interessenkonflikten führen könnte. Zudem bleibt offen, wer die tatsächliche Kontrolle über Fertigungsunternehmen nach einer Übernahme ausüben würde.",
               "sources": [
                 {
-                  "name": "Swissinfo – Öl- und Gasversorgung gesichert",
-                  "url": "https://www.swissinfo.ch/ger/klimaanpassung/warum-die-%c3%b6l-und-gasversorgung-der-schweiz-trotz-des-kriegs-im-iran-gesichert-ist/91111209"
-                },
-                {
-                  "name": "Swissinfo – Gute Dienste der Schweiz: Eine Bilanz",
-                  "url": "https://www.swissinfo.ch/ger/aussenpolitik/der-iran-krieg-und-die-guten-dienste-der-schweiz-eine-bilanz/91105120"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/automatisierung-jeff-bezos-will-offenbar-milliarden-in-ki-gestuetzte-fertigung-investieren/100210076.html"
                 }
               ]
             },
             {
-              "id": "2026-03-19-spitalnotfall-gebuehr",
-              "slug": "spitalnotfall-gebuehr",
-              "title": "CHF 50 für den Spitalnotfall: Nationalrat beschliesst neue Gebühr",
-              "date": "2026-03-19",
+              "id": "2026-03-20-flyer-ebike-huttwil-zukunft",
+              "slug": "flyer-ebike-huttwil-zukunft",
+              "title": "E-Bike-Pionier Flyer schreibt schwarze Zahlen – aber Huttwil zittert",
+              "date": "2026-03-20",
               "time": "07:00",
-              "category": "schweiz",
-              "icon": "🏥",
+              "category": "wirtschaft",
+              "icon": "🚲",
               "edition": "morning",
-              "image": "https://image.20min.ch/2026/02/23/358f605e-07c8-450e-8926-eecaaaf6952b.jpg",
-              "kurz": "Der Nationalrat hat eine Gebühr von 50 Franken für Spitalnotfälle ohne Überweisung beschlossen – mit Ausnahmen für Kinder, Schwangere und echte Notfälle.",
-              "summary": "Der Nationalrat hat am 18. März 2026 einer Vorlage zugestimmt, die es Kantonen erlaubt, eine Gebühr von 50 Franken für Notfallbesuche ohne Überweisung einzuführen. Ziel ist die Entlastung überlasteter Notaufnahmen. Mehrere Ausnahmen sind vorgesehen, das Geschäft geht nun in den Ständerat. Branchenverbände und der Bundesrat lehnen die Massnahme ab.",
-              "gegenstimme": "Der Spitalverband H+ sowie der Pflegeverband SBK lehnen die Gebühr ab. Sie befürchten mehr Verwaltungsaufwand, keine wirkliche Entlastung und eine Benachteiligung von vulnerablen Personen. Auch die Mitte-Fraktion im Ständerat steht der Vorlage skeptisch gegenüber – damit ist eine Mehrheit dort alles andere als sicher. Kritiker monieren zudem, dass fehlende Hausarztpraxen das eigentliche Problem seien.",
+              "image": "https://cdn.unitycms.io/images/EmV103lbKcf9dI8sgFn4Vt.jpg",
+              "kurz": "Der Berner E-Bike-Hersteller Flyer ist zurück in der Gewinnzone, will aber seine Montagehalle in Huttwil verkaufen – und verunsichert damit die Region.",
+              "summary": "Flyer, der älteste E-Bike-Hersteller der Welt mit Wurzeln in Huttwil, hat nach schwierigen Jahren wieder schwarze Zahlen geschrieben. Gleichzeitig hat das Unternehmen bekanntgegeben, die Montagehalle am Gründungsort Huttwil im Berner Oberland verkaufen zu wollen. Die Gemeinde und die Mitarbeitenden fragen sich, was das für den Produktionsstandort bedeutet.",
+              "gegenstimme": "Flyer betont, die Entscheidung sei ein reiner Immobilienschritt und keine Standortaufgabe. Skeptiker in Huttwil befürchten dennoch, dass der Verkauf der Infrastruktur mittelfristig auch die Verlagerung von Arbeitsplätzen bedeuten könnte – ein bekanntes Muster bei Restrukturierungen.",
               "sources": [
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/wer-ohne-schriftliche-ueberweisung-auf-den-notfall-geht-soll-fuenfzig-franken-bezahlen-muessen-entscheidet-der-nationalrat-ld.1929649"
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/flyer-huttwil-e-bike-hersteller-verkauft-montagehalle-187158571507"
                 },
                 {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/50-franken-der-spitalnotfall-soll-kuenftig-extra-kosten-mit-ausnahmen-103528809"
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/flyer-huttwil-e-bike-hersteller-verkauft-montagehalle-187158571507"
                 }
               ]
             },
             {
-              "id": "2026-03-19-swiss-fluege-gestrichen",
-              "slug": "swiss-fluege-gestrichen",
-              "title": "Swiss streicht 330 Sommerflüge – Pilotenmangel trifft Langstrecke",
-              "date": "2026-03-19",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "✈️",
-              "edition": "morning",
-              "image": "https://media.20min.ch/6/image/2025/05/16/26ca8b7d-0b63-41e4-86c6-aede729e1d6f.jpeg",
-              "kurz": "Swiss streicht 326 Sommerflüge wegen Pilotenmangels und Triebwerksproblemen – Langstrecken nach Chicago und Shanghai besonders betroffen.",
-              "summary": "Die Schweizer Fluggesellschaft Swiss muss aus ihrem Sommerflugplan 2026 insgesamt 326 Verbindungen streichen. Ursache ist ein Mangel an Pilotinnen und Piloten sowie technische Probleme bei mehreren Flugzeugen. Besonders hart trifft es Langstreckenverbindungen in die USA und nach China. Gleichzeitig kämpft die Airline mit einem paradoxen Überbestand an Kabinenpersonal.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass Swiss trotz mehrjähriger Vorwarnzeit erneut mit denselben Problemen kämpft wie 2025. Die strukturellen Personalplanungsprobleme der Airline werfen Fragen über das Management auf. Passagiere, die bereits gebucht haben, sind verunsichert – auch wenn Swiss betont, betroffene Kunden bereits im Februar informiert zu haben.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/wegen-piloten-mangel-swiss-muss-im-sommer-ueber-300-fluege-streichen-ld.1929823"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/swiss-streicht-im-sommer-330-fluege-103528761"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-bern-grossratswahl",
-              "slug": "bern-grossratswahl",
-              "title": "Berner Grossratswahl: Von Ferkeln, Scheissklima und Königen ohne Uniform",
-              "date": "2026-03-19",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "🗳️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/COfJy5bZKBEB2fGDM9qX87.jpg",
-              "kurz": "Zehn Tage vor den Berner Grossratswahlen vom 29. März kämpfen die Parteien mit kreativen – teils skurrilen – Mitteln um Wählerstimmen. Die inhaltlichen Streitpunkte sind bekannt: Sicherheit, Verkehr und Steuern.",
-              "summary": "Am 29. März 2026 wählt der Kanton Bern seinen 160-köpfigen Grossen Rat neu. Der Wahlkampf zeichnet sich durch ungewöhnliches Material aus – von Ferkeln auf Flyern bis zu Slogans wie 'Scheissklima'. Inhaltlich drehen sich die zentralen Streitpunkte um mehr Polizeipräsenz, Tempo 30 in Städten, Steuerpolitik und Klimaschutzmassnahmen. Die SVP ist mit 44 Sitzen aktuell die stärkste Kraft im Kantonsparlament.",
-              "gegenstimme": "Kritiker sehen im kreativen Wahlkampf einen Versuch, mit Provokation von inhaltlicher Substanz abzulenken. Linke Parteien warnen, dass konservative Kräfte mit Schlagworten wie 'mehr Sicherheit' letztlich soziale Leistungen abbauen wollen.",
-              "sources": [
-                {
-                  "name": "Der Bund – Kurioses im Wahlmaterial",
-                  "url": "https://www.derbund.ch/grossratswahlen-bern-kurioses-im-wahlmaterial-505979628003"
-                },
-                {
-                  "name": "Der Bund – Streitpunkte in der Politik",
-                  "url": "https://www.derbund.ch/berner-wahlen-2026-das-sind-die-streitpunkte-in-der-politik-813105303307"
-                },
-                {
-                  "name": "SRF – Grossratswahlen Bern 2026",
-                  "url": "https://www.srf.ch/news/schweiz/grossratswahlen-bern-2026-berner-grossratswahlen-comebacks-machtkampf-und-neue-gesichter"
-                },
-                {
-                  "name": "Wikipedia – Wahlen im Kanton Bern 2026",
-                  "url": "https://de.wikipedia.org/wiki/Wahlen_im_Kanton_Bern_2026"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-bern-museumsnacht",
-              "slug": "bern-museumsnacht",
-              "title": "Berner Museumsnacht heute Freitag: 240+ Veranstaltungen an 40 Orten",
-              "date": "2026-03-19",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "🏛️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/CE_w7Yhf4r593peT0iy7r9.jpg",
-              "kurz": "Heute Freitag, 19. März 2026, öffnen rund 40 Berner Kulturinstitutionen von 18 bis 2 Uhr morgens ihre Türen zur Museumsnacht. Das Programm umfasst über 240 Veranstaltungen – von KI-Kunst über Deaf Poetry Slam bis zu Insekten-Ausstellungen.",
-              "summary": "Die Museumsnacht Bern findet am Freitag, 19./20. März 2026, statt. Rund 40 Institutionen – Museen, Kulturorte und Behörden – laden von 18 bis 2 Uhr morgens zu Sonderprogrammen ein. Highlights sind unter anderem KI-Kunst im Nationalratssaal, ein Deaf Poetry Slam im Museum für Kommunikation und Sonderausstellungen zum Insektensterben. Das Ticket gilt als ÖV-Fahrausweis und ist vorab oder an der Kasse erhältlich.",
-              "gegenstimme": "Die Museumsnacht ist ein populäres Event, das jedoch primär ein bereits kulturinteressiertes Publikum erreicht. Kritiker fragen, ob die nötigen Ressourcen nicht stärker in Dauerangebote investiert werden sollten, die auch bildungsfernen Bevölkerungsgruppen zugänglich sind.",
-              "sources": [
-                {
-                  "name": "Der Bund – Museumsnacht Bern: Highlights",
-                  "url": "https://www.derbund.ch/museumsnacht-bern-programm-highlights-von-ki-bis-poetry-slam-661981731688"
-                },
-                {
-                  "name": "Museumsnacht Bern – offizielle Website",
-                  "url": "https://www.museumsnacht-bern.ch/"
-                },
-                {
-                  "name": "Museum für Kommunikation – Programm",
-                  "url": "https://www.mfk.ch/besuchen/news-events/museumsnacht-2026"
-                },
-                {
-                  "name": "Naturhistorisches Museum Bern – Programm",
-                  "url": "https://www.nmbe.ch/en/node/1425"
-                },
-                {
-                  "name": "Stadt Bern – Museumsnacht",
-                  "url": "https://www.bern.ch/themen/freizeit-und-sport/veranstaltungen/grosse-events/Museumsnacht"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-maerkte-oel-fed",
-              "slug": "maerkte-oel-fed",
-              "title": "Märkte unter Schock: Öl über $109, SMI -1.5%, Fed pausiert",
-              "date": "2026-03-19",
+              "id": "2026-03-20-maerkte-iran-riskoff",
+              "slug": "maerkte-iran-riskoff",
+              "title": "Börsen im freien Fall: Irankrieg schickt Märkte in den Risk-off-Modus",
+              "date": "2026-03-20",
               "time": "07:00",
               "category": "wirtschaft",
               "icon": "📉",
               "edition": "morning",
-              "image": "",
-              "kurz": "Der Iran-Krieg schickt die Weltbörsen ins Minus. Öl steigt auf über $109, der SMI verliert 1.5%. Die US-Notenbank Fed lässt die Zinsen unverändert und wartet ab.",
-              "summary": "Der anhaltende Iran-Krieg und die Sperrung der Strasse von Hormuz haben die Aktienmärkte weltweit unter Druck gesetzt. Brent-Rohöl stieg auf über 109 Dollar, der SMI verlor 1.5%, der Dow Jones rund 1.9%. Die US-Notenbank Fed beliess den Leitzins bei 3.5–3.75% und verwies auf die ungewisse Lage im Nahen Osten. Die EZB entscheidet heute – die Märkte haben ihre Erwartungen von Zinssenkungen hin zu möglichen Erhöhungen gedreht.",
-              "gegenstimme": "Einige Marktstrategen, darunter Stephan Kemper von BNP Paribas, halten die Reaktion der Märkte noch für erstaunlich moderat. Viele Anleger setzen auf eine baldige Lösung des Konflikts – doch diese Hoffnung schwächt sich ab. Der einzige Fed-Dissident Stephen Miran votierte für eine Zinssenkung, was zeigt, dass die Geldpolitik zwischen Inflationsangst und Wachstumsschwäche zerrieben wird.",
+              "image": "https://cdn.prod.www.spiegel.de/images/93c02480-a375-45f5-b1e4-825e348a9d86_w520_r2.08_fpx78_fpy51.jpg",
+              "kurz": "Der DAX schloss am Donnerstag 2.8% im Minus unter 23'000 Punkten – ausgelöst durch Angriffe auf Energieanlagen am Persischen Golf. Gold und Öl reagierten gegensätzlich.",
+              "summary": "Die Eskalation im Irankrieg – insbesondere Angriffe auf Energieanlagen in den Golfstaaten – hat die europäischen Börsen am Donnerstag stark belastet. Der DAX verlor in der Spitze über 3%, der SMI rund 2.4%, der Euro Stoxx 600 bis zu 2.8%. Brent-Öl stieg kurzzeitig, Gold legte 1.6% auf 4'720$/Unze zu. Die EZB liess den Leitzins unverändert. US-Börsen hielten sich dank Energieunabhängigkeit deutlich besser.",
+              "gegenstimme": "Analysten warnen, dass die Märkte die Inflation durch steigende Energiepreise noch unterschätzen könnten. Die EZB steht unter Druck: Zinssenkungen wären konjunkturell wünschenswert, doch eine neue Inflationswelle macht dies riskant.",
               "sources": [
                 {
-                  "name": "Handelsblatt – Fed Zinspause",
-                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/leitzins-us-notenbank-fed-verlaengert-zinspause-kurse-geben-deutlich-nach/100208668.html"
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-und-inflation-wirtschaft-unter-druck-durch-steigende-energiepreise-a-ffbf85ff-5bf7-476d-bbac-832de878333e"
                 },
                 {
-                  "name": "NZZ – Fed hält still",
-                  "url": "https://www.nzz.ch/wirtschaft/das-fed-haelt-einmal-mehr-still-und-ruehrt-den-leitzins-nicht-an-ld.1929851"
-                },
-                {
-                  "name": "Handelsblatt – EZB Inflationsgefahren",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/ezb-maerkte-machen-vor-zinsentscheid-druck-wegen-inflationsgefahren/100208909.html"
-                },
-                {
-                  "name": "Handelsblatt – Mythos kurzer Iran-Krieg",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-der-mythos-vom-kurzen-iran-krieg-verliert-an-glaubwuerdigkeit/100209250.html"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-rutscht-unter-23.000-punkte-und-schliesst-im-minus/100209813.html"
                 }
               ]
             },
             {
-              "id": "2026-03-19-swatch-franken",
-              "slug": "swatch-franken",
-              "title": "Swatch-Chef Hayek schlägt Alarm: «Starker Franken gefährdet Schweizer Industrie»",
-              "date": "2026-03-19",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "⌚",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/AGBFgRUXKtMBVUA_zFo8ei.jpg",
-              "kurz": "Swatch-CEO Nick Hayek warnt eindringlich vor dem starken Franken und dessen Folgen für den Schweizer Industriestandort – und greift die SNB scharf an.",
-              "summary": "Swatch-Group-CEO Nick Hayek hat an der Bilanzmedienkonferenz am 18. März 2026 deutliche Kritik an der Schweizerischen Nationalbank geübt. Wechselkurseffekte kosteten die Swatch Group allein in den ersten zwei Monaten des Jahres über 120 Millionen Franken Umsatz. Hayek fordert von der SNB klarere Signale, ohne ihr direkte Vorschriften machen zu wollen. Er bezeichnet den Franken als strukturell überbewertet und warnt vor einer Verlagerung von Industriejobs ins Ausland.",
-              "gegenstimme": "Die SNB hat betont, bei Bedarf am Devisenmarkt einzugreifen. Volkswirtschaftlich gilt der starke Franken auch als Ausdruck von Stabilität und Vertrauen in die Schweiz – ein Gut, das nicht einfach wegoptimiert werden sollte. Zudem ist die Morgan Stanley-Studie, die Hayek als 'Schwindel' bezeichnete, bislang nicht öffentlich kommentiert worden. Kritiker sehen in Hayeks Äusserungen teils Lobbying für Unternehmensinteressen.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/swatch-group-ceo-nick-hayek-schlaegt-alarm-so-kann-es-mit-dem-starken-franken-nicht-weitergehen-ld.1929844"
-                },
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/swatch-group-nick-hayek-nennt-morgan-stanley-studie-schwindel-414753107332"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-apple-march-event",
-              "slug": "apple-march-event",
-              "title": "Apple-Frühling: iPhone 17e, M5 MacBooks und neue Displays",
-              "date": "2026-03-19",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🍎",
-              "edition": "morning",
-              "image": "",
-              "kurz": "Apple hat im März 2026 eine ganze Produktserie lanciert: vom günstigen iPhone 17e über M5-MacBooks bis hin zu neuen externen Displays und dem MacBook Neo als Chromebook-Konkurrent.",
-              "summary": "Apple hat Anfang März 2026 in rascher Folge mehrere neue Produkte vorgestellt. Das iPhone 17e (599 Dollar) bringt den A19-Chip und erstmals MagSafe in die Budget-Linie. Gleichzeitig erschienen M5 MacBook Air und Pro mit deutlich gesteigerter KI-Leistung sowie das neue MacBook Neo als günstiger Laptop mit iPhone-Chip. Besonders auffällig: Apple hat nach Jahren erstmals wieder externe Displays lanciert, den Studio Display und den Studio Display XDR.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass das MacBook Neo mit nur 8 GB RAM und einem iPhone-Chip (A18 Pro statt M-Serie) für viele Nutzer keine vollwertige Mac-Erfahrung bietet. Auch das iPhone 17e bleibt mit einem einfachen 60-Hz-Display ohne Dynamic Island weit hinter den Pro-Modellen zurück. Der Preisanstieg beim MacBook Air (neu ab 1099 Dollar, 100 Dollar teurer als der Vorgänger) wird ebenfalls kritisiert.",
-              "sources": [
-                {
-                  "name": "TechCrunch – Apple März-Ankündigungen",
-                  "url": "https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/"
-                },
-                {
-                  "name": "Ars Technica – AirPods Max 2",
-                  "url": "https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/"
-                },
-                {
-                  "name": "The Verge – Apple März 2026",
-                  "url": "https://www.theverge.com/tech/888352/apple-march-2026-event-experience-announcements-iphone-macbook-ipad"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-ki-agenten-zukunft",
-              "slug": "ki-agenten-zukunft",
-              "title": "KI-Agenten statt Apps: Die nächste Revolution des Smartphones",
-              "date": "2026-03-19",
+              "id": "2026-03-20-meta-ai-moderation-rollout",
+              "slug": "meta-ai-moderation-rollout",
+              "title": "Meta ersetzt Moderatoren durch KI – Signal-Chef hilft mit Verschlüsselung",
+              "date": "2026-03-20",
               "time": "07:00",
               "category": "tech",
               "icon": "🤖",
               "edition": "morning",
               "image": "",
-              "kurz": "Nothing-CEO Carl Pei erklärt, dass KI-Agenten bald klassische Smartphone-Apps ersetzen werden. Shopify und Google bereiten sich bereits aktiv darauf vor – während das Pentagon Anthropic als Sicherheitsrisiko einstuft.",
-              "summary": "Carl Pei, CEO von Nothing, hat auf der SXSW-Konferenz prognostiziert, dass Apps als primäre Smartphone-Schnittstelle verschwinden werden. KI-Agenten sollen künftig Nutzerabsichten erkennen und Aufgaben autonom erledigen – von Kaffeeverabredungen bis zum Lebensmitteleinkauf. Google zeigt mit Gemini auf Pixel-Geräten bereits erste Umsetzungen, und Shopify rüstet seinen gesamten Commerce-Stack für KI-Shopping-Agenten um. Parallel dazu eskaliert der Konflikt zwischen dem US-Verteidigungsministerium und Anthropic: Das Pentagon stuft den KI-Hersteller als nationales Sicherheitsrisiko ein.",
-              "gegenstimme": "Skeptiker bezweifeln, ob KI-Agenten in absehbarer Zeit zuverlässig genug sein werden, um eigenständig Einkäufe oder Buchungen zu erledigen – Datenschutz und Kontrollverlust sind zentrale Bedenken. Ausserdem warnt Pei selbst, dass der Zeitrahmen unklar ist und Nothing's eigenes OS heute noch auf klassische Apps setzt. Die Pentagon-Anthropic-Kontroverse zeigt zudem, wie ungelöst die Frage ist, wer letztlich die ethischen Grenzen von KI-Systemen zieht.",
+              "kurz": "Meta rollt KI-gestützte Moderation für Facebook und Instagram aus und ersetzt damit schrittweise menschliche Content-Prüfer. Gleichzeitig kündigt Moxie Marlinspike – Gründer von Signal – an, Ende-zu-Ende-Verschlüsselung für Meta AI zu entwickeln.",
+              "summary": "Meta hat einen KI-Support-Assistenten für Facebook und Instagram global eingeführt, der rund um die Uhr Nutzerprobleme lösen und Inhalte überwachen soll. In einem weiteren Schritt sollen fortschrittlichere KI-Systeme menschliche Moderatoren bei repetitiver Inhaltsüberprüfung ablösen. Parallel dazu gibt Moxie Marlinspike, Gründer der verschlüsselten Messaging-App Signal, bekannt, seine Datenschutztechnologie für Meta AI bereitzustellen – ähnlich wie er 2016 das Signal-Protokoll in WhatsApp integrierte.",
+              "gegenstimme": "Datenschutzorganisationen warnen, dass KI-Systeme bei der Inhaltsmoderation zu unkontrollierbaren Fehlentscheidungen neigen – insbesondere bei kulturell sensiblen Inhalten oder in weniger verbreiteten Sprachen. Die Verlagerung von menschlichen auf maschinelle Entscheider verringert zudem die demokratische Rechenschaftspflicht über Zensur-Entscheidungen auf globalen Plattformen.",
               "sources": [
                 {
-                  "name": "TechCrunch – Nothing CEO Carl Pei",
-                  "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/"
+                  "name": "Meta Newsroom",
+                  "url": "https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas-apps-with-ai/"
                 },
                 {
-                  "name": "TechCrunch – Shopify und KI-Agenten",
-                  "url": "https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything/"
-                },
-                {
-                  "name": "The Verge – Google Gemini Pixel Drop",
-                  "url": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026"
-                },
-                {
-                  "name": "TechCrunch – Pentagon vs. Anthropic",
-                  "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-03-19-geistertanker-mittelmeer",
-              "slug": "geistertanker-mittelmeer",
-              "title": "Russischer Geistertanker treibt seit Wochen fuehrerlos im Mittelmeer",
-              "date": "2026-03-19",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🚢",
-              "edition": "midday",
-              "image": "https://image.20min.ch/2026/03/19/a83d0b35-ff3e-4a39-9c68-219f0f6c5e70.jpg",
-              "kurz": "Ein beschaedigter russischer Schattenflotten-Tanker treibt seit ueber zwei Wochen fuehrerlos im Mittelmeer. An Bord befinden sich 700 Tonnen Treibstoff sowie grosse Mengen Erdgas – eine Umweltkatastrophe droht.",
-              "summary": "Der Tanker Arctic Metagaz, Teil der russischen Schattenflotte, wurde laut Moskau bei einem ukrainischen Angriff schwer beschaedigt und treibt seitdem manoverierunfaehig im Mittelmeer. Das Schiff hat ein klaffendes Loch und transportiert gefaehrliche Mengen Treibstoff und Erdgas. Russland fordert die Anrainerstaaten auf, die Situation zu bewaeltigen – und zeigt damit, wie problematisch die rechtliche Zustaendigkeit bei solchen Schattenflottenschiffen ist.",
-              "gegenstimme": "Russland gibt die Ukraine als Schuldige an, ohne unabhaengige Beweise vorzulegen. Gleichzeitig operieren Schattenflotten-Tanker absichtlich ausserhalb regulaerer Meldesysteme und ohne Versicherung – das macht die Haftungsfrage zum juristischen Niemandsland, von dem Moskau nun profitieren will.",
-              "sources": [
-                {
-                  "name": "20min: Russischer Geister-Tanker treibt fuehrerlos im Mittelmeer",
-                  "url": "https://www.20min.ch/story/katastrophe-droht-russischer-geister-tanker-treibt-fuehrerlos-im-mittelmeer-103529493"
+                  "name": "Confer Blog (Moxie Marlinspike)",
+                  "url": "https://confer.to/blog/2026/03/encrypted-meta/"
                 }
               ]
             },
             {
-              "id": "2026-03-19-iran-hormus-energiekrise-europa",
-              "slug": "iran-hormus-energiekrise-europa",
-              "title": "Hormus-Strasse: Europa droht dritte Energiekrise – Spritpreise explodieren",
-              "date": "2026-03-19",
-              "time": "12:15",
-              "category": "international",
-              "icon": "⛽",
-              "edition": "midday",
-              "image": "https://image.20min.ch/2026/03/19/3b2b6246-41f5-4319-a097-4252bcba494f.jpg",
-              "kurz": "Seit dem US-israelischen Angriff auf den Iran am 28. Februar ist die Strasse von Hormus faktisch blockiert. Europa steuert auf eine dritte Energiekrise zu – Italien und Oesterreich reagieren mit Steuersenkungen.",
-              "summary": "Die Blockade der Strasse von Hormus durch den Iran trifft Europa mit voller Wucht. Rund 20 Prozent des weltweiten Oels und Fluessigerdgases passieren normalerweise diesen Korridor. Die Spritpreise sind seither stark gestiegen – besonders betroffen ist Suedeuropa. Waehrend Deutschland noch vergleichsweise glimpflich davonkommt, senken Italien und Oesterreich bereits die Mineralolsteuer, um die Buerger zu entlasten.",
-              "gegenstimme": "Kritiker warnen, dass Steuersenkungen lediglich kurzfristige Symptombekaempfung sind und die strukturelle Abhaengigkeit Europas von Golfstaaten-Energie nicht loesen. Eine beschleunigte Energiewende waere die nachhaltigere Antwort – doch die politische Bereitschaft dafuer fehlt in vielen EU-Laendern.",
-              "sources": [
-                {
-                  "name": "BBC: Why the Strait of Hormuz matters",
-                  "url": "https://www.bbc.com/news/articles/c78n6p09pzno"
-                },
-                {
-                  "name": "BBC: How the Iran war has left Europe facing yet another energy crisis",
-                  "url": "https://www.bbc.com/news/articles/c24de9e97vno"
-                },
-                {
-                  "name": "Spiegel: Hormus-Blockade belastet Italien staerker als Deutschland",
-                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland-a-d25d3f51-d4f5-4375-9df3-846262bcf064"
-                },
-                {
-                  "name": "20min: Oesterreich und Italien senken Mineralol-Steuer",
-                  "url": "https://www.20min.ch/story/italien-und-oesterreich-explodierende-benzinpreise-nachbarn-reagieren-mit-steuersenkung-103529595"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-ukraine-friedensgespraeche-pausiert",
-              "slug": "ukraine-friedensgespraeche-pausiert",
-              "title": "Iran-Krieg stoppt Ukraine-Friedensgespraeche – Verhandlungen ausgesetzt",
-              "date": "2026-03-19",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🕊️",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Die trilateralen Friedensgespraeche zwischen den USA, Russland und der Ukraine sind wegen des Iran-Kriegs offenbar unterbrochen worden. Gleichzeitig blockiert Ungarn eine EU-Anleihe von 90 Milliarden Euro fuer Kiew.",
-              "summary": "Laut einem russischen Medienbericht ruhen die Verhandlungen zur Beendigung des Ukraine-Kriegs derzeit. Die diplomatische Aufmerksamkeit der USA ist durch den Iran-Konflikt gebunden. Moskau profitiert von der Pause, da der militaerische Druck auf die Ukraine anhalt. Parallel dazu verhindert Ungarns Premier Viktor Orban beim EU-Gipfel in Bruessel die Freigabe eines 90-Milliarden-Euro-Kredits fuer die Ukraine.",
-              "gegenstimme": "Russische Medienberichte ueber eine Unterbrechung der Gespraeche koennen auch strategischer Natur sein – Moskau hat Interesse daran, den Eindruck zu erwecken, dass Verhandlungen scheitern, um westliche Uneinigkeit zu betonen. Die tatsaechliche Gespraechslage bleibt unklar.",
-              "sources": [
-                {
-                  "name": "Spiegel: Friedensgespraeche offenbar unterbrochen wegen Iran-Krieg",
-                  "url": "https://www.spiegel.de/ausland/ukraine-russland-krieg-gespraeche-offenbar-unterbrochen-wegen-iran-krieg-a-58db423d-4fd8-4967-ab32-0e939424f0e1"
-                },
-                {
-                  "name": "The Guardian: Europe live – Orban blocks EU loan to Ukraine",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/19/europe-ukraine-russian-eu-loan-orban-hungary-tariffs-iran-nato-latest-news-updates"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-dengue-tigermuecke-schweiz",
-              "slug": "dengue-tigermuecke-schweiz",
-              "title": "Dengue-Virus erstmals in Tigermücke nördlich der Alpen nachgewiesen",
-              "date": "2026-03-19",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🦟",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Das Kantonale Laboratorium Basel-Stadt hat das Dengue-Virus in einer Tigermücke gefunden – ein Erstfund nördlich der Alpen. Der Nachweis stammt aus dem Jahr 2024, wurde aber erst jetzt publiziert.",
-              "summary": "Wissenschafter haben 2024 in Basel erstmals das Dengue-Virus in einer Asiatischen Tigermücke nördlich der Alpen nachgewiesen. Der Fund unterstreicht, wie Klimawandel und globaler Reiseverkehr exotische Krankheitserreger in die Schweiz bringen. Experten geben teilweise Entwarnung: Eine dauerhafte lokale Übertragungskette gilt als unwahrscheinlich, da die Viren hohe Temperaturen benötigen. Dennoch sind Tigermücken auch ohne Viren eine wachsende Plage in Nordschweizer Städten.",
-              "gegenstimme": "Experten betonen, dass die lokale Übertragungskette von Dengue in Mitteleuropa wegen ungenügend hoher Durchschnittstemperaturen unwahrscheinlich bleibt. Kritisch ist aber die unzureichende Eigeninitiative der Bevölkerung nördlich der Alpen: Kontrollen in Spitälern, Schulen und Wohnhäusern in Basel zeigten kaum Vorkehrungen gegen Tigermücken – obwohl Informationsmaterial der Behörden vorhanden ist.",
-              "sources": [
-                {
-                  "name": "NZZ – Kommentar",
-                  "url": "https://www.nzz.ch/meinung/erstmals-wurde-das-dengue-virus-in-einer-tigermuecke-noerdlich-der-alpen-nachgewiesen-es-ist-hoechste-zeit-dass-wir-entschieden-gegen-die-plagegeister-vorgehen-ld.1929874"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-olympia-2038-schweiz",
-              "slug": "olympia-2038-schweiz",
-              "title": "Olympische Winterspiele 2038 in der Schweiz: Abstimmung droht der Kandidatur",
-              "date": "2026-03-19",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🏔️",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Die Schweiz bewirbt sich für die Olympischen Winterspiele 2038, doch Politiker aus verschiedenen Lagern fordern zuerst eine Volksabstimmung. Die Zeit drängt: Das IOC entscheidet noch in diesem Jahr.",
-              "summary": "Der Bund unterstützt eine Schweizer Olympia-Kandidatur 2038 offiziell mit 200 Millionen Franken, doch in der Politik ist umstritten, ob das Volk darüber abstimmen soll. SVP, SP und Grüne fordern einen Urnengang als Voraussetzung für Steuergelder. Die FDP zeigt sich offen, hält ihn aber nicht für zwingend. Der Verein «Switzerland 2038» rechnet mit einem harten Abstimmungskampf – und die Geschichte zeigt: Olympia-Vorlagen hatten in der Schweiz bisher meist keinen Erfolg.",
-              "gegenstimme": "Skeptiker – darunter die Grünen – zweifeln an der Nachhaltigkeit grosser Olympia-Infrastrukturen: Neubauten, die nach den Spielen leer stehen, verstärkter Verkehr und ökologische Belastungen seien nicht mit den Klimazielen der Schweiz vereinbar.",
-              "sources": [
-                {
-                  "name": "SRF News – Droht der Schweizer Olympia-Kandidatur das Aus an der Urne?",
-                  "url": "https://www.srf.ch/news/schweiz/olympische-winterspiele-2038-droht-der-schweizer-olympia-kandidatur-das-aus-an-der-urne"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-china-tech-offensive-europa",
-              "slug": "china-tech-offensive-europa",
-              "title": "Chinas Fünfjahresplan als Warnsignal: Europas Industrie verliert Tech-Markt",
-              "date": "2026-03-19",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "🇨🇳",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Chinas neuer Fünfjahresplan zielt auf technologische Unabhängigkeit und globale Führerschaft in Schlüsselindustrien. Der BDI warnt Europa vor dem Absturz in die Nische.",
-              "summary": "Mit dem neuen Fünfjahresplan startet China eine umfassende Tech-Offensive in Branchen, in denen Europa heute noch führend ist. Wolfgang Niedermark vom Bundesverband der Deutschen Industrie (BDI) warnt: Europa droht auf dem chinesischen Markt zum Nischenanbieter zu werden – und auf anderen Märkten sogar überholt zu werden. Peking baut seit zwei Jahrzehnten systematisch industrielle Kapazitäten auf und investiert massiv in Forschung, Entwicklung und strategische Lieferketten. Die Dringlichkeit des Handelns sei jetzt höher denn je.",
-              "gegenstimme": "Kritiker mahnen, Europa solle nicht reflexartig in Abschottung und Subventionswettläufe verfallen. Eine engere Kooperation mit China in bestimmten Bereichen – etwa Klimatechnologie – könnte langfristig vorteilhafter sein als ein reiner Konfrontationskurs.",
-              "sources": [
-                {
-                  "name": "Handelsblatt – Gastkommentar Wolfgang Niedermark (BDI)",
-                  "url": "https://www.handelsblatt.com/meinung/global-challenges/gastkommentar-global-challenges-chinas-fuenfjahresplan-ist-ein-weckruf-fuer-europas-industrie/100209100.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-nestle-schokoladenpark",
-              "slug": "nestle-schokoladenpark",
-              "title": "Nestlé investiert 400 Millionen in riesigen Cailler-Schokoladenpark in Broc",
-              "date": "2026-03-19",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "🍫",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Nestlé und die Investmentgesellschaft Jogne Invest planen in Broc FR einen Schokoladenpark fuer CHF 400 Millionen. Das Projekt soll bis zu einer Million Besuchende pro Jahr anziehen.",
-              "summary": "Auf dem historischen Gelände der Cailler-Fabrik in Broc (Freiburg) entsteht ein Schokoladenpark der Superlative: 400 Millionen Franken Investitionsvolumen, 30'000 Quadratmeter Fläche, drei Kakao-Gewächshäuser und eine Seilbahn vom geplanten Parkhaus. Das Projekt von Nestlé Schweiz und Jogne Invest wurde nach Einwänden eidgenössischer Denkmalschutzkommissionen angepasst. Zehn Baugesuche werden Ende März öffentlich aufgelegt. Die erste Bauetappe soll ab 2030 eröffnet werden.",
-              "gegenstimme": "Zwei eidgenössische Kommissionen fuer Denkmalschutz sowie Natur- und Heimatschutz haben eine frühere Projektversion 2025 kritisiert und eine Redimensionierung verlangt, um das national bedeutsame Ortsbild zu erhalten. Kritiker befürchten zudem, dass ein Besucherstrom von bis zu einer Million Personen die Infrastruktur und den Charakter des kleinen Dorfes Broc dauerhaft verändern könnte.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/grossprojekt-im-greyerzerland-nestle-plant-riesigen-schokoladenpark-fuer-400-millionen-franken"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-snb-nullzins",
-              "slug": "snb-nullzins",
-              "title": "SNB belässt Leitzins bei 0% – Nullzins trotz Inflation und Konjunkturabschwächung",
-              "date": "2026-03-19",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "🏦",
-              "edition": "midday",
-              "image": "https://media.20min.ch/6/image/2025/12/11/ea8eceeb-6f60-4a8c-9273-b52f5f89eda0.jpg",
-              "kurz": "Die Schweizerische Nationalbank belässt den Leitzins erneut bei 0 Prozent – zum dritten Mal in Folge. Das Seco senkt gleichzeitig seine Wachstumsprognose für 2026 auf 1,0 Prozent.",
-              "summary": "Die SNB hält an ihrem Nullzins fest und begründet dies mit tiefer Inflation und erhöhter Unsicherheit durch den Irankrieg. SNB-Präsident Martin Schlegel betonte die erhöhte Bereitschaft zur Devisenmarktintervention. Das Staatssekretariat für Wirtschaft (Seco) senkte seine BIP-Wachstumsprognose für 2026 von 1,1 auf 1,0 Prozent, vor allem wegen steigender Ölpreise und eines starken Frankens. Für 2027 rechnen die Bundesökonomen mit einer moderaten Erholung auf 1,7 Prozent BIP-Wachstum.",
-              "gegenstimme": "Gewerkschaften und Exportindustrie kritisieren die SNB für Passivität beim starken Franken. Ein unveränderter Nullzins und ein starker Franken kombiniert mit US-Zöllen bilden für die Exportwirtschaft eine gefährliche Mischung. Laut Ökonomen lassen sich sinkende Margen und Produktivitätssteigerungen nicht endlos durchhalten.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/wirtschaft/geldpolitische-lagebeurteilung-snb-belaesst-den-zinssatz-bei-0-prozent"
-                },
-                {
-                  "name": "cash.ch / AWP",
-                  "url": "https://www.cash.ch/news/bundesokonomen-erwarten-wegen-olpreisschub-leicht-tieferes-wachstum-919825"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-03-19-pentagon-200-milliarden-iran",
-              "slug": "pentagon-200-milliarden-iran",
-              "title": "Pentagon beantragt 200 Milliarden Dollar für Iran-Krieg",
-              "date": "2026-03-19",
-              "time": "18:00",
-              "category": "international",
-              "icon": "💰",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Das US-Verteidigungsministerium hat laut einem Medienbericht beim Weissen Haus einen Nachtragskredit von über 200 Milliarden Dollar für den laufenden Krieg gegen den Iran beantragt. Bereits in der ersten Kriegswoche sollen die Kosten mehr als elf Milliarden Dollar betragen haben.",
-              "summary": "Die Kosten des Iran-Kriegs steigen für die USA rasant. Laut der 'Washington Post' fordert das Pentagon Mittel von mehr als 200 Milliarden Dollar, um Rüstungsgüter nachzubeschafften und die Einsatzbereitschaft des Militärs zu sichern. Der Antrag übersteigt die gesamte bisherige US-Militärhilfe für die Ukraine bei weitem. Ob der Kongress einer solchen Summe zustimmt, gilt als fraglich.",
-              "gegenstimme": "Haushaltspolitiker beider Parteien zeigen sich skeptisch: Trumps Verteidigungshaushalt war vor dem Krieg bereits mit 1,5 Billionen Dollar auf einem historischen Höchststand – ein zusätzlicher Notantrag von 200 Milliarden dürfte im Kongress auf erheblichen Widerstand stossen, insbesondere bei fiskalisch konservativen Republikanern.",
-              "sources": [
-                {
-                  "name": "Spiegel – Pentagon beantragt 200 Milliarden Dollar für Krieg in Iran",
-                  "url": "https://www.spiegel.de/ausland/iran-pentagon-beantragt-200-milliarden-dollar-fuer-krieg-in-iran-a-61477678-e210-4d6f-8ec6-67cea7b08a94"
-                },
-                {
-                  "name": "Washington Post – Iran cost budget Pentagon",
-                  "url": "https://www.washingtonpost.com/national-security/2026/03/18/iran-cost-budget-pentagon/"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-pistorius-hormuz-bundeswehr",
-              "slug": "pistorius-hormuz-bundeswehr",
-              "title": "Pistorius schliesst Bundeswehr-Einsatz in der Strasse von Hormuz nicht aus",
-              "date": "2026-03-19",
-              "time": "18:00",
-              "category": "international",
-              "icon": "⚓",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Verteidigungsminister Boris Pistorius hat einen Bundeswehr-Einsatz zur Sicherung der Strasse von Hormuz unter Bedingungen nicht ausgeschlossen. Voraussetzung sei ein Waffenstillstand im Iran-Krieg.",
-              "summary": "Deutschland, Frankreich, Grossbritannien, Italien, die Niederlande und Japan haben gemeinsam angekündigt, zur Sicherung der Strasse von Hormuz beitragen zu wollen. Bundeskanzler Friedrich Merz knüpfte eine Beteiligung klar an das Ende der Kampfhandlungen. Der Iran hat nach israelischen Angriffen auf das Gasfeld South Pars seinerseits Energieanlagen in Katar und Saudi-Arabien attackiert, was die globale LNG-Versorgung massiv gefährdet. Die Lage im Persischen Golf bleibt hochgefährlich.",
-              "gegenstimme": "Oppositionspolitiker und Teile der Bevölkerung warnen vor einem direkten militärischen Engagement Deutschlands im Persischen Golf. Ein Einsatz würde Deutschland tiefer in einen Konflikt hineinziehen, dessen Dynamik schwer kontrollierbar ist und der die Bundeswehr bereits durch laufende Missionen stark beansprucht.",
-              "sources": [
-                {
-                  "name": "Spiegel – Iran-News heute: Pistorius schliesst Bundeswehreinsatz nicht aus",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746"
-                },
-                {
-                  "name": "Handelsblatt – Iran-Krieg: Industriestaaten wollen Strasse von Hormuz sichern",
-                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-industriestaaten-wollen-strasse-von-hormus-sichern/100209990.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-ahv-13-mischfinanzierung",
-              "slug": "ahv-13-mischfinanzierung",
-              "title": "13. AHV-Rente: Ständerat hält an Mischfinanzierung fest – Jungparteien protestieren",
-              "date": "2026-03-19",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🧓",
-              "edition": "evening",
-              "image": "https://image.20min.ch/2026/03/19/628108af-6e7f-4ff0-8f7f-53bb16a8590c.jpg",
-              "kurz": "Der Ständerat hat mit 23 zu 18 Stimmen beschlossen, die 13. AHV-Rente über eine Kombination aus Mehrwertsteuererhöhung und höheren Lohnabgaben zu finanzieren. Jungfreisinnige und Junge GLP protestierten unmittelbar nach dem Entscheid lautstark vor dem Bundeshaus.",
-              "summary": "Der Ständerat hat am 19. März 2026 das Finanzierungsmodell für die 13. AHV-Rente festgelegt: Die Mehrwertsteuer soll unbefristet um 0,4 Prozentpunkte und die Lohnabgaben um 0,3 Prozentpunkte angehoben werden. Der Nationalrat hingegen will nur eine befristete Mehrwertsteuererhöhung um 0,7 Prozentpunkte bis 2030. Die Differenz muss in einer weiteren Beratungsrunde bereinigt werden. Jungfreisinnige und Junge GLP protestierten symbolisch vor dem Bundeshaus und sprechen von einer 'Allianz der Alten'.",
-              "gegenstimme": "FDP-Ständerat Josef Dittli kritisierte die Lohnbeitragserhöhung als 'faktisch eine zusätzliche Steuer auf die Arbeit', die vor allem Jüngere belaste. GLP-Nationalrätin Barbara Schaffner verwies darauf, dass für das Modell möglicherweise eine Verfassungsänderung und damit eine Volksabstimmung nötig wird. Die Jungparteien fordern stattdessen eine umfassende AHV-Reform inklusive Diskussion über das Rentenalter.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/13-ahv-rente-staenderat-haelt-an-mischfinanzierung-fest-jungparteien-toben-103529031"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-alpenmaut-gotthard",
-              "slug": "alpenmaut-gotthard",
-              "title": "Nationalrat beschliesst Alpenmaut: Ausländer zahlen bald für Gotthard-Durchfahrt",
-              "date": "2026-03-19",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🏔️",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/3obSETRJaVKBuMLVnW-nWi.jpg",
-              "kurz": "Der Nationalrat hat mit 173 zu 13 Stimmen beschlossen, dass ausländische Fahrzeuge künftig für die reine Durchfahrt durch die Schweiz eine Abgabe zahlen müssen. Der Bundesrat muss nun eine Gesetzesvorlage ausarbeiten.",
-              "summary": "Der Nationalrat hat am 19. März 2026 eine Motion von SVP-Ständerat Marco Chiesa mit grossem Mehr angenommen, die eine Durchfahrtsabgabe für ausländische Transitfahrzeuge einführen will. Die Abgabe soll flexibel nach Wochentag, Tageszeit und Verkehrsdichte bemessen werden. Die Einnahmen fliessen in den Strassenfonds. Verkehrsminister Albert Rösti warnte vor erheblichem administrativem Aufwand, konnte den Nationalrat aber nicht überzeugen.",
-              "gegenstimme": "Verkehrsminister Rösti und GLP-Vertreterin Barbara Schaffner zweifeln an der praktischen Umsetzbarkeit: Die Überwachung sämtlicher Grenzübergänge wäre kostenintensiv, und die Definition von 'Transit' gegenüber einem 'Aufenthalt' sei rechtlich kaum trennscharf zu fassen. Zudem könnte eine Verfassungsänderung nötig werden, was eine Volksabstimmung bedingen würde.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/parlament-sagt-ja-auslaender-sollen-bald-zahlen-wenn-sie-durch-die-schweiz-fahren-103529793"
-                },
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/gotthard-stau-parlament-beschliesst-alpenmaut-fuer-auslaender-186041277597"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-neutralitaetsinitiative-urne",
-              "slug": "neutralitaetsinitiative-urne",
-              "title": "Neutralitätsinitiative kommt ohne Gegenvorschlag an die Urne",
-              "date": "2026-03-19",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "evening",
-              "image": "",
-              "kurz": "National- und Staenderat haben sich in der Einigungskonferenz geeinigt: Die Neutralitaetsinitiative von SVP und Pro Schweiz kommt ohne Gegenvorschlag zur Volksabstimmung. Das Stimmvolk entscheidet voraussichtlich im Herbst 2026.",
-              "summary": "Nach mehrfacher parlamentarischer Differenzbereinigung hat der Staenderat am Donnerstag mit 29 zu 11 Stimmen dem Antrag der Einigungskonferenz zugestimmt und auf einen direkten Gegenentwurf verzichtet. Damit folgt die kleine Kammer der Linie des Nationalrats und des Bundesrats. Die Initiative von SVP-Exponent Christoph Blocher verlangt, die immerwehrende, bewaffnete Neutralitaet sowie ein weitgehendes Sanktionsverbot in der Bundesverfassung zu verankern. Beide Raete empfehlen dem Volk, die Initiative abzulehnen.",
-              "gegenstimme": "SVP und Teile der Mitte hatten einen Gegenvorschlag bevorwortet, der zumindest die Neutralitaetsdefinition in der Verfassung festgeschrieben haette. Sie kritisieren, das Parlament bringe damit die Neutralitaet als Staatsprinzip in Gefahr. Christoph Blocher hatte hinter den Kulissen sogar angeboten, die Initiative zurueckzuziehen, falls ein Gegenvorschlag zustande komme – was darauf hindeutet, dass er die Abstimmung fuerchtet.",
-              "sources": [
-                {
-                  "name": "Nau.ch",
-                  "url": "https://www.nau.ch/politik/bundeshaus/gegenvorschlag-zur-neutralitatsinitiative-ist-vom-tisch-67107647"
-                },
-                {
-                  "name": "Watson",
-                  "url": "https://www.watson.ch/schweiz/svp/233678929-christoph-blocher-wollte-die-neutralitaetsinitiative-zurueckziehen"
-                },
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/fruehjahrssession-2026-neutralitaetsinitiative-gegenvorschlag-muss-in-einigungskonferenz"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-schweizer-firmen-evakuierung-iran",
-              "slug": "schweizer-firmen-evakuierung-iran",
-              "title": "95 Mitarbeitende evakuiert: Schweizer Firmen reagieren auf Bedrohung durch Iran",
-              "date": "2026-03-19",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🚨",
-              "edition": "evening",
-              "image": "https://image.20min.ch/2026/03/19/71862322-1ab9-4db7-be3f-5c4a43092f36.jpg",
-              "kurz": "Die iranischen Revolutionsgarden haben US-Firmen in der Golfregion als Angriffsziele erklärt. Schweizer Unternehmen mit Mitarbeitenden in der Region reagieren mit Reiseverboten, Betriebsschliessungen und Evakuierungen.",
-              "summary": "Nachdem iranische Revolutionsgarden gedroht haben, amerikanische Firmen und ihre Mitarbeitenden in der Golfregion anzugreifen, haben auch zahlreiche Schweizer Unternehmen Sicherheitsmassnahmen ergriffen. Firmen wie Roche, ABB, Sulzer und Georg Fischer haben Reiseverbote verhängt oder Standorte temporär geschlossen. Das Krisenunternehmen SOS International hat bereits 95 Mitarbeitende von Schweizer Kunden aus der Region evakuiert. Experten schätzen, dass sich viele Unternehmen nach dem initialen Schock nun auf eine längere Krisenphase einstellen.",
-              "gegenstimme": "SOS International empfiehlt aktuell keine generelle Evakuierung aus den VAE, Saudi-Arabien oder dem Oman – diese Länder gelten noch als ausreichend sicher. Kritiker könnten argumentieren, dass einzelne Unternehmen möglicherweise übervorsichtig reagieren und unnötige wirtschaftliche Schäden riskieren, während andere Firmen wie Nestlé die Situation öffentlich kaum kommentieren.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/wer-geht-wer-bleibt-95-leute-evakuiert-so-reagieren-schweizer-firmen-auf-irankrieg-103529618"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-ezb-zinsentscheid",
-              "slug": "ezb-zinsentscheid",
-              "title": "EZB lässt Leitzins unverändert – aber erhöht Inflationsprognose wegen Iran-Krieg",
-              "date": "2026-03-19",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "🇪🇺",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Die Europäische Zentralbank hat den Leitzins auf ihrer März-Sitzung unverändert belassen. Wegen der Auswirkungen des Iran-Kriegs auf die Energiepreise hebt die EZB ihre Inflationsprognose für 2026 deutlich an.",
-              "summary": "Die EZB hält an ihrem aktuellen Zinsniveau fest, obwohl Investoren auf eine baldige Zinswende hoffen. EZB-Präsidentin Christine Lagarde mahnte zur Geduld und verwies auf erhebliche Unsicherheiten. Die neuen Projektionen zeigen: Die EZB rechnet nun mit einer Inflation von durchschnittlich 2,6 Prozent für dieses Jahr – 0,7 Prozentpunkte mehr als noch im Dezember. Treiber ist vor allem der Energiepreisanstieg infolge des Konflikts im Persischen Golf.",
-              "gegenstimme": "Kritiker sehen in der abwartenden Haltung der EZB ein Risiko: Sollten die Energiepreise weiter steigen und die Inflation dauerhaft über dem Zielwert von 2 Prozent verharren, könnten spätere Zinsschritte deutlich schmerzhafter ausfallen als ein frühzeitiges Eingreifen.",
-              "sources": [
-                {
-                  "name": "Handelsblatt – EZB: Investoren wetten auf Zinswende, doch Lagarde predigt Geduld",
-                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-investoren-wetten-auf-zinswende-doch-lagarde-predigt-geduld/100209117.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-19-cern-neues-teilchen",
-              "slug": "cern-neues-teilchen",
-              "title": "CERN-Forscher entdecken neues Teilchen: «Xicc+» schwerer als ein Proton",
-              "date": "2026-03-19",
-              "time": "18:00",
+              "id": "2026-03-20-tesla-fsd-regulierung",
+              "slug": "tesla-fsd-regulierung",
+              "title": "Tesla-Autopilot: US-Behörde verschärft Prüfung der Selbstfahr-Technik",
+              "date": "2026-03-20",
+              "time": "07:00",
               "category": "tech",
-              "icon": "⚛️",
-              "edition": "evening",
-              "image": "https://image.20min.ch/2026/03/17/9731e01c-4bda-4e5c-9b25-0cc3fa2f72f7.png",
-              "kurz": "Am CERN wurde ein neues subatomares Teilchen entdeckt, das viermal schwerer als ein Proton ist und aus zwei Charm-Quarks sowie einem Down-Quark besteht. Es ist erst das zweite bekannte Baryon mit zwei schweren Quarks.",
-              "summary": "Forschende der LHCb-Kollaboration am Large Hadron Collider haben ein neues Teilchen identifiziert, das eine aehnliche Struktur wie das Proton aufweist, aber deutlich schwerer ist. Das sogenannte Xicc+ besteht aus zwei Charm-Quarks und einem Down-Quark. Der Fund soll helfen, die starke Wechselwirkung besser zu verstehen – die fundamentale Kraft, die Materieteilchen zusammenhaelt. Es handelt sich um den ersten bedeutenden Fund seit den Verbesserungsarbeiten am LHCb-Detektor, die 2023 abgeschlossen wurden.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass solche Entdeckungen kurzlebiger, instabiler Teilchen im Labor kaum direkte praktische Anwendungen haben. Die immensen Kosten des LHC-Betriebs stehen in der Diskussion: Ob rein grundlagenwissenschaftliche Erkenntnisse dieser Art den Aufwand rechtfertigen, wird in Teilen der Wissenschaftspolitik kontrovers beurteilt.",
+              "icon": "🚗",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/cba31fa3-bf70-44e3-8a86-7d34daf59ff8_w520_r2.08_fpx46.48_fpy49.99.jpg",
+              "kurz": "Die US-Verkehrssicherheitsbehörde NHTSA vertieft ihre Untersuchung von Teslas kamerabasiertem Fahrassistenzsystem FSD. Kernfrage: Ist das System bei schlechten Sichtbedingungen sicher genug?",
+              "summary": "Die NHTSA hat ihre Prüfung von Teslas Full Self-Driving (FSD) System intensiviert. Auswertungen von Unfalldaten zeigen Hinweise auf Schwächen bei schlechten Sichtverhältnissen. Elon Musk setzt als einziger grosser Anbieter konsequent nur auf Kameras – ohne Lidar oder Radar. Konkurrenten wie Waymo (Google) kombinieren hingegen mehrere Sensortechnologien.",
+              "gegenstimme": "Tesla und Musk argumentieren, dass ein rein kamerabasiertes System am Ende zuverlässiger und kostengünstiger sein wird als Lidar-Systeme. Auch der menschliche Fahrer sieht schliesslich nur mit Augen – also Kameras. Ob diese Analogie technisch trägt, ist umstritten.",
               "sources": [
                 {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/aehnlich-wie-proton-kleine-sensation-cern-forscher-entdecken-neues-teilchen-103528380"
-                },
-                {
-                  "name": "CERN / LHCb-Kollaboration",
-                  "url": "https://home.cern"
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/mobilitaet/tesla-us-behoerde-intensiviert-pruefung-von-teslas-selbstfahr-technik-a-5c9bd12b-db44-4e7b-85b5-7ef2398f4927"
                 }
               ]
             }
