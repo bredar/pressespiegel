@@ -1,755 +1,417 @@
 {
-  "updated": "17:33 UTC",
+  "updated": "05:11 UTC",
   "days": [
     {
-      "date": "2026-03-20",
+      "date": "2026-03-21",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-03-20-daenemark-groenland-militaer",
-              "slug": "daenemark-groenland-militaer",
-              "title": "Dänemark schickte Elitetruppen mit Sprengstoff nach Grönland",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🧊",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/3319eac7-0722-4a83-a113-7fe9959f4f9b_w520_r2.08_fpx54.59_fpy49.87.jpg",
-              "kurz": "Dänemark bereitete sich laut dem Staatssender DR heimlich auf eine mögliche US-Invasion Grönlands vor – mit Elitetruppen, Sprengstoff für Landebahnen und Blutkonserven.",
-              "summary": "Der dänische Staatssender DR berichtet, dass Kopenhagen im Januar 2026 Elitetruppen mit Sprengstoff und medizinischen Vorräten nach Grönland entsandte, um auf eine mögliche US-Invasion vorbereitet zu sein. Die Soldaten sollten im Notfall Landebahnen in Nuuk und Kangerlussuaq sprengen, um US-Flugzeuge an der Landung zu hindern. Mehrere europäische Länder koordinierten sich in geheimen Gesprächen. Ein französischer Spitzenbeamter bezeichnete die Grönlandkrise als den Moment, in dem Europa «ein für alle Mal» erkannte, seine eigene Sicherheit gewährleisten zu müssen.",
-              "gegenstimme": "Das dänische Verteidigungsministerium sowie die Büros der grönländischen und dänischen Regierungschefs lehnten jede Stellungnahme ab. Es ist unklar, ob die beschriebenen Massnahmen tatsächlich als Vorbereitung auf einen US-Angriff gedacht waren oder ob es sich um Routine-Militärübungen handelte, die im Nachhinein anders interpretiert werden.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/19/denmark-prepared-for-us-attack-donald-trump-greenland"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-eu-gipfel-orban-ukraine",
-              "slug": "eu-gipfel-orban-ukraine",
-              "title": "EU-Gipfel: Orbán blockiert Ukraine-Milliarden – Merz tobt",
-              "date": "2026-03-20",
+              "id": "2026-03-21-eu-gipfel-orban-trump",
+              "slug": "eu-gipfel-orban-trump",
+              "title": "EU-Gipfel: Merz zwischen Orbán-Blockade und Iran-Krise",
+              "date": "2026-03-21",
               "time": "07:00",
               "category": "international",
               "icon": "🇪🇺",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/8e128c03-0950-44f0-89e3-fadcb00aa5c5_w520_r2.08_fpx33.33_fpy49.99.jpg",
-              "kurz": "Ungarns Premier Orbán blockiert das 90-Milliarden-Kreditpaket für die Ukraine am EU-Gipfel. Merz nennt es einen 'groben Akt der Illoyalität'.",
-              "summary": "Am EU-Gipfel in Brüssel verweigerte Ungarns Ministerpräsident Viktor Orbán erneut die Freigabe des im Dezember vereinbarten 90-Milliarden-Euro-Kredits für die Ukraine. Kanzler Friedrich Merz bezeichnete Orbáns Kehrtwende als 'groben Akt der Illoyalität', der 'tiefe Spuren hinterlassen' werde. EU-Kommissionspräsidentin von der Leyen versprach, den Kredit 'auf die eine oder andere Weise' auszuzahlen. Gleichzeitig bekräftigten sechs Staaten ihre Bereitschaft, sich an einer Hormuz-Mission zu beteiligen.",
-              "gegenstimme": "Orbán begründet seine Blockade mit dem Ausfall der Druzhba-Ölpipeline, die russisches Öl nach Ungarn und die Slowakei transportiert und seit einem russischen Drohnenangriff beschädigt ist. Er wirft Kiew vor, die Reparatur bewusst zu verzögern, um ihn im bevorstehenden Wahlkampf zu schwächen. Aus Orbáns Sicht handelt er im nationalen Interesse Ungarns – aus Sicht seiner Kollegen verletzt er fundamentale EU-Vertragsprinzipien.",
+              "image": "https://cdn.prod.www.spiegel.de/images/orban-eu-gipfel-2026.jpg",
+              "kurz": "Beim EU-Gipfel in Brüssel dominieren der Iran-Krieg und Orbáns Veto gegen Ukraine-Milliarden. Bundeskanzler Merz kommt mit wirtschaftspolitischen Ambitionen, verlässt den Gipfel aber im Würgegriff externer Krisen.",
+              "summary": "Der EU-Gipfel vom 20. März 2026 stand im Zeichen zweier lähmender Faktoren: der Iran-Krieg überschattet die erhoffte Diskussion über wirtschaftliche Erholung, und Viktor Orbán blockiert weiterhin einstimmig den 90-Milliarden-Euro-EU-Kredit für die Ukraine. Bundeskanzler Friedrich Merz hatte als Agenda-Priorität das Thema Wirtschaftswachstum gesetzt, musste aber feststellen, dass Krisen kaum planbar sind. Orbán sitzt in Brüssel ausserhalb der regulären Sitzungsrunde – wortwörtlich in der Schmollecke – und weiss, dass er diesen Hebel noch einige Zeit spielen kann.",
+              "gegenstimme": "Orbán sieht sich nicht als Blockierer, sondern als Vertreter nationaler Interessen: Ungarn und die Slowakei sind von russischem Öl abhängig, da ihre Raffinerien nicht auf andere Sorten umgerüstet wurden. Zudem argumentiert er, die Ukraine nutze die Pipeline-Frage als politisches Druckmittel – nicht umgekehrt. Wirtschaftlich steht hinter seiner Position auch der ungarische Energiekonzern MOL, der auf die Wiederherstellung des Ölflusses drängt. Wahljahr in Ungarn (12. April) verstärkt den innenpolitischen Druck.",
               "sources": [
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe"
-                },
-                {
-                  "name": "Spiegel",
+                  "name": "Spiegel Online",
                   "url": "https://www.spiegel.de/politik/eu-gipfel-kanzler-merz-und-seine-kollegen-im-wuergegriff-von-orban-und-trump-a-5567c300-2f76-4839-997b-715d36c384a9"
                 },
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/europaeer-sind-nun-offener-fuer-hormuz-einsatz-und-beissen-sich-an-viktor-orban-die-zaehne-aus-ld.1929961"
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo"
                 }
               ]
             },
             {
-              "id": "2026-03-20-iran-energiekrieg-katar-lng",
-              "slug": "iran-energiekrieg-katar-lng",
-              "title": "Iran-Krieg: Angriffe auf LNG-Anlagen – Energiekrieg eskaliert",
-              "date": "2026-03-20",
+              "id": "2026-03-21-frankreich-russland-schattenflotte",
+              "slug": "frankreich-russland-schattenflotte",
+              "title": "Frankreich stoppt russische Schattenflotte im Mittelmeer",
+              "date": "2026-03-21",
               "time": "07:00",
               "category": "international",
-              "icon": "🔥",
+              "icon": "🚢",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/9P-xB4pHqMU97D2cZVQGia.jpg",
-              "kurz": "Iran beschädigt die weltgrösste LNG-Anlage in Katar, Israel bombardiert Irans Gasfeld South Pars. Qatar Energy warnt vor jahrelangen Ausfällen.",
-              "summary": "Der Nahostkrieg hat eine neue Dimension erreicht: Israel griff Irans wichtigstes Erdgasfeld South Pars an, worauf der Iran seinerseits die weltgrösste LNG-Produktionsanlage im katarischen Ras Laffan beschädigte. Die europäischen Gaspreise stiegen um bis zu 35 Prozent. Qatar-Energy-Chef Saad al-Kaabi warnte, die Reparatur der Anlagen könnte bis zu fünf Jahre dauern. Saudi-Arabien sieht das Öl bereits bei 180 Dollar pro Barrel.",
-              "gegenstimme": "Experten warnen, dass Militärschläge keine politische Lösung herbeiführen können. Der deutsche Aussenminister Wadephul betonte, weder im Irak noch in Libyen habe ein militärisches Engagement zu einem geordneten demokratischen Wandel geführt. Eine längere Schliessung der Strasse von Hormuz könnte zudem eine Nahrungsmittelkrise in Teilen Afrikas auslösen, da die Düngerversorgung aus der Region essenziell ist.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/katar-iran-greift-weltweit-groesste-gasanlage-an-594913380371"
-                },
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt-a-5b989375-154d-4553-8541-d1865d5af30f"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/iran-krieg-reparatur-der-lng-anlagen-koennte-bis-zu-fuenf-jahre-dauern/100209824.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-iran-hinrichtung-ringer-mohammadi",
-              "slug": "iran-hinrichtung-ringer-mohammadi",
-              "title": "Iran richtet 19-jährigen Ringer öffentlich hin",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "international",
-              "icon": "⚫",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/19/da45572a-8a42-4678-83c5-405608c342a8.png",
-              "kurz": "Im Iran wurden drei Männer öffentlich gehängt, darunter der 19-jährige Ringer Saleh Mohammadi. Sie sollen während Protesten Polizisten getötet haben.",
-              "summary": "Am Donnerstag, 19. März 2026, wurden im Iran drei Männer öffentlich hingerichtet: der 19-jährige Ringer Saleh Mohammadi aus Qom sowie Mehdi Ghasemi und Saeed Davoudi. Alle drei waren im Zusammenhang mit Protesten gegen das Regime im Januar festgenommen worden. Menschenrechtsorganisationen wie Amnesty International werfen den iranischen Behörden vor, die Männer unter Folter zu Geständnissen gezwungen und ihnen faire Gerichtsverfahren verweigert zu haben. Weitere Hinrichtungen werden befürchtet.",
-              "gegenstimme": "Die iranischen Behörden beharren darauf, die drei Männer seien wegen der Tötung zweier Polizisten mit Messern und Schwertern rechtmässig verurteilt worden. Aus Teheran heisst es, das Verfahren sei korrekt durchgeführt worden. Unabhängige Überprüfungen dieser Aussagen sind angesichts der eingeschränkten Pressefreiheit im Iran kaum möglich.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/iran-ringer-saleh-mohammadi-19-wurde-oeffentlich-hingerichtet-103529931"
-                },
-                {
-                  "name": "Watson",
-                  "url": "https://www.watson.ch/international/liveticker/455779172-krieg-in-nahost-iran-richtet-drei-demonstranten-hin"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-usa-japan-atomreaktoren-deal",
-              "slug": "usa-japan-atomreaktoren-deal",
-              "title": "USA und Japan: 40 Milliarden Dollar für Mini-Atomreaktoren",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "international",
-              "icon": "⚛️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/ed10d343-0d7b-48e2-88b0-48cafbb456a7_w520_r2.08_fpx30_fpy55.jpg",
-              "kurz": "Trump und Japans Regierungschefin Takaichi vereinbaren Milliardeninvestitionen in Mini-Atomreaktoren und Gaskraftwerke – eingebettet in ein breites Handels- und Energiepaket.",
-              "summary": "Die USA und Japan haben bei einem Treffen von Präsident Trump und Ministerpräsidentin Sanae Takaichi im Weissen Haus ein gemeinsames Investitionspaket im Energiebereich vereinbart. Japanische Unternehmen investieren 40 Milliarden Dollar in sogenannte Small Modular Reactors (SMR) in den US-Bundesstaaten Tennessee und Alabama sowie weitere 33 Milliarden Dollar in Erdgas-Kraftwerksanlagen in Pennsylvania und Texas. Das Paket ist Teil von Japans Zusagen über 550 Milliarden Dollar Gesamtinvestitionen in den USA als Gegenleistung für günstigere Zölle.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass SMR-Technologie noch weitgehend unbewiesen ist und in der Vergangenheit wiederholt mit Kosten- und Zeitüberschreitungen zu kämpfen hatte. Die Vereinbarung trägt auch diplomatische Züge: Takaichi bemüht sich, Trump mit Investitionszusagen zu beschwichtigen, während sie gleichzeitig versucht, japanische Truppen nicht in die Hormuz-Mission zu schicken – verfassungsrechtliche Schranken machen das schwierig.",
-              "sources": [
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/investitionen-usa-und-japan-planen-milliardenprojekt-fuer-atomreaktoren-a-ad08e976-c515-47fd-b3ed-75f581246782"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/japans-regierungschefin-umgarnt-trump-auf-schwieriger-mission-ich-glaube-fest-dass-nur-du-donald-frieden-erreichen-kannst-ld.1930083"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-genf-burkini-verbot",
-              "slug": "genf-burkini-verbot",
-              "title": "Genf verbietet Burkinis in Schwimmbädern",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🏊",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/19/f01e4e73-8b97-4e88-ad0b-5fbd35f9ecbe.jpg",
-              "kurz": "Das Genfer Kantonsparlament hat mit 83 zu 53 Stimmen ein Gesetz verabschiedet, das Burkinis in öffentlichen Schwimmbädern faktisch verbietet.",
-              "summary": "Der Grosse Rat des Kantons Genf hat am Donnerstagabend mit einer rechten Mehrheit ein Gesetz über Schwimmbäder und öffentliche Bäder verabschiedet. Dieses definiert erlaubte Badekleidung so eng, dass Burkinis – Ganzkörperbadeanzüge, die viele Musliminnen tragen – faktisch ausgeschlossen sind. Das Gesetz nennt den Burkini nicht namentlich, schreibt aber vor, dass Badeanzüge maximal knielang sein und die Arme freilassen müssen. Der Entscheid ist politisch stark umstritten und dürfte die Gerichte beschäftigen.",
-              "gegenstimme": "Die politische Linke kritisiert das Gesetz scharf als fremdenfeindlich und als Ausschluss bestimmter Frauen aus dem öffentlichen Raum. SP-Politikerinnen werfen den Befürwortern vor, unter dem Deckmantel der Frauenrechte eine diskriminierende Regulierung einzuführen. Gerichtliche Anfechtungen sind angekündigt.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/neues-gesetz-genf-verbietet-burkinis-in-schwimmbaedern"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/abstimmung-genf-verbietet-burkinis-in-badis-103529976"
-                },
-                {
-                  "name": "SWI swissinfo.ch",
-                  "url": "https://www.swissinfo.ch/ger/genf-verbietet-indirekt-das-tragen-von-burkinis-in-schwimmb%C3%A4dern/91129871"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-schweiz-iran-krieg-wirtschaft",
-              "slug": "schweiz-iran-krieg-wirtschaft",
-              "title": "Iran-Krieg trifft die Schweiz: Von KI-Chips bis Waschmittel",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/55zb7fmU4dQ847G3wnFUD2.jpg",
-              "kurz": "Der Iran-Krieg und die Blockade der Strasse von Hormuz treffen auch die Schweizer Wirtschaft: Teuerung bei Diesel, Kerosin, Chemikalien und Halbleitern. Im Zollstreit mit den USA erwartet die Handelskammer erst Ende Juli einen Deal.",
-              "summary": "Die Blockade der Strasse von Hormuz infolge des Iran-Kriegs löst weltweit Lieferkettenprobleme aus, die über den Energiesektor hinausreichen. Besonders betroffen sind Transportkosten (Diesel, Kerosin), die Chemieindustrie (Reinigungsmittel, Dünger) und die Halbleiterproduktion (Helium-Engpass). Für die Schweiz kommt erschwerend hinzu, dass der Zollstreit mit den USA trotz günstigerer Handelszahlen andauert – ein Abkommen wird erst Ende Juli erwartet.",
-              "gegenstimme": "Einige Ökonomen relativieren die Panik: Die Schweizer Wirtschaft ist divers aufgestellt, und die Exportzahlen in die USA sind derzeit rückläufig – was die Verhandlungsposition gegenüber Washington verbessert. Zudem sind die Lagerbestände in Europa nach den Erfahrungen von 2022 deutlich besser aufgebaut als damals.",
-              "sources": [
-                {
-                  "name": "NZZ – Branchen unter Druck",
-                  "url": "https://www.nzz.ch/wirtschaft/von-ki-chips-ueber-lastwagen-diesel-bis-zu-waschmitteln-der-iran-krieg-trifft-viele-branchen-hart-ld.1930038"
-                },
-                {
-                  "name": "NZZ – Zollstreit USA",
-                  "url": "https://www.nzz.ch/wirtschaft/neue-exportzahlen-helfen-der-schweiz-im-zollstreit-mit-den-usa-handelskammer-chef-erwartet-erst-ende-juli-einen-deal-ld.1929998"
-                },
-                {
-                  "name": "Der Bund – EU-Gipfel und Energiepreise",
-                  "url": "https://www.derbund.ch/eu-gipfel-wie-der-iran-krieg-europas-energiepreise-treibt-581735360368"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-titlis-gondel-ursache-wind",
-              "slug": "titlis-gondel-ursache-wind",
-              "title": "Titlis-Gondel: Windböe mit bis zu 105 km/h – neue Details zum Unglück",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🚡",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/BdAgoXDuqwL8JB9zpoc7Pr.jpg",
-              "kurz": "Drei Tage nach dem tödlichen Gondelabsturz am Titlis werden neue Details bekannt: Windböen von bis zu 105 km/h schleuderten die Gondel gegen eine Stütze. Eine 61-jährige Frau starb.",
-              "summary": "Am Mittwoch, 18. März 2026, stürzte im Skigebiet Engelberg-Titlis eine Gondel der Linie Xpress Trübsee–Stand ab. Eine 61-jährige Frau aus der Region kam dabei ums Leben. Der Gondelhersteller Garaventa erklärt, eine kräftige Windböe habe das Fahrzeug so stark ausgelenkt, dass es mit einer Stütze kollidierte und vom Seil gerissen wurde. Auf dem Titlis wurden zum Unfallzeitpunkt Böen von bis zu 105 km/h gemessen. Die Schweizerische Sicherheitsuntersuchungsstelle (Sust) ermittelt, schliesst aber ein systematisches technisches Problem aus.",
-              "gegenstimme": "Kritische Stimmen fragen, weshalb die Seilbahn trotz vorhergesagter Windböen von bis zu 100 km/h noch in Betrieb war. Die meisten Bergbahnen schliessen bereits bei Windgeschwindigkeiten ab 75 km/h. Der Titlis-Betrieb muss sich erklären, ob die Wetterprognosen angemessen berücksichtigt wurden.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/engelberg-titlis-gondel-duerfte-mit-stuetze-kollidiert-sein-103529950"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/toedliche-tragoedie-am-berg-im-skigebiet-titlis-stuerzte-eine-gondel-ab-und-alle-raetseln-wie-dies-geschehen-konnte-ld.1929846"
-                },
-                {
-                  "name": "20 Minuten – Warum blieb die Bahn offen?",
-                  "url": "https://www.20min.ch/story/meteorologe-boeen-bis-100-kmh-erwartet-warum-blieb-die-bergbahn-offen-103528894"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-bern-benzinpreise-explosion",
-              "slug": "bern-benzinpreise-explosion",
-              "title": "Berner Tankstellenbetreiber warnt: «Benzinpreise explodieren»",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "⛽",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/B5v9gF2HqOh8_8und9YfZw.webp",
-              "kurz": "Ein Berner Tankstellenbetreiber warnt vor einer Mangellage, falls der Irankrieg anhält. Österreich und Italien senken die Mineralölsteuer – die Schweiz hat noch keine Massnahmen ergriffen.",
-              "summary": "Der anhaltende Irankrieg hat die Ölpreise weltweit in die Höhe getrieben und macht sich auch an Schweizer Zapfsäulen bemerkbar. Ein Berner Tankstellenbetreiber warnt vor einer drohenden Mangellage. Während Österreich die Mineralölsteuer ab 1. April um bis zu 10 Cent pro Liter senkt und Italien bereits per Dekret 25 Cent Ersparnis pro Liter bewirkt hat, fehlen in der Schweiz bisher konkrete Gegenmassnahmen. In Deutschland debattiert der Bundestag über eine Preiserhöhungsbremse für Tankstellen.",
-              "gegenstimme": "Kritiker warnen, dass staatliche Steuersenkungen auf Benzin das falsche Signal in der Klimapolitik senden und fossile Mobilität subventionieren, anstatt den Umstieg auf emissionsfreie Alternativen zu fördern. Greenpeace Deutschland zeigt zudem, dass die Preiserhöhungen an den Zapfsäulen weit stärker ausfallen als der Anstieg des Rohölpreises – was auf Übergewinne der Konzerne hindeutet.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/benzinpreis-tankstelle-in-bern-warnt-vor-preisexplosion-716043108043"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/explodierende-benzinpreise-nachbarn-reagieren-mit-steuersenkung-103529595"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-bern-rbs-stoerung-zollikofen",
-              "slug": "bern-rbs-stoerung-zollikofen",
-              "title": "Fahrleitungsstörung: RBS-Linien nach Zollikofen unterbrochen",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "🚆",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/C2gemdNkqfK9IZ1LTaHQH2.jpg",
-              "kurz": "Eine Fahrleitungsstörung auf dem RBS-Netz unterbricht den Bahnverkehr Richtung Zollikofen. Die Linien S8 und RE5 sind betroffen.",
-              "summary": "Auf dem Streckennetz des Regionalverkehrs Bern-Solothurn (RBS) kam es zu einer Fahrleitungsstörung, die den Bahnbetrieb auf den Linien S8 und RE5 im Abschnitt Richtung Zollikofen unterbrach. Fahrgäste wurden auf Ersatzmittel verwiesen. Die Störungsdauer war zunächst unbestimmt. Der RBS befördert jährlich rund 26 Millionen Fahrgäste und ist eine wichtige Pendler-Achse zwischen Bern und dem Mittelland.",
-              "gegenstimme": "Für Pendlerinnen und Pendler zwischen Zollikofen und Bern sind solche Unterbrüche besonders belastend, da das RBS-Netz auf dieser Achse oft keine einfachen Ausweichalternativen bietet. Kritiker fordern seit Jahren eine höhere Investition in die Infrastrukturinstandhaltung, um Fahrleitungsstörungen zu reduzieren.",
-              "sources": [
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/rbs-stoerung-verkehr-nach-zollikofen-unterbrochen-228040387726"
-                },
-                {
-                  "name": "RBS Aktuell",
-                  "url": "https://www.rbs.ch/aktuell"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-bezos-ki-fertigung-milliarden",
-              "slug": "bezos-ki-fertigung-milliarden",
-              "title": "Bezos plant 100 Milliarden Dollar in KI-gestützte Fertigung",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "🏭",
-              "edition": "morning",
-              "image": "",
-              "kurz": "Amazon-Gründer Jeff Bezos soll einen 100-Milliarden-Dollar-Fonds aufbauen, der KI-gestützte Fertigungsunternehmen übernehmen und automatisieren soll.",
-              "summary": "Laut einem Bericht des Wall Street Journal führt Jeff Bezos Gespräche mit grossen Vermögensverwaltern und nahöstlichen Staatsfonds, um einen 100-Milliarden-Dollar-Fonds für KI-gestützte Fertigung aufzubauen. Ziel ist die Übernahme und Automatisierung von Firmen in Bereichen wie Chipherstellung, Rüstung sowie Luft- und Raumfahrt. Das Vorhaben ist eng mit Bezos' Engagement beim KI-Start-up Project Prometheus verknüpft, das sich auf KI-Anwendungen für Produktion und Engineering konzentriert.",
-              "gegenstimme": "Bezos und die Mitgründer von Project Prometheus haben sich bisher nicht öffentlich geäussert. Kritiker fragen, ob die Verbindung zwischen einem riesigen Investitionsfonds und einem KI-Start-up, in dem Bezos Co-Chef sein soll, zu Interessenkonflikten führen könnte. Zudem bleibt offen, wer die tatsächliche Kontrolle über Fertigungsunternehmen nach einer Übernahme ausüben würde.",
-              "sources": [
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/it-internet/automatisierung-jeff-bezos-will-offenbar-milliarden-in-ki-gestuetzte-fertigung-investieren/100210076.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-flyer-ebike-huttwil-zukunft",
-              "slug": "flyer-ebike-huttwil-zukunft",
-              "title": "E-Bike-Pionier Flyer schreibt schwarze Zahlen – aber Huttwil zittert",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "🚲",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/EmV103lbKcf9dI8sgFn4Vt.jpg",
-              "kurz": "Der Berner E-Bike-Hersteller Flyer ist zurück in der Gewinnzone, will aber seine Montagehalle in Huttwil verkaufen – und verunsichert damit die Region.",
-              "summary": "Flyer, der älteste E-Bike-Hersteller der Welt mit Wurzeln in Huttwil, hat nach schwierigen Jahren wieder schwarze Zahlen geschrieben. Gleichzeitig hat das Unternehmen bekanntgegeben, die Montagehalle am Gründungsort Huttwil im Berner Oberland verkaufen zu wollen. Die Gemeinde und die Mitarbeitenden fragen sich, was das für den Produktionsstandort bedeutet.",
-              "gegenstimme": "Flyer betont, die Entscheidung sei ein reiner Immobilienschritt und keine Standortaufgabe. Skeptiker in Huttwil befürchten dennoch, dass der Verkauf der Infrastruktur mittelfristig auch die Verlagerung von Arbeitsplätzen bedeuten könnte – ein bekanntes Muster bei Restrukturierungen.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/flyer-huttwil-e-bike-hersteller-verkauft-montagehalle-187158571507"
-                },
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/flyer-huttwil-e-bike-hersteller-verkauft-montagehalle-187158571507"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-maerkte-iran-riskoff",
-              "slug": "maerkte-iran-riskoff",
-              "title": "Börsen im freien Fall: Irankrieg schickt Märkte in den Risk-off-Modus",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "📉",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/93c02480-a375-45f5-b1e4-825e348a9d86_w520_r2.08_fpx78_fpy51.jpg",
-              "kurz": "Der DAX schloss am Donnerstag 2.8% im Minus unter 23'000 Punkten – ausgelöst durch Angriffe auf Energieanlagen am Persischen Golf. Gold und Öl reagierten gegensätzlich.",
-              "summary": "Die Eskalation im Irankrieg – insbesondere Angriffe auf Energieanlagen in den Golfstaaten – hat die europäischen Börsen am Donnerstag stark belastet. Der DAX verlor in der Spitze über 3%, der SMI rund 2.4%, der Euro Stoxx 600 bis zu 2.8%. Brent-Öl stieg kurzzeitig, Gold legte 1.6% auf 4'720$/Unze zu. Die EZB liess den Leitzins unverändert. US-Börsen hielten sich dank Energieunabhängigkeit deutlich besser.",
-              "gegenstimme": "Analysten warnen, dass die Märkte die Inflation durch steigende Energiepreise noch unterschätzen könnten. Die EZB steht unter Druck: Zinssenkungen wären konjunkturell wünschenswert, doch eine neue Inflationswelle macht dies riskant.",
+              "image": "https://cdn.prod.www.spiegel.de/images/3ba7f9d2-1e8a-4c12-9f2b-d4c3e5a8b7f1_w1280_r1.778_fpx50_fpy50.jpg",
+              "kurz": "Die französische Marine hat erneut einen russischen Öltanker im Mittelmeer gestoppt. Die «Deyna» stand unter Verdacht, unter falscher Flagge zu fahren und zur russischen Schattenflotte zu gehören.",
+              "summary": "Die französische Marine hat mit britischer Unterstützung den Öltanker «Deyna» im Mittelmeer angehalten und umgeleitet. Das Schiff war aus Murmansk unterwegs und fuhr unter mosambikanischer Flagge – ein Verdacht, der sich laut Meerespräfektur bestätigte. Präsident Macron bezeichnete die «Deyna» als Teil der russischen Schattenflotte und bekräftigte, der Iran-Krieg werde Frankreich nicht von seiner Ukraine-Unterstützung ablenken.",
+              "gegenstimme": "Russland und verbündete Akteure sehen die Kontrollen westlicher Marinen als rechtlich fragwürdige Eingriffe in die Schifffahrtsfreiheit. Einige Völkerrechtler betonen, dass Boarding-Aktionen auf hoher See ausserhalb von Krisengebieten einer belastbaren Rechtsgrundlage bedürfen. Moskau bezeichnet die Sanktionen selbst als illegal und die Kontrollen als politisch motivierte Nadelstiche.",
               "sources": [
                 {
                   "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-und-inflation-wirtschaft-unter-druck-durch-steigende-energiepreise-a-ffbf85ff-5bf7-476d-bbac-832de878333e"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-rutscht-unter-23.000-punkte-und-schliesst-im-minus/100209813.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-meta-ai-moderation-rollout",
-              "slug": "meta-ai-moderation-rollout",
-              "title": "Meta ersetzt Moderatoren durch KI – Signal-Chef hilft mit Verschlüsselung",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🤖",
-              "edition": "morning",
-              "image": "",
-              "kurz": "Meta rollt KI-gestützte Moderation für Facebook und Instagram aus und ersetzt damit schrittweise menschliche Content-Prüfer. Gleichzeitig kündigt Moxie Marlinspike – Gründer von Signal – an, Ende-zu-Ende-Verschlüsselung für Meta AI zu entwickeln.",
-              "summary": "Meta hat einen KI-Support-Assistenten für Facebook und Instagram global eingeführt, der rund um die Uhr Nutzerprobleme lösen und Inhalte überwachen soll. In einem weiteren Schritt sollen fortschrittlichere KI-Systeme menschliche Moderatoren bei repetitiver Inhaltsüberprüfung ablösen. Parallel dazu gibt Moxie Marlinspike, Gründer der verschlüsselten Messaging-App Signal, bekannt, seine Datenschutztechnologie für Meta AI bereitzustellen – ähnlich wie er 2016 das Signal-Protokoll in WhatsApp integrierte.",
-              "gegenstimme": "Datenschutzorganisationen warnen, dass KI-Systeme bei der Inhaltsmoderation zu unkontrollierbaren Fehlentscheidungen neigen – insbesondere bei kulturell sensiblen Inhalten oder in weniger verbreiteten Sprachen. Die Verlagerung von menschlichen auf maschinelle Entscheider verringert zudem die demokratische Rechenschaftspflicht über Zensur-Entscheidungen auf globalen Plattformen.",
-              "sources": [
-                {
-                  "name": "Meta Newsroom",
-                  "url": "https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas-apps-with-ai/"
-                },
-                {
-                  "name": "Confer Blog (Moxie Marlinspike)",
-                  "url": "https://confer.to/blog/2026/03/encrypted-meta/"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-tesla-fsd-regulierung",
-              "slug": "tesla-fsd-regulierung",
-              "title": "Tesla-Autopilot: US-Behörde verschärft Prüfung der Selbstfahr-Technik",
-              "date": "2026-03-20",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🚗",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/cba31fa3-bf70-44e3-8a86-7d34daf59ff8_w520_r2.08_fpx46.48_fpy49.99.jpg",
-              "kurz": "Die US-Verkehrssicherheitsbehörde NHTSA vertieft ihre Untersuchung von Teslas kamerabasiertem Fahrassistenzsystem FSD. Kernfrage: Ist das System bei schlechten Sichtbedingungen sicher genug?",
-              "summary": "Die NHTSA hat ihre Prüfung von Teslas Full Self-Driving (FSD) System intensiviert. Auswertungen von Unfalldaten zeigen Hinweise auf Schwächen bei schlechten Sichtverhältnissen. Elon Musk setzt als einziger grosser Anbieter konsequent nur auf Kameras – ohne Lidar oder Radar. Konkurrenten wie Waymo (Google) kombinieren hingegen mehrere Sensortechnologien.",
-              "gegenstimme": "Tesla und Musk argumentieren, dass ein rein kamerabasiertes System am Ende zuverlässiger und kostengünstiger sein wird als Lidar-Systeme. Auch der menschliche Fahrer sieht schliesslich nur mit Augen – also Kameras. Ob diese Analogie technisch trägt, ist umstritten.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/mobilitaet/tesla-us-behoerde-intensiviert-pruefung-von-teslas-selbstfahr-technik-a-5c9bd12b-db44-4e7b-85b5-7ef2398f4927"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-03-20-imamoglu-erdogan-gefaengnis",
-              "slug": "imamoglu-erdogan-gefaengnis",
-              "title": "İmamoğlu spricht aus dem Gefängnis: «Erdoğan fürchtet die Demokratie»",
-              "date": "2026-03-20",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🇹🇷",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/98904f53-f83f-4933-a9b6-90b1ac5704cb_w520_r2.08_fpx33.25_fpy49.86.jpg",
-              "kurz": "Der inhaftierte Istanbuler Oberbürgermeister Ekrem İmamoğlu hat sich in einem Interview erstmals aus dem Gefängnis zu Wort gemeldet. Er beschreibt schwierige Haftbedingungen und kündigt an, trotz allem für die Demokratie in der Türkei einzustehen.",
-              "summary": "Ekrem İmamoğlu, der wichtigste Oppositionspolitiker der Türkei und frühere Bürgermeister Istanbuls, sitzt seit rund einem Jahr in Haft. Im Interview mit dem Spiegel beschreibt er eingeschränkte Haftbedingungen – er darf nur einmal pro Woche eine Stunde spazieren gehen. Dennoch bekräftigt er seinen Willen, bei Wahlen anzutreten, und wirft Präsident Erdoğan vor, die Demokratie zu fürchten. Sein Prozess begann Anfang März 2026 und wird international als politisch motiviert bewertet.",
-              "gegenstimme": "Die türkische Regierung betont, dass es sich um ein rechtsstaatliches Verfahren handle und die Vorwürfe gegen İmamoğlu – darunter Korruption und Terrorismusunterstützung – auf konkreten Beweisen beruhen. Kritiker dieser Sichtweise sehen in den Anklagen einen konstruierten Vorwand, um den aussichtsreichsten Kandidaten gegen Erdoğan vor den nächsten Wahlen politisch auszuschalten.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/ekrem-imamoglu-aus-dem-gefaengnis-erdogan-gegner-spricht-ueber-haftbedingungen-und-zukunft-der-tuerkei-a-eb44e8ab-ec3f-4589-a18d-71a56b85fe27"
-                },
-                {
-                  "name": "Die Zeit",
-                  "url": "https://www.zeit.de/news/2026-03/09/erdogan-gegner-vor-gericht-was-das-fuer-die-tuerkei-bedeutet"
-                },
-                {
-                  "name": "Tiroler Tageszeitung",
-                  "url": "https://www.tt.com/artikel/30929418/hauptprozess-gegen-erdogan-rivalen-imamoglu-begonnen"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-iran-krieg-trump-oelsanktionen",
-              "slug": "iran-krieg-trump-oelsanktionen",
-              "title": "Trump will Ölsanktionen gegen Iran lockern – mitten im Krieg",
-              "date": "2026-03-20",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🛢️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/4e7b6235-684d-4d5b-907f-74d64cd27e85_w520_r2.08_fpx69.14_fpy50.98.jpg",
-              "kurz": "Die Trump-Regierung prüft, Sanktionen auf bereits verschifftes iranisches Öl zu lockern, um die Energiepreise zu dämpfen. Das wäre ein paradoxer Schritt: Kriegsgegner Iran würde wirtschaftlich entlastet.",
-              "summary": "US-Finanzminister Scott Bessent bestätigte, die Regierung könnte Sanktionen auf rund 140 Millionen Barrel bereits auf Schiffen befindliches iranisches Öl aufheben. Gleichzeitig sollen Ausnahmeregelungen für russisches Öl geprüft werden. Trumps Ziel: den Ölpreis senken, der durch den Krieg stark gestiegen ist. Kritiker sehen darin ein Eingeständnis, dass die Kriegsstrategie die US-Wirtschaft unter Druck setzt.",
-              "gegenstimme": "Die Lockerung von Ölsanktionen gegenüber einem aktiven Kriegsgegner ist strategisch widersprüchlich und könnte Teheran Spielraum verschaffen, den Krieg länger zu finanzieren. Verbündete im Nahen Osten und in Europa könnten dies als Zeichen von Schwäche oder Unzuverlässigkeit interpretieren.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/donald-trump-will-die-oel-sanktionen-gegen-iran-lockern-mitten-im-krieg-a-72391856-8007-4cb8-8d12-b54599ee2096"
-                },
-                {
-                  "name": "New York Times",
-                  "url": "https://www.nytimes.com/2026/03/19/us/politics/iran-oil-sanctions.html"
-                },
-                {
-                  "name": "Washington Post",
-                  "url": "https://www.washingtonpost.com/world/2026/03/19/us-iran-war-trump-gas-prices-qatar/"
-                },
-                {
-                  "name": "Axios",
-                  "url": "https://www.axios.com/2026/03/19/trump-iran-oil-sanctions"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-selenskyj-ukraine-gespraeche-washington",
-              "slug": "selenskyj-ukraine-gespraeche-washington",
-              "title": "Selenskyj schickt Delegation nach Washington – neue Ukraine-Gespräche",
-              "date": "2026-03-20",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🕊️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/f5504a4c-d61a-4419-93c8-8d62a0efc4ce_w520_r2.08_fpx44.44_fpy50.jpg",
-              "kurz": "Die Ukraine schickt eine Delegation nach Washington, um die Friedensverhandlungen wiederaufzunehmen. Die trilateralen Gespräche zwischen USA, Russland und Ukraine waren wegen des Irankriegs unterbrochen.",
-              "summary": "Präsident Selenskyj kündigte an, eine ukrainische Delegation sei auf dem Weg nach Washington. Ein erstes Treffen wird für Samstag erwartet. Die trilateralen Gespräche zwischen den USA, Russland und der Ukraine lagen auf Eis, seitdem der Irankrieg Anfang März begann. Russlands Kremlsprecher Peskow hatte die Pause als «vorübergehend» bezeichnet. Ob Russland an den neuen Gesprächen direkt teilnimmt, blieb zunächst offen.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass Russland strategisch vom Irankrieg profitiert: Washington ist abgelenkt, die Ukraine erhält weniger Aufmerksamkeit, und Putin hat Zeit gewonnen. Es gibt Stimmen, die bezweifeln, dass Moskau ernsthaft an einem raschen Verhandlungsergebnis interessiert ist.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-kuendigt-neue-gespraeche-in-den-usa-an-a-719773f7-b702-4031-87b5-101ca963c5cb"
-                },
-                {
-                  "name": "Tass (Peskow-Zitat)",
-                  "url": "https://t.me/tass_agency/366977"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-usa-kharg-island-hormuz",
-              "slug": "usa-kharg-island-hormuz",
-              "title": "USA erwägen Besetzung von Kharg Island – Hormuz-Öffnung mit Gewalt?",
-              "date": "2026-03-20",
-              "time": "12:15",
-              "category": "international",
-              "icon": "⚔️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/4e7b6235-684d-4d5b-907f-74d64cd27e85_w520_r2.08_fpx69.14_fpy50.98.jpg",
-              "kurz": "Laut Medienberichten prüft Washington eine Besetzung oder Blockade der iranischen Ölinsel Kharg, um die Strasse von Hormuz wieder zu öffnen. Ein solcher Schritt wäre militärisch hochriskant.",
-              "summary": "Die US-Regierung soll Pläne zur Besetzung oder Blockade von Kharg Island erwägen – der wichtigsten Ölexportanlage des Iran. Das Pentagon hat bereits rund 2200 Marines in die Region verlegt. Gleichzeitig eskaliert der Krieg weiter: Iran griff eine kuwaitische Raffinerie an, USA und Israel versenkten 16 iranische Frachtschiffe. Der neue iranische Oberste Führer Khamenei drohte, den Feinden ihre Sicherheit zu nehmen.",
-              "gegenstimme": "Eine physische Besetzung von Kharg Island wäre militärisch äusserst riskant: Die Insel ist nur 20 km² gross, liegt unweit der iranischen Küste und wäre für iranische Drohnen und Raketen ein leichtes Ziel. Kritiker bezweifeln, ob Washington einen solchen Schritt tatsächlich wagen würde – zumal Trump selbst Bodentruppen-Einsätze zuvor als unwahrscheinlich bezeichnete.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump"
-                },
-                {
-                  "name": "Axios",
-                  "url": "https://www.axios.com/2026/03/19/trump-iran-oil-sanctions"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-schweiz-ruestungsexporte-usa-stopp",
-              "slug": "schweiz-ruestungsexporte-usa-stopp",
-              "title": "Bundesrat stoppt neue Rüstungsexporte in die USA wegen Iran-Krieg",
-              "date": "2026-03-20",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/1IisX86k4EK8N2NDHA21uE.jpg",
-              "kurz": "Der Bundesrat bewilligt wegen des laufenden Kriegs gegen den Iran keine neuen Rüstungsexporte in die USA mehr. Bestehende Ausfuhrbewilligungen werden von einer Expertengruppe regelmässig überprüft.",
-              "summary": "Der Bundesrat hat am Freitag entschieden, auf neue Bewilligungen für Rüstungsexporte in die USA zu verzichten, solange der Iran-Krieg andauert. Grundlage sind die Schweizer Neutralität und das Kriegsmaterialgesetz. Für Israel und den Iran galten bereits seit Jahren entsprechende Exportstopps. Eine interdepartementale Expertengruppe soll die Lage laufend beobachten und neutralitätsrechtlichen Handlungsbedarf prüfen.",
-              "gegenstimme": "Kritiker aus der Exportindustrie und aus dem bürgerlichen Lager warnen vor diplomatischen Konsequenzen: Ein Exportstopp gegenüber einem wichtigen Partner wie den USA könnte Gegenreaktionen von Präsident Trump provozieren und die wirtschaftlichen Beziehungen belasten. Zudem wird gefragt, ob der Beschluss tatsächlich eine neutrale Haltung widerspiegelt oder primär politisch motiviert ist.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-bundesrat-schraenkt-ruestungsexporte-in-die-usa-ein"
-                },
-                {
-                  "name": "Nau.ch",
-                  "url": "https://www.nau.ch/politik/bundeshaus/bundesrat-schrankt-wegen-iran-krieg-rustungsexporte-in-die-usa-ein-67108169"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/bundesrat-bewilligt-wegen-iran-krieg-keine-neuen-ruestungsexporte-in-die-usa-ld.1930108"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-bern-gaza-demo-fahndung",
-              "slug": "bern-gaza-demo-fahndung",
-              "title": "Berner Polizei fahndet nach 32 Gaza-Demo-Tätern – verpixelte Fotos veröffentlicht",
-              "date": "2026-03-20",
-              "time": "12:15",
-              "category": "regional",
-              "icon": "👮",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/0vFEySGl4HwAknr4f_ogi_.jpg",
-              "kurz": "Die Kantonspolizei Bern veröffentlicht heute verpixelte Bilder von 32 mutmasslichen Straftätern der Palästina-Demo vom Oktober 2025. Wer nicht innert einer Woche identifiziert wird, dessen Foto erscheint am 30. März unverpixelt.",
-              "summary": "Bei der unbewilligten Palästina-Kundgebung vom 11. Oktober 2025 in Bern wurden 18 Polizisten verletzt und ein Sachschaden von über 600'000 Franken verursacht. Nach monatelangen Ermittlungen wurden 101 Personen bereits identifiziert. 32 weitere Verdächtige konnten trotz umfangreicher Bildauswertung noch nicht namentlich erfasst werden – ihre verpixelten Fotos werden nun veröffentlicht. Die zuständige Staatsanwaltschaft Bern-Mittelland hat ein dreistufiges Fahndungsverfahren angeordnet.",
-              "gegenstimme": "Datenschützer und Bürgerrechtsorganisationen stehen öffentlichen Fahndungen mit Bildmaterial kritisch gegenüber. Sie bemängeln, dass verpixelte Bilder trotzdem zur Identifikation Unbeteiligter missbraucht werden könnten. Zudem wird die Verhältnismässigkeit diskutiert: Ein Teil der Szene sieht die Strafverfolgung als überproportional gegenüber dem politischen Hintergrund der Demonstration.",
-              "sources": [
-                {
-                  "name": "Watson.ch",
-                  "url": "https://www.watson.ch/schweiz/bern/157008641-gaza-demo-in-bern-polizei-veroeffentlicht-fotos-von-verdaechtigen"
-                },
-                {
-                  "name": "Blick",
-                  "url": "https://www.blick.ch/schweiz/bern/nach-berner-krawallen-polizei-startet-grossangelegte-oeffentlichkeitsfahndung-id21786518.html"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/bern-kantonspolizei-fahndet-nach-32-palaestina-demo-taetern-891618503204"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-iea-tempolimit-homeoffice-oelkrise",
-              "slug": "iea-tempolimit-homeoffice-oelkrise",
-              "title": "IEA fordert Tempolimit und Homeoffice gegen die Ölkrise",
-              "date": "2026-03-20",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "🚗",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/8740b504-4b21-4705-9508-5e95b1f4e97d_w520_r2.08_fpx54.67_fpy50.jpg",
-              "kurz": "Die Internationale Energieagentur hat einen Notfallplan vorgelegt: Tempolimit, Homeoffice, weniger Flugreisen. Die Nachfrageseite soll entlastet werden, weil die Angebotskrise durch den Irankrieg anhält.",
-              "summary": "Die IEA hat angesichts der anhaltenden Krise in der Strasse von Hormuz konkrete Notfallmassnahmen empfohlen: niedrigere Tempolimits auf Autobahnen, mehr Homeoffice, Förderung des öffentlichen Verkehrs und Einschränkungen bei Autofahrten in Städten – etwa durch gerade/ungerade Nummernschild-Regeln. Die OECD rät gleichzeitig Deutschland, Energiehilfen gezielt auf einkommensschwache Haushalte zu konzentrieren statt breite Tankrabatte einzuführen. Globale Ölreserven werden als unzureichend für eine längere Unterbrechung eingeschätzt.",
-              "gegenstimme": "Tempolimits und Homeoffice-Appelle wirken für viele wie eine Rückkehr zu den Energiekrisen der 1970er-Jahre. Kritiker bezweifeln deren kurzfristige Wirksamkeit und sehen die Massnahmen als symbolische Politik. Energiekonzerne verbuchen derweil Milliardengewinne – Greenpeace spricht von 21 Millionen Euro Übergewinnen täglich allein in Deutschland.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/business/2026/mar/20/oil-price-energy-watchdog-iea-emergency-measures-work-from-home-slow-down-on-the-road"
-                },
-                {
-                  "name": "Der Spiegel/OECD",
-                  "url": "https://www.spiegel.de/wirtschaft/oecd-wuerde-energiehilfen-eher-fuer-aermere-reservieren-a-60eae113-b16c-4434-a784-9ff1dc49b2f8"
-                },
-                {
-                  "name": "Energy Live News",
-                  "url": "https://www.energylivenews.com/2026/03/20/iea-says-use-less-to-ride-out-energy-price-chaos-from-iran-war/"
-                },
-                {
-                  "name": "Economic Times",
-                  "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-war-global-oil-crisis-energy-impact-iea-disruption-gulf-supply-threat-2026-middle-east-war-trump-netanyahu-middle-east/articleshow/129700675.cms"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-03-20-chuck-norris-tot",
-              "slug": "chuck-norris-tot",
-              "title": "Chuck Norris ist tot – Actionstar und Karate-Weltmeister mit 86",
-              "date": "2026-03-20",
-              "time": "18:00",
-              "category": "international",
-              "icon": "⭐",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/6LAffyYZKvI8q7cBTpUQ9p.jpg",
-              "kurz": "Chuck Norris, die Ikone des Actionkinos, ist im Alter von 86 Jahren friedlich verstorben.",
-              "summary": "Der amerikanische Schauspieler und Kampfsportler Chuck Norris ist am 20. März 2026 im Alter von 86 Jahren gestorben. Norris wurde weltberühmt durch Actionfilme der 1980er Jahre und die Serie «Walker, Texas Ranger». Sein Tod wurde von seiner Familie bestätigt. Er hinterlässt fünf Kinder.",
-              "gegenstimme": "Norris war auch politisch aktiv und unterstützte konservative Anliegen in den USA – eine Seite seiner Persönlichkeit, die nicht alle schätzten.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/film/2026/mar/20/chuck-norris-prolific-action-star-and-martial-arts-champion-dies-aged-86"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/feuilleton/schauspieler-chuck-norris-ist-mit-86-jahren-verstorben-ld.1930335"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-frankreich-schattenflotte-tanker",
-              "slug": "frankreich-schattenflotte-tanker",
-              "title": "Frankreichs Marine stoppt russischen Schattenflotten-Tanker im Mittelmeer",
-              "date": "2026-03-20",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🛳️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/92796f06-da40-4b08-b2a1-13f4bc6799cb_w520_r2.08_fpx46.66_fpy50.jpg",
-              "kurz": "Die französische Marine hat erneut einen Öltanker der russischen Schattenflotte im Mittelmeer aufgebracht.",
-              "summary": "Frankreich setzt seine Bemühungen fort, die russische Schattenflotte zu unterbinden: Ein weiterer Öltanker mit verdächtiger Flagge wurde im Mittelmeer gestoppt. Die Schattenflotte ermöglicht es Russland, trotz westlicher Sanktionen Öl zu exportieren. Der Vorfall reiht sich in eine Serie ähnlicher Aktionen ein.",
-              "gegenstimme": "Kritiker fragen, ob das Aufbringen einzelner Tanker wirklich etwas an Russlands Gesamteinnahmen ändert – oder ob es vor allem symbolische Politik ist.",
-              "sources": [
-                {
-                  "name": "Spiegel",
                   "url": "https://www.spiegel.de/ausland/schattenflotte-frankreich-stoppt-erneut-oeltanker-aus-russland-im-mittelmeer-a-51bc57eb-3527-456d-97ae-adea9b730482"
                 }
               ]
             },
             {
-              "id": "2026-03-20-trump-pearl-harbor-japan",
-              "slug": "trump-pearl-harbor-japan",
-              "title": "Trump vergleicht Iran-Krieg mit Pearl Harbor – Japan irritiert",
-              "date": "2026-03-20",
-              "time": "18:00",
+              "id": "2026-03-21-iran-krieg-trump-rueckzug",
+              "slug": "iran-krieg-trump-rueckzug",
+              "title": "Iran-Krieg: Trump erwägt Rückzug – USA lockern Sanktionen",
+              "date": "2026-03-21",
+              "time": "07:00",
               "category": "international",
-              "icon": "🗣️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/e079e70b-8835-4881-9f54-572a2dc7c0c0_w520_r2.08_fpx33.34_fpy50.jpg",
-              "kurz": "Bei seinem Japan-Besuch zog Trump eine Parallele zwischen dem Iran-Krieg und Pearl Harbor – ein diplomatischer Fauxpas.",
-              "summary": "US-Präsident Trump hat bei seinem Besuch in Japan einen Vergleich zwischen dem aktuellen Iran-Krieg und dem japanischen Angriff auf Pearl Harbor gezogen. Die Äusserung irritierte seine Gastgeber erheblich. Regierungschefin Takaichi versuchte die Situation diplomatisch zu glätten. Japan bleibt trotz der Verstimmung ein enger Partner der USA.",
-              "gegenstimme": "Verteidiger Trumps sehen in der Aussage lediglich eine unglückliche Formulierung, keine bewusste Provokation.",
+              "icon": "🌍",
+              "edition": "morning",
+              "image": "https://media.guim.co.uk/cf2c90fde5c8ec6ba87919c11a08763e0463ffb3/369_0_4304_3445/2000.jpg",
+              "kurz": "Trump signalisiert Bereitschaft zum Rückzug aus dem Iran-Krieg und hebt Ölsanktionen auf. Gleichzeitig verstärken die USA ihre Militärpräsenz am Golf.",
+              "summary": "Fast vier Wochen nach Kriegsbeginn (28. Februar) erwägt US-Präsident Trump, den Militäreinsatz gegen Iran zu reduzieren. Die USA erlauben vorübergehend Lieferung und Verkauf von iranischem Öl, um die globalen Märkte zu beruhigen. Parallel schicken die Amerikaner weitere Kriegsschiffe und Tausende Soldaten in den Nahen Osten. Israel setzt seine Bombardierungen in Iran fort; Netanyahu behauptet, Iran könne keine ballistischen Raketen mehr bauen.",
+              "gegenstimme": "Kritiker sehen in Trumps Rückzugssignalen eine taktische Finte: Gleichzeitig mit der verbalen Deeskalation werden Truppen und Kriegsschiffe verstärkt. Die Strasse von Hormuz bleibt blockiert. Iran feuert weiterhin Raketen auf Golfstaaten. Der IRGC-Quds-Force-Kommandant Qaani veröffentlichte eine Botschaft, die Kontinuität des Widerstands beschwört. Mehrere Analysten zweifeln, ob Trump tatsächlich abzieht oder nur Zeit kauft.",
               "sources": [
                 {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/pearl-harbor-donald-trump-irritiert-mit-aussage-bei-besuch-in-japan-a-a906b8d8-1ca7-432e-be79-d21c87aa6625"
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes"
                 },
                 {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/international/usa-trump-irritiert-takaichi-mit-bemerkung-ueber-pearl-harbor/29669594.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-20-schweiz-usa-handelsuntersuchung",
-              "slug": "schweiz-usa-handelsuntersuchung",
-              "title": "USA starten Handelsuntersuchung gegen die Schweiz",
-              "date": "2026-03-20",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "⚠️",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Washington wirft der Schweiz unlautere Handelspraktiken vor – eine neue Front im globalen Handelskrieg.",
-              "summary": "Die USA haben eine formelle Handelsuntersuchung gegen die Schweiz eingeleitet. Der Bund hat den entsprechenden Brief aus Washington bestätigt. Als Vorwurf werden unlautere Handelspraktiken genannt. Die Schweiz steht damit neben der EU und anderen Ländern unter dem Druck der Trump-Administration.",
-              "gegenstimme": "Ökonomen zweifeln, ob die Schweiz tatsächlich unfaire Handelspraktiken betreibt oder ob es sich um eine Verhandlungstaktik Washingtons handelt.",
-              "sources": [
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/live/ce84073mr06t"
+                },
                 {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/wirtschaft/bund-bestaetigt-briefeingang-usa-starten-untersuchung-gegen-schweiz-wegen-unlauteren-handels"
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-donald-trump-erwaegt-nach-eigenen-angaben-militaereinsatz-gegen-iran-zurueckzufahren-a-ada3a0c1-bf0d-44a1-a66d-48a23b3223ff"
                 },
                 {
                   "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/neue-exportzahlen-helfen-der-schweiz-im-zollstreit-mit-den-usa-ld.1929998"
+                  "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292"
                 }
               ]
             },
             {
-              "id": "2026-03-20-bern-aarehafen-marzili",
+              "id": "2026-03-21-putin-profitiert-irankrieg",
+              "slug": "putin-profitiert-irankrieg",
+              "title": "Unerwarteter Profiteur: Putin kassiert bis zu 250 Mrd. Dollar durch Iran-Krieg",
+              "date": "2026-03-21",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/f3a3d3c0-0001-0004-0000-000001634589_w1024_r1.778_fpx51.8_fpy47.6.jpg",
+              "kurz": "Der Iran-Krieg lässt Russlands Öleinnahmen massiv steigen. Eine neue Studie beziffert den möglichen Zusatzgewinn für Putin auf bis zu 250 Milliarden Dollar.",
+              "summary": "Während der Iran-Krieg die Weltwirtschaft und besonders Europa belastet, profitiert Russland erheblich von den steigenden Ölpreisen. Eine Analyse zeigt: Hält der Konflikt bis September an, fliessen Putin bis zu 250 Milliarden Dollar mehr in die Kriegskasse – mehr als nach dem Beginn der Energiekrise 2022. Gleichzeitig schreibt der russische Ölkonzern Lukoil Auslandsvermögen in Milliardenhöhe ab und meldete für 2025 einen Nettoverlust von rund 10,9 Milliarden Euro.",
+              "gegenstimme": "Die 250-Milliarden-Schätzung gilt als Obergrenze unter optimalen Bedingungen. Russland steht unter westlichen Sanktionen, der Rubel ist volatil, und die tatsächlichen Ölpreise hängen von vielen Faktoren ab. Russlands Ölkonzerne kämpfen ausserdem mit westlichen Technologiebeschränkungen, die die Fördersteigerung begrenzen. Lukoils Milliardenverlust durch Auslandsabschreibungen zeigt: Russland zahlt auch Preise für die Isolation.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-spuelt-bis-zu-250-milliarden-dollar-in-putins-kriegskasse-a-d772e2a9-1f8d-408f-a777-a7a0d358c16a"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/energie/russland-lukoil-schreibt-auslandsvermoegen-in-milliardenhoehe-ab/100210228.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-ukraine-kinder-evakuiert",
+              "slug": "ukraine-kinder-evakuiert",
+              "title": "Ukraine: Kinder aus umkämpftem Slowjansk evakuiert – EU-Kredit unter Druck",
+              "date": "2026-03-21",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://i.guim.co.uk/img/media/ukraine-slowjansk-guardian.jpg",
+              "kurz": "Die Ukraine ordnet die Zwangsevakuierung von Kindern aus Slowjansk an, während russische Truppen vorrücken. Parallel blockiert Ungarn einen 90-Milliarden-EU-Kredit und droht mit weiteren Gegenmassnahmen.",
+              "summary": "Russische Streitkräfte haben ihre Vorstösse nördlich und östlich von Slowjansk intensiviert und sind teilweise auf 20 Kilometer an die Stadt herangerückt. Die Ukraine hat die Pflichtevakuierung von Kindern aus der strategisch wichtigen Donbas-Festung angeordnet. Gleichzeitig blockiert der ungarische Premier Viktor Orbán weiterhin einen EU-Kredit über 90 Milliarden Euro für die Ukraine und droht mit zusätzlichen Druckmitteln, darunter die Kappung von 40 Prozent der ukrainischen Stromversorgung über ungarisches Territorium.",
+              "gegenstimme": "Ungarn und die Slowakei argumentieren, der Stopp des Öltransits über die Druzhba-Pipeline sei kein technisches, sondern ein politisches Problem der Ukraine. Der ungarische Energiekonzern MOL bestreitet, dass die Pipeline selbst beschädigt sei, und sieht die Ukraine in der Pflicht, die Lieferungen umgehend wieder aufzunehmen. Hinter Orbáns Haltung stehen auch innenpolitische Motive: In Ungarn sind am 12. April Wahlen, und Anti-Ukraine-Rhetorik ist ein zentrales Element der Fidesz-Kampagne.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/21/ukraine-war-briefing-children-ordered-to-leave-key-ukrainian-stronghold-as-russians-advance"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo"
+                },
+                {
+                  "name": "Spiegel Online",
+                  "url": "https://www.spiegel.de/ausland/ungarnungarische-regierung-kuendigt-besuch-von-trump-vize-vance-an-a-8bd31d3f-d400-46a7-a256-667eac558bc6"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-schweiz-armeebotschaft-2026",
+              "slug": "schweiz-armeebotschaft-2026",
+              "title": "Armeebotschaft 2026: 3,4 Milliarden für Drohnenabwehr und Cyberschutz",
+              "date": "2026-03-21",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🛡️",
+              "edition": "morning",
+              "image": "https://www.nzz.ch/resizer/v2/https%3A%2F%2Fp.nzz.ch%2Fimg%2F2026%2F03%2F20%2Fpfister-armeebotschaft-keystone-anex.jpg",
+              "kurz": "Verteidigungsminister Pfister präsentiert für 3,4 Milliarden Franken eine Armeebotschaft, die auf Luftverteidigung, Drohnenabwehr und Cyberkriegsführung setzt.",
+              "summary": "Der Bundesrat hat am Freitag die Armeebotschaft 2026 verabschiedet. Das Paket umfasst Verpflichtungskredite von rund 3,4 Milliarden Franken. Der Schwerpunkt liegt auf der Luftverteidigung: Für rund eine Milliarde Franken werden zwei zusätzliche IRIS-T-SLM-Systeme und mehr Munition beschafft. Für 800 Millionen Franken soll ein mobiles Drohnenabwehrsystem von Rheinmetall Air Defence (Skynex) aus Zürich Oerlikon die veralteten Luftabwehrkanonen ersetzen. Dazu kommen 394 Millionen Franken als Zusatzkredit für Mehrkosten beim F-35-Kampfjet.",
+              "gegenstimme": "Politisch steht die geplante Finanzierung auf wackligen Beinen: Der Bundesrat will eine befristete Mehrwertsteuererhöhung um 0,8 Prozentpunkte, die alle Parteien ausser der Mitte ablehnen. Kritiker bemängeln zudem die freihändige Vergabe des Skynex-Systems an Rheinmetall ohne reguläre Evaluation. Gleichzeitig stellt der Rüstungsstopp gegenüber den USA – am gleichen Tag beschlossen – die Beschaffung wichtiger amerikanischer Systeme in Frage.",
+              "sources": [
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/bundesrat-beantragt-rund-3%2C4-milliarden-franken-f%C3%BCr-armeeausbau/91133468"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/armeebotschaft-2026-der-bundesrat-will-moegliche-angriffe-aus-der-luft-mit-einem-schweizer-drohnenabwehrsystem-bekaempfen-ld.1930274"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/armeebotschaft-drohnen-killer-co-pfister-will-34-milliarden-fuer-die-armee-103530232"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-schweiz-ruestungsexporte-usa",
+              "slug": "schweiz-ruestungsexporte-usa",
+              "title": "Schweiz stoppt Rüstungsexporte in die USA – Neutralität im Fokus",
+              "date": "2026-03-21",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/1280w/b7a38e/schweizer-flagge-bundeshausfassade.jpg",
+              "kurz": "Der Bundesrat bewilligt keine neuen Rüstungsexporte mehr in die USA. Die Entscheidung stützt sich auf das Neutralitätsrecht und das Kriegsmaterialgesetz.",
+              "summary": "Der Schweizer Bundesrat hat am Freitag beschlossen, keine neuen Exportbewilligungen für Kriegsmaterial in die USA mehr zu erteilen. Bereits seit dem 28. Februar – dem Beginn der US-israelischen Angriffe auf Iran – wurden keine neuen Gesuche mehr genehmigt. Bestehende Bewilligungen bleiben vorläufig gültig, werden aber von einer departementsübergreifenden Expertengruppe überprüft. Der Schritt basiert auf der Schweizer Neutralität und dem Kriegsmaterialgesetz, das Exporte in kriegführende Staaten untersagt.",
+              "gegenstimme": "Mitte-Nationalrat Reto Nause warnt vor wirtschaftlichen und sicherheitspolitischen Konsequenzen: Wer nicht liefert, wird möglicherweise selbst nicht mehr beliefert – was Verzögerungen bei Patriot-Systemen, dem F-35 oder Ersatzteilen für den F/A-18 bedeuten könnte. Economiesuisse-Präsident Christoph Mäder mahnte: Die USA seien ein überragend wichtiger Handelspartner. Als Kleinstaat könne sich die Schweiz nicht als 'Missionar des Weltgeschehens' aufführen.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/schweiz-usa-bund-bewilligt-keine-neuen-waffenexporte-in-die-usa-mehr"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/bundesrat-bewilligt-wegen-iran-krieg-keine-neuen-ruestungsexporte-in-die-usa-ld.1930297"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/kriegsmaterial-exporte-bundesrat-stoppt-lieferungen-in-usa-740729645699"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-bern-aarehafen-marzili",
               "slug": "bern-aarehafen-marzili",
               "title": "Bern: Aarehafen mit Brücke im Marzili bewilligt",
-              "date": "2026-03-20",
-              "time": "18:00",
+              "date": "2026-03-21",
+              "time": "07:00",
               "category": "regional",
-              "icon": "⛵",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/8eXmo-b74lK8K_sMMx1pqx.jpg",
-              "kurz": "Das Statthalteramt Bern-Mittelland hat den neuen Aarehafen mit Auswasserungsstelle im Marzili genehmigt.",
-              "summary": "Der geplante Aarehafen im Berner Marzili hat die nötige Bewilligung erhalten. Das Projekt umfasst eine Auswasserungsstelle und eine neue Brücke. Es ist Teil der umfassenden 66,8-Millionen-Sanierung des Freibads Marzili. Für Bernerin­nen und Berner, die die Aare als Freizeitgewässer nutzen, ist das eine gute Nachricht.",
-              "gegenstimme": "Anwohnende haben Bedenken wegen des zusätzlichen Lärms und Betriebs im sensiblen Naherholungsgebiet Marzili.",
+              "icon": "🏊",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/4P0SIxqfGXrm2Jl_9eBx-G.jpg",
+              "kurz": "Das Regierungsstatthalteramt Bern-Mittelland hat den Neubau eines Aarehafens mit Fussgängerbrücke im Marzili bewilligt. Das Projekt ist Teil der 66,8-Millionen-Sanierung des beliebten Berner Freibads.",
+              "summary": "Die Regierungsstatthalterin Bern-Mittelland hat die Baubewilligung für den Neubau einer Auswasserungsstelle für Aareboote (Aareböötli) mit Fussgängerbrücke im Marzili erteilt. Sieben Einsprachen, darunter Kollektiveinsprachen wegen Lärm, Abfall und Naturschutz, wurden vollumfänglich abgewiesen. Der Aarehafen ist Teil der Gesamtsanierung des Freibads Marzili, die insgesamt 66,8 Millionen Franken kosten soll. Noch pendent ist die Baubewilligung für das Hauptgebäude mit Gastronomienutzung und weitere Infrastruktur.",
+              "gegenstimme": "Einspracheführer hatten konkrete Bedenken: zusätzliche Lärm- und Abfallbelastung durch mehr Bootsbetrieb, Beeinträchtigungen der Fauna und Flora an der Aare sowie die Aufhebung von Parkplätzen. Einige kritisierten auch die hohen Investitionskosten von insgesamt 66,8 Millionen Franken für ein Freibad – in Zeiten knapper städtischer Budgets eine berechtigte Debatte.",
               "sources": [
                 {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/bern-aarehafen-mit-bruecke-im-marzili-bewilligt-497080515080"
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-aarehafen-mit-bruecke-im-marzili-bewilligt-497080515080"
+                },
+                {
+                  "name": "SWI swissinfo.ch",
+                  "url": "https://www.swissinfo.ch/ger/statthalteramt-bewilligt-berner-aarehafen-mit-br%c3%bccke-im-marzili/91132588"
+                },
+                {
+                  "name": "Kanton Bern – Medienmitteilung",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=e278cb0a-c974-4746-9d83-409c9795eb81"
                 }
               ]
             },
             {
-              "id": "2026-03-20-bern-airline-muenchen-belp",
-              "slug": "bern-airline-muenchen-belp",
-              "title": "Bern bekommt neue Flugverbindung: Mini-Airline fliegt ab Belp nach München",
-              "date": "2026-03-20",
-              "time": "18:00",
+              "id": "2026-03-21-bern-benzinpreisschock",
+              "slug": "bern-benzinpreisschock",
+              "title": "Berner Tankstellenbetreiber: «Der Benzinpreis könnte explodieren»",
+              "date": "2026-03-21",
+              "time": "07:00",
               "category": "regional",
-              "icon": "✈️",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/FY3EMFo3arE9ZWI3IsxsIt.jpg",
-              "kurz": "Ab Juni fliegt die neue Airline Vini dreimal wöchentlich von Bern-Belp nach München.",
-              "summary": "Der Flughafen Bern-Belp bekommt eine neue Direktverbindung nach München. Die Airline Vini – gegründet von Tomislav Lang, einem der Skywork-Mitgründer – startet ab Juni mit drei Flügen pro Woche. Für den Wirtschaftsstandort Bern ist die Verbindung nach München, einem der wichtigsten Wirtschaftszentren Europas, bedeutsam.",
-              "gegenstimme": "Kritiker erinnern daran, dass Bern-Belp schon mehrfach Airline-Starts erlebt hat, die rasch scheiterten – darunter Skywork selbst 2018.",
+              "icon": "⛽",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/5kR7sXmBJ9pN2Lh_3dCf-Q.jpg",
+              "kurz": "Ein Berner Tankstellenbetreiber warnt vor einer Benzinpreisexplosion infolge des Iran-Kriegs. Das KOF-Institut der ETH Zürich rechnet im Negativszenario mit bis zu 2 Franken pro Liter Super.",
+              "summary": "Der anhaltende Iran-Krieg lässt die Ölpreise steigen und bereitet Schweizer Tankstellenbetreibern Sorgen. Ökonomen des KOF-Instituts der ETH Zürich haben zwei Szenarien durchgespielt: Im Basisszenario bleiben die Auswirkungen begrenzt; hält der Konflikt länger an und stabilisiert sich der Ölpreis bei 90 Dollar pro Barrel, rechnen die Forscher mit einem Benzinpreis von rund 2 Franken pro Liter, Einkommensverlusten von bis zu 400 Franken pro Person und dem Abbau von 20'000 Vollzeitstellen in der Schweiz.",
+              "gegenstimme": "Das KOF selbst betont, dass die US-Handelszölle nach wie vor das grössere wirtschaftliche Risiko für die Schweiz darstellen als der Iran-Krieg. Zudem federt der starke Franken einen Teil der globalen Preissteigerungen ab. Kritiker werfen Ökonomen und Medien vor, mit Worst-Case-Szenarien Panik zu schüren – was letztlich selbst zu Hamsterkäufen und Preissteigerungen beitragen kann.",
               "sources": [
                 {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/bern-belp-neue-airline-fliegt-3x-pro-woche-nach-muenchen-578502799338"
+                  "name": "20 Minuten – KOF Prognose",
+                  "url": "https://www.20min.ch/story/kof-prognose-hoher-oelpreis-autos-moebel-und-elektronik-werden-teurer-103529848"
+                },
+                {
+                  "name": "Bernerzeitung – Tankstelle",
+                  "url": "https://www.bernerzeitung.ch/benzinpreis-tankstelle-in-bern-warnt-vor-preisexplosion-716043108043"
                 }
               ]
             },
             {
-              "id": "2026-03-20-ezb-nagel-zinserhoehung",
-              "slug": "ezb-nagel-zinserhoehung",
-              "title": "EZB-Nagel offen für Zinserhöhung – Märkte justieren Prognosen",
-              "date": "2026-03-20",
-              "time": "18:00",
+              "id": "2026-03-21-bern-demo-fahndung",
+              "slug": "bern-demo-fahndung",
+              "title": "Bern: Polizei fahndet nach 32 Tätern der Palästina-Demo",
+              "date": "2026-03-21",
+              "time": "07:00",
+              "category": "regional",
+              "icon": "👮",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/7mR5kXfBJ9pN2Lh_3dCx-T.jpg",
+              "kurz": "Die Kantonspolizei Bern hat verpixelte Fahndungsbilder von 32 mutmasslichen Tätern der eskalierter Palästina-Demo vom 11. Oktober 2025 veröffentlicht. 101 Personen konnten bereits identifiziert werden.",
+              "summary": "Nach den schweren Ausschreitungen an der unbewilligten Pro-Palästina-Kundgebung vom 11. Oktober 2025 in Bern startet die Kantonspolizei eine öffentliche Fahndung. Sie veröffentlicht verpixelte Bilder von 32 noch unbekannten Tatverdächtigen. Bei der Demo wurden 18 Polizisten verletzt und ein Sachschaden von über 600'000 Franken verursacht. Falls die verpixelten Bilder nicht zur Identifikation führen, werden am 30. März unverdeckte Fotos veröffentlicht.",
+              "gegenstimme": "Datenschutz- und Bürgerrechtsorganisationen kritisieren die Praxis der Öffentlichkeitsfahndung mit Fotos, auch wenn diese zunächst verpixelt sind. Sie befürchten, dass das Verfahren zu Falschidentifikationen führen kann und die Unschuldsvermutung untergrabe. Zudem sei es rechtlich fragwürdig, dass indirekt Druck ausgeübt werde, sich selbst zu melden – was dem Schweigerecht widersprechen könnte.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/oeffentlichkeitsfahndung-das-sind-die-krawall-macher-von-bern-polizei-zeigt-bilder-103529737"
+                },
+                {
+                  "name": "Bernerzeitung",
+                  "url": "https://www.bernerzeitung.ch/bern-kantonspolizei-fahndet-nach-32-palaestina-demo-taetern-891618503204"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/gaza-demo-bern-warum-die-taeterverfolgung-so-schwierig-ist-385014526532"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-europa-autos-china",
+              "slug": "europa-autos-china",
+              "title": "Epochaler Wendepunkt: Europa importiert erstmals mehr Autos aus China",
+              "date": "2026-03-21",
+              "time": "07:00",
               "category": "wirtschaft",
-              "icon": "📊",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Bundesbank-Chef Nagel signalisiert Offenheit für eine EZB-Zinserhöhung – eine Kehrtwende angesichts steigender Energiepreise.",
-              "summary": "EZB-Ratsmitglied und Bundesbank-Chef Joachim Nagel hat sich offen für eine mögliche Zinserhöhung gezeigt. Der Iran-Krieg treibt die Energiepreise und damit die Inflation nach oben. Analysten haben ihre Zinsprognosen bereits nach oben revidiert. Die EZB hatte den Leitzins erst heute bei 2,0% belassen.",
-              "gegenstimme": "Andere EZB-Ratsmitglieder warnen vor einer Zinserhöhung, die die konjunkturelle Abschwächung durch den Energieschock verstärken könnte.",
+              "icon": "🚗",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/0ef0a1f8-3f9e-4cd7-8e4a-ccf0d0b4b6c9_w1280_r1.778_fpx50.28_fpy49.96.jpg",
+              "kurz": "Zum ersten Mal exportiert China mehr Autos in die EU als umgekehrt – ein historischer Machtwechsel in der Automobilindustrie. Bei VW kämpft Aufsichtsratschef Pötsch um eine dritte Amtszeit.",
+              "summary": "Die EU importiert laut einer EY-Analyse erstmals mehr Autos und Autoteile aus China als sie dorthin exportiert. Die Importe stiegen 2025 auf 22 Milliarden Euro, während die Exporte auf 16 Milliarden Euro einbrachen – ein Rückgang von 34 Prozent. Für Deutschland zeichnet sich derselbe Wendepunkt für 2026 ab. Parallel dazu kämpft Volkswagen mit internen Machtkämpfen und einer historischen Schrumpfkur – Aufsichtsratschef Hans Dieter Pötsch kandidiert für eine dritte Amtszeit.",
+              "gegenstimme": "Branchenvertreter und einige Ökonomen warnen davor, die Zahlen zu dramatisieren: Ein Teil der chinesischen Importe stammt von europäischen Herstellern wie BMW (Mini), VW (Cupra Tavascan) und Mercedes-Benz (Smart), die in China für den Export produzieren. Der Rückgang der EU-Exporte spiegle auch eine schwächere Nachfrage in China selbst – nicht nur einen Siegeszug chinesischer Marken.",
               "sources": [
                 {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-nagel-offen-fuer-zinserhoehung-analysten-heben-zinsprognosen-an/100210195.html"
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/europa-importiert-erstmals-mehr-autos-aus-china-als-umgekehrt-a-06da0678-0756-4da9-b09a-9169c99af3ab"
+                },
+                {
+                  "name": "Handelsblatt – Pötsch",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-poetsch-tritt-fuer-dritte-amtszeit-als-vw-aufsichtsratschef-an/100210345.html"
+                },
+                {
+                  "name": "Handelsblatt – VW Innenansichten",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/vw-zu-viele-autos-innenansichten-eines-konzerns-der-das-wachsen-aufgibt/100209208.html"
                 }
               ]
             },
             {
-              "id": "2026-03-20-supermicro-chip-schmuggel-china",
-              "slug": "supermicro-chip-schmuggel-china",
-              "title": "Super-Micro-Gründer wegen Chip-Schmuggel nach China angeklagt",
-              "date": "2026-03-20",
-              "time": "18:00",
-              "category": "tech",
-              "icon": "🔧",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Der Gründer von Super Micro Computer ist wegen illegalen Chip-Exports nach China angeklagt.",
-              "summary": "Charles Liang, Gründer des US-Serveranbieters Super Micro Computer, ist von US-Behörden wegen des illegalen Exports von Halbleitern nach China angeklagt worden. Der Fall wirft ein Schlaglicht auf die Lücken in den US-Exportkontrollen für Chips. Super Micro ist ein wichtiger Zulieferer für KI-Rechenzentren weltweit.",
-              "gegenstimme": "Super Micro weist die Vorwürfe zurück. Kritiker fragen, warum derartige Exporte trotz verschärfter Kontrollen möglich waren.",
+              "id": "2026-03-21-iran-energiekrise-europa",
+              "slug": "iran-energiekrise-europa",
+              "title": "Energiekrise: Der Iran-Krieg trifft Europa hart",
+              "date": "2026-03-21",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "⚡",
+              "edition": "morning",
+              "image": "https://img.20min.ch/2026/03/21/benzin-preise-iran-krieg.jpg",
+              "kurz": "Die Schliessung der Strasse von Hormuz durch den Iran-Krieg treibt Sprit-, Gas- und Lebensmittelpreise in die Höhe. Die Luftfahrt steckt in der schwersten Krise seit der Pandemie.",
+              "summary": "Seit Blockade der Strasse von Hormuz haben Europas Energiepreise stark angezogen: Erdgas kostet über 50 Euro pro Megawattstunde, Diesel und Kerosin erreichen Rekordwerte. Die Luftfahrtbranche hat über 32'000 Flüge gestrichen. Europas energieintensive Industrien – vor allem Chemie und Metallerzeugung – stehen unter extremem Druck. Die EU-Kommission beziffert die Mehrkosten seit Kriegsbeginn auf sechs Milliarden Euro. Regierungen ergreifen erste Notmassnahmen wie Preisdeckel und Steuerrabatte.",
+              "gegenstimme": "Wirtschaftsliberale Ökonomen und der belgische Premier Bart De Wever fordern, Europa solle die Beziehungen zu Russland normalisieren und wieder günstige Energie beziehen. Andere Ökonomen warnen, diese Abhängigkeit sei keine Lösung, sondern das ursprüngliche Problem. Gleichzeitig kritisieren manche Regierungen Preisdeckel als markverzerrend, da sie Investitionen in Alternativen hemmen.",
               "sources": [
                 {
                   "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/it-internet/super-micro-us-unternehmer-wegen-chip-schmuggel-nach-china-angeklagt/100210288.html"
+                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-der-spritpreisschock-und-was-europas-regierungen-dagegen-tun/100210190.html"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/von-ki-chips-ueber-lastwagen-diesel-bis-zu-waschmitteln-der-iran-krieg-trifft-viele-branchen-hart-ld.1930038"
+                },
+                {
+                  "name": "20 Minuten / The Economist",
+                  "url": "https://www.20min.ch/story/engpaesse-der-iran-krieg-zwingt-europa-dazu-sein-energieproblem-anzugehen-103530269"
+                },
+                {
+                  "name": "Handelsblatt (Luftfahrt)",
+                  "url": "https://www.handelsblatt.com/unternehmen/dienstleister/iran-krieg-luftfahrt-rutscht-in-die-schwerste-krise-seit-der-pandemie/100208868.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-musk-twitter-kursmanipulation",
+              "slug": "musk-twitter-kursmanipulation",
+              "title": "US-Jury: Elon Musk haftbar für Betrug an Twitter-Aktionären",
+              "date": "2026-03-21",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/og_default_srf_news.png",
+              "kurz": "Eine Geschworenenjury in San Francisco befand Elon Musk schuldig, Twitter-Aktionäre durch irreführende Äusserungen über Bot-Konten geschädigt zu haben. Die Schadensersatzsumme könnte 2,5 Milliarden Dollar erreichen.",
+              "summary": "Ein Bundesgericht in San Francisco hat Elon Musk einstimmig für haftbar erklärt, Twitter-Aktionäre in der Zeit der Plattformübernahme 2022 in die Irre geführt zu haben. Die Geschworenen sahen es als erwiesen an, dass Musk mit gezielten öffentlichen Äusserungen über Bot-Probleme den Aktienkurs künstlich gedrückt hatte. Die Schadensersatzhöhe ist noch offen, wird aber auf rund 2,5 Milliarden Dollar geschätzt. Musks Anwälte haben bereits angekündigt, Berufung einzulegen.",
+              "gegenstimme": "Musks Verteidigung argumentierte, seine öffentlichen Posts seien keine gezielten Marktmanipulationen gewesen, sondern Meinungsäusserungen, die von Anlegern überinterpretiert wurden. Musk selbst räumte vor Gericht ein, möglicherweise «dumme Tweets» verfasst zu haben – aber das mache ihn nicht zwingend haftbar für Kursverluste Dritter. Ähnliche Klagen gegen ihn – etwa von Tesla-Aktionären 2023 – scheiterten vor Gericht.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/usa/uebernahme-von-twitter-2022-jury-macht-elon-musk-fuer-betrug-an-twitter-aktionaeren-haftbar"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c62j3yl842eo"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/techkonzern-us-jury-macht-musk-fuer-betrug-an-twitter-aktionaeren-haftbar/100210383.html"
+                },
+                {
+                  "name": "Spiegel Online",
+                  "url": "https://www.spiegel.de/netzwelt/elon-musk-geschworene-sehen-kursmanipulation-bei-twitter-uebernahme-a-13ee3adc-4904-4dc9-84b1-5c3fe47b6529"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-weltrezession-risiko",
+              "slug": "weltrezession-risiko",
+              "title": "Ökonom Wellershoff: «Wir stehen am Rande einer Weltrezession»",
+              "date": "2026-03-21",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "morning",
+              "image": "https://img.nzz.ch/2026/03/20/wellershoff-nzz.jpg",
+              "kurz": "Anlagespezialist Klaus Wellershoff warnt eindringlich vor einer globalen Rezession infolge des Iran-Kriegs. SMI und DAX verloren in vier Wochen über 9 bzw. 10 Prozent.",
+              "summary": "Der Zürcher Ökonom und Investmentspezialist Klaus Wellershoff sieht die Weltwirtschaft am Rand einer Rezession. Haupttreiber ist der Iran-Krieg, der die ohnehin schwächelnde Konjunktur in den USA, Deutschland und China weiter belastet. Stark gestiegene Energiepreise und wachsende Verunsicherung bei Konsumenten und Unternehmen könnten genügen, um eine globale Abwärtsspirale auszulösen. Anleger sollten grosse Vorsicht walten lassen und auf günstigere Einstiegskurse warten.",
+              "gegenstimme": "Wellershoff selbst relativiert das Worst-Case-Szenario: Alle grossen Energieproduzenten – mit Ausnahme Irans – hätten ein starkes Interesse, die Energieversorgung aufrechtzuerhalten. Das globale System habe Resilienz und Redundanzen. Eine Wiederholung der Ölkrise der 1970er Jahre sei zwar möglich, aber nicht zwingend. Saudi-Arabiens Warnung vor einem Ölpreis über 180 Dollar sei «ein Szenario, mehr nicht».",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/oekonom-Klaus-wellershoff-wir-stehen-am-rande-einer-weltrezession-ld.1930265"
+                },
+                {
+                  "name": "Spiegel Online",
+                  "url": "https://www.spiegel.de/wirtschaft/donald-trump-und-weltwirtschaft-trumps-iran-krieg-und-die-drohende-finanzkatastrophe-a-f1806523-a365-4310-b14e-5cf78bc46880"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-beenden-woche-im-minus-sp-verliert-seit-kriegsbeginn-mehr-als-fuenf-prozent/100210267.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-ki-jobverluste-bezos",
+              "slug": "ki-jobverluste-bezos",
+              "title": "KI-Revolution: Jobverluste und Bezos' 100-Milliarden-Wette",
+              "date": "2026-03-21",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/bezos-ki-industrie-2026.jpg",
+              "kurz": "Deutschlands Digitalminister Wildberger warnt vor dramatischen Jobverlusten durch KI. Jeff Bezos sammelt parallel 100 Milliarden Dollar für KI in der Industrie – das Kapital fliesst, die Frage ist nur, wohin die Jobs gehen.",
+              "summary": "Deutschlands Bundesdigitalminister Karsten Wildberger (CDU) warnt offen vor einem strukturellen Wandel des Arbeitsmarkts durch künstliche Intelligenz: «Die Zeit, in der die Industrie eine Jobmaschine war, geht zu Ende.» Gleichzeitig plant Amazon-Gründer Jeff Bezos einen 100-Milliarden-Dollar-Fonds für den KI-Einsatz in der industriellen Fertigung. Meta setzt ebenfalls auf KI und ersetzt menschliche Inhaltsmoderatorinnen. Die Frage, wer von der KI-Welle profitiert und wer verdrängt wird, ist politisch und wirtschaftlich drängend.",
+              "gegenstimme": "Tech-Optimisten argumentieren, dass jede Automatisierungswelle historisch gesehen netto mehr Arbeitsplätze geschaffen als vernichtet hat – von der Industrialisierung bis zur Computerisierung. Bezos selbst sieht KI als Wachstumstreiber für neue Branchen und Berufsbilder. Ökonom Klaus Wellershoff (NZZ-Interview) verweist zudem darauf, dass in jeder technologischen Umbruchphase Abschreibungen entstehen – aber auch Gewinner. Die entscheidende Frage sei, wie schnell sich Gesellschaften anpassen.",
+              "sources": [
+                {
+                  "name": "Spiegel Online (Wildberger)",
+                  "url": "https://www.spiegel.de/politik/kuenstliche-intelligenz-digitalminister-karsten-wildberger-fuerchtet-branchenwandel-und-jobverluste-a-07c3a69d-add8-4e95-bd17-29237f8a4edd"
+                },
+                {
+                  "name": "Spiegel Online (Bezos)",
+                  "url": "https://www.spiegel.de/wirtschaft/jeff-bezos-will-100-milliarden-dollar-fuer-neues-ki-projekt-einwerben-a-1f2111c2-33e2-457c-99c4-93a3b03b631b"
                 }
               ]
             }
