@@ -1,5 +1,5 @@
 {
-  "updated": "10:37 UTC",
+  "updated": "16:08 UTC",
   "days": [
     {
       "date": "2026-03-21",
@@ -609,6 +609,223 @@
                 {
                   "name": "Berner Zeitung",
                   "url": "https://www.bernerzeitung.ch/bern-belp-neue-airline-fliegt-3x-pro-woche-nach-muenchen-578502799338"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-21-iran-krieg-umwelt-oekologie",
+              "slug": "iran-krieg-umwelt-oekologie",
+              "title": "Iran-Krieg: Ölbrände und Bombentrichter – die ökologische Katastrophe",
+              "date": "2026-03-21",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/7779fa6e-e7f9-4ddc-a92a-f9f8dd7ca10a_w520_r2.08_fpx57.99_fpy55.jpg",
+              "kurz": "Die ersten 14 Kriegstage zwischen USA, Israel und Iran haben laut einer Analyse bereits 5 Millionen Tonnen CO2 erzeugt – mehr als 84 Länder zusammen in einem Jahr.",
+              "summary": "Der militärische Konflikt zwischen den USA, Israel und Iran verursacht neben dem menschlichen Leid eine massive ökologische Katastrophe. Brennende Ölfelder, zerstörte Infrastruktur und Schiffsausfälle im Persischen Golf belasten die globale Umwelt erheblich. Eine Analyse der ersten 14 Kriegstage kommt auf 5 Millionen Tonnen CO2-Äquivalent – so viel wie 84 der einkommensschwächsten Länder zusammen in einem Jahr. Europa spürt die Folgen direkt: Durch unterbrochene Gaslieferungen steigen die Strom- und Gastarife in Deutschland um rund 15 Prozent.",
+              "gegenstimme": "Energiewirtschaftliche Verbände weisen darauf hin, dass Europa durch den massiven LNG-Ausbau und die Diversifizierung der Gasquellen seit 2022 deutlich weniger verwundbar ist als noch zur Zeit des Ukraine-Krieges. Kritiker der Studie bemängeln zudem Unsicherheiten in den Emissionsschätzungen – insbesondere bei zerstörten Gebäuden und abgebrannten Öllagern sind die Zahlen mit hoher Unsicherheit behaftet. Die eigentliche Frage sei, wie schnell die Infrastruktur wiederaufgebaut wird.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/21/middle-east-iran-conflict-environment-climate"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-steigende-strompreise-durch-teureres-gas-in-deutschland-a-79977fcf-d286-4ac3-8825-f260c83ab733"
+                },
+                {
+                  "name": "Der Spiegel – Gaskrieg",
+                  "url": "https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt-a-5b989375-154d-4553-8541-d1865d5af30f"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-iran-natanz-bunkerbrecher",
+              "slug": "iran-natanz-bunkerbrecher",
+              "title": "USA und Israel bombardieren Atomanlage Natanz mit Bunkerbrechern",
+              "date": "2026-03-21",
+              "time": "18:00",
+              "category": "international",
+              "icon": "💣",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/d488e0c5-2694-41ff-b8e5-bfed602901e3_w520_r2.08_fpx55.67_fpy50.jpg",
+              "kurz": "USA und Israel haben die iranische Urananreicherungsanlage Natanz mit Bunkerbrechern angegriffen. Irans Fähigkeit, die Strasse von Hormus zu bedrohen, sei dadurch geschwächt worden, teilt US-Zentralkommando mit.",
+              "summary": "Amerikanische und israelische Streitkräfte haben in der Nacht auf Samstag die unterirdische Atomanlage in Natanz sowie weitere Rüstungsstandorte in Teheran angegriffen. US-Centcom-Chef Admiral Brad Cooper erklärte, Irans Fähigkeit zur Bedrohung des Seeverkehrs durch die Strasse von Hormus sei nach der Zerstörung unterirdischer Marschflugkörperlager deutlich geschwächt. Iran reagierte mit Raketenangriffen auf Israel und feuerte erstmals Raketen auf den britisch-amerikanischen Militärstützpunkt Diego Garcia im Indischen Ozean – beide Geschosse verfehlten ihr Ziel.",
+              "gegenstimme": "Die IAEA mahnte zu Zurückhaltung; Teheran bestritt eine radioaktive Leckage. Kritiker wenden ein, dass militärische Angriffe auf Atomanlagen das Risiko einer nuklearen Katastrophe dramatisch erhöhen und eine diplomatische Lösung dauerhaft verunmöglichen könnten.",
+              "sources": [
+                {
+                  "name": "Der Spiegel – Iran-News live",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-donald-trump-erwaegt-nach-eigenen-angaben-militaereinsatz-gegen-iran-zurueckzufahren-a-ada3a0c1-bf0d-44a1-a66d-48a23b3223ff"
+                },
+                {
+                  "name": "BBC News live",
+                  "url": "https://www.bbc.com/news/live/ce84073mr06t"
+                },
+                {
+                  "name": "The Guardian – Middle East live",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-lawine-suedtirol-zwei-tote",
+              "slug": "lawine-suedtirol-zwei-tote",
+              "title": "Lawine in Südtirol: Zwei Tourenskifahrer tot",
+              "date": "2026-03-21",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🏔️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/EUYZ-FNwqmXAz7uT1Bn2DL.jpg",
+              "kurz": "Im Ridnauntal in Südtirol hat eine Lawine rund zwei Dutzend Tourenskifahrer erfasst. Zwei Menschen kamen ums Leben, mehrere wurden schwer verletzt.",
+              "summary": "Am Samstag gegen 11:40 Uhr löste sich am Tallone Grande nahe Ratschings im Südtirol eine grosse Lawine. Rund zwei Dutzend Tourenskifahrer befanden sich am betroffenen Hang – etwa zehn wurden mitgerissen. Zwei Personen kamen ums Leben, mindestens drei weitere wurden schwer verletzt. Über 80 Rettungskräfte mit sechs Helikoptern waren im Einsatz. Die Saison 2025/26 ist in Europa bereits aussergewöhnlich tödlich: Mindestens 127 Menschen kamen bisher durch Lawinen ums Leben.",
+              "gegenstimme": "Experten weisen darauf hin, dass die wachsende Beliebtheit von Skitouren und Freeriding ausserhalb präparierter Pisten das statistische Risiko erhöht – nicht nur klimatische Faktoren. Die Eigenverantwortung der Bergsportler steht damit ebenso zur Debatte wie strukturelle Lawinenwarnsysteme.",
+              "sources": [
+                {
+                  "name": "SRF – Lawinenabgang im Südtirol: zwei Tourenskifahrer tot",
+                  "url": "https://www.srf.ch/news/international/unglueck-im-suedtirol-lawinenabgang-im-suedtirol-zwei-tourenskifahrer-tot"
+                },
+                {
+                  "name": "20 Minuten – Lawinenabgang in Südtirol",
+                  "url": "https://www.20min.ch/story/italien-lawinenabgang-in-suedtirol-grosseinsatz-laeuft-103530920"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-schweiz-durchfahrtsmaut-eu-kritik",
+              "slug": "schweiz-durchfahrtsmaut-eu-kritik",
+              "title": "Schweizer Durchfahrtsmaut für Ausländer: EU-Politiker laufen Sturm",
+              "date": "2026-03-21",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🚗",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/03/21/003904e7-7541-40b0-8de2-8cb3c9995c6a.jpg",
+              "kurz": "Der Nationalrat hat mit 173 zu 13 Stimmen eine Durchfahrtsmaut nur für ausländische Fahrzeuge beschlossen. Deutsche und französische EU-Politiker reagieren scharf und warnen vor Vergeltungsmassnahmen.",
+              "summary": "Der Schweizer Nationalrat hat eine Motion angenommen, die den Bundesrat verpflichtet, eine Gebühr für reine Transitfahrten durch die Schweiz – ausschliesslich für Fahrzeuge mit ausländischem Kennzeichen – auszuarbeiten. Das Ziel ist eine Entlastung der Gotthard-Achse, wo an über 100 Tagen im Jahr Überlastung herrscht. EU-Abgeordnete aus Frankreich und Deutschland kritisieren den Entscheid als diskriminierend und warnen vor einem Dominoeffekt. Der Bundesrat selbst ist gegen die Massnahme und verweist auf administrative Hürden sowie Bedenken hinsichtlich des Tessins.",
+              "gegenstimme": "Der Bundesrat lehnt die Abgabe ab: Sie würde den Kanton Tessin als einzigen Landesteil ohne frei verfügbare wintersichere Strassenverbindung mit der übrigen Schweiz zurücklassen. Auch GLP-Nationalräte sprechen sich für ein allgemeines Road-Pricing aus, das alle Fahrzeuge gleichbehandelt.",
+              "sources": [
+                {
+                  "name": "20 Minuten – Schweizer Durchfahrts-Maut erzürnt EU-Politiker",
+                  "url": "https://www.20min.ch/story/scharfe-kritik-schweizer-durchfahrts-maut-erzuernt-eu-politiker-103530820"
+                },
+                {
+                  "name": "NZZ – Schweiz plant Maut für ausländische Autos",
+                  "url": "https://www.nzz.ch/schweiz/die-schweiz-soll-eine-maut-fuer-die-fahrt-in-den-sueden-einfuehren-aber-nur-fuer-auslaendische-fahrzeuge-ld.1930444"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-benko-steuerhinterziehung",
+              "slug": "benko-steuerhinterziehung",
+              "title": "René Benko: Österreich wirft Ex-Milliardär Steuerhinterziehung vor",
+              "date": "2026-03-21",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "💰",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/3ea735dd-7ce9-4df3-bbde-6d1040e62a71_w520_r2.08_fpx45_fpy13.jpg",
+              "kurz": "Österreichische Finanzstrafverfolger werfen Signa-Gründer René Benko vor, Villa, Chalet, Privatjet und Luxusjacht teils über Scheingeschäfte vom Steuerzahler finanziert zu haben.",
+              "summary": "Die österreichischen Finanzstrafbehörden haben René Benko, den gescheiterten Gründer des Signa-Imperiums, offiziell der Steuerhinterziehung beschuldigt. Im Zentrum stehen Scheingeschäfte, über die Benko sein Luxusleben – Villa, Berchalet, Privatjet, Jacht – angeblich als Betriebsausgaben deklariert und so dem Steuerzahler belastet haben soll. Benko sitzt seit Januar 2025 in Untersuchungshaft. Der Fall gilt als einer der grössten Wirtschaftsskandale Österreichs der letzten Jahrzehnte.",
+              "gegenstimme": "Benkos Verteidigung hat die Vorwürfe stets zurückgewiesen und betont, alle steuerlichen Gestaltungen seien rechtlich geprüft und zulässig gewesen. Ausserdem ist zu beachten: Finanzstrafverfahren in Österreich sind langwierig – zwischen Vorwurf und rechtskräftigem Urteil liegen oft Jahre. Benko gilt bis zu einer Verurteilung als unschuldig. Kritiker mahnen zudem, dass österreichische Finanzbehörden Benkos Netzwerk in Spitzenzeiten wohlwollend behandelt hatten.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/rene-benko-finanzstrafverfolger-in-oesterreich-werfen-ex-milliardaer-steuerhinterziehung-vor-a-d7c693a5-41cc-41f6-a16e-759aaaa364fc"
+                },
+                {
+                  "name": "Süddeutsche Zeitung",
+                  "url": "https://www.sueddeutsche.de/wirtschaft/rene-benko-untersuchungshaft-ermittlungen-wien-li.3335511"
+                },
+                {
+                  "name": "news.at",
+                  "url": "https://www.news.at/wirtschaft/rene-benko-stiftung-liechtenstein-rp1"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-iran-duenger-krise-global",
+              "slug": "iran-duenger-krise-global",
+              "title": "Hormuz-Blockade: Warum jetzt weltweit der Dünger knapp wird",
+              "date": "2026-03-21",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "🌾",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/217c42eb-651d-48ea-8168-f98cf0914ed1_w520_r2.08_fpx36.15_fpy50.jpg",
+              "kurz": "Rund ein Drittel der weltweit verschifften Düngemittel passiert normalerweise die Strasse von Hormus. Die Blockade treibt die Preise auf dem ohnehin angespannten Markt deutlich nach oben.",
+              "summary": "Die de facto Blockade der Strasse von Hormus durch den Nahostkrieg trifft die globale Landwirtschaft hart: Rund ein Drittel aller weltweit verschifften Düngemittel stammt aus Katar, Saudi-Arabien, Bahrain und Oman. Landwirte zahlen bereits über 30 Prozent mehr als vor Kriegsausbruch. Besonders betroffen sind afrikanische und asiatische Länder, deren Bevölkerung bis zu 80 Prozent des Einkommens für Lebensmittel ausgibt. Die deutsche Bundesregierung hat ihre Taskforce zur Überwachung von Kraftstoffpreisen ausgeweitet und will nun auch Lebensmittelpreise beobachten.",
+              "gegenstimme": "Düngemittelproduzenten ausserhalb der Golfregion profitieren kurzfristig von steigenden Weltmarktpreisen. Experten warnen aber, dass zu hohe Düngerpreise Bauern zu Einsparungen zwingen und den Gesamtmarkt lähmen könnten – was letztlich auch diese Produzenten trifft.",
+              "sources": [
+                {
+                  "name": "SRF – Warum jetzt der Dünger knapp wird",
+                  "url": "https://www.srf.ch/news/wirtschaft/blockierte-strasse-von-hormus-warum-jetzt-der-duenger-knapp-wird"
+                },
+                {
+                  "name": "The Guardian – Iran conflict and environment",
+                  "url": "https://www.theguardian.com/world/2026/mar/21/middle-east-iran-conflict-environment-climate"
+                },
+                {
+                  "name": "Der Spiegel – Bundesregierung Taskforce Lebensmittelpreise",
+                  "url": "https://www.spiegel.de/wirtschaft/service/bundesregierung-will-taskforce-auf-lebensmittelpreise-ausweiten-a-6ab7df77-a883-4312-a8ea-6dd3f660bd85"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-rheinmetall-fregatten-10-milliarden",
+              "slug": "rheinmetall-fregatten-10-milliarden",
+              "title": "Rheinmetall übernimmt Fregatten-Bau für die Marine – 10 Mrd. Euro Auftrag",
+              "date": "2026-03-21",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "🚢",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/1feb265c-b476-47bd-8894-4da2fc66f3e5_w520_r2.08_fpx15_fpy46.jpg",
+              "kurz": "Rheinmetall will noch im Sommer 2026 als Generalunternehmer für den Bau der sechs Fregatten vom Typ F126 unter Vertrag genommen werden – mit erster Auslieferung 2031.",
+              "summary": "Der Düsseldorfer Rüstungskonzern Rheinmetall steigt in den festgefahrenen Bau der deutschen Marine-Fregatten F126 ein. Das bisherige Projekt unter dem niederländischen Unternehmen Damen Naval liegt vier Jahre hinter dem Zeitplan. Rheinmetall, das Anfang 2026 die Werftsparte NVL von Lürssen übernommen hat und damit Blohm+Voss kontrolliert, soll nun als neuer Generalunternehmer die sechs Schiffe für rund 10 Milliarden Euro bauen. Die erste Fregatte soll im zweiten Halbjahr 2031 abgeliefert werden.",
+              "gegenstimme": "Kritiker warnen vor einem weiteren Rüstungsprojekt unter massivem Zeitdruck und ohne klare Verantwortlichkeiten. Der Kieler Marineschiffbauer TKMS steht als Alternative mit einem kleineren Fregattentyp bereit – was die Frage aufwirft, ob Rheinmetall trotz fehlender Erfahrung im komplexen Schiffbau die richtige Wahl ist. Gewerkschaften und Werften-Experten mahnen, dass eine überhastete Vergabe an einen neuen Generalunternehmer die Lieferverzögerungen noch verschlimmern könnte.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-will-fregatten-fuer-marine-bauen-a-025fe644-449a-429a-a332-27b02b520bfa"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-rheinmetall-will-fregatten-bau-fuer-marine-beschleunigen/100210445.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-21-swiss-outsourcing-europafluege",
+              "slug": "swiss-outsourcing-europafluege",
+              "title": "Swiss lagert 44% der Europaflüge aus – Sparmassnahme oder Pilotennotstand?",
+              "date": "2026-03-21",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/D36KD8FTKDL9xHRWZyrJPQ.jpg",
+              "kurz": "Swiss lässt im Sommer 2026 bis zu 27 Fremdmaschinen für sich fliegen – Pratt-&-Whitney-Triebwerksprobleme zwingen die Lufthansa-Tochter erneut zu massivem Wet-Lease.",
+              "summary": "Die Schweizer Fluggesellschaft Swiss muss ihren Europaverkehr im Sommer 2026 erneut stark auf fremde Airlines auslagern. Bis zu 27 Flugzeuge von Helvetic Airways, Air Baltic und Edelweiss werden für Swiss unterwegs sein, was rund 44 Prozent der Europaflüge ausmacht. Grund sind anhaltende Triebwerksprobleme bei Pratt & Whitney, die zahlreiche Swiss-Jets am Boden halten. Obwohl Swiss das erklärte Ziel hat, Wet-Lease zu reduzieren, verschiebt sich dieser Plan erneut.",
+              "gegenstimme": "Gewerkschaften und Piloten kritisieren die Wet-Lease-Praxis scharf: Swiss baut parallel Kabinenpersonal ab – mit Abfindungen von 15'000 Franken für freiwillig kündigende Flugbegleiter – während externe Crews für Swiss einspringen. Das ist für Betroffene schwer nachvollziehbar. Zudem bemängeln Passagierschutzorganisationen, dass bei Wet-Lease-Flügen die Reklamationswege unklar sind und der Swiss-Markenauftritt nicht dem tatsächlichen Betreiber entspricht.",
+              "sources": [
+                {
+                  "name": "aeroTELEGRAPH",
+                  "url": "https://www.aerotelegraph.com/airlines/swiss-baut-wet-lease-im-sommer-widerwillig-auf-27-flugzeuge-aus/dbkgw3w"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/swiss-44-prozent-europafluege-von-externen-airlines-342574423643"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/gemietete-crews-und-flugzeuge-ein-drittel-der-europafluege-der-swiss-sind-wet-lease-fluege-103059601"
                 }
               ]
             }
