@@ -1,5 +1,5 @@
 {
-  "updated": "05:13 UTC",
+  "updated": "10:35 UTC",
   "days": [
     {
       "date": "2026-03-22",
@@ -424,6 +424,203 @@
                 {
                   "name": "TechCrunch – WordPress.com KI-Agenten",
                   "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-22-frankreich-buergermeisterwahlen-paris",
+              "slug": "frankreich-buergermeisterwahlen-paris",
+              "title": "Frankreich: Zweiter Wahlgang der Bürgermeisterwahlen – Paris könnte nach rechts kippen",
+              "date": "2026-03-22",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Frankreich wählt im zweiten Wahlgang der Kommunalwahlen. In Paris droht nach 25 Jahren unter linker Führung erstmals ein Wechsel zur bürgerlichen Rechten unter Rachida Dati.",
+              "summary": "In ganz Frankreich sind die Wahllokale für den zweiten Wahlgang der Bürgermeisterwahlen geöffnet – mit besonderer Aufmerksamkeit auf Paris und Marseille. In Paris führt der Sozialist Emmanuel Grégoire nach dem ersten Wahlgang mit 38 Prozent, doch die Konservative Rachida Dati hat durch die Vereinigung mehrerer rechter Listen Auftrieb erhalten. Landesweit testen taktische Allianzen zwischen der radikalen Linken (LFI) und gemässigten Linksparteien, wie weit der Linkspakt fuer die Präsidentschaftswahl 2027 trägt.",
+              "gegenstimme": "Befürworter der Links-Allianzen mit LFI argumentieren, nur ein geschlossenes Linksbündnis könne den Vormarsch des Rassemblement National stoppen. Kritiker sehen darin hingegen einen Verrat an den eigenen Werten – und befürchten, dass LFI-Chef Jean-Luc Mélenchon durch solche Bündnisse weiter gestärkt wird.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c87wgw27201o"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/22/france-second-round-local-elections-voting-mayoral-races-paris-marseille"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-russland-geburtenpolitik-psychologe",
+              "slug": "russland-geburtenpolitik-psychologe",
+              "title": "Putin schickt kinderlose Frauen zum Psychologen – Neue Geburtenpolitik in Russland",
+              "date": "2026-03-22",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇷🇺",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/6oKKq7aCqvM9Tnh0bXr42Y.jpg",
+              "kurz": "Russland will Frauen ohne Kinderwunsch künftig zu Psychologen schicken, um eine «positive Einstellung» gegenüber dem Kinderkriegen zu fördern. Hintergrund ist die historisch tiefe Geburtenrate.",
+              "summary": "Das russische Gesundheitsministerium hat neue Richtlinien erlassen, wonach Ärzte bei Untersuchungen aktiv nach dem Kinderwunsch der Patientinnen fragen sollen. Geben Frauen an, keine Kinder zu wollen, wird empfohlen, sie zu einem Psychologen zu schicken. Ziel ist es, eine positive Haltung zum Kinderkriegen zu fördern. Russlands Geburtenrate liegt bei rund 1,4 Kindern pro Frau – dem niedrigsten Wert seit 200 Jahren. Der Krieg in der Ukraine hat das demografische Problem zusätzlich verschärft.",
+              "gegenstimme": "Kritikerinnen und internationale Beobachter sehen in dieser Massnahme einen gravierenden Eingriff in die körperliche Selbstbestimmung und die reproduktive Freiheit von Frauen. Das Schicken von Frauen zum Psychologen aufgrund fehlenden Kinderwunsches pathologisiert eine legitime Lebensentscheidung und ist mit modernen Menschenrechtsstandards unvereinbar.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/niedrige-geburtenrate-frauen-ohne-kinderwunsch-sollen-in-russland-zum-psychologen-103529649"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/russland-kinderlose-frauen-sollen-zum-psychologen-408986406299"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-suedkorea-brand-autofabrik-14-tote",
+              "slug": "suedkorea-brand-autofabrik-14-tote",
+              "title": "Südkorea: 14 Tote bei Grossbrand in Autoteilefabrik in Daejeon",
+              "date": "2026-03-22",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/6l0E6bhUa459-VbJLcpSuG.jpg",
+              "kurz": "Bei einem verheerenden Brand in einer Autoteilefabrik in der südkoreanischen Stadt Daejeon kamen am Freitag 14 Menschen ums Leben. Mindestens 59 weitere wurden verletzt.",
+              "summary": "Am Freitagnachmittag brach in der Fabrik des Unternehmens Anjun Industrial in Daejeon ein Feuer aus, das sich rasend schnell ausbreitete. 14 Personen kamen ums Leben, 59 weitere wurden verletzt, davon 25 schwer. Der Brand erforderte den Einsatz von über 500 Rettungskräften sowie Löschrobotern. Südkoreas Präsident Lee Jae Myung besuchte am Samstag den Unglücksort.",
+              "gegenstimme": "Anfangs meldeten verschiedene Agenturen unterschiedliche Opferzahlen – AFP sprach von 11 Toten, AP von 14. Die endgültige Zahl wurde erst nach abgeschlossenen Rettungsarbeiten bestätigt. Über die Brandursache herrscht noch Unklarheit; Ermittler untersuchen mehrere Hypothesen.",
+              "sources": [
+                {
+                  "name": "AP News",
+                  "url": "https://apnews.com/article/south-korea-fire-auto-parts-plant-daejeon-9156bc6276551b8906cad98b66f7c95c"
+                },
+                {
+                  "name": "Die Presse",
+                  "url": "https://www.diepresse.com/20698093/14-tote-bei-verheerendem-brand-in-autoteilefabrik-in-suedkorea"
+                },
+                {
+                  "name": "Tagesanzeiger",
+                  "url": "https://www.tagesanzeiger.ch/daejeon-14-tote-bei-grossbrand-in-autoteilefabrik-495553313649"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-ahv-13-rente-finanzierung-showdown",
+              "slug": "ahv-13-rente-finanzierung-showdown",
+              "title": "13. AHV-Rente: Zwei Jahre nach Volksabstimmung – Finanzierungslösung fehlt noch immer",
+              "date": "2026-03-22",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "👴",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Mehr als zwei Jahre nach dem deutlichen Volksentscheid für eine 13. AHV-Rente hat das Parlament noch immer keine Finanzierungslösung gefunden. Der Showdown soll im Juni kommen.",
+              "summary": "Im März 2024 stimmte das Schweizer Volk klar für die Einführung einer 13. AHV-Monatsrente. Seither streiten die Parteien im Parlament über die Finanzierung, ohne eine Mehrheit in beiden Kammern zu finden. SVP und FDP lehnen höhere Lohnprozente ab, die Linke besteht darauf. Eine Mischlösung mit der Mitte scheint denkbar. Die Junisession soll die Entscheidung bringen.",
+              "gegenstimme": "Bürgerliche Parteien argumentieren, dass höhere Lohnprozente die Unternehmen belasten und die Wettbewerbsfähigkeit der Schweizer Wirtschaft schwächen. SVP und FDP bevorzugen allenfalls eine Finanzierung über die Mehrwertsteuer, während sie am liebsten gar keine neuen Abgaben einführen würden.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/13-ahv-rente-kompromiss-oder-scherbenhaufen-showdown-im-juni"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-genf-burkini-verbot-kantonal",
+              "slug": "genf-burkini-verbot-kantonal",
+              "title": "Genf verbietet Burkinis in Bädern – erstes kantonsweites Verbot der Schweiz",
+              "date": "2026-03-22",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🏊",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Das Genfer Kantonsparlament hat ein kantonsweites Burkini-Verbot in öffentlichen Bädern beschlossen – ein Novum in der Schweiz. Das Verbot wird von Rechtsprofessoren als Einschränkung der Religionsfreiheit eingestuft.",
+              "summary": "Auf Initiative der SVP hat das Genfer Kantonsparlament beschlossen, Badebekleidung zu verbieten, die über das Knie reicht oder die Arme bedeckt. Damit trifft das Verbot de facto Burkinis. Es ist das erste kantonsweite Verbot seiner Art in der Schweiz. Juristen und muslimische Verbände zweifeln an der Rechtmässigkeit und praktischen Umsetzbarkeit. Gegen den Beschluss kann das Referendum ergriffen werden.",
+              "gegenstimme": "Kritiker und muslimische Organisationen sehen im Verbot eine Diskriminierung von Musliminnen und eine ungerechtfertigte Einschränkung der Religionsfreiheit. Zudem gibt es keine wissenschaftlichen Belege dafuer, dass Burkinis ein Hygieneproblem darstellen. Auch praktische Fragen bleiben offen: Sind Sonnenschutz-Shirts fuer Kinder ebenfalls betroffen?",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/baderegeln-erstes-kantonsweites-burkini-verbot-in-der-schweiz"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-norovirus-kaserne-buelach",
+              "slug": "norovirus-kaserne-buelach",
+              "title": "Norovirus-Ausbruch in der Kaserne Bülach – Besuchstag abgesagt",
+              "date": "2026-03-22",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🦠",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/2pp1b7aj4zAA_qn7Eo3QGv.jpg",
+              "kurz": "In der Kaserne Bülach ZH hat ein Norovirus-Ausbruch den geplanten Tag der Angehörigen verhindert. Einige hundert bis tausend Besucher waren von der kurzfristigen Absage betroffen.",
+              "summary": "In der Rekrutenschule Bülach brach am Freitagabend das Norovirus aus. Kommandant Beat Stettler sagte den für Samstag geplanten Besuchstag kurzfristig über Instagram ab. Armeesprecher Stefan Hofer bestätigte den Vorfall und bezeichnete die Absage als richtige Massnahme, um eine Ausbreitung des Virus in die Bevölkerung zu verhindern. Ein Ersatzdatum ist nicht geplant.",
+              "gegenstimme": "Einige Angehörige reagierten in den Kommentaren mit Unmut über die Kurzfristigkeit der Absage – viele hatten sich bereits auf den Weg gemacht oder aufwendige Vorbereitungen getroffen. Die Kommunikation über Instagram wurde von einzelnen als unzureichend empfunden.",
+              "sources": [
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/zuerich/die-beste-loesung-norovirus-fall-in-kaserne-buelach-zh-tag-der-angehoerigen-kurzfristig-abgesagt-id21803773.html"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/norovirus-alarm-in-bulach-frechheit-gegenuber-den-angehorigen-67108472"
+                },
+                {
+                  "name": "Tagesanzeiger",
+                  "url": "https://www.tagesanzeiger.ch/norovirus-kaserne-buelach-besuchstag-kurzfristig-abgesagt-307438207087"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-usa-untersuchung-schweiz-unlauterer-handel",
+              "slug": "usa-untersuchung-schweiz-unlauterer-handel",
+              "title": "USA starten Handelsuntersuchung gegen die Schweiz",
+              "date": "2026-03-22",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Die USA haben gestützt auf Section 301 des Trade Acts eine formelle Untersuchung gegen die Schweiz wegen angeblich unlauterer Handelspraktiken eingeleitet. Der Bundesrat hat den Eingang des Schreibens bestätigt.",
+              "summary": "Washington wirft der Schweiz unlautere Handelspraktiken vor und hat eine Untersuchung nach Section 301 des amerikanischen Handelsgesetzes eröffnet. Das Staatssekretariat für Wirtschaft (Seco) hat eine erste Analyse erstellt, die der Bundesrat am 20. März erstmals beraten hat. Einen formellen Beschluss zum weiteren Vorgehen gibt es noch nicht. Die Schweiz ist nicht allein betroffen – auch die EU und weitere Staaten stehen unter amerikanischem Druck.",
+              "gegenstimme": "Aus Schweizer Sicht handelt es sich nicht um unlautere Praktiken, sondern um legitime wirtschaftspolitische Instrumente. Zudem ist der Handelsüberschuss der Schweiz gegenüber den USA strukturell bedingt und nicht das Ergebnis gezielter Marktverzerrung.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/wirtschaft/bund-bestaetigt-briefeingang-usa-starten-untersuchung-gegen-schweiz-wegen-unlauteren-handels"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-honda-elektroautos-gestrichen",
+              "slug": "honda-elektroautos-gestrichen",
+              "title": "Honda bläst Elektro-Offensive ab: Drei Modelle der 0-Series gestrichen",
+              "date": "2026-03-22",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/72fSE-GEKBTBKN9O8TyVWW.jpg",
+              "kurz": "Honda stoppt die Entwicklung von drei geplanten Elektrofahrzeugen für den nordamerikanischen Markt und rechnet mit einem historischen Verlust von bis zu 15,7 Milliarden US-Dollar.",
+              "summary": "Der japanische Automobilhersteller Honda stellt die Entwicklung des Honda 0 SUV, des Honda 0 Saloon sowie des Acura RSX EV ein – alle drei Fahrzeuge waren noch vor dem Produktionsstart. Als Hauptgründe nennt Honda den Rückgang der Nachfrage nach Elektroautos, weggefallene Förderprogramme in den USA und wachsende Konkurrenz aus China. Der Konzern will sich stattdessen auf Hybridfahrzeuge konzentrieren und erwartet Abschreibungen von umgerechnet rund 13,7 Milliarden Euro.",
+              "gegenstimme": "Kritiker sehen im Rückzug ein kurzfristiges Denken: Wer jetzt aus der Elektromobilität aussteigt, riskiert, in einigen Jahren den Anschluss endgültig zu verlieren. Zudem ist fraglich, ob Hybride langfristig eine tragfähige Antwort auf verschärfte Klimavorschriften sind – insbesondere in Europa und China.",
+              "sources": [
+                {
+                  "name": "Auto Motor und Sport",
+                  "url": "https://www.auto-motor-und-sport.de/verkehr/honda-stoppt-drei-elektroautos-japaner-melden-milliardenverlust/"
+                },
+                {
+                  "name": "WinFuture",
+                  "url": "https://winfuture.de/news,157441.html"
+                },
+                {
+                  "name": "Tagesanzeiger",
+                  "url": "https://www.tagesanzeiger.ch/honda-streicht-drei-elektroautos-0-series-verschoben-635296853776"
                 }
               ]
             }
