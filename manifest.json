@@ -1,831 +1,429 @@
 {
-  "updated": "16:08 UTC",
+  "updated": "05:13 UTC",
   "days": [
     {
-      "date": "2026-03-21",
+      "date": "2026-03-22",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-03-21-eu-gipfel-orban-trump",
-              "slug": "eu-gipfel-orban-trump",
-              "title": "EU-Gipfel: Merz zwischen Orbán-Blockade und Iran-Krise",
-              "date": "2026-03-21",
+              "id": "2026-03-22-daenemark-us-angriffsplanung",
+              "slug": "daenemark-us-angriffsplanung",
+              "title": "Enthüllung: Dänemark bereitete sich mit Blutkonserven auf US-Angriff wegen Grönland vor",
+              "date": "2026-03-22",
               "time": "07:00",
               "category": "international",
-              "icon": "🇪🇺",
+              "icon": "🇩🇰",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/orban-eu-gipfel-2026.jpg",
-              "kurz": "Beim EU-Gipfel in Brüssel dominieren der Iran-Krieg und Orbáns Veto gegen Ukraine-Milliarden. Bundeskanzler Merz kommt mit wirtschaftspolitischen Ambitionen, verlässt den Gipfel aber im Würgegriff externer Krisen.",
-              "summary": "Der EU-Gipfel vom 20. März 2026 stand im Zeichen zweier lähmender Faktoren: der Iran-Krieg überschattet die erhoffte Diskussion über wirtschaftliche Erholung, und Viktor Orbán blockiert weiterhin einstimmig den 90-Milliarden-Euro-EU-Kredit für die Ukraine. Bundeskanzler Friedrich Merz hatte als Agenda-Priorität das Thema Wirtschaftswachstum gesetzt, musste aber feststellen, dass Krisen kaum planbar sind. Orbán sitzt in Brüssel ausserhalb der regulären Sitzungsrunde – wortwörtlich in der Schmollecke – und weiss, dass er diesen Hebel noch einige Zeit spielen kann.",
-              "gegenstimme": "Orbán sieht sich nicht als Blockierer, sondern als Vertreter nationaler Interessen: Ungarn und die Slowakei sind von russischem Öl abhängig, da ihre Raffinerien nicht auf andere Sorten umgerüstet wurden. Zudem argumentiert er, die Ukraine nutze die Pipeline-Frage als politisches Druckmittel – nicht umgekehrt. Wirtschaftlich steht hinter seiner Position auch der ungarische Energiekonzern MOL, der auf die Wiederherstellung des Ölflusses drängt. Wahljahr in Ungarn (12. April) verstärkt den innenpolitischen Druck.",
+              "image": "",
+              "kurz": "Dänemark hat im Januar heimlich militärische Verstärkung nach Grönland verlegt – inklusive Blutkonserven und Sprengstoff. Hintergrund waren Trumps Annexionsforderungen. Die Enthüllung erscheint vier Tage vor den dänischen Parlamentswahlen.",
+              "summary": "Der dänische Rundfunksender DR hat enthüllt, dass Dänemark im Januar 2026 zusätzliche Truppen nach Grönland entsandte – nicht nur für eine Übung, wie offiziell kommuniziert wurde, sondern zur echten Verteidigung gegen einen möglichen Angriff der USA. Mitgeliefert wurden Blutkonserven und Sprengstoff. Ministerpräsidentin Mette Frederiksen sprach von der «schwierigsten aussenpolitischen Lage seit dem Zweiten Weltkrieg» und warnte, Trumps Annektierungswunsch sei weiterhin real. Die Enthüllung kommt vier Tage vor den Parlamentswahlen vom 25. März.",
+              "gegenstimme": "Die USA haben bislang keine konkreten militärischen Schritte gegen Grönland oder Dänemark unternommen. Kritiker werten die Enthüllung als politisches Kalkül kurz vor der Wahl: Frederiksen hatte die Wahlen früh ausgerufen, um aus der Grönland-Krise Kapital zu schlagen. Andere Stimmen aus dem dänischen Politikbetrieb zweifeln, ob die Versetzung wirklich defensiver Natur war oder primär ein politisches Signal.",
               "sources": [
                 {
-                  "name": "Spiegel Online",
-                  "url": "https://www.spiegel.de/politik/eu-gipfel-kanzler-merz-und-seine-kollegen-im-wuergegriff-von-orban-und-trump-a-5567c300-2f76-4839-997b-715d36c384a9"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/daenemark-bereitete-sich-auf-einen-angriff-der-usa-vor-enthuellung-vor-der-wahl-ld.1929930"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-iran-nuklearzentrum-israel",
+              "slug": "iran-nuklearzentrum-israel",
+              "title": "Iranischer Angriff trifft Gebiet nahe israelischer Nuklearanlage",
+              "date": "2026-03-22",
+              "time": "07:00",
+              "category": "international",
+              "icon": "☢️",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/530b7a1a-8c55-4055-846e-e887fd006aa7_w520_r2.08_fpx49_fpy43.jpg",
+              "kurz": "Iranische Raketen trafen Dimona im Sueden Israels – nahe der israelischen Nuklearforschungsanlage Negev. Fast 100 Menschen wurden verletzt, die israelische Luftverteidigung versagte bei mindestens zwei Einschlaegen.",
+              "summary": "Iranische Raketenangriffe auf die israelischen Staedte Dimona und Arad haben fast 100 Menschen verletzt, darunter mehrere Kinder in kritischem Zustand. Dimona liegt in unmittelbarer Naehe des Shimon-Peres-Kernforschungszentrums, des einzigen israelischen Nuklearwaffenstandorts. Die IAEA bestaetigt keine Schaeden an der Anlage, fordert jedoch maximale militaerische Zurueckhaltung. Israel untersucht, wie mindestens zwei Raketen die Luftabwehr durchbrachen.",
+              "gegenstimme": "Der Iran bezeichnet den Angriff als Vergeltung fuer den US-israelischen Schlag gegen die Urananreicherungsanlage Natans. Die IAEA kritisiert beide Seiten: Sowohl der Angriff auf Natans (durch die USA und Israel) als auch die iranischen Schlaege nahe Dimona verstiessen gegen das Gebot des Schutzes nuklearer Anlagen. Der Iran bestreitet, absichtlich auf die Nuklearanlage gezielt zu haben.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-iran-konzentriert-das-feuer-auf-den-sueden-israels-a-ada3a0c1-bf0d-44a1-a66d-48a23b3223ff"
+                },
+                {
+                  "name": "Die Welt (Liveticker)",
+                  "url": "https://www.welt.de/politik/ausland/article69bce233ea8bf301e4ae1a85/krieg-in-nahost-48stundenfrist-trump-will-iranische-energieanlagen-zerstoeren-sollte-hormus-blockiert-bleiben-liveticker.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-kuba-dritter-blackout",
+              "slug": "kuba-dritter-blackout",
+              "title": "Kuba: Drittes landesweites Stromausfall-Desaster in wenigen Tagen",
+              "date": "2026-03-22",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🕯️",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/d247ae52-2255-4d42-af37-047d5b8117f9_w520_r2.08_fpx57.9_fpy44.86.jpg",
+              "kurz": "Kubas Stromnetz ist am Samstag zum dritten Mal innerhalb eines Monats vollstaendig zusammengebrochen. Ueber 10 Millionen Menschen verloren Strom. Ursache ist eine Kombination aus maroder Infrastruktur und US-Oelembargo.",
+              "summary": "Das kubanische Energieministerium meldete am Samstagabend eine vollstaendige Abschaltung des nationalen Stromsystems – ausgeloest durch den unerwarteten Ausfall eines Generatorblocks im Thermokraftwerk Nuevitas in der Provinz Camaguey. Es ist der dritte landesweite Blackout im Maerz 2026. Kuba produziert nur etwa 40 Prozent des benoetigten Treibstoffs selbst; seit Monaten erhalt die Insel kein Oel aus dem Ausland, da Trump anderen Laendern mit Sanktionen droht, die Kuba beliefern.",
+              "gegenstimme": "Die kubanische Regierung gibt dem US-Embargo die alleinige Schuld fuer die Energiekrise. Kritiker und kubanische Dissidenten hingegen betonen, dass die marode Infrastruktur das Ergebnis jahrzehntelanger Misswirtschaft des kommunistischen Regimes ist. Das Oel-Embargo verschaerft eine bestehende strukturelle Krise, hat diese aber nicht verursacht. Trump verknuepft die Aufhebung des Embargos offen mit politischen Forderungen an Havanna – was die kubanische Fuehrung kategorisch ablehnt.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/22/cubas-power-grid-collapses-in-third-nationwide-blackout-amid-us-oil-blockade"
                 },
                 {
                   "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-frankreich-russland-schattenflotte",
-              "slug": "frankreich-russland-schattenflotte",
-              "title": "Frankreich stoppt russische Schattenflotte im Mittelmeer",
-              "date": "2026-03-21",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🚢",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/3ba7f9d2-1e8a-4c12-9f2b-d4c3e5a8b7f1_w1280_r1.778_fpx50_fpy50.jpg",
-              "kurz": "Die französische Marine hat erneut einen russischen Öltanker im Mittelmeer gestoppt. Die «Deyna» stand unter Verdacht, unter falscher Flagge zu fahren und zur russischen Schattenflotte zu gehören.",
-              "summary": "Die französische Marine hat mit britischer Unterstützung den Öltanker «Deyna» im Mittelmeer angehalten und umgeleitet. Das Schiff war aus Murmansk unterwegs und fuhr unter mosambikanischer Flagge – ein Verdacht, der sich laut Meerespräfektur bestätigte. Präsident Macron bezeichnete die «Deyna» als Teil der russischen Schattenflotte und bekräftigte, der Iran-Krieg werde Frankreich nicht von seiner Ukraine-Unterstützung ablenken.",
-              "gegenstimme": "Russland und verbündete Akteure sehen die Kontrollen westlicher Marinen als rechtlich fragwürdige Eingriffe in die Schifffahrtsfreiheit. Einige Völkerrechtler betonen, dass Boarding-Aktionen auf hoher See ausserhalb von Krisengebieten einer belastbaren Rechtsgrundlage bedürfen. Moskau bezeichnet die Sanktionen selbst als illegal und die Kontrollen als politisch motivierte Nadelstiche.",
-              "sources": [
+                  "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo"
+                },
+                {
+                  "name": "Die Welt",
+                  "url": "https://www.welt.de/politik/ausland/article69bf325faf187d606b80e866/blackout-energieministerium-meldet-vollstaendige-abschaltung-kuba-erneut-ohne-strom-binnen-weniger-tage.html"
+                },
                 {
                   "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/schattenflotte-frankreich-stoppt-erneut-oeltanker-aus-russland-im-mittelmeer-a-51bc57eb-3527-456d-97ae-adea9b730482"
+                  "url": "https://www.spiegel.de/ausland/kuba-erneuter-stromausfall-verschaerft-die-krise-a-5ada6cde-edcd-492b-94b6-6050da6f26c5"
                 }
               ]
             },
             {
-              "id": "2026-03-21-iran-krieg-trump-rueckzug",
-              "slug": "iran-krieg-trump-rueckzug",
-              "title": "Iran-Krieg: Trump erwägt Rückzug – USA lockern Sanktionen",
-              "date": "2026-03-21",
+              "id": "2026-03-22-rheinland-pfalz-landtagswahl",
+              "slug": "rheinland-pfalz-landtagswahl",
+              "title": "Landtagswahl Rheinland-Pfalz: CDU knapp vor SPD – mehrere Parteien müssen zittern",
+              "date": "2026-03-22",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://images.welt.de/69bebf4eea8bf301e4ae36e6/452e22fbbdadbcd7d50d2cc74ec6583f-master/ci23x11-w1200/dpa-com-20090101-260321-911-015263-jpg",
+              "kurz": "Rheinland-Pfalz wählt heute einen neuen Landtag. Letzte Umfragen sehen CDU mit 29 % knapp vor der regierenden SPD mit 27 %. FDP bangt um den Einzug, AfD bleibt drittstärkste Kraft.",
+              "summary": "Am Sonntag, 22. März 2026, wählt Rheinland-Pfalz einen neuen Landtag. Laut dem ZDF-Politbarometer liegt die CDU mit Spitzenkandidat Gordon Schnieder bei 29 Prozent, zwei Punkte vor Ministerpräsident Alexander Schweitzer (SPD) mit 27 Prozent. Die AfD kommt auf 19 Prozent, die Grünen auf 9 Prozent, die Linke auf 5 Prozent. FDP und Freie Wähler befinden sich nahe der 5-Prozent-Hürde. Im bundesweiten Sonntagstrend setzt sich die Union mit 26 Prozent erstmals wieder vor die AfD mit 25 Prozent.",
+              "gegenstimme": "Umfragen sind keine Resultate: In Rheinland-Pfalz hat die SPD traditionell starke Strukturen, und Ministerpräsident Schweitzer tritt als Amtsinhaber mit Bekanntheitsvorteil an. Zudem können Briefwahlstimmen das Ergebnis noch verschieben. Kleinere Parteien wie FDP oder Freie Wähler könnten überraschend doch noch den Einzug schaffen – oder knapp scheitern, was die Koalitionsarithmetik stark beeinflussen würde.",
+              "sources": [
+                {
+                  "name": "Welt – Letzte Umfrage CDU knapp vorne (Liveticker)",
+                  "url": "https://www.welt.de/politik/deutschland/article69bebf4eea8bf301e4ae36e6/landtagswahl-rheinland-pfalz-letzte-umfrage-sieht-cdu-knapp-vorne-mehrere-parteien-muessen-zittern-liveticker.html"
+                },
+                {
+                  "name": "Welt – Sonntagstrend Union vor AfD",
+                  "url": "https://www.welt.de/politik/deutschland/article69bf5ce88f5761671715b07d/sonntagstrend-union-legt-zu-und-setzt-sich-von-afd-ab-spd-gruene-und-linke-unveraendert.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-robert-mueller-gestorben",
+              "slug": "robert-mueller-gestorben",
+              "title": "Robert Mueller gestorben: Ex-FBI-Chef und Trump-Ermittler ist tot",
+              "date": "2026-03-22",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/dc198b19-379b-4939-8674-0de21f4febf9_w520_r2.08_fpx47.32_fpy54.99.jpg",
+              "kurz": "Robert Mueller, ehemaliger FBI-Direktor und Sonderermittler der Russland-Affaere, ist im Alter von 81 Jahren gestorben. Trump schrieb auf Truth Social, er sei froh ueber Muellers Tod.",
+              "summary": "Robert Mueller, ehemaliger FBI-Direktor (2001–2013) und Sonderermittler der Untersuchung russischer Einmischung in die US-Wahl 2016, ist am Freitagabend im Alter von 81 Jahren gestorben. Mueller war bekannt als dienstlanger, methodischer Staatsdiener mit parteiuebergreifendem Respekt. Trump reagierte auf Truth Social mit den Worten, er sei froh, dass Mueller tot sei. Ex-Praesident Bush und Obama wuerdigten Mueller als aussergewoehnlichen oeffentlichen Diener.",
+              "gegenstimme": "Trump und Teile der republikanischen Basis sahen Muellers Sonderermittlung stets als politisch motiviert und als ungerechtfertigte Hexenjagd. Muellers 2019 veroeffentlichter Abschlussbericht fand keine strafrechtlich relevante Absprache zwischen dem Trump-Wahlkampf und Russland – was Kritiker der Ermittlung als Beleg werteten, dass das gesamte Verfahren unverhältnismaessig war.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/mar/21/robert-mueller-special-counsel-trump-russia-dies"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/robert-mueller-ex-fbi-direktor-ist-tot-a-3c855ba3-e0ae-4a59-aecd-75bd28c8ad06"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-russland-internet-zensur-verschaerft",
+              "slug": "russland-internet-zensur-verschaerft",
+              "title": "Russland verschärft Internet-Zensur: 400+ VPNs blockiert, flächendeckende Ausfälle",
+              "date": "2026-03-22",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🔒",
+              "edition": "morning",
+              "image": "",
+              "kurz": "Russland hat mehr als 400 VPN-Dienste gesperrt und damit landesweite Internet-Ausfälle ausgelöst. Die Massnahmen sind Teil einer umfassenden digitalen Abschottungsstrategie.",
+              "summary": "Die russischen Behörden haben in den vergangenen Wochen die Internet-Zensur massiv verschärft. Über 400 VPN-Dienste wurden blockiert, was zu weitreichenden Ausfällen im russischen Internet geführt hat. Betroffen sind nicht nur der Zugriff auf ausländische Nachrichtenportale, sondern auch alltägliche Dienste und der Messaging-Dienst Telegram. In über einem Dutzend Regionen verhinderten Behörden Demonstrationen gegen die Zensurpolitik. Die Massnahmen gelten als Teil der russischen Strategie zur 'digitalen Souveränität'.",
+              "gegenstimme": "Die russische Regierung begründet die Massnahmen mit nationaler Sicherheit und dem Schutz vor westlicher Informationsinfiltration. Befürworter eines staatlich kontrollierten Internets argumentieren, andere Grossmächte wie China hätten ähnliche Strukturen erfolgreich etabliert. Russische Unternehmen klagen jedoch über erhebliche wirtschaftliche Schäden durch die Ausfälle.",
+              "sources": [
+                {
+                  "name": "CNN",
+                  "url": "https://www.cnn.com/2026/03/21/europe/internet-outages-russia-digital-crackdown-intl-cmd"
+                },
+                {
+                  "name": "Reuters",
+                  "url": "https://www.reuters.com/world/europe/great-crackdown-russia-tightens-screws-internet-2026-03-20/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-sudan-krankenhaus-angriff-64-tote",
+              "slug": "sudan-krankenhaus-angriff-64-tote",
+              "title": "Sudan: Luftangriff auf Lehrkrankenhaus tötet 64 Menschen, darunter 13 Kinder",
+              "date": "2026-03-22",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🏥",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/149a913d-e657-4e32-8e49-82a77d56fb42_w520_r2.08_fpx36.01_fpy50.jpg",
+              "kurz": "Ein Drohnenangriff auf das Lehrkrankenhaus El-Daein in Ost-Darfur hat mindestens 64 Menschen getötet, darunter 13 Kinder und medizinisches Personal. Die WHO verurteilte den Angriff scharf.",
+              "summary": "Am Freitagabend wurde das Lehrkrankenhaus El-Daein in der Stadt El-Daein, Hauptstadt des sudanesischen Teilstaates Ost-Darfur, durch einen Drohnenangriff zerstört. Die Weltgesundheitsorganisation bestätigte mindestens 64 Tote und 89 Verletzte. Unter den Opfern waren 13 Kinder sowie Patienten und medizinisches Personal. Das Krankenhaus ist nicht mehr funktionsfähig. Die sudanesische NGO Emergency Lawyers macht die Armee des sudanesischen De-facto-Machthabers Abdel-Fattah al-Burhan für den Angriff verantwortlich.",
+              "gegenstimme": "Die sudanesische Armee hat sich bisher nicht zu dem Angriff geäussert. Die WHO benennt keine Schuldigen, da sie keine Ermittlungsbehörde ist. Beide Konfliktparteien – Armee und RSF – haben sich im Verlauf des Krieges Angriffe auf Zivilisten und zivile Infrastruktur vorwerfen lassen müssen.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports"
+                },
+                {
+                  "name": "Welt",
+                  "url": "https://www.welt.de/politik/ausland/article69bf3bcbaf187d606b80e88d/laut-who-mehr-als-60-tote-bei-angriff-auf-lehrkrankenhaus-im-sudan-13-kinder-unter-den-opfern.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/sudan-mehr-als-60-tote-bei-drohnenangriff-auf-lehrkrankenhaus-in-ost-darfur-a-c1f6e51b-b1fe-4752-a773-013c17ee5c7d"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-trump-iran-48h-ultimatum",
+              "slug": "trump-iran-48h-ultimatum",
+              "title": "Trump setzt Iran 48-Stunden-Ultimatum zur Oeffnung der Strasse von Hormus",
+              "date": "2026-03-22",
               "time": "07:00",
               "category": "international",
               "icon": "🌍",
               "edition": "morning",
-              "image": "https://media.guim.co.uk/cf2c90fde5c8ec6ba87919c11a08763e0463ffb3/369_0_4304_3445/2000.jpg",
-              "kurz": "Trump signalisiert Bereitschaft zum Rückzug aus dem Iran-Krieg und hebt Ölsanktionen auf. Gleichzeitig verstärken die USA ihre Militärpräsenz am Golf.",
-              "summary": "Fast vier Wochen nach Kriegsbeginn (28. Februar) erwägt US-Präsident Trump, den Militäreinsatz gegen Iran zu reduzieren. Die USA erlauben vorübergehend Lieferung und Verkauf von iranischem Öl, um die globalen Märkte zu beruhigen. Parallel schicken die Amerikaner weitere Kriegsschiffe und Tausende Soldaten in den Nahen Osten. Israel setzt seine Bombardierungen in Iran fort; Netanyahu behauptet, Iran könne keine ballistischen Raketen mehr bauen.",
-              "gegenstimme": "Kritiker sehen in Trumps Rückzugssignalen eine taktische Finte: Gleichzeitig mit der verbalen Deeskalation werden Truppen und Kriegsschiffe verstärkt. Die Strasse von Hormuz bleibt blockiert. Iran feuert weiterhin Raketen auf Golfstaaten. Der IRGC-Quds-Force-Kommandant Qaani veröffentlichte eine Botschaft, die Kontinuität des Widerstands beschwört. Mehrere Analysten zweifeln, ob Trump tatsächlich abzieht oder nur Zeit kauft.",
+              "image": "https://images.welt.de/69bce233ea8bf301e4ae1a85/23f2d6a0088e59b2ee7c4de71013291b/ci23x11-w1200/dpa-com-20090101-260320-99-898060-jpg",
+              "kurz": "Trump droht dem Iran mit der Zerstoerung seiner Kraftwerke, falls Teheran die Strasse von Hormus nicht innerhalb von 48 Stunden vollstaendig oeffnet. Der Iran kontert mit Drohungen gegen US-Infrastruktur in der Golfregion.",
+              "summary": "US-Praesident Donald Trump hat dem Iran via Truth Social ein 48-Stunden-Ultimatum gestellt: Oeffne Iran die Strasse von Hormus nicht, werden die USA iranische Energieanlagen angreifen und zerstoeren. Der Iran drohte seinerseits mit Vergeltungsschlaegen gegen alle US-Energie- und Entsalzungsinfrastruktur am Golf. Israels Verteidigungsminister Katz kuendigte gleichzeitig eine deutliche Intensivierung der Angriffe gegen den Iran an. Saudi-Arabien meldete den Abschuss einer und den Einschlag zweier Raketen nahe Riad.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass Trump selbst noch am Freitag eine Deeskalation angedeutet hatte. Die Eigendynamik des Krieges – mit Israel, das eigenstaendig weiter eskaliert – scheint Trumps tatsaechlichen Handlungsspielraum zu beschraenken. Grossbritannien lehnt Angriffe von seinen Militaerstuetzpunkten auf Zypern und Diego Garcia aus ab. Iran-Aussenminister Araghchi hatte noch drei Tage vor Kriegsbeginn versichert, die Raketenreichweite sei bewusst auf unter 2000 km begrenzt – die Attacke auf Diego Garcia (4000 km) widererlegt das offen.",
               "sources": [
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes"
+                  "name": "Die Welt (Liveticker)",
+                  "url": "https://www.welt.de/politik/ausland/article69bce233ea8bf301e4ae1a85/krieg-in-nahost-48stundenfrist-trump-will-iranische-energieanlagen-zerstoeren-sollte-hormus-blockiert-bleiben-liveticker.html"
                 },
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/live/ce84073mr06t"
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-wegen-strasse-von-hormus-trump-droht-mit-attacken-auf-kraftwerke"
                 },
                 {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-donald-trump-erwaegt-nach-eigenen-angaben-militaereinsatz-gegen-iran-zurueckzufahren-a-ada3a0c1-bf0d-44a1-a66d-48a23b3223ff"
+                  "name": "The Guardian (Live)",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation"
                 },
                 {
                   "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292"
+                  "url": "https://www.nzz.ch/international/iran-greift-britische-basis-diego-garcia-in-4000-kilometern-entfernung-an-ld.1930436"
                 }
               ]
             },
             {
-              "id": "2026-03-21-putin-profitiert-irankrieg",
-              "slug": "putin-profitiert-irankrieg",
-              "title": "Unerwarteter Profiteur: Putin kassiert bis zu 250 Mrd. Dollar durch Iran-Krieg",
-              "date": "2026-03-21",
+              "id": "2026-03-22-ukraine-friedensgespraeche-florida",
+              "slug": "ukraine-friedensgespraeche-florida",
+              "title": "Ukraine: US- und Kyiv-Unterhändler treffen sich in Florida zu Friedensgesprächen",
+              "date": "2026-03-22",
               "time": "07:00",
               "category": "international",
-              "icon": "🛢️",
+              "icon": "🕊️",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/f3a3d3c0-0001-0004-0000-000001634589_w1024_r1.778_fpx51.8_fpy47.6.jpg",
-              "kurz": "Der Iran-Krieg lässt Russlands Öleinnahmen massiv steigen. Eine neue Studie beziffert den möglichen Zusatzgewinn für Putin auf bis zu 250 Milliarden Dollar.",
-              "summary": "Während der Iran-Krieg die Weltwirtschaft und besonders Europa belastet, profitiert Russland erheblich von den steigenden Ölpreisen. Eine Analyse zeigt: Hält der Konflikt bis September an, fliessen Putin bis zu 250 Milliarden Dollar mehr in die Kriegskasse – mehr als nach dem Beginn der Energiekrise 2022. Gleichzeitig schreibt der russische Ölkonzern Lukoil Auslandsvermögen in Milliardenhöhe ab und meldete für 2025 einen Nettoverlust von rund 10,9 Milliarden Euro.",
-              "gegenstimme": "Die 250-Milliarden-Schätzung gilt als Obergrenze unter optimalen Bedingungen. Russland steht unter westlichen Sanktionen, der Rubel ist volatil, und die tatsächlichen Ölpreise hängen von vielen Faktoren ab. Russlands Ölkonzerne kämpfen ausserdem mit westlichen Technologiebeschränkungen, die die Fördersteigerung begrenzen. Lukoils Milliardenverlust durch Auslandsabschreibungen zeigt: Russland zahlt auch Preise für die Isolation.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-spuelt-bis-zu-250-milliarden-dollar-in-putins-kriegskasse-a-d772e2a9-1f8d-408f-a777-a7a0d358c16a"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/unternehmen/energie/russland-lukoil-schreibt-auslandsvermoegen-in-milliardenhoehe-ab/100210228.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-ukraine-kinder-evakuiert",
-              "slug": "ukraine-kinder-evakuiert",
-              "title": "Ukraine: Kinder aus umkämpftem Slowjansk evakuiert – EU-Kredit unter Druck",
-              "date": "2026-03-21",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🇺🇦",
-              "edition": "morning",
-              "image": "https://i.guim.co.uk/img/media/ukraine-slowjansk-guardian.jpg",
-              "kurz": "Die Ukraine ordnet die Zwangsevakuierung von Kindern aus Slowjansk an, während russische Truppen vorrücken. Parallel blockiert Ungarn einen 90-Milliarden-EU-Kredit und droht mit weiteren Gegenmassnahmen.",
-              "summary": "Russische Streitkräfte haben ihre Vorstösse nördlich und östlich von Slowjansk intensiviert und sind teilweise auf 20 Kilometer an die Stadt herangerückt. Die Ukraine hat die Pflichtevakuierung von Kindern aus der strategisch wichtigen Donbas-Festung angeordnet. Gleichzeitig blockiert der ungarische Premier Viktor Orbán weiterhin einen EU-Kredit über 90 Milliarden Euro für die Ukraine und droht mit zusätzlichen Druckmitteln, darunter die Kappung von 40 Prozent der ukrainischen Stromversorgung über ungarisches Territorium.",
-              "gegenstimme": "Ungarn und die Slowakei argumentieren, der Stopp des Öltransits über die Druzhba-Pipeline sei kein technisches, sondern ein politisches Problem der Ukraine. Der ungarische Energiekonzern MOL bestreitet, dass die Pipeline selbst beschädigt sei, und sieht die Ukraine in der Pflicht, die Lieferungen umgehend wieder aufzunehmen. Hinter Orbáns Haltung stehen auch innenpolitische Motive: In Ungarn sind am 12. April Wahlen, und Anti-Ukraine-Rhetorik ist ein zentrales Element der Fidesz-Kampagne.",
+              "image": "https://image.20min.ch/2026/03/22/51a5e61f-4381-4b57-948d-79c828da6435.jpg",
+              "kurz": "Amerikanische und ukrainische Unterhändler haben sich am Samstag in Florida zu neuen Friedensgesprächen getroffen – ohne russische Beteiligung. Russland setzte seine Angriffe auf ukrainische Städte fort.",
+              "summary": "In Florida trafen sich am Samstag ukrainische und amerikanische Verhandlungsführer zur bislang jüngsten Runde von Friedensgesprächen über den Ukraine-Krieg. Russland nahm nicht teil. Der ukrainische Chefunterhändler Rustem Umerov sprach von konstruktiven Diskussionen über nächste Schritte. Das Weisse Haus bezeichnete die Treffen als 'konstruktiv' und erklärte, die Parteien arbeiteten an einem umfassenden Friedensabkommen. Zeitgleich töteten russische Angriffe vier Zivilisten in der Südukraine und legten Teile der Stromversorgung in der Region Chernihiv lahm.",
+              "gegenstimme": "Russland nimmt an den US-ukrainischen Gesprächen nicht teil – Moskau besteht auf direkten bilateralen Verhandlungen zu seinen Bedingungen. Kritiker in Kyiv warnen, dass ohne russische Teilnahme und ohne militärischen Druck auf Moskau kein tragfähiges Abkommen möglich sei. Zelenskyy selbst äusserte Skepsis: Er glaubt, Putin wolle den Konflikt in die Länge ziehen, um einen Dauerstreit zwischen den USA und dem Iran zu provozieren.",
               "sources": [
                 {
                   "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/21/ukraine-war-briefing-children-ordered-to-leave-key-ukrainian-stronghold-as-russians-advance"
+                  "url": "https://www.theguardian.com/world/2026/mar/22/ukraine-war-briefing-us-ukrainian-negotiators-meet-in-florida-as-russian-attacks-kill-more-civilians"
                 },
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo"
-                },
-                {
-                  "name": "Spiegel Online",
-                  "url": "https://www.spiegel.de/ausland/ungarnungarische-regierung-kuendigt-besuch-von-trump-vize-vance-an-a-8bd31d3f-d400-46a7-a256-667eac558bc6"
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/war-in-ukraine"
                 }
               ]
             },
             {
-              "id": "2026-03-21-schweiz-armeebotschaft-2026",
-              "slug": "schweiz-armeebotschaft-2026",
-              "title": "Armeebotschaft 2026: 3,4 Milliarden für Drohnenabwehr und Cyberschutz",
-              "date": "2026-03-21",
+              "id": "2026-03-22-us-shutdown-trump-ice-flughaefen",
+              "slug": "us-shutdown-trump-ice-flughaefen",
+              "title": "US-Shutdown: Trump droht mit ICE an Flughaefen – Musk will TSA-Gehaelter zahlen",
+              "date": "2026-03-22",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🛑",
+              "edition": "morning",
+              "image": "https://images.welt.de/69bf2fd58f5761671715affe/b210c43e7bea3b960d7d89ba08d2353d-master/ci23x11-w1200/dpa-com-20090101-260321-99-899010-jpg",
+              "kurz": "Der Streit um die Finanzierung des US-Heimatschutzministeriums eskaliert: Trump droht ab Montag mit dem Einsatz von ICE-Agenten als Flughafensicherheit. Elon Musk bietet an, die Gehaelter der unbezahlten TSA-Mitarbeiter zu uebernehmen.",
+              "summary": "Seit Mitte Februar ist das US-Heimatschutzministerium (DHS) ohne Finanzierung, nachdem der Kongress fuenf Mal keinen Kompromiss erzielte. Tausende TSA-Mitarbeiter arbeiten seit ueber einem Monat ohne Lohn. Trump drohte am Samstag, ab Montag Einwanderungsbehoerde ICE an Flughaefen einzusetzen, falls die Demokraten kein Abkommen unterzeichnen. Elon Musk bot via X an, die Gehaelter der TSA-Mitarbeiter waehrend des Shutdowns zu uebernehmen.",
+              "gegenstimme": "Die Demokraten blockieren die DHS-Finanzierung nicht grundlos: Sie fordern Reformen bei ICE, nachdem Bundesagenten bei Einwanderungsrazzien in Minneapolis zwei Protestierende toeteten. ICE-Agenten sind fuer Flughafensicherheit weder ausgebildet noch zustaendig – Sicherheitsexperten halten den Einsatz fuer ungeeignet. Gewerkschafter kritisieren, dass TSA-Mitarbeiter mit leeren Bankkonten arbeiten muessen, waehrend Politikstreit auf ihrem Ruecken ausgetragen wird.",
+              "sources": [
+                {
+                  "name": "Die Welt",
+                  "url": "https://www.welt.de/politik/ausland/article69bf2fd58f5761671715affe/shutdown-in-usa-macht-euch-bereit-trump-erwaegt-ice-einsatz-musk-will-gehaelter-von-mitarbeitern-uebernehmen.html"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c3ex9nq2qywo"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-titlis-unfall-sicherheit-abgelehnt",
+              "slug": "titlis-unfall-sicherheit-abgelehnt",
+              "title": "Titlis-Gondelunglück: Sicherheitsnachrüstung war angeboten worden – und wurde abgelehnt",
+              "date": "2026-03-22",
               "time": "07:00",
               "category": "schweiz",
-              "icon": "🛡️",
+              "icon": "🚡",
               "edition": "morning",
-              "image": "https://www.nzz.ch/resizer/v2/https%3A%2F%2Fp.nzz.ch%2Fimg%2F2026%2F03%2F20%2Fpfister-armeebotschaft-keystone-anex.jpg",
-              "kurz": "Verteidigungsminister Pfister präsentiert für 3,4 Milliarden Franken eine Armeebotschaft, die auf Luftverteidigung, Drohnenabwehr und Cyberkriegsführung setzt.",
-              "summary": "Der Bundesrat hat am Freitag die Armeebotschaft 2026 verabschiedet. Das Paket umfasst Verpflichtungskredite von rund 3,4 Milliarden Franken. Der Schwerpunkt liegt auf der Luftverteidigung: Für rund eine Milliarde Franken werden zwei zusätzliche IRIS-T-SLM-Systeme und mehr Munition beschafft. Für 800 Millionen Franken soll ein mobiles Drohnenabwehrsystem von Rheinmetall Air Defence (Skynex) aus Zürich Oerlikon die veralteten Luftabwehrkanonen ersetzen. Dazu kommen 394 Millionen Franken als Zusatzkredit für Mehrkosten beim F-35-Kampfjet.",
-              "gegenstimme": "Politisch steht die geplante Finanzierung auf wackligen Beinen: Der Bundesrat will eine befristete Mehrwertsteuererhöhung um 0,8 Prozentpunkte, die alle Parteien ausser der Mitte ablehnen. Kritiker bemängeln zudem die freihändige Vergabe des Skynex-Systems an Rheinmetall ohne reguläre Evaluation. Gleichzeitig stellt der Rüstungsstopp gegenüber den USA – am gleichen Tag beschlossen – die Beschaffung wichtiger amerikanischer Systeme in Frage.",
+              "image": "https://cdn.unitycms.io/images/APtkuBBx4hG9tqxGE2G_Ta.jpg",
+              "kurz": "Am Titlis stürzte eine Gondel ab – eine 61-jährige Frau starb. Nun zeigt sich: Warnungen zu Klemmenmängeln lagen seit 2021 vor, eine Nachrüstung wurde nicht konsequent umgesetzt.",
+              "summary": "Am 18. März 2026 löste sich im Skigebiet Engelberg-Titlis bei Böen bis 105 km/h eine Gondel vom Seil. Eine 61-jährige Frau kam ums Leben. Die Schweizerische Sicherheitsuntersuchungsstelle Sust hatte bereits 2021 nach dem Unglück am Lago Maggiore auf Sicherheitsdefizite bei bestimmten Klemmentypen des Herstellers Doppelmayr Garaventa hingewiesen. Ob die Titlis Bergbahnen eine angebotene Sicherheitsnachrüstung abgelehnt haben, ist Gegenstand laufender Ermittlungen. Der Unfall ereignete sich laut Verwaltungsratspräsident Hans Wicki ausgerechnet während eines Vorgangs, bei dem Mitarbeiter die Gondeln wegen des starken Windes in Sicherheit bringen wollten.",
+              "gegenstimme": "Die Sust erklärte nach ersten Untersuchungen, sie sehe keinen Anlass für Sofortmassnahmen beim betroffenen Seilbahntyp und gehe nicht von einem systematischen Klemmenproblem aus. CEO Norbert Patt betonte, das System werde weltweit tausendfach eingesetzt und die letzte Revision im September 2025 sei ohne Auflagen bestanden.",
               "sources": [
                 {
-                  "name": "Swissinfo",
-                  "url": "https://www.swissinfo.ch/ger/bundesrat-beantragt-rund-3%2C4-milliarden-franken-f%C3%BCr-armeeausbau/91133468"
+                  "name": "20 Minuten – Was wir bisher wissen",
+                  "url": "https://www.20min.ch/story/engelberg-titlis-gondelabsturz-reisst-frau-in-den-tod-was-wir-bisher-wissen-103529292"
                 },
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/armeebotschaft-2026-der-bundesrat-will-moegliche-angriffe-aus-der-luft-mit-einem-schweizer-drohnenabwehrsystem-bekaempfen-ld.1930274"
+                  "name": "20 Minuten – War die Klemme schuld?",
+                  "url": "https://www.20min.ch/story/gondelabsturz-titlis-war-die-klemme-schuld-103529487"
                 },
                 {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/armeebotschaft-drohnen-killer-co-pfister-will-34-milliarden-fuer-die-armee-103530232"
+                  "name": "20 Minuten – Böen bis 100 km/h, warum blieb die Bahn offen?",
+                  "url": "https://www.20min.ch/story/meteorologe-boeen-bis-100-kmh-erwartet-warum-blieb-die-bergbahn-offen-103528894"
+                },
+                {
+                  "name": "Blick – VR-Präsident der Titlisbahnen",
+                  "url": "https://www.blick.ch/politik/vr-praesident-der-titlisbahnen-zum-gondel-horror-es-passierte-als-mitarbeiter-die-kabine-abhaengen-wollten-id21796010.html"
                 }
               ]
             },
             {
-              "id": "2026-03-21-schweiz-ruestungsexporte-usa",
-              "slug": "schweiz-ruestungsexporte-usa",
-              "title": "Schweiz stoppt Rüstungsexporte in die USA – Neutralität im Fokus",
-              "date": "2026-03-21",
+              "id": "2026-03-22-ukraine-fluechtlinge-300-mio-mehrkosten",
+              "slug": "ukraine-fluechtlinge-300-mio-mehrkosten",
+              "title": "Ukraine-Flüchtlinge: Kantone vor 300 Millionen Franken Mehrkosten – Bund zieht sich zurück",
+              "date": "2026-03-22",
               "time": "07:00",
               "category": "schweiz",
               "icon": "🇨🇭",
               "edition": "morning",
-              "image": "https://www.srf.ch/static/cms/images/1280w/b7a38e/schweizer-flagge-bundeshausfassade.jpg",
-              "kurz": "Der Bundesrat bewilligt keine neuen Rüstungsexporte mehr in die USA. Die Entscheidung stützt sich auf das Neutralitätsrecht und das Kriegsmaterialgesetz.",
-              "summary": "Der Schweizer Bundesrat hat am Freitag beschlossen, keine neuen Exportbewilligungen für Kriegsmaterial in die USA mehr zu erteilen. Bereits seit dem 28. Februar – dem Beginn der US-israelischen Angriffe auf Iran – wurden keine neuen Gesuche mehr genehmigt. Bestehende Bewilligungen bleiben vorläufig gültig, werden aber von einer departementsübergreifenden Expertengruppe überprüft. Der Schritt basiert auf der Schweizer Neutralität und dem Kriegsmaterialgesetz, das Exporte in kriegführende Staaten untersagt.",
-              "gegenstimme": "Mitte-Nationalrat Reto Nause warnt vor wirtschaftlichen und sicherheitspolitischen Konsequenzen: Wer nicht liefert, wird möglicherweise selbst nicht mehr beliefert – was Verzögerungen bei Patriot-Systemen, dem F-35 oder Ersatzteilen für den F/A-18 bedeuten könnte. Economiesuisse-Präsident Christoph Mäder mahnte: Die USA seien ein überragend wichtiger Handelspartner. Als Kleinstaat könne sich die Schweiz nicht als 'Missionar des Weltgeschehens' aufführen.",
+              "image": "https://cdn.unitycms.io/images/E19qTBhiaw-Ai5Kabfi-bL.jpg",
+              "kurz": "Mit dem Auslaufen des Sonderprogramms für ukrainische Schutzbedürftige trägt der Bund weniger Kosten – die Kantone erben rund 300 Millionen Franken Mehrkosten pro Jahr.",
+              "summary": "Ab 2026 gilt für rund 30'000 ukrainische Schutzbedürftige in der Schweiz die reguläre kantonale Sozialhilfe statt des günstigeren Asylsozialhilfe-Satzes. Der Schutzstatus S wurde zuletzt bis März 2027 verlängert, doch der Bund hat seine Pauschalbeiträge an die Kantone reduziert. Für die Kantone bedeutet die Gleichstellung mit der regulären Sozialhilfe Mehrkosten von schätzungsweise 300 Millionen Franken jährlich. Kritiker bemängeln, dass der Bund sich aus der Finanzierung zurückzieht, während die Kantone die Hauptlast tragen.",
+              "gegenstimme": "Befürworter der Gleichstellung argumentieren, dass eine Zweiklassensozialhilfe – günstigere Ansätze für Schutzbedürftige, höhere für Schweizerinnen – sozialrechtlich nicht haltbar ist. Eine faire Behandlung aller Sozialhilfebeziehenden stärke letztlich auch die gesellschaftliche Akzeptanz. Zudem verbessere die Gleichstellung die Integrationschancen der Betroffenen.",
               "sources": [
                 {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/schweiz-usa-bund-bewilligt-keine-neuen-waffenexporte-in-die-usa-mehr"
+                  "name": "Berner Zeitung – Ukraine-Flüchtlinge 300 Mio. Mehrkosten",
+                  "url": "https://www.bernerzeitung.ch/ukraine-fluechtlinge-300-millionen-franken-mehrkosten-fuer-kantone-367165455239"
                 },
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/bundesrat-bewilligt-wegen-iran-krieg-keine-neuen-ruestungsexporte-in-die-usa-ld.1930297"
+                  "name": "Der Bund – Ukraine-Flüchtlinge 300 Mio. Mehrkosten",
+                  "url": "https://www.derbund.ch/ukraine-fluechtlinge-300-millionen-franken-mehrkosten-fuer-kantone-367165455239"
                 },
                 {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/kriegsmaterial-exporte-bundesrat-stoppt-lieferungen-in-usa-740729645699"
+                  "name": "SKOS – Schutzstatus S",
+                  "url": "https://skos.ch/themen/gefluechtete-aus-der-ukraine"
+                },
+                {
+                  "name": "NZZ – Bundesrat verlängert Schutzstatus S",
+                  "url": "https://www.nzz.ch/schweiz/der-bundesrat-verlaengert-den-schutzstatus-s-fuer-ukrainer-bis-2026-ld.1846834"
                 }
               ]
             },
             {
-              "id": "2026-03-21-bern-aarehafen-marzili",
-              "slug": "bern-aarehafen-marzili",
-              "title": "Bern: Aarehafen mit Brücke im Marzili bewilligt",
-              "date": "2026-03-21",
+              "id": "2026-03-22-museumsnacht-bern-100000",
+              "slug": "museumsnacht-bern-100000",
+              "title": "Museumsnacht Bern: 100'000 Besucher feiern die 24. Ausgabe",
+              "date": "2026-03-22",
               "time": "07:00",
               "category": "regional",
-              "icon": "🏊",
+              "icon": "🎨",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/4P0SIxqfGXrm2Jl_9eBx-G.jpg",
-              "kurz": "Das Regierungsstatthalteramt Bern-Mittelland hat den Neubau eines Aarehafens mit Fussgängerbrücke im Marzili bewilligt. Das Projekt ist Teil der 66,8-Millionen-Sanierung des beliebten Berner Freibads.",
-              "summary": "Die Regierungsstatthalterin Bern-Mittelland hat die Baubewilligung für den Neubau einer Auswasserungsstelle für Aareboote (Aareböötli) mit Fussgängerbrücke im Marzili erteilt. Sieben Einsprachen, darunter Kollektiveinsprachen wegen Lärm, Abfall und Naturschutz, wurden vollumfänglich abgewiesen. Der Aarehafen ist Teil der Gesamtsanierung des Freibads Marzili, die insgesamt 66,8 Millionen Franken kosten soll. Noch pendent ist die Baubewilligung für das Hauptgebäude mit Gastronomienutzung und weitere Infrastruktur.",
-              "gegenstimme": "Einspracheführer hatten konkrete Bedenken: zusätzliche Lärm- und Abfallbelastung durch mehr Bootsbetrieb, Beeinträchtigungen der Fauna und Flora an der Aare sowie die Aufhebung von Parkplätzen. Einige kritisierten auch die hohen Investitionskosten von insgesamt 66,8 Millionen Franken für ein Freibad – in Zeiten knapper städtischer Budgets eine berechtigte Debatte.",
+              "image": "https://cdn.unitycms.io/images/DdasQDolKzj9P8Hdm2CnoY.jpg",
+              "kurz": "Die 24. Museumsnacht Bern vom 20. März 2026 zog über 102'000 Eintritte in rund 40 Institutionen an – begünstigt durch frühlingshaftes Wetter und ein vielfältiges Programm.",
+              "summary": "Am Freitagabend, 20. März 2026, öffneten rund 40 Museen, Bibliotheken, Archive und Kulturorte in Bern ihre Türen für die 24. Museumsnacht. Zwischen 18.00 und 02.00 Uhr wurden insgesamt 102'993 Eintritte gezählt. Frühlingshaftes Wetter begünstigte den Abend, das Programm reichte von Geisterbahnen im Botanischen Garten bis zu einem Rave in der Mobiliar. Die Veranstaltung hat sich als fester Bestandteil des Berner Kulturlebens etabliert.",
+              "gegenstimme": "Trotz des Rekordinteresses merken Kritikerinnen an, dass bei einer Stadtbevölkerung von bald zehn Millionen in der Schweiz die Besucherzahl zwar beeindruckend, aber auch relativiert werden könne. Zudem bleibt die Frage, ob das Event auch jene Bevölkerungsgruppen erreicht, die normalerweise keine Museen besuchen – oder ob es primär dem bereits kulturaffinen Publikum dient.",
               "sources": [
                 {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/bern-aarehafen-mit-bruecke-im-marzili-bewilligt-497080515080"
+                  "name": "nau.ch – Museumsnacht Bern über 100000 Besucher",
+                  "url": "https://www.nau.ch/news/schweiz/museumsnacht-bern-zieht-uber-100000-besucher-an-67108372"
                 },
                 {
-                  "name": "SWI swissinfo.ch",
-                  "url": "https://www.swissinfo.ch/ger/statthalteramt-bewilligt-berner-aarehafen-mit-br%c3%bccke-im-marzili/91132588"
+                  "name": "Der Bund – Museumsnacht Bern 24. Ausgabe",
+                  "url": "https://www.derbund.ch/museumsnacht-bern-ueber-100000-besucher-bei-24-ausgabe-507766026413"
                 },
                 {
-                  "name": "Kanton Bern – Medienmitteilung",
-                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=e278cb0a-c974-4746-9d83-409c9795eb81"
+                  "name": "Museumsnacht Bern – Website",
+                  "url": "https://www.museumsnacht-bern.ch/"
                 }
               ]
             },
             {
-              "id": "2026-03-21-bern-benzinpreisschock",
-              "slug": "bern-benzinpreisschock",
-              "title": "Berner Tankstellenbetreiber: «Der Benzinpreis könnte explodieren»",
-              "date": "2026-03-21",
+              "id": "2026-03-22-energiepreise-iran-krieg-strom-oel",
+              "slug": "energiepreise-iran-krieg-strom-oel",
+              "title": "Iran-Krieg treibt Energiepreise: Öl über 100 Dollar, Strom +15%, Diesel kratzt Allzeithoch",
+              "date": "2026-03-22",
               "time": "07:00",
-              "category": "regional",
+              "category": "wirtschaft",
               "icon": "⛽",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/5kR7sXmBJ9pN2Lh_3dCf-Q.jpg",
-              "kurz": "Ein Berner Tankstellenbetreiber warnt vor einer Benzinpreisexplosion infolge des Iran-Kriegs. Das KOF-Institut der ETH Zürich rechnet im Negativszenario mit bis zu 2 Franken pro Liter Super.",
-              "summary": "Der anhaltende Iran-Krieg lässt die Ölpreise steigen und bereitet Schweizer Tankstellenbetreibern Sorgen. Ökonomen des KOF-Instituts der ETH Zürich haben zwei Szenarien durchgespielt: Im Basisszenario bleiben die Auswirkungen begrenzt; hält der Konflikt länger an und stabilisiert sich der Ölpreis bei 90 Dollar pro Barrel, rechnen die Forscher mit einem Benzinpreis von rund 2 Franken pro Liter, Einkommensverlusten von bis zu 400 Franken pro Person und dem Abbau von 20'000 Vollzeitstellen in der Schweiz.",
-              "gegenstimme": "Das KOF selbst betont, dass die US-Handelszölle nach wie vor das grössere wirtschaftliche Risiko für die Schweiz darstellen als der Iran-Krieg. Zudem federt der starke Franken einen Teil der globalen Preissteigerungen ab. Kritiker werfen Ökonomen und Medien vor, mit Worst-Case-Szenarien Panik zu schüren – was letztlich selbst zu Hamsterkäufen und Preissteigerungen beitragen kann.",
+              "image": "https://cdn.prod.www.spiegel.de/images/7779fa6e-e7f9-4ddc-a92a-f9f8dd7ca10a_w520_r2.08_fpx57.99_fpy55.jpg",
+              "kurz": "Der Krieg gegen den Iran und die Blockade der Strasse von Hormus haben den Ölpreis über 100 Dollar getrieben. Diesel kratzt in Deutschland am Allzeithoch, Strom verteuert sich um rund 15 Prozent.",
+              "summary": "Der Iran-Krieg hat die Energiemärkte in eine neue Krise gestürzt. Der Ölpreis liegt über 100 US-Dollar pro Barrel – befeuert durch die Blockade der Strasse von Hormus und Angriffe auf kritische Energieinfrastruktur, darunter die katarische LNG-Anlage Ras Laffan. In Deutschland kostete ein Liter Diesel am Freitag 2,29 Euro, nur 3 Cent unter dem Allzeithoch von 2022. Strom verteuert sich durch teureres Gas um rund 15 Prozent. Experten warnen vor einer ernsthaften Wirtschaftskrise mit steigenden Lebensmittelpreisen und drohenden Entlassungen.",
+              "gegenstimme": "Die Mineralölindustrie steht in der Kritik: Experten und der ADAC weisen darauf hin, dass die Preise an der Zapfsäule stärker gestiegen sind, als es der Rohölpreis allein rechtfertigen würde. Der Verdacht auf übermässige Margenausnutzung steht im Raum. Zudem argumentieren Befürworter der Energiewende, dass die Krise den Druck zur beschleunigten Umstellung auf erneuerbare Energien erhöht – langfristig eine Chance, die Abhängigkeit von fossilen Brennstoffen zu reduzieren.",
               "sources": [
                 {
-                  "name": "20 Minuten – KOF Prognose",
-                  "url": "https://www.20min.ch/story/kof-prognose-hoher-oelpreis-autos-moebel-und-elektronik-werden-teurer-103529848"
+                  "name": "Handelsblatt – Kommentar Ölpreis",
+                  "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-naechste-preisschock-kommt-oel-ueber-100-dollar-als-neue-realitaet/100210019.html"
                 },
                 {
-                  "name": "Bernerzeitung – Tankstelle",
-                  "url": "https://www.bernerzeitung.ch/benzinpreis-tankstelle-in-bern-warnt-vor-preisexplosion-716043108043"
+                  "name": "Handelsblatt – Dieselpreis",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/spritpreise-dieselpreis-springt-um-12-cent-und-kratzt-am-allzeithoch/100210474.html"
+                },
+                {
+                  "name": "Spiegel – Strompreise",
+                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-steigende-strompreise-durch-teureres-gas-in-deutschland-a-79977fcf-d286-4ac3-8825-f260c83ab733"
                 }
               ]
             },
             {
-              "id": "2026-03-21-bern-demo-fahndung",
-              "slug": "bern-demo-fahndung",
-              "title": "Bern: Polizei fahndet nach 32 Tätern der Palästina-Demo",
-              "date": "2026-03-21",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "👮",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/7mR5kXfBJ9pN2Lh_3dCx-T.jpg",
-              "kurz": "Die Kantonspolizei Bern hat verpixelte Fahndungsbilder von 32 mutmasslichen Tätern der eskalierter Palästina-Demo vom 11. Oktober 2025 veröffentlicht. 101 Personen konnten bereits identifiziert werden.",
-              "summary": "Nach den schweren Ausschreitungen an der unbewilligten Pro-Palästina-Kundgebung vom 11. Oktober 2025 in Bern startet die Kantonspolizei eine öffentliche Fahndung. Sie veröffentlicht verpixelte Bilder von 32 noch unbekannten Tatverdächtigen. Bei der Demo wurden 18 Polizisten verletzt und ein Sachschaden von über 600'000 Franken verursacht. Falls die verpixelten Bilder nicht zur Identifikation führen, werden am 30. März unverdeckte Fotos veröffentlicht.",
-              "gegenstimme": "Datenschutz- und Bürgerrechtsorganisationen kritisieren die Praxis der Öffentlichkeitsfahndung mit Fotos, auch wenn diese zunächst verpixelt sind. Sie befürchten, dass das Verfahren zu Falschidentifikationen führen kann und die Unschuldsvermutung untergrabe. Zudem sei es rechtlich fragwürdig, dass indirekt Druck ausgeübt werde, sich selbst zu melden – was dem Schweigerecht widersprechen könnte.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/oeffentlichkeitsfahndung-das-sind-die-krawall-macher-von-bern-polizei-zeigt-bilder-103529737"
-                },
-                {
-                  "name": "Bernerzeitung",
-                  "url": "https://www.bernerzeitung.ch/bern-kantonspolizei-fahndet-nach-32-palaestina-demo-taetern-891618503204"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/gaza-demo-bern-warum-die-taeterverfolgung-so-schwierig-ist-385014526532"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-europa-autos-china",
-              "slug": "europa-autos-china",
-              "title": "Epochaler Wendepunkt: Europa importiert erstmals mehr Autos aus China",
-              "date": "2026-03-21",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "🚗",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/0ef0a1f8-3f9e-4cd7-8e4a-ccf0d0b4b6c9_w1280_r1.778_fpx50.28_fpy49.96.jpg",
-              "kurz": "Zum ersten Mal exportiert China mehr Autos in die EU als umgekehrt – ein historischer Machtwechsel in der Automobilindustrie. Bei VW kämpft Aufsichtsratschef Pötsch um eine dritte Amtszeit.",
-              "summary": "Die EU importiert laut einer EY-Analyse erstmals mehr Autos und Autoteile aus China als sie dorthin exportiert. Die Importe stiegen 2025 auf 22 Milliarden Euro, während die Exporte auf 16 Milliarden Euro einbrachen – ein Rückgang von 34 Prozent. Für Deutschland zeichnet sich derselbe Wendepunkt für 2026 ab. Parallel dazu kämpft Volkswagen mit internen Machtkämpfen und einer historischen Schrumpfkur – Aufsichtsratschef Hans Dieter Pötsch kandidiert für eine dritte Amtszeit.",
-              "gegenstimme": "Branchenvertreter und einige Ökonomen warnen davor, die Zahlen zu dramatisieren: Ein Teil der chinesischen Importe stammt von europäischen Herstellern wie BMW (Mini), VW (Cupra Tavascan) und Mercedes-Benz (Smart), die in China für den Export produzieren. Der Rückgang der EU-Exporte spiegle auch eine schwächere Nachfrage in China selbst – nicht nur einen Siegeszug chinesischer Marken.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/europa-importiert-erstmals-mehr-autos-aus-china-als-umgekehrt-a-06da0678-0756-4da9-b09a-9169c99af3ab"
-                },
-                {
-                  "name": "Handelsblatt – Pötsch",
-                  "url": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-poetsch-tritt-fuer-dritte-amtszeit-als-vw-aufsichtsratschef-an/100210345.html"
-                },
-                {
-                  "name": "Handelsblatt – VW Innenansichten",
-                  "url": "https://www.handelsblatt.com/unternehmen/industrie/vw-zu-viele-autos-innenansichten-eines-konzerns-der-das-wachsen-aufgibt/100209208.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-iran-energiekrise-europa",
-              "slug": "iran-energiekrise-europa",
-              "title": "Energiekrise: Der Iran-Krieg trifft Europa hart",
-              "date": "2026-03-21",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "⚡",
-              "edition": "morning",
-              "image": "https://img.20min.ch/2026/03/21/benzin-preise-iran-krieg.jpg",
-              "kurz": "Die Schliessung der Strasse von Hormuz durch den Iran-Krieg treibt Sprit-, Gas- und Lebensmittelpreise in die Höhe. Die Luftfahrt steckt in der schwersten Krise seit der Pandemie.",
-              "summary": "Seit Blockade der Strasse von Hormuz haben Europas Energiepreise stark angezogen: Erdgas kostet über 50 Euro pro Megawattstunde, Diesel und Kerosin erreichen Rekordwerte. Die Luftfahrtbranche hat über 32'000 Flüge gestrichen. Europas energieintensive Industrien – vor allem Chemie und Metallerzeugung – stehen unter extremem Druck. Die EU-Kommission beziffert die Mehrkosten seit Kriegsbeginn auf sechs Milliarden Euro. Regierungen ergreifen erste Notmassnahmen wie Preisdeckel und Steuerrabatte.",
-              "gegenstimme": "Wirtschaftsliberale Ökonomen und der belgische Premier Bart De Wever fordern, Europa solle die Beziehungen zu Russland normalisieren und wieder günstige Energie beziehen. Andere Ökonomen warnen, diese Abhängigkeit sei keine Lösung, sondern das ursprüngliche Problem. Gleichzeitig kritisieren manche Regierungen Preisdeckel als markverzerrend, da sie Investitionen in Alternativen hemmen.",
-              "sources": [
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-der-spritpreisschock-und-was-europas-regierungen-dagegen-tun/100210190.html"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/von-ki-chips-ueber-lastwagen-diesel-bis-zu-waschmitteln-der-iran-krieg-trifft-viele-branchen-hart-ld.1930038"
-                },
-                {
-                  "name": "20 Minuten / The Economist",
-                  "url": "https://www.20min.ch/story/engpaesse-der-iran-krieg-zwingt-europa-dazu-sein-energieproblem-anzugehen-103530269"
-                },
-                {
-                  "name": "Handelsblatt (Luftfahrt)",
-                  "url": "https://www.handelsblatt.com/unternehmen/dienstleister/iran-krieg-luftfahrt-rutscht-in-die-schwerste-krise-seit-der-pandemie/100208868.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-musk-twitter-kursmanipulation",
-              "slug": "musk-twitter-kursmanipulation",
-              "title": "US-Jury: Elon Musk haftbar für Betrug an Twitter-Aktionären",
-              "date": "2026-03-21",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "⚖️",
-              "edition": "morning",
-              "image": "https://www.srf.ch/static/cms/images/og_default_srf_news.png",
-              "kurz": "Eine Geschworenenjury in San Francisco befand Elon Musk schuldig, Twitter-Aktionäre durch irreführende Äusserungen über Bot-Konten geschädigt zu haben. Die Schadensersatzsumme könnte 2,5 Milliarden Dollar erreichen.",
-              "summary": "Ein Bundesgericht in San Francisco hat Elon Musk einstimmig für haftbar erklärt, Twitter-Aktionäre in der Zeit der Plattformübernahme 2022 in die Irre geführt zu haben. Die Geschworenen sahen es als erwiesen an, dass Musk mit gezielten öffentlichen Äusserungen über Bot-Probleme den Aktienkurs künstlich gedrückt hatte. Die Schadensersatzhöhe ist noch offen, wird aber auf rund 2,5 Milliarden Dollar geschätzt. Musks Anwälte haben bereits angekündigt, Berufung einzulegen.",
-              "gegenstimme": "Musks Verteidigung argumentierte, seine öffentlichen Posts seien keine gezielten Marktmanipulationen gewesen, sondern Meinungsäusserungen, die von Anlegern überinterpretiert wurden. Musk selbst räumte vor Gericht ein, möglicherweise «dumme Tweets» verfasst zu haben – aber das mache ihn nicht zwingend haftbar für Kursverluste Dritter. Ähnliche Klagen gegen ihn – etwa von Tesla-Aktionären 2023 – scheiterten vor Gericht.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/usa/uebernahme-von-twitter-2022-jury-macht-elon-musk-fuer-betrug-an-twitter-aktionaeren-haftbar"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c62j3yl842eo"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/it-internet/techkonzern-us-jury-macht-musk-fuer-betrug-an-twitter-aktionaeren-haftbar/100210383.html"
-                },
-                {
-                  "name": "Spiegel Online",
-                  "url": "https://www.spiegel.de/netzwelt/elon-musk-geschworene-sehen-kursmanipulation-bei-twitter-uebernahme-a-13ee3adc-4904-4dc9-84b1-5c3fe47b6529"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-weltrezession-risiko",
-              "slug": "weltrezession-risiko",
-              "title": "Ökonom Wellershoff: «Wir stehen am Rande einer Weltrezession»",
-              "date": "2026-03-21",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "📉",
-              "edition": "morning",
-              "image": "https://img.nzz.ch/2026/03/20/wellershoff-nzz.jpg",
-              "kurz": "Anlagespezialist Klaus Wellershoff warnt eindringlich vor einer globalen Rezession infolge des Iran-Kriegs. SMI und DAX verloren in vier Wochen über 9 bzw. 10 Prozent.",
-              "summary": "Der Zürcher Ökonom und Investmentspezialist Klaus Wellershoff sieht die Weltwirtschaft am Rand einer Rezession. Haupttreiber ist der Iran-Krieg, der die ohnehin schwächelnde Konjunktur in den USA, Deutschland und China weiter belastet. Stark gestiegene Energiepreise und wachsende Verunsicherung bei Konsumenten und Unternehmen könnten genügen, um eine globale Abwärtsspirale auszulösen. Anleger sollten grosse Vorsicht walten lassen und auf günstigere Einstiegskurse warten.",
-              "gegenstimme": "Wellershoff selbst relativiert das Worst-Case-Szenario: Alle grossen Energieproduzenten – mit Ausnahme Irans – hätten ein starkes Interesse, die Energieversorgung aufrechtzuerhalten. Das globale System habe Resilienz und Redundanzen. Eine Wiederholung der Ölkrise der 1970er Jahre sei zwar möglich, aber nicht zwingend. Saudi-Arabiens Warnung vor einem Ölpreis über 180 Dollar sei «ein Szenario, mehr nicht».",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/oekonom-Klaus-wellershoff-wir-stehen-am-rande-einer-weltrezession-ld.1930265"
-                },
-                {
-                  "name": "Spiegel Online",
-                  "url": "https://www.spiegel.de/wirtschaft/donald-trump-und-weltwirtschaft-trumps-iran-krieg-und-die-drohende-finanzkatastrophe-a-f1806523-a365-4310-b14e-5cf78bc46880"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-beenden-woche-im-minus-sp-verliert-seit-kriegsbeginn-mehr-als-fuenf-prozent/100210267.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-ki-jobverluste-bezos",
-              "slug": "ki-jobverluste-bezos",
-              "title": "KI-Revolution: Jobverluste und Bezos' 100-Milliarden-Wette",
-              "date": "2026-03-21",
+              "id": "2026-03-22-ki-jobverluste-digitalminister",
+              "slug": "ki-jobverluste-digitalminister",
+              "title": "KI-Jobverluste noch dramatischer als erwartet – Digitalminister schlägt Alarm",
+              "date": "2026-03-22",
               "time": "07:00",
               "category": "tech",
               "icon": "🤖",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/bezos-ki-industrie-2026.jpg",
-              "kurz": "Deutschlands Digitalminister Wildberger warnt vor dramatischen Jobverlusten durch KI. Jeff Bezos sammelt parallel 100 Milliarden Dollar für KI in der Industrie – das Kapital fliesst, die Frage ist nur, wohin die Jobs gehen.",
-              "summary": "Deutschlands Bundesdigitalminister Karsten Wildberger (CDU) warnt offen vor einem strukturellen Wandel des Arbeitsmarkts durch künstliche Intelligenz: «Die Zeit, in der die Industrie eine Jobmaschine war, geht zu Ende.» Gleichzeitig plant Amazon-Gründer Jeff Bezos einen 100-Milliarden-Dollar-Fonds für den KI-Einsatz in der industriellen Fertigung. Meta setzt ebenfalls auf KI und ersetzt menschliche Inhaltsmoderatorinnen. Die Frage, wer von der KI-Welle profitiert und wer verdrängt wird, ist politisch und wirtschaftlich drängend.",
-              "gegenstimme": "Tech-Optimisten argumentieren, dass jede Automatisierungswelle historisch gesehen netto mehr Arbeitsplätze geschaffen als vernichtet hat – von der Industrialisierung bis zur Computerisierung. Bezos selbst sieht KI als Wachstumstreiber für neue Branchen und Berufsbilder. Ökonom Klaus Wellershoff (NZZ-Interview) verweist zudem darauf, dass in jeder technologischen Umbruchphase Abschreibungen entstehen – aber auch Gewinner. Die entscheidende Frage sei, wie schnell sich Gesellschaften anpassen.",
+              "image": "https://cdn.prod.www.spiegel.de/images/878b637f-ada6-4b2d-a75a-fbddcb670dfc_w520_r2.08_fpx35.34_fpy45.jpg",
+              "kurz": "Deutschlands Digitalminister Karsten Wildberger warnt vor dramatischen Jobverlusten durch KI – gleichzeitig schreiben KI-Agenten bereits Blogartikel und automatisieren Alltagsaufgaben.",
+              "summary": "Bundesdigitalminister Karsten Wildberger (CDU) warnte am 21. März 2026 öffentlich vor einem tiefgreifenden Wandel auf dem Arbeitsmarkt durch Künstliche Intelligenz. 'Die Zeit, in der die Industrie eine Jobmaschine war, geht zu Ende', sagte er der Neuen Osnabrücker Zeitung. Gleichzeitig werden konkrete KI-Anwendungen Realität: WordPress.com ermöglicht KI-Agenten das selbständige Verfassen und Veröffentlichen von Blogposts, während Google Gemini Task-Automatisierung im Alltag ausbaut. Die Diskrepanz zwischen politischer Warnung und technologischer Realität ist kleiner als je zuvor.",
+              "gegenstimme": "Wirtschaftsverbände und Technologieoptimisten entgegnen, KI schaffe auch neue Berufsfelder – Prompt-Engineering, KI-Training, ethische Aufsicht. Historisch habe jede Automatisierungswelle per saldo mehr Jobs geschaffen als vernichtet. Zudem sei die Produktivitätssteigerung durch KI eine Chance, den Wohlstand zu steigern und Fachkräftemangel zu lindern, der in der Schweiz und Deutschland gleichermassen akut ist.",
               "sources": [
                 {
-                  "name": "Spiegel Online (Wildberger)",
+                  "name": "Spiegel – Digitalminister Wildberger fürchtet Jobverluste",
                   "url": "https://www.spiegel.de/politik/kuenstliche-intelligenz-digitalminister-karsten-wildberger-fuerchtet-branchenwandel-und-jobverluste-a-07c3a69d-add8-4e95-bd17-29237f8a4edd"
                 },
                 {
-                  "name": "Spiegel Online (Bezos)",
-                  "url": "https://www.spiegel.de/wirtschaft/jeff-bezos-will-100-milliarden-dollar-fuer-neues-ki-projekt-einwerben-a-1f2111c2-33e2-457c-99c4-93a3b03b631b"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-03-21-dubai-iran-krieg-raketenalarm",
-              "slug": "dubai-iran-krieg-raketenalarm",
-              "title": "Raketenalarm über Dubai: Der Iran-Krieg trifft die Glitzermetropole",
-              "date": "2026-03-21",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🏙️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/1c5f5475-75de-42c9-b355-3bc9d2fa9210_w520_r2.08_fpx54.64_fpy50.jpg",
-              "kurz": "Drohnen über Wolkenkratzern, Raketenalarm in Einkaufszentren: Der Iran-Krieg holt die grösste Wirtschaftsmetropole am Golf ein. Dubais Geschäftsmodell als sicherer Hafen für Kapital und Expats gerät ins Wanken.",
-              "summary": "Seit Ausbruch des US-israelischen Krieges gegen den Iran erlebt Dubai Raketenalarm und Drohnenangriffe über seiner Skyline. Die Vereinigten Arabischen Emirate, die offiziell neutral bleiben wollen, stehen unter wachsendem Druck beider Seiten: Iran droht mit schweren Angriffen, falls emiratisches Territorium für Angriffe auf iranische Inseln genutzt wird. Investoren, Expats und Touristen fragen sich, ob Dubais Ruf als sicherer, stabiler Standort noch trägt. Im Netz überwiegt Schadenfreude – vor Ort ist die Lage komplexer.",
-              "gegenstimme": "Die VAE haben jahrzehntelang eine pragmatische Aussenpolitik betrieben: keine Konfrontation, maximaler Nutzen. Kritiker werfen Dubai vor, als Finanzzentrum Gelder aus sanktionierten Staaten gewaschen und dem Iran wirtschaftliche Hintertüren offengehalten zu haben. Aus dieser Perspektive ist die aktuelle Bedrohung ein Resultat der eigenen Doppelstrategie – und die Schadenfreude im Netz nicht ganz unbegründet.",
-              "sources": [
-                {
-                  "name": "Der Spiegel – Dubai und der Iran-Krieg",
-                  "url": "https://www.spiegel.de/ausland/dubai-und-der-iran-krieg-krieg-in-der-glitzermetropole-a-d6325a00-073d-4d26-a81a-937ee43d881a"
+                  "name": "Heise – Digitalminister Wildberger warnt vor Jobverlusten",
+                  "url": "https://www.heise.de/news/Digitalminister-Wildberger-warnt-vor-dramatischen-Jobverlusten-durch-KI-11220282.html"
                 },
                 {
-                  "name": "The Guardian – Middle East Live",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-iran-diego-garcia-angriff",
-              "slug": "iran-diego-garcia-angriff",
-              "title": "Iran beschiesst US-Militärbasis Diego Garcia – neue Eskalation",
-              "date": "2026-03-21",
-              "time": "12:15",
-              "category": "international",
-              "icon": "💥",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/a12be43d-ce91-441b-8ac8-a95a912f1aa3_w520_r2.08_fpx48.3_fpy50.jpg",
-              "kurz": "Iran feuert zwei ballistische Raketen auf den US-britischen Militärstützpunkt Diego Garcia im Indischen Ozean – beide verfehlen das Ziel. Trump signalisiert erstmals ein mögliches Ende der Kampfhandlungen.",
-              "summary": "Der Iran hat zwei Mittelstreckenraketen auf die Militärbasis Diego Garcia im Indischen Ozean abgefeuert. Eine Rakete versagte im Flug, die andere wurde von einem US-Kriegsschiff mit einer SM-3-Abwehrrakete abgeschossen – Treffer gab es keine. Gleichzeitig drohte Teheran den Vereinigten Arabischen Emiraten mit schweren Angriffen, sollten Angriffe von emiratischem Territorium auf iranische Inseln in der Strasse von Hormuz zugelassen werden. US-Präsident Trump erklärte auf Truth Social, die USA seien den Kriegszielen 'sehr nahe' und erwäge, die Militäroperation zurückzufahren.",
-              "gegenstimme": "Kritiker in Washington warnen, Trumps Ankündigung eines baldigen Kriegsendes könnte verfrüht sein: Der Iran hat seine Drohnenangriffe auf die Golfregion bisher nicht eingestellt, und die Strasse von Hormuz bleibt faktisch blockiert. Ein vorschneller Rückzug könnte als Schwäche interpretiert werden, ohne dass die eigentlichen Kriegsziele – offene Seefahrt und Stopp des iranischen Raketenprogramms – erreicht wären.",
-              "sources": [
-                {
-                  "name": "The Guardian – Middle East Live",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes"
-                },
-                {
-                  "name": "Der Spiegel – Iran-News",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-donald-trump-erwaegt-nach-eigenen-angaben-militaereinsatz-gegen-iran-zurueckzufahren-a-ada3a0c1-bf0d-44a1-a66d-48a23b3223ff"
-                },
-                {
-                  "name": "BBC News Live",
-                  "url": "https://www.bbc.com/news/live/ce84073mr06t"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-kabul-pakistan-massaker-eid",
-              "slug": "kabul-pakistan-massaker-eid",
-              "title": "Pakistan tötet 400 Menschen an Eid – Luftangriff auf Krankenhaus in Kabul",
-              "date": "2026-03-21",
-              "time": "12:15",
-              "category": "international",
-              "icon": "💔",
-              "edition": "midday",
-              "image": "https://media.guim.co.uk/8da3d8723e4a7983cfe254b51c52343750b1c861/371_0_4549_3639/master/4549.jpg",
-              "kurz": "Ein pakistanischer Luftangriff auf ein Drogenrehabilitationszentrum in Kabul hat in der Nacht zum Eid-Fest mindestens 400 Menschen getötet. Familien suchen an diesem Feiertag nach den Leichen ihrer Angehörigen in anonymen Massengräbern.",
-              "summary": "Pakistan bombardierte in der Nacht zum Montag ein Drogenrehabilitationszentrum namens 'Omid' (Hoffnung) in Kabul, kurz nachdem die Patienten gemeinsam das Nachtgebet Tarawih verrichtet hatten. Die Taliban-Regierung spricht von mindestens 408 Toten und 265 Verletzten; die UNO nennt vorläufig 143 Tote, erwartet aber einen deutlichen Anstieg. Pakistan behauptet, einen Terroristen-Militärstützpunkt getroffen zu haben. Das internationale Rote Kreuz, die UNO und NGOs vor Ort widersprechen dieser Darstellung klar.",
-              "gegenstimme": "Pakistan besteht darauf, legitime Militärziele bekämpft zu haben: Der Taliban-Regierung wird vorgeworfen, Terrorgruppen wie die TTP (Tehrik-i-Taliban Pakistan) zu dulden oder aktiv zu schützen, die seit Jahren Anschläge auf pakistanischem Territorium verüben. Islamabad argumentiert, Selbstverteidigung sei sein Recht, wenn Afghanistan die Grenzgebiete als Rückzugsraum für Angreifer nutzt.",
-              "sources": [
-                {
-                  "name": "The Guardian – Kabul Hospital Strike",
-                  "url": "https://www.theguardian.com/world/2026/mar/21/kabul-hospital-strike-eid-pakistan-taliban-families-search-for-victims"
-                },
-                {
-                  "name": "BBC News Live",
-                  "url": "https://www.bbc.com/news/live/ce84073mr06t"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-trump-pearl-harbor-japan",
-              "slug": "trump-pearl-harbor-japan",
-              "title": "Trump zieht Iran-Krieg/Pearl-Harbor-Vergleich bei Japan-Besuch – Tabubruch",
-              "date": "2026-03-21",
-              "time": "12:15",
-              "category": "international",
-              "icon": "😬",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/e079e70b-8835-4881-9f54-572a2dc7c0c0_w520_r2.08_fpx33.34_fpy50.jpg",
-              "kurz": "Trump vergleicht den US-Angriff auf Iran mit Pearl Harbor – direkt im Beisein der japanischen Regierungschefin. Ein diplomatisches Tabu.",
-              "summary": "US-Präsident Donald Trump hat bei einem Besuch der japanischen Regierungschefin Sanae Takaichi im Weissen Haus einen historisch brisanten Vergleich gezogen. Er stellte das Überraschungsmoment beim US-Angriff auf Iran in eine Linie mit dem japanischen Angriff auf Pearl Harbor 1941. Die Bemerkung, direkt an die anwesende Takaichi gerichtet, löste sichtliche Verstimmung auf japanischer Seite aus. Jahrzehntelang galt scharfe Rhetorik rund um Pearl Harbor in den US-japanischen Beziehungen als Tabu.",
-              "gegenstimme": "Trumps Anhänger und Teile des Weissen-Haus-Stabs werten den Kommentar als harmlosen Scherz in einer ohnehin engen bilateralen Beziehung. Auch wird darauf hingewiesen, dass Japan und die USA bereits militärisch eng zusammenarbeiten und Takaichi als Trump-nah gilt.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/pearl-harbor-donald-trump-irritiert-mit-aussage-bei-besuch-in-japan-a-a906b8d8-1ca7-432e-be79-d21c87aa6625"
-                },
-                {
-                  "name": "New York Times",
-                  "url": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-uk-atombasis-iran-sicherheitsvorfall",
-              "slug": "uk-atombasis-iran-sicherheitsvorfall",
-              "title": "Iraner und Rumänin versuchen britische Atom-U-Boot-Basis zu infiltrieren",
-              "date": "2026-03-21",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🔐",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/d74362e3-1fd2-40b7-844c-a08649862c5a_w520_r2.08_fpx42.65_fpy49.99.jpg",
-              "kurz": "Ein Iraner und eine Rumänin wurden verhaftet, nachdem sie versuchten, in die britische Atom-U-Boot-Basis Faslane einzudringen – mitten im Iran-Krieg.",
-              "summary": "Am Donnerstagabend versuchten ein 34-jähriger Iranischer Staatsangehöriger und eine 31-jährige Rumänin, in die britische Marinebasis HM Naval Base Clyde – bekannt als Faslane – einzudringen. Die Basis beherbergt die gesamte britische Atom-U-Boot-Flotte einschliesslich der Trident-Raketen. Beide Personen wurden verhaftet und angeklagt; sie sollen am Montag vor dem Dumbarton Sheriff Court erscheinen. Der Vorfall ereignete sich in direktem zeitlichem Zusammenhang mit dem laufenden Militäreinsatz gegen Iran.",
-              "gegenstimme": "Es ist bisher unklar, ob die beiden Beschuldigten im Auftrag des iranischen Staates handelten oder aus eigenem Antrieb. Kritiker warnen, vorschnell staatliche Spionage zu unterstellen – die Ermittlungen laufen, und die Nationalität allein beweist keinen Geheimdienstauftrag.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cx2v46gexr7o"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/uk-news/2026/mar/21/iranian-among-two-charged-over-alleged-attempt-to-enter-uk-nuclear-submarine-base"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-ukraine-drohnenangriff-russland",
-              "slug": "ukraine-drohnenangriff-russland",
-              "title": "Ukraine greift Russland mit knapp 300 Drohnen an – Stickstofffabrik getroffen",
-              "date": "2026-03-21",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🚁",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/3ac291e2-dc59-49d7-bdfc-547758d2155e_w520_r2.08_fpx40_fpy20.jpg",
-              "kurz": "Die Ukraine hat in der Nacht auf Samstag knapp 300 Drohnen auf russisches Territorium gesendet – eine der grössten Angriffswellen seit Kriegsbeginn. Getroffen wurde unter anderem eine Stickstofffabrik in der Wolga-Stadt Togliatti.",
-              "summary": "Das russische Verteidigungsministerium meldet, 283 ukrainische Drohnen abgefangen zu haben, wobei ein Schwerpunkt im südrussischen Gebiet Rostow lag. Berichte in Telegram-Kanälen zufolge wurde eine Stickstofffabrik in Togliatti an der Wolga getroffen sowie Ölraffinerien in der Wolga-Region angegriffen. Moskau meldete, 27 Drohnen auf die Hauptstadt abgefangen zu haben; der Flugbetrieb an mehreren russischen Flughäfen war gestört. Gleichzeitig ordnete die Ukraine die Zwangsevakuierung von Kindern aus Slowjansk an, da russische Truppen von mehreren Seiten auf rund 20 Kilometer an die Stadt herangerückt sind.",
-              "gegenstimme": "Russland bestreitet die Wirkung ukrainischer Drohnenangriffe weitgehend und verweist auf die hohe Abfangquote. Unabhängige Beobachter weisen darauf hin, dass die Ukraine mit Drohnenangriffen zwar die russische Kriegswirtschaft stört und die Moral beeinträchtigt, die Frontlage im Donbas dadurch aber kaum verändert: Russland rückt trotz allem kontinuierlich vor.",
-              "sources": [
-                {
-                  "name": "Der Spiegel – Drohnenangriff Ukraine",
-                  "url": "https://www.spiegel.de/ausland/russland-meldet-grossen-drohnenangriff-der-ukraine-a-e45b9aad-78e4-4b89-9e73-a5692509ddf2"
-                },
-                {
-                  "name": "The Guardian – Ukraine War Briefing",
-                  "url": "https://www.theguardian.com/world/2026/mar/21/ukraine-war-briefing-children-ordered-to-leave-key-ukrainian-stronghold-as-russians-advance"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-sedrun-schulgruppe-toedlicher-unfall",
-              "slug": "sedrun-schulgruppe-toedlicher-unfall",
-              "title": "Sedrun GR: 87-Jähriger fährt in Schülerlagergruppe – Leiterin getötet",
-              "date": "2026-03-21",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🚨",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/DnqKgXllaVyA2o8Ur5YPwS.jpg",
-              "kurz": "In Sedrun GR verwechselt ein 87-jähriger Autofahrer Gas und Bremse und fährt in eine Schulgruppe. Eine 47-jährige Leiterin stirbt, zwei 13-Jährige werden verletzt.",
-              "summary": "Am Freitagmorgen kam es in Sedrun im Kanton Graubünden zu einem schweren Verkehrsunfall. Ein 87-jähriger Lenker verwechselte Gas- und Bremspedal, als er von einer Nebenstrasse auf die Hauptstrasse einbiegen wollte. Sein Fahrzeug beschleunigte unkontrolliert und fuhr in eine Gruppe von Schülerinnen und Schülern eines Schülerlagers. Eine 47-jährige Begleitperson erlag ihren Verletzungen noch an der Unfallstelle. Zwei 13-jährige Mädchen wurden mittelschwer bis schwer verletzt und per Helikopter in Spitäler ausgeflogen.",
-              "gegenstimme": "Der Unfall wirft erneut die Debatte über Fahreignungstests für Seniorinnen und Senioren auf. In der Schweiz sind regelmässige obligatorische Fahrtauglichkeitsprüfungen ab einem bestimmten Alter umstritten; Befürworter sehen sie als notwendigen Schutz, Gegner als Einschränkung der persönlichen Freiheit und Mobilität älterer Menschen.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/sedrun-gr-autolenker-faehrt-in-schueler-frau-tot-zwei-schuelerinnen-verletzt-103530486"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/sedrun-gr-toedlicher-unfall-mit-schuelerlager-gruppe-372490616522"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-bern-belp-airline-vini-muenchen",
-              "slug": "bern-belp-airline-vini-muenchen",
-              "title": "Neue Mini-Airline ab Bern-Belp: Vini fliegt ab Juni nach München",
-              "date": "2026-03-21",
-              "time": "12:15",
-              "category": "regional",
-              "icon": "✈️",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/FY3EMFo3arE9ZWI3IsxsIt.jpg",
-              "kurz": "Ab Juni verbindet die neue Airline Vini den Flughafen Bern-Belp dreimal pro Woche mit München – gegründet vom früheren Skywork-Chef Tomislav Lang.",
-              "summary": "Die neu gegründete Schweizer Airline Vini plant ab Juni 2026 dreimal wöchentlich zwischen Bern-Belp und München zu fliegen. Hinter dem Projekt steht Tomislav Lang, der frühere Chef der 2018 in Insolvenz gegangenen Berner Regionalfluggesellschaft Skywork Airlines. Vini soll als Zubringer für Geschäfts- und Freizeitreisende aus der Region Bern positioniert werden. Es wäre die erste nennenswerte Linienverbindung ab Bern-Belp seit Jahren.",
-              "gegenstimme": "Skepsis ist angebracht: Der Berner Flughafen hat in den letzten Jahren mehrere Anläufe mit Regionalverbindungen erlebt, die alle gescheitert sind – zuletzt SkyWork selbst. Ob das Passagieraufkommen für eine wirtschaftlich tragfähige dreimalige Wochenverbindung ausreicht, ist ungewiss. Branchenbeobachter zweifeln an der Rentabilität kleiner Regionalrouten in einem Markt mit hohen Betriebskosten.",
-              "sources": [
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/bern-belp-neue-airline-fliegt-3x-pro-woche-nach-muenchen-578502799338"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-03-21-iran-krieg-umwelt-oekologie",
-              "slug": "iran-krieg-umwelt-oekologie",
-              "title": "Iran-Krieg: Ölbrände und Bombentrichter – die ökologische Katastrophe",
-              "date": "2026-03-21",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/7779fa6e-e7f9-4ddc-a92a-f9f8dd7ca10a_w520_r2.08_fpx57.99_fpy55.jpg",
-              "kurz": "Die ersten 14 Kriegstage zwischen USA, Israel und Iran haben laut einer Analyse bereits 5 Millionen Tonnen CO2 erzeugt – mehr als 84 Länder zusammen in einem Jahr.",
-              "summary": "Der militärische Konflikt zwischen den USA, Israel und Iran verursacht neben dem menschlichen Leid eine massive ökologische Katastrophe. Brennende Ölfelder, zerstörte Infrastruktur und Schiffsausfälle im Persischen Golf belasten die globale Umwelt erheblich. Eine Analyse der ersten 14 Kriegstage kommt auf 5 Millionen Tonnen CO2-Äquivalent – so viel wie 84 der einkommensschwächsten Länder zusammen in einem Jahr. Europa spürt die Folgen direkt: Durch unterbrochene Gaslieferungen steigen die Strom- und Gastarife in Deutschland um rund 15 Prozent.",
-              "gegenstimme": "Energiewirtschaftliche Verbände weisen darauf hin, dass Europa durch den massiven LNG-Ausbau und die Diversifizierung der Gasquellen seit 2022 deutlich weniger verwundbar ist als noch zur Zeit des Ukraine-Krieges. Kritiker der Studie bemängeln zudem Unsicherheiten in den Emissionsschätzungen – insbesondere bei zerstörten Gebäuden und abgebrannten Öllagern sind die Zahlen mit hoher Unsicherheit behaftet. Die eigentliche Frage sei, wie schnell die Infrastruktur wiederaufgebaut wird.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/21/middle-east-iran-conflict-environment-climate"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-steigende-strompreise-durch-teureres-gas-in-deutschland-a-79977fcf-d286-4ac3-8825-f260c83ab733"
-                },
-                {
-                  "name": "Der Spiegel – Gaskrieg",
-                  "url": "https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt-a-5b989375-154d-4553-8541-d1865d5af30f"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-iran-natanz-bunkerbrecher",
-              "slug": "iran-natanz-bunkerbrecher",
-              "title": "USA und Israel bombardieren Atomanlage Natanz mit Bunkerbrechern",
-              "date": "2026-03-21",
-              "time": "18:00",
-              "category": "international",
-              "icon": "💣",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/d488e0c5-2694-41ff-b8e5-bfed602901e3_w520_r2.08_fpx55.67_fpy50.jpg",
-              "kurz": "USA und Israel haben die iranische Urananreicherungsanlage Natanz mit Bunkerbrechern angegriffen. Irans Fähigkeit, die Strasse von Hormus zu bedrohen, sei dadurch geschwächt worden, teilt US-Zentralkommando mit.",
-              "summary": "Amerikanische und israelische Streitkräfte haben in der Nacht auf Samstag die unterirdische Atomanlage in Natanz sowie weitere Rüstungsstandorte in Teheran angegriffen. US-Centcom-Chef Admiral Brad Cooper erklärte, Irans Fähigkeit zur Bedrohung des Seeverkehrs durch die Strasse von Hormus sei nach der Zerstörung unterirdischer Marschflugkörperlager deutlich geschwächt. Iran reagierte mit Raketenangriffen auf Israel und feuerte erstmals Raketen auf den britisch-amerikanischen Militärstützpunkt Diego Garcia im Indischen Ozean – beide Geschosse verfehlten ihr Ziel.",
-              "gegenstimme": "Die IAEA mahnte zu Zurückhaltung; Teheran bestritt eine radioaktive Leckage. Kritiker wenden ein, dass militärische Angriffe auf Atomanlagen das Risiko einer nuklearen Katastrophe dramatisch erhöhen und eine diplomatische Lösung dauerhaft verunmöglichen könnten.",
-              "sources": [
-                {
-                  "name": "Der Spiegel – Iran-News live",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-donald-trump-erwaegt-nach-eigenen-angaben-militaereinsatz-gegen-iran-zurueckzufahren-a-ada3a0c1-bf0d-44a1-a66d-48a23b3223ff"
-                },
-                {
-                  "name": "BBC News live",
-                  "url": "https://www.bbc.com/news/live/ce84073mr06t"
-                },
-                {
-                  "name": "The Guardian – Middle East live",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-lawine-suedtirol-zwei-tote",
-              "slug": "lawine-suedtirol-zwei-tote",
-              "title": "Lawine in Südtirol: Zwei Tourenskifahrer tot",
-              "date": "2026-03-21",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🏔️",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/EUYZ-FNwqmXAz7uT1Bn2DL.jpg",
-              "kurz": "Im Ridnauntal in Südtirol hat eine Lawine rund zwei Dutzend Tourenskifahrer erfasst. Zwei Menschen kamen ums Leben, mehrere wurden schwer verletzt.",
-              "summary": "Am Samstag gegen 11:40 Uhr löste sich am Tallone Grande nahe Ratschings im Südtirol eine grosse Lawine. Rund zwei Dutzend Tourenskifahrer befanden sich am betroffenen Hang – etwa zehn wurden mitgerissen. Zwei Personen kamen ums Leben, mindestens drei weitere wurden schwer verletzt. Über 80 Rettungskräfte mit sechs Helikoptern waren im Einsatz. Die Saison 2025/26 ist in Europa bereits aussergewöhnlich tödlich: Mindestens 127 Menschen kamen bisher durch Lawinen ums Leben.",
-              "gegenstimme": "Experten weisen darauf hin, dass die wachsende Beliebtheit von Skitouren und Freeriding ausserhalb präparierter Pisten das statistische Risiko erhöht – nicht nur klimatische Faktoren. Die Eigenverantwortung der Bergsportler steht damit ebenso zur Debatte wie strukturelle Lawinenwarnsysteme.",
-              "sources": [
-                {
-                  "name": "SRF – Lawinenabgang im Südtirol: zwei Tourenskifahrer tot",
-                  "url": "https://www.srf.ch/news/international/unglueck-im-suedtirol-lawinenabgang-im-suedtirol-zwei-tourenskifahrer-tot"
-                },
-                {
-                  "name": "20 Minuten – Lawinenabgang in Südtirol",
-                  "url": "https://www.20min.ch/story/italien-lawinenabgang-in-suedtirol-grosseinsatz-laeuft-103530920"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-schweiz-durchfahrtsmaut-eu-kritik",
-              "slug": "schweiz-durchfahrtsmaut-eu-kritik",
-              "title": "Schweizer Durchfahrtsmaut für Ausländer: EU-Politiker laufen Sturm",
-              "date": "2026-03-21",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🚗",
-              "edition": "evening",
-              "image": "https://image.20min.ch/2026/03/21/003904e7-7541-40b0-8de2-8cb3c9995c6a.jpg",
-              "kurz": "Der Nationalrat hat mit 173 zu 13 Stimmen eine Durchfahrtsmaut nur für ausländische Fahrzeuge beschlossen. Deutsche und französische EU-Politiker reagieren scharf und warnen vor Vergeltungsmassnahmen.",
-              "summary": "Der Schweizer Nationalrat hat eine Motion angenommen, die den Bundesrat verpflichtet, eine Gebühr für reine Transitfahrten durch die Schweiz – ausschliesslich für Fahrzeuge mit ausländischem Kennzeichen – auszuarbeiten. Das Ziel ist eine Entlastung der Gotthard-Achse, wo an über 100 Tagen im Jahr Überlastung herrscht. EU-Abgeordnete aus Frankreich und Deutschland kritisieren den Entscheid als diskriminierend und warnen vor einem Dominoeffekt. Der Bundesrat selbst ist gegen die Massnahme und verweist auf administrative Hürden sowie Bedenken hinsichtlich des Tessins.",
-              "gegenstimme": "Der Bundesrat lehnt die Abgabe ab: Sie würde den Kanton Tessin als einzigen Landesteil ohne frei verfügbare wintersichere Strassenverbindung mit der übrigen Schweiz zurücklassen. Auch GLP-Nationalräte sprechen sich für ein allgemeines Road-Pricing aus, das alle Fahrzeuge gleichbehandelt.",
-              "sources": [
-                {
-                  "name": "20 Minuten – Schweizer Durchfahrts-Maut erzürnt EU-Politiker",
-                  "url": "https://www.20min.ch/story/scharfe-kritik-schweizer-durchfahrts-maut-erzuernt-eu-politiker-103530820"
-                },
-                {
-                  "name": "NZZ – Schweiz plant Maut für ausländische Autos",
-                  "url": "https://www.nzz.ch/schweiz/die-schweiz-soll-eine-maut-fuer-die-fahrt-in-den-sueden-einfuehren-aber-nur-fuer-auslaendische-fahrzeuge-ld.1930444"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-benko-steuerhinterziehung",
-              "slug": "benko-steuerhinterziehung",
-              "title": "René Benko: Österreich wirft Ex-Milliardär Steuerhinterziehung vor",
-              "date": "2026-03-21",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "💰",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/3ea735dd-7ce9-4df3-bbde-6d1040e62a71_w520_r2.08_fpx45_fpy13.jpg",
-              "kurz": "Österreichische Finanzstrafverfolger werfen Signa-Gründer René Benko vor, Villa, Chalet, Privatjet und Luxusjacht teils über Scheingeschäfte vom Steuerzahler finanziert zu haben.",
-              "summary": "Die österreichischen Finanzstrafbehörden haben René Benko, den gescheiterten Gründer des Signa-Imperiums, offiziell der Steuerhinterziehung beschuldigt. Im Zentrum stehen Scheingeschäfte, über die Benko sein Luxusleben – Villa, Berchalet, Privatjet, Jacht – angeblich als Betriebsausgaben deklariert und so dem Steuerzahler belastet haben soll. Benko sitzt seit Januar 2025 in Untersuchungshaft. Der Fall gilt als einer der grössten Wirtschaftsskandale Österreichs der letzten Jahrzehnte.",
-              "gegenstimme": "Benkos Verteidigung hat die Vorwürfe stets zurückgewiesen und betont, alle steuerlichen Gestaltungen seien rechtlich geprüft und zulässig gewesen. Ausserdem ist zu beachten: Finanzstrafverfahren in Österreich sind langwierig – zwischen Vorwurf und rechtskräftigem Urteil liegen oft Jahre. Benko gilt bis zu einer Verurteilung als unschuldig. Kritiker mahnen zudem, dass österreichische Finanzbehörden Benkos Netzwerk in Spitzenzeiten wohlwollend behandelt hatten.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/rene-benko-finanzstrafverfolger-in-oesterreich-werfen-ex-milliardaer-steuerhinterziehung-vor-a-d7c693a5-41cc-41f6-a16e-759aaaa364fc"
-                },
-                {
-                  "name": "Süddeutsche Zeitung",
-                  "url": "https://www.sueddeutsche.de/wirtschaft/rene-benko-untersuchungshaft-ermittlungen-wien-li.3335511"
-                },
-                {
-                  "name": "news.at",
-                  "url": "https://www.news.at/wirtschaft/rene-benko-stiftung-liechtenstein-rp1"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-iran-duenger-krise-global",
-              "slug": "iran-duenger-krise-global",
-              "title": "Hormuz-Blockade: Warum jetzt weltweit der Dünger knapp wird",
-              "date": "2026-03-21",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "🌾",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/217c42eb-651d-48ea-8168-f98cf0914ed1_w520_r2.08_fpx36.15_fpy50.jpg",
-              "kurz": "Rund ein Drittel der weltweit verschifften Düngemittel passiert normalerweise die Strasse von Hormus. Die Blockade treibt die Preise auf dem ohnehin angespannten Markt deutlich nach oben.",
-              "summary": "Die de facto Blockade der Strasse von Hormus durch den Nahostkrieg trifft die globale Landwirtschaft hart: Rund ein Drittel aller weltweit verschifften Düngemittel stammt aus Katar, Saudi-Arabien, Bahrain und Oman. Landwirte zahlen bereits über 30 Prozent mehr als vor Kriegsausbruch. Besonders betroffen sind afrikanische und asiatische Länder, deren Bevölkerung bis zu 80 Prozent des Einkommens für Lebensmittel ausgibt. Die deutsche Bundesregierung hat ihre Taskforce zur Überwachung von Kraftstoffpreisen ausgeweitet und will nun auch Lebensmittelpreise beobachten.",
-              "gegenstimme": "Düngemittelproduzenten ausserhalb der Golfregion profitieren kurzfristig von steigenden Weltmarktpreisen. Experten warnen aber, dass zu hohe Düngerpreise Bauern zu Einsparungen zwingen und den Gesamtmarkt lähmen könnten – was letztlich auch diese Produzenten trifft.",
-              "sources": [
-                {
-                  "name": "SRF – Warum jetzt der Dünger knapp wird",
-                  "url": "https://www.srf.ch/news/wirtschaft/blockierte-strasse-von-hormus-warum-jetzt-der-duenger-knapp-wird"
-                },
-                {
-                  "name": "The Guardian – Iran conflict and environment",
-                  "url": "https://www.theguardian.com/world/2026/mar/21/middle-east-iran-conflict-environment-climate"
-                },
-                {
-                  "name": "Der Spiegel – Bundesregierung Taskforce Lebensmittelpreise",
-                  "url": "https://www.spiegel.de/wirtschaft/service/bundesregierung-will-taskforce-auf-lebensmittelpreise-ausweiten-a-6ab7df77-a883-4312-a8ea-6dd3f660bd85"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-rheinmetall-fregatten-10-milliarden",
-              "slug": "rheinmetall-fregatten-10-milliarden",
-              "title": "Rheinmetall übernimmt Fregatten-Bau für die Marine – 10 Mrd. Euro Auftrag",
-              "date": "2026-03-21",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "🚢",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/1feb265c-b476-47bd-8894-4da2fc66f3e5_w520_r2.08_fpx15_fpy46.jpg",
-              "kurz": "Rheinmetall will noch im Sommer 2026 als Generalunternehmer für den Bau der sechs Fregatten vom Typ F126 unter Vertrag genommen werden – mit erster Auslieferung 2031.",
-              "summary": "Der Düsseldorfer Rüstungskonzern Rheinmetall steigt in den festgefahrenen Bau der deutschen Marine-Fregatten F126 ein. Das bisherige Projekt unter dem niederländischen Unternehmen Damen Naval liegt vier Jahre hinter dem Zeitplan. Rheinmetall, das Anfang 2026 die Werftsparte NVL von Lürssen übernommen hat und damit Blohm+Voss kontrolliert, soll nun als neuer Generalunternehmer die sechs Schiffe für rund 10 Milliarden Euro bauen. Die erste Fregatte soll im zweiten Halbjahr 2031 abgeliefert werden.",
-              "gegenstimme": "Kritiker warnen vor einem weiteren Rüstungsprojekt unter massivem Zeitdruck und ohne klare Verantwortlichkeiten. Der Kieler Marineschiffbauer TKMS steht als Alternative mit einem kleineren Fregattentyp bereit – was die Frage aufwirft, ob Rheinmetall trotz fehlender Erfahrung im komplexen Schiffbau die richtige Wahl ist. Gewerkschaften und Werften-Experten mahnen, dass eine überhastete Vergabe an einen neuen Generalunternehmer die Lieferverzögerungen noch verschlimmern könnte.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-will-fregatten-fuer-marine-bauen-a-025fe644-449a-429a-a332-27b02b520bfa"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-rheinmetall-will-fregatten-bau-fuer-marine-beschleunigen/100210445.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-21-swiss-outsourcing-europafluege",
-              "slug": "swiss-outsourcing-europafluege",
-              "title": "Swiss lagert 44% der Europaflüge aus – Sparmassnahme oder Pilotennotstand?",
-              "date": "2026-03-21",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "✈️",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/D36KD8FTKDL9xHRWZyrJPQ.jpg",
-              "kurz": "Swiss lässt im Sommer 2026 bis zu 27 Fremdmaschinen für sich fliegen – Pratt-&-Whitney-Triebwerksprobleme zwingen die Lufthansa-Tochter erneut zu massivem Wet-Lease.",
-              "summary": "Die Schweizer Fluggesellschaft Swiss muss ihren Europaverkehr im Sommer 2026 erneut stark auf fremde Airlines auslagern. Bis zu 27 Flugzeuge von Helvetic Airways, Air Baltic und Edelweiss werden für Swiss unterwegs sein, was rund 44 Prozent der Europaflüge ausmacht. Grund sind anhaltende Triebwerksprobleme bei Pratt & Whitney, die zahlreiche Swiss-Jets am Boden halten. Obwohl Swiss das erklärte Ziel hat, Wet-Lease zu reduzieren, verschiebt sich dieser Plan erneut.",
-              "gegenstimme": "Gewerkschaften und Piloten kritisieren die Wet-Lease-Praxis scharf: Swiss baut parallel Kabinenpersonal ab – mit Abfindungen von 15'000 Franken für freiwillig kündigende Flugbegleiter – während externe Crews für Swiss einspringen. Das ist für Betroffene schwer nachvollziehbar. Zudem bemängeln Passagierschutzorganisationen, dass bei Wet-Lease-Flügen die Reklamationswege unklar sind und der Swiss-Markenauftritt nicht dem tatsächlichen Betreiber entspricht.",
-              "sources": [
-                {
-                  "name": "aeroTELEGRAPH",
-                  "url": "https://www.aerotelegraph.com/airlines/swiss-baut-wet-lease-im-sommer-widerwillig-auf-27-flugzeuge-aus/dbkgw3w"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/swiss-44-prozent-europafluege-von-externen-airlines-342574423643"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/gemietete-crews-und-flugzeuge-ein-drittel-der-europafluege-der-swiss-sind-wet-lease-fluege-103059601"
+                  "name": "TechCrunch – WordPress.com KI-Agenten",
+                  "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts"
                 }
               ]
             }
