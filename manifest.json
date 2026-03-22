@@ -1,5 +1,5 @@
 {
-  "updated": "10:35 UTC",
+  "updated": "16:06 UTC",
   "days": [
     {
       "date": "2026-03-22",
@@ -621,6 +621,243 @@
                 {
                   "name": "Tagesanzeiger",
                   "url": "https://www.tagesanzeiger.ch/honda-streicht-drei-elektroautos-0-series-verschoben-635296853776"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-22-carsten-traeger-spd-staatssekretaer-tot",
+              "slug": "carsten-traeger-spd-staatssekretaer-tot",
+              "title": "SPD-Staatssekretär Carsten Träger mit 52 Jahren gestorben",
+              "date": "2026-03-22",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🕯️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/21b3bb27-4751-45e3-91d4-348ea2e69c93_w520_r2.08_fpx48_fpy14.jpg",
+              "kurz": "Der SPD-Bundestagsabgeordnete und Parlamentarische Staatssekretär im Umweltministerium, Carsten Träger, ist am Samstag im Alter von 52 Jahren verstorben. Er kollabierte während eines Skiurlaubs in Österreich.",
+              "summary": "Carsten Träger, SPD-Parlamentarier aus Fürth und Staatssekretär im Bundesumweltministerium, ist am Samstag nach einem Kollaps im Skiurlaub in Innsbruck gestorben. Er wurde 52 Jahre alt und hinterlässt eine Ehefrau sowie zwei Töchter. Zahlreiche Politikerinnen und Politiker aus allen Parteien bekundeten Bestürzung. Der Bundestag wird ihm am Mittwoch gedenken.",
+              "gegenstimme": "Trotz des breiten parteiübergreifenden Beileids bleibt zu bemerken, dass Trägers politische Arbeit im Umweltbereich nicht unumstritten war – Kritiker aus der Industrie sahen seine Positionen als zu restriktiv, während Umweltverbände ihn als zu kompromissbereit einschätzten.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/carsten-traeger-ist-tot-spd-staatssekretaer-stirbt-im-alter-von-52-jahren-nach-kollaps-a-5e1a1f5e-bd60-4a3b-9583-412a7db18d22"
+                },
+                {
+                  "name": "SPD-Fraktion",
+                  "url": "https://www.spdfraktion.de/presse/statements/spd-fraktion-trauert-um-carsten-traeger"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-hamas-distanzierung-iran",
+              "slug": "hamas-distanzierung-iran",
+              "title": "Hamas distanziert sich vom Iran – ein Wendepunkt im Nahost-Konflikt",
+              "date": "2026-03-22",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🔄",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Die Hamas signalisiert öffentlich Distanz zum Iran und versucht, ihre Beziehungen zu Katar zu schützen – ein bedeutsamer Positionswechsel inmitten des laufenden Nahost-Krieges.",
+              "summary": "Inmitten des laufenden Krieges zwischen Israel, den USA und dem Iran gerät die Hamas in eine schwierige Lage: Als Teil der iranischen 'Achse des Widerstands' ist sie eng mit Teheran verbunden, doch gleichzeitig ist sie wirtschaftlich auf Katar angewiesen – das von iranischen Angriffen betroffen ist. Die Hamas hat sich öffentlich kritisch gegenüber dem Iran geäussert und versucht, Katar zu signalisieren, dass sie dessen Interessen berücksichtigt. Analysten sprechen von einem 'Messer auf der Klinge'.",
+              "gegenstimme": "Iranische Stimmen betonen, dass die Hamas ohne die langjährige Unterstützung Teherans – Geld, Waffen, Training – ihre militärische Kapazität nie hätte aufbauen können. Die Distanzierung könnte auch taktischer Natur sein und nicht einen echten strategischen Bruch darstellen.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/hamas-distanziert-sich-vom-iran-gruende-und-auswirkungen-593341067174"
+                },
+                {
+                  "name": "New York Times",
+                  "url": "https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-hamas-iran-qatar.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-iran-krieg-merz-telefonat-trump-netanjahu",
+              "slug": "iran-krieg-merz-telefonat-trump-netanjahu",
+              "title": "Nahost-Krise: Merz telefoniert mit Trump – Netanjahu fordert Koalition gegen Iran",
+              "date": "2026-03-22",
+              "time": "18:00",
+              "category": "international",
+              "icon": "📞",
+              "edition": "evening",
+              "image": "https://images.welt.de/69bce233ea8bf301e4ae1a85/0ff6d622010dced58cbff5430c900871/ci23x11-w1200/dpa-com-20090101-251009-935-881243-jpg",
+              "kurz": "Der Krieg im Nahen Osten spitzt sich dramatisch zu: Trump stellt Iran ein 48-Stunden-Ultimatum, Iran droht mit der Vernichtung von Energieinfrastruktur im ganzen Nahen Osten.",
+              "summary": "US-Präsident Donald Trump hat Iran ein Ultimatum gestellt: Die Strasse von Hormus müsse innerhalb von 48 Stunden vollständig für den Schiffsverkehr geöffnet werden, andernfalls würden die USA iranische Kraftwerke angreifen. Teheran reagierte mit der Drohung, die Energieinfrastruktur in der gesamten Region – einschliesslich US-amerikanischer und israelischer Anlagen – zu zerstören. Bundesskanzler Friedrich Merz telefonierte in diesem Zusammenhang mit Trump, während Israels Premier Netanjahu eine internationale Koalition gegen den Iran forderte.",
+              "gegenstimme": "Diplomatische Kreise warnen vor einer weiteren Eskalation durch öffentliche Ultimaten. Iran-Experten weisen darauf hin, dass Teheran politisch kaum vollständig nachgeben kann, ohne das Gesicht zu verlieren – was den Spielraum für Verhandlungen stark einengt.",
+              "sources": [
+                {
+                  "name": "Spiegel Online",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-iran-news-heute-iran-konzentriert-das-feuer-auf-den-sueden-israels-a-334f306d-d6ff-46f4-8379-b338169c60e0"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/22/iran-donald-trump-48-hours-open-hormuz-strait"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/22/iran-says-destroy-middle-east-infrastructure-us-energy-sites"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-kamen-zug-betonplatten-staatsschutz",
+              "slug": "kamen-zug-betonplatten-staatsschutz",
+              "title": "Anschlag auf Bahnlinie in Kamen: Staatsschutz ermittelt nach Zugkollision mit Betonplatten",
+              "date": "2026-03-22",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🚂",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/1a6be82f-efc8-4e20-925d-020b35ba8039_w520_r2.08_fpx65.37_fpy50.jpg",
+              "kurz": "In der Nacht zum Sonntag kollidierten ein Regionalzug mit 309 Passagieren auf der Strecke zwischen Aachen und Hamm bei Kamen mit mutwillig auf die Gleise gelegten Betonplatten. Verletzt wurde niemand, der Staatsschutz hat die Ermittlungen aufgenommen.",
+              "summary": "Unbekannte Täter legten mehrere Betonplatten und eine Metallstange auf Gleise zwischen Kamen-Methler und dem Bahnhof Kamen in Nordrhein-Westfalen. Ein Regionalexpress mit 309 Passagieren fuhr trotz Notbremsung in die Hindernisse und wurde dabei so stark beschädigt, dass er nicht mehr fahrbereit war. Es gab keine Verletzten. Da die Polizei einen politischen Hintergrund nicht ausschliesst, wurde der Staatsschutz eingeschaltet.",
+              "gegenstimme": "Ermittler betonen, dass ein politischer Hintergrund zwar geprüft wird, aber keineswegs als gesichert gilt. Es ist ebenso denkbar, dass es sich um einen Vandalismus-Akt ohne ideologische Motivation handelt.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/panorama/justiz/kamen-staatsschutz-ermittelt-nach-zugkollision-mit-betonplatten-a-58a0a1ac-36b1-4bb4-941d-231dc849391b"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-rheinland-pfalz-wahlbeteiligung-ergebnis",
+              "slug": "rheinland-pfalz-wahlbeteiligung-ergebnis",
+              "title": "Landtagswahl Rheinland-Pfalz: Wahlbeteiligung bei 50% – SPD könnte erstmals seit 35 Jahren abgewählt werden",
+              "date": "2026-03-22",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/57a8597e-3b36-4247-8b13-2a804a3c1f22_w520_r2.08_fpx66.67_fpy50.jpg",
+              "kurz": "Rheinland-Pfalz hat heute seinen neuen Landtag gewählt. Erstmals seit 35 Jahren könnte die SPD die Regierungsverantwortung verlieren.",
+              "summary": "Die Wahlbeteiligung lag bis Mittag bei rund 50 Prozent – vergleichbar mit dem Wert von 2021. Die CDU unter Spitzenkandidat Gordon Schnieder führte in aktuellen Umfragen knapp vor der regierenden SPD von Ministerpräsident Alexander Schweitzer. Laut ersten Hochrechnungen kam die AfD mit rund 20 Prozent auf den zweiten Platz, während die SPD auf etwa 18,6 Prozent fiel. Die FDP dürfte an der Fünf-Prozent-Hürde scheitern.",
+              "gegenstimme": "SPD-Anhänger verweisen darauf, dass Ministerpräsident Schweitzer erst 2024 von Malu Dreyer übernommen hat und noch kein vollständiges Regierungsmandat hatte. Ein Ergebnis von gut 18 Prozent wäre zwar historisch schwach, aber angesichts des bundesweiten SPD-Einbruchs kein vollständiges Desaster.",
+              "sources": [
+                {
+                  "name": "Spiegel Online",
+                  "url": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-rheinland-pfalz-wahlbeteiligung-bis-mittag-bei-50-prozent-a-7372216f-5374-4ce9-84a6-9111b0dfe28f"
+                },
+                {
+                  "name": "Welt Online",
+                  "url": "https://www.welt.de/politik/deutschland/article697375fd029492de1675a6d8/landtagswahl-rheinland-pfalz-alle-ergebnisse-und-grafiken-der-landtagswahl-im-ueberblick.html"
+                },
+                {
+                  "name": "SWR Aktuell",
+                  "url": "https://www.swr.de/swraktuell/wahlen/landtagswahl/liveticker-rlp-2026-ergebnisse-hochrechnung-prognose-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-rom-gasexplosion-wohngebaeude-eingestuerzt",
+              "slug": "rom-gasexplosion-wohngebaeude-eingestuerzt",
+              "title": "Gasexplosion in Rom: Wohngebäude eingestürzt, 70 Personen evakuiert",
+              "date": "2026-03-22",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🏚️",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Im Westen Roms hat am Sonntag eine Flüssiggas-Explosion ein Wohngebäude zum Einsturz gebracht und drei weitere Gebäude beschädigt. Rund 70 Personen wurden evakuiert, ein älteres Ehepaar wurde schwer verletzt.",
+              "summary": "In der Via Tavagnasco im Stadtteil Ponte Galeria im Westen Roms explodierte kurz vor 13 Uhr eine Flüssiggasflasche und riss dabei ein Wohngebäude in sich zusammen. Drei benachbarte Gebäude wurden erheblich beschädigt, parkierte Fahrzeuge wurden durch Trümmer getroffen. Ein Ehepaar im Alter von 86 und 84 Jahren wurde mit schweren Verbrennungen ins Spital eingeliefert. Rund 70 Anwohnerinnen und Anwohner mussten ihre Wohnungen verlassen.",
+              "gegenstimme": "Roms Bürgermeister Roberto Gualtieri betonte, die betroffenen Gebäude seien erst sieben Jahre alt, in gutem Zustand und ordnungsgemäss errichtet worden. Dies wirft Fragen zur Wartung und Lagerung von Flüssiggasanlagen in Privatwohnungen auf, ohne dass eine grundsätzliche bauliche Mängelhaftung erkennbar ist.",
+              "sources": [
+                {
+                  "name": "Il Sole 24 Ore",
+                  "url": "https://en.ilsole24ore.com/art/rome-building-explodes-two-seriously-injured-AItMrI6B"
+                },
+                {
+                  "name": "La Sicilia",
+                  "url": "https://en.lasicilia.it/news/italy-world/3025783/explosion-in-piana-del-sole-in-rome-building-collapsed-two-seriously-injured-about-70-people-on-the-street.html"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/gasexplosion-rom-wohnhaus-eingestuerzt-70-evakuiert-847008232206"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-solothurn-feuerteufel-freigelassen",
+              "slug": "solothurn-feuerteufel-freigelassen",
+              "title": "Solothurn: Geständiger Feuerteufel trotz 14 Brandstiftungen aus Untersuchungshaft entlassen",
+              "date": "2026-03-22",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🔥",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Ein 24-jähriger Feuerwehrmann aus dem Kanton Solothurn gestand mindestens 14 Brandstiftungen und wurde nach zwei Monaten Untersuchungshaft unter Ersatzmassnahmen wieder freigelassen.",
+              "summary": "Jan G. (24) war bei der Feuerwehr der Stadt Solothurn aktiv und legte zwischen 2024 und 2026 eine Brandserie in Langendorf, Solothurn und Bellach. Trotz seines Geständnisses wurde er Anfang dieser Woche aus der Untersuchungshaft entlassen. Die Staatsanwaltschaft ordnete Ersatzmassnahmen an, ohne Details zu nennen. Brisant: Der Mann war politisch bei der Jungen SVP aktiv und nahm an Aktivitäten der rechtsextremen Gruppierung Junge Tat teil.",
+              "gegenstimme": "Kritiker und Bevölkerung fragen, weshalb ein geständiger Serienbrandstifter ohne bekannte psychiatrische Abklärung auf freien Fuss gesetzt wird. Die Unschuldsvermutung gilt formal weiterhin, doch das Geständnis und die laufende Ermittlung werfen Fragen zur Verhältnismässigkeit der Freilassung auf.",
+              "sources": [
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/14-brande-gelegt-solothurner-feuerteufel-aus-u-haft-entlassen-67108640"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/mittelland/solothurn/der-svpler-legte-14-braende-solothurner-serienbrandstifter-ist-frei-id21800993.html"
+                },
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/brandserie-in-region-solothurn-solothurner-feuerwehrmann-gesteht-14-brandstiftungen"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-bern-hausbesetzung-europaplatz",
+              "slug": "bern-hausbesetzung-europaplatz",
+              "title": "Hausbesetzung am Europaplatz Bern: Jetzt ist das ganze Gebäude besetzt",
+              "date": "2026-03-22",
+              "time": "18:00",
+              "category": "regional",
+              "icon": "🏠",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/Cs3SQjGBa-V8NLS1-E0Roo.jpg",
+              "kurz": "Das Besetzerkollektiv Café Toujours hat an der Freiburgstrasse in Bern nun das gesamte Gebäude in Beschlag genommen. Die Eigentümerin, die Marti AG, soll einen Mietvertrag statt einer Räumung in Erwägung ziehen.",
+              "summary": "Das Café Toujours besetzt seit 2016 die Liegenschaft an der Freiburgstrasse 129/131 am Berner Europaplatz. Zuletzt hatten die Besetzerinnen und Besetzer nur einen Teil des Gebäudes inne; nun ist das gesamte Objekt besetzt. Eigentümerin ist die Bauunternehmung Marti AG, die das Gebäude abreissen will, um Platz für eine Hochhausüberbauung zu schaffen — der Baustart ist laut Planungsvereinbarung mit der Stadt Bern erst für 2029 vorgesehen. Laut Berichten erwägt die Eigentümerin statt einer Polizeiräumung die Abgabe eines temporären Mietvertrags.",
+              "gegenstimme": "Die Marti AG hält an ihren Bauplänen fest und sieht die Besetzung als rechtswidrigen Eingriff in ihr Eigentumsrecht. Kritiker der Besetzung argumentieren, dass auch für legitime Wohnprojekte der Rechtsweg offensteht und eine Besetzung kein geeignetes Mittel zur Durchsetzung politischer Ziele sei.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/cafe-toujours-bern-jetzt-ist-das-haus-komplett-besetzt-387237914555"
+                },
+                {
+                  "name": "Radio RaBe",
+                  "url": "https://rabe.ch/beitrag/10-03-2025/cafe-toujours-ein-freiraum-vor-dem-abriss"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-wie-besetzer-kollektive-gegen-den-rauswurf-kaempfen-516740169784"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-22-bezos-100-milliarden-ki-industrie",
+              "slug": "bezos-100-milliarden-ki-industrie",
+              "title": "Bezos mobilisiert 100 Milliarden Dollar für KI in der Industriefertigung",
+              "date": "2026-03-22",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "💰",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/c178b2e7-dece-4e6d-ac47-cf99a58e49f5_w520_r2.08_fpx66.67_fpy50.jpg",
+              "kurz": "Amazon-Gründer Jeff Bezos plant einem Medienbericht zufolge einen 100-Milliarden-Dollar-Fonds, der KI-gestützte Transformation von Industrieunternehmen finanzieren soll.",
+              "summary": "Bezos führt laut Wall Street Journal bereits Gespräche mit grossen Vermögensverwaltern und Staatsfonds im Nahen Osten. Der geplante Fonds soll Unternehmen aus der Chip-, Rüstungs- und Raumfahrtbranche übernehmen und deren Automatisierung vorantreiben. Das Vorhaben steht in Verbindung mit dem KI-Start-up Project Prometheus, an dem Bezos beteiligt ist. Prometheus verhandelt derweil unabhängig über eine separate Finanzierung von bis zu sechs Milliarden Dollar.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass die massive Konzentration privaten Kapitals in sicherheitsrelevanten Industrien wie der Rüstung und der Chipherstellung regulatorische Fragen aufwirft. Zudem bleibt unklar, welche Mitbestimmungsrechte und Transparenzpflichten für einen solchen Privatfonds gelten würden.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/jeff-bezos-will-100-milliarden-dollar-fuer-neues-ki-projekt-einwerben-a-1f2111c2-33e2-457c-99c4-93a3b03b631b"
+                },
+                {
+                  "name": "Wall Street Journal",
+                  "url": "https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe"
                 }
               ]
             }
