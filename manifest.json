@@ -1,863 +1,409 @@
 {
-  "updated": "16:06 UTC",
+  "updated": "05:11 UTC",
   "days": [
     {
-      "date": "2026-03-22",
+      "date": "2026-03-23",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-03-22-daenemark-us-angriffsplanung",
-              "slug": "daenemark-us-angriffsplanung",
-              "title": "Enthüllung: Dänemark bereitete sich mit Blutkonserven auf US-Angriff wegen Grönland vor",
-              "date": "2026-03-22",
+              "id": "2026-03-23-frankreich-kommunalwahlen-paris",
+              "slug": "frankreich-kommunalwahlen-paris",
+              "title": "Frankreich: Sozialisten halten Grossstädte – Rassemblement National scheitert",
+              "date": "2026-03-23",
               "time": "07:00",
               "category": "international",
-              "icon": "🇩🇰",
+              "icon": "🇫🇷",
               "edition": "morning",
-              "image": "",
-              "kurz": "Dänemark hat im Januar heimlich militärische Verstärkung nach Grönland verlegt – inklusive Blutkonserven und Sprengstoff. Hintergrund waren Trumps Annexionsforderungen. Die Enthüllung erscheint vier Tage vor den dänischen Parlamentswahlen.",
-              "summary": "Der dänische Rundfunksender DR hat enthüllt, dass Dänemark im Januar 2026 zusätzliche Truppen nach Grönland entsandte – nicht nur für eine Übung, wie offiziell kommuniziert wurde, sondern zur echten Verteidigung gegen einen möglichen Angriff der USA. Mitgeliefert wurden Blutkonserven und Sprengstoff. Ministerpräsidentin Mette Frederiksen sprach von der «schwierigsten aussenpolitischen Lage seit dem Zweiten Weltkrieg» und warnte, Trumps Annektierungswunsch sei weiterhin real. Die Enthüllung kommt vier Tage vor den Parlamentswahlen vom 25. März.",
-              "gegenstimme": "Die USA haben bislang keine konkreten militärischen Schritte gegen Grönland oder Dänemark unternommen. Kritiker werten die Enthüllung als politisches Kalkül kurz vor der Wahl: Frederiksen hatte die Wahlen früh ausgerufen, um aus der Grönland-Krise Kapital zu schlagen. Andere Stimmen aus dem dänischen Politikbetrieb zweifeln, ob die Versetzung wirklich defensiver Natur war oder primär ein politisches Signal.",
+              "image": "https://cdn.unitycms.io/images/Cscq4j-94Xo9orAt_zdS6G.jpg",
+              "kurz": "Emmanuel Grégoire wird neuer Bürgermeister von Paris. Das Rassemblement National scheitert erneut in den grossen Städten Frankreichs.",
+              "summary": "Im zweiten Wahlgang der französischen Kommunalwahlen vom 22. März 2026 gewann der Sozialist Emmanuel Grégoire das Pariser Bürgermeisteramt mit rund 50,5 Prozent der Stimmen. Die Sozialisten verteidigten neben Paris auch Marseille und Lille. Lyon, regiert von den Grünen unter Grégory Doucet, blieb ebenfalls links. Das Rassemblement National (RN) von Marine Le Pen vermochte keine der grossen Städte zu erobern, obwohl die Partei landesweit die stärkste politische Kraft ist.",
+              "gegenstimme": "Das RN scheitert zwar in den Grossstädten, gewinnt aber in mittelgrossen Städten wie Nizza weiter an Einfluss. Kritiker werfen den Sozialisten vor, ihren Sieg teils dem taktischen Verzicht auf Bündnisse mit der radikallinken France Insoumise zu verdanken – nicht einer eigenen programmatischen Stärke. Wo Linke und LFI zusammengingen (Toulouse, Strasbourg), verloren sie hingegen. Das zeigt: Die städtische Linke ist gespalten und ihr Einfluss fragil.",
               "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/daenemark-bereitete-sich-auf-einen-angriff-der-usa-vor-enthuellung-vor-der-wahl-ld.1929930"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-iran-nuklearzentrum-israel",
-              "slug": "iran-nuklearzentrum-israel",
-              "title": "Iranischer Angriff trifft Gebiet nahe israelischer Nuklearanlage",
-              "date": "2026-03-22",
-              "time": "07:00",
-              "category": "international",
-              "icon": "☢️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/530b7a1a-8c55-4055-846e-e887fd006aa7_w520_r2.08_fpx49_fpy43.jpg",
-              "kurz": "Iranische Raketen trafen Dimona im Sueden Israels – nahe der israelischen Nuklearforschungsanlage Negev. Fast 100 Menschen wurden verletzt, die israelische Luftverteidigung versagte bei mindestens zwei Einschlaegen.",
-              "summary": "Iranische Raketenangriffe auf die israelischen Staedte Dimona und Arad haben fast 100 Menschen verletzt, darunter mehrere Kinder in kritischem Zustand. Dimona liegt in unmittelbarer Naehe des Shimon-Peres-Kernforschungszentrums, des einzigen israelischen Nuklearwaffenstandorts. Die IAEA bestaetigt keine Schaeden an der Anlage, fordert jedoch maximale militaerische Zurueckhaltung. Israel untersucht, wie mindestens zwei Raketen die Luftabwehr durchbrachen.",
-              "gegenstimme": "Der Iran bezeichnet den Angriff als Vergeltung fuer den US-israelischen Schlag gegen die Urananreicherungsanlage Natans. Die IAEA kritisiert beide Seiten: Sowohl der Angriff auf Natans (durch die USA und Israel) als auch die iranischen Schlaege nahe Dimona verstiessen gegen das Gebot des Schutzes nuklearer Anlagen. Der Iran bestreitet, absichtlich auf die Nuklearanlage gezielt zu haben.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel"
-                },
                 {
                   "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-iran-konzentriert-das-feuer-auf-den-sueden-israels-a-ada3a0c1-bf0d-44a1-a66d-48a23b3223ff"
-                },
-                {
-                  "name": "Die Welt (Liveticker)",
-                  "url": "https://www.welt.de/politik/ausland/article69bce233ea8bf301e4ae1a85/krieg-in-nahost-48stundenfrist-trump-will-iranische-energieanlagen-zerstoeren-sollte-hormus-blockiert-bleiben-liveticker.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-kuba-dritter-blackout",
-              "slug": "kuba-dritter-blackout",
-              "title": "Kuba: Drittes landesweites Stromausfall-Desaster in wenigen Tagen",
-              "date": "2026-03-22",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🕯️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/d247ae52-2255-4d42-af37-047d5b8117f9_w520_r2.08_fpx57.9_fpy44.86.jpg",
-              "kurz": "Kubas Stromnetz ist am Samstag zum dritten Mal innerhalb eines Monats vollstaendig zusammengebrochen. Ueber 10 Millionen Menschen verloren Strom. Ursache ist eine Kombination aus maroder Infrastruktur und US-Oelembargo.",
-              "summary": "Das kubanische Energieministerium meldete am Samstagabend eine vollstaendige Abschaltung des nationalen Stromsystems – ausgeloest durch den unerwarteten Ausfall eines Generatorblocks im Thermokraftwerk Nuevitas in der Provinz Camaguey. Es ist der dritte landesweite Blackout im Maerz 2026. Kuba produziert nur etwa 40 Prozent des benoetigten Treibstoffs selbst; seit Monaten erhalt die Insel kein Oel aus dem Ausland, da Trump anderen Laendern mit Sanktionen droht, die Kuba beliefern.",
-              "gegenstimme": "Die kubanische Regierung gibt dem US-Embargo die alleinige Schuld fuer die Energiekrise. Kritiker und kubanische Dissidenten hingegen betonen, dass die marode Infrastruktur das Ergebnis jahrzehntelanger Misswirtschaft des kommunistischen Regimes ist. Das Oel-Embargo verschaerft eine bestehende strukturelle Krise, hat diese aber nicht verursacht. Trump verknuepft die Aufhebung des Embargos offen mit politischen Forderungen an Havanna – was die kubanische Fuehrung kategorisch ablehnt.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/22/cubas-power-grid-collapses-in-third-nationwide-blackout-amid-us-oil-blockade"
+                  "url": "https://www.spiegel.de/ausland/frankreich-kommunalwahlen-emmanuel-gregoire-wird-buergermeister-von-paris-rn-scheitert-in-grossstaedten-a-000409e3-a178-4fe9-8c1e-cc31eaa8e388"
                 },
                 {
                   "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo"
+                  "url": "https://www.bbc.com/news/articles/crk14m7mjddo"
                 },
-                {
-                  "name": "Die Welt",
-                  "url": "https://www.welt.de/politik/ausland/article69bf325faf187d606b80e866/blackout-energieministerium-meldet-vollstaendige-abschaltung-kuba-erneut-ohne-strom-binnen-weniger-tage.html"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/kuba-erneuter-stromausfall-verschaerft-die-krise-a-5ada6cde-edcd-492b-94b6-6050da6f26c5"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-rheinland-pfalz-landtagswahl",
-              "slug": "rheinland-pfalz-landtagswahl",
-              "title": "Landtagswahl Rheinland-Pfalz: CDU knapp vor SPD – mehrere Parteien müssen zittern",
-              "date": "2026-03-22",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🗳️",
-              "edition": "morning",
-              "image": "https://images.welt.de/69bebf4eea8bf301e4ae36e6/452e22fbbdadbcd7d50d2cc74ec6583f-master/ci23x11-w1200/dpa-com-20090101-260321-911-015263-jpg",
-              "kurz": "Rheinland-Pfalz wählt heute einen neuen Landtag. Letzte Umfragen sehen CDU mit 29 % knapp vor der regierenden SPD mit 27 %. FDP bangt um den Einzug, AfD bleibt drittstärkste Kraft.",
-              "summary": "Am Sonntag, 22. März 2026, wählt Rheinland-Pfalz einen neuen Landtag. Laut dem ZDF-Politbarometer liegt die CDU mit Spitzenkandidat Gordon Schnieder bei 29 Prozent, zwei Punkte vor Ministerpräsident Alexander Schweitzer (SPD) mit 27 Prozent. Die AfD kommt auf 19 Prozent, die Grünen auf 9 Prozent, die Linke auf 5 Prozent. FDP und Freie Wähler befinden sich nahe der 5-Prozent-Hürde. Im bundesweiten Sonntagstrend setzt sich die Union mit 26 Prozent erstmals wieder vor die AfD mit 25 Prozent.",
-              "gegenstimme": "Umfragen sind keine Resultate: In Rheinland-Pfalz hat die SPD traditionell starke Strukturen, und Ministerpräsident Schweitzer tritt als Amtsinhaber mit Bekanntheitsvorteil an. Zudem können Briefwahlstimmen das Ergebnis noch verschieben. Kleinere Parteien wie FDP oder Freie Wähler könnten überraschend doch noch den Einzug schaffen – oder knapp scheitern, was die Koalitionsarithmetik stark beeinflussen würde.",
-              "sources": [
-                {
-                  "name": "Welt – Letzte Umfrage CDU knapp vorne (Liveticker)",
-                  "url": "https://www.welt.de/politik/deutschland/article69bebf4eea8bf301e4ae36e6/landtagswahl-rheinland-pfalz-letzte-umfrage-sieht-cdu-knapp-vorne-mehrere-parteien-muessen-zittern-liveticker.html"
-                },
-                {
-                  "name": "Welt – Sonntagstrend Union vor AfD",
-                  "url": "https://www.welt.de/politik/deutschland/article69bf5ce88f5761671715b07d/sonntagstrend-union-legt-zu-und-setzt-sich-von-afd-ab-spd-gruene-und-linke-unveraendert.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-robert-mueller-gestorben",
-              "slug": "robert-mueller-gestorben",
-              "title": "Robert Mueller gestorben: Ex-FBI-Chef und Trump-Ermittler ist tot",
-              "date": "2026-03-22",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🇺🇸",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/dc198b19-379b-4939-8674-0de21f4febf9_w520_r2.08_fpx47.32_fpy54.99.jpg",
-              "kurz": "Robert Mueller, ehemaliger FBI-Direktor und Sonderermittler der Russland-Affaere, ist im Alter von 81 Jahren gestorben. Trump schrieb auf Truth Social, er sei froh ueber Muellers Tod.",
-              "summary": "Robert Mueller, ehemaliger FBI-Direktor (2001–2013) und Sonderermittler der Untersuchung russischer Einmischung in die US-Wahl 2016, ist am Freitagabend im Alter von 81 Jahren gestorben. Mueller war bekannt als dienstlanger, methodischer Staatsdiener mit parteiuebergreifendem Respekt. Trump reagierte auf Truth Social mit den Worten, er sei froh, dass Mueller tot sei. Ex-Praesident Bush und Obama wuerdigten Mueller als aussergewoehnlichen oeffentlichen Diener.",
-              "gegenstimme": "Trump und Teile der republikanischen Basis sahen Muellers Sonderermittlung stets als politisch motiviert und als ungerechtfertigte Hexenjagd. Muellers 2019 veroeffentlichter Abschlussbericht fand keine strafrechtlich relevante Absprache zwischen dem Trump-Wahlkampf und Russland – was Kritiker der Ermittlung als Beleg werteten, dass das gesamte Verfahren unverhältnismaessig war.",
-              "sources": [
                 {
                   "name": "The Guardian",
-                  "url": "https://www.theguardian.com/us-news/2026/mar/21/robert-mueller-special-counsel-trump-russia-dies"
+                  "url": "https://www.theguardian.com/world/2026/mar/22/paris-mayoral-race-socialist-emmanuel-gregoire-projected-to-win"
                 },
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/robert-mueller-ex-fbi-direktor-ist-tot-a-3c855ba3-e0ae-4a59-aecd-75bd28c8ad06"
+                  "name": "France 24",
+                  "url": "https://www.france24.com/fr/france/20260322-municipales-2026-resultats-second-tour-paris"
                 }
               ]
             },
             {
-              "id": "2026-03-22-russland-internet-zensur-verschaerft",
-              "slug": "russland-internet-zensur-verschaerft",
-              "title": "Russland verschärft Internet-Zensur: 400+ VPNs blockiert, flächendeckende Ausfälle",
-              "date": "2026-03-22",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🔒",
-              "edition": "morning",
-              "image": "",
-              "kurz": "Russland hat mehr als 400 VPN-Dienste gesperrt und damit landesweite Internet-Ausfälle ausgelöst. Die Massnahmen sind Teil einer umfassenden digitalen Abschottungsstrategie.",
-              "summary": "Die russischen Behörden haben in den vergangenen Wochen die Internet-Zensur massiv verschärft. Über 400 VPN-Dienste wurden blockiert, was zu weitreichenden Ausfällen im russischen Internet geführt hat. Betroffen sind nicht nur der Zugriff auf ausländische Nachrichtenportale, sondern auch alltägliche Dienste und der Messaging-Dienst Telegram. In über einem Dutzend Regionen verhinderten Behörden Demonstrationen gegen die Zensurpolitik. Die Massnahmen gelten als Teil der russischen Strategie zur 'digitalen Souveränität'.",
-              "gegenstimme": "Die russische Regierung begründet die Massnahmen mit nationaler Sicherheit und dem Schutz vor westlicher Informationsinfiltration. Befürworter eines staatlich kontrollierten Internets argumentieren, andere Grossmächte wie China hätten ähnliche Strukturen erfolgreich etabliert. Russische Unternehmen klagen jedoch über erhebliche wirtschaftliche Schäden durch die Ausfälle.",
-              "sources": [
-                {
-                  "name": "CNN",
-                  "url": "https://www.cnn.com/2026/03/21/europe/internet-outages-russia-digital-crackdown-intl-cmd"
-                },
-                {
-                  "name": "Reuters",
-                  "url": "https://www.reuters.com/world/europe/great-crackdown-russia-tightens-screws-internet-2026-03-20/"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-sudan-krankenhaus-angriff-64-tote",
-              "slug": "sudan-krankenhaus-angriff-64-tote",
-              "title": "Sudan: Luftangriff auf Lehrkrankenhaus tötet 64 Menschen, darunter 13 Kinder",
-              "date": "2026-03-22",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🏥",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/149a913d-e657-4e32-8e49-82a77d56fb42_w520_r2.08_fpx36.01_fpy50.jpg",
-              "kurz": "Ein Drohnenangriff auf das Lehrkrankenhaus El-Daein in Ost-Darfur hat mindestens 64 Menschen getötet, darunter 13 Kinder und medizinisches Personal. Die WHO verurteilte den Angriff scharf.",
-              "summary": "Am Freitagabend wurde das Lehrkrankenhaus El-Daein in der Stadt El-Daein, Hauptstadt des sudanesischen Teilstaates Ost-Darfur, durch einen Drohnenangriff zerstört. Die Weltgesundheitsorganisation bestätigte mindestens 64 Tote und 89 Verletzte. Unter den Opfern waren 13 Kinder sowie Patienten und medizinisches Personal. Das Krankenhaus ist nicht mehr funktionsfähig. Die sudanesische NGO Emergency Lawyers macht die Armee des sudanesischen De-facto-Machthabers Abdel-Fattah al-Burhan für den Angriff verantwortlich.",
-              "gegenstimme": "Die sudanesische Armee hat sich bisher nicht zu dem Angriff geäussert. Die WHO benennt keine Schuldigen, da sie keine Ermittlungsbehörde ist. Beide Konfliktparteien – Armee und RSF – haben sich im Verlauf des Krieges Angriffe auf Zivilisten und zivile Infrastruktur vorwerfen lassen müssen.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports"
-                },
-                {
-                  "name": "Welt",
-                  "url": "https://www.welt.de/politik/ausland/article69bf3bcbaf187d606b80e88d/laut-who-mehr-als-60-tote-bei-angriff-auf-lehrkrankenhaus-im-sudan-13-kinder-unter-den-opfern.html"
-                },
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/sudan-mehr-als-60-tote-bei-drohnenangriff-auf-lehrkrankenhaus-in-ost-darfur-a-c1f6e51b-b1fe-4752-a773-013c17ee5c7d"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-trump-iran-48h-ultimatum",
-              "slug": "trump-iran-48h-ultimatum",
-              "title": "Trump setzt Iran 48-Stunden-Ultimatum zur Oeffnung der Strasse von Hormus",
-              "date": "2026-03-22",
+              "id": "2026-03-23-iran-krieg-trump-ultimatum",
+              "slug": "iran-krieg-trump-ultimatum",
+              "title": "Iran-Krieg: Trumps 48-Stunden-Ultimatum läuft ab – IEA warnt vor schlimmster Energiekrise seit Jahrzehnten",
+              "date": "2026-03-23",
               "time": "07:00",
               "category": "international",
               "icon": "🌍",
               "edition": "morning",
-              "image": "https://images.welt.de/69bce233ea8bf301e4ae1a85/23f2d6a0088e59b2ee7c4de71013291b/ci23x11-w1200/dpa-com-20090101-260320-99-898060-jpg",
-              "kurz": "Trump droht dem Iran mit der Zerstoerung seiner Kraftwerke, falls Teheran die Strasse von Hormus nicht innerhalb von 48 Stunden vollstaendig oeffnet. Der Iran kontert mit Drohungen gegen US-Infrastruktur in der Golfregion.",
-              "summary": "US-Praesident Donald Trump hat dem Iran via Truth Social ein 48-Stunden-Ultimatum gestellt: Oeffne Iran die Strasse von Hormus nicht, werden die USA iranische Energieanlagen angreifen und zerstoeren. Der Iran drohte seinerseits mit Vergeltungsschlaegen gegen alle US-Energie- und Entsalzungsinfrastruktur am Golf. Israels Verteidigungsminister Katz kuendigte gleichzeitig eine deutliche Intensivierung der Angriffe gegen den Iran an. Saudi-Arabien meldete den Abschuss einer und den Einschlag zweier Raketen nahe Riad.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass Trump selbst noch am Freitag eine Deeskalation angedeutet hatte. Die Eigendynamik des Krieges – mit Israel, das eigenstaendig weiter eskaliert – scheint Trumps tatsaechlichen Handlungsspielraum zu beschraenken. Grossbritannien lehnt Angriffe von seinen Militaerstuetzpunkten auf Zypern und Diego Garcia aus ab. Iran-Aussenminister Araghchi hatte noch drei Tage vor Kriegsbeginn versichert, die Raketenreichweite sei bewusst auf unter 2000 km begrenzt – die Attacke auf Diego Garcia (4000 km) widererlegt das offen.",
+              "image": "https://cdn.prod.www.spiegel.de/images/4dd6b465-f8d0-4f94-afc9-1d178ff680eb_w520_r2.08_fpx34_fpy56.jpg",
+              "kurz": "Trump hat dem Iran 48 Stunden gegeben, die Strasse von Hormuz zu öffnen – sonst droht er mit Angriffen auf iranische Energieanlagen. IEA-Chef Birol warnt vor der schwersten Energiekrise seit den 1970er-Jahren.",
+              "summary": "US-Präsident Trump stellte dem Iran am Samstag ein 48-Stunden-Ultimatum: Wird die Strasse von Hormuz nicht freigegeben, will Washington iranische Kraftwerke bombardieren. Teheran drohte seinerseits, Energie- und Wasserinfrastruktur der Golfnachbarn anzugreifen. Der IEA-Chef warnt, der aktuelle Energieausfall übersteffe die Ölkrisen von 1973 und 1979 sowie die Gaskrise nach dem Ukraine-Krieg zusammengenommen. Israel kündigt an, die Bodeneinsätze im Libanon noch wochenlang fortzusetzen.",
+              "gegenstimme": "Kritiker – auch aus dem konservativen amerikanischen Lager – bezweifeln, dass Trump mit seinem Ultimatum tatsächlich eine Lösung erzwingen kann. Die NZZ-Analyse zeigt: Iran hält derzeit die Eskalationsdominanz. Bombardierungen von Kraftwerken würden primär die Zivilbevölkerung treffen, ohne die Blockade der Meerenge aufzuheben. Teheran hat zudem eigene Ölexporte durch die Strasse von Hormuz aufrechterhalten, was Trumps Darstellung widerspricht.",
               "sources": [
                 {
-                  "name": "Die Welt (Liveticker)",
-                  "url": "https://www.welt.de/politik/ausland/article69bce233ea8bf301e4ae1a85/krieg-in-nahost-48stundenfrist-trump-will-iranische-energieanlagen-zerstoeren-sollte-hormus-blockiert-bleiben-liveticker.html"
+                  "name": "Der Spiegel – Iran-News heute",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-donald-trump-nennt-praesidenten-von-israel-einen-jaemmerlichen-kerl-a-f26eb84b-d852-4a02-bf09-93f093fc5b72"
+                },
+                {
+                  "name": "NZZ – Trump bleiben zwei Optionen",
+                  "url": "https://www.nzz.ch/international/trump-bleiben-im-iran-krieg-zwei-optionen-eskalation-oder-niederlage-ld.1930451"
+                },
+                {
+                  "name": "The Guardian – Middle East crisis live",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined"
+                },
+                {
+                  "name": "SWI swissinfo.ch – Neutral im Iran-Krieg",
+                  "url": "https://www.swissinfo.ch/ger/schweizer-diplomatie/neutral-im-iran-krieg/91110874"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-muenchen-gruener-ob",
+              "slug": "muenchen-gruener-ob",
+              "title": "München wählt erstmals grünen Oberbürgermeister: Dominik Krause gewinnt deutlich",
+              "date": "2026-03-23",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🇩🇪",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/3LyFwPVLKSeA4fB2eDVGU-.jpg",
+              "kurz": "Dominik Krause (Grüne) gewinnt die Münchner OB-Stichwahl mit 56,4 Prozent und wird erster grüner Oberbürgermeister der bayerischen Landeshauptstadt.",
+              "summary": "Bei der Stichwahl um das Oberbürgermeisteramt in München am 22. März 2026 gewann der 35-jährige Dominik Krause (Grüne) mit 56,4 Prozent der Stimmen klar gegen den langjährigen SPD-Amtsinhaber Dieter Reiter (67), der auf 43,6 Prozent kam. Krause wird damit der erste grüne Oberbürgermeister in der Geschichte Münchens. Die Wahlbeteiligung lag bei 44,5 Prozent, rund 61 Prozent der Stimmen wurden per Briefwahl abgegeben.",
+              "gegenstimme": "Krauses Sieg ist in einem von der CSU dominierten Bayern ein aussergewöhnliches Signal – aber auch ein Stadtphänomen. München ist jung, akademisch geprägt und kosmopolitisch, was grüne Politik bevorteilt. Konservative Kritiker bemängeln, die Grünen hätten in München bereits als Koalitionspartner mitregiert und seien mitverantwortlich für steigende Mietpreise und teure Stadtpolitik. Reiter, obwohl persönlich beliebt, litt unter dem bundesweiten Absturz der SPD. Ob Krause die strukturellen Probleme – Wohnungsnot, Verkehr, Kosten – wirklich lösen kann, bleibt offen.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/muenchen-dominik-krause-wird-erster-gruener-oberbuergermeister-810111962165"
+                },
+                {
+                  "name": "BR24",
+                  "url": "https://www.br.de/nachrichten/bayern/kommunalwahl-bayern-2026-krause-fuehrt-bei-stichwahl-in-muenchen-vor-reiter,VEc0boc"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/news/2026-03/22/gruenen-kandidat-krause-bei-muenchner-ob-wahl-vorne"
+                },
+                {
+                  "name": "Süddeutsche Zeitung",
+                  "url": "https://www.sueddeutsche.de/muenchen/muenchen-oberbuergermeister-stichwahl-reiter-krause-kommunalwahl-2026-liveticker-li.3453752"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-rheinland-pfalz-wahl",
+              "slug": "rheinland-pfalz-wahl",
+              "title": "Rheinland-Pfalz: CDU gewinnt – AfD erzielt bestes Ergebnis in westdeutschem Bundesland",
+              "date": "2026-03-23",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🇩🇪",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/16d59579-e778-4273-8303-499e7d1fc855_w520_r2.08_fpx72_fpy54.jpg",
+              "kurz": "CDU gewinnt erstmals seit 35 Jahren die Landtagswahl in Rheinland-Pfalz. Die AfD erzielt mit 19,5 Prozent ihr bestes Ergebnis in einem westdeutschen Bundesland, die FDP fliegt aus dem Landtag.",
+              "summary": "Bei der Landtagswahl in Rheinland-Pfalz vom 22. März 2026 errang die CDU mit 31,0 Prozent den Wahlsieg – das erste Mal seit 35 Jahren. Die SPD stürzte auf ihr historisches Tief von 25,9 Prozent. Die AfD verdoppelte ihren Stimmenanteil auf 19,5 Prozent und erzielte damit ihr bestes je gemessenes Ergebnis bei einer Landtagswahl in einem westdeutschen Bundesland. Die FDP scheiterte klar an der Fünfprozenthürde und verlässt den Landtag. Erwartet wird eine CDU/SPD-Koalition unter Gordon Schnieder.",
+              "gegenstimme": "Der CDU-Sieg ist weniger ein Ausdruck von programmatischer Begeisterung als ein Protest gegen die amtierende SPD-Landesregierung und deren bundespolitische Verbindung zur schwächelnden Berliner Koalition. Die AfD profitiert von realen Sorgen über Arbeitsplatzabbau in einer strukturschwachen Region – ihre Wählerinnen und Wähler pauschal als politisch unzurechnungsfähig abzustempeln, hilft der demokratischen Debatte nicht weiter. Die SPD muss sich fragen, warum Ministerpräsident Schweitzer trotz persönlich guter Umfragewerte das Ruder nicht herumreissen konnte.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-vorlaeufiges-endergebnis-cdu-ist-wahlsieger-afd-gewinnt-stimmen-hinzu-a-3688d674-189b-4043-a38d-ed693bea334b"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-cdu-stuerzt-spd-die-fuenf-lehren-der-wahl-in-rheinland-pfalz/100209460.html"
                 },
                 {
                   "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-wegen-strasse-von-hormus-trump-droht-mit-attacken-auf-kraftwerke"
-                },
-                {
-                  "name": "The Guardian (Live)",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/iran-greift-britische-basis-diego-garcia-in-4000-kilometern-entfernung-an-ld.1930436"
+                  "url": "https://www.srf.ch/news/international/wahlen-in-rheinland-pfalz-cdu-neu-staerkste-kraft-vor-spd-afd-mit-grossen-zugewinnen"
                 }
               ]
             },
             {
-              "id": "2026-03-22-ukraine-friedensgespraeche-florida",
-              "slug": "ukraine-friedensgespraeche-florida",
-              "title": "Ukraine: US- und Kyiv-Unterhändler treffen sich in Florida zu Friedensgesprächen",
-              "date": "2026-03-22",
+              "id": "2026-03-23-slowenien-wahl-golob",
+              "slug": "slowenien-wahl-golob",
+              "title": "Slowenien: Golob gewinnt knapp – verliert aber Regierungsmehrheit",
+              "date": "2026-03-23",
               "time": "07:00",
               "category": "international",
-              "icon": "🕊️",
+              "icon": "🇸🇮",
               "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/22/51a5e61f-4381-4b57-948d-79c828da6435.jpg",
-              "kurz": "Amerikanische und ukrainische Unterhändler haben sich am Samstag in Florida zu neuen Friedensgesprächen getroffen – ohne russische Beteiligung. Russland setzte seine Angriffe auf ukrainische Städte fort.",
-              "summary": "In Florida trafen sich am Samstag ukrainische und amerikanische Verhandlungsführer zur bislang jüngsten Runde von Friedensgesprächen über den Ukraine-Krieg. Russland nahm nicht teil. Der ukrainische Chefunterhändler Rustem Umerov sprach von konstruktiven Diskussionen über nächste Schritte. Das Weisse Haus bezeichnete die Treffen als 'konstruktiv' und erklärte, die Parteien arbeiteten an einem umfassenden Friedensabkommen. Zeitgleich töteten russische Angriffe vier Zivilisten in der Südukraine und legten Teile der Stromversorgung in der Region Chernihiv lahm.",
-              "gegenstimme": "Russland nimmt an den US-ukrainischen Gesprächen nicht teil – Moskau besteht auf direkten bilateralen Verhandlungen zu seinen Bedingungen. Kritiker in Kyiv warnen, dass ohne russische Teilnahme und ohne militärischen Druck auf Moskau kein tragfähiges Abkommen möglich sei. Zelenskyy selbst äusserte Skepsis: Er glaubt, Putin wolle den Konflikt in die Länge ziehen, um einen Dauerstreit zwischen den USA und dem Iran zu provozieren.",
+              "image": "https://cdn.prod.www.spiegel.de/images/4caa3ccf-b214-492c-a205-89c51b6043ab_w520_r2.08_fpx56.66_fpy45.jpg",
+              "kurz": "Sloweniens Ministerpräsident Robert Golob gewinnt die Parlamentswahl äusserst knapp, verliert aber mit seinen linken Koalitionspartnern die Mehrheit. Weder der linke noch der rechte Block hat genug Sitze für eine stabile Regierung.",
+              "summary": "Bei der slowenischen Parlamentswahl vom 22. März 2026 hat Golobs sozialliberale Freiheitsbewegung mit 28.6% knapp vor der rechtskonservativen SDS von Ex-Premier Janez Jansa (28%) gewonnen. Zusammen mit den Koalitionspartnern SD (6.7%) und Levica (5.6%) verfügt Golob aber nur über 40 Mandate – weit von der nötigen Mehrheit von 46 Sitzen entfernt. Jansa kündigte an, das Ergebnis anfechten zu wollen. Erstmals zog auch die ultrarechte Partei Resni.ca ins Parlament ein.",
+              "gegenstimme": "Jansa und seine rechtskonservative SDS interpretieren das Ergebnis nicht als Niederlage: Der Abstand zu Golob beträgt weniger als einen Prozentpunkt, und die neue Partei Demokraten von Anze Logar – einem ehemaligen Jansa-Verbündeten – könnte bei der Regierungsbildung als Zünglein an der Waage fungieren. Logar positioniert sich als «dritte Kraft», würde aber nach Einschätzung von Beobachtern eher Jansa als Golob unterstützen.",
               "sources": [
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/22/ukraine-war-briefing-us-ukrainian-negotiators-meet-in-florida-as-russian-attacks-kill-more-civilians"
+                  "name": "Der Spiegel – Slowenien-Wahl: Golob verliert Regierungsmehrheit",
+                  "url": "https://www.spiegel.de/ausland/slowenien-sozialliberale-regierungspartei-fuehrt-bei-parlamentswahl-a-01c48ceb-94bf-42f5-afcb-0f3bdee1dfbd"
                 },
                 {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/war-in-ukraine"
+                  "name": "SRF News – Knapper Wahlsieg für Golob",
+                  "url": "https://www.srf.ch/news/international/parlamentswahlen-knapper-wahlsieg-fuer-sloweniens-regierungschef-golob"
                 }
               ]
             },
             {
-              "id": "2026-03-22-us-shutdown-trump-ice-flughaefen",
-              "slug": "us-shutdown-trump-ice-flughaefen",
-              "title": "US-Shutdown: Trump droht mit ICE an Flughaefen – Musk will TSA-Gehaelter zahlen",
-              "date": "2026-03-22",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🛑",
-              "edition": "morning",
-              "image": "https://images.welt.de/69bf2fd58f5761671715affe/b210c43e7bea3b960d7d89ba08d2353d-master/ci23x11-w1200/dpa-com-20090101-260321-99-899010-jpg",
-              "kurz": "Der Streit um die Finanzierung des US-Heimatschutzministeriums eskaliert: Trump droht ab Montag mit dem Einsatz von ICE-Agenten als Flughafensicherheit. Elon Musk bietet an, die Gehaelter der unbezahlten TSA-Mitarbeiter zu uebernehmen.",
-              "summary": "Seit Mitte Februar ist das US-Heimatschutzministerium (DHS) ohne Finanzierung, nachdem der Kongress fuenf Mal keinen Kompromiss erzielte. Tausende TSA-Mitarbeiter arbeiten seit ueber einem Monat ohne Lohn. Trump drohte am Samstag, ab Montag Einwanderungsbehoerde ICE an Flughaefen einzusetzen, falls die Demokraten kein Abkommen unterzeichnen. Elon Musk bot via X an, die Gehaelter der TSA-Mitarbeiter waehrend des Shutdowns zu uebernehmen.",
-              "gegenstimme": "Die Demokraten blockieren die DHS-Finanzierung nicht grundlos: Sie fordern Reformen bei ICE, nachdem Bundesagenten bei Einwanderungsrazzien in Minneapolis zwei Protestierende toeteten. ICE-Agenten sind fuer Flughafensicherheit weder ausgebildet noch zustaendig – Sicherheitsexperten halten den Einsatz fuer ungeeignet. Gewerkschafter kritisieren, dass TSA-Mitarbeiter mit leeren Bankkonten arbeiten muessen, waehrend Politikstreit auf ihrem Ruecken ausgetragen wird.",
-              "sources": [
-                {
-                  "name": "Die Welt",
-                  "url": "https://www.welt.de/politik/ausland/article69bf2fd58f5761671715affe/shutdown-in-usa-macht-euch-bereit-trump-erwaegt-ice-einsatz-musk-will-gehaelter-von-mitarbeitern-uebernehmen.html"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c3ex9nq2qywo"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-titlis-unfall-sicherheit-abgelehnt",
-              "slug": "titlis-unfall-sicherheit-abgelehnt",
-              "title": "Titlis-Gondelunglück: Sicherheitsnachrüstung war angeboten worden – und wurde abgelehnt",
-              "date": "2026-03-22",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🚡",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/APtkuBBx4hG9tqxGE2G_Ta.jpg",
-              "kurz": "Am Titlis stürzte eine Gondel ab – eine 61-jährige Frau starb. Nun zeigt sich: Warnungen zu Klemmenmängeln lagen seit 2021 vor, eine Nachrüstung wurde nicht konsequent umgesetzt.",
-              "summary": "Am 18. März 2026 löste sich im Skigebiet Engelberg-Titlis bei Böen bis 105 km/h eine Gondel vom Seil. Eine 61-jährige Frau kam ums Leben. Die Schweizerische Sicherheitsuntersuchungsstelle Sust hatte bereits 2021 nach dem Unglück am Lago Maggiore auf Sicherheitsdefizite bei bestimmten Klemmentypen des Herstellers Doppelmayr Garaventa hingewiesen. Ob die Titlis Bergbahnen eine angebotene Sicherheitsnachrüstung abgelehnt haben, ist Gegenstand laufender Ermittlungen. Der Unfall ereignete sich laut Verwaltungsratspräsident Hans Wicki ausgerechnet während eines Vorgangs, bei dem Mitarbeiter die Gondeln wegen des starken Windes in Sicherheit bringen wollten.",
-              "gegenstimme": "Die Sust erklärte nach ersten Untersuchungen, sie sehe keinen Anlass für Sofortmassnahmen beim betroffenen Seilbahntyp und gehe nicht von einem systematischen Klemmenproblem aus. CEO Norbert Patt betonte, das System werde weltweit tausendfach eingesetzt und die letzte Revision im September 2025 sei ohne Auflagen bestanden.",
-              "sources": [
-                {
-                  "name": "20 Minuten – Was wir bisher wissen",
-                  "url": "https://www.20min.ch/story/engelberg-titlis-gondelabsturz-reisst-frau-in-den-tod-was-wir-bisher-wissen-103529292"
-                },
-                {
-                  "name": "20 Minuten – War die Klemme schuld?",
-                  "url": "https://www.20min.ch/story/gondelabsturz-titlis-war-die-klemme-schuld-103529487"
-                },
-                {
-                  "name": "20 Minuten – Böen bis 100 km/h, warum blieb die Bahn offen?",
-                  "url": "https://www.20min.ch/story/meteorologe-boeen-bis-100-kmh-erwartet-warum-blieb-die-bergbahn-offen-103528894"
-                },
-                {
-                  "name": "Blick – VR-Präsident der Titlisbahnen",
-                  "url": "https://www.blick.ch/politik/vr-praesident-der-titlisbahnen-zum-gondel-horror-es-passierte-als-mitarbeiter-die-kabine-abhaengen-wollten-id21796010.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-ukraine-fluechtlinge-300-mio-mehrkosten",
-              "slug": "ukraine-fluechtlinge-300-mio-mehrkosten",
-              "title": "Ukraine-Flüchtlinge: Kantone vor 300 Millionen Franken Mehrkosten – Bund zieht sich zurück",
-              "date": "2026-03-22",
+              "id": "2026-03-23-on-running-swissness",
+              "slug": "on-running-swissness",
+              "title": "On gewinnt Swissness-Streit: Bund lockert Regeln für Schweizer Kreuz",
+              "date": "2026-03-23",
               "time": "07:00",
               "category": "schweiz",
               "icon": "🇨🇭",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/E19qTBhiaw-Ai5Kabfi-bL.jpg",
-              "kurz": "Mit dem Auslaufen des Sonderprogramms für ukrainische Schutzbedürftige trägt der Bund weniger Kosten – die Kantone erben rund 300 Millionen Franken Mehrkosten pro Jahr.",
-              "summary": "Ab 2026 gilt für rund 30'000 ukrainische Schutzbedürftige in der Schweiz die reguläre kantonale Sozialhilfe statt des günstigeren Asylsozialhilfe-Satzes. Der Schutzstatus S wurde zuletzt bis März 2027 verlängert, doch der Bund hat seine Pauschalbeiträge an die Kantone reduziert. Für die Kantone bedeutet die Gleichstellung mit der regulären Sozialhilfe Mehrkosten von schätzungsweise 300 Millionen Franken jährlich. Kritiker bemängeln, dass der Bund sich aus der Finanzierung zurückzieht, während die Kantone die Hauptlast tragen.",
-              "gegenstimme": "Befürworter der Gleichstellung argumentieren, dass eine Zweiklassensozialhilfe – günstigere Ansätze für Schutzbedürftige, höhere für Schweizerinnen – sozialrechtlich nicht haltbar ist. Eine faire Behandlung aller Sozialhilfebeziehenden stärke letztlich auch die gesellschaftliche Akzeptanz. Zudem verbessere die Gleichstellung die Integrationschancen der Betroffenen.",
+              "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+              "kurz": "Der Schuhhersteller On darf künftig das Schweizerkreuz auf seinen Produkten tragen – auch wenn diese in Asien produziert werden. Das Institut für Geistiges Eigentum hat seine langjährige Praxis angepasst.",
+              "summary": "Nach jahrelangem Streit zwischen On und dem Eidgenössischen Institut für Geistiges Eigentum (IGE) hat der Bund seine Auslegungspraxis zu den Swissness-Regeln gelockert. Produkte, die in der Schweiz entwickelt, aber im Ausland hergestellt werden, dürfen unter strengen Bedingungen neu das Schweizerkreuz tragen. Die Praxisänderung gilt grundsätzlich für die gesamte Schweizer Industrie, nicht nur für On. Kritiker befürchten jedoch eine Verwässerung des Swissness-Labels.",
+              "gegenstimme": "Traditionsverbände wie die Uhrenindustrie pochten bisher auf strikte Swissness-Regeln und sehen die Verwässerung des Labels kritisch. Einzelne Gerichte können die neue Praxis des IGE weiterhin anfechten – die Rechtssicherheit bleibt damit eingeschränkt.",
               "sources": [
                 {
-                  "name": "Berner Zeitung – Ukraine-Flüchtlinge 300 Mio. Mehrkosten",
-                  "url": "https://www.bernerzeitung.ch/ukraine-fluechtlinge-300-millionen-franken-mehrkosten-fuer-kantone-367165455239"
-                },
-                {
-                  "name": "Der Bund – Ukraine-Flüchtlinge 300 Mio. Mehrkosten",
-                  "url": "https://www.derbund.ch/ukraine-fluechtlinge-300-millionen-franken-mehrkosten-fuer-kantone-367165455239"
-                },
-                {
-                  "name": "SKOS – Schutzstatus S",
-                  "url": "https://skos.ch/themen/gefluechtete-aus-der-ukraine"
-                },
-                {
-                  "name": "NZZ – Bundesrat verlängert Schutzstatus S",
-                  "url": "https://www.nzz.ch/schweiz/der-bundesrat-verlaengert-den-schutzstatus-s-fuer-ukrainer-bis-2026-ld.1846834"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/on-gewinnt-den-swissness-streit-bund-lockert-die-regeln-fuer-die-verwendung-des-schweizerkreuzes-ld.1930422"
                 }
               ]
             },
             {
-              "id": "2026-03-22-museumsnacht-bern-100000",
-              "slug": "museumsnacht-bern-100000",
-              "title": "Museumsnacht Bern: 100'000 Besucher feiern die 24. Ausgabe",
-              "date": "2026-03-22",
+              "id": "2026-03-23-schweiz-armeebotschaft-2026",
+              "slug": "schweiz-armeebotschaft-2026",
+              "title": "Bundesrat verabschiedet Armeebotschaft 2026: 3.4 Milliarden für Drohnenabwehr und Luftverteidigung",
+              "date": "2026-03-23",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🛡️",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/03/20/97f8e478-ecab-4a70-af3c-5f0c5496c21f.jpg",
+              "kurz": "Der Bundesrat hat die Armeebotschaft 2026 mit einem Volumen von 3,4 Milliarden Franken verabschiedet. Schwerpunkt ist die Stärkung der Luftabwehr – von Drohnenjammern bis zu neuen Mittelstreckenraketen.",
+              "summary": "Die Armeebotschaft 2026 sieht Rüstungskäufe im Umfang von 3,4 Milliarden Franken vor. Fast zwei Milliarden Franken fliessen in die Luftabwehr: zwei weitere IRIS-T-Systeme, neue Nahbereichs-Geschütze von Rheinmetall sowie Drohnenabwehr mit Jammern und Lasern. Die F-35-Kampfjets werden teurer als geplant, worauf der Bundesrat zusätzliche 394 Millionen Franken beantragt. Das Parlament soll die Botschaft in der Sommer- oder Herbstsession 2026 behandeln.",
+              "gegenstimme": "Linke und pazifistische Kreise kritisieren die rasant steigenden Militärausgaben und fordern eine stärkere parlamentarische Kontrolle. Die freihändige Vergabe des Nahbereichs-Geschütz-Auftrags an Rheinmetall ohne Ausschreibung wirft Fragen zur Transparenz auf. Zudem zeigt die F-35-Kostensteigerung, dass grosse Rüstungsprojekte regelmässig teurer werden als budgetiert.",
+              "sources": [
+                {
+                  "name": "20 Minuten – Armeebotschaft 2026",
+                  "url": "https://www.20min.ch/story/armeebotschaft-drohnen-killer-co-pfister-will-34-milliarden-fuer-die-armee-103530232"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-schweiz-neutralitaet-iran",
+              "slug": "schweiz-neutralitaet-iran",
+              "title": "Schweizer Neutralität im Iran-Krieg: Gute Dienste gefordert, Energie-Versorgung gesichert",
+              "date": "2026-03-23",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/4dd6b465-f8d0-4f94-afc9-1d178ff680eb_w520_r2.08_fpx34_fpy56.jpg",
+              "kurz": "Die Schweiz hält an ihrer Neutralität im Iran-Konflikt fest, stoppt Waffenlieferungen an Kriegsparteien und bietet diplomatische Gute Dienste an. Die Öl- und Gasversorgung bleibt trotz der Lage im Nahen Osten gesichert.",
+              "summary": "Der Iran-Krieg stellt die Schweizer Neutralitätspolitik vor eine Bewährungsprobe. Aussenminister Cassis betont die konsequente Haltung der Schweiz: kein Kriegsmaterial an Konfliktparteien, Offenheit für diplomatische Vermittlung. Gleichzeitig sieht sich die Rüstungsindustrie mit einem Exportverbot in die USA konfrontiert, was wirtschaftliche Konsequenzen hat. Die Energieversorgung der Schweiz gilt trotz des Konflikts als gesichert, da das Land seine Importquellen diversifiziert hat.",
+              "gegenstimme": "Rüstungsunternehmen warnen vor wirtschaftlichen Schäden durch das Exportverbot. Lobbyisten sagen, der US-Markt werde «kaputt» gemacht, wenn jede Einzelausfuhr genehmigungspflichtig wird. Kritiker bezweifeln zudem, ob die Schweizer Neutralität im heutigen geopolitischen Umfeld noch glaubwürdig ist – die gleichzeitige Nähe zu westlichen Sanktionen gegen Russland zeige Widersprüche.",
+              "sources": [
+                {
+                  "name": "SWI swissinfo.ch – Neutral im Iran-Krieg",
+                  "url": "https://www.swissinfo.ch/ger/schweizer-diplomatie/neutral-im-iran-krieg/91110874"
+                },
+                {
+                  "name": "SWI swissinfo.ch – Gute Dienste Bilanz",
+                  "url": "https://www.swissinfo.ch/ger/aussenpolitik/der-iran-krieg-und-die-guten-dienste-der-schweiz-eine-bilanz/91105120"
+                },
+                {
+                  "name": "SWI swissinfo.ch – Energieversorgung gesichert",
+                  "url": "https://www.swissinfo.ch/ger/klimaanpassung/warum-die-%c3%b6l-und-gasversorgung-der-schweiz-trotz-des-kriegs-im-iran-gesichert-ist/91111209"
+                },
+                {
+                  "name": "Euronews – Schweiz stoppt Waffenlieferungen",
+                  "url": "https://de.euronews.com/2026/03/21/iran-schweiz-waffenlieferung-usa"
+                },
+                {
+                  "name": "Weltwoche – Cassis zur Neutralität",
+                  "url": "https://weltwoche.de/daily/neutralitaetsinitiative-entfaltet-jetzt-schon-wirkung-im-iran-krieg-laesst-aussenminister-cassis-keine-zweifel-an-der-position-der-schweiz-aufkommen/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-bern-seen-schadstoffe",
+              "slug": "bern-seen-schadstoffe",
+              "title": "Pestizide, Algen, Ewigkeitschemikalien: Kleine Seen im Kanton Bern unter Druck",
+              "date": "2026-03-23",
               "time": "07:00",
               "category": "regional",
-              "icon": "🎨",
+              "icon": "🌊",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/DdasQDolKzj9P8Hdm2CnoY.jpg",
-              "kurz": "Die 24. Museumsnacht Bern vom 20. März 2026 zog über 102'000 Eintritte in rund 40 Institutionen an – begünstigt durch frühlingshaftes Wetter und ein vielfältiges Programm.",
-              "summary": "Am Freitagabend, 20. März 2026, öffneten rund 40 Museen, Bibliotheken, Archive und Kulturorte in Bern ihre Türen für die 24. Museumsnacht. Zwischen 18.00 und 02.00 Uhr wurden insgesamt 102'993 Eintritte gezählt. Frühlingshaftes Wetter begünstigte den Abend, das Programm reichte von Geisterbahnen im Botanischen Garten bis zu einem Rave in der Mobiliar. Die Veranstaltung hat sich als fester Bestandteil des Berner Kulturlebens etabliert.",
-              "gegenstimme": "Trotz des Rekordinteresses merken Kritikerinnen an, dass bei einer Stadtbevölkerung von bald zehn Millionen in der Schweiz die Besucherzahl zwar beeindruckend, aber auch relativiert werden könne. Zudem bleibt die Frage, ob das Event auch jene Bevölkerungsgruppen erreicht, die normalerweise keine Museen besuchen – oder ob es primär dem bereits kulturaffinen Publikum dient.",
+              "image": "https://cdn.unitycms.io/images/6jJVE88nakKB3z0fiZJ3vx.jpg",
+              "kurz": "Zehn Kleinseen im Kanton Bern sind übermässig mit Nährstoffen belastet und weisen in allen Fällen Pestizide sowie PFAS-Ewigkeitschemikalien auf. Nur der Oeschinensee gilt als weitgehend gesund.",
+              "summary": "Eine Untersuchung des Kantons Bern aus dem Jahr 2023 zeigt, dass die meisten der zehn untersuchten Kleinseen zu hohe Nährstoffkonzentrationen aufweisen, was zu Algenblüten und Sauerstoffmangel führt. In allen Seen wurden zudem Mikroverunreinigungen wie Pestizide, Haushaltschemikalien und PFAS nachgewiesen. Der Lobsigensee steht unter besonderem Druck durch die umgebende Landwirtschaft, während beim Moossee eine alte Deponie als Belastungsquelle diskutiert wird. Der Oeschinensee im Berner Oberland schneidet am besten ab.",
+              "gegenstimme": "Der Bauernverband betont, die Landwirtschaft habe in den letzten Jahren erhebliche Investitionen in den Gewässerschutz getätigt. Massnahmen wie Pufferstreifen entlang von Gewässern zeigten erste Wirkung. Eine vollständige Wiederherstellung der Wasserqualität sei jedoch ein Generationenprojekt und setze neben landwirtschaftlichen Anpassungen auch Massnahmen bei Siedlungen, Verkehr und Altlasten voraus.",
               "sources": [
                 {
-                  "name": "nau.ch – Museumsnacht Bern über 100000 Besucher",
-                  "url": "https://www.nau.ch/news/schweiz/museumsnacht-bern-zieht-uber-100000-besucher-an-67108372"
+                  "name": "Der Bund / Berner Zeitung",
+                  "url": "https://www.derbund.ch/pestizide-schadstoffe-belasten-kleine-seen-im-kanton-bern-232522627479"
                 },
                 {
-                  "name": "Der Bund – Museumsnacht Bern 24. Ausgabe",
-                  "url": "https://www.derbund.ch/museumsnacht-bern-ueber-100000-besucher-bei-24-ausgabe-507766026413"
+                  "name": "neo1 Radio – Berner Kleinseen",
+                  "url": "https://www.neo1.ch/artikel/berner-kleinseen-weiterhin-zu-naehrstoffreich"
                 },
                 {
-                  "name": "Museumsnacht Bern – Website",
-                  "url": "https://www.museumsnacht-bern.ch/"
+                  "name": "SWI swissinfo.ch",
+                  "url": "https://www.swissinfo.ch/ger/berner-kleinseen-weiterhin-zu-n%C3%A4hrstoffreich/91063732"
                 }
               ]
             },
             {
-              "id": "2026-03-22-energiepreise-iran-krieg-strom-oel",
-              "slug": "energiepreise-iran-krieg-strom-oel",
-              "title": "Iran-Krieg treibt Energiepreise: Öl über 100 Dollar, Strom +15%, Diesel kratzt Allzeithoch",
-              "date": "2026-03-22",
+              "id": "2026-03-23-maerkte-oel-iran",
+              "slug": "maerkte-oel-iran",
+              "title": "Märkte unter Druck: Ölpreis über 113 Dollar – SMI, DAX und Nikkei im Minus",
+              "date": "2026-03-23",
               "time": "07:00",
               "category": "wirtschaft",
-              "icon": "⛽",
+              "icon": "📉",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/7779fa6e-e7f9-4ddc-a92a-f9f8dd7ca10a_w520_r2.08_fpx57.99_fpy55.jpg",
-              "kurz": "Der Krieg gegen den Iran und die Blockade der Strasse von Hormus haben den Ölpreis über 100 Dollar getrieben. Diesel kratzt in Deutschland am Allzeithoch, Strom verteuert sich um rund 15 Prozent.",
-              "summary": "Der Iran-Krieg hat die Energiemärkte in eine neue Krise gestürzt. Der Ölpreis liegt über 100 US-Dollar pro Barrel – befeuert durch die Blockade der Strasse von Hormus und Angriffe auf kritische Energieinfrastruktur, darunter die katarische LNG-Anlage Ras Laffan. In Deutschland kostete ein Liter Diesel am Freitag 2,29 Euro, nur 3 Cent unter dem Allzeithoch von 2022. Strom verteuert sich durch teureres Gas um rund 15 Prozent. Experten warnen vor einer ernsthaften Wirtschaftskrise mit steigenden Lebensmittelpreisen und drohenden Entlassungen.",
-              "gegenstimme": "Die Mineralölindustrie steht in der Kritik: Experten und der ADAC weisen darauf hin, dass die Preise an der Zapfsäule stärker gestiegen sind, als es der Rohölpreis allein rechtfertigen würde. Der Verdacht auf übermässige Margenausnutzung steht im Raum. Zudem argumentieren Befürworter der Energiewende, dass die Krise den Druck zur beschleunigten Umstellung auf erneuerbare Energien erhöht – langfristig eine Chance, die Abhängigkeit von fossilen Brennstoffen zu reduzieren.",
+              "image": "https://cdn.unitycms.io/images/B5v9gF2HqOh8_8und9YfZw.webp",
+              "kurz": "Der Iran-Krieg drückt die globalen Aktienmärkte ins Minus: Nikkei -4.25%, DAX -2%, SMI -1.1%. Brent-Rohöl klettert auf über 113 Dollar – Tankstellen in der Schweiz warnen vor weiteren Preiserhöhungen.",
+              "summary": "Trumps 48-Stunden-Ultimatum an den Iran hat am Montagmorgen die asiatischen Börsen belastet und auch auf die europäischen Märkte ausgestrahlt. Der Nikkei verlor rund 4.25%, der DAX gut 2% und der SMI rund 1.1%. Brent-Rohöl stieg auf über 113 Dollar pro Fass, ein Plus von rund 6%. Anleiherenditen legten zu, da Investoren in sichere Häfen flüchteten. Schweizer Tankstellenbetreiber warnen, dass bei anhaltend hohen Ölpreisen die 2-Franken-Marke für einen Liter Benzin dauerhaft überschritten werden könnte.",
+              "gegenstimme": "Einige Ökonomen mahnen zur Vorsicht vor Panikreaktionen: Die Märkte reagieren oft überschiessend auf geopolitische Ereignisse. Historisch gesehen haben sich Aktienmärkte nach Ölpreisspitzen relativ schnell erholt, wenn kein dauerhafter Angebotsschock eintritt. Die entscheidende Frage ist, wie lange die Strasse von Hormuz blockiert bleibt – ein rascher Waffenstillstand würde die Lage schnell entspannen.",
               "sources": [
                 {
-                  "name": "Handelsblatt – Kommentar Ölpreis",
+                  "name": "Handelsblatt – Asienbörsen: Iran-Krieg drückt auf die Kurse",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/asienboersen-iran-krieg-drueckt-deutlich-auf-die-kurse-anleiherenditen-legen-zu/100210713.html"
+                },
+                {
+                  "name": "Handelsblatt – Kommentar: Öl über 100 Dollar als neue Realität",
                   "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-naechste-preisschock-kommt-oel-ueber-100-dollar-als-neue-realitaet/100210019.html"
                 },
                 {
-                  "name": "Handelsblatt – Dieselpreis",
-                  "url": "https://www.handelsblatt.com/politik/deutschland/spritpreise-dieselpreis-springt-um-12-cent-und-kratzt-am-allzeithoch/100210474.html"
-                },
-                {
-                  "name": "Spiegel – Strompreise",
-                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-steigende-strompreise-durch-teureres-gas-in-deutschland-a-79977fcf-d286-4ac3-8825-f260c83ab733"
+                  "name": "Berner Zeitung – Tankstelle warnt vor Preisexplosion",
+                  "url": "https://www.bernerzeitung.ch/benzinpreis-tankstelle-in-bern-warnt-vor-preisexplosion-716043108043"
                 }
               ]
             },
             {
-              "id": "2026-03-22-ki-jobverluste-digitalminister",
-              "slug": "ki-jobverluste-digitalminister",
-              "title": "KI-Jobverluste noch dramatischer als erwartet – Digitalminister schlägt Alarm",
-              "date": "2026-03-22",
+              "id": "2026-03-23-rheinmetall-fregatten",
+              "slug": "rheinmetall-fregatten",
+              "title": "Rheinmetall will 10-Milliarden-Fregattenbau für die Bundeswehr übernehmen",
+              "date": "2026-03-23",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "⚓",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/1feb265c-b476-47bd-8894-4da2fc66f3e5_w520_r2.08_fpx15_fpy46.jpg",
+              "kurz": "Rheinmetall will im Sommer den Generalunternehmervertrag für den Bau von sechs Fregatten des Typs F126 übernehmen. Das Programm liegt vier Jahre hinter dem Zeitplan.",
+              "summary": "Der Rüstungskonzern Rheinmetall bewirbt sich um die Übernahme des stockenden Fregattenprogramms F126 der Deutschen Marine. Sechs Schiffe sollen gebaut werden – Gesamtvolumen rund 10 Milliarden Euro. Der bisherige Generalunternehmer, das niederländische Unternehmen Damen Naval, liegt etwa vier Jahre hinter dem Zeitplan. Rheinmetall plant, die erste Fregatte im zweiten Halbjahr 2031 auszuliefern. Als Alternative prüft das Verteidigungsministerium auch kleinere Fregatten des Typs Meko A-200 DEU vom Kieler Hersteller TKMS.",
+              "gegenstimme": "Kritiker bezweifeln, ob Rheinmetall – primär ein Landfahrzeug- und Munitionskonzern – die nötige Schiffbaukompetenz besitzt, um ein derart komplexes Marineprojekt fristgerecht abzuliefern. Die Übernahme der Werft Blohm+Voss via NVL ist erst jüngst erfolgt; ob die Integration gelingt, ist ungewiss. Zudem warnen Fachleute: Das ursprüngliche Scheitern von Damen Naval zeigt, dass der Fregattenbau in Europa strukturell unterfinanziert und überreguliert ist. Ein Wechsel des Generalunternehmers löst diese Grundprobleme nicht automatisch.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-will-fregatten-fuer-marine-bauen-a-025fe644-449a-429a-a332-27b02b520bfa"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-rheinmetall-will-fregatten-bau-fuer-marine-beschleunigen/100210445.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-vw-blume-china",
+              "slug": "vw-blume-china",
+              "title": "VW-Chef Blume lobt chinesische Planwirtschaft – «Deutsches Modell funktioniert nicht mehr»",
+              "date": "2026-03-23",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/05b28cc6-69d5-4e0b-b6ce-e92c4a0289d0_w520_r2.08_fpx70.49_fpy45.jpg",
+              "kurz": "VW-Chef Oliver Blume sagt, das deutsche Geschäftsmodell «funktioniere nicht mehr» und lobt Chinas staatlich gelenkte Wirtschaft als Vorbild. Der Stellenabbau von 50'000 Jobs bis 2030 bleibt bestehen.",
+              "summary": "In einem Interview mit der «Bild am Sonntag» hat VW-Chef Oliver Blume den laufenden Sanierungskurs des Konzerns verteidigt und gleichzeitig das bisherige Exportmodell als überholt bezeichnet. Fahrzeuge in Deutschland zu entwickeln und weltweit zu exportieren, funktioniere angesichts der veränderten Weltregionen nicht mehr. Als positives Gegenbeispiel lobte Blume Chinas Fünfjahrespläne, die hohe Disziplin und strukturierte Umsetzung im Land. Die Aussagen lösten politische und wirtschaftliche Diskussionen aus – zumal China von der EU wegen wettbewerbsverzerrender Subventionen mit Einfuhrzöllen belegt wurde.",
+              "gegenstimme": "Chinas staatlich gelenkte Wirtschaft geht mit eingeschränkter Justizunabhängigkeit, der Abwesenheit freier Gewerkschaften und dokumentierten Menschenrechtsverletzungen einher – darunter der Einsatz von Uiguren als Billigarbeitskräfte in der Industrie. Die EU hat deshalb Einfuhrzölle auf chinesische Elektroautos verhängt und Mindestpreise vorgeschlagen, da Chinas Erfolge teils auf staatlichen Subventionen und unfairen Wettbewerbsbedingungen beruhen. Arbeitnehmervertreter und Politikerinnen sehen in Blumes Äusserungen eine problematische Relativierung demokratischer Werte.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/volkswagen-vw-chef-oliver-blume-lobt-chinesische-planwirtschaft-a-c0975fd4-dec6-4c19-a3a8-402a5e85fae1"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/wirtschaft/2026-03/oliver-blume-volkwagen-china-planwirtschaft-vorbild"
+                },
+                {
+                  "name": "Welt",
+                  "url": "https://www.welt.de/wirtschaft/article69bfa3145f3c010b99de7d25/oliver-blume-hohe-disziplin-und-leistungsbereitschaft-vw-chef-lobt-chinesische-planwirtschaft.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-tesla-spacex-chipfabriken",
+              "slug": "tesla-spacex-chipfabriken",
+              "title": "Elon Musk: Tesla und SpaceX bauen eigene Chipfabriken in Texas – «Terafab»-Projekt",
+              "date": "2026-03-23",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "💡",
+              "edition": "morning",
+              "image": "",
+              "kurz": "Tesla und SpaceX lancieren unter dem Namen «Terafab» zwei spezialisierte Chipfabriken in Austin, Texas – für Fahrzeuge, Roboter und KI im Weltraum. Investitionsvolumen: bis zu 25 Milliarden Dollar.",
+              "summary": "Elon Musk hat am Wochenende das «Terafab»-Projekt offiziell angekündigt: zwei Chipfabriken in Austin, Texas, als Joint Venture von Tesla und SpaceX. Eine Fabrik soll Halbleiter für Elektrofahrzeuge und humanoide Roboter produzieren, die andere Chips für KI-Rechenzentren im Weltraum. Musk begründet den Schritt mit dem absehbaren Engpass bei externen Lieferanten: «Entweder wir bauen die Terafab, oder wir haben keine Chips.» Das Projekt soll vollständig vertikal integriert sein – Chip-Design, Fertigung und Packaging unter einem Dach.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass der Aufbau einer eigenen Halbleiterfertigung enorme technologische Hürden mit sich bringt. Für eine wettbewerbsfähige Chipproduktion braucht es hochspezialisiertes Know-how, das bislang bei Firmen wie TSMC, Samsung oder GlobalFoundries konzentriert ist. Bereits laufende Stellenausschreibungen deuten zwar auf erste Schritte hin – doch die Geschichte zeigt, dass Chipfabriken Jahrzehnte Anlaufzeit benötigen. Besonders skeptisch sind Beobachter beim Space-Computing-Ziel: 80 Prozent der Kapazität für Weltraum-KI-Satelliten vorzusehen, gilt in der Branche als aussergewöhnlich ambitioniert.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/elon-musk-tesla-und-spacex-planen-chipfabriken-fuer-eigenbedarf-in-texas/100210699.html"
+                },
+                {
+                  "name": "Hardwareluxx",
+                  "url": "https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/68617-terafab-von-spacex-und-xai-ambitionierte-ziele,-aber-die-eigentlichen-probleme-bleiben.html"
+                },
+                {
+                  "name": "Tom's Hardware",
+                  "url": "https://www.tomshardware.com/tech-industry/elon-musk-formally-launches-20-billion-terafab-chip-project"
+                },
+                {
+                  "name": "Electrek",
+                  "url": "https://electrek.co/2026/03/22/tesla-spacex-terafab-chip-factory-ai-desperation/"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/wirtschaft/2026-03/tesla-spacex-chip-fabrik-texas"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-wordpress-ki-agenten",
+              "slug": "wordpress-ki-agenten",
+              "title": "WordPress erlaubt KI-Agenten, Blogartikel zu schreiben und zu veröffentlichen",
+              "date": "2026-03-23",
               "time": "07:00",
               "category": "tech",
               "icon": "🤖",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/878b637f-ada6-4b2d-a75a-fbddcb670dfc_w520_r2.08_fpx35.34_fpy45.jpg",
-              "kurz": "Deutschlands Digitalminister Karsten Wildberger warnt vor dramatischen Jobverlusten durch KI – gleichzeitig schreiben KI-Agenten bereits Blogartikel und automatisieren Alltagsaufgaben.",
-              "summary": "Bundesdigitalminister Karsten Wildberger (CDU) warnte am 21. März 2026 öffentlich vor einem tiefgreifenden Wandel auf dem Arbeitsmarkt durch Künstliche Intelligenz. 'Die Zeit, in der die Industrie eine Jobmaschine war, geht zu Ende', sagte er der Neuen Osnabrücker Zeitung. Gleichzeitig werden konkrete KI-Anwendungen Realität: WordPress.com ermöglicht KI-Agenten das selbständige Verfassen und Veröffentlichen von Blogposts, während Google Gemini Task-Automatisierung im Alltag ausbaut. Die Diskrepanz zwischen politischer Warnung und technologischer Realität ist kleiner als je zuvor.",
-              "gegenstimme": "Wirtschaftsverbände und Technologieoptimisten entgegnen, KI schaffe auch neue Berufsfelder – Prompt-Engineering, KI-Training, ethische Aufsicht. Historisch habe jede Automatisierungswelle per saldo mehr Jobs geschaffen als vernichtet. Zudem sei die Produktivitätssteigerung durch KI eine Chance, den Wohlstand zu steigern und Fachkräftemangel zu lindern, der in der Schweiz und Deutschland gleichermassen akut ist.",
-              "sources": [
-                {
-                  "name": "Spiegel – Digitalminister Wildberger fürchtet Jobverluste",
-                  "url": "https://www.spiegel.de/politik/kuenstliche-intelligenz-digitalminister-karsten-wildberger-fuerchtet-branchenwandel-und-jobverluste-a-07c3a69d-add8-4e95-bd17-29237f8a4edd"
-                },
-                {
-                  "name": "Heise – Digitalminister Wildberger warnt vor Jobverlusten",
-                  "url": "https://www.heise.de/news/Digitalminister-Wildberger-warnt-vor-dramatischen-Jobverlusten-durch-KI-11220282.html"
-                },
-                {
-                  "name": "TechCrunch – WordPress.com KI-Agenten",
-                  "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-03-22-frankreich-buergermeisterwahlen-paris",
-              "slug": "frankreich-buergermeisterwahlen-paris",
-              "title": "Frankreich: Zweiter Wahlgang der Bürgermeisterwahlen – Paris könnte nach rechts kippen",
-              "date": "2026-03-22",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🇫🇷",
-              "edition": "midday",
               "image": "",
-              "kurz": "Frankreich wählt im zweiten Wahlgang der Kommunalwahlen. In Paris droht nach 25 Jahren unter linker Führung erstmals ein Wechsel zur bürgerlichen Rechten unter Rachida Dati.",
-              "summary": "In ganz Frankreich sind die Wahllokale für den zweiten Wahlgang der Bürgermeisterwahlen geöffnet – mit besonderer Aufmerksamkeit auf Paris und Marseille. In Paris führt der Sozialist Emmanuel Grégoire nach dem ersten Wahlgang mit 38 Prozent, doch die Konservative Rachida Dati hat durch die Vereinigung mehrerer rechter Listen Auftrieb erhalten. Landesweit testen taktische Allianzen zwischen der radikalen Linken (LFI) und gemässigten Linksparteien, wie weit der Linkspakt fuer die Präsidentschaftswahl 2027 trägt.",
-              "gegenstimme": "Befürworter der Links-Allianzen mit LFI argumentieren, nur ein geschlossenes Linksbündnis könne den Vormarsch des Rassemblement National stoppen. Kritiker sehen darin hingegen einen Verrat an den eigenen Werten – und befürchten, dass LFI-Chef Jean-Luc Mélenchon durch solche Bündnisse weiter gestärkt wird.",
+              "kurz": "WordPress.com öffnet seine Plattform für KI-Agenten: Via Model Context Protocol können Claude, ChatGPT und andere Systeme nun Beiträge schreiben, Kategorien verwalten und Kommentare moderieren – der Mensch behält die finale Kontrolle.",
+              "summary": "Automattic, der Betreiber von WordPress.com, hat die Schreibfunktionen seiner MCP-Integration ausgebaut. KI-Agenten wie Claude oder ChatGPT können nun nicht nur Inhalte lesen, sondern auch Blogartikel und Seiten erstellen, Entwürfe veröffentlichen, Kategorien und Tags strukturieren sowie Kommentare verwalten. Alle Änderungen werden im Activity Log festgehalten, und Beiträge von KI werden standardmässig als Entwurf gespeichert – die endgültige Publikation liegt beim Websitebetreiber. WordPress.com wird von über 43 Prozent aller Websites weltweit genutzt; die gehostete Version verzeichnet monatlich 20 Milliarden Seitenaufrufe.",
+              "gegenstimme": "Kritische Stimmen warnen, dass die tiefe Integration von KI-Agenten in eine Plattform, die 43 Prozent des Webs antreibt, zu einer weiteren Flut maschinell generierter Inhalte führen könnte. Bereits heute ist die Qualität KI-generierter Texte im Web schwer zu beurteilen; eine einfache Aktivierung via MCP senkt die Hürde für automatisierte Masseninhalte weiter ab. Auch Fragen zur Transparenz – ob Leser erkennen können, dass ein Text von einer KI stammt – bleiben offen.",
               "sources": [
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c87wgw27201o"
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
                 },
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/22/france-second-round-local-elections-voting-mayoral-races-paris-marseille"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-russland-geburtenpolitik-psychologe",
-              "slug": "russland-geburtenpolitik-psychologe",
-              "title": "Putin schickt kinderlose Frauen zum Psychologen – Neue Geburtenpolitik in Russland",
-              "date": "2026-03-22",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🇷🇺",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/6oKKq7aCqvM9Tnh0bXr42Y.jpg",
-              "kurz": "Russland will Frauen ohne Kinderwunsch künftig zu Psychologen schicken, um eine «positive Einstellung» gegenüber dem Kinderkriegen zu fördern. Hintergrund ist die historisch tiefe Geburtenrate.",
-              "summary": "Das russische Gesundheitsministerium hat neue Richtlinien erlassen, wonach Ärzte bei Untersuchungen aktiv nach dem Kinderwunsch der Patientinnen fragen sollen. Geben Frauen an, keine Kinder zu wollen, wird empfohlen, sie zu einem Psychologen zu schicken. Ziel ist es, eine positive Haltung zum Kinderkriegen zu fördern. Russlands Geburtenrate liegt bei rund 1,4 Kindern pro Frau – dem niedrigsten Wert seit 200 Jahren. Der Krieg in der Ukraine hat das demografische Problem zusätzlich verschärft.",
-              "gegenstimme": "Kritikerinnen und internationale Beobachter sehen in dieser Massnahme einen gravierenden Eingriff in die körperliche Selbstbestimmung und die reproduktive Freiheit von Frauen. Das Schicken von Frauen zum Psychologen aufgrund fehlenden Kinderwunsches pathologisiert eine legitime Lebensentscheidung und ist mit modernen Menschenrechtsstandards unvereinbar.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/niedrige-geburtenrate-frauen-ohne-kinderwunsch-sollen-in-russland-zum-psychologen-103529649"
+                  "name": "WordPress.com Blog",
+                  "url": "https://wordpress.com/blog/2026/03/20/ai-agent-manage-content/"
                 },
                 {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/russland-kinderlose-frauen-sollen-zum-psychologen-408986406299"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-suedkorea-brand-autofabrik-14-tote",
-              "slug": "suedkorea-brand-autofabrik-14-tote",
-              "title": "Südkorea: 14 Tote bei Grossbrand in Autoteilefabrik in Daejeon",
-              "date": "2026-03-22",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🔥",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/6l0E6bhUa459-VbJLcpSuG.jpg",
-              "kurz": "Bei einem verheerenden Brand in einer Autoteilefabrik in der südkoreanischen Stadt Daejeon kamen am Freitag 14 Menschen ums Leben. Mindestens 59 weitere wurden verletzt.",
-              "summary": "Am Freitagnachmittag brach in der Fabrik des Unternehmens Anjun Industrial in Daejeon ein Feuer aus, das sich rasend schnell ausbreitete. 14 Personen kamen ums Leben, 59 weitere wurden verletzt, davon 25 schwer. Der Brand erforderte den Einsatz von über 500 Rettungskräften sowie Löschrobotern. Südkoreas Präsident Lee Jae Myung besuchte am Samstag den Unglücksort.",
-              "gegenstimme": "Anfangs meldeten verschiedene Agenturen unterschiedliche Opferzahlen – AFP sprach von 11 Toten, AP von 14. Die endgültige Zahl wurde erst nach abgeschlossenen Rettungsarbeiten bestätigt. Über die Brandursache herrscht noch Unklarheit; Ermittler untersuchen mehrere Hypothesen.",
-              "sources": [
-                {
-                  "name": "AP News",
-                  "url": "https://apnews.com/article/south-korea-fire-auto-parts-plant-daejeon-9156bc6276551b8906cad98b66f7c95c"
+                  "name": "The Next Web",
+                  "url": "https://thenextweb.com/news/wordpress-com-mcp-write-capabilities-ai-agent"
                 },
                 {
-                  "name": "Die Presse",
-                  "url": "https://www.diepresse.com/20698093/14-tote-bei-verheerendem-brand-in-autoteilefabrik-in-suedkorea"
-                },
-                {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/daejeon-14-tote-bei-grossbrand-in-autoteilefabrik-495553313649"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-ahv-13-rente-finanzierung-showdown",
-              "slug": "ahv-13-rente-finanzierung-showdown",
-              "title": "13. AHV-Rente: Zwei Jahre nach Volksabstimmung – Finanzierungslösung fehlt noch immer",
-              "date": "2026-03-22",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "👴",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Mehr als zwei Jahre nach dem deutlichen Volksentscheid für eine 13. AHV-Rente hat das Parlament noch immer keine Finanzierungslösung gefunden. Der Showdown soll im Juni kommen.",
-              "summary": "Im März 2024 stimmte das Schweizer Volk klar für die Einführung einer 13. AHV-Monatsrente. Seither streiten die Parteien im Parlament über die Finanzierung, ohne eine Mehrheit in beiden Kammern zu finden. SVP und FDP lehnen höhere Lohnprozente ab, die Linke besteht darauf. Eine Mischlösung mit der Mitte scheint denkbar. Die Junisession soll die Entscheidung bringen.",
-              "gegenstimme": "Bürgerliche Parteien argumentieren, dass höhere Lohnprozente die Unternehmen belasten und die Wettbewerbsfähigkeit der Schweizer Wirtschaft schwächen. SVP und FDP bevorzugen allenfalls eine Finanzierung über die Mehrwertsteuer, während sie am liebsten gar keine neuen Abgaben einführen würden.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/13-ahv-rente-kompromiss-oder-scherbenhaufen-showdown-im-juni"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-genf-burkini-verbot-kantonal",
-              "slug": "genf-burkini-verbot-kantonal",
-              "title": "Genf verbietet Burkinis in Bädern – erstes kantonsweites Verbot der Schweiz",
-              "date": "2026-03-22",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🏊",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Das Genfer Kantonsparlament hat ein kantonsweites Burkini-Verbot in öffentlichen Bädern beschlossen – ein Novum in der Schweiz. Das Verbot wird von Rechtsprofessoren als Einschränkung der Religionsfreiheit eingestuft.",
-              "summary": "Auf Initiative der SVP hat das Genfer Kantonsparlament beschlossen, Badebekleidung zu verbieten, die über das Knie reicht oder die Arme bedeckt. Damit trifft das Verbot de facto Burkinis. Es ist das erste kantonsweite Verbot seiner Art in der Schweiz. Juristen und muslimische Verbände zweifeln an der Rechtmässigkeit und praktischen Umsetzbarkeit. Gegen den Beschluss kann das Referendum ergriffen werden.",
-              "gegenstimme": "Kritiker und muslimische Organisationen sehen im Verbot eine Diskriminierung von Musliminnen und eine ungerechtfertigte Einschränkung der Religionsfreiheit. Zudem gibt es keine wissenschaftlichen Belege dafuer, dass Burkinis ein Hygieneproblem darstellen. Auch praktische Fragen bleiben offen: Sind Sonnenschutz-Shirts fuer Kinder ebenfalls betroffen?",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/baderegeln-erstes-kantonsweites-burkini-verbot-in-der-schweiz"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-norovirus-kaserne-buelach",
-              "slug": "norovirus-kaserne-buelach",
-              "title": "Norovirus-Ausbruch in der Kaserne Bülach – Besuchstag abgesagt",
-              "date": "2026-03-22",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🦠",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/2pp1b7aj4zAA_qn7Eo3QGv.jpg",
-              "kurz": "In der Kaserne Bülach ZH hat ein Norovirus-Ausbruch den geplanten Tag der Angehörigen verhindert. Einige hundert bis tausend Besucher waren von der kurzfristigen Absage betroffen.",
-              "summary": "In der Rekrutenschule Bülach brach am Freitagabend das Norovirus aus. Kommandant Beat Stettler sagte den für Samstag geplanten Besuchstag kurzfristig über Instagram ab. Armeesprecher Stefan Hofer bestätigte den Vorfall und bezeichnete die Absage als richtige Massnahme, um eine Ausbreitung des Virus in die Bevölkerung zu verhindern. Ein Ersatzdatum ist nicht geplant.",
-              "gegenstimme": "Einige Angehörige reagierten in den Kommentaren mit Unmut über die Kurzfristigkeit der Absage – viele hatten sich bereits auf den Weg gemacht oder aufwendige Vorbereitungen getroffen. Die Kommunikation über Instagram wurde von einzelnen als unzureichend empfunden.",
-              "sources": [
-                {
-                  "name": "Blick",
-                  "url": "https://www.blick.ch/schweiz/zuerich/die-beste-loesung-norovirus-fall-in-kaserne-buelach-zh-tag-der-angehoerigen-kurzfristig-abgesagt-id21803773.html"
-                },
-                {
-                  "name": "Nau.ch",
-                  "url": "https://www.nau.ch/news/schweiz/norovirus-alarm-in-bulach-frechheit-gegenuber-den-angehorigen-67108472"
-                },
-                {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/norovirus-kaserne-buelach-besuchstag-kurzfristig-abgesagt-307438207087"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-usa-untersuchung-schweiz-unlauterer-handel",
-              "slug": "usa-untersuchung-schweiz-unlauterer-handel",
-              "title": "USA starten Handelsuntersuchung gegen die Schweiz",
-              "date": "2026-03-22",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Die USA haben gestützt auf Section 301 des Trade Acts eine formelle Untersuchung gegen die Schweiz wegen angeblich unlauterer Handelspraktiken eingeleitet. Der Bundesrat hat den Eingang des Schreibens bestätigt.",
-              "summary": "Washington wirft der Schweiz unlautere Handelspraktiken vor und hat eine Untersuchung nach Section 301 des amerikanischen Handelsgesetzes eröffnet. Das Staatssekretariat für Wirtschaft (Seco) hat eine erste Analyse erstellt, die der Bundesrat am 20. März erstmals beraten hat. Einen formellen Beschluss zum weiteren Vorgehen gibt es noch nicht. Die Schweiz ist nicht allein betroffen – auch die EU und weitere Staaten stehen unter amerikanischem Druck.",
-              "gegenstimme": "Aus Schweizer Sicht handelt es sich nicht um unlautere Praktiken, sondern um legitime wirtschaftspolitische Instrumente. Zudem ist der Handelsüberschuss der Schweiz gegenüber den USA strukturell bedingt und nicht das Ergebnis gezielter Marktverzerrung.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/wirtschaft/bund-bestaetigt-briefeingang-usa-starten-untersuchung-gegen-schweiz-wegen-unlauteren-handels"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-honda-elektroautos-gestrichen",
-              "slug": "honda-elektroautos-gestrichen",
-              "title": "Honda bläst Elektro-Offensive ab: Drei Modelle der 0-Series gestrichen",
-              "date": "2026-03-22",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "🚗",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/72fSE-GEKBTBKN9O8TyVWW.jpg",
-              "kurz": "Honda stoppt die Entwicklung von drei geplanten Elektrofahrzeugen für den nordamerikanischen Markt und rechnet mit einem historischen Verlust von bis zu 15,7 Milliarden US-Dollar.",
-              "summary": "Der japanische Automobilhersteller Honda stellt die Entwicklung des Honda 0 SUV, des Honda 0 Saloon sowie des Acura RSX EV ein – alle drei Fahrzeuge waren noch vor dem Produktionsstart. Als Hauptgründe nennt Honda den Rückgang der Nachfrage nach Elektroautos, weggefallene Förderprogramme in den USA und wachsende Konkurrenz aus China. Der Konzern will sich stattdessen auf Hybridfahrzeuge konzentrieren und erwartet Abschreibungen von umgerechnet rund 13,7 Milliarden Euro.",
-              "gegenstimme": "Kritiker sehen im Rückzug ein kurzfristiges Denken: Wer jetzt aus der Elektromobilität aussteigt, riskiert, in einigen Jahren den Anschluss endgültig zu verlieren. Zudem ist fraglich, ob Hybride langfristig eine tragfähige Antwort auf verschärfte Klimavorschriften sind – insbesondere in Europa und China.",
-              "sources": [
-                {
-                  "name": "Auto Motor und Sport",
-                  "url": "https://www.auto-motor-und-sport.de/verkehr/honda-stoppt-drei-elektroautos-japaner-melden-milliardenverlust/"
-                },
-                {
-                  "name": "WinFuture",
-                  "url": "https://winfuture.de/news,157441.html"
-                },
-                {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/honda-streicht-drei-elektroautos-0-series-verschoben-635296853776"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-03-22-carsten-traeger-spd-staatssekretaer-tot",
-              "slug": "carsten-traeger-spd-staatssekretaer-tot",
-              "title": "SPD-Staatssekretär Carsten Träger mit 52 Jahren gestorben",
-              "date": "2026-03-22",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🕯️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/21b3bb27-4751-45e3-91d4-348ea2e69c93_w520_r2.08_fpx48_fpy14.jpg",
-              "kurz": "Der SPD-Bundestagsabgeordnete und Parlamentarische Staatssekretär im Umweltministerium, Carsten Träger, ist am Samstag im Alter von 52 Jahren verstorben. Er kollabierte während eines Skiurlaubs in Österreich.",
-              "summary": "Carsten Träger, SPD-Parlamentarier aus Fürth und Staatssekretär im Bundesumweltministerium, ist am Samstag nach einem Kollaps im Skiurlaub in Innsbruck gestorben. Er wurde 52 Jahre alt und hinterlässt eine Ehefrau sowie zwei Töchter. Zahlreiche Politikerinnen und Politiker aus allen Parteien bekundeten Bestürzung. Der Bundestag wird ihm am Mittwoch gedenken.",
-              "gegenstimme": "Trotz des breiten parteiübergreifenden Beileids bleibt zu bemerken, dass Trägers politische Arbeit im Umweltbereich nicht unumstritten war – Kritiker aus der Industrie sahen seine Positionen als zu restriktiv, während Umweltverbände ihn als zu kompromissbereit einschätzten.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/politik/deutschland/carsten-traeger-ist-tot-spd-staatssekretaer-stirbt-im-alter-von-52-jahren-nach-kollaps-a-5e1a1f5e-bd60-4a3b-9583-412a7db18d22"
-                },
-                {
-                  "name": "SPD-Fraktion",
-                  "url": "https://www.spdfraktion.de/presse/statements/spd-fraktion-trauert-um-carsten-traeger"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-hamas-distanzierung-iran",
-              "slug": "hamas-distanzierung-iran",
-              "title": "Hamas distanziert sich vom Iran – ein Wendepunkt im Nahost-Konflikt",
-              "date": "2026-03-22",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🔄",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Die Hamas signalisiert öffentlich Distanz zum Iran und versucht, ihre Beziehungen zu Katar zu schützen – ein bedeutsamer Positionswechsel inmitten des laufenden Nahost-Krieges.",
-              "summary": "Inmitten des laufenden Krieges zwischen Israel, den USA und dem Iran gerät die Hamas in eine schwierige Lage: Als Teil der iranischen 'Achse des Widerstands' ist sie eng mit Teheran verbunden, doch gleichzeitig ist sie wirtschaftlich auf Katar angewiesen – das von iranischen Angriffen betroffen ist. Die Hamas hat sich öffentlich kritisch gegenüber dem Iran geäussert und versucht, Katar zu signalisieren, dass sie dessen Interessen berücksichtigt. Analysten sprechen von einem 'Messer auf der Klinge'.",
-              "gegenstimme": "Iranische Stimmen betonen, dass die Hamas ohne die langjährige Unterstützung Teherans – Geld, Waffen, Training – ihre militärische Kapazität nie hätte aufbauen können. Die Distanzierung könnte auch taktischer Natur sein und nicht einen echten strategischen Bruch darstellen.",
-              "sources": [
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/hamas-distanziert-sich-vom-iran-gruende-und-auswirkungen-593341067174"
-                },
-                {
-                  "name": "New York Times",
-                  "url": "https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-hamas-iran-qatar.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-iran-krieg-merz-telefonat-trump-netanjahu",
-              "slug": "iran-krieg-merz-telefonat-trump-netanjahu",
-              "title": "Nahost-Krise: Merz telefoniert mit Trump – Netanjahu fordert Koalition gegen Iran",
-              "date": "2026-03-22",
-              "time": "18:00",
-              "category": "international",
-              "icon": "📞",
-              "edition": "evening",
-              "image": "https://images.welt.de/69bce233ea8bf301e4ae1a85/0ff6d622010dced58cbff5430c900871/ci23x11-w1200/dpa-com-20090101-251009-935-881243-jpg",
-              "kurz": "Der Krieg im Nahen Osten spitzt sich dramatisch zu: Trump stellt Iran ein 48-Stunden-Ultimatum, Iran droht mit der Vernichtung von Energieinfrastruktur im ganzen Nahen Osten.",
-              "summary": "US-Präsident Donald Trump hat Iran ein Ultimatum gestellt: Die Strasse von Hormus müsse innerhalb von 48 Stunden vollständig für den Schiffsverkehr geöffnet werden, andernfalls würden die USA iranische Kraftwerke angreifen. Teheran reagierte mit der Drohung, die Energieinfrastruktur in der gesamten Region – einschliesslich US-amerikanischer und israelischer Anlagen – zu zerstören. Bundesskanzler Friedrich Merz telefonierte in diesem Zusammenhang mit Trump, während Israels Premier Netanjahu eine internationale Koalition gegen den Iran forderte.",
-              "gegenstimme": "Diplomatische Kreise warnen vor einer weiteren Eskalation durch öffentliche Ultimaten. Iran-Experten weisen darauf hin, dass Teheran politisch kaum vollständig nachgeben kann, ohne das Gesicht zu verlieren – was den Spielraum für Verhandlungen stark einengt.",
-              "sources": [
-                {
-                  "name": "Spiegel Online",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-iran-news-heute-iran-konzentriert-das-feuer-auf-den-sueden-israels-a-334f306d-d6ff-46f4-8379-b338169c60e0"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/22/iran-donald-trump-48-hours-open-hormuz-strait"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/22/iran-says-destroy-middle-east-infrastructure-us-energy-sites"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-kamen-zug-betonplatten-staatsschutz",
-              "slug": "kamen-zug-betonplatten-staatsschutz",
-              "title": "Anschlag auf Bahnlinie in Kamen: Staatsschutz ermittelt nach Zugkollision mit Betonplatten",
-              "date": "2026-03-22",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🚂",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/1a6be82f-efc8-4e20-925d-020b35ba8039_w520_r2.08_fpx65.37_fpy50.jpg",
-              "kurz": "In der Nacht zum Sonntag kollidierten ein Regionalzug mit 309 Passagieren auf der Strecke zwischen Aachen und Hamm bei Kamen mit mutwillig auf die Gleise gelegten Betonplatten. Verletzt wurde niemand, der Staatsschutz hat die Ermittlungen aufgenommen.",
-              "summary": "Unbekannte Täter legten mehrere Betonplatten und eine Metallstange auf Gleise zwischen Kamen-Methler und dem Bahnhof Kamen in Nordrhein-Westfalen. Ein Regionalexpress mit 309 Passagieren fuhr trotz Notbremsung in die Hindernisse und wurde dabei so stark beschädigt, dass er nicht mehr fahrbereit war. Es gab keine Verletzten. Da die Polizei einen politischen Hintergrund nicht ausschliesst, wurde der Staatsschutz eingeschaltet.",
-              "gegenstimme": "Ermittler betonen, dass ein politischer Hintergrund zwar geprüft wird, aber keineswegs als gesichert gilt. Es ist ebenso denkbar, dass es sich um einen Vandalismus-Akt ohne ideologische Motivation handelt.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/panorama/justiz/kamen-staatsschutz-ermittelt-nach-zugkollision-mit-betonplatten-a-58a0a1ac-36b1-4bb4-941d-231dc849391b"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-rheinland-pfalz-wahlbeteiligung-ergebnis",
-              "slug": "rheinland-pfalz-wahlbeteiligung-ergebnis",
-              "title": "Landtagswahl Rheinland-Pfalz: Wahlbeteiligung bei 50% – SPD könnte erstmals seit 35 Jahren abgewählt werden",
-              "date": "2026-03-22",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🗳️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/57a8597e-3b36-4247-8b13-2a804a3c1f22_w520_r2.08_fpx66.67_fpy50.jpg",
-              "kurz": "Rheinland-Pfalz hat heute seinen neuen Landtag gewählt. Erstmals seit 35 Jahren könnte die SPD die Regierungsverantwortung verlieren.",
-              "summary": "Die Wahlbeteiligung lag bis Mittag bei rund 50 Prozent – vergleichbar mit dem Wert von 2021. Die CDU unter Spitzenkandidat Gordon Schnieder führte in aktuellen Umfragen knapp vor der regierenden SPD von Ministerpräsident Alexander Schweitzer. Laut ersten Hochrechnungen kam die AfD mit rund 20 Prozent auf den zweiten Platz, während die SPD auf etwa 18,6 Prozent fiel. Die FDP dürfte an der Fünf-Prozent-Hürde scheitern.",
-              "gegenstimme": "SPD-Anhänger verweisen darauf, dass Ministerpräsident Schweitzer erst 2024 von Malu Dreyer übernommen hat und noch kein vollständiges Regierungsmandat hatte. Ein Ergebnis von gut 18 Prozent wäre zwar historisch schwach, aber angesichts des bundesweiten SPD-Einbruchs kein vollständiges Desaster.",
-              "sources": [
-                {
-                  "name": "Spiegel Online",
-                  "url": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-rheinland-pfalz-wahlbeteiligung-bis-mittag-bei-50-prozent-a-7372216f-5374-4ce9-84a6-9111b0dfe28f"
-                },
-                {
-                  "name": "Welt Online",
-                  "url": "https://www.welt.de/politik/deutschland/article697375fd029492de1675a6d8/landtagswahl-rheinland-pfalz-alle-ergebnisse-und-grafiken-der-landtagswahl-im-ueberblick.html"
-                },
-                {
-                  "name": "SWR Aktuell",
-                  "url": "https://www.swr.de/swraktuell/wahlen/landtagswahl/liveticker-rlp-2026-ergebnisse-hochrechnung-prognose-100.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-rom-gasexplosion-wohngebaeude-eingestuerzt",
-              "slug": "rom-gasexplosion-wohngebaeude-eingestuerzt",
-              "title": "Gasexplosion in Rom: Wohngebäude eingestürzt, 70 Personen evakuiert",
-              "date": "2026-03-22",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🏚️",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Im Westen Roms hat am Sonntag eine Flüssiggas-Explosion ein Wohngebäude zum Einsturz gebracht und drei weitere Gebäude beschädigt. Rund 70 Personen wurden evakuiert, ein älteres Ehepaar wurde schwer verletzt.",
-              "summary": "In der Via Tavagnasco im Stadtteil Ponte Galeria im Westen Roms explodierte kurz vor 13 Uhr eine Flüssiggasflasche und riss dabei ein Wohngebäude in sich zusammen. Drei benachbarte Gebäude wurden erheblich beschädigt, parkierte Fahrzeuge wurden durch Trümmer getroffen. Ein Ehepaar im Alter von 86 und 84 Jahren wurde mit schweren Verbrennungen ins Spital eingeliefert. Rund 70 Anwohnerinnen und Anwohner mussten ihre Wohnungen verlassen.",
-              "gegenstimme": "Roms Bürgermeister Roberto Gualtieri betonte, die betroffenen Gebäude seien erst sieben Jahre alt, in gutem Zustand und ordnungsgemäss errichtet worden. Dies wirft Fragen zur Wartung und Lagerung von Flüssiggasanlagen in Privatwohnungen auf, ohne dass eine grundsätzliche bauliche Mängelhaftung erkennbar ist.",
-              "sources": [
-                {
-                  "name": "Il Sole 24 Ore",
-                  "url": "https://en.ilsole24ore.com/art/rome-building-explodes-two-seriously-injured-AItMrI6B"
-                },
-                {
-                  "name": "La Sicilia",
-                  "url": "https://en.lasicilia.it/news/italy-world/3025783/explosion-in-piana-del-sole-in-rome-building-collapsed-two-seriously-injured-about-70-people-on-the-street.html"
-                },
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/gasexplosion-rom-wohnhaus-eingestuerzt-70-evakuiert-847008232206"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-solothurn-feuerteufel-freigelassen",
-              "slug": "solothurn-feuerteufel-freigelassen",
-              "title": "Solothurn: Geständiger Feuerteufel trotz 14 Brandstiftungen aus Untersuchungshaft entlassen",
-              "date": "2026-03-22",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🔥",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Ein 24-jähriger Feuerwehrmann aus dem Kanton Solothurn gestand mindestens 14 Brandstiftungen und wurde nach zwei Monaten Untersuchungshaft unter Ersatzmassnahmen wieder freigelassen.",
-              "summary": "Jan G. (24) war bei der Feuerwehr der Stadt Solothurn aktiv und legte zwischen 2024 und 2026 eine Brandserie in Langendorf, Solothurn und Bellach. Trotz seines Geständnisses wurde er Anfang dieser Woche aus der Untersuchungshaft entlassen. Die Staatsanwaltschaft ordnete Ersatzmassnahmen an, ohne Details zu nennen. Brisant: Der Mann war politisch bei der Jungen SVP aktiv und nahm an Aktivitäten der rechtsextremen Gruppierung Junge Tat teil.",
-              "gegenstimme": "Kritiker und Bevölkerung fragen, weshalb ein geständiger Serienbrandstifter ohne bekannte psychiatrische Abklärung auf freien Fuss gesetzt wird. Die Unschuldsvermutung gilt formal weiterhin, doch das Geständnis und die laufende Ermittlung werfen Fragen zur Verhältnismässigkeit der Freilassung auf.",
-              "sources": [
-                {
-                  "name": "Nau.ch",
-                  "url": "https://www.nau.ch/news/schweiz/14-brande-gelegt-solothurner-feuerteufel-aus-u-haft-entlassen-67108640"
-                },
-                {
-                  "name": "Blick",
-                  "url": "https://www.blick.ch/schweiz/mittelland/solothurn/der-svpler-legte-14-braende-solothurner-serienbrandstifter-ist-frei-id21800993.html"
-                },
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/brandserie-in-region-solothurn-solothurner-feuerwehrmann-gesteht-14-brandstiftungen"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-bern-hausbesetzung-europaplatz",
-              "slug": "bern-hausbesetzung-europaplatz",
-              "title": "Hausbesetzung am Europaplatz Bern: Jetzt ist das ganze Gebäude besetzt",
-              "date": "2026-03-22",
-              "time": "18:00",
-              "category": "regional",
-              "icon": "🏠",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/Cs3SQjGBa-V8NLS1-E0Roo.jpg",
-              "kurz": "Das Besetzerkollektiv Café Toujours hat an der Freiburgstrasse in Bern nun das gesamte Gebäude in Beschlag genommen. Die Eigentümerin, die Marti AG, soll einen Mietvertrag statt einer Räumung in Erwägung ziehen.",
-              "summary": "Das Café Toujours besetzt seit 2016 die Liegenschaft an der Freiburgstrasse 129/131 am Berner Europaplatz. Zuletzt hatten die Besetzerinnen und Besetzer nur einen Teil des Gebäudes inne; nun ist das gesamte Objekt besetzt. Eigentümerin ist die Bauunternehmung Marti AG, die das Gebäude abreissen will, um Platz für eine Hochhausüberbauung zu schaffen — der Baustart ist laut Planungsvereinbarung mit der Stadt Bern erst für 2029 vorgesehen. Laut Berichten erwägt die Eigentümerin statt einer Polizeiräumung die Abgabe eines temporären Mietvertrags.",
-              "gegenstimme": "Die Marti AG hält an ihren Bauplänen fest und sieht die Besetzung als rechtswidrigen Eingriff in ihr Eigentumsrecht. Kritiker der Besetzung argumentieren, dass auch für legitime Wohnprojekte der Rechtsweg offensteht und eine Besetzung kein geeignetes Mittel zur Durchsetzung politischer Ziele sei.",
-              "sources": [
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/cafe-toujours-bern-jetzt-ist-das-haus-komplett-besetzt-387237914555"
-                },
-                {
-                  "name": "Radio RaBe",
-                  "url": "https://rabe.ch/beitrag/10-03-2025/cafe-toujours-ein-freiraum-vor-dem-abriss"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/bern-wie-besetzer-kollektive-gegen-den-rauswurf-kaempfen-516740169784"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-22-bezos-100-milliarden-ki-industrie",
-              "slug": "bezos-100-milliarden-ki-industrie",
-              "title": "Bezos mobilisiert 100 Milliarden Dollar für KI in der Industriefertigung",
-              "date": "2026-03-22",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "💰",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/c178b2e7-dece-4e6d-ac47-cf99a58e49f5_w520_r2.08_fpx66.67_fpy50.jpg",
-              "kurz": "Amazon-Gründer Jeff Bezos plant einem Medienbericht zufolge einen 100-Milliarden-Dollar-Fonds, der KI-gestützte Transformation von Industrieunternehmen finanzieren soll.",
-              "summary": "Bezos führt laut Wall Street Journal bereits Gespräche mit grossen Vermögensverwaltern und Staatsfonds im Nahen Osten. Der geplante Fonds soll Unternehmen aus der Chip-, Rüstungs- und Raumfahrtbranche übernehmen und deren Automatisierung vorantreiben. Das Vorhaben steht in Verbindung mit dem KI-Start-up Project Prometheus, an dem Bezos beteiligt ist. Prometheus verhandelt derweil unabhängig über eine separate Finanzierung von bis zu sechs Milliarden Dollar.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass die massive Konzentration privaten Kapitals in sicherheitsrelevanten Industrien wie der Rüstung und der Chipherstellung regulatorische Fragen aufwirft. Zudem bleibt unklar, welche Mitbestimmungsrechte und Transparenzpflichten für einen solchen Privatfonds gelten würden.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/jeff-bezos-will-100-milliarden-dollar-fuer-neues-ki-projekt-einwerben-a-1f2111c2-33e2-457c-99c4-93a3b03b631b"
-                },
-                {
-                  "name": "Wall Street Journal",
-                  "url": "https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe"
+                  "name": "CMSWire",
+                  "url": "https://www.cmswire.com/digital-experience/wordpresscom-enables-ai-agents-to-write-manage-content/"
                 }
               ]
             }
