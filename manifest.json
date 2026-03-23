@@ -1,5 +1,5 @@
 {
-  "updated": "10:36 UTC",
+  "updated": "16:06 UTC",
   "days": [
     {
       "date": "2026-03-23",
@@ -597,6 +597,195 @@
                 {
                   "name": "NZZ – KI im Krieg: Drohnen und autonome Systeme",
                   "url": "https://www.nzz.ch/technologie/ist-das-noch-automatisch-oder-schon-autonom-wie-kuenstliche-intelligenz-den-krieg-veraendert-ld.1929494"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-23-dubai-raketenangriffe",
+              "slug": "dubai-raketenangriffe",
+              "title": "Dubai unter Beschuss: Die Handelsmetropole am Persischen Golf im Kreuzfeuer des Iran-Kriegs",
+              "date": "2026-03-23",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Seit drei Wochen beschiesst der Iran die Handelsmetropole Dubai mit Drohnen und Raketen. Die Stadt kämpft um ihren Ruf als sicheres Geschäftszentrum der Golfregion.",
+              "summary": "Dubai, das wirtschaftliche Aushängeschild der Region, steht seit Kriegsbeginn im Visier iranischer Raketen- und Drohnenangriffe – als Vergeltung für israelisch-amerikanische Schläge gegen den Iran. Die meisten Geschosse werden abgefangen, doch der Schaden ist bereits spürbar: Flughafen leer, Tourismus eingebrochen, Restaurants schliessen. Die VAE-Regierung verhängte eine Informationssperre. Das eigentliche Risiko liegt nicht in den Raketen selbst, sondern im drohenden Vertrauensverlust bei internationalen Investoren und der rund vier Millionen starken Expatriate-Gemeinschaft.",
+              "gegenstimme": "Teile der internationalen Gemeinschaft sehen in den iranischen Angriffen auf Dubai eine direkte Konsequenz des israelisch-amerikanischen Militärschlags auf den Iran. Dubai positioniert sich offiziell als neutral, ist aber faktisch Teil des westlich orientierten Golfsystems – was den Iran zu dieser Reaktion veranlasst.",
+              "sources": [
+                {
+                  "title": "NZZ: Krieg in Dubai – wie die Traumstadt mit den Angriffen umgeht",
+                  "url": "https://www.nzz.ch/international/krieg-in-dubai-wie-die-traumstadt-mit-den-angriffen-umgeht-ld.1930360"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-fdp-bundesvorstand-ruecktritt",
+              "slug": "fdp-bundesvorstand-ruecktritt",
+              "title": "FDP-Krise: Gesamter Bundesvorstand um Parteichef Dürr tritt zurück",
+              "date": "2026-03-23",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🇩🇪",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/60f529e6-a7ef-475e-bb2a-ef2f598a403f_w520_r2.08_fpx23_fpy36.jpg",
+              "kurz": "Nach dem Wahldebakel in Rheinland-Pfalz tritt der gesamte FDP-Bundesvorstand zurück. Beim Parteitag Ende Mai soll die Partei neu aufgestellt werden.",
+              "summary": "Die FDP zieht die Konsequenzen aus einer Serie von Wahlniederlagen: In Rheinland-Pfalz kam sie am Sonntag nur auf 2.1%, in Baden-Württemberg zuvor auf 4.4% – in beiden Ländern scheiterte sie an der Fünfprozenthürde. Parteichef Christian Dürr, erst seit Mai 2025 im Amt, hat den Rücktritt des gesamten Bundesvorstands eingeleitet. Beim Bundesparteitag Ende Mai soll eine vollständige Neuaufstellung erfolgen. Als mögliche Nachfolgekandidatin wird Europapolitikerin Marie-Agnes Strack-Zimmermann gehandelt, die sich für eine Doppelspitze angeboten hat.",
+              "gegenstimme": "Kritische Stimmen innerhalb der FDP warnen, dass ein blosser Führungswechsel das strukturelle Problem nicht löst: Die Partei hat seit der verlorenen Bundestagswahl im Februar 2025 kein überzeugendes Profil mehr gefunden. Ein Neustart an der Spitze sei notwendig, aber nicht hinreichend – ohne inhaltliche Erneuerung drohten weitere Niederlagen bei den Landtagswahlen in Ostdeutschland.",
+              "sources": [
+                {
+                  "title": "FDP-Chef Dürr muss gehen",
+                  "url": "https://www.spiegel.de/politik/deutschland/christian-duerr-fdp-chef-gibt-auf-a-f022de1c-693b-4cc1-905f-b17035019c18",
+                  "outlet": "Der Spiegel"
+                },
+                {
+                  "title": "Nach Wahl-Debakel: FDP-Bundesvorstand um Parteichef Dürr tritt zurück",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/nach-wahl-debakel-fdp-bundesvorstand-um-parteichef-duerr-tritt-zurueck/100210974.html",
+                  "outlet": "Handelsblatt"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-iran-israel-iron-dome",
+              "slug": "iran-israel-iron-dome",
+              "title": "Iran setzt Clusterbomben ein: Israelisches Iron-Dome-System erstmals durchbrochen",
+              "date": "2026-03-23",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Der Iran nutzt im laufenden Krieg gegen Israel vermehrt Raketen mit Streumunition, die das mehrschichtige israelische Abwehrsystem teilweise überwinden.",
+              "summary": "Seit Kriegsbeginn am 28. Februar 2026 haben mindestens 19 iranische Raketen mit Streumunition israelisches Territorium getroffen und dabei mindestens neun Menschen getötet sowie Dutzende verletzt. Experten erklären: Clusterbomben müssen abgefangen werden, bevor sie ihre Submunition freisetzen – danach ist eine Interception faktisch unmöglich. Israel gibt an, über 70 Prozent der iranischen Abschussrampen zerstört zu haben, dennoch treffen weiter Raketen ein. Am Wochenende wurden bei Angriffen auf die Städte Arad und Dimona rund 200 Personen verletzt.",
+              "gegenstimme": "Israel selbst hat in der Vergangenheit Streumunition eingesetzt – im Libanonkrieg 2006 gegen die Hisbollah, was von Amnesty International dokumentiert wurde. Weder Israel noch der Iran haben die internationale Konvention zum Verbot von Streumunition unterzeichnet. Beide Seiten bewegen sich in einer rechtlichen Grauzone, auch wenn das humanitäre Völkerrecht den Einsatz in Wohngebieten klar untersagt.",
+              "sources": [
+                {
+                  "title": "The Guardian: Breaching the Iron Dome – the Iranian cluster bombs bypassing Israeli air defences",
+                  "url": "https://www.theguardian.com/world/2026/mar/23/iran-cluster-bombs-bypassing-israel-air-defences"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-meloni-justizreform-gescheitert",
+              "slug": "meloni-justizreform-gescheitert",
+              "title": "Italiens Verfassungsreferendum: Meloni erleidet Niederlage bei Justizreform",
+              "date": "2026-03-23",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🇮🇹",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Italiens Regierungschefin Giorgia Meloni scheitert beim Verfassungsreferendum zur Justizreform. Das Nein-Lager erhielt laut Hochrechnungen rund 54 Prozent der Stimmen.",
+              "summary": "Am 23. März 2026 stimmten Italiens Bürgerinnen und Bürger über eine grundlegende Reform des Justizsystems ab. Kernpunkt war die Trennung der Laufbahnen von Richtern und Staatsanwälten sowie neue Selbstverwaltungsorgane. Nach Schliessung der Wahllokale um 15 Uhr deuteten alle Hochrechnungen auf ein klares Nein hin – rund 53,9 Prozent lehnten die Reform ab. Die Wahlbeteiligung lag bei überraschend hohen 58 Prozent. Für Meloni ist es die bisher deutlichste innenpolitische Niederlage.",
+              "gegenstimme": "Befürworter der Reform – darunter liberale Juristen und Melonis Koalition – argumentieren, dass die Trennung von Richtern und Staatsanwälten in den meisten europäischen Ländern bereits Standard sei und die notorisch langsame italienische Justiz dringend reformbedarf habe. Für sie ist das Nein ein Sieg des Establishments über eine überfällige Modernisierung.",
+              "sources": [
+                {
+                  "title": "Italien stimmt über die Justizreform ab",
+                  "url": "https://www.nzz.ch/international/italien-entscheidet-ueber-justizreform-melonis-politischer-test-ld.1930579",
+                  "outlet": "NZZ"
+                },
+                {
+                  "title": "Meloni mit Justizreform wohl gescheitert",
+                  "url": "https://www.handelsblatt.com/politik/international/italien-meloni-mit-justizreform-wohl-gescheitert/100210960.html",
+                  "outlet": "Handelsblatt"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-nordkorea-kim-wiederwahl",
+              "slug": "nordkorea-kim-wiederwahl",
+              "title": "Nordkorea: Kim Jong Un bestätigt sich selbst als Präsident – Wahlbeteiligung 99.99%",
+              "date": "2026-03-23",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/69140c80-97ce-4103-b4a0-ec8fb6e706cd_w520_r2.08_fpx39.98_fpy49.99.jpg",
+              "kurz": "Kim Jong Un wurde von der nordkoreanischen Obersten Volksversammlung erneut zum Präsidenten für Staatsangelegenheiten gewählt – bei einer offiziellen Wahlbeteiligung von 99,99 Prozent.",
+              "summary": "Nordkoreas Machthaber Kim Jong Un wurde am 23. März 2026 von der neu zusammengesetzten Obersten Volksversammlung wieder ins höchste Staatsamt bestätigt. Zuvor waren die Parlamentsmitglieder mit 99,93 Prozent Jastimmen gewählt worden. Beobachter bezeichnen den Vorgang als reine Inszenierung ohne realen Wettbewerb. Parallel dazu kündigte Air China die Wiederaufnahme von Direktflügen zwischen Peking und Pjöngjang an – ein Zeichen der Öffnung zum mächtigsten Verbündeten.",
+              "gegenstimme": "Aus Sicht der nordkoreanischen Staatsführung verleihen solche Abstimmungen dem Regime eine formale Legitimationsbasis im In- und Ausland. Die hohe Beteiligung und das geschlossene Abstimmungsverhalten werden intern als Ausdruck des «Volkswillens» dargestellt – auch wenn ausländische Beobachter das Gegenteil konstatieren. Zudem ermöglicht die neue Parlamentszusammensetzung der Führung, politische Loyalitäten sichtbar zu machen und zu bestätigen.",
+              "sources": [
+                {
+                  "title": "Kim Jong Un genehmigt sich seine Wiederwahl",
+                  "url": "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-genehmigt-sich-seine-wiederwahl-a-cc32bd0b-535d-4570-b6e5-db1285ef3507",
+                  "outlet": "Der Spiegel"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-sudan-drohnenangriff-spital",
+              "slug": "sudan-drohnenangriff-spital",
+              "title": "Sudan: Drohnenangriff auf Spital tötet über 60 Menschen – mögliches Kriegsverbrechen",
+              "date": "2026-03-23",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Ein Drohnenangriff auf das einzige Spital in Ost-Darfur hat mindestens 64 Menschen das Leben gekostet, darunter 13 Kinder – am Fest des Fastenbrechens.",
+              "summary": "In der sudanesischen Stadt al-Daein wurde am Morgen des Eid al-Fitr das Al-Daein-Lehrspital durch eine Drohne getroffen und zerstört. 64 Tote, 89 Verletzte – darunter Kinder, ein Arzt und zwei Pflegefachfrauen. Die WHO verurteilte den Angriff und bezeichnete ihn als potenzielles Kriegsverbrechen. Das Spital war die einzige Gesundheitseinrichtung mit stationärer Behandlung für zwei Millionen Menschen in der Region. Die sudanesische Menschenrechtsorganisation Emergency Lawyers macht die Armee verantwortlich; diese bestreitet jede Beteiligung.",
+              "gegenstimme": "Die sudanesische Armee weist alle Schuldzuweisungen zurück. Unabhängige Untersuchungen gestalten sich äusserst schwierig, da internationale Beobachter kaum Zugang zu Ost-Darfur haben. Die Region wird von den paramilitärischen RSF kontrolliert, deren eigene Drohneneinsätze an anderen Fronten ebenfalls dokumentiert sind. Eine abschliessende Täterschaft ist ohne unabhängige Ermittlung nicht feststellbar.",
+              "sources": [
+                {
+                  "title": "NZZ: Drohnenangriff auf Spital im Sudan könnte ein Kriegsverbrechen sein",
+                  "url": "https://www.nzz.ch/international/drohnenangriff-auf-spital-im-sudan-koennte-ein-kriegsverbrechen-sein-ld.1930533"
+                },
+                {
+                  "title": "BBC: Sudan hospital attack",
+                  "url": "https://www.bbc.com/news/articles/c5y7gxqpplvo"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-srg-stellenabbau",
+              "slug": "srg-stellenabbau",
+              "title": "SRG streicht 900 Stellen bis 2029 – Konsultationsverfahren ändert nichts",
+              "date": "2026-03-23",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/03/23/30b7df49-41f2-4f51-b213-b6b6682d5acc.jpg",
+              "kurz": "Die SRG hält am Abbau von 900 Vollzeitstellen bis 2029 fest. Das abgeschlossene Konsultationsverfahren brachte keine Reduktion des Stellenabbaus.",
+              "summary": "Die SRG schliesst das gesetzlich vorgeschriebene Konsultationsverfahren ab, das Mitarbeitenden erlaubte, Vorschläge zur Vermeidung von Kündigungen einzureichen. Das Resultat: Trotz zahlreicher Eingaben bleibt der Abbau von 900 Vollzeitstellen bis 2029 unverändert bestehen. Hintergrund ist die Senkung der Medienabgabe auf 300 Franken pro Haushalt, die Einsparungen von rund 270 Millionen Franken erfordert. Entlassungen sind laut SRG unvermeidlich; ein Teil des Abbaus soll über Fluktuation und Pensionierungen erfolgen.",
+              "gegenstimme": "Gewerkschaften und Medienschaffende kritisieren den Entscheid scharf: Das Konsultationsverfahren sei bloss eine Pflichtübung gewesen, ohne echten Gestaltungswillen. Sie befürchten gravierende Auswirkungen auf die Qualität des Service public, insbesondere in der Romandie und im Tessin, wo die SRG ohnehin über weniger Ressourcen verfügt. Medienpolitiker der Linken fordern, die Abgabesenkung rückgängig zu machen.",
+              "sources": [
+                {
+                  "title": "Abbau bleibt bestehen: Bis 2029 muss SRG 900 Stellen streichen",
+                  "url": "https://www.20min.ch/story/konsultationsverfahren-abbau-bleibt-bestehen-bis-2029-muss-srg-900-stellen-streichen-103532315",
+                  "outlet": "20 Minuten"
+                },
+                {
+                  "title": "SRG streicht 900 Stellen – Konsultation bringt keine Änderung",
+                  "url": "https://www.derbund.ch/srg-streicht-900-stellen-konsultation-bringt-keine-aenderung-545449718826",
+                  "outlet": "Der Bund"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-iran-boersen-erholung",
+              "slug": "iran-boersen-erholung",
+              "title": "Märkte drehen ins Plus: Ölpreis bricht um 10% ein – Trump-Signale zur Iran-Entspannung",
+              "date": "2026-03-23",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Europäische Börsen schliessen im Plus, nachdem Trump-Signale zur Iran-Entspannung den Ölpreis auf 102 USD drücken. SMI gewinnt 1.26%, DAX 2.24%.",
+              "summary": "Nach einem turbulenten Handelstag drehen die europäischen Leitindizes ins Plus: SMI +1.26%, DAX +2.24%. Auslöser der Erholung sind Berichte über diplomatische Signale aus Washington, die eine mögliche Entspannung im Iran-Konflikt andeuten. Der Brent-Ölpreis bricht daraufhin um knapp 10% auf rund 102 USD ein. Zuvor hatten Asienmarkte nach neuen US-Drohungen gegen den Iran mit deutlichen Verlusten reagiert – der Nikkei verlor bis zu 5%, der Kospi sogar 6.5%.",
+              "gegenstimme": "Skeptiker warnen, dass die Erholung auf dünnem Eis steht: Die geopolitischen Risiken im Nahen Osten sind keineswegs ausgeräumt, und Händler verweisen darauf, dass ähnliche Trump-Signale in der Vergangenheit rasch revidiert wurden. Ein erneuter Eskalationsschub könnte die Gewinne schnell zunichtemachen.",
+              "sources": [
+                {
+                  "title": "Asien: Eskalation um Iran belastet die Kurse – Anleiherenditen steigen",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/asien-eskalation-um-iran-belastet-die-kurse-anleiherenditen-steigen/100210713.html",
+                  "outlet": "Handelsblatt"
                 }
               ]
             }
