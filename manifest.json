@@ -1,5 +1,5 @@
 {
-  "updated": "05:11 UTC",
+  "updated": "10:36 UTC",
   "days": [
     {
       "date": "2026-03-23",
@@ -404,6 +404,199 @@
                 {
                   "name": "CMSWire",
                   "url": "https://www.cmswire.com/digital-experience/wordpresscom-enables-ai-agents-to-write-manage-content/"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-23-jospin-gestorben",
+              "slug": "jospin-gestorben",
+              "title": "Frankreich: Früherer Premierminister Lionel Jospin mit 88 Jahren gestorben",
+              "date": "2026-03-23",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/7e1d72ce-8825-42cb-b4e6-4c8704c9ca7_w520_r2.08_fpx50_fpy54.jpg",
+              "kurz": "Frankreichs früherer Premierminister Lionel Jospin ist am vergangenen Sonntag im Alter von 88 Jahren gestorben.",
+              "summary": "Lionel Jospin, sozialistischer Politiker und Premierminister Frankreichs von 1997 bis 2002, ist verstorben. Seine Familie informierte die Nachrichtenagentur AFP am Montag über seinen Tod. Jospin regierte in der Kohabitation mit dem konservativen Staatspräsidenten Jacques Chirac und gilt als Architekt einer breiten linken Koalition, der sogenannten «gauche plurielle». Unter seiner Regierung wurden die 35-Stunden-Woche, eine allgemeine Krankenversicherung sowie die eingetragene Lebenspartnerschaft eingeführt.",
+              "gegenstimme": "Trotz seiner Erfolge bleibt Jospin auch mit einer herben Niederlage verbunden: Bei der Präsidentschaftswahl 2002 schied er überraschend in der ersten Runde aus, weil der Rechtsextremist Jean-Marie Le Pen auf den zweiten Platz kam. Kritiker werfen Jospin vor, die Gefahr des Rechtsextremismus unterschätzt und die linke Basis zu sehr durch pragmatische Realpolitik enttäuscht zu haben.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/frankreich-frueherer-regierungschef-lionel-jospin-gestorben-a-550c34c0-7c96-4940-87f8-cdcc8615599f"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-klima-energieungleichgewicht",
+              "slug": "klima-energieungleichgewicht",
+              "title": "UN-Klimabericht: 2015–2025 heisseste Dekade – Planet an seinen Grenzen",
+              "date": "2026-03-23",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/e0a64180-80b8-4504-94bc-49bf65e5f633_w520_r2.08_fpx41_fpy48.jpg",
+              "kurz": "Die Weltwetterorganisation bestätigt: Die Jahre 2015 bis 2025 waren die heisseste Elf-Jahres-Periode seit Messbeginn. Das Energieungleichgewicht der Erde erreicht einen neuen Rekordwert.",
+              "summary": "Der neue WMO-Jahresbericht zum Klima 2025 zeichnet ein alarmierendes Bild: Alle zentralen Klimaindikatoren entwickeln sich in die falsche Richtung. Das planetare Energieungleichgewicht – die Differenz zwischen absorbierter und abgegebener Energie – wächst rasant und hat 2025 einen neuen Höchststand erreicht. Über 91 Prozent der überschüssigen Energie werden von den Ozeanen aufgenommen, deren Erwärmungsrate sich in den letzten 20 Jahren mehr als verdoppelt hat. UN-Generalsekretär António Guterres sprach von einem globalen Notstand.",
+              "gegenstimme": "Einige Klimawissenschaftler und WMO-Vertreter mahnen zur Vorsicht vor reinem Alarmismus: Trotz der beunruhigenden Zahlen zeige der Ausbau erneuerbarer Energien weltweit Wirkung. WMO-Klimawissenschaftlerin Claire Ransom betonte, Hoffnung sei nicht nur berechtigt, sondern notwendig – wer in Hoffnungslosigkeit verfalle, trage zum Weiterwachsen der Emissionen bei.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/mensch/klimawandel-der-planet-erde-wird-an-seine-grenzen-gebracht-a-8b29db3b-443d-4e62-8a0a-78487f4c63f1"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/environment/2026/mar/23/earth-being-pushed-beyond-its-limits-as-energy-imbalance-reaches-record-high"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c203rdxkezwo"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-kuba-us-militaer",
+              "slug": "kuba-us-militaer",
+              "title": "Kuba bereitet sich auf US-Militäreinsatz vor – Trump droht, Russland verspricht Hilfe",
+              "date": "2026-03-23",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌎",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/60f37608-2caa-44d4-bc43-691b9dd7605b_w520_r2.08_fpx33.34_fpy50.jpg",
+              "kurz": "Kubas Militär rüstet sich nach Trumps Übernahme-Drohungen. Russland schickt Öltanker als Zeichen der Solidarität.",
+              "summary": "Nach wiederholten Drohungen von US-Präsident Donald Trump, Kuba zu 'übernehmen', hat Havannas Vizeaussenminister bestätigt, dass das Militär konkrete Vorbereitungsmassnahmen trifft. Die Insel kämpft gleichzeitig mit einem erneuten landesweiten Stromausfall, ausgelöst durch den maroden Zustand der Energieinfrastruktur. Russland hat zwei Tanker mit Diesel und Rohöl auf den Weg nach Kuba geschickt. Im Hintergrund laufen offenbar geheime diplomatische Gespräche zwischen Washington und Havanna.",
+              "gegenstimme": "Kritiker in den USA und unter Lateinamerikaexperten sehen Trumps Rhetorik primär als innenpolitisches Kalkül und bezweifeln, dass ein Militäreinsatz ernsthaft geplant ist. Kubas Regierung nutze die Drohungen ihrerseits, um den innenpolitischen Druck auf die Bevölkerung umzuleiten und das Regime zu stabilisieren.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/kuba-bereitet-sich-auf-us-militaereinsatz-vor-a-5c995131-0312-44c4-ac46-24fc5197221e"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/kuba-bereitet-sich-auf-moeglichen-us-militaereinsatz-vor-518291455029"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-laguardia-flugzeug-unfall",
+              "slug": "laguardia-flugzeug-unfall",
+              "title": "Zwei Tote bei Kollision am New Yorker LaGuardia Airport: Air-Canada-Jet rammt Feuerwehrfahrzeug",
+              "date": "2026-03-23",
+              "time": "12:15",
+              "category": "international",
+              "icon": "✈️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/11fb2d65-d382-4327-b941-adf59d83ad5e_w520_r2.08_fpx50_fpy46.95.jpg",
+              "kurz": "Am New Yorker Flughafen LaGuardia kollidierte ein Air-Canada-Express-Jet nach der Landung mit einem Feuerwehrfahrzeug – Pilot und Co-Pilot kamen ums Leben.",
+              "summary": "In der Nacht auf Montag, 23. März 2026, stiess eine Regionalmaschine von Air Canada Express auf dem Rollfeld des LaGuardia Airports mit einem Lösch- und Rettungsfahrzeug zusammen. Beide Piloten erlagen ihren Verletzungen, rund 40 weitere Personen wurden ins Spital eingeliefert. Das Feuerwehrfahrzeug war kurz zuvor zu einem anderen Notfall unterwegs gewesen. Der Flughafenbetrieb wurde vollständig unterbrochen.",
+              "gegenstimme": "Sicherheitsexperten weisen darauf hin, dass Kollisionen zwischen Luftfahrzeugen und Bodenfahrzeugen trotz fortschrittlicher Bodenkontrollsysteme noch immer vorkommen – und fragen, ob die Kommunikation zwischen Tower und Bodenfahrzeugen in dieser Nacht lückenlos funktioniert hat. Funkmitschnitte zeigen, dass der Fluglotse noch versuchte, das Fahrzeug zu stoppen, bevor es zur Kollision kam.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/panorama/justiz/new-york-air-canada-flug-kollidiert-am-flughafen-laguardia-mit-fahrzeug-a-267574dd-e814-475c-8517-090c90aca8e8"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-spd-rehlinger-ablehnung",
+              "slug": "spd-rehlinger-ablehnung",
+              "title": "SPD-Krise nach Rheinland-Pfalz: Rehlinger lehnt Parteichef-Position ab",
+              "date": "2026-03-23",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇩🇪",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/a1a39c0d-0c75-48f8-93e3-6c3e509c9ca7_w520_r2.08_fpx48.67_fpy49.99.jpg",
+              "kurz": "Nach der schweren Wahlniederlage der SPD in Rheinland-Pfalz hat Saarlands Ministerpräsidentin Anke Rehlinger eine Kandidatur als Parteichefin klar abgelehnt.",
+              "summary": "Die SPD steckt nach einer weiteren Niederlage bei der Landtagswahl in Rheinland-Pfalz in einer Führungsdebatte. Abgeordnete wie Doris Schröder-Köpf forderten den Rücktritt der Co-Chefs Lars Klingbeil und Bärbel Bas und brachten Anke Rehlinger als neue Parteichefin ins Spiel. Diese lehnte jedoch im Deutschlandfunk klar ab und bekräftigte ihre Absicht, Ministerpräsidentin des Saarlandes zu bleiben. SPD-Fraktionschef Matthias Miersch stellte sich hinter Klingbeil und Bas.",
+              "gegenstimme": "Kritiker innerhalb der Partei sehen in der Ablehnung Rehlingers ein Symptom einer tieferen Krise: Erfolgreiche Landespolitiker wollen die toxische Marke SPD auf Bundesebene nicht übernehmen. Die wiederholten Wahlniederlagen – nach Baden-Württemberg nun Rheinland-Pfalz – zeigen, dass Personaldebatten allein das inhaltliche Vakuum der Partei nicht füllen können.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/spd-anke-rehlinger-will-nicht-parteichefin-werden-a-c30d4f25-18fe-45d7-a98b-1e1f7fe6dee0"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-bundesrat-roesti-atomstrom",
+              "slug": "bundesrat-roesti-atomstrom",
+              "title": "Bundesrat Rösti fordert Rückkehr zum Atomstrom: «Erneuerbaren-Blockade massiv durchbrechen»",
+              "date": "2026-03-23",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "⚡",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Energieminister Albert Rösti plädiert für neue Kernkraftwerke und einen entschlosseneren Ausbau der Erneuerbaren – andernfalls drohe der Schweiz eine Strommangellage.",
+              "summary": "Angesichts steigender Stromnachfrage durch Elektromobilität, künstliche Intelligenz und Bevölkerungswachstum warnt Bundesrat Albert Rösti vor einer ernsthaften Versorgungslücke. Er fordert entweder die Erneuerung bestehender Kernkraftwerke oder – als Alternativszenairo – einen massiven Abbau der Einsprache-Blockaden beim Ausbau erneuerbarer Energien. Laut Rösti sei ein Blackout «nicht ganz unwahrscheinlich», falls die Schweiz nicht entschlossen handelt. Er sieht kein Entweder-oder: Langfristig werde die Schweiz sowohl erneuerbare Energien als auch neue AKW brauchen.",
+              "gegenstimme": "Umwelt- und Energieverbände kritisieren, dass Röstis Vorstoss zugunsten der Kernenergie eine politische Agenda verfolgt, die den Volkswillen von 2017 unterläuft. Damals hat die Bevölkerung klar für den Atomausstieg und den Umstieg auf Erneuerbare gestimmt. Kritiker betonen zudem, dass Einspracheverfahren ein wichtiges demokratisches Instrument zum Schutz von Natur und Bevölkerung sind – und nicht als «Blockade» abgetan werden dürfen. Stattdessen brauche es bessere Anreize und raschere Planung, nicht weniger Mitsprache.",
+              "sources": [
+                {
+                  "name": "NZZ – Bundesrat Rösti fordert Rückbesinnung auf Atomstrom",
+                  "url": "https://www.nzz.ch/schweiz/bundesrat-roesti-fordert-die-rueckbesinnung-auf-atomstrom-sonst-muessen-wir-die-blockade-bei-den-erneuerbaren-massiv-durchbrechen-ld.1928365"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-schweiz-kriminalstatistik-2025",
+              "slug": "schweiz-kriminalstatistik-2025",
+              "title": "Kriminalstatistik 2025: Schwere Gewalttaten und Tötungsdelikte nehmen zu",
+              "date": "2026-03-23",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Die Schweizer Kriminalstatistik 2025 meldet weniger Straftaten insgesamt, aber deutlich mehr schwere Gewalttaten und Tötungsdelikte als im langjährigen Mittel.",
+              "summary": "Das Bundesamt für Statistik hat die polizeiliche Kriminalstatistik 2025 veröffentlicht. Die Gesamtzahl der Straftaten sank um 1,5 Prozent auf 554'963 Fälle, was vor allem auf weniger Vermögensdelikte zurückzuführen ist. Im Gegensatz dazu stiegen schwere Gewaltstraftaten um 8,1 Prozent. 55 vollendete Tötungsdelikte wurden registriert – deutlich über dem langjährigen Mittel von 48. Über 60 Prozent der Tötungen ereigneten sich im häuslichen Bereich, Frauen waren dabei überproportional betroffen.",
+              "gegenstimme": "Kriminologen warnen davor, einzelne Kategorien aus dem Kontext zu reissen. Der Anstieg bei Vergewaltigungen (+29 Prozent) ist zu einem erheblichen Teil auf die Anpassung des Sexualstrafrechts per 1. Juli 2024 zurückzuführen, die den Tatbestand neu definierte. Bezogen auf die Bevölkerungszahl liegt die Kriminalität mit 61 Straftaten pro 1000 Einwohnerinnen und Einwohner klar unter dem Wert von 2009 (72 pro 1000). Die absolute Zahl an Straftaten relativiert sich, wenn man das Bevölkerungswachstum berücksichtigt.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/die-kriminalstatistik-zeigt-mehr-einbrueche-mehr-gewalttaten-und-mehr-toetungsdelikte-als-sonst-ld.1930079"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/kriminalstatistik-2025-kriminalstatistik-2025-immer-mehr-schwere-gewalttaten-103530095"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-23-ki-autonome-waffen-eth",
+              "slug": "ki-autonome-waffen-eth",
+              "title": "ETH-Forscherin warnt: KI im Krieg wird bald so schnell entscheiden, dass Menschen nicht mehr eingreifen können",
+              "date": "2026-03-23",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "midday",
+              "image": "",
+              "kurz": "ETH-Sicherheitsforscherin Myriam Dunn Cavelty warnt vor dem zunehmenden Tempo KI-gestützter Kriegsführung – bald könnten Menschen aus dem Entscheidungsprozess verdrängt werden.",
+              "summary": "Künstliche Intelligenz ist längst Teil moderner Kriegsführung: von der Auswertung von Satellitenbildern über die Zielauswahl bis hin zu autonomen Drohnen. ETH-Sicherheitsforscherin Myriam Dunn Cavelty warnt, dass KI-Systeme Militärs bereits heute 30-mal mehr Handlungsoptionen in unter 10 Sekunden liefern können – eine Geschwindigkeit, bei der Menschen immer schwerer mithalten. Die ethische Grundforderung, dass Menschen über Leben und Tod entscheiden müssen, gerät damit zunehmend unter Druck. Aktuelle Konflikte wie in Gaza, der Ukraine und dem Iran gelten als erste Bewährungsproben für KI im echten Kriegseinsatz.",
+              "gegenstimme": "Militärexperten und Rüstungsbefürworter argumentieren, dass KI die Präzision erhöht und zivile Opfer reduzieren kann – wenn sie korrekt eingesetzt wird. Zudem seien viele der vermeintlich «autonomen» Systeme nach wie vor auf menschliche Freigabe angewiesen. Die USA, Israel und andere Länder betonen, dass der Mensch formal in der Entscheidungskette verbleibe. Kritiker dieser Position entgegnen jedoch, dass formale Zuständigkeit und tatsächliche Kontrolle zwei verschiedene Dinge sind – gerade wenn Algorithmen in Millisekunden Empfehlungen ausgeben, denen Soldaten unter Druck faktisch folgen.",
+              "sources": [
+                {
+                  "name": "Der Bund – AI im Krieg",
+                  "url": "https://www.derbund.ch/ai-im-krieg-entscheidungen-so-schnell-dass-menschen-nicht-mehr-eingreifen-koennen-121163310119"
+                },
+                {
+                  "name": "Berner Zeitung – AI im Krieg",
+                  "url": "https://www.bernerzeitung.ch/ai-im-krieg-entscheidungen-so-schnell-dass-menschen-nicht-mehr-eingreifen-koennen-121163310119"
+                },
+                {
+                  "name": "NZZ – KI im Krieg: Drohnen und autonome Systeme",
+                  "url": "https://www.nzz.ch/technologie/ist-das-noch-automatisch-oder-schon-autonom-wie-kuenstliche-intelligenz-den-krieg-veraendert-ld.1929494"
                 }
               ]
             }
