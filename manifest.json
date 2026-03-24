@@ -1,5 +1,5 @@
 {
-  "updated": "10:37 UTC",
+  "updated": "16:10 UTC",
   "days": [
     {
       "date": "2026-03-24",
@@ -601,6 +601,175 @@
                 {
                   "name": "BBC News",
                   "url": "https://www.bbc.com/news/articles/c74787w149zo"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-24-daenemark-wahl-frederiksen",
+              "slug": "daenemark-wahl-frederiksen",
+              "title": "Daenemark waehlt: Mette Frederiksen sucht dritte Amtszeit – Groenland-Streit als Rueckenwind",
+              "date": "2026-03-24",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🇩🇰",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Daenemark waehlt einen neuen Folketing. Ministerpraesident Mette Frederiksen hofft auf eine dritte Amtszeit – befluegeltvon ihrer entschlossenen Haltung im Groenland-Konflikt mit den USA.",
+              "summary": "Am 24. Maerz 2026 gehen die Daenen an die Urne, Monate frueher als urspruenglich geplant. Frederiksen setzte auf den sogenannten Trump-Effekt: Ihre kompromisslose Ablehnung amerikanischer Annexionsforderungen gegenueber Groenland machte sie zur nationalen Symbolfigur. Umfragen sehen die Sozialdemokraten mit ueber 20 Prozent klar vorn, doch eine Mehrheit fuer den linken Bloc ist unsicher. Auch ein Regierungswechsel zugunsten des rechten Blocks ist moeglich – der Ausgang haengt von den Zentrumsparteien ab.",
+              "gegenstimme": "Kritiker werfen Frederiksen vor, die Neuwahl opportunistisch auf den Hoehepunkt des Groenland-Hypes angesetzt zu haben, waehrend die eigentlichen Waehlersorgen – steigende Lebenshaltungskosten, Pestizide im Trinkwasser, Wohnungsknappheit – ungeloest bleiben. Die Sozialdemokraten verloren seit 2022 spuerbar an Unterstuetzung; bei den Kommunalwahlen 2025 erzielten sie nur 17 Prozent. Politologen warnen, dass ein Wahlsieg auf Basis eines temporaeren Populaerboosts keine stabile Regierung garantiert.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cvgk02j4l4ko"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-philippinen-energienotstand-iran",
+              "slug": "philippinen-energienotstand-iran",
+              "title": "Philippinen rufen Energienotstand aus – Iran-Krieg gefaehrdet Oelversorgung",
+              "date": "2026-03-24",
+              "time": "18:00",
+              "category": "international",
+              "icon": "⚡",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Praesident Marcos Jr. hat auf den Philippinen einen nationalen Energienotstand ausgerufen. Ausloeser ist der Konflikt im Nahen Osten, der die Strasse von Hormuz blockiert und die Oelpreise mehr als verdoppelt hat.",
+              "summary": "Die Philippinen sind das erste Land weltweit, das als Reaktion auf den Krieg zwischen den USA, Israel und Iran einen nationalen Energienotstand erklaert hat. 98 Prozent des philippinischen Oels stammen aus dem Golf; seit Kriegsbeginn am 28. Februar haben sich Benzin- und Dieselpreise mehr als verdoppelt. Ein Regierungskomitee ueberwacht nun die Versorgung mit Treibstoff und Grundgutern, die Regierung darf direkt Erdoel kaufen. Die Massnahme gilt vorerst fuer ein Jahr.",
+              "gegenstimme": "Wirtschaftsexperten und Oppositionspolitiker auf den Philippinen kritisieren, dass die Regierung frueher haette handeln muessen: Trotz offensichtlicher Warnsignale seit Kriegsbeginn Ende Februar reagierte Manila erst Wochen spaeter mit einem formellen Notstand. Zudem befuerchten Buergerrechtsgruppen, dass ein Energienotstand die Regierung ermaechtigt, weit ueber die Energiepolitik hinaus in Wirtschaft und Verteilung einzugreifen – mit potenziell autokratischen Nebeneffekten. Die stark gestiegene Abhaengigkeit von Kohle als Ausweichenergie steht zudem im Widerspruch zu den Klimaversprechen des Landes.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c3ex8ez3717o"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-russland-spione-drohnen-deutschland",
+              "slug": "russland-spione-drohnen-deutschland",
+              "title": "Bundesanwaltschaft nimmt mutmassliche russische Spione fest – Drohnenlieferant ausgespaeht",
+              "date": "2026-03-24",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🕵️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/b981209d-0001-0004-0000-000001096446_w520_r2.08_fpx43.8_fpy50.jpg",
+              "kurz": "Die Bundesanwaltschaft hat zwei mutmassliche russische Agenten festgenommen, die einen deutschen Drohnenlieferanten ausspioniert haben sollen. Ermittler schliessen einen geplanten Sabotageakt nicht aus.",
+              "summary": "Nach SPIEGEL-Informationen hat die Bundesanwaltschaft zwei Personen festnehmen lassen, denen nachrichtendienstliche Taetigkeit fuer Russland vorgeworfen wird. Ziel des mutmasslichen Spionageeinsatzes war ein deutsches Unternehmen, das Drohnen an die Ukraine liefert. Ermittler pruefen, ob die Ausspähung als Vorbereitung eines Sabotageakts diente. Die Festnahmen reihen sich ein in eine Serie russischer Operationen gegen westliche Ruestungs- und Lieferketten.",
+              "gegenstimme": "Russland weist Spionagevorwuerfe gegen seine Staatsbuerger im Ausland grundsaetzlich zurueck und bezeichnet solche Verfahren regelmaessig als politisch motiviert. Kritiker in Deutschland mahnen zudem, dass die oeffentliche Kommunikation laufender Geheimdienstverfahren die Arbeit der Ermittler erschweren und Quellen gefaehrden koennte. Buergerrechtsorganisationen weisen darauf hin, dass bei Terrorismus- und Spionageverdacht die rechtsstaatlichen Garantien – insbesondere die Unschuldsvermutung – gewahrt bleiben muessen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest-a-6b429cbe-4627-466f-b42e-db6a5e82ad89"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-e-auto-europa-absatz-plus20",
+              "slug": "e-auto-europa-absatz-plus20",
+              "title": "Europa kauft 20% mehr Elektroautos – Verbrenner verlieren deutlich Marktanteile",
+              "date": "2026-03-24",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "🔋",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/884986fd-a844-4209-8220-4a15080768ad_w520_r2.08_fpx33.34_fpy50.jpg",
+              "kurz": "Der Absatz von Elektroautos in Europa ist in den ersten zwei Monaten 2026 um gut ein Fünftel gestiegen. Benzin- und Dieselfahrzeuge verlieren derweil massiv Marktanteile.",
+              "summary": "Laut dem europäischen Herstellerverband ACEA wurden in der EU in Januar und Februar 2026 rund 312.000 reine Elektrofahrzeuge verkauft – ein Plus von über 20 Prozent gegenüber dem Vorjahreszeitraum. Der Marktanteil der BEV stieg von 15,2 auf 18,8 Prozent. Plug-in-Hybride legten sogar 30 Prozent zu. Gleichzeitig brachen Benziner um 23 Prozent und Diesel um 18 Prozent ein. Der Gesamtautomarkt zeigt sich dabei weiterhin schwach, mit rückläufigen Zahlen bei den deutschen Premiumherstellern VW, BMW und Mercedes.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass die starken Zuwachsraten bei Elektroautos teilweise auf die niedrige Vergleichsbasis des schwachen Vorjahres zurückzuführen sind. Zudem bleibt der Gesamtmarkt rückläufig – mehr E-Auto-Anteil bei weniger verkauften Autos insgesamt bedeutet nicht zwingend einen Durchbruch. Die Ladeinfrastruktur hinkt in vielen EU-Regionen weiterhin hinterher, und die hohen Einstiegspreise für Elektrofahrzeuge schliessen grosse Teile der Bevölkerung vom Markt aus. Ausserdem profitiert primär der chinesische Hersteller BYD vom Wachstum – nicht die europäische Industrie.",
+              "sources": [
+                {
+                  "name": "Der Spiegel – Europäer kaufen gut ein Fünftel mehr Elektroautos",
+                  "url": "https://www.spiegel.de/mobilitaet/auto/e-mobilitaet-europaeer-kaufen-gut-ein-fuenftel-mehr-elektroautos-a-31786877-ef28-4533-8494-f392c40b19d1"
+                },
+                {
+                  "name": "ACEA – European Automobile Manufacturers Association",
+                  "url": "https://www.acea.auto"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-hormuz-schifffahrt-kosten-explodieren",
+              "slug": "hormuz-schifffahrt-kosten-explodieren",
+              "title": "Preis der Hormuz-Blockade: Versicherungen und Treibstoff explodieren für Reeder",
+              "date": "2026-03-24",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "🚢",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/2b966b4a-da21-402d-8e77-96a002147ace_w520_r2.08_fpx50_fpy56.jpg",
+              "kurz": "Die Sperrung der Strasse von Hormuz durch den Iran treibt die Kosten für Reeder massiv in die Höhe. Versicherungen, Treibstoff und Mannschaftszulagen explodieren – und die Industrie gibt die Mehrkosten weiter.",
+              "summary": "Seit der de-facto-Blockade der Strasse von Hormuz durch den Iran sind die Betriebskosten für Schiffe auf der Golfroute drastisch gestiegen. Der Tagesatz für grosse Öltanker (VLCC) stieg von 120.000 auf 420.000 US-Dollar. Kriegsrisikoversicherungen und Heuer-Zulagen für Besatzungen verteuern sich weiter. Europas Industrie spürt die Folgen: Der Einkaufsmanagerindex signalisiert Stagflation, mit sinkender Produktion und steigenden Inputpreisen gleichzeitig. Die EZB steht damit in einem Dilemma zwischen Inflationsbekämpfung und Wachstumsstützung.",
+              "gegenstimme": "Einige Ökonomen und Reedervertreter warnen vor Panikreaktionen. Die Blockade ist juristisch nicht als formale Seeblockade anerkannt, und ein Teil des Handels läuft weiterhin über alternative Routen. Die Kostensteigerungen sind real, aber Unternehmen mit langfristigen Verträgen sind teilweise abgesichert. Zudem könnten rasch steigende Preise politischen Druck auf eine diplomatische Lösung erhöhen – was den Konflikt und die Kostenexplosion rascher beenden könnte als erwartet.",
+              "sources": [
+                {
+                  "name": "Der Spiegel – Irankrieg und Schifffahrt: Der Preis der Hormus-Blockade",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-schifffahrt-der-preis-der-hormus-blockade-a-4dd4b158-1bec-4820-b055-88d8c1474235"
+                },
+                {
+                  "name": "Handelsblatt – Iran-Krieg: Industrieunternehmen heben Preise an",
+                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/iran-krieg-industrieunternehmen-heben-preise-wegen-hoeherer-kosten-an/100210306.html"
+                },
+                {
+                  "name": "Euronews – Is the Iran war pushing Europe into a stagflation crisis?",
+                  "url": "https://www.euronews.com/business/2026/03/24/is-the-iran-war-pushing-europe-into-a-stagflation-crisis"
+                },
+                {
+                  "name": "Table.Media – Strait of Hormuz: Economic impact of the blockade",
+                  "url": "https://table.media/ceo/news-en/strait-of-hormuz-economic-impact-of-the-blockade"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-tesla-musk-afd-millionen",
+              "slug": "tesla-musk-afd-millionen",
+              "title": "Studie: Elon Musks AfD-Einsatz hat Tesla Millionen an Verkäufen gekostet",
+              "date": "2026-03-24",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "⚡",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Elon Musks öffentliche Unterstützung für die AfD und Alice Weidel hat Tesla in Deutschland unter dem Strich Hunderte Millionen Euro Umsatz gekostet. In AfD-nahen Kreisen stiegen die Verkäufe – gesamtdeutsch war die Bilanz aber klar negativ.",
+              "summary": "Eine neue Studie analysiert die Auswirkungen von Elon Musks Engagement für die AfD auf die Tesla-Verkaufszahlen in Deutschland. Das Ergebnis ist eindeutig: Obwohl Musks politische Positionierung in Wahlkreisen mit hohem AfD-Stimmenanteil die Nachfrage nach Tesla-Fahrzeugen leicht steigerte, fiel die gesamtdeutsche Bilanz stark negativ aus. Unter dem Strich verlor Tesla Hunderte Millionen Euro Umsatz. Musk hatte kurz vor Weihnachten 2024 auf X geschrieben, nur die AfD könne Deutschland retten, und im Januar 2025 mit AfD-Chefin Alice Weidel in einem Live-Gespräch gesprochen. Die Reaktion des breiten Marktes war ablehnend.",
+              "gegenstimme": "Kausale Schlüsse sind methodisch schwierig: Rückläufige Tesla-Verkäufe in Deutschland haben auch mit steigendem Wettbewerb durch BYD, einem allgemein schwierigeren Marktumfeld und dem Wegfall von E-Auto-Förderungen zu tun. Musk-Kritiker könnten also überinterpretieren, was schlicht Marktdynamik ist. Zudem kaufen AfD-affine Konsumenten nachweislich mehr Tesla – der politische Effekt wirkt also in beide Richtungen. Einige Marktbeobachter sehen Musks Polarisierung auch als bewusste Markenstrategie, um eine loyale Kerncommunity zu stärken, auch wenn der Preis dafür ein Verlust des Massenmarkts ist.",
+              "sources": [
+                {
+                  "name": "Handelsblatt – Musks Einsatz für die AfD hat Tesla offenbar Millionen gekostet",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/tesla-musks-einsatz-fuer-die-afd-hat-tesla-offenbar-millionen-gekostet/100211133.html"
+                },
+                {
+                  "name": "Merkur – Musks politische Posts kosten Tesla über 1 Million Verkäufe",
+                  "url": "https://www.merkur.de/politik/musks-politik-ein-risiko-fuer-teslas-erfolg-zr-94144811.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-nasa-mond-basis-china-wettlauf",
+              "slug": "nasa-mond-basis-china-wettlauf",
+              "title": "NASA stellt Mondprogramm grundlegend um: Basis statt Raumstation – Wettlauf mit China",
+              "date": "2026-03-24",
+              "time": "18:00",
+              "category": "tech",
+              "icon": "🌕",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/d57c32b4-9867-4bc9-a246-29c7c686f38e_w520_r2.08_fpx50_fpy48.jpg",
+              "kurz": "Die NASA bricht mit dem bisherigen Artemis-Plan und will statt einer Raumstation im Mondorbit eine permanente Basis direkt auf der Mondoberflaecheerichten. Hintergrund ist der Wettlauf mit China.",
+              "summary": "NASA-Chef Jared Isaacman kuendigte am 24. Maerz 2026 eine grundlegende Neuausrichtung des Mondprogramms an. Das Gateway-Projekt – eine geplante Raumstation im Mondorbit – wird auf Eis gelegt. Stattdessen soll eine dreigliedrige Architektur eine permanente Mondbasis errichten, zuerst unbemannt, dann mit regelmaessigen Astronauteneinsaetzen. Parallel plant die NASA das erste atombetriebene Raumschiff bis Ende 2028. Treibende Kraft ist der Wettlauf mit China, das ebenfalls vor 2030 Menschen auf den Mond bringen will.",
+              "gegenstimme": "Raumfahrtexperten und ehemalige NASA-Mitarbeiter warnen, dass die erneute Umorientierung des Artemis-Programms – nach mehreren verschobenen Startterminen – das Vertrauen internationaler Partner und den Kongress-Rueckhalt weiter beschaedigt. Kritiker sehen im Zeitdruck unter Trump eine politische statt wissenschaftliche Priorisierung. Das abrupte Einfrieren des Gateway-Projekts gefaehrde Milliarden bereits investierter Entwicklungskosten und koordinierte Beitraege von ESA, JAXA und CSA. Die atomare Antriebstechnologie im Weltraum wirft zudem ungeloeste Sicherheits- und Voelkerrechtsfragen auf.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/weltall/nasa-will-den-mond-dauerhaft-besiedeln-a-65b9f2a1-c9df-409e-a084-7eb3ffcf1ace"
+                },
+                {
+                  "name": "NASA",
+                  "url": "https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/"
                 }
               ]
             }
