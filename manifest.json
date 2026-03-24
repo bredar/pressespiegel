@@ -1,5 +1,5 @@
 {
-  "updated": "05:13 UTC",
+  "updated": "10:37 UTC",
   "days": [
     {
       "date": "2026-03-24",
@@ -388,6 +388,219 @@
                 {
                   "name": "The Next Web – OpenAI is in talks to buy fusion energy from Helion",
                   "url": "https://thenextweb.com/news/openai-is-in-talks-to-buy-fusion-energy-from-helion"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-24-steinmeier-iran-voelkerrecht",
+              "slug": "steinmeier-iran-voelkerrecht",
+              "title": "Steinmeier nennt US-Militaeroffensive gegen Iran 'voelkerrechtswidrig",
+              "date": "2026-03-24",
+              "time": "12:15",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/edf126d2-967d-484b-963a-a6ef11510012_w520_r2.08_fpx41_fpy43.jpg",
+              "kurz": "Bundespraesident Steinmeier hat den US-israelischen Krieg gegen den Iran als 'voelkerrechtswidrig' verurteilt – und widerspricht damit offen der Linie von Kanzler Merz.",
+              "summary": "Bundespraesident Frank-Walter Steinmeier hat bei einer Festveranstaltung zum 75-jaehrigen Bestehen des Auswaertigen Amtes den Iran-Krieg als voelkerrechtswidrig bezeichnet. Der Krieg sei zudem ein 'politisch verhaengnisvoller Fehler' und haette durch den Erhalt des Nuklearabkommens von 2015 vermieden werden koennen. Damit setzt sich Steinmeier klar von Kanzler Friedrich Merz und Aussenminister Johann Wadephul ab, die den Begriff 'voelkerrechtswidrig' bisher bewusst vermieden haben. Vizekanzler Lars Klingbeil kritisierte derweil die steigenden Benzinpreise als 'wahnsinnige Abzocke'.",
+              "gegenstimme": "Kanzler Merz haelt es fuer 'nicht den richtigen Moment', Verbuendete zu belehren. Er verweist auf das Dilemma, dass voelkerrechtliche Mittel gegen ein atomar aufruestendes, die eigene Bevoelkerung unterdrueckendes Regime offenbar wenig bewirken. Steinmeiers Kritik blendet aus, dass ein nuklear bewaffneter Iran fuer Israel und Europa eine existenzielle Bedrohung darstellt – und dass es keine glaubwuerdige nicht-militaerische Option mehr gegeben haben koennte.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2"
+                },
+                {
+                  "name": "Berliner Morgenpost",
+                  "url": "https://www.morgenpost.de/politik/article411540695/steinmeier-haelt-brandrede-zum-iran-krieg-vorwuerfe-an-trump-mahnung-an-merz.html"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/politik/deutschland/2026-03/krieg-naher-osten-frank-walter-steinmeier-johann-wadephul-voelkerrechtswidrig-iran-usa-israel"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-ungarn-szijjarto-russland-informant",
+              "slug": "ungarn-szijjarto-russland-informant",
+              "title": "Ungarns Aussenminister soll EU-Geheimnisse in Echtzeit an Lawrow weiterleiten",
+              "date": "2026-03-24",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🕵️",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Peter Szijjarto, Aussenminister Ungarns, soll laut einem Washington-Post-Bericht waehrend EU-Aussenministertreffen in den Pausen regelmassig Russlands Lawrow angerufen haben – live aus Bruessel.",
+              "summary": "Laut einem Bericht der Washington Post, der sich auf EU-Sicherheitskreise stuetzt, soll der ungarische Aussenminister Peter Szijjarto in den Pausen von Bruessel-Treffen regelmassig seinen russischen Amtskollegen Sergej Lawrow angerufen haben, um ihn ueber den Inhalt der laufenden Gespraeche zu informieren. Die EU-Kommission bezeichnete die Vorwuerfe als 'aeusserst besorgniserregend' und forderte Aufklaerung. Ungarn bestreitet die Vorwuerfe – Szijjarto nannte sie 'Verschwoerungs-theorien'. Timing der Aff aere: Im April finden Parlamentswahlen statt, bei denen Orbans Partei laut Umfragen die Mehrheit zu verlieren droht.",
+              "gegenstimme": "Szijjarto und Orban haben die Berichte energisch zurueckgewiesen und behaupten, der Aussenminister sei selbst abgehoert worden. Budapest will wegen dieses angeblichen 'schwerwiegenden Angriffs auf Ungarn' eigene Ermittlungen einleiten. Kritiker des westlichen Narrativs weisen darauf hin, dass Ungarn als EU-Mitglied das Recht habe, eigene diplomatische Kontakte zu unterhalten – auch mit Russland – und dass der Zeitpunkt kurz vor den Wahlen politisch motiviert sein koennte.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/eu-ist-der-ungar-peter-szijjarto-informant-russlands-510848333814"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/eu-ungarn-informationen-russland-100.html"
+                },
+                {
+                  "name": "ZDF heute",
+                  "url": "https://www.zdfheute.de/politik/ausland/ungarn-spionage-russland-szijjarto-eu-100.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/my-europe/2026/03/24/hungarys-foreign-minister-admits-calling-lavrov-during-key-eu-meetings"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-lawinen-unfall-kanada-schweizer",
+              "slug": "lawinen-unfall-kanada-schweizer",
+              "title": "Drei Schweizer sterben bei Heliski-Lawinenunglueck in Kanada",
+              "date": "2026-03-24",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🏔️",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/03/24/7e87e64a-12ac-4f3b-b9f3-ab4add65a750.jpg",
+              "kurz": "Im kanadischen British Columbia sind drei Schweizer Heliskifahrer von einer Lawine begrabenk worden – eine vierte Person ueberlebte schwer verletzt. Die Gruppe loeste die Lawine offenbar selbst aus.",
+              "summary": "Am Sonntag, 23. Maerz 2026, kamen drei Schweizer Staatsangehoerige beim Heliskiing nahe dem Mount Knauss in British Columbia ums Leben. Die Gruppe wurde auf der Abfahrt 'Iridium Shoulder' von einer Lawine erfasst, die sie laut Avalanche Canada selbst ausgeloest hatten. Eine vierte Person wurde schwer verletzt per Helikopter in ein Spital geflogen und befindet sich in stabilem Zustand. Das Schweizerische Generalkonsulat in Vancouver steht in Kontakt mit den Behoerden und den Angehoerigen der Opfer.",
+              "gegenstimme": "Die genauen Umstaende des Ungluecks werden noch untersucht. Heliskiing-Anbieter operieren in der Regel mit professionellen Guides und obligatorischen Sicherheitsausruestungen (Airbag, Lawinensonde, LVS-Geraet). Kritiker sehen grundsaetzliche Fragen: Inwiefern wurden die Gaeste auf die erhebliche Lawinengefahr hingewiesen, die Avalanche Canada fuer die Region ausgerufen hatte? Und wer traegt die Verantwortung, wenn Kunden trotz bekannter Warnstufe in Gelfahrengelaende gefuehrt werden?",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/british-columbia-drei-schweizer-sterben-bei-lawinenunglueck-in-kanada-103532874"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/lawinenunglueck-in-kanada-drei-schweizer-sterben-beim-heliskiing-695410012202"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-kanton-bern-gewinn-873",
+              "slug": "kanton-bern-gewinn-873",
+              "title": "Kanton Bern schliesst 2025 mit 873 Millionen Franken Gewinn ab",
+              "date": "2026-03-24",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "💰",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Der Kanton Bern erzielte in seiner Jahresrechnung 2025 einen Ertragsüberschuss von 873 Millionen Franken – mehr als dreimal so viel wie budgetiert. Treiber waren zwei Sondereffekte und eine unerwartete SNB-Gewinnausschüttung.",
+              "summary": "Bei einem Aufwand von 13.25 Milliarden und einem Ertrag von 14.13 Milliarden Franken schloss der Kanton Bern 2025 mit einem Überschuss von 873 Millionen ab. Budgetiert war ein Ertragsüberschuss von 242 Millionen. Die Verbesserung ist vor allem auf drei Faktoren zurückzuführen: die Auflösung einer Rückstellung für den Westast-Tunnel in Biel (315 Mio.), die Vollkapitalisierung der Bernischen Pensionskasse BPK (127 Mio.) sowie die nicht budgetierte SNB-Gewinnausschüttung (238 Mio.). Der Bilanzüberschuss überstieg erstmals die Milliardengrenze.",
+              "gegenstimme": "Der Regierungsrat selbst mahnt zur Vorsicht: Ohne die Sondereffekte wäre das Ergebnis rund 50 Millionen unter dem Budget geblieben. Mittelfristig zeichnen sich massive finanzielle Herausforderungen ab – die Abschaffung des Eigenmietwerts, steigende Gesundheitskosten und höhere Prämienverbilligungen könnten den Haushalt stark belasten. Zudem wurden geplante Investitionen um über 100 Millionen unterschritten, weil grosse Bauprojekte Verzögerungen hatten. Das Resultat ist gut, aber es trügt über strukturelle Schwächen hinweg.",
+              "sources": [
+                {
+                  "name": "Kanton Bern – Medienmitteilung",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=874525ac-5194-4560-8f4a-40964be2018b"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/plus-von-873-millionen-kanton-bern-verbucht-hohen-gewinn-957307959716"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-insiderhandel-trump-iran-post",
+              "slug": "insiderhandel-trump-iran-post",
+              "title": "Millionenwetten kurz vor Trumps Iran-Kehrtwende: Verdacht auf Insiderhandel",
+              "date": "2026-03-24",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🎰",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Kurz vor Trumps Ankuendigung einer Iran-Waffenpause platzierten Haendler auf Polymarket Millionenwetten auf genau dieses Szenario – Behoerden und Politiker fordern nun Untersuchungen.",
+              "summary": "Auf der Krypto-Wettboerse Polymarket wurden kurz vor dem Bekanntwerden von Trumps Kehrtwende im Iran-Konflikt auffaellige Millionenwetten platziert. Ein Nutzer namens 'Magamyman' soll ueber eine halbe Million Dollar eingestrichen haben, nachdem er korrekt auf den Sturz des iranischen Obersten Fuehrer gewettet hatte. Demokratischer Senator Chris Murphy bezeichnete die Situation als 'wahnsinnig' und forderte gesetzliche Konsequenzen. Auch Verdacht auf Krypto-Verkaeuf von Trump-Vertrauten kurz vor dem Angriff auf den Iran haelt die Behoerden beschaeftigt.",
+              "gegenstimme": "Trumps Lager weist alle Vorwuerfe zurueck und bezeichnet sie als politisch motivierte Hexenjagd. Auf Prognosenmaerkten wie Polymarket ist 'Insiderhandel' rechtlich kaum greifbar – die Plattform operiert in einem regulatorischen Graubereich. Kritiker des Narrativs weisen darauf hin, dass viele Haendler oeffentlich verfuegbare Signale analysieren und hohe Renditen auch durch gutes Lesen der Lage erklaerbar sind, nicht notwendig durch Insiderwissen.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/insiderhandel-millionenwetten-vor-trump-iran-post-927798873251"
+                },
+                {
+                  "name": "Frankfurter Rundschau",
+                  "url": "https://www.fr.de/politik/amtsenthebung-von-trump-millionen-wetten-auf-sturz-aus-dem-weissen-haus-zr-94229259.html"
+                },
+                {
+                  "name": "stock3.com",
+                  "url": "https://stock3.com/news/trump-insiderhandel-vor-us-iran-angriff-16461691"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/polymarket-wetten-usa-iran-insider-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-migros-reingewinn-milliarde",
+              "slug": "migros-reingewinn-milliarde",
+              "title": "Migros verdoppelt Gewinn auf 1.1 Milliarden Franken",
+              "date": "2026-03-24",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🛒",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Migros erzielte 2025 dank Unternehmensverkäufen einen Reingewinn von 1.1 Milliarden Franken – fast das Dreifache des Vorjahres. Im Kerngeschäft verliert der Detailhändler jedoch Marktanteile.",
+              "summary": "Der Migros-Konzern schloss das Geschäftsjahr 2025 mit einem Reingewinn von 1.1 Milliarden Franken ab, gegenüber 419 Millionen im Vorjahr. Treiber waren Sondereffekte aus dem Verkauf von Tochterfirmen wie SportX, Melectronics, Micasa und Bikeworld. Bereinigt um diese Einmaleffekte fiel der Betriebsgewinn von 924 auf 812 Millionen Franken. Onlinehändler Galaxus und Gesundheitsanbieter Medbase entwickelten sich dagegen sehr stark.",
+              "gegenstimme": "Die glänzende Schlagzeile täuscht: Das operative Kerngeschäft schwächelt. Migros-Läden wuchsen nur um 0.1 Prozent, Denner um 0.9 Prozent – beide klar unter dem Gesamtmarkt von 1.9 Prozent. CEO Mario Irminger bat um Geduld und verweist auf Investitionen von 500 Millionen in Preissenkungen. Kritiker fragen sich jedoch, ob eine Strategie, die auf dem Verkauf von Traditionsmarken basiert, langfristig tragfähig ist – und ob die Migros ihre Kernkompetenz im Lebensmittelhandel nicht aus den Augen verliert.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/wirtschaft/detailhandel-migros-reingewinn-schnellt-auf-1-1-milliarden-franken-hoch"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-asml-sk-hynix-chip-rekord",
+              "slug": "asml-sk-hynix-chip-rekord",
+              "title": "SK Hynix vergibt Rekordauftrag an ASML – und ein Startup will ASML herausfordern",
+              "date": "2026-03-24",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "💾",
+              "edition": "midday",
+              "image": "",
+              "kurz": "SK Hynix bestellte bei ASML EUV-Maschinen für knapp 7 Milliarden Euro – der grösste Einzelauftrag in der Geschichte des niederländischen Chipmaschinenspezialisten. Gleichzeitig erhält das Startup Lace Lithography 40 Millionen Dollar, um eine völlig neue Alternative zu entwickeln.",
+              "summary": "Der koreanische Speicherchip-Konzern SK Hynix gab einen Rekordauftrag bei ASML auf: EUV-Lithographieanlagen im Wert von knapp 7 Milliarden Euro sollen die Produktion von KI-Hochleistungsspeicher (HBM) ausweiten. SK Hynix kontrolliert rund 60 Prozent des weltweiten HBM-Marktes. Parallel dazu sicherte sich das Startup Lace Lithography unter Physikerin Bodil Holst 40 Millionen Dollar Investorengelder, um mit einer atomaren Helium-Lithographie-Methode eine fundamentale Alternative zu ASML zu entwickeln – mit Produktionsreife frühestens Anfang der 2030er Jahre.",
+              "gegenstimme": "ASML bleibt vorerst konkurrenzlos, und SK Hynix' Rekordauftrag festigt diese Monopolstellung weiter. Kritiker warnen, dass die Chipindustrie eine gefährliche Abhängigkeit von einem einzigen Anbieter für ihre kritischsten Produktionsmittel pflegt. Lace Lithography klingt vielversprechend, aber atomare Präzision im industriellen Massstab ist eine enorme Hürde. Ob Bodil Holsts Ansatz die Reife der Produktionsfähigkeit erreicht, ist hochgradig spekulativ – und bis dahin bleibt ASML der unangefochtene Gatekeeper der modernen Chipproduktion.",
+              "sources": [
+                {
+                  "name": "Handelsblatt – SK Hynix Rekordauftrag",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/sk-hynix-chipfirma-vergibt-rekordauftrag-an-maschinenbauer-asml/100211164.html"
+                },
+                {
+                  "name": "Handelsblatt – Lace Lithography",
+                  "url": "https://www.handelsblatt.com/technik/ki/chips-baut-diese-frau-eine-alternative-zu-asml/100210253.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-24-usa-fcc-router-verbot",
+              "slug": "usa-fcc-router-verbot",
+              "title": "USA verbieten Import ausländischer WLAN-Router",
+              "date": "2026-03-24",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "📡",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/1f288c82-18cc-45eb-912f-07a94b54f4b5_w520_r2.08_fpx59.33_fpy44.99.jpg",
+              "kurz": "Die US-Telekommunikationsbehörde FCC hat den Import neuer ausländischer WLAN-Router verboten – als Reaktion auf Cyberangriffe aus China. Das Problem: Fast alle Router werden im Ausland hergestellt.",
+              "summary": "Die FCC hat mit sofortiger Wirkung neue Importgenehmigungen für im Ausland hergestellte Consumer-Router gestoppt. Begründung: Ausländische Router seien ein unannehmbares Sicherheitsrisiko für die USA – verwiesen wird auf die Cyberangriffe Volt, Flax und Salt Typhoon aus den Jahren 2024 und 2025, die auf chinesische Staatshacker zurückgeführt werden. Betroffen sind neue Gerätemodelle aus allen Ländern, auch Deutschland – eine Ausnahmegenehmigung ist möglich, aber mit hohen Hürden verbunden. Die überwiegende Mehrheit der in den USA verkauften Router wird jedoch ausserhalb der USA produziert, darunter Bestseller wie TP-Link.",
+              "gegenstimme": "Das Verbot klingt entschlossen, hat aber ein fundamentales Problem: Die USA haben kaum eigene Router-Hersteller. Netgear ist US-amerikanisch, produziert aber im Ausland. Einzige echte Ausnahme ist der Starlink-Router von SpaceX, der in Texas gefertigt wird. Experten kritisieren, dass das Importverbot kurzfristig zu Engpässen und Preisanstiegen führen könnte, ohne die Sicherheitslücken wirklich zu schliessen. Ein Verbot schützt nicht vor bereits installierten Geräten – und von denen gibt es in US-Haushalten Millionen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/netzwelt/gadgets/usa-verbieten-den-import-von-internet-routern-a-e2e9c399-1653-4a67-800d-cf848046df1c"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c74787w149zo"
                 }
               ]
             }
