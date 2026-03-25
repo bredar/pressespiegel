@@ -1,81 +1,65 @@
 {
-  "updated": "16:10 UTC",
+  "updated": "05:13 UTC",
   "days": [
     {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-03-24-hong-kong-sicherheitsgesetz-passwoerter",
-              "slug": "hong-kong-sicherheitsgesetz-passwoerter",
-              "title": "Hongkong: Polizei erhaelt Recht, Handy- und Computerpasswoerter zu verlangen",
-              "date": "2026-03-24",
+              "id": "2026-03-25-daenemark-wahl-frederiksen",
+              "slug": "daenemark-wahl-frederiksen",
+              "title": "Dänemark-Wahl: Frederiksen gewinnt, Regierungsbildung offen",
+              "date": "2026-03-25",
               "time": "07:00",
               "category": "international",
-              "icon": "🔐",
+              "icon": "🗳️",
               "edition": "morning",
-              "image": "https://i.guim.co.uk/img/media/7abd4c1818d52094ed526f00275fd5f9349bc3eb/756_0_3803_3042/master/3803.jpg?width=1200&quality=85&auto=format&fit=max",
-              "kurz": "Hongkong erweitert sein nationales Sicherheitsgesetz: Die Polizei darf kuenftig Passwoerter von Telefonen und Computern verlangen. Wer sich weigert, riskiert bis zu ein Jahr Haft.",
-              "summary": "Per Gesetzesaenderung erhaelt die Hongkonger Polizei das Recht, von Verdaechtigen unter dem nationalen Sicherheitsgesetz Zugang zu digitalen Geraeten zu erzwingen – inklusive Passwoertern und Entschlusselungshilfe. Zollbeamte koennen zudem Gegenstaende mit 'aufruhrerischer Absicht' ohne Verhaftung einziehen. Widerstand ist strafbar. Die Aenderungen wurden am Montag ohne parlamentarische Debatte veroeffentlicht.",
-              "gegenstimme": "Rechtswissenschaftlerin Urania Chiu (UK) kritisiert die Bestimmungen als 'grob unverhältnismaessig': Die Befugnisse werden ohne richterliche Genehmigung erteilt und verstoessen gegen das Recht auf Privatsphaere und faires Verfahren. Die Hongkonger Regierung entgegnet, die Aenderungen seien verfassungskonform und wuerden 'das Leben der normalen Bevoelkerung nicht beeinflussen'.",
+              "image": "https://cdn.prod.www.spiegel.de/images/c2dbe199-d166-4cd0-9afc-36cc87d5147d_w520_r2.08_fpx49_fpy61.jpg",
+              "kurz": "Sozialdemokraten von Mette Frederiksen gewinnen in Dänemark mit 21,9% – schlechtestes Ergebnis seit über einem Jahrhundert. Kein Lager erreicht Mehrheit.",
+              "summary": "Bei der vorgezogenen Parlamentswahl in Dänemark blieben die Sozialdemokraten von Ministerpräsidentin Mette Frederiksen mit 21,9 Prozent stärkste Kraft – ihr schlechtestes Ergebnis seit mehr als hundert Jahren. Weder der linke «Rote Block» (84 Sitze) noch der bürgerlich-konservative «Blaue Block» (77 Sitze) erreicht die nötige Mehrheit von 90 Sitzen. Die Moderaterne von Lars Løkke Rasmussen mit 14 Sitzen werden zum entscheidenden Zünglein an der Waage.",
+              "gegenstimme": "Frederiksens Herausforderer, Verteidigungsminister Troels Lund Poulsen (Liberale), wirbt für eine bürgerlich-konservative Regierung und hat eine erneute Zusammenarbeit mit den Sozialdemokraten ausgeschlossen. Er sieht ein Mandat für einen Richtungswechsel. Politologen geben zu bedenken, dass Frederiksens Gamble, den Grönland-Streit mit den USA für vorgezogene Neuwahlen zu nutzen, nach hinten losgegangen ist: Nicht Geopolitik, sondern Lebenshaltungskosten, Pestizide im Trinkwasser und Agrarsubventionen dominierten den Wahlkampf.",
               "sources": [
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/24/hong-kong-phone-passwords-national-security-law"
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/wahl-in-daenemark-sozialdemokraten-von-mette-frederiksen-gewinnen-regierungsbildung-wird-schwierig-a-90ac96f1-7ca6-4714-a9a7-91ce636a674c"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/frederiksen-will-regierungschefin-bleiben-daenemark-steht-nach-der-wahl-vor-einer-schwierigen-regierungsbildung-ld.1930902"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c74v5qynl9vo"
                 }
               ]
             },
             {
-              "id": "2026-03-24-iran-trump-rueckzieher-diplomatie",
-              "slug": "iran-trump-rueckzieher-diplomatie",
-              "title": "Iran-Krieg: Trump pausiert Angriffe und spricht von Gespraechen – Teheran dementiert",
-              "date": "2026-03-24",
+              "id": "2026-03-25-iran-krieg-15-punkte-plan",
+              "slug": "iran-krieg-15-punkte-plan",
+              "title": "Iran-Krieg: USA legen 15-Punkte-Friedensplan vor",
+              "date": "2026-03-25",
               "time": "07:00",
               "category": "international",
               "icon": "🌍",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/be0cc70d-30c1-463c-a287-dadf06defe3b_w520_r2.08_fpx42.66_fpy50.jpg",
-              "kurz": "Trump pausiert geplante Angriffe auf iranische Energieanlagen und berichtet von produktiven Gespraechen. Teheran dementiert – und die Maerkte reagieren wild.",
-              "summary": "US-Praesident Trump hat sein Ultimatum an den Iran, die Strasse von Hormuz bis Montagabend zu oeffnen, kurzfristig ausgesetzt und von 'sehr guten und produktiven Gespraechen' berichtet. Das iranische Aussenministerium widerspricht direkt und bezeichnet Trumps Aussagen als Marktmanipulation. Hinter den Kulissen vermitteln laut Berichten die Tuerkei, Pakistan und Aegypten. Derweil steigen und fallen die Oelpreise im Stundentakt.",
-              "gegenstimme": "Teheran bezeichnet Trumps Gespraeche als Erfindung: Die Aussagen dienten nur dazu, Oelmaerkte zu beruhigen und Zeit fuer militaerische Plaene zu gewinnen. Israelische Geheimdienstanalysten warnen, dass der Iran paradoxerweise aus einer Position der Staerke in allfaellige Verhandlungen eingehen wuerde – gestaerkt durch den Krieg, nicht geschwaecht.",
+              "image": "https://cdn.prod.www.spiegel.de/images/8ecc7f1b-8ba9-4fd2-8887-260ec0fea626_w520_r2.08_fpx35_fpy56.jpg",
+              "kurz": "USA übermitteln Iran via Pakistan einen 15-Punkte-Friedensplan. Teheran reagiert skeptisch, die Iranische Revolutionsgarde greift US-Stützpunkte an.",
+              "summary": "Die USA haben dem Iran über Pakistan einen 15-Punkte-Plan zur Beendigung des Konflikts übermittelt, der Forderungen zum Nuklear- und Raketenprogramm enthält. Teheran reagierte offiziell skeptisch bis ablehnend. Gleichzeitig griff die Iranische Revolutionsgarde US-Stützpunkte in der Golfregion an. Der Ölpreis fiel auf die Meldungen hin deutlich unter 100 Dollar, bleibt aber historisch hoch.",
+              "gegenstimme": "Ein Sprecher der iranischen Streitkräfte verhöhnte den Plan öffentlich: Die USA würden nur mit sich selbst verhandeln. Iranische Bürger äusserten laut BBC Persian tiefe Skepsis gegenüber echten Verhandlungen – viele glauben, Trump nutze Diplomatie nur als taktische Pause, nicht als ernsthafte Friedensinitiative.",
               "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-usa-sollen-iran-15-punkte-plan-vorgelegt-haben-a-0abb8426-cbba-4886-a18f-0f5c8920443c"
+                },
                 {
                   "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/rueckzieher-gegenueber-iran-trump-will-doch-wieder-verhandeln-ld.1930608"
+                  "url": "https://www.nzz.ch/international/iran-krieg-wie-ein-angriff-der-usa-auf-die-insel-kharg-ablaufen-koennte-ld.1930729"
                 },
                 {
-                  "name": "The Guardian (Live)",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes"
-                },
-                {
-                  "name": "BBC Live",
-                  "url": "https://www.bbc.com/news/live/cn8dldl0jx9t"
-                },
-                {
-                  "name": "BBC Analyse",
-                  "url": "https://www.bbc.com/news/articles/c625j162yy6o"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-japan-oel-reserven",
-              "slug": "japan-oel-reserven",
-              "title": "Japan startet groesste Oelfreigabe aus nationalen Reserven aller Zeiten",
-              "date": "2026-03-24",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🛢️",
-              "edition": "morning",
-              "image": "https://media.guim.co.uk/f4467772b5cdea78866ffafa4303eb596208306c/803_0_4280_3425/master/4280.jpg",
-              "kurz": "Japan gibt ab Donnerstag 80 Millionen Barrel strategische Oelreserven frei – die groesste solche Aktion in der Geschichte des Landes, ausgeloest durch den Iran-Krieg.",
-              "summary": "Als direkte Reaktion auf die Energiekrise infolge des US-Israel-Iran-Kriegs und die faktische Schliessung der Strasse von Hormuz gibt Japan ab Donnerstag staatliche Oelreserven frei. Zusammen mit bereits freigegebenen Privatreserven umfasst die Aktion rund 80 Millionen Barrel – 45 Tage Inlandsverbrauch. Das ist 1,8-mal mehr als nach der Fukushima-Katastrophe 2011. Gleichzeitig beobachtet das Land erste Anzeichen von Hamsterkaeufen bei Haushaltswaren.",
-              "gegenstimme": "Japan importiert ueber 90 Prozent seines Rohols aus dem Nahen Osten, ist also besonders exponiert. Premierministerin Takaichi widersetzte sich Trumps Forderung, japanische Marineeinheiten in die Region zu schicken, und verwies auf die Verfassung. Kritiker im Inland fragen, ob die Reservenfreigabe lang genug haelt, sollte der Konflikt Monate andauern – Japans Gesamtreserven entsprechen etwa 254 Tagen Verbrauch.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/24/japan-oil-release-national-reserves"
+                  "name": "Guardian",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
                 },
                 {
                   "name": "BBC",
@@ -84,692 +68,322 @@
               ]
             },
             {
-              "id": "2026-03-24-kolumbien-militaerflugzeug-absturz",
-              "slug": "kolumbien-militaerflugzeug-absturz",
-              "title": "Militaerflugzeug in Kolumbien abgestuerzt: Mindestens 66 Tote",
-              "date": "2026-03-24",
+              "id": "2026-03-25-steinmeier-iran-voelkerrecht",
+              "slug": "steinmeier-iran-voelkerrecht",
+              "title": "Steinmeier nennt Iran-Krieg völkerrechtswidrig – Lob aus Teheran und AfD",
+              "date": "2026-03-25",
               "time": "07:00",
               "category": "international",
-              "icon": "✈️",
+              "icon": "🏛️",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/5F6u-xoD4QwAaqU8YF4Yoi.jpg",
-              "kurz": "Eine kolumbianische Hercules C-130 stuerzte kurz nach dem Start mit 125 Personen an Bord ab. Mindestens 66 Menschen starben, Dutzende wurden verletzt geborgen.",
-              "summary": "Eine Hercules C-130 der kolumbianischen Luftwaffe stuerzte am Montag kurz nach dem Start vom Flughafen Puerto Leguizamo im Amazonasgebiet ab. Von den 125 Personen an Bord – hauptsaechlich Soldaten und Polizisten – kamen mindestens 66 ums Leben. Die Unfallursache ist noch unbekannt, ein Angriff wurde ausgeschlossen. Praesident Petro bezeichnete es als 'schrecklichen Unfall, der niemals haette passieren duerfen'.",
-              "gegenstimme": "Praesident Petro versuchte, Kritik an der Flottenpflege praezentiv abzuwenden und verwies auf jahrelange buerokratische Hindernisse bei der Flottenmodernisierung. Oppositionskandidaten fuer die Praesidentschaftswahl im Mai forderten sofortige Untersuchungen. Verteidigungsminister Saenchez betonte dagegen, das Flugzeug sei airworthy gewesen und die Crew qualifiziert.",
+              "image": "https://cdn.prod.www.spiegel.de/images/41e16fba-35c6-4194-af40-72b3c1e5ff01_w520_r2.08_fpx47_fpy40.jpg",
+              "kurz": "Bundespräsident Steinmeier stuft den US-israelischen Angriff auf Iran als völkerrechtswidrig ein – Zuspruch von Iran und AfD, Kritik aus der Union.",
+              "summary": "Bundespräsident Frank-Walter Steinmeier hat den von den USA und Israel begonnenen Krieg gegen Iran als völkerrechtswidrig bezeichnet. Die Aussage machte er anlässlich des 75. Jahrestages der Wiedergründung des Auswärtigen Amtes. Irans Aussenminister und die AfD lobten die Worte, während Unionsfraktionschef Jens Spahn den Bundespräsidenten zur Zurückhaltung aufforderte. Steinmeier kritisierte ausserdem die Abhängigkeit Europas von den USA in Sicherheits- und Technologiefragen.",
+              "gegenstimme": "Unionsfraktionschef Jens Spahn mahnte, die völkerrechtliche Bewertung obliege der Bundesregierung, nicht dem Bundespräsidenten. Kanzler Merz distanziert sich vom Krieg, vermeidet aber eine explizite Einordnung als Völkerrechtsbruch – anders als mehrere andere europäische Partner.",
               "sources": [
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/23/colombia-military-plane-crash"
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/frank-walter-steinmeier-bekommt-fuer-iran-krieg-aeusserung-lob-aus-teheran-und-von-der-afd-a-67d5ce17-25c1-4dac-9105-2a0376e9a9ae"
                 },
                 {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/suedwesten-des-landes-militaerflugzeug-stuerzt-in-kolumbien-ab-dutzende-tote-befuerchtet"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/panorama/kolumbien-militaerflugzeug-mit-ueber-120-menschen-abgestuerzt-ld.1930683"
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/international/iran/330739071-deutscher-bundespraesident-steinmeier-kritisiert-usa-fuer-irankrieg"
                 }
               ]
             },
             {
-              "id": "2026-03-24-schweiz-axpo-kernkraft-vs-gas",
-              "slug": "schweiz-axpo-kernkraft-vs-gas",
-              "title": "Schweiz vor Stromversorgungsentscheid: Axpo stellt neue AKW oder Gaskraftwerke zur Wahl",
-              "date": "2026-03-24",
+              "id": "2026-03-25-ukraine-russland-drohnenangriff",
+              "slug": "ukraine-russland-drohnenangriff",
+              "title": "Ukraine: Russland feuert fast 1000 Drohnen – grösster Angriff des Krieges",
+              "date": "2026-03-25",
               "time": "07:00",
-              "category": "schweiz",
-              "icon": "⚡",
+              "category": "international",
+              "icon": "⚔️",
               "edition": "morning",
-              "image": "https://img.nzz.ch/2026/03/24/axpo-kernkraft-schweiz.jpg",
-              "kurz": "Der Energiekonzern Axpo legt eine umfassende Studie vor: Ohne Massnahmen drohen Stromengpässe im Winter. Die Lösung heisst entweder neue Kernkraftwerke oder grosse Gaskraftwerke.",
-              "summary": "Die Axpo hat gemeinsam mit ETH Zürich und dem Paul-Scherrer-Institut zwei Szenarien für die künftige Schweizer Stromversorgung erarbeitet. Der Ausbau der Solarenergie alleine reicht nicht – sie liefert im Winter nur 8 Prozent ihrer Jahresproduktion. Als Alternativen verbleiben Gaskraftwerke (ab 2035 realisierbar, aber CO₂-intensiv) oder neue Kernkraftwerke (frühestens 2050, staatliche Förderung nötig). Windkraft wird als besonders wertvoller Winterstromlieferant hervorgehoben. Die Studie fliesst direkt in die laufende parlamentarische Debatte zur Blackout-Initiative ein.",
-              "gegenstimme": "Die Studie stammt von der Axpo selbst – einem der grössten Schweizer Stromversorger mit direktem wirtschaftlichem Interesse an bestimmten Technologieentscheiden. Umweltverbände und Solarlobby kritisieren, dass die Analyse die Potenziale dezentraler erneuerbarer Energien systematisch unterschätzt und die Kostenbewertung der Photovoltaik einseitig ist. Zudem: Die Axpo ist Miteigentümerin der bestehenden Kernkraftwerke Gösgen und Leibstadt – ein Interessenkonflikt, der die Empfehlungen zum Langzeitbetrieb in einem anderen Licht erscheinen lässt.",
+              "image": "https://cdn.prod.www.spiegel.de/images/ba5fab67-52e9-4575-9ed6-b13007669473_w520_r2.08_fpx41.99_fpy54.99.jpg",
+              "kurz": "Russland attackiert die Ukraine mit 948 Drohnen – grösster Luftangriff seit Kriegsbeginn. Lwiws UNESCO-Weltkulturerbe getroffen, mindestens 8 Tote.",
+              "summary": "Russland hat innerhalb von 24 Stunden 948 Drohnen auf die Ukraine abgefeuert – den umfangreichsten Luftangriff seit Beginn des Krieges im Februar 2022. Bei Angriffen auf Lwiw wurde das zum UNESCO-Weltkulturerbe gehörende Bernhardinerkloster aus dem 16. Jahrhundert beschädigt. In Lwiw wurden mindestens 32 Personen verletzt, in Iwano-Frankiwsk zwei Menschen getötet. Insgesamt forderten die kombinierten Tag- und Nachtangriffe mindestens acht Todesopfer.",
+              "gegenstimme": "Die ukrainische Luftwaffe betonte, sie habe die grosse Mehrheit der Drohnen abgeschossen. Präsident Selenskyj nutzte den Angriff, um vor der Weltöffentlichkeit zu mahnen, dass Russland keinerlei echten Friedenswillen zeige. Russlands Militär kommentierte die Angriffe öffentlich nicht. Analysten weisen darauf hin, dass der massive Drohneneinsatz – der mit dem iranischen Fokus des Westens zusammenfällt – Moskaus Kalkül widerspiegeln könnte, die reduzierte westliche Aufmerksamkeit für einen Intensivierungsversuch zu nutzen.",
               "sources": [
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/laut-der-axpo-muss-sich-die-schweiz-entscheiden-entweder-sie-baut-grosse-gaskraftwerke-oder-neue-kernkraftwerke-ld.1930034"
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-verletzte-und-schaeden-bei-drohnenangriff-auf-lwiw-a-1aed0095-8df9-4352-b767-407ab946db37"
+                },
+                {
+                  "name": "Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/24/russia-strikes-civilian-areas-ukraine"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cz90gpyw90wo"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-schweiz-armee-3-4-milliarden",
+              "slug": "schweiz-armee-3-4-milliarden",
+              "title": "Armeebotschaft 2026: Schweiz investiert 3,4 Milliarden in Verteidigung",
+              "date": "2026-03-25",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🛡️",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/03/20/97f8e478-ecab-4a70-af3c-5f0c5496c21f.jpg",
+              "kurz": "Der Bundesrat verabschiedet die Armeebotschaft 2026 mit 3,4 Mrd. Franken. Schwerpunkt: Luftabwehr und Drohnenabwehr.",
+              "summary": "Der Bundesrat hat die Armeebotschaft 2026 mit einem Gesamtvolumen von 3,4 Milliarden Franken verabschiedet. Im Mittelpunkt stehen der Ausbau der Luftabwehr mit neuen IRIS-T-Systemen und Skynex-Geschützen sowie moderne Drohnenabwehr. Armee-Ausbildungschef Gregor Metzler warnt eindringlich: Die Schweizer Armee sei derzeit nicht in der Lage, das Land nachhaltig zu verteidigen – ein Konflikt könnte noch in diesem Jahrzehnt beginnen.",
+              "gegenstimme": "Kritiker aus linken Kreisen und die Gruppe für eine Schweiz ohne Armee (GSoA) mahnen zur Verhältnismässigkeit und plädieren für diplomatische statt militärische Lösungen. Historiker Andreas Gross warnt vor einer Militarisierung der Gesellschaft und bezweifelt, dass Aufrüstung allein die Sicherheit erhöht.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/armeebotschaft-drohnen-killer-co-pfister-will-34-milliarden-fuer-die-armee-103530232"
                 },
                 {
                   "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/stromversorgung-der-schweiz-viele-unsicherheiten-rund-um-neue-kernkraftwerke"
+                  "url": "https://www.srf.ch/news/schweiz/armeespitze-zur-bedrohungslage-ausbildungschef-es-kann-noch-in-diesem-jahrzehnt-losgehen"
                 }
               ]
             },
             {
-              "id": "2026-03-24-bern-egghoelzli-leerkuendigung",
-              "slug": "bern-egghoelzli-leerkuendigung",
-              "title": "Wohnungsnot in Bern: 24 günstige Mietwohnungen im Egghölzli werden nach Leerkündigung teuer verkauft",
-              "date": "2026-03-24",
+              "id": "2026-03-25-svp-10-millionen-initiative",
+              "slug": "svp-10-millionen-initiative",
+              "title": "SVP lanciert Kampagne zur 10-Millionen-Schweiz-Initiative",
+              "date": "2026-03-25",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/03/24/68876d86-e82b-4522-ab4a-8f9cea15aad6.jpg",
+              "kurz": "SVP startet Abstimmungskampagne für die 10-Millionen-Initiative (14. Juni). Im Vordergrund: Infrastrukturüberlastung und Kriminalität – ohne SVP-Logo.",
+              "summary": "Die SVP hat am Dienstag ihre Abstimmungskampagne für die Initiative «Keine 10-Millionen-Schweiz» lanciert, über die am 14. Juni abgestimmt wird. Das Initiativkomitee trat bewusst ohne SVP-Logo auf und argumentierte mit überlasteter Infrastruktur, steigender Kriminalität und Lohndruck. Ökonomen und Gegner zweifeln jedoch daran, dass die Zuwanderung ohne Kündigung der Personenfreizügigkeit mit der EU auf das versprochene Mass von 40'000 Personen jährlich gesenkt werden kann.",
+              "gegenstimme": "Bundesrat, alle grossen Parteien, Kantone, Gewerkschaften und Arbeitgeber lehnen die Initiative ab. Ökonomen weisen nach, dass die Rechnung der SVP (40'000 Einwanderer pro Jahr ohne EU-Konflikt) mathematisch nicht aufgeht: Allein der Familiennachzug von EU-Bürgern beansprucht bereits drei Viertel dieses hypothetischen Kontingents. Ohne Eingriff in die Personenfreizügigkeit ist das Ziel kaum erreichbar.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/zuwanderung-als-ursache-aller-probleme-die-svp-startet-den-kampf-fuer-ihre-10-millionen-initiative-ohne-svp-logo-ld.1930546"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/gegen-stau-kriminalitaet-10-millionen-schweiz-mit-diesen-argumenten-will-die-svp-gewinnen-103532922"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/eu/542084320-svp-will-weniger-zuwanderung-ohne-eu-bruch-die-rechnung-geht-nicht-auf"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-kanton-bern-rekordgewinn",
+              "slug": "kanton-bern-rekordgewinn",
+              "title": "Kanton Bern: Rekordgewinn von 873 Millionen Franken",
+              "date": "2026-03-25",
               "time": "07:00",
               "category": "regional",
-              "icon": "🏠",
+              "icon": "🏛️",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/E1g_aPgbaum9cylyIYiCMA.jpg",
-              "kurz": "Ein Investor kündigt 24 günstige Mietwohnungen im Berner Egghölzli leer, renoviert sie und verkauft sie als Stockwerkeigentum für bis zu 1.2 Millionen Franken. Ein weiteres Beispiel für Berns Wohnungsnot.",
-              "summary": "Im Berner Egghölzli-Quartier werden 24 bisher günstige Mietwohnungen per Leerkündigung geräumt. Nach der Renovierung sollen die 3.5 bis 4.5-Zimmer-Wohnungen als Stockwerkeigentum verkauft werden – für Preise von mehreren Hunderttausend bis über eine Million Franken. Der Mieterverband fordert gesetzliche Auflagen bei Sanierungen, um die Umwandlung von Miet- in Eigentumswohnungen zu bremsen. Das Egghölzli-Projekt steht symbolisch für einen Trend, der in Bern und anderen Schweizer Städten die Wohnungsnot verschärft.",
-              "gegenstimme": "Eigentümer und Investoren argumentieren, dass Sanierungen und Aufwertungen langfristig den Gebäudebestand modernisieren und Energie sparen. Ohne Anreize für private Investoren würden viele Liegenschaften verfallen. Stockwerkeigentum erhöhe zudem die Eigentumsquote – ein gesellschaftspolitisch wünschenswertes Ziel. Gemeindebehörden betonen, sie hätten beim Verkauf privater Liegenschaften begrenzte rechtliche Handhabe.",
+              "image": "https://cdn.unitycms.io/images/247LayAJasfBbF4AkZhCjt.jpg",
+              "kurz": "Kanton Bern schliesst 2025 mit einem Überschuss von 873 Millionen Franken ab – weit über Budget. Nun entbrennt ein Streit über die Verwendung.",
+              "summary": "Der Kanton Bern hat das Geschäftsjahr 2025 mit einem Überschuss von 873 Millionen Franken abgeschlossen – deutlich mehr als budgetiert. Trotz der erfreulichen Zahlen will der Regierungsrat an einer zurückhaltenden Finanzpolitik festhalten. Politisch entbrennt bereits ein Streit: Während bürgerliche Kräfte auf Steuersenkungen drängen, fordern andere Investitionen in Infrastruktur und Bildung.",
+              "gegenstimme": "Der Regierungsrat mahnt zur Vorsicht: Einmalige Mehrerträge sollen nicht zu strukturellen Ausgabenerhöhungen oder dauerhaften Steuersenkungen führen. Die Finanzlage könnte sich in den nächsten Jahren durch steigende Bundesbeitragskürzungen und demografische Kosten wieder eintrüben.",
               "sources": [
                 {
                   "name": "Der Bund",
-                  "url": "https://www.derbund.ch/egghoelzli-bern-wohnungen-werden-nach-leerkuendigung-verkauft-472870997016"
+                  "url": "https://www.derbund.ch/plus-von-873-millionen-kanton-bern-verbucht-hohen-gewinn-957307959716"
                 },
                 {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/egghoelzli-bern-wohnungen-werden-nach-leerkuendigung-verkauft-472870997016"
-                },
-                {
-                  "name": "Egghölzli Living",
-                  "url": "https://www.egghoelzli-living.ch/home"
+                  "name": "TeleBärn",
+                  "url": "https://www.telebaern.tv/telebaern-news/kanton-bern-mit-hohem-gewinn-163772675"
                 }
               ]
             },
             {
-              "id": "2026-03-24-bern-solar-verdreifacht",
-              "slug": "bern-solar-verdreifacht",
-              "title": "Berner Energiewende: Solarleistung auf städtischen Gebäuden hat sich verdreifacht",
-              "date": "2026-03-24",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "☀️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/5LQudeR8KQOA2UDjJrwBN0.jpg",
-              "kurz": "Die Stadt Bern hat ihre Photovoltaikleistung auf städtischen Gebäuden von 2'100 auf 5'700 Kilowatt-Peak verdreifacht. Gleichzeitig ist der Stromverbrauch um 13% gestiegen.",
-              "summary": "Immobilien Stadt Bern zieht im Nachhaltigkeitsfaktenblatt 2025 eine positive Zwischenbilanz: Die Treibhausgasemissionen sanken seit 2019 um 26%, die Photovoltaikleistung wuchs von 2'100 auf 5'700 Kilowatt-Peak. 61% des Wärmebedarfs wird durch erneuerbare Energien gedeckt. Jedoch ist der Allgemeinstromverbrauch wegen Wärmepumpen, Elektrofahrzeugen und -geräten um 13% auf über 23 Gigawattstunden gestiegen – ein Zielkonflikt, der weitere Massnahmen erfordert.",
-              "gegenstimme": "Der Anstieg des Stromverbrauchs um 13% zeigt das Dilemma der Elektrifizierung: Wer fossile Heizungen durch Wärmepumpen und Verbrenner durch Elektrofahrzeuge ersetzt, braucht deutlich mehr Strom – und erhöht damit den Druck auf das Stromnetz und die Produktionskapazitäten. Klimaökonomen warnen, dass die Energiewende nur gelingt, wenn Effizienzsteigerungen und Verbrauchssenkungen mit dem Ausbau erneuerbarer Energien Schritt halten. Eine Verdreifachung der Solarleistung reicht allein nicht aus, wenn der Gesamtverbrauch parallel steigt.",
-              "sources": [
-                {
-                  "name": "Stadt Bern – Medienmitteilung Klimaschutzmassnahmen städtische Immobilien",
-                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/wirksame-klimaschutzmassnahmen-bei-staedtischen-immobilien"
-                },
-                {
-                  "name": "Der Bund – Photovoltaikleistung bei städtischen Gebäuden verdreifacht",
-                  "url": "https://www.derbund.ch/bern-photovoltaikleistung-bei-staedtischen-gebaeuden-verdreifacht-655697277053"
-                },
-                {
-                  "name": "Berner Zeitung – Solarleistung verdreifacht",
-                  "url": "https://www.bernerzeitung.ch/bern-photovoltaikleistung-bei-staedtischen-gebaeuden-verdreifacht-655697277053"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-eu-australien-freihandel",
-              "slug": "eu-australien-freihandel",
-              "title": "EU und Australien besiegeln Freihandelsabkommen – Zeichen gegen Trump-Protektionismus",
-              "date": "2026-03-24",
+              "id": "2026-03-25-insiderhandel-trump-iran",
+              "slug": "insiderhandel-trump-iran",
+              "title": "Insiderhandel-Verdacht: Millionenwetten kurz vor Trumps Iran-Post",
+              "date": "2026-03-25",
               "time": "07:00",
               "category": "wirtschaft",
-              "icon": "📦",
+              "icon": "📈",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/20aObzshqHEAISxs-a1XyN.jpg",
-              "kurz": "Nach rund acht Jahren Verhandlungen haben die EU und Australien ein umfassendes Freihandelsabkommen unterzeichnet. Das Signal ist klar: multilateraler Handel als Antwort auf Trumps Zollpolitik.",
-              "summary": "EU-Kommissionspräsidentin Ursula von der Leyen und der australische Premierminister Anthony Albanese haben in Canberra ein Freihandelsabkommen besiegelt. Es senkt Zölle und baut Handelshemmnisse ab – besonders für Maschinenbau, Chemie, Fahrzeuge und Landwirtschaft. Gleichzeitig wurde eine Sicherheits- und Verteidigungspartnerschaft vereinbart. Das Abkommen gilt als geopolitisches Signal in einer Zeit, in der die USA unter Trump mit aggressiver Zollpolitik Unsicherheit verbreiten.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass Freihandelsabkommen keine schnelle Antwort auf die aktuellen Zollschocks bieten – die Ratifizierung durch alle EU-Mitgliedstaaten kann Jahre dauern. Zudem bestehen in Australien Bedenken bezüglich des Agrarsektors und möglicher Konkurrenz für einheimische Produzenten. Umweltverbände kritisieren, dass Freihandel tendenziell den CO₂-intensiven Seehandel ankurbelt.",
+              "image": "https://cdn.prod.www.spiegel.de/images/8ecc7f1b-8ba9-4fd2-8887-260ec0fea626_w520_r2.08_fpx35_fpy56.jpg",
+              "kurz": "15 Minuten vor Trumps Iran-Ankündigung liefen massive Wetten auf fallende Ölpreise. Verdacht auf Insiderhandel aus dem Weissen Haus wird lauter.",
+              "summary": "Gemäss einer Analyse der Financial Times wurden 15 Minuten bevor Trump auf Truth Social Verhandlungsfortschritte mit dem Iran ankündigte, Ölterminkontrakte im Wert von rund 580 Millionen Dollar auf fallende Preise gesetzt. Kurz nach dem Post brach der Ölpreis um 13 Prozent ein – massive Gewinne für anonyme Investoren. Das Muster ist kein Einzelfall: Ähnliche Trades wurden vor früheren US-Militäroperationen beobachtet. Ob Insiderwissen im Spiel war, ist juristisch nicht belegt.",
+              "gegenstimme": "Derivate-Experten mahnen zur Vorsicht: Das gehandelte Volumen war zwar ungewöhnlich hoch für diese Tageszeit, aber nicht beispiellos. An Ölmärkten werden täglich enorme Mengen gehandelt; ein grosser Investor könnte schlicht Gewinne mitgenommen oder Risiken reduziert haben. Ein direkter Beweis für Insiderwissen fehlt bisher. Dennoch verlangen mehrere demokratische Senatoren und Abgeordnete schärfere Regulierung solcher Prognosemärkte.",
               "sources": [
                 {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/eu-und-australien-besiegeln-freihandelsabkommen-fuer-weniger-zoelle-und-mehr-kooperation-a-248a19ce-89b0-4d78-8d05-6d0b7e3b4d16"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/auf-dem-terminmarkt-laufen-auffaellige-oelgeschaefte-15-minuten-bevor-donald-trump-einen-iran-post-absetzt-ld.1930705"
                 },
                 {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/eu-und-australien-schliessen-handelsabkommen-ab-861640508797"
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/insiderhandel-im-weissen-haus-wie-im-schatten-des-krieges-millionenprofite-gescheffelt-werden"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-migros-umbau-abgeschlossen",
+              "slug": "migros-umbau-abgeschlossen",
+              "title": "Migros schliesst Umbau ab: 21 Firmen weg, aber Marktanteile sinken",
+              "date": "2026-03-25",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "🛒",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/Dn7BR_BNK14AmGj12abTqm.jpg",
+              "kurz": "Migros verkauft 21 Tochterfirmen, erzielt 1,1 Mrd. Franken Gewinn – doch die Marktanteile sinken weiter. Erholung frühestens ab 2028.",
+              "summary": "Die Migros hat ihren grossen Konzernumbau abgeschlossen: Über 21 Tochterfirmen wurden verkauft, darunter Mibelle, Obi und Hotelplan. Der Reingewinn 2025 stieg dadurch auf 1,1 Milliarden Franken. Doch das Kerngeschäft – der Lebensmittelhandel – schwächelt: Marktanteile gingen verloren, CEO Mario Irminger erwartet eine Erholung frühestens ab 2028. Die Migros investiert massiv in Preissenkungen, Filialsanierungen und Logistik.",
+              "gegenstimme": "Kritiker fragen, ob der Konzernumbau zu weitreichend war: Mit dem Verkauf von über 20 Geschäftsbereichen verliert die Migros an Diversifikation und Kundenbindung. Zudem gefährdet die Tiefpreisstrategie die Marge – ohne Garantie, dass verlorene Marktanteile zurückgewonnen werden. Die Mitarbeiterzahl sank um rund 7000 auf knapp 92'000.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/wirtschaft/detailhandel-detailriese-im-umbruch-wohin-steuert-die-migros"
                 },
                 {
                   "name": "Der Bund",
-                  "url": "https://www.derbund.ch/eu-und-australien-schliessen-handelsabkommen-ab-861640508797"
+                  "url": "https://www.derbund.ch/migros-21-firmen-verkauft-doch-jetzt-beginnt-der-haertetest-575898407128"
+                },
+                {
+                  "name": "Der Bund – Gewinn",
+                  "url": "https://www.derbund.ch/migros-gewinn-von-1-1-milliarden-nach-totalumbau-184884462173"
                 }
               ]
             },
             {
-              "id": "2026-03-24-gold-krisenwaehrung-versagt",
-              "slug": "gold-krisenwaehrung-versagt",
-              "title": "Goldpreis bricht ein: Warum das Edelmetall als Krisenwährung versagt",
-              "date": "2026-03-24",
+              "id": "2026-03-25-oel-preis-rezessionsrisiko",
+              "slug": "oel-preis-rezessionsrisiko",
+              "title": "Ölkrise und Rezessionsrisiko: BlackRock warnt vor globalem Schock",
+              "date": "2026-03-25",
               "time": "07:00",
               "category": "wirtschaft",
-              "icon": "🥇",
+              "icon": "💰",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/3tsSfm9TabJAllXtIl8S5C.jpg",
-              "kurz": "Trotz Iran-Eskalation und Rekordölpreisen ist Gold massiv gefallen – auf zeitweise unter 4.200 USD pro Unze. Liquiditätsbedarf schlägt den klassischen Fluchtreflex.",
-              "summary": "Der Goldpreis ist seit seinem Rekordhoch um rund 19 Prozent eingebrochen und fiel am 23. März 2026 auf etwa 4.207 USD pro Unze. Trotz Iran-Krise und steigenden Energiepreisen blieb der erwartete Zufluss in den sicheren Hafen aus. Analysten erklären: In extremen Risk-off-Phasen verkaufen Anleger Gold als hochliquide Position, um Verluste andernorts auszugleichen. Steigende reale Zinsen und Währungseffekte verstärken den Abwärtsdruck.",
-              "gegenstimme": "Langfristig orientierte Anleger und Notenbanken weltweit halten an Gold als Reservemedium fest. Zentralbanken – besonders in Schwellenländern – kaufen Gold weiterhin in grossen Mengen. Aus dieser Perspektive ist der aktuelle Einbruch ein kurzfristiges Phänomen in einem intakten Aufwärtstrend. Auch einige Analysten warnen davor, voreilige Schlüsse zu ziehen: Der Kursrückgang zeigt nicht, dass Gold als Absicherung gescheitert ist, sondern dass die Krise noch nicht ihr volles Ausmass entfaltet hat.",
+              "image": "https://cdn.unitycms.io/images/6iaAMVb_Kzn9HNdA1s0rmG.jpg",
+              "kurz": "BlackRock-Chef Larry Fink warnt: Ölpreis über 150 Dollar würde eine globale Rezession auslösen. Europas Industrie gibt gestiegene Energiekosten weiter.",
+              "summary": "Larry Fink, Chef des weltgrössten Vermögensverwalters BlackRock, sieht zwei mögliche Szenarien: Entweder endet der Iran-Konflikt und der Ölpreis fällt unter Vorkriegsniveau, oder er verharrt bei 100–150 Dollar, was eine 'ausgeprägte und steile Rezession' auslösen würde. Aktuell fiel Brent auf rund 98 Dollar, nachdem Trump Verhandlungsfortschritte andeutete. Europas Industrieunternehmen haben bereits begonnen, die gestiegenen Kosten über Preiserhöhungen weiterzugeben.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass Finks Zwei-Szenarien-Modell die vielen Zwischenstufen eines möglichen Konfliktverlaufs ausblendet. Zudem profitieren Ölförderländer sowie Solar- und Windenergieproduzenten von hohen Energiepreisen – für sie ist die Krise eine Investitionschance. Einige Ökonomen sehen in steigenden Energiepreisen auch einen beschleunigenden Treiber der Energiewende.",
               "sources": [
                 {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/goldpreis-warum-das-edelmetall-19-prozent-verlor-726190209157"
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo"
                 },
                 {
                   "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/dax-wie-guenstig-ist-der-leitindex-jetzt/100210274.html"
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/iran-konflikt-oelpreis-faellt-nach-trump-aussagen-wieder-unter-100-dollar/100211425.html"
                 },
-                {
-                  "name": "ad-hoc-news.de",
-                  "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/goldpreis-crasht-auf-4207-usd-iran-krieg-und-marktschwaeche-druecken/68968409"
-                },
-                {
-                  "name": "MarketScreener",
-                  "url": "https://de.marketscreener.com/boerse-nachrichten/gold-auf-jahrestiefststand-5-einbruch-aufgrund-von-zinserhoehungsspekulationen-ce7e5edcdd8af727"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-russland-wirtschaft-minus",
-              "slug": "russland-wirtschaft-minus",
-              "title": "Russland: Wirtschaft rutscht ins Minus – Putin raeumt Schwaecheein",
-              "date": "2026-03-24",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "📉",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/5f605902-a5a1-41e5-b9a7-002fa8113599_w520_r2.08_fpx55.66_fpy50.jpg",
-              "kurz": "Erstmals seit Kriegsbeginn raeumt Putin oeffentlich wirtschaftliche Probleme ein. Russlands BIP schrumpft – laut Putin wegen zu vieler Feiertage.",
-              "summary": "Vier Jahre nach dem Einmarsch in die Ukraine rutscht Russlands Wirtschaft offiziell ins Negative. Wladimir Putin hat erstmals oeffentlich wirtschaftliche Schwaeche eingestanden, nachdem er Warnungen seines eigenen Wirtschaftsministers monatelang ignoriert hatte. Als Erklaerung dient ihm die hohe Zahl an Feiertagen. Sanktionen, massive Ruestungsausgaben und hohe Zinsen belasten zunehmend den zivilen Teil der Wirtschaft.",
-              "gegenstimme": "Westliche Oekonomen und unabhaengige russische Analytiker sehen in der 'Feiertagserklaerung' eine offensichtliche Verharmlosung. Sanktionen, Kapitalflucht, der Abgang qualifizierter Arbeitskraefte sowie exorbitante Militaerausgaben gelten als die eigentlichen Treiber. Einige Experten weisen darauf hin, dass der offiziell gemeldete Rueckgang moeglicherweise noch den tatsaechlichen verdeckt, da russische Statistiken politisch gefiltert werden.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/russland-wirtschaft-rutscht-ins-minus-das-sieht-jetzt-sogar-wladimir-putin-a-16b17df3-3eda-4ddb-b2ee-3f0604d387a3"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-totalenergies-windkraft-trump",
-              "slug": "totalenergies-windkraft-trump",
-              "title": "Trump zahlt fast eine Milliarde: TotalEnergies stoppt US-Offshore-Windkraftprojekte",
-              "date": "2026-03-24",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "💨",
-              "edition": "morning",
-              "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=1200",
-              "kurz": "Die US-Regierung zahlt dem französischen Energiekonzern TotalEnergies fast eine Milliarde Dollar, damit dieser seine Offshore-Windprojekte vor der amerikanischen Küste aufgibt. Das Geld fliesst in Flüssiggas.",
-              "summary": "Das US-Innenministerium gibt bekannt, dass TotalEnergies rund 928 Millionen Dollar erhält – im Gegenzug verzichtet der Konzern auf zwei Offshore-Windpachtverträge vor der Nord-Carolina- und New-York-Küste. TotalEnergies wird das Kapital in ein LNG-Terminal (Rio Grande) reinvestieren. Die Trump-Regierung bezeichnet das Abkommen als Sieg für Energieversorgungssicherheit und Erschwinglichkeit. Kritiker sehen darin eine Subventionierung fossiler Energie zulasten der Steuerzahler.",
-              "gegenstimme": "Energieexperten und Klimaökonomen kritisieren das Abkommen scharf: Die Regierung zahlt ein Unternehmen dafür, nicht zu investieren – ein marktverzerrrender Eingriff, der genau das Gegenteil der angeblichen Marktlogik darstellt. Zudem erhöht das neue LNG-Terminal die Abhängigkeit der US-Verbraucher von internationalen Gaspreisen. In einer Situation, in der ein US-Angriff auf den Iran bereits die Energiepreise nach oben treibt, ist das eine riskante Wette.",
-              "sources": [
                 {
                   "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/unternehmen/energie/cera-week-milliarden-deal-mit-trump-totalenergies-stoppt-us-windkraftprojekte/100211006.html"
-                },
-                {
-                  "name": "AP News",
-                  "url": "https://apnews.com/article/trump-offshore-wind-energy-climate-totalenergies-interior-092eeeacc5d09730d4e20a95d7df7de1"
-                },
-                {
-                  "name": "Ars Technica",
-                  "url": "https://arstechnica.com/science/2026/03/trumps-latest-anti-wind-effort-pay-companies-to-abandon-offshore-leases/"
-                },
-                {
-                  "name": "Le Monde",
-                  "url": "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html"
-                },
-                {
-                  "name": "New York Times",
-                  "url": "https://www.nytimes.com/2026/03/23/climate/offshore-wind-gas-trump-total.html"
+                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/iran-krieg-industrieunternehmen-heben-preise-wegen-hoeherer-kosten-an/100210306.html"
                 }
               ]
             },
             {
-              "id": "2026-03-24-amazon-kuiper-starlink-konkurrenz",
-              "slug": "amazon-kuiper-starlink-konkurrenz",
-              "title": "Amazon verdoppelt Satellitenstarts: Kuiper-Netz wird zu Amazon Leo",
-              "date": "2026-03-24",
+              "id": "2026-03-25-arm-cpu-meta-ki",
+              "slug": "arm-cpu-meta-ki",
+              "title": "Arm baut erstmals eigenen Chip – für Metas KI-Rechenzentren",
+              "date": "2026-03-25",
               "time": "07:00",
               "category": "tech",
-              "icon": "🛰️",
+              "icon": "💻",
               "edition": "morning",
-              "image": "https://cdn.vox-cdn.com/thumbor/OAFt7d5eKHNE4bTuVYVBfkh3GJA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25917696/STKR_Amazon_A_Normand_002.jpg",
-              "kurz": "Amazons Satelliten-Internetnetz heisst neu Amazon Leo – 153 Satelliten im Orbit, 3'000 geplant. SpaceX Starlinks Dominanz bekommt ernsthafte Konkurrenz.",
-              "summary": "Amazon hat sein Satelliten-Internetprojekt 'Project Kuiper' in 'Amazon Leo' umbenannt – ein Verweis auf die Low-Earth-Orbit-Technologie. Mit 153 Satelliten im Orbit und sechs erfolgreichen Starts – davon drei mit SpaceX-Raketen – nimmt das Netzwerk Form an. Geplant sind insgesamt über 80 Missionen mit rund 3'000 Satelliten. Damit positioniert sich Amazon als direkter Konkurrent zu SpaceX Starlink, das kürzlich seinen 10'000. Satelliten in die Umlaufbahn gebracht hat.",
-              "gegenstimme": "Experten und Umweltschützer warnen vor den Nebenwirkungen des Satelliten-Wettrüstens: Zehntausende neuer Objekte in erdnahen Umlaufbahnen erhöhen das Kollisionsrisiko erheblich, erschweren bemannte Missionen und produzieren bei Wiedereintritt metallische Partikel in der Atmosphäre. Astronomen beklagen zunehmende Lichtverschmutzung, die wissenschaftliche Beobachtungen beeinträchtigt. Kritiker fragen auch, ob das Versprechen von 'Internet für alle' tatsächlich eingelöst wird – oder ob die kostspielige Technologie primär für zahlungskräftige Kunden attraktiv bleibt.",
+              "image": "https://cdn.prod.www.spiegel.de/images/7fb09890-6031-4022-9788-cbb2d40b5e85_w520_r2.08_fpx37.5_fpy49.98.jpg",
+              "kurz": "Arm lanciert nach 35 Jahren erstmals einen selbst produzierten CPU – den «Arm AGI CPU», entwickelt gemeinsam mit Meta für den Einsatz in KI-Rechenzentren.",
+              "summary": "Das britische Halbleiterunternehmen Arm Holdings hat erstmals in seiner 35-jährigen Firmengeschichte einen selbst produzierten Chip vorgestellt. Der «Arm AGI CPU» wurde in Zusammenarbeit mit Meta entwickelt und ist auf den Betrieb von KI-Inferenz in Rechenzentren ausgelegt. Meta ist der erste Kunde. Der Schritt markiert einen historischen Strategiewechsel für Arm, das bisher ausschliesslich Chipdesigns lizenzierte.",
+              "gegenstimme": "Der Strategiewechsel ist nicht ohne Risiko: Arm tritt nun in direkte Konkurrenz zu vielen seiner bisherigen Lizenznehmern, darunter Apple, Qualcomm und Nvidia. Qualcomm, das zuletzt einen wichtigen Rechtsstreit gegen Arm gewonnen hatte, gehört bezeichnenderweise nicht zu den Gratulanten der Produktankündigung.",
               "sources": [
                 {
-                  "name": "The Verge – Project Kuiper rebrands to Amazon Leo",
-                  "url": "https://www.theverge.com/news/820580/project-kuiper-amazon-leo-rebrand"
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/"
                 },
                 {
-                  "name": "Amazon – Project Kuiper launch progress",
-                  "url": "https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates"
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"
                 }
               ]
             },
             {
-              "id": "2026-03-24-ki-berufe-zukunft",
-              "slug": "ki-berufe-zukunft",
-              "title": "KI und die Arbeitswelt: Welche Berufe überleben, welche entstehen neu",
-              "date": "2026-03-24",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🤖",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/DDv_nE_NqBnBIpFgbDIEV2.jpg",
-              "kurz": "KI verändert die Arbeitswelt fundamental – Routinejobs schrumpfen, neue Rollen entstehen. Schweizer Jugendliche wachsen bereits mit KI-Chatbots als Alltags-Werkzeug auf.",
-              "summary": "Zukunftsforscher wie Stephan Sigrist (Think Tank W.I.R.E.) analysieren, wie KI den Schweizer Arbeitsmarkt umstrukturiert: Repetitive und strukturierte Tätigkeiten sind am stärksten gefährdet, während Berufe mit Empathie, Kreativität und komplexem Urteilsvermögen widerstandsfähiger bleiben. Gleichzeitig entstehen völlig neue Berufsfelder rund um KI-Training, -Überwachung und ethische Kontrolle. Parallel zeigt eine Swissinfo-Reportage, dass 84% der Schweizer Jugendlichen bereits regelmässig KI-Tools nutzen – mit wachsenden Bedenken über Aufmerksamkeit, soziale Isolation und Abhängigkeit.",
-              "gegenstimme": "Kritiker warnen, dass die optimistische Sichtweise 'neue Jobs entstehen' historische Verdrängungsprozesse unterschätzt. ETH-Forschende und Psychologen wie Zachary Stein (Coalition for AI Psychological Harms Research) betonen, dass KI nicht nur Jobs, sondern auch kognitive Fähigkeiten und soziale Bindungen erodiert – besonders bei Jugendlichen. Die Schweiz mit ihrer überdurchschnittlich hohen Einsamkeitsrate (59% der 15–24-Jährigen fühlen sich einsam) könnte besonders vulnerabel sein.",
-              "sources": [
-                {
-                  "name": "Tagesanzeiger – AI und Jobs",
-                  "url": "https://www.tagesanzeiger.ch/ai-und-jobs-welche-berufe-sind-sicher-und-welche-nicht-332692774211"
-                },
-                {
-                  "name": "SWI swissinfo – Schweizer Jugendliche und Chatbots",
-                  "url": "https://www.swissinfo.ch/ger/schweizer-ki/schweizer-jugendliche-gew%c3%b6hnen-sich-zunehmend-an-chatbots/91117012"
-                },
-                {
-                  "name": "SRF – Stephan Sigrist, Zukunftsforscher",
-                  "url": "https://www.srf.ch/sendungen/tagesgespraech/stephan-sigrist-zukunftsforscher"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-openai-helion-fusion-strom",
-              "slug": "openai-helion-fusion-strom",
-              "title": "OpenAI kauft Strom von Kernfusions-Startup Helion – Altman im Interessenkonflikt",
-              "date": "2026-03-24",
+              "id": "2026-03-25-cern-antimaterie-transport",
+              "slug": "cern-antimaterie-transport",
+              "title": "CERN transportiert erstmals Antimaterie – Weltneuheit aus Genf",
+              "date": "2026-03-25",
               "time": "07:00",
               "category": "tech",
               "icon": "⚛️",
               "edition": "morning",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png",
-              "kurz": "OpenAI verhandelt Stromkauf von Helion Energy – Sam Altman tritt als Verwaltungsratspräsident zurück, um Interessenkonflikt zu vermeiden. Das Muster wiederholt sich: Gleiches tat er zuvor mit Oklo.",
-              "summary": "OpenAI befindet sich in fortgeschrittenen Verhandlungen über einen langfristigen Strombezugsvertrag mit Helion Energy, einem Fusionsreaktor-Startup. Der heikle Punkt: OpenAI-CEO Sam Altman ist Investor und war bis vor kurzem Verwaltungsratspräsident von Helion. Er hat den Posten niedergelegt und sich aus den Verhandlungen zurückgezogen. Helion hat bisher nur bestehende Verträge mit Microsoft und dem Stahlkonzern Nucor bestätigt. Das Muster ist nicht neu: Altman vollzog dasselbe Manöver mit dem Kernkraft-Startup Oklo im April 2025.",
-              "gegenstimme": "Trotz formeller Ausstandsregelung bleibt die strukturelle Verflechtung bestehen: Altman ist weiterhin Investor in Helion und CEO von OpenAI gleichzeitig. Kritiker sehen das blosse Rückziehen aus dem Verwaltungsrat als unzureichend. Die Wiederholung des Musters mit Oklo und nun Helion wirft Fragen auf, ob persönliche Beteiligungen und unternehmerische Entscheide bei OpenAI ausreichend unabhängig voneinander getroffen werden können – insbesondere angesichts des enormen Energiehungers von KI-Rechenzentren.",
+              "image": "https://cdn.prod.www.spiegel.de/images/7fb09890-6031-4022-9788-cbb2d40b5e85_w520_r2.08_fpx37.5_fpy49.98.jpg",
+              "kurz": "Forscher am CERN transportierten erstmals in der Geschichte Antimaterie – 92 Antiprotonen, sicher per Lastwagen über das CERN-Gelände.",
+              "summary": "Wissenschaftlerinnen und Wissenschaftler am CERN in Genf haben am 24. März 2026 erstmals in der Menschheitsgeschichte Antimaterie auf der Strasse transportiert. 92 Antiprotonen wurden in einem speziell entwickelten, schrankgrossen Behälter rund acht Kilometer über das CERN-Gelände gefahren – ohne Verluste. Der Meilenstein soll künftig den Transport von Antimaterie zu Labors in Deutschland ermöglichen, wo präzisere Messungen möglich sind.",
+              "gegenstimme": "Einige Wissenschaftler betonen, dass der erfolgreiche Test auf dem abgesicherten CERN-Gelände noch weit von einem praktikablen Transport auf öffentlichen Strassen entfernt ist. Die enormen Kosten und technischen Anforderungen machen Antimaterie auf absehbare Zeit zu einem reinen Forschungsobjekt ohne praktischen Einsatz ausserhalb von Labors.",
               "sources": [
                 {
-                  "name": "Axios – OpenAI explores fusion energy in Helion power deal",
-                  "url": "https://www.axios.com/2026/03/23/openai-fusion-altman-helion"
+                  "name": "SRF Wissen",
+                  "url": "https://www.srf.ch/wissen/forschung/cern-schafft-weltneuheit-dieser-lastwagen-hat-erstmals-antimaterie-transportiert"
                 },
                 {
-                  "name": "TechCrunch – Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
-                  "url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/"
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/cern-gelingt-erstmaliger-transport-von-antimaterie/91148601"
                 },
                 {
-                  "name": "Reuters – OpenAI CEO Sam Altman exits Helion Energy board",
-                  "url": "https://www.reuters.com/sustainability/boards-policy-regulation/openai-ceo-sam-altman-exits-helion-energys-board-firms-explore-partnership-2026-03-23/"
-                },
-                {
-                  "name": "The Next Web – OpenAI is in talks to buy fusion energy from Helion",
-                  "url": "https://thenextweb.com/news/openai-is-in-talks-to-buy-fusion-energy-from-helion"
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/technik/cern-in-genf-forscher-transportieren-erstmals-antimaterie-im-lkw-a-db82a134-e48b-4f6d-9086-27c9d9328875"
                 }
               ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
+            },
             {
-              "id": "2026-03-24-steinmeier-iran-voelkerrecht",
-              "slug": "steinmeier-iran-voelkerrecht",
-              "title": "Steinmeier nennt US-Militaeroffensive gegen Iran 'voelkerrechtswidrig",
-              "date": "2026-03-24",
-              "time": "12:15",
-              "category": "international",
+              "id": "2026-03-25-meta-kinder-strafe",
+              "slug": "meta-kinder-strafe",
+              "title": "Meta zu 375 Millionen Dollar Strafe verurteilt – mangelnder Kinderschutz",
+              "date": "2026-03-25",
+              "time": "07:00",
+              "category": "tech",
               "icon": "⚖️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/edf126d2-967d-484b-963a-a6ef11510012_w520_r2.08_fpx41_fpy43.jpg",
-              "kurz": "Bundespraesident Steinmeier hat den US-israelischen Krieg gegen den Iran als 'voelkerrechtswidrig' verurteilt – und widerspricht damit offen der Linie von Kanzler Merz.",
-              "summary": "Bundespraesident Frank-Walter Steinmeier hat bei einer Festveranstaltung zum 75-jaehrigen Bestehen des Auswaertigen Amtes den Iran-Krieg als voelkerrechtswidrig bezeichnet. Der Krieg sei zudem ein 'politisch verhaengnisvoller Fehler' und haette durch den Erhalt des Nuklearabkommens von 2015 vermieden werden koennen. Damit setzt sich Steinmeier klar von Kanzler Friedrich Merz und Aussenminister Johann Wadephul ab, die den Begriff 'voelkerrechtswidrig' bisher bewusst vermieden haben. Vizekanzler Lars Klingbeil kritisierte derweil die steigenden Benzinpreise als 'wahnsinnige Abzocke'.",
-              "gegenstimme": "Kanzler Merz haelt es fuer 'nicht den richtigen Moment', Verbuendete zu belehren. Er verweist auf das Dilemma, dass voelkerrechtliche Mittel gegen ein atomar aufruestendes, die eigene Bevoelkerung unterdrueckendes Regime offenbar wenig bewirken. Steinmeiers Kritik blendet aus, dass ein nuklear bewaffneter Iran fuer Israel und Europa eine existenzielle Bedrohung darstellt – und dass es keine glaubwuerdige nicht-militaerische Option mehr gegeben haben koennte.",
+              "edition": "morning",
+              "image": "https://media.20min.ch/6/image/2025/07/03/c8a40f83-a024-41df-9437-1d6b0da2140d.jpg",
+              "kurz": "Eine Jury in New Mexico verurteilte Meta zu 375 Mio. Dollar Strafe wegen 37'500 Verstössen gegen Kinderschutzgesetze auf Facebook und Instagram.",
+              "summary": "Ein Geschworenengericht im US-Bundesstaat New Mexico hat Meta zu einer Strafe von 375 Millionen Dollar verurteilt. Das Urteil basiert auf 37'500 Verstössen gegen staatliche Verbraucherschutz- und Kinderschutzgesetze. Die Jury befand, Meta habe Nutzer über die Sicherheit seiner Plattformen wissentlich in die Irre geführt. Meta kündigte Berufung an.",
+              "gegenstimme": "Meta bestreitet die Vorwürfe vehement. Der Konzern erklärt, man arbeite hart daran, Menschen auf den Plattformen zu schützen, und sei offen über die Schwierigkeiten, schlechte Akteure zu identifizieren. Meta bezeichnet die Untersuchungsmethode des Bundesstaats – den Einsatz von Lockvogel-Konten – als fehlerhaft.",
               "sources": [
                 {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-lars-klingbeil-plaediert-fuer-benzin-preisobergrenzen-a-51a9d808-0b50-457b-9f02-3b57ea73c1e2"
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict"
                 },
                 {
-                  "name": "Berliner Morgenpost",
-                  "url": "https://www.morgenpost.de/politik/article411540695/steinmeier-haelt-brandrede-zum-iran-krieg-vorwuerfe-an-trump-mahnung-an-merz.html"
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo"
                 },
                 {
-                  "name": "Die Zeit",
-                  "url": "https://www.zeit.de/politik/deutschland/2026-03/krieg-naher-osten-frank-walter-steinmeier-johann-wadephul-voelkerrechtswidrig-iran-usa-israel"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/tech-meta-wegen-mangelnden-kinderschutzes-zu-millionenstrafe-verurteilt/100211432.html"
                 }
               ]
             },
             {
-              "id": "2026-03-24-ungarn-szijjarto-russland-informant",
-              "slug": "ungarn-szijjarto-russland-informant",
-              "title": "Ungarns Aussenminister soll EU-Geheimnisse in Echtzeit an Lawrow weiterleiten",
-              "date": "2026-03-24",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🕵️",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Peter Szijjarto, Aussenminister Ungarns, soll laut einem Washington-Post-Bericht waehrend EU-Aussenministertreffen in den Pausen regelmassig Russlands Lawrow angerufen haben – live aus Bruessel.",
-              "summary": "Laut einem Bericht der Washington Post, der sich auf EU-Sicherheitskreise stuetzt, soll der ungarische Aussenminister Peter Szijjarto in den Pausen von Bruessel-Treffen regelmassig seinen russischen Amtskollegen Sergej Lawrow angerufen haben, um ihn ueber den Inhalt der laufenden Gespraeche zu informieren. Die EU-Kommission bezeichnete die Vorwuerfe als 'aeusserst besorgniserregend' und forderte Aufklaerung. Ungarn bestreitet die Vorwuerfe – Szijjarto nannte sie 'Verschwoerungs-theorien'. Timing der Aff aere: Im April finden Parlamentswahlen statt, bei denen Orbans Partei laut Umfragen die Mehrheit zu verlieren droht.",
-              "gegenstimme": "Szijjarto und Orban haben die Berichte energisch zurueckgewiesen und behaupten, der Aussenminister sei selbst abgehoert worden. Budapest will wegen dieses angeblichen 'schwerwiegenden Angriffs auf Ungarn' eigene Ermittlungen einleiten. Kritiker des westlichen Narrativs weisen darauf hin, dass Ungarn als EU-Mitglied das Recht habe, eigene diplomatische Kontakte zu unterhalten – auch mit Russland – und dass der Zeitpunkt kurz vor den Wahlen politisch motiviert sein koennte.",
-              "sources": [
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/eu-ist-der-ungar-peter-szijjarto-informant-russlands-510848333814"
-                },
-                {
-                  "name": "Tagesschau",
-                  "url": "https://www.tagesschau.de/ausland/europa/eu-ungarn-informationen-russland-100.html"
-                },
-                {
-                  "name": "ZDF heute",
-                  "url": "https://www.zdfheute.de/politik/ausland/ungarn-spionage-russland-szijjarto-eu-100.html"
-                },
-                {
-                  "name": "Euronews",
-                  "url": "https://www.euronews.com/my-europe/2026/03/24/hungarys-foreign-minister-admits-calling-lavrov-during-key-eu-meetings"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-lawinen-unfall-kanada-schweizer",
-              "slug": "lawinen-unfall-kanada-schweizer",
-              "title": "Drei Schweizer sterben bei Heliski-Lawinenunglueck in Kanada",
-              "date": "2026-03-24",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🏔️",
-              "edition": "midday",
-              "image": "https://image.20min.ch/2026/03/24/7e87e64a-12ac-4f3b-b9f3-ab4add65a750.jpg",
-              "kurz": "Im kanadischen British Columbia sind drei Schweizer Heliskifahrer von einer Lawine begrabenk worden – eine vierte Person ueberlebte schwer verletzt. Die Gruppe loeste die Lawine offenbar selbst aus.",
-              "summary": "Am Sonntag, 23. Maerz 2026, kamen drei Schweizer Staatsangehoerige beim Heliskiing nahe dem Mount Knauss in British Columbia ums Leben. Die Gruppe wurde auf der Abfahrt 'Iridium Shoulder' von einer Lawine erfasst, die sie laut Avalanche Canada selbst ausgeloest hatten. Eine vierte Person wurde schwer verletzt per Helikopter in ein Spital geflogen und befindet sich in stabilem Zustand. Das Schweizerische Generalkonsulat in Vancouver steht in Kontakt mit den Behoerden und den Angehoerigen der Opfer.",
-              "gegenstimme": "Die genauen Umstaende des Ungluecks werden noch untersucht. Heliskiing-Anbieter operieren in der Regel mit professionellen Guides und obligatorischen Sicherheitsausruestungen (Airbag, Lawinensonde, LVS-Geraet). Kritiker sehen grundsaetzliche Fragen: Inwiefern wurden die Gaeste auf die erhebliche Lawinengefahr hingewiesen, die Avalanche Canada fuer die Region ausgerufen hatte? Und wer traegt die Verantwortung, wenn Kunden trotz bekannter Warnstufe in Gelfahrengelaende gefuehrt werden?",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/british-columbia-drei-schweizer-sterben-bei-lawinenunglueck-in-kanada-103532874"
-                },
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/lawinenunglueck-in-kanada-drei-schweizer-sterben-beim-heliskiing-695410012202"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-kanton-bern-gewinn-873",
-              "slug": "kanton-bern-gewinn-873",
-              "title": "Kanton Bern schliesst 2025 mit 873 Millionen Franken Gewinn ab",
-              "date": "2026-03-24",
-              "time": "12:15",
-              "category": "regional",
-              "icon": "💰",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Der Kanton Bern erzielte in seiner Jahresrechnung 2025 einen Ertragsüberschuss von 873 Millionen Franken – mehr als dreimal so viel wie budgetiert. Treiber waren zwei Sondereffekte und eine unerwartete SNB-Gewinnausschüttung.",
-              "summary": "Bei einem Aufwand von 13.25 Milliarden und einem Ertrag von 14.13 Milliarden Franken schloss der Kanton Bern 2025 mit einem Überschuss von 873 Millionen ab. Budgetiert war ein Ertragsüberschuss von 242 Millionen. Die Verbesserung ist vor allem auf drei Faktoren zurückzuführen: die Auflösung einer Rückstellung für den Westast-Tunnel in Biel (315 Mio.), die Vollkapitalisierung der Bernischen Pensionskasse BPK (127 Mio.) sowie die nicht budgetierte SNB-Gewinnausschüttung (238 Mio.). Der Bilanzüberschuss überstieg erstmals die Milliardengrenze.",
-              "gegenstimme": "Der Regierungsrat selbst mahnt zur Vorsicht: Ohne die Sondereffekte wäre das Ergebnis rund 50 Millionen unter dem Budget geblieben. Mittelfristig zeichnen sich massive finanzielle Herausforderungen ab – die Abschaffung des Eigenmietwerts, steigende Gesundheitskosten und höhere Prämienverbilligungen könnten den Haushalt stark belasten. Zudem wurden geplante Investitionen um über 100 Millionen unterschritten, weil grosse Bauprojekte Verzögerungen hatten. Das Resultat ist gut, aber es trügt über strukturelle Schwächen hinweg.",
-              "sources": [
-                {
-                  "name": "Kanton Bern – Medienmitteilung",
-                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=874525ac-5194-4560-8f4a-40964be2018b"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/plus-von-873-millionen-kanton-bern-verbucht-hohen-gewinn-957307959716"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-insiderhandel-trump-iran-post",
-              "slug": "insiderhandel-trump-iran-post",
-              "title": "Millionenwetten kurz vor Trumps Iran-Kehrtwende: Verdacht auf Insiderhandel",
-              "date": "2026-03-24",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "🎰",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Kurz vor Trumps Ankuendigung einer Iran-Waffenpause platzierten Haendler auf Polymarket Millionenwetten auf genau dieses Szenario – Behoerden und Politiker fordern nun Untersuchungen.",
-              "summary": "Auf der Krypto-Wettboerse Polymarket wurden kurz vor dem Bekanntwerden von Trumps Kehrtwende im Iran-Konflikt auffaellige Millionenwetten platziert. Ein Nutzer namens 'Magamyman' soll ueber eine halbe Million Dollar eingestrichen haben, nachdem er korrekt auf den Sturz des iranischen Obersten Fuehrer gewettet hatte. Demokratischer Senator Chris Murphy bezeichnete die Situation als 'wahnsinnig' und forderte gesetzliche Konsequenzen. Auch Verdacht auf Krypto-Verkaeuf von Trump-Vertrauten kurz vor dem Angriff auf den Iran haelt die Behoerden beschaeftigt.",
-              "gegenstimme": "Trumps Lager weist alle Vorwuerfe zurueck und bezeichnet sie als politisch motivierte Hexenjagd. Auf Prognosenmaerkten wie Polymarket ist 'Insiderhandel' rechtlich kaum greifbar – die Plattform operiert in einem regulatorischen Graubereich. Kritiker des Narrativs weisen darauf hin, dass viele Haendler oeffentlich verfuegbare Signale analysieren und hohe Renditen auch durch gutes Lesen der Lage erklaerbar sind, nicht notwendig durch Insiderwissen.",
-              "sources": [
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/insiderhandel-millionenwetten-vor-trump-iran-post-927798873251"
-                },
-                {
-                  "name": "Frankfurter Rundschau",
-                  "url": "https://www.fr.de/politik/amtsenthebung-von-trump-millionen-wetten-auf-sturz-aus-dem-weissen-haus-zr-94229259.html"
-                },
-                {
-                  "name": "stock3.com",
-                  "url": "https://stock3.com/news/trump-insiderhandel-vor-us-iran-angriff-16461691"
-                },
-                {
-                  "name": "Deutschlandfunk",
-                  "url": "https://www.deutschlandfunk.de/polymarket-wetten-usa-iran-insider-100.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-migros-reingewinn-milliarde",
-              "slug": "migros-reingewinn-milliarde",
-              "title": "Migros verdoppelt Gewinn auf 1.1 Milliarden Franken",
-              "date": "2026-03-24",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "🛒",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Migros erzielte 2025 dank Unternehmensverkäufen einen Reingewinn von 1.1 Milliarden Franken – fast das Dreifache des Vorjahres. Im Kerngeschäft verliert der Detailhändler jedoch Marktanteile.",
-              "summary": "Der Migros-Konzern schloss das Geschäftsjahr 2025 mit einem Reingewinn von 1.1 Milliarden Franken ab, gegenüber 419 Millionen im Vorjahr. Treiber waren Sondereffekte aus dem Verkauf von Tochterfirmen wie SportX, Melectronics, Micasa und Bikeworld. Bereinigt um diese Einmaleffekte fiel der Betriebsgewinn von 924 auf 812 Millionen Franken. Onlinehändler Galaxus und Gesundheitsanbieter Medbase entwickelten sich dagegen sehr stark.",
-              "gegenstimme": "Die glänzende Schlagzeile täuscht: Das operative Kerngeschäft schwächelt. Migros-Läden wuchsen nur um 0.1 Prozent, Denner um 0.9 Prozent – beide klar unter dem Gesamtmarkt von 1.9 Prozent. CEO Mario Irminger bat um Geduld und verweist auf Investitionen von 500 Millionen in Preissenkungen. Kritiker fragen sich jedoch, ob eine Strategie, die auf dem Verkauf von Traditionsmarken basiert, langfristig tragfähig ist – und ob die Migros ihre Kernkompetenz im Lebensmittelhandel nicht aus den Augen verliert.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/wirtschaft/detailhandel-migros-reingewinn-schnellt-auf-1-1-milliarden-franken-hoch"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-asml-sk-hynix-chip-rekord",
-              "slug": "asml-sk-hynix-chip-rekord",
-              "title": "SK Hynix vergibt Rekordauftrag an ASML – und ein Startup will ASML herausfordern",
-              "date": "2026-03-24",
-              "time": "12:15",
+              "id": "2026-03-25-openai-sora-ende",
+              "slug": "openai-sora-ende",
+              "title": "OpenAI schliesst Sora – und platzt damit Disney-Deal",
+              "date": "2026-03-25",
+              "time": "07:00",
               "category": "tech",
-              "icon": "💾",
-              "edition": "midday",
-              "image": "",
-              "kurz": "SK Hynix bestellte bei ASML EUV-Maschinen für knapp 7 Milliarden Euro – der grösste Einzelauftrag in der Geschichte des niederländischen Chipmaschinenspezialisten. Gleichzeitig erhält das Startup Lace Lithography 40 Millionen Dollar, um eine völlig neue Alternative zu entwickeln.",
-              "summary": "Der koreanische Speicherchip-Konzern SK Hynix gab einen Rekordauftrag bei ASML auf: EUV-Lithographieanlagen im Wert von knapp 7 Milliarden Euro sollen die Produktion von KI-Hochleistungsspeicher (HBM) ausweiten. SK Hynix kontrolliert rund 60 Prozent des weltweiten HBM-Marktes. Parallel dazu sicherte sich das Startup Lace Lithography unter Physikerin Bodil Holst 40 Millionen Dollar Investorengelder, um mit einer atomaren Helium-Lithographie-Methode eine fundamentale Alternative zu ASML zu entwickeln – mit Produktionsreife frühestens Anfang der 2030er Jahre.",
-              "gegenstimme": "ASML bleibt vorerst konkurrenzlos, und SK Hynix' Rekordauftrag festigt diese Monopolstellung weiter. Kritiker warnen, dass die Chipindustrie eine gefährliche Abhängigkeit von einem einzigen Anbieter für ihre kritischsten Produktionsmittel pflegt. Lace Lithography klingt vielversprechend, aber atomare Präzision im industriellen Massstab ist eine enorme Hürde. Ob Bodil Holsts Ansatz die Reife der Produktionsfähigkeit erreicht, ist hochgradig spekulativ – und bis dahin bleibt ASML der unangefochtene Gatekeeper der modernen Chipproduktion.",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/7fb09890-6031-4022-9788-cbb2d40b5e85_w520_r2.08_fpx37.5_fpy49.98.jpg",
+              "kurz": "OpenAI stellt die KI-Video-App Sora nach rund sechs Monaten ein. Damit platzt auch ein 1-Milliarden-Dollar-Deal mit Disney.",
+              "summary": "OpenAI hat angekündigt, die soziale KI-Video-App Sora einzustellen, nur rund sechs Monate nach deren Launch im September 2025. Die App, die als KI-first-Alternative zu TikTok positioniert war, verlor nach einem anfänglichen Hype stark an Nutzern. Mit der Schliessung fällt auch ein Milliarden-Dollar-Kooperationsvertrag mit Disney weg. OpenAI konzentriert sich strategisch neu auf Business- und Produktivitätsanwendungen.",
+              "gegenstimme": "Kritiker sehen in der Schliessung ein Zeichen dafür, dass OpenAI seine Ressourcen und Aufmerksamkeit verstreut hatte. Befürworter des Schritts argumentieren, der Konzern tue gut daran, sich auf profitablere Kernprodukte wie ChatGPT zu fokussieren, anstatt teure Lifestyle-Apps zu betreiben, die die Moderationskapazitäten überfordern.",
               "sources": [
                 {
-                  "name": "Handelsblatt – SK Hynix Rekordauftrag",
-                  "url": "https://www.handelsblatt.com/technik/it-internet/sk-hynix-chipfirma-vergibt-rekordauftrag-an-maschinenbauer-asml/100211164.html"
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/"
                 },
                 {
-                  "name": "Handelsblatt – Lace Lithography",
-                  "url": "https://www.handelsblatt.com/technik/ki/chips-baut-diese-frau-eine-alternative-zu-asml/100210253.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-usa-fcc-router-verbot",
-              "slug": "usa-fcc-router-verbot",
-              "title": "USA verbieten Import ausländischer WLAN-Router",
-              "date": "2026-03-24",
-              "time": "12:15",
-              "category": "tech",
-              "icon": "📡",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/1f288c82-18cc-45eb-912f-07a94b54f4b5_w520_r2.08_fpx59.33_fpy44.99.jpg",
-              "kurz": "Die US-Telekommunikationsbehörde FCC hat den Import neuer ausländischer WLAN-Router verboten – als Reaktion auf Cyberangriffe aus China. Das Problem: Fast alle Router werden im Ausland hergestellt.",
-              "summary": "Die FCC hat mit sofortiger Wirkung neue Importgenehmigungen für im Ausland hergestellte Consumer-Router gestoppt. Begründung: Ausländische Router seien ein unannehmbares Sicherheitsrisiko für die USA – verwiesen wird auf die Cyberangriffe Volt, Flax und Salt Typhoon aus den Jahren 2024 und 2025, die auf chinesische Staatshacker zurückgeführt werden. Betroffen sind neue Gerätemodelle aus allen Ländern, auch Deutschland – eine Ausnahmegenehmigung ist möglich, aber mit hohen Hürden verbunden. Die überwiegende Mehrheit der in den USA verkauften Router wird jedoch ausserhalb der USA produziert, darunter Bestseller wie TP-Link.",
-              "gegenstimme": "Das Verbot klingt entschlossen, hat aber ein fundamentales Problem: Die USA haben kaum eigene Router-Hersteller. Netgear ist US-amerikanisch, produziert aber im Ausland. Einzige echte Ausnahme ist der Starlink-Router von SpaceX, der in Texas gefertigt wird. Experten kritisieren, dass das Importverbot kurzfristig zu Engpässen und Preisanstiegen führen könnte, ohne die Sicherheitslücken wirklich zu schliessen. Ein Verbot schützt nicht vor bereits installierten Geräten – und von denen gibt es in US-Haushalten Millionen.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/netzwelt/gadgets/usa-verbieten-den-import-von-internet-routern-a-e2e9c399-1653-4a67-800d-cf848046df1c"
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/"
                 },
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c74787w149zo"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-03-24-daenemark-wahl-frederiksen",
-              "slug": "daenemark-wahl-frederiksen",
-              "title": "Daenemark waehlt: Mette Frederiksen sucht dritte Amtszeit – Groenland-Streit als Rueckenwind",
-              "date": "2026-03-24",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🇩🇰",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Daenemark waehlt einen neuen Folketing. Ministerpraesident Mette Frederiksen hofft auf eine dritte Amtszeit – befluegeltvon ihrer entschlossenen Haltung im Groenland-Konflikt mit den USA.",
-              "summary": "Am 24. Maerz 2026 gehen die Daenen an die Urne, Monate frueher als urspruenglich geplant. Frederiksen setzte auf den sogenannten Trump-Effekt: Ihre kompromisslose Ablehnung amerikanischer Annexionsforderungen gegenueber Groenland machte sie zur nationalen Symbolfigur. Umfragen sehen die Sozialdemokraten mit ueber 20 Prozent klar vorn, doch eine Mehrheit fuer den linken Bloc ist unsicher. Auch ein Regierungswechsel zugunsten des rechten Blocks ist moeglich – der Ausgang haengt von den Zentrumsparteien ab.",
-              "gegenstimme": "Kritiker werfen Frederiksen vor, die Neuwahl opportunistisch auf den Hoehepunkt des Groenland-Hypes angesetzt zu haben, waehrend die eigentlichen Waehlersorgen – steigende Lebenshaltungskosten, Pestizide im Trinkwasser, Wohnungsknappheit – ungeloest bleiben. Die Sozialdemokraten verloren seit 2022 spuerbar an Unterstuetzung; bei den Kommunalwahlen 2025 erzielten sie nur 17 Prozent. Politologen warnen, dass ein Wahlsieg auf Basis eines temporaeren Populaerboosts keine stabile Regierung garantiert.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cvgk02j4l4ko"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-philippinen-energienotstand-iran",
-              "slug": "philippinen-energienotstand-iran",
-              "title": "Philippinen rufen Energienotstand aus – Iran-Krieg gefaehrdet Oelversorgung",
-              "date": "2026-03-24",
-              "time": "18:00",
-              "category": "international",
-              "icon": "⚡",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Praesident Marcos Jr. hat auf den Philippinen einen nationalen Energienotstand ausgerufen. Ausloeser ist der Konflikt im Nahen Osten, der die Strasse von Hormuz blockiert und die Oelpreise mehr als verdoppelt hat.",
-              "summary": "Die Philippinen sind das erste Land weltweit, das als Reaktion auf den Krieg zwischen den USA, Israel und Iran einen nationalen Energienotstand erklaert hat. 98 Prozent des philippinischen Oels stammen aus dem Golf; seit Kriegsbeginn am 28. Februar haben sich Benzin- und Dieselpreise mehr als verdoppelt. Ein Regierungskomitee ueberwacht nun die Versorgung mit Treibstoff und Grundgutern, die Regierung darf direkt Erdoel kaufen. Die Massnahme gilt vorerst fuer ein Jahr.",
-              "gegenstimme": "Wirtschaftsexperten und Oppositionspolitiker auf den Philippinen kritisieren, dass die Regierung frueher haette handeln muessen: Trotz offensichtlicher Warnsignale seit Kriegsbeginn Ende Februar reagierte Manila erst Wochen spaeter mit einem formellen Notstand. Zudem befuerchten Buergerrechtsgruppen, dass ein Energienotstand die Regierung ermaechtigt, weit ueber die Energiepolitik hinaus in Wirtschaft und Verteilung einzugreifen – mit potenziell autokratischen Nebeneffekten. Die stark gestiegene Abhaengigkeit von Kohle als Ausweichenergie steht zudem im Widerspruch zu den Klimaversprechen des Landes.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c3ex8ez3717o"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-russland-spione-drohnen-deutschland",
-              "slug": "russland-spione-drohnen-deutschland",
-              "title": "Bundesanwaltschaft nimmt mutmassliche russische Spione fest – Drohnenlieferant ausgespaeht",
-              "date": "2026-03-24",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🕵️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/b981209d-0001-0004-0000-000001096446_w520_r2.08_fpx43.8_fpy50.jpg",
-              "kurz": "Die Bundesanwaltschaft hat zwei mutmassliche russische Agenten festgenommen, die einen deutschen Drohnenlieferanten ausspioniert haben sollen. Ermittler schliessen einen geplanten Sabotageakt nicht aus.",
-              "summary": "Nach SPIEGEL-Informationen hat die Bundesanwaltschaft zwei Personen festnehmen lassen, denen nachrichtendienstliche Taetigkeit fuer Russland vorgeworfen wird. Ziel des mutmasslichen Spionageeinsatzes war ein deutsches Unternehmen, das Drohnen an die Ukraine liefert. Ermittler pruefen, ob die Ausspähung als Vorbereitung eines Sabotageakts diente. Die Festnahmen reihen sich ein in eine Serie russischer Operationen gegen westliche Ruestungs- und Lieferketten.",
-              "gegenstimme": "Russland weist Spionagevorwuerfe gegen seine Staatsbuerger im Ausland grundsaetzlich zurueck und bezeichnet solche Verfahren regelmaessig als politisch motiviert. Kritiker in Deutschland mahnen zudem, dass die oeffentliche Kommunikation laufender Geheimdienstverfahren die Arbeit der Ermittler erschweren und Quellen gefaehrden koennte. Buergerrechtsorganisationen weisen darauf hin, dass bei Terrorismus- und Spionageverdacht die rechtsstaatlichen Garantien – insbesondere die Unschuldsvermutung – gewahrt bleiben muessen.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/panorama/justiz/spionage-aus-russland-drohnenlieferant-ausgespaeht-fahnder-nehmen-mutmassliche-spione-fest-a-6b429cbe-4627-466f-b42e-db6a5e82ad89"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-e-auto-europa-absatz-plus20",
-              "slug": "e-auto-europa-absatz-plus20",
-              "title": "Europa kauft 20% mehr Elektroautos – Verbrenner verlieren deutlich Marktanteile",
-              "date": "2026-03-24",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "🔋",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/884986fd-a844-4209-8220-4a15080768ad_w520_r2.08_fpx33.34_fpy50.jpg",
-              "kurz": "Der Absatz von Elektroautos in Europa ist in den ersten zwei Monaten 2026 um gut ein Fünftel gestiegen. Benzin- und Dieselfahrzeuge verlieren derweil massiv Marktanteile.",
-              "summary": "Laut dem europäischen Herstellerverband ACEA wurden in der EU in Januar und Februar 2026 rund 312.000 reine Elektrofahrzeuge verkauft – ein Plus von über 20 Prozent gegenüber dem Vorjahreszeitraum. Der Marktanteil der BEV stieg von 15,2 auf 18,8 Prozent. Plug-in-Hybride legten sogar 30 Prozent zu. Gleichzeitig brachen Benziner um 23 Prozent und Diesel um 18 Prozent ein. Der Gesamtautomarkt zeigt sich dabei weiterhin schwach, mit rückläufigen Zahlen bei den deutschen Premiumherstellern VW, BMW und Mercedes.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass die starken Zuwachsraten bei Elektroautos teilweise auf die niedrige Vergleichsbasis des schwachen Vorjahres zurückzuführen sind. Zudem bleibt der Gesamtmarkt rückläufig – mehr E-Auto-Anteil bei weniger verkauften Autos insgesamt bedeutet nicht zwingend einen Durchbruch. Die Ladeinfrastruktur hinkt in vielen EU-Regionen weiterhin hinterher, und die hohen Einstiegspreise für Elektrofahrzeuge schliessen grosse Teile der Bevölkerung vom Markt aus. Ausserdem profitiert primär der chinesische Hersteller BYD vom Wachstum – nicht die europäische Industrie.",
-              "sources": [
-                {
-                  "name": "Der Spiegel – Europäer kaufen gut ein Fünftel mehr Elektroautos",
-                  "url": "https://www.spiegel.de/mobilitaet/auto/e-mobilitaet-europaeer-kaufen-gut-ein-fuenftel-mehr-elektroautos-a-31786877-ef28-4533-8494-f392c40b19d1"
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt"
                 },
                 {
-                  "name": "ACEA – European Automobile Manufacturers Association",
-                  "url": "https://www.acea.auto"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-hormuz-schifffahrt-kosten-explodieren",
-              "slug": "hormuz-schifffahrt-kosten-explodieren",
-              "title": "Preis der Hormuz-Blockade: Versicherungen und Treibstoff explodieren für Reeder",
-              "date": "2026-03-24",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "🚢",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/2b966b4a-da21-402d-8e77-96a002147ace_w520_r2.08_fpx50_fpy56.jpg",
-              "kurz": "Die Sperrung der Strasse von Hormuz durch den Iran treibt die Kosten für Reeder massiv in die Höhe. Versicherungen, Treibstoff und Mannschaftszulagen explodieren – und die Industrie gibt die Mehrkosten weiter.",
-              "summary": "Seit der de-facto-Blockade der Strasse von Hormuz durch den Iran sind die Betriebskosten für Schiffe auf der Golfroute drastisch gestiegen. Der Tagesatz für grosse Öltanker (VLCC) stieg von 120.000 auf 420.000 US-Dollar. Kriegsrisikoversicherungen und Heuer-Zulagen für Besatzungen verteuern sich weiter. Europas Industrie spürt die Folgen: Der Einkaufsmanagerindex signalisiert Stagflation, mit sinkender Produktion und steigenden Inputpreisen gleichzeitig. Die EZB steht damit in einem Dilemma zwischen Inflationsbekämpfung und Wachstumsstützung.",
-              "gegenstimme": "Einige Ökonomen und Reedervertreter warnen vor Panikreaktionen. Die Blockade ist juristisch nicht als formale Seeblockade anerkannt, und ein Teil des Handels läuft weiterhin über alternative Routen. Die Kostensteigerungen sind real, aber Unternehmen mit langfristigen Verträgen sind teilweise abgesichert. Zudem könnten rasch steigende Preise politischen Druck auf eine diplomatische Lösung erhöhen – was den Konflikt und die Kostenexplosion rascher beenden könnte als erwartet.",
-              "sources": [
-                {
-                  "name": "Der Spiegel – Irankrieg und Schifffahrt: Der Preis der Hormus-Blockade",
-                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/irankrieg-und-schifffahrt-der-preis-der-hormus-blockade-a-4dd4b158-1bec-4820-b055-88d8c1474235"
-                },
-                {
-                  "name": "Handelsblatt – Iran-Krieg: Industrieunternehmen heben Preise an",
-                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/iran-krieg-industrieunternehmen-heben-preise-wegen-hoeherer-kosten-an/100210306.html"
-                },
-                {
-                  "name": "Euronews – Is the Iran war pushing Europe into a stagflation crisis?",
-                  "url": "https://www.euronews.com/business/2026/03/24/is-the-iran-war-pushing-europe-into-a-stagflation-crisis"
-                },
-                {
-                  "name": "Table.Media – Strait of Hormuz: Economic impact of the blockade",
-                  "url": "https://table.media/ceo/news-en/strait-of-hormuz-economic-impact-of-the-blockade"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-tesla-musk-afd-millionen",
-              "slug": "tesla-musk-afd-millionen",
-              "title": "Studie: Elon Musks AfD-Einsatz hat Tesla Millionen an Verkäufen gekostet",
-              "date": "2026-03-24",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "⚡",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Elon Musks öffentliche Unterstützung für die AfD und Alice Weidel hat Tesla in Deutschland unter dem Strich Hunderte Millionen Euro Umsatz gekostet. In AfD-nahen Kreisen stiegen die Verkäufe – gesamtdeutsch war die Bilanz aber klar negativ.",
-              "summary": "Eine neue Studie analysiert die Auswirkungen von Elon Musks Engagement für die AfD auf die Tesla-Verkaufszahlen in Deutschland. Das Ergebnis ist eindeutig: Obwohl Musks politische Positionierung in Wahlkreisen mit hohem AfD-Stimmenanteil die Nachfrage nach Tesla-Fahrzeugen leicht steigerte, fiel die gesamtdeutsche Bilanz stark negativ aus. Unter dem Strich verlor Tesla Hunderte Millionen Euro Umsatz. Musk hatte kurz vor Weihnachten 2024 auf X geschrieben, nur die AfD könne Deutschland retten, und im Januar 2025 mit AfD-Chefin Alice Weidel in einem Live-Gespräch gesprochen. Die Reaktion des breiten Marktes war ablehnend.",
-              "gegenstimme": "Kausale Schlüsse sind methodisch schwierig: Rückläufige Tesla-Verkäufe in Deutschland haben auch mit steigendem Wettbewerb durch BYD, einem allgemein schwierigeren Marktumfeld und dem Wegfall von E-Auto-Förderungen zu tun. Musk-Kritiker könnten also überinterpretieren, was schlicht Marktdynamik ist. Zudem kaufen AfD-affine Konsumenten nachweislich mehr Tesla – der politische Effekt wirkt also in beide Richtungen. Einige Marktbeobachter sehen Musks Polarisierung auch als bewusste Markenstrategie, um eine loyale Kerncommunity zu stärken, auch wenn der Preis dafür ein Verlust des Massenmarkts ist.",
-              "sources": [
-                {
-                  "name": "Handelsblatt – Musks Einsatz für die AfD hat Tesla offenbar Millionen gekostet",
-                  "url": "https://www.handelsblatt.com/unternehmen/industrie/tesla-musks-einsatz-fuer-die-afd-hat-tesla-offenbar-millionen-gekostet/100211133.html"
-                },
-                {
-                  "name": "Merkur – Musks politische Posts kosten Tesla über 1 Million Verkäufe",
-                  "url": "https://www.merkur.de/politik/musks-politik-ein-risiko-fuer-teslas-erfolg-zr-94144811.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-24-nasa-mond-basis-china-wettlauf",
-              "slug": "nasa-mond-basis-china-wettlauf",
-              "title": "NASA stellt Mondprogramm grundlegend um: Basis statt Raumstation – Wettlauf mit China",
-              "date": "2026-03-24",
-              "time": "18:00",
-              "category": "tech",
-              "icon": "🌕",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/d57c32b4-9867-4bc9-a246-29c7c686f38e_w520_r2.08_fpx50_fpy48.jpg",
-              "kurz": "Die NASA bricht mit dem bisherigen Artemis-Plan und will statt einer Raumstation im Mondorbit eine permanente Basis direkt auf der Mondoberflaecheerichten. Hintergrund ist der Wettlauf mit China.",
-              "summary": "NASA-Chef Jared Isaacman kuendigte am 24. Maerz 2026 eine grundlegende Neuausrichtung des Mondprogramms an. Das Gateway-Projekt – eine geplante Raumstation im Mondorbit – wird auf Eis gelegt. Stattdessen soll eine dreigliedrige Architektur eine permanente Mondbasis errichten, zuerst unbemannt, dann mit regelmaessigen Astronauteneinsaetzen. Parallel plant die NASA das erste atombetriebene Raumschiff bis Ende 2028. Treibende Kraft ist der Wettlauf mit China, das ebenfalls vor 2030 Menschen auf den Mond bringen will.",
-              "gegenstimme": "Raumfahrtexperten und ehemalige NASA-Mitarbeiter warnen, dass die erneute Umorientierung des Artemis-Programms – nach mehreren verschobenen Startterminen – das Vertrauen internationaler Partner und den Kongress-Rueckhalt weiter beschaedigt. Kritiker sehen im Zeitdruck unter Trump eine politische statt wissenschaftliche Priorisierung. Das abrupte Einfrieren des Gateway-Projekts gefaehrde Milliarden bereits investierter Entwicklungskosten und koordinierte Beitraege von ESA, JAXA und CSA. Die atomare Antriebstechnologie im Weltraum wirft zudem ungeloeste Sicherheits- und Voelkerrechtsfragen auf.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wissenschaft/weltall/nasa-will-den-mond-dauerhaft-besiedeln-a-65b9f2a1-c9df-409e-a084-7eb3ffcf1ace"
-                },
-                {
-                  "name": "NASA",
-                  "url": "https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/kuenstliche-intelligenz-openai-macht-ki-video-app-sora-dicht/100211467.html"
                 }
               ]
             }
