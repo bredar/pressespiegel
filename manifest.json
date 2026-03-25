@@ -1,5 +1,5 @@
 {
-  "updated": "10:45 UTC",
+  "updated": "16:21 UTC",
   "days": [
     {
       "date": "2026-03-25",
@@ -577,6 +577,207 @@
                 {
                   "name": "Tages-Anzeiger",
                   "url": "https://www.tagesanzeiger.ch/el-nino-baut-sich-auf-experten-erwarten-2026-rekordwaerme-196784843380"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-25-iran-ceasefire-ablehnung",
+              "slug": "iran-ceasefire-ablehnung",
+              "title": "Iran lehnt US-Waffenstillstandsplan ab – stellt fünf Bedingungen",
+              "date": "2026-03-25",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/944b85c6-7737-4738-87da-9c4031f5cf25_w520_r2.08_fpx51_fpy56.jpg",
+              "kurz": "Teheran bezeichnet den 15-Punkte-US-Plan als «übermässig» und lehnt ihn ab. Iran stellt eigene Bedingungen für ein Kriegsende.",
+              "summary": "Iran hat den von den USA vorgelegten 15-Punkte-Waffenstillstandsplan formell abgelehnt und als «übermässig und unzumutbar» bezeichnet. Teheran stellt eigene Bedingungen, darunter ein vollständiges Kriegsende auf allen Fronten und Reparationszahlungen. Als möglicher Verhandlungspartner der USA gilt der Hardliner Mohammad Bagher Ghalibaf, dessen tatsächliche Vollmachten unklar sind. Gleichzeitig bestätigte das US-Repräsentantenhaus, dass die Operation «Epic Fury» sich dem Ende nähere.",
+              "gegenstimme": "Iranische Offizielle weisen darauf hin, dass der Plan einseitig US-Interessen bedient und Iran zweimal während laufender Verhandlungen angegriffen wurde – was das Vertrauen in US-Diplomatie fundamental erschüttert hat. Teheran besteht auf einem vollständigen Kriegsende, nicht bloss einem Waffenstillstand.",
+              "sources": [
+                {
+                  "name": "BBC News Live",
+                  "url": "https://www.bbc.com/news/live/cn8dldl0jx9t"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/25/iran-gives-negative-response-to-us-ceasefire-plan-amid-push-for-talks"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf-a-6ea202f2-10eb-4a90-9d09-98d32e253e0e"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-ukraine-drohnen-estland-lettland",
+              "slug": "ukraine-drohnen-estland-lettland",
+              "title": "Ukrainische Drohnen verirren sich nach Estland und Lettland",
+              "date": "2026-03-25",
+              "time": "18:00",
+              "category": "international",
+              "icon": "⚔️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/c43cc70f-c320-4b58-8c71-c11a958ef5de_w520_r2.08_fpx37.5_fpy50.jpg",
+              "kurz": "Zwei ukrainische Militärdrohnen sind in den Luftraum von NATO-Mitgliedern Estland und Lettland eingedrungen. Eine traf einen Kraftwerksschornstein.",
+              "summary": "Zwei ukrainische Militärdrohnen sind vom Kurs abgekommen und in das Territorium der NATO-Staaten Estland und Lettland eingedrungen. Eine traf den Schornstein des Kraftwerks Auvere in Estland, die andere explodierte in der Region Kraslava in Lettland. Beide Länder bestätigten, dass es sich um ukrainische Drohnen handelte, und machten Russlands Krieg für den Vorfall verantwortlich. Bereits am Montag war eine ukrainische Drohne in Litauen abgestürzt – damit waren innerhalb von 48 Stunden alle drei baltischen Staaten betroffen.",
+              "gegenstimme": "NATO-Staaten müssen ungeachtet politischer Solidarität mit der Ukraine klare Rechenschaft von Kiew fordern. Unkontrollierte Drohnen in Bündnisgebiet stellen ein ernstes Sicherheitsrisiko dar und zeigen die Grenzen der ukrainischen Drohnensteuerung – insbesondere wenn GPS-Störsysteme im Einsatz sind.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c1eql309n12o"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-krieg-drohnen-in-estland-und-lettland-abgestuerzt-kraftwerk-getroffen-a-3ee11042-03e5-41af-bc06-78363ac6ab13"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-ungarn-gas-ukraine-stopp",
+              "slug": "ungarn-gas-ukraine-stopp",
+              "title": "Ungarn stoppt Gaslieferungen an Ukraine",
+              "date": "2026-03-25",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/84f377e9-97a9-401d-919f-376d2b459db5_w520_r2.08_fpx40.69_fpy50.98.jpg",
+              "kurz": "Viktor Orbán kündigt die schrittweise Einstellung der Gaslieferungen an die Ukraine an. Budapest blockiert gleichzeitig EU-Hilfen für Kiew.",
+              "summary": "Der ungarische Ministerpräsident Viktor Orbán hat angekündigt, die Gaslieferungen an die Ukraine schrittweise einzustellen. Als Druckmittel dient der Streit um die Druschba-Pipeline, über die Ungarn russisches Öl bezieht. Ungarn ist laut einer Studie einer der wichtigsten Gaslieferanten der Ukraine; der Anteil stieg zwischen 2022 und 2025 von 2,5 auf 14 Prozent. Budapest blockiert zudem ein EU-Darlehen von 90 Milliarden Euro sowie ein neues Russland-Sanktionspaket.",
+              "gegenstimme": "Kiew sieht in Orbáns Schritt eine gezielte politische Eskalation, die Russland in die Hände spielt. Die Ukraine wirft Budapest vor, Reparaturen an der beschädigten Druschba-Pipeline absichtlich zu verzögern, um Druck aufzubauen – was Budapest bestreitet.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ungarn-will-gaslieferungen-an-ukraine-schrittweise-einstellen-a-99fc1769-2f00-4175-b9cd-19cf8177a245"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-schweiz-f35-vertrag-anpassen",
+              "slug": "schweiz-f35-vertrag-anpassen",
+              "title": "Schweiz muss F-35-Vertrag mit USA anpassen – weniger Jets, mehr Risiken",
+              "date": "2026-03-25",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/0J7LKZWB4-xBhLJI4XYV0n.jpg",
+              "kurz": "Die Schweiz kauft statt 36 nur noch 30 F-35-Kampfjets. Der Bundesrat beantragt 394 Millionen Franken Zusatzkredit für Teuerungskosten.",
+              "summary": "Der Schweizer Bundesrat hat bestätigt, dass mit dem vom Volk bewilligten Finanzrahmen nicht mehr alle 36 F-35-Kampfjets beschafft werden können. Aktuell plant das Verteidigungsdepartement mit 30 Flugzeugen. Für die verbleibenden Jets wird das Parlament gebeten, im Rahmen der Armeebotschaft 2026 einen Zusatzkredit von 394 Millionen Franken zu genehmigen. Experten warnen, dass für eine vollwertige Luftverteidigung 55 bis 70 moderne Kampfflugzeuge nötig wären.",
+              "gegenstimme": "Kritiker aus der Linken sehen in der Reduktion ein Argument gegen das gesamte Beschaffungsprojekt und fordern eine Neubeurteilung. Mitte-Vertreter hingegen betonen, der Bundesrat halte sich korrekt an den Volkswillen. Unklar bleibt, ob 30 Jets für die Landesverteidigung ausreichen – Experten bezweifeln dies.",
+              "sources": [
+                {
+                  "name": "SWI swissinfo.ch",
+                  "url": "https://www.swissinfo.ch/ger/bundesrat-plant-mit-weniger-f-35-kampfjets/91051401"
+                },
+                {
+                  "name": "Flugrevue",
+                  "url": "https://www.flugrevue.de/militaer/schweiz-kauft-offiziell-weniger-f-35-verzicht-auf-sechs-us-jets/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-elbit-anschlag-bern",
+              "slug": "elbit-anschlag-bern",
+              "title": "Anschlag auf israelische Rüstungsfirma Elbit Systems in Bern",
+              "date": "2026-03-25",
+              "time": "18:00",
+              "category": "regional",
+              "icon": "💥",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/DLuhNO88aAV8xit5VPlZja.jpg",
+              "kurz": "In Bern wurde das Büro von Elbit Systems Switzerland mit Hammerschlägen beschädigt. Sachschaden: mehrere Zehntausend Franken. Polizei ermittelt.",
+              "summary": "Der Firmensitz des israelischen Rüstungskonzerns Elbit Systems in Bern wurde am vergangenen Freitagabend von einer unbekannten Person angegriffen. Die Täterin verschaffte sich Zugang zu den Büroräumlichkeiten, zerstörte die Eingangstür mit Hammerschlägen und beschädigte Inventar. Der Sachschaden beläuft sich auf mehrere Zehntausend Franken. Im Internet kursiert ein Video, das von Aktivistinnen und Aktivisten aufgeschaltet wurde und die Tat zeigen soll.",
+              "gegenstimme": "Elbit Systems Switzerland zeigte sich besorgt über die Gewaltbereitschaft, erklärte jedoch, sich davon nicht einschüchtern zu lassen, und bekräftigte das Bekenntnis zur Präsenz in der Schweiz. Pro-palästinensische Gruppen sehen in solchen Aktionen einen Protest gegen die Beteiligung von Elbit an Rüstungsgeschäften mit Israel.",
+              "sources": [
+                {
+                  "name": "Watson.ch",
+                  "url": "https://www.watson.ch/schweiz/polizeirapport/783434096-unbekannte-beschaedigt-buero-von-israelischer-ruestungsfirma-in-bern"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-anschlag-auf-israelische-ruestungsfirma-elbit-689910932296"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-tesla-betriebsrat-ig-metall-klage",
+              "slug": "tesla-betriebsrat-ig-metall-klage",
+              "title": "IG Metall ficht Tesla-Betriebsratswahl in Grünheide an",
+              "date": "2026-03-25",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "🏭",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/3dd9b074-52ff-4278-aeb4-c19650a3bdd9_w520_r2.08_fpx37.93_fpy46.98.jpg",
+              "kurz": "Die IG Metall fechtet die Tesla-Betriebsratswahl in Grünheide gerichtlich an – wegen Drohungen und Einschüchterung durch das Management.",
+              "summary": "Die IG Metall hat beim Arbeitsgericht Frankfurt (Oder) einen Beschlussantrag zur Feststellung der Unwirksamkeit der Betriebsratswahl im Tesla-Werk Grünheide eingereicht. Die Gewerkschaft wirft Tesla vor, den Wahlkampf mit Drohungen und Einschüchterungsversuchen beeinflusst zu haben. Auch Konzernchef Elon Musk schaltete sich per Videobotschaft ein und warnte die Belegschaft vor den Folgen einer IG-Metall-Mehrheit. Bei der Wahl Anfang März verlor die Gewerkschaft Stimmanteile und landete nur auf Platz zwei.",
+              "gegenstimme": "Tesla und das Werksmanagement bestreiten unzulässige Beeinflussung. Werksleiter André Thierig betonte, er äussere lediglich seine persönliche Meinung zur IG Metall, zu der er als ehemaliges Mitglied ein Recht habe. Die siegreiche Liste 'Giga United' sieht sich als legitime Vertretung der Belegschaft.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/gewerkschaft-ig-metall-will-tesla-betriebsratswahl-gerichtlich-anfechten/100211766.html"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-ig-metall-ficht-betriebsratswahl-in-gruenheide-an-a-66f4bbe0-bf6e-4bde-b337-69369f08c405"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-ki-songs-betrug-8-millionen",
+              "slug": "ki-songs-betrug-8-millionen",
+              "title": "KI-Songs-Betrug: Fake-Musik, Fake-Hörer – 8 Millionen Dollar kassiert",
+              "date": "2026-03-25",
+              "time": "18:00",
+              "category": "tech",
+              "icon": "🎵",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/4Cd_No39q2i9IiZQFJEB--.jpg",
+              "kurz": "Ein US-Amerikaner gestand, Streaming-Plattformen mit KI-Songs und Bot-Netzwerken um über 8 Millionen Dollar betrogen zu haben.",
+              "summary": "Michael Smith, ein 54-jähriger Musiker aus North Carolina, hat vor einem US-Bundesgericht gestanden, Streaming-Dienste wie Spotify, Apple Music und Amazon Music systematisch betrogen zu haben. Er erstellte Hunderttausende KI-generierter Songs und liess diese von über tausend Bot-Accounts rund um die Uhr abspielen. Dadurch ergab sich ein Schaden von mehr als acht Millionen Dollar, der echten Künstlerinnen und Künstlern zugestanden hätte. Das Strafmass wird im Sommer 2026 verkündet; Smith drohen bis zu fünf Jahre Haft.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass Streaming-Plattformen trotz milliardenteurer Infrastruktur über Jahre hinweg nicht in der Lage waren, diesen Betrug zu erkennen. Die Entdeckungsrate solcher Manipulationen gilt als nach wie vor unzureichend. Echte Künstler verlieren durch solche Systeme direkt Lizenzeinnahmen.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/streaming-betrug-fbi-stoppt-millionenschwindel-mit-ki-songs-441533097931"
+                },
+                {
+                  "name": "WinFuture",
+                  "url": "https://winfuture.de/news,157659.html"
+                },
+                {
+                  "name": "t3n",
+                  "url": "https://t3n.de/news/ki-songs-milliarden-streams-millionenbetrug-angeklagter-gesteht-ausgekluegeltes-bot-netzwerk-1735604/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-manus-ki-meta-china-reiseverbot",
+              "slug": "manus-ki-meta-china-reiseverbot",
+              "title": "Meta kauft KI-Agenten Manus – Chinas Behörden sperren Gründer ein",
+              "date": "2026-03-25",
+              "time": "18:00",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/7fb09890-6031-4022-9788-cbb2d40b5e85_w520_r2.08_fpx37.5_fpy49.98.jpg",
+              "kurz": "Meta kauft den chinesischen KI-Agenten Manus für zwei Milliarden Dollar. Peking verhängt Ausreisesperren über die beiden Gründer.",
+              "summary": "Meta hat das chinesische KI-Start-up Manus für rund zwei Milliarden Dollar übernommen. Unmittelbar nach Bekanntwerden des Deals verhängte Chinas staatliche Entwicklungs- und Reformkommission (NDRC) Ausreisesperren über die Gründer Xiao Hong und Ji Yichao. Die Behörde bestellte die beiden Gründer nach Peking ein. Der Fall zeigt exemplarisch den chinesisch-amerikanischen Technologiekonflikt: Peking will den Abfluss kritischer KI-Expertise in die USA verhindern.",
+              "gegenstimme": "Aus chinesischer Sicht handelt es sich um den Schutz strategisch relevanter Technologie vor ausländischem Zugriff. Peking klassifiziert führende KI-Systeme zunehmend als sicherheitsrelevant – der Verkauf an einen US-Konzern ohne staatliche Genehmigung widerspricht dieser Doktrin fundamental.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/nach-verkauf-an-meta-peking-hindert-manus-gruender-an-der-ausreise/100211586.html"
+                },
+                {
+                  "name": "Financial Times",
+                  "url": "https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a"
                 }
               ]
             }
