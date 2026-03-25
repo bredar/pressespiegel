@@ -1,5 +1,5 @@
 {
-  "updated": "05:13 UTC",
+  "updated": "10:45 UTC",
   "days": [
     {
       "date": "2026-03-25",
@@ -384,6 +384,199 @@
                 {
                   "name": "Handelsblatt",
                   "url": "https://www.handelsblatt.com/technik/kuenstliche-intelligenz-openai-macht-ki-video-app-sora-dicht/100211467.html"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-25-iran-militaer-spott-trump",
+              "slug": "iran-militaer-spott-trump",
+              "title": "Iran verspottet Trumps Friedensplan: «Verkleidet eure Niederlage nicht als Abkommen»",
+              "date": "2026-03-25",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/e6591205-9264-47e0-acc2-486de41763d2_w520_r2.08_fpx59.32_fpy55.jpg",
+              "kurz": "Irans Militär verspottet Trumps 15-Punkte-Friedensplan öffentlich. Teheran bestreitet jegliche Verhandlungen und setzt Angriffe auf Golfstaaten fort.",
+              "summary": "US-Präsident Donald Trump behauptete am Dienstag, Friedensgespräche mit dem Iran seien im Gange. Irans Militärsprecher Ebrahim Zolfaqari wies dies am Mittwoch mit Spott zurück und fragte, ob die USA inzwischen mit sich selbst verhandelten. Irans Angriffe auf Kuwait und Bahrain dauerten in der Nacht an, während die Strasse von Hormuz für den Öltransport weitgehend blockiert bleibt. Die Ölpreise fielen nach Trumps Aussagen um rund sechs Prozent.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass Trumps gleichzeitige Ankündigung der Verlegung von über 1000 Soldaten der 82. Luftlandedivision in den Nahen Osten seinen Friedensbeteuerungen direkt widerspricht. UN-Menschenrechtschef Volker Türk warnte zudem vor einer «unabwendbaren Katastrophe» durch Angriffe in der Nähe von Nuklearanlagen beider Seiten.",
+              "sources": [
+                {
+                  "name": "The Guardian (Live)",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c995xp4jxj2o"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/video/iran-militaersprecher-ebrahim-zolfaghari-verspottet-donald-trump-103533724"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-moldova-stromnotstand-russland",
+              "slug": "moldova-stromnotstand-russland",
+              "title": "Moldau ruft Notstand aus – russische Angriffe treffen Stromnetz",
+              "date": "2026-03-25",
+              "time": "12:15",
+              "category": "international",
+              "icon": "⚡",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/ba5fab67-52e9-4575-9ed6-b13007669473_w520_r2.08_fpx41.99_fpy54.99.jpg",
+              "kurz": "Russische Angriffe auf die Ukraine trennen eine Schlüsselstromleitung nach Moldau. Das Land ruft den Energienotstand für 60 Tage aus.",
+              "summary": "Moldau hat den Energienotstand ausgerufen, nachdem russische Angriffe auf die Ukraine eine wichtige Hochspannungsleitung beschädigt haben, über die das Land Strom aus Rumänien bezieht. Die Leitung führt durch den Süden der Ukraine – abgestürzte Drohnen wurden in deren Nähe entdeckt. Räumungsarbeiten müssen abgeschlossen werden, bevor Reparaturen beginnen können. Ministerpräsident Alexandru Munteanu appellierte an die Bevölkerung, den Verbrauch während der Spitzenstunden zu reduzieren.",
+              "gegenstimme": "Russland bestreitet, zivile Infrastruktur gezielt anzugreifen, und bezeichnet eigene Angriffe als Massnahmen gegen militärische Ziele. Kritiker weisen jedoch darauf hin, dass Moldau nicht Kriegspartei ist und die Folgen für die Zivilbevölkerung des Nachbarlandes damit direkt auf russische Aktionen zurückzuführen sind.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/25/ukraine-war-briefing-moldova-declares-emergency-after-russian-attack-cuts-key-power-line"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-trump-xi-china-besuch-abgesagt",
+              "slug": "trump-xi-china-besuch-abgesagt",
+              "title": "Trump sagt China-Besuch ab – Xi's Strategie gerät ins Stocken",
+              "date": "2026-03-25",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/8ecc7f1b-8ba9-4fd2-8887-260ec0fea626_w520_r2.08_fpx35_fpy56.jpg",
+              "kurz": "Trump verschiebt seinen geplanten Staatsbesuch in Peking auf unbestimmte Zeit. Xi Jinping, der auf Stabilisierung der Wirtschaftsbeziehungen hoffte, muss warten.",
+              "summary": "US-Präsident Donald Trump hat seinen für Ende März geplanten Staatsbesuch in China verschoben. Peking hatte den Besuch sorgfältig vorbereitet und zuletzt mit einer Fentanyl-Razzia Goodwill signalisiert. Trump begründet die Verschiebung implizit mit dem laufenden Nahost-Krieg; eine Reise nach China sei erst nach einer Waffenruhe am Golf denkbar. Japan und Europa reagieren auf die Lage gegensätzlich: Tokio setzt auf enge Umarmung Washingtons, die EU hält demonstrativen Abstand.",
+              "gegenstimme": "Für Xi Jinping ist die Verschiebung innenpolitisch heikel: Die chinesische Wirtschaft schwächelt, die Exporte in die USA sanken in den ersten zwei Monaten 2026 erneut um elf Prozent. Kritiker sehen in Europas Distanzierung vom Iran-Krieg zwar eine verständliche, aber kurzsichtige Haltung – Brüssel schwäche damit seinen Einfluss auf Washington genau dann, wenn dieser am dringendsten benötigt würde.",
+              "sources": [
+                {
+                  "name": "NZZ – Trump und Xi: die Folgen der abgesagten China-Reise",
+                  "url": "https://www.nzz.ch/pro/trump-und-xi-die-folgen-der-abgesagten-china-reise-ld.1930699"
+                },
+                {
+                  "name": "NZZ – Japan und Europa verfolgen zwei Strategien",
+                  "url": "https://www.nzz.ch/pro/japan-und-europa-verfolgen-zwei-strategien-im-umgang-mit-trump-ld.1930842"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-kita-missbrauch-bern-winterthur",
+              "slug": "kita-missbrauch-bern-winterthur",
+              "title": "Kita-Missbrauch: Betreuer in Bern und Winterthur angeklagt – 50 Übergriffe",
+              "date": "2026-03-25",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "⚠️",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/4WqYPwNW4JXA4eYKOj6v6d.jpg",
+              "kurz": "Ein 33-jähriger Kita-Gruppenleiter steht wegen sexueller Übergriffe an mindestens 15 Kleinkindern in Bern und Winterthur vor Gericht. Die Taten wurden gefilmt.",
+              "summary": "Laut Anklageschrift der Berner Staatsanwaltschaft soll ein 33-jähriger Kita-Betreuer über eineinhalb Jahre hinweg mindestens 15 Kleinkinder im Alter von einem bis vier Jahren schwer sexuell missbraucht haben. Der Mann war in privaten Kitas in Bern und Winterthur als Gruppenleiter tätig und filmte die Übergriffe. Im Februar 2024 wurde er verhaftet; dabei stellte die Polizei über 800 kinderpornografische Bilder und Videos sicher, darunter Aufnahmen aus den Kitas.",
+              "gegenstimme": "Opferanwältin Laura Jost, die sieben Betroffene vertritt, zweifelt daran, dass die Schutzkonzepte der Kitas im Alltag tatsächlich konsequent umgesetzt wurden: «Es handelt sich um einen dermassen systematischen Missbrauch – hier muss es Mängel in der Organisation gegeben haben.» Der Fall wirft auch Fragen über die Weitergabe von Informationen zwischen Kitas auf: Trotz Entlassung in Winterthur und laufender Ermittlung konnte der Mann ein Jahr später eine neue Stelle in Bern antreten.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/kitas-in-be-und-zh-betroffen-kita-betreuer-vor-gericht-schwere-und-wiederholte-uebergriffe"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/kindesmissbrauch-kita-betreuer-in-bern-und-winterthur-angeklagt-192939046389"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-on-ceo-wechsel",
+              "slug": "on-ceo-wechsel",
+              "title": "Sportmarke On: CEO Hoffmann tritt zurück – Mitgründer übernehmen",
+              "date": "2026-03-25",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "👟",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/03/25/2c8f700e-0ee5-4bd0-8476-a85f3a2da736.jpg",
+              "kurz": "On-CEO Martin Hoffmann tritt nach 13 Jahren zurück. Die Mitgründer David Allemann und Caspar Coppetti übernehmen ab Mai die operative Führung als Co-CEOs.",
+              "summary": "Der Zürcher Sportartikelhersteller On vollzieht einen Führungswechsel: CEO Martin Hoffmann verlässt das Unternehmen nach 13 Jahren. Ab Mai 2026 übernehmen die beiden Mitgründer David Allemann und Caspar Coppetti gemeinsam die operative Leitung, bleiben aber auch Co-Präsidenten des Verwaltungsrats. Mit der Neuorganisation soll die globale Expansion des Unternehmens vorangetrieben werden, das 2025 erstmals über drei Milliarden Franken Umsatz erzielte.",
+              "gegenstimme": "Die Rückkehr von Gründern in die operative Führung birgt Risiken: Gründerpersönlichkeiten sind nicht immer optimal für die Führung eines börsenkotierten Grosskonzerns geeignet. Zudem übernehmen Allemann und Coppetti nun sowohl die Verwaltungsrats-Präsidien als auch die CEO-Funktionen – eine Doppelrolle, die Corporate-Governance-Experten skeptisch beurteilen.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/on-ceo-martin-hoffmann-tritt-nach-13-jahren-zurueck-zwei-mitgruender-uebernehmen-die-operative-leitung-der-firma-ld.1930939"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/martin-hoffmann-on-ceo-geht-nach-13-jahren-gruender-uebernehmen-103533718"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-solaris-stellenabbau-20-prozent",
+              "slug": "solaris-stellenabbau-20-prozent",
+              "title": "Fintech Solaris entlässt 20 Prozent der Belegschaft",
+              "date": "2026-03-25",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/8ecc7f1b-8ba9-4fd2-8887-260ec0fea626_w520_r2.08_fpx35_fpy56.jpg",
+              "kurz": "Das Berliner Banking-as-a-Service-Fintech Solaris baut rund 80 Stellen ab und setzt künftig auf KI-gesteuerte Bankprozesse.",
+              "summary": "Solaris, eine der bekanntesten deutschen Banking-as-a-Service-Plattformen, entlässt 20 Prozent seiner rund 400 Mitarbeitenden. Der Stellenabbau ist Teil einer tiefgreifenden Neuausrichtung unter dem seit Jahresbeginn amtierenden CEO Steffen Jentsch. Kernprozesse sollen künftig weitgehend durch Künstliche Intelligenz gesteuert werden. Das Unternehmen peilt für 2027 den Break-even an und erwartet ab 2028 steigende Profitabilität.",
+              "gegenstimme": "Kritisch zu hinterfragen ist, ob der aggressive KI-Einsatz als Legitimation für Massenentlassungen taugt – oder ob fundamentale Geschäftsmodellprobleme damit überdeckt werden. Solaris wurde einst mit 1,6 Milliarden Euro bewertet; heute liegt der Unternehmenswert unter 100 Millionen Euro. Diese Entwertung geht auf strukturelle Schwächen zurück, die auch KI-Automatisierung allein nicht löst.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/solaris-fintech-entlaesst-20-prozent-der-mitarbeiter/100211281.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-anthropic-pentagon-klage",
+              "slug": "anthropic-pentagon-klage",
+              "title": "Anthropic klagt gegen Pentagon: Streit um KI-Verbot im Militär",
+              "date": "2026-03-25",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/7fb09890-6031-4022-9788-cbb2d40b5e85_w520_r2.08_fpx37.5_fpy49.98.jpg",
+              "kurz": "Anthropic klagt gegen das US-Verteidigungsministerium, das den KI-Hersteller als Lieferkettenrisiko eingestuft und alle Behörden angewiesen hat, Claude zu meiden.",
+              "summary": "Anthropic hat beim US-Bezirksgericht in Kalifornien Klage gegen das Verteidigungsministerium eingereicht. Hintergrund ist die offizielle Einstufung des Unternehmens als Lieferkettenrisiko – eine Massnahme, die typischerweise ausländischen Firmen mit Sicherheitsrisiken vorbehalten ist. Die Trump-Regierung soll alle Behörden angewiesen haben, Anthropics Dienste innerhalb von sechs Monaten einzustellen. Anthropic argumentiert, die Massnahme verletze Verfassungsrechte und sei eine Vergeltung für das Festhalten an KI-Sicherheitsgrundsätzen.",
+              "gegenstimme": "Das Pentagon und die Trump-Regierung haben öffentlich keine detaillierte Begründung für die Einstufung geliefert. Regierungsnahe Stimmen argumentieren, dass nationale Sicherheitserwägungen durchaus Einschränkungen bei KI-Zulieferern rechtfertigen können – auch bei US-amerikanischen Unternehmen. Die rechtliche Frage, ob ein Unternehmen ein verfassungsrechtliches Recht auf Regierungsaufträge hat, ist juristisch offen.",
+              "sources": [
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit"
+                },
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-25-el-nino-aufbaut-2026",
+              "slug": "el-nino-aufbaut-2026",
+              "title": "El Niño baut sich auf – Forscher warnen vor Wetterchaos 2026",
+              "date": "2026-03-25",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🌡️",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/6C0vNNz_4D1AeD3ncP7IXY.jpg",
+              "kurz": "Im Pazifik entwickelt sich ein potenziell starker El Niño. Klimaforscher rechnen mit Rekordtemperaturen und Extremwetterereignissen bis Ende 2026.",
+              "summary": "Die bisherige La-Niña-Phase im Pazifik löst sich schneller als erwartet auf. Klimamodelle von Forschern der University of California, Berkeley, weisen auf einen möglichen Super-El-Niño bis Ende 2026 hin, vergleichbar mit dem extremen Ereignis von 2015/16. Kombiniert mit dem menschgemachten Klimawandel könnte 2027 zum heissesten Jahr seit Beginn der Aufzeichnungen werden. Betroffen wären vor allem Südamerika, Südostasien, Australien und Ostafrika.",
+              "gegenstimme": "El-Niño-Vorhersagen sind notorisch unsicher, besonders mehr als sechs Monate im Voraus. Klimaforscher warnen selbst vor übertriebener Gewissheit: Ob sich tatsächlich ein Super-El-Niño entwickelt, hängt von zahlreichen atmosphärischen Faktoren ab, die sich rasch ändern können. Frühzeitige Alarme können zudem zu Gewöhnung und schliesslich zu weniger Aufmerksamkeit führen, wenn Vorhersagen nicht eintreffen.",
+              "sources": [
+                {
+                  "name": "Focus.de",
+                  "url": "https://www.focus.de/earth/forscher-warnen-fuer-2026-vor-dem-super-el-nino_f83680b9-fd66-4d7a-871d-a1b13d069ce8.html"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/el-nino-baut-sich-auf-experten-erwarten-2026-rekordwaerme-196784843380"
                 }
               ]
             }
