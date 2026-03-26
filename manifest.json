@@ -1,5 +1,5 @@
 {
-  "updated": "05:11 UTC",
+  "updated": "10:36 UTC",
   "days": [
     {
       "date": "2026-03-26",
@@ -423,6 +423,175 @@
                 {
                   "name": "Nissan Global News",
                   "url": "https://global.nissannews.com/en/releases/wayve-and-nissan-to-exhibit-global-robotaxi-prototype-vehicle-at-nvidia-gtc-2026"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-26-iran-marinekommandeur-israel-hormus",
+              "slug": "iran-marinekommandeur-israel-hormus",
+              "title": "Neue Eskalation: Israel tötet iranischen Marinekommandeur über der Strasse von Hormus",
+              "date": "2026-03-26",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Israel hat nach eigenen Angaben Alireza Tangsiri, den Kommandanten der IRGC-Marine, in einem Luftangriff getötet. Er galt als Hauptverantwortlicher für die Blockade der Strasse von Hormus.",
+              "summary": "Der israelische Verteidigungsminister Israel Katz bestätigte am Donnerstag, dass Alireza Tangsiri, Chef der Marine der Iranischen Revolutionsgarden (IRGC), bei einem Angriff in der südlichen iranischen Stadt Bandar Abbas getötet worden sei. Tangsiri war massgeblich für die Sperrung der strategisch wichtigen Meerenge verantwortlich. Neben ihm sollen mehrere weitere hochrangige Marine-Offiziere ums Leben gekommen sein. Iran hat sich bislang nicht zu dem Vorfall geäussert.",
+              "gegenstimme": "Iran hat die Meldung weder bestätigt noch dementiert. Teheran bezeichnet die Blockade der Strasse von Hormus als legitime Selbstverteidigung gegenüber feindlichen Staaten und betont, der Durchgang sei für befreundete Nationen wie China, Russland und Indien offen. Das iranische Parlament berät zudem ein Gesetz, das Durchfahrtsgebühren festlegen würde – ein Signal, dass Teheran die Kontrolle über die Meerenge als dauerhaftes Druckmittel betrachtet.",
+              "sources": [
+                {
+                  "name": "BBC News Live",
+                  "url": "https://www.bbc.com/news/live/cre0vl84qy9t"
+                },
+                {
+                  "name": "The Guardian Live",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-pentagon-whistleblower-zivile-opfer-trump",
+              "slug": "pentagon-whistleblower-zivile-opfer-trump",
+              "title": "Pentagon-Whistleblower: Trump erhöht Toleranz für zivile Opfer im Iran-Krieg",
+              "date": "2026-03-26",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/5AZ-fi6Sa5y86x7sYPfgux.jpg",
+              "kurz": "Unter der Trump-Regierung wurde das Pentagon-Programm zum Schutz von Zivilisten um rund 90 Prozent zurückgefahren. Ein Whistleblower und NGOs warnen vor einer gefährlichen Erosion internationaler Normen.",
+              "summary": "Wes J. Bryant, ein ehemaliger Koordinator des Pentagon-Programms zum Schutz von Zivilisten, berichtet gegenüber ProPublica, dass unter Trump sämtliche entsprechenden Schutzmechanismen dramatisch reduziert wurden. Verteidigungsminister Pete Hegseth, der die Doktrin maximaler 'Letalität' verfolgt, soll das 2022 eingeführte Programm zur Vermeidung ziviler Opfer (CHMR) um rund 90 Prozent beschnitten haben. Besondere Brisanz erhält dies durch den Angriff auf eine Mädchenschule in der iranischen Stadt Minab, bei dem über 165 Menschen – meist Kinder – ums Leben kamen.",
+              "gegenstimme": "Verteidigungsminister Hegseth besteht darauf, dass keine Nation mehr Vorsichtsmassnahmen zum Schutz von Zivilisten ergreife als die USA. Die Administration betont, der Angriff auf die Mädchenschule in Minab werde untersucht, und Trump schlug vor, Iran oder 'jemand anderes' könnte dafür verantwortlich sein. Konservative Kritiker des Zivilschutzprogramms argumentierten stets, die zusätzlichen Überprüfungsschritte hätten die militärische Effektivität beeinträchtigt und seien bürokratische Überregulierung.",
+              "sources": [
+                {
+                  "name": "The Independent: Trump-Regierung strich Pentagon-Zivilschutzplan",
+                  "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-iran-strike-hegseth-civilian-deaths-b2936723.html"
+                },
+                {
+                  "name": "The Guardian: Hegseth warns of most intense day of strikes",
+                  "url": "https://www.theguardian.com/world/2026/mar/10/hegseth-iran-intense-strikes-civilian-deaths"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/pentagon-insider-trump-erhoeht-toleranz-fuer-zivile-opfer-390720615188"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-saudi-mbs-trump-mehr-angriffe-iran",
+              "slug": "saudi-mbs-trump-mehr-angriffe-iran",
+              "title": "Saudischer Kronprinz MBS drängt Trump zu weiteren Angriffen auf Iran",
+              "date": "2026-03-26",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/1C456tBIK8b92nFTv6-RDu.jpg",
+              "kurz": "Kronprinz Mohammed bin Salman soll Trump in vertraulichen Gesprächen gedrängt haben, die Angriffe auf Iran fortzusetzen und das Regime zu beseitigen. Riad dementiert.",
+              "summary": "Gemäss einem Bericht der New York Times hat Saudi-Arabiens Kronprinz Mohammed bin Salman (MBS) US-Präsident Trump in privaten Gesprächen dazu ermutigt, den Militäreinsatz gegen Iran konsequent fortzusetzen. MBS soll den Krieg als 'historische Gelegenheit' bezeichnet haben, die Machtverhältnisse im Nahen Osten neu zu ordnen – und habe sogar eine Bodenbesetzung iranischer Energieinfrastruktur vorgeschlagen. Die offizielle saudi-arabische Linie dementiert den Bericht und beteuert, das Königreich setze sich für eine friedliche Lösung ein.",
+              "gegenstimme": "Riad hat den Bericht zurückgewiesen und betonte sein Engagement für eine diplomatische Lösung. Die saudische Zurückhaltung hat auch praktische Gründe: Iran greift bereits saudi-arabische Ölanlagen mit Drohnen an, und eine offene Beteiligung am Krieg würde das Risiko massiver Gegenschläge erhöhen. Zudem schadet die Blockade der Strasse von Hormus den eigenen Ölexporten erheblich. Riad befindet sich in einem Dilemma zwischen geopolitischem Opportunismus und unmittelbarer Verwundbarkeit.",
+              "sources": [
+                {
+                  "name": "FAZ: Iran-Krieg – Golfstaaten fürchten ein überstürztes Ende",
+                  "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-golfstaaten-fuerchten-ein-ueberstuerztes-ende-accg-200669966.html"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/saudiarabien-kronzprinz-draengt-auf-angriffe-auf-den-iran-137526874423"
+                },
+                {
+                  "name": "NDTV: MBS fighting with US",
+                  "url": "https://www.ndtv.com/world-news/iran-war-news-mohammed-bin-salman-a-warrior-trump-signals-saudis-entry-in-iran-war-11262967"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-neuschnee-warnung-schweiz-alpen",
+              "slug": "neuschnee-warnung-schweiz-alpen",
+              "title": "Winter-Comeback: Bis zu 1 Meter Neuschnee in den Alpen, Gefahrenstufe 3",
+              "date": "2026-03-26",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "❄️",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/03/26/80d94cb1-1c02-4dba-9bbc-621d43c4bb14.png",
+              "kurz": "Der Winter kehrt in die Schweiz zurück: Meteo Schweiz warnt vor bis zu einem Meter Neuschnee in den Alpen und hat für zahlreiche Regionen die Gefahrenstufe 3 ausgerufen.",
+              "summary": "Seit Mittwochnachmittag hat eine Kaltfront das frühlinghafte Wetter beendet und bringt Schnee bis ins Flachland. In den Alpen werden bis Freitagmorgen stellenweise bis zu einem Meter Neuschnee erwartet. Betroffen sind unter anderem Appenzell, Graubünden, die Zentralschweiz und das Berner Oberland. Für praktisch die ganze Schweiz gilt Glättewarnung wegen Frost.",
+              "gegenstimme": "Für den Wintertourismus und die Skigebiete kommt der späte Schneefall als willkommene Überraschung – viele Resorts hatten die Saison bereits beendet oder kurz vor dem Abschluss. Gleichzeitig warnen Meteorologen, dass der Einbruch nur von kurzer Dauer sein dürfte und der Frühling sich bald wieder durchsetzen wird.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/wetter-schweiz-bund-warnt-viel-neuschnee-und-starke-winde-103534379"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-pfas-schweizer-milch-eu-verbot",
+              "slug": "pfas-schweizer-milch-eu-verbot",
+              "title": "PFAS-Alarm: Belastete Milch in der Schweiz – EU empfiehlt Verbot der Ewigkeitschemikalien",
+              "date": "2026-03-26",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "⚗️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/0a41da31-82a6-43b0-89ac-ffd1acf38259_w520_r2.08_fpx30_fpy55.jpg",
+              "kurz": "Ein Drittel der getesteten Milchbetriebe in Appenzell Ausserrhoden weist erhöhte PFAS-Werte auf. Gleichzeitig empfiehlt die EU-Behörde ECHA ein weitgehendes Verbot der persistenten Chemikalien.",
+              "summary": "Zwischen Oktober 2025 und März 2026 untersuchte Appenzell Ausserrhoden freiwillig 169 Landwirtschaftsbetriebe auf PFAS-Belastungen. Bei 58 Milchbetrieben – rund einem Drittel – lagen die Werte über dem EU-Richtwert von 0.02 Mikrogramm pro Kilogramm. Die Belastungen konzentrieren sich auf zwei Regionen: das Vorderland nahe der St. Galler Grenze und das Mittelland um Bühler. Zeitgleich empfahl die EU-Chemiebehörde ECHA ein weitreichendes PFAS-Verbot mit gezielten Ausnahmen – für die betroffenen Schweizer Betriebe könnte dies existenzbedrohend werden.",
+              "gegenstimme": "Landwirtschaftsverbände und betroffene Betriebe mahnen zur Besonnenheit: Die erhöhten Werte seien regional begrenzt und nicht Folge landwirtschaftlicher Fehler, sondern industrieller Altlasten. Der Kanton und die Betriebe appellieren an den Bund, praxisnahe Lösungen zu entwickeln und keine vorschnellen Verbote zu erlassen. Die Chemieindustrie warnt ihrerseits vor einem Umsatzverlust von mehreren Milliarden Euro in der EU und fordert Ausnahmeregelungen für Bereiche, in denen PFAS noch keine Alternativen haben.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/ewigkeitschemikalie-pfas-tests-zeigen-belastete-milch-in-appenzell-ausserrhoden"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/pfas-eu-behoerde-echa-empfiehlt-verbot-von-ewigkeitschemikalien-mit-ausnahmen-a-e6ae947b-e50a-4707-802c-72ec184ccd7e"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-schweizer-banken-iran-drohung",
+              "slug": "schweizer-banken-iran-drohung",
+              "title": "Iran droht Schweizer Banken: «Wir beobachten eure Portfolios»",
+              "date": "2026-03-26",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🏦",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Der Sprecher des iranischen Parlaments droht Finanzinstituten weltweit – wer US-Staatsanleihen hält, riskiert zum Ziel zu werden. Schweizer Banken mit Golfpräsenz reagieren mit Homeoffice-Empfehlungen.",
+              "summary": "Mohammad Bagher Ghalibaf, Sprecher des iranischen Parlaments, hat Finanzinstitute mit Verbindungen zum US-Militärhaushalt offiziell als «legitime Ziele» bezeichnet. Schweizer Banken wie UBS, Julius Bär, EFG und Lombard Odier sind mit Niederlassungen in Dubai präsent und damit potenziell betroffen. Die meisten Institute reagieren mit Homeoffice-Anweisungen für lokales Personal, Evakuierungen sind kaum geplant. US-Grossbanken wie Goldman Sachs und Citi haben ihre Mitarbeitenden bereits an andere Standorte verlegt.",
+              "gegenstimme": "Bankenvertreter und Analysten relativieren die Drohung: Ghalibaf ist Parlamentssprecher, kein Militärkommandant – seine Aussagen haben eher rhetorischen als operativen Charakter. Zudem läuft derzeit eine Verhandlungsrunde, die Trump zu Wochenbeginn initiiert hatte. Die Schweizer Banken vertrauen offenbar auf die diplomatische Deeskalation und sehen keine unmittelbare Evakuierungsnotwendigkeit.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/wir-beobachten-eure-portfolios-das-ist-eure-letzte-warnung-schweizer-banken-geraten-ins-visier-von-iran-ld.1930666"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-oecd-wachstumsprognosen-irankrieg",
+              "slug": "oecd-wachstumsprognosen-irankrieg",
+              "title": "OECD senkt Wachstumsprognosen: Iran-Krieg bremst globale Wirtschaft",
+              "date": "2026-03-26",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "📊",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Die OECD hat ihre globalen Wachstumsprognosen deutlich nach unten korrigiert und sieht im US-israelischen Krieg gegen den Iran den Haupttreiber für höhere Energiepreise und steigende Inflation.",
+              "summary": "Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) warnt vor den weitreichenden wirtschaftlichen Folgen des Krieges im Nahen Osten. Das globale Wachstum soll 2026 auf 2,9 Prozent sinken, die Inflation der G20-Staaten auf 4 Prozent steigen. Grossbritannien muss mit 4 Prozent Inflation und nur 0,7 Prozent Wachstum rechnen – das schlechteste G7-Ergebnis nach Italien. Energieversorgungsengpässe und steigende Düngemittelpreise bedrohen zusätzlich die Lebensmittelproduktion.",
+              "gegenstimme": "Kritiker mahnen, dass die OECD-Prognosen von der optimistischen Annahme ausgehen, die Energiemärkte würden sich ab Sommer normalisieren. Fachleute halten dies für unrealistisch, solange kein Waffenstillstand in Sicht ist. Zudem wird kritisiert, dass die OECD die strukturellen Schwächen vieler Volkswirtschaften – etwa hohe Staatsverschuldung und schwache Produktivität – zu wenig berücksichtigt und den Krieg als alleinige Ursache übergewichtet.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cgk0j71g417o"
                 }
               ]
             }
