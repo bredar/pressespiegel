@@ -1,783 +1,428 @@
 {
-  "updated": "16:21 UTC",
+  "updated": "05:11 UTC",
   "days": [
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-03-25-daenemark-wahl-frederiksen",
-              "slug": "daenemark-wahl-frederiksen",
-              "title": "Dänemark-Wahl: Frederiksen gewinnt, Regierungsbildung offen",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🗳️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/c2dbe199-d166-4cd0-9afc-36cc87d5147d_w520_r2.08_fpx49_fpy61.jpg",
-              "kurz": "Sozialdemokraten von Mette Frederiksen gewinnen in Dänemark mit 21,9% – schlechtestes Ergebnis seit über einem Jahrhundert. Kein Lager erreicht Mehrheit.",
-              "summary": "Bei der vorgezogenen Parlamentswahl in Dänemark blieben die Sozialdemokraten von Ministerpräsidentin Mette Frederiksen mit 21,9 Prozent stärkste Kraft – ihr schlechtestes Ergebnis seit mehr als hundert Jahren. Weder der linke «Rote Block» (84 Sitze) noch der bürgerlich-konservative «Blaue Block» (77 Sitze) erreicht die nötige Mehrheit von 90 Sitzen. Die Moderaterne von Lars Løkke Rasmussen mit 14 Sitzen werden zum entscheidenden Zünglein an der Waage.",
-              "gegenstimme": "Frederiksens Herausforderer, Verteidigungsminister Troels Lund Poulsen (Liberale), wirbt für eine bürgerlich-konservative Regierung und hat eine erneute Zusammenarbeit mit den Sozialdemokraten ausgeschlossen. Er sieht ein Mandat für einen Richtungswechsel. Politologen geben zu bedenken, dass Frederiksens Gamble, den Grönland-Streit mit den USA für vorgezogene Neuwahlen zu nutzen, nach hinten losgegangen ist: Nicht Geopolitik, sondern Lebenshaltungskosten, Pestizide im Trinkwasser und Agrarsubventionen dominierten den Wahlkampf.",
-              "sources": [
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/wahl-in-daenemark-sozialdemokraten-von-mette-frederiksen-gewinnen-regierungsbildung-wird-schwierig-a-90ac96f1-7ca6-4714-a9a7-91ce636a674c"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/frederiksen-will-regierungschefin-bleiben-daenemark-steht-nach-der-wahl-vor-einer-schwierigen-regierungsbildung-ld.1930902"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/c74v5qynl9vo"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-iran-krieg-15-punkte-plan",
-              "slug": "iran-krieg-15-punkte-plan",
-              "title": "Iran-Krieg: USA legen 15-Punkte-Friedensplan vor",
-              "date": "2026-03-25",
+              "id": "2026-03-26-iran-krieg-update-verhandlungen-pistorius",
+              "slug": "iran-krieg-update-verhandlungen-pistorius",
+              "title": "Iran-Krieg: Iran stellt eigene Bedingungen – Pistorius will Bundeswehr an Hormus",
+              "date": "2026-03-26",
               "time": "07:00",
               "category": "international",
               "icon": "🌍",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/8ecc7f1b-8ba9-4fd2-8887-260ec0fea626_w520_r2.08_fpx35_fpy56.jpg",
-              "kurz": "USA übermitteln Iran via Pakistan einen 15-Punkte-Friedensplan. Teheran reagiert skeptisch, die Iranische Revolutionsgarde greift US-Stützpunkte an.",
-              "summary": "Die USA haben dem Iran über Pakistan einen 15-Punkte-Plan zur Beendigung des Konflikts übermittelt, der Forderungen zum Nuklear- und Raketenprogramm enthält. Teheran reagierte offiziell skeptisch bis ablehnend. Gleichzeitig griff die Iranische Revolutionsgarde US-Stützpunkte in der Golfregion an. Der Ölpreis fiel auf die Meldungen hin deutlich unter 100 Dollar, bleibt aber historisch hoch.",
-              "gegenstimme": "Ein Sprecher der iranischen Streitkräfte verhöhnte den Plan öffentlich: Die USA würden nur mit sich selbst verhandeln. Iranische Bürger äusserten laut BBC Persian tiefe Skepsis gegenüber echten Verhandlungen – viele glauben, Trump nutze Diplomatie nur als taktische Pause, nicht als ernsthafte Friedensinitiative.",
-              "sources": [
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-usa-sollen-iran-15-punkte-plan-vorgelegt-haben-a-0abb8426-cbba-4886-a18f-0f5c8920443c"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/iran-krieg-wie-ein-angriff-der-usa-auf-die-insel-kharg-ablaufen-koennte-ld.1930729"
-                },
-                {
-                  "name": "Guardian",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/live/cn8dldl0jx9t"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-steinmeier-iran-voelkerrecht",
-              "slug": "steinmeier-iran-voelkerrecht",
-              "title": "Steinmeier nennt Iran-Krieg völkerrechtswidrig – Lob aus Teheran und AfD",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🏛️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/41e16fba-35c6-4194-af40-72b3c1e5ff01_w520_r2.08_fpx47_fpy40.jpg",
-              "kurz": "Bundespräsident Steinmeier stuft den US-israelischen Angriff auf Iran als völkerrechtswidrig ein – Zuspruch von Iran und AfD, Kritik aus der Union.",
-              "summary": "Bundespräsident Frank-Walter Steinmeier hat den von den USA und Israel begonnenen Krieg gegen Iran als völkerrechtswidrig bezeichnet. Die Aussage machte er anlässlich des 75. Jahrestages der Wiedergründung des Auswärtigen Amtes. Irans Aussenminister und die AfD lobten die Worte, während Unionsfraktionschef Jens Spahn den Bundespräsidenten zur Zurückhaltung aufforderte. Steinmeier kritisierte ausserdem die Abhängigkeit Europas von den USA in Sicherheits- und Technologiefragen.",
-              "gegenstimme": "Unionsfraktionschef Jens Spahn mahnte, die völkerrechtliche Bewertung obliege der Bundesregierung, nicht dem Bundespräsidenten. Kanzler Merz distanziert sich vom Krieg, vermeidet aber eine explizite Einordnung als Völkerrechtsbruch – anders als mehrere andere europäische Partner.",
+              "image": "https://cdn.prod.www.spiegel.de/images/d37da8f3-ac51-4622-ab96-1e3e65aafa61_w520_r2.08_fpx60_fpy45.jpg",
+              "kurz": "Iran lehnt den US-Friedensplan ab und legt eigene Bedingungen vor. Deutschland signalisiert Bereitschaft zur Beteiligung an einer möglichen Absicherung der Strasse von Hormus.",
+              "summary": "Die USA sollen Iran einen 15-Punkte-Friedensplan über Pakistan übermittelt haben – Teheran hat ihn als überzogen zurückgewiesen und einen Gegenentwurf eingereicht. Irans Aussenminister Araghchi erklärt, direkte Verhandlungen mit den USA seien gleichbedeutend mit einer Niederlage. Trump besteht auf dem Gegenteil und behauptet, die Iraner wollten einen Deal. Bundesverteidigungsminister Pistorius stellt erstmals eine Beteiligung der Bundeswehr an einer Absicherung der Strasse von Hormus in Aussicht.",
+              "gegenstimme": "Meta und Google bestreiten die Vorwürfe und kündigen Berufung an. Meta betont, psychische Gesundheit bei Jugendlichen sei komplex und könne nicht auf eine einzige App zurückgeführt werden. Für den Iran-Kontext: Teheran argumentiert, Verhandlungen unter militärischem Druck seien eine Kapitulation – eine Position, die aus der Perspektive iranischer Souveränität zumindest nachvollziehbar ist.",
               "sources": [
                 {
                   "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/politik/frank-walter-steinmeier-bekommt-fuer-iran-krieg-aeusserung-lob-aus-teheran-und-von-der-afd-a-67d5ce17-25c1-4dac-9105-2a0376e9a9ae"
-                },
-                {
-                  "name": "Watson",
-                  "url": "https://www.watson.ch/international/iran/330739071-deutscher-bundespraesident-steinmeier-kritisiert-usa-fuer-irankrieg"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-ukraine-russland-drohnenangriff",
-              "slug": "ukraine-russland-drohnenangriff",
-              "title": "Ukraine: Russland feuert fast 1000 Drohnen – grösster Angriff des Krieges",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "international",
-              "icon": "⚔️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/ba5fab67-52e9-4575-9ed6-b13007669473_w520_r2.08_fpx41.99_fpy54.99.jpg",
-              "kurz": "Russland attackiert die Ukraine mit 948 Drohnen – grösster Luftangriff seit Kriegsbeginn. Lwiws UNESCO-Weltkulturerbe getroffen, mindestens 8 Tote.",
-              "summary": "Russland hat innerhalb von 24 Stunden 948 Drohnen auf die Ukraine abgefeuert – den umfangreichsten Luftangriff seit Beginn des Krieges im Februar 2022. Bei Angriffen auf Lwiw wurde das zum UNESCO-Weltkulturerbe gehörende Bernhardinerkloster aus dem 16. Jahrhundert beschädigt. In Lwiw wurden mindestens 32 Personen verletzt, in Iwano-Frankiwsk zwei Menschen getötet. Insgesamt forderten die kombinierten Tag- und Nachtangriffe mindestens acht Todesopfer.",
-              "gegenstimme": "Die ukrainische Luftwaffe betonte, sie habe die grosse Mehrheit der Drohnen abgeschossen. Präsident Selenskyj nutzte den Angriff, um vor der Weltöffentlichkeit zu mahnen, dass Russland keinerlei echten Friedenswillen zeige. Russlands Militär kommentierte die Angriffe öffentlich nicht. Analysten weisen darauf hin, dass der massive Drohneneinsatz – der mit dem iranischen Fokus des Westens zusammenfällt – Moskaus Kalkül widerspiegeln könnte, die reduzierte westliche Aufmerksamkeit für einen Intensivierungsversuch zu nutzen.",
-              "sources": [
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/ukraine-verletzte-und-schaeden-bei-drohnenangriff-auf-lwiw-a-1aed0095-8df9-4352-b767-407ab946db37"
-                },
-                {
-                  "name": "Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/24/russia-strikes-civilian-areas-ukraine"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/cz90gpyw90wo"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-schweiz-armee-3-4-milliarden",
-              "slug": "schweiz-armee-3-4-milliarden",
-              "title": "Armeebotschaft 2026: Schweiz investiert 3,4 Milliarden in Verteidigung",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🛡️",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/20/97f8e478-ecab-4a70-af3c-5f0c5496c21f.jpg",
-              "kurz": "Der Bundesrat verabschiedet die Armeebotschaft 2026 mit 3,4 Mrd. Franken. Schwerpunkt: Luftabwehr und Drohnenabwehr.",
-              "summary": "Der Bundesrat hat die Armeebotschaft 2026 mit einem Gesamtvolumen von 3,4 Milliarden Franken verabschiedet. Im Mittelpunkt stehen der Ausbau der Luftabwehr mit neuen IRIS-T-Systemen und Skynex-Geschützen sowie moderne Drohnenabwehr. Armee-Ausbildungschef Gregor Metzler warnt eindringlich: Die Schweizer Armee sei derzeit nicht in der Lage, das Land nachhaltig zu verteidigen – ein Konflikt könnte noch in diesem Jahrzehnt beginnen.",
-              "gegenstimme": "Kritiker aus linken Kreisen und die Gruppe für eine Schweiz ohne Armee (GSoA) mahnen zur Verhältnismässigkeit und plädieren für diplomatische statt militärische Lösungen. Historiker Andreas Gross warnt vor einer Militarisierung der Gesellschaft und bezweifelt, dass Aufrüstung allein die Sicherheit erhöht.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/armeebotschaft-drohnen-killer-co-pfister-will-34-milliarden-fuer-die-armee-103530232"
-                },
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/armeespitze-zur-bedrohungslage-ausbildungschef-es-kann-noch-in-diesem-jahrzehnt-losgehen"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-svp-10-millionen-initiative",
-              "slug": "svp-10-millionen-initiative",
-              "title": "SVP lanciert Kampagne zur 10-Millionen-Schweiz-Initiative",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/24/68876d86-e82b-4522-ab4a-8f9cea15aad6.jpg",
-              "kurz": "SVP startet Abstimmungskampagne für die 10-Millionen-Initiative (14. Juni). Im Vordergrund: Infrastrukturüberlastung und Kriminalität – ohne SVP-Logo.",
-              "summary": "Die SVP hat am Dienstag ihre Abstimmungskampagne für die Initiative «Keine 10-Millionen-Schweiz» lanciert, über die am 14. Juni abgestimmt wird. Das Initiativkomitee trat bewusst ohne SVP-Logo auf und argumentierte mit überlasteter Infrastruktur, steigender Kriminalität und Lohndruck. Ökonomen und Gegner zweifeln jedoch daran, dass die Zuwanderung ohne Kündigung der Personenfreizügigkeit mit der EU auf das versprochene Mass von 40'000 Personen jährlich gesenkt werden kann.",
-              "gegenstimme": "Bundesrat, alle grossen Parteien, Kantone, Gewerkschaften und Arbeitgeber lehnen die Initiative ab. Ökonomen weisen nach, dass die Rechnung der SVP (40'000 Einwanderer pro Jahr ohne EU-Konflikt) mathematisch nicht aufgeht: Allein der Familiennachzug von EU-Bürgern beansprucht bereits drei Viertel dieses hypothetischen Kontingents. Ohne Eingriff in die Personenfreizügigkeit ist das Ziel kaum erreichbar.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/zuwanderung-als-ursache-aller-probleme-die-svp-startet-den-kampf-fuer-ihre-10-millionen-initiative-ohne-svp-logo-ld.1930546"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/gegen-stau-kriminalitaet-10-millionen-schweiz-mit-diesen-argumenten-will-die-svp-gewinnen-103532922"
-                },
-                {
-                  "name": "Watson",
-                  "url": "https://www.watson.ch/schweiz/eu/542084320-svp-will-weniger-zuwanderung-ohne-eu-bruch-die-rechnung-geht-nicht-auf"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-kanton-bern-rekordgewinn",
-              "slug": "kanton-bern-rekordgewinn",
-              "title": "Kanton Bern: Rekordgewinn von 873 Millionen Franken",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "🏛️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/247LayAJasfBbF4AkZhCjt.jpg",
-              "kurz": "Kanton Bern schliesst 2025 mit einem Überschuss von 873 Millionen Franken ab – weit über Budget. Nun entbrennt ein Streit über die Verwendung.",
-              "summary": "Der Kanton Bern hat das Geschäftsjahr 2025 mit einem Überschuss von 873 Millionen Franken abgeschlossen – deutlich mehr als budgetiert. Trotz der erfreulichen Zahlen will der Regierungsrat an einer zurückhaltenden Finanzpolitik festhalten. Politisch entbrennt bereits ein Streit: Während bürgerliche Kräfte auf Steuersenkungen drängen, fordern andere Investitionen in Infrastruktur und Bildung.",
-              "gegenstimme": "Der Regierungsrat mahnt zur Vorsicht: Einmalige Mehrerträge sollen nicht zu strukturellen Ausgabenerhöhungen oder dauerhaften Steuersenkungen führen. Die Finanzlage könnte sich in den nächsten Jahren durch steigende Bundesbeitragskürzungen und demografische Kosten wieder eintrüben.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/plus-von-873-millionen-kanton-bern-verbucht-hohen-gewinn-957307959716"
-                },
-                {
-                  "name": "TeleBärn",
-                  "url": "https://www.telebaern.tv/telebaern-news/kanton-bern-mit-hohem-gewinn-163772675"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-insiderhandel-trump-iran",
-              "slug": "insiderhandel-trump-iran",
-              "title": "Insiderhandel-Verdacht: Millionenwetten kurz vor Trumps Iran-Post",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "📈",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/8ecc7f1b-8ba9-4fd2-8887-260ec0fea626_w520_r2.08_fpx35_fpy56.jpg",
-              "kurz": "15 Minuten vor Trumps Iran-Ankündigung liefen massive Wetten auf fallende Ölpreise. Verdacht auf Insiderhandel aus dem Weissen Haus wird lauter.",
-              "summary": "Gemäss einer Analyse der Financial Times wurden 15 Minuten bevor Trump auf Truth Social Verhandlungsfortschritte mit dem Iran ankündigte, Ölterminkontrakte im Wert von rund 580 Millionen Dollar auf fallende Preise gesetzt. Kurz nach dem Post brach der Ölpreis um 13 Prozent ein – massive Gewinne für anonyme Investoren. Das Muster ist kein Einzelfall: Ähnliche Trades wurden vor früheren US-Militäroperationen beobachtet. Ob Insiderwissen im Spiel war, ist juristisch nicht belegt.",
-              "gegenstimme": "Derivate-Experten mahnen zur Vorsicht: Das gehandelte Volumen war zwar ungewöhnlich hoch für diese Tageszeit, aber nicht beispiellos. An Ölmärkten werden täglich enorme Mengen gehandelt; ein grosser Investor könnte schlicht Gewinne mitgenommen oder Risiken reduziert haben. Ein direkter Beweis für Insiderwissen fehlt bisher. Dennoch verlangen mehrere demokratische Senatoren und Abgeordnete schärfere Regulierung solcher Prognosemärkte.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/auf-dem-terminmarkt-laufen-auffaellige-oelgeschaefte-15-minuten-bevor-donald-trump-einen-iran-post-absetzt-ld.1930705"
-                },
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/wirtschaft/insiderhandel-im-weissen-haus-wie-im-schatten-des-krieges-millionenprofite-gescheffelt-werden"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-migros-umbau-abgeschlossen",
-              "slug": "migros-umbau-abgeschlossen",
-              "title": "Migros schliesst Umbau ab: 21 Firmen weg, aber Marktanteile sinken",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "🛒",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/Dn7BR_BNK14AmGj12abTqm.jpg",
-              "kurz": "Migros verkauft 21 Tochterfirmen, erzielt 1,1 Mrd. Franken Gewinn – doch die Marktanteile sinken weiter. Erholung frühestens ab 2028.",
-              "summary": "Die Migros hat ihren grossen Konzernumbau abgeschlossen: Über 21 Tochterfirmen wurden verkauft, darunter Mibelle, Obi und Hotelplan. Der Reingewinn 2025 stieg dadurch auf 1,1 Milliarden Franken. Doch das Kerngeschäft – der Lebensmittelhandel – schwächelt: Marktanteile gingen verloren, CEO Mario Irminger erwartet eine Erholung frühestens ab 2028. Die Migros investiert massiv in Preissenkungen, Filialsanierungen und Logistik.",
-              "gegenstimme": "Kritiker fragen, ob der Konzernumbau zu weitreichend war: Mit dem Verkauf von über 20 Geschäftsbereichen verliert die Migros an Diversifikation und Kundenbindung. Zudem gefährdet die Tiefpreisstrategie die Marge – ohne Garantie, dass verlorene Marktanteile zurückgewonnen werden. Die Mitarbeiterzahl sank um rund 7000 auf knapp 92'000.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/wirtschaft/detailhandel-detailriese-im-umbruch-wohin-steuert-die-migros"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/migros-21-firmen-verkauft-doch-jetzt-beginnt-der-haertetest-575898407128"
-                },
-                {
-                  "name": "Der Bund – Gewinn",
-                  "url": "https://www.derbund.ch/migros-gewinn-von-1-1-milliarden-nach-totalumbau-184884462173"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-oel-preis-rezessionsrisiko",
-              "slug": "oel-preis-rezessionsrisiko",
-              "title": "Ölkrise und Rezessionsrisiko: BlackRock warnt vor globalem Schock",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "💰",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/6iaAMVb_Kzn9HNdA1s0rmG.jpg",
-              "kurz": "BlackRock-Chef Larry Fink warnt: Ölpreis über 150 Dollar würde eine globale Rezession auslösen. Europas Industrie gibt gestiegene Energiekosten weiter.",
-              "summary": "Larry Fink, Chef des weltgrössten Vermögensverwalters BlackRock, sieht zwei mögliche Szenarien: Entweder endet der Iran-Konflikt und der Ölpreis fällt unter Vorkriegsniveau, oder er verharrt bei 100–150 Dollar, was eine 'ausgeprägte und steile Rezession' auslösen würde. Aktuell fiel Brent auf rund 98 Dollar, nachdem Trump Verhandlungsfortschritte andeutete. Europas Industrieunternehmen haben bereits begonnen, die gestiegenen Kosten über Preiserhöhungen weiterzugeben.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass Finks Zwei-Szenarien-Modell die vielen Zwischenstufen eines möglichen Konfliktverlaufs ausblendet. Zudem profitieren Ölförderländer sowie Solar- und Windenergieproduzenten von hohen Energiepreisen – für sie ist die Krise eine Investitionschance. Einige Ökonomen sehen in steigenden Energiepreisen auch einen beschleunigenden Treiber der Energiewende.",
-              "sources": [
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/iran-konflikt-oelpreis-faellt-nach-trump-aussagen-wieder-unter-100-dollar/100211425.html"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/iran-krieg-industrieunternehmen-heben-preise-wegen-hoeherer-kosten-an/100210306.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-arm-cpu-meta-ki",
-              "slug": "arm-cpu-meta-ki",
-              "title": "Arm baut erstmals eigenen Chip – für Metas KI-Rechenzentren",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "💻",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/7fb09890-6031-4022-9788-cbb2d40b5e85_w520_r2.08_fpx37.5_fpy49.98.jpg",
-              "kurz": "Arm lanciert nach 35 Jahren erstmals einen selbst produzierten CPU – den «Arm AGI CPU», entwickelt gemeinsam mit Meta für den Einsatz in KI-Rechenzentren.",
-              "summary": "Das britische Halbleiterunternehmen Arm Holdings hat erstmals in seiner 35-jährigen Firmengeschichte einen selbst produzierten Chip vorgestellt. Der «Arm AGI CPU» wurde in Zusammenarbeit mit Meta entwickelt und ist auf den Betrieb von KI-Inferenz in Rechenzentren ausgelegt. Meta ist der erste Kunde. Der Schritt markiert einen historischen Strategiewechsel für Arm, das bisher ausschliesslich Chipdesigns lizenzierte.",
-              "gegenstimme": "Der Strategiewechsel ist nicht ohne Risiko: Arm tritt nun in direkte Konkurrenz zu vielen seiner bisherigen Lizenznehmern, darunter Apple, Qualcomm und Nvidia. Qualcomm, das zuletzt einen wichtigen Rechtsstreit gegen Arm gewonnen hatte, gehört bezeichnenderweise nicht zu den Gratulanten der Produktankündigung.",
-              "sources": [
-                {
-                  "name": "TechCrunch",
-                  "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/"
-                },
-                {
-                  "name": "The Verge",
-                  "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-cern-antimaterie-transport",
-              "slug": "cern-antimaterie-transport",
-              "title": "CERN transportiert erstmals Antimaterie – Weltneuheit aus Genf",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "⚛️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/7fb09890-6031-4022-9788-cbb2d40b5e85_w520_r2.08_fpx37.5_fpy49.98.jpg",
-              "kurz": "Forscher am CERN transportierten erstmals in der Geschichte Antimaterie – 92 Antiprotonen, sicher per Lastwagen über das CERN-Gelände.",
-              "summary": "Wissenschaftlerinnen und Wissenschaftler am CERN in Genf haben am 24. März 2026 erstmals in der Menschheitsgeschichte Antimaterie auf der Strasse transportiert. 92 Antiprotonen wurden in einem speziell entwickelten, schrankgrossen Behälter rund acht Kilometer über das CERN-Gelände gefahren – ohne Verluste. Der Meilenstein soll künftig den Transport von Antimaterie zu Labors in Deutschland ermöglichen, wo präzisere Messungen möglich sind.",
-              "gegenstimme": "Einige Wissenschaftler betonen, dass der erfolgreiche Test auf dem abgesicherten CERN-Gelände noch weit von einem praktikablen Transport auf öffentlichen Strassen entfernt ist. Die enormen Kosten und technischen Anforderungen machen Antimaterie auf absehbare Zeit zu einem reinen Forschungsobjekt ohne praktischen Einsatz ausserhalb von Labors.",
-              "sources": [
-                {
-                  "name": "SRF Wissen",
-                  "url": "https://www.srf.ch/wissen/forschung/cern-schafft-weltneuheit-dieser-lastwagen-hat-erstmals-antimaterie-transportiert"
-                },
-                {
-                  "name": "Swissinfo",
-                  "url": "https://www.swissinfo.ch/ger/cern-gelingt-erstmaliger-transport-von-antimaterie/91148601"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wissenschaft/technik/cern-in-genf-forscher-transportieren-erstmals-antimaterie-im-lkw-a-db82a134-e48b-4f6d-9086-27c9d9328875"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-meta-kinder-strafe",
-              "slug": "meta-kinder-strafe",
-              "title": "Meta zu 375 Millionen Dollar Strafe verurteilt – mangelnder Kinderschutz",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "⚖️",
-              "edition": "morning",
-              "image": "https://media.20min.ch/6/image/2025/07/03/c8a40f83-a024-41df-9437-1d6b0da2140d.jpg",
-              "kurz": "Eine Jury in New Mexico verurteilte Meta zu 375 Mio. Dollar Strafe wegen 37'500 Verstössen gegen Kinderschutzgesetze auf Facebook und Instagram.",
-              "summary": "Ein Geschworenengericht im US-Bundesstaat New Mexico hat Meta zu einer Strafe von 375 Millionen Dollar verurteilt. Das Urteil basiert auf 37'500 Verstössen gegen staatliche Verbraucherschutz- und Kinderschutzgesetze. Die Jury befand, Meta habe Nutzer über die Sicherheit seiner Plattformen wissentlich in die Irre geführt. Meta kündigte Berufung an.",
-              "gegenstimme": "Meta bestreitet die Vorwürfe vehement. Der Konzern erklärt, man arbeite hart daran, Menschen auf den Plattformen zu schützen, und sei offen über die Schwierigkeiten, schlechte Akteure zu identifizieren. Meta bezeichnet die Untersuchungsmethode des Bundesstaats – den Einsatz von Lockvogel-Konten – als fehlerhaft.",
-              "sources": [
-                {
-                  "name": "The Verge",
-                  "url": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/it-internet/tech-meta-wegen-mangelnden-kinderschutzes-zu-millionenstrafe-verurteilt/100211432.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-openai-sora-ende",
-              "slug": "openai-sora-ende",
-              "title": "OpenAI schliesst Sora – und platzt damit Disney-Deal",
-              "date": "2026-03-25",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🤖",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/7fb09890-6031-4022-9788-cbb2d40b5e85_w520_r2.08_fpx37.5_fpy49.98.jpg",
-              "kurz": "OpenAI stellt die KI-Video-App Sora nach rund sechs Monaten ein. Damit platzt auch ein 1-Milliarden-Dollar-Deal mit Disney.",
-              "summary": "OpenAI hat angekündigt, die soziale KI-Video-App Sora einzustellen, nur rund sechs Monate nach deren Launch im September 2025. Die App, die als KI-first-Alternative zu TikTok positioniert war, verlor nach einem anfänglichen Hype stark an Nutzern. Mit der Schliessung fällt auch ein Milliarden-Dollar-Kooperationsvertrag mit Disney weg. OpenAI konzentriert sich strategisch neu auf Business- und Produktivitätsanwendungen.",
-              "gegenstimme": "Kritiker sehen in der Schliessung ein Zeichen dafür, dass OpenAI seine Ressourcen und Aufmerksamkeit verstreut hatte. Befürworter des Schritts argumentieren, der Konzern tue gut daran, sich auf profitablere Kernprodukte wie ChatGPT zu fokussieren, anstatt teure Lifestyle-Apps zu betreiben, die die Moderationskapazitäten überfordern.",
-              "sources": [
-                {
-                  "name": "TechCrunch",
-                  "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/"
-                },
-                {
-                  "name": "Ars Technica",
-                  "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/"
-                },
-                {
-                  "name": "The Verge",
-                  "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/kuenstliche-intelligenz-openai-macht-ki-video-app-sora-dicht/100211467.html"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-03-25-iran-militaer-spott-trump",
-              "slug": "iran-militaer-spott-trump",
-              "title": "Iran verspottet Trumps Friedensplan: «Verkleidet eure Niederlage nicht als Abkommen»",
-              "date": "2026-03-25",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/e6591205-9264-47e0-acc2-486de41763d2_w520_r2.08_fpx59.32_fpy55.jpg",
-              "kurz": "Irans Militär verspottet Trumps 15-Punkte-Friedensplan öffentlich. Teheran bestreitet jegliche Verhandlungen und setzt Angriffe auf Golfstaaten fort.",
-              "summary": "US-Präsident Donald Trump behauptete am Dienstag, Friedensgespräche mit dem Iran seien im Gange. Irans Militärsprecher Ebrahim Zolfaqari wies dies am Mittwoch mit Spott zurück und fragte, ob die USA inzwischen mit sich selbst verhandelten. Irans Angriffe auf Kuwait und Bahrain dauerten in der Nacht an, während die Strasse von Hormuz für den Öltransport weitgehend blockiert bleibt. Die Ölpreise fielen nach Trumps Aussagen um rund sechs Prozent.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass Trumps gleichzeitige Ankündigung der Verlegung von über 1000 Soldaten der 82. Luftlandedivision in den Nahen Osten seinen Friedensbeteuerungen direkt widerspricht. UN-Menschenrechtschef Volker Türk warnte zudem vor einer «unabwendbaren Katastrophe» durch Angriffe in der Nähe von Nuklearanlagen beider Seiten.",
-              "sources": [
-                {
-                  "name": "The Guardian (Live)",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c995xp4jxj2o"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/video/iran-militaersprecher-ebrahim-zolfaghari-verspottet-donald-trump-103533724"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-moldova-stromnotstand-russland",
-              "slug": "moldova-stromnotstand-russland",
-              "title": "Moldau ruft Notstand aus – russische Angriffe treffen Stromnetz",
-              "date": "2026-03-25",
-              "time": "12:15",
-              "category": "international",
-              "icon": "⚡",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/ba5fab67-52e9-4575-9ed6-b13007669473_w520_r2.08_fpx41.99_fpy54.99.jpg",
-              "kurz": "Russische Angriffe auf die Ukraine trennen eine Schlüsselstromleitung nach Moldau. Das Land ruft den Energienotstand für 60 Tage aus.",
-              "summary": "Moldau hat den Energienotstand ausgerufen, nachdem russische Angriffe auf die Ukraine eine wichtige Hochspannungsleitung beschädigt haben, über die das Land Strom aus Rumänien bezieht. Die Leitung führt durch den Süden der Ukraine – abgestürzte Drohnen wurden in deren Nähe entdeckt. Räumungsarbeiten müssen abgeschlossen werden, bevor Reparaturen beginnen können. Ministerpräsident Alexandru Munteanu appellierte an die Bevölkerung, den Verbrauch während der Spitzenstunden zu reduzieren.",
-              "gegenstimme": "Russland bestreitet, zivile Infrastruktur gezielt anzugreifen, und bezeichnet eigene Angriffe als Massnahmen gegen militärische Ziele. Kritiker weisen jedoch darauf hin, dass Moldau nicht Kriegspartei ist und die Folgen für die Zivilbevölkerung des Nachbarlandes damit direkt auf russische Aktionen zurückzuführen sind.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/25/ukraine-war-briefing-moldova-declares-emergency-after-russian-attack-cuts-key-power-line"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-trump-xi-china-besuch-abgesagt",
-              "slug": "trump-xi-china-besuch-abgesagt",
-              "title": "Trump sagt China-Besuch ab – Xi's Strategie gerät ins Stocken",
-              "date": "2026-03-25",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🌏",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/8ecc7f1b-8ba9-4fd2-8887-260ec0fea626_w520_r2.08_fpx35_fpy56.jpg",
-              "kurz": "Trump verschiebt seinen geplanten Staatsbesuch in Peking auf unbestimmte Zeit. Xi Jinping, der auf Stabilisierung der Wirtschaftsbeziehungen hoffte, muss warten.",
-              "summary": "US-Präsident Donald Trump hat seinen für Ende März geplanten Staatsbesuch in China verschoben. Peking hatte den Besuch sorgfältig vorbereitet und zuletzt mit einer Fentanyl-Razzia Goodwill signalisiert. Trump begründet die Verschiebung implizit mit dem laufenden Nahost-Krieg; eine Reise nach China sei erst nach einer Waffenruhe am Golf denkbar. Japan und Europa reagieren auf die Lage gegensätzlich: Tokio setzt auf enge Umarmung Washingtons, die EU hält demonstrativen Abstand.",
-              "gegenstimme": "Für Xi Jinping ist die Verschiebung innenpolitisch heikel: Die chinesische Wirtschaft schwächelt, die Exporte in die USA sanken in den ersten zwei Monaten 2026 erneut um elf Prozent. Kritiker sehen in Europas Distanzierung vom Iran-Krieg zwar eine verständliche, aber kurzsichtige Haltung – Brüssel schwäche damit seinen Einfluss auf Washington genau dann, wenn dieser am dringendsten benötigt würde.",
-              "sources": [
-                {
-                  "name": "NZZ – Trump und Xi: die Folgen der abgesagten China-Reise",
-                  "url": "https://www.nzz.ch/pro/trump-und-xi-die-folgen-der-abgesagten-china-reise-ld.1930699"
-                },
-                {
-                  "name": "NZZ – Japan und Europa verfolgen zwei Strategien",
-                  "url": "https://www.nzz.ch/pro/japan-und-europa-verfolgen-zwei-strategien-im-umgang-mit-trump-ld.1930842"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-kita-missbrauch-bern-winterthur",
-              "slug": "kita-missbrauch-bern-winterthur",
-              "title": "Kita-Missbrauch: Betreuer in Bern und Winterthur angeklagt – 50 Übergriffe",
-              "date": "2026-03-25",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "⚠️",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/4WqYPwNW4JXA4eYKOj6v6d.jpg",
-              "kurz": "Ein 33-jähriger Kita-Gruppenleiter steht wegen sexueller Übergriffe an mindestens 15 Kleinkindern in Bern und Winterthur vor Gericht. Die Taten wurden gefilmt.",
-              "summary": "Laut Anklageschrift der Berner Staatsanwaltschaft soll ein 33-jähriger Kita-Betreuer über eineinhalb Jahre hinweg mindestens 15 Kleinkinder im Alter von einem bis vier Jahren schwer sexuell missbraucht haben. Der Mann war in privaten Kitas in Bern und Winterthur als Gruppenleiter tätig und filmte die Übergriffe. Im Februar 2024 wurde er verhaftet; dabei stellte die Polizei über 800 kinderpornografische Bilder und Videos sicher, darunter Aufnahmen aus den Kitas.",
-              "gegenstimme": "Opferanwältin Laura Jost, die sieben Betroffene vertritt, zweifelt daran, dass die Schutzkonzepte der Kitas im Alltag tatsächlich konsequent umgesetzt wurden: «Es handelt sich um einen dermassen systematischen Missbrauch – hier muss es Mängel in der Organisation gegeben haben.» Der Fall wirft auch Fragen über die Weitergabe von Informationen zwischen Kitas auf: Trotz Entlassung in Winterthur und laufender Ermittlung konnte der Mann ein Jahr später eine neue Stelle in Bern antreten.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/kitas-in-be-und-zh-betroffen-kita-betreuer-vor-gericht-schwere-und-wiederholte-uebergriffe"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/kindesmissbrauch-kita-betreuer-in-bern-und-winterthur-angeklagt-192939046389"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-on-ceo-wechsel",
-              "slug": "on-ceo-wechsel",
-              "title": "Sportmarke On: CEO Hoffmann tritt zurück – Mitgründer übernehmen",
-              "date": "2026-03-25",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "👟",
-              "edition": "midday",
-              "image": "https://image.20min.ch/2026/03/25/2c8f700e-0ee5-4bd0-8476-a85f3a2da736.jpg",
-              "kurz": "On-CEO Martin Hoffmann tritt nach 13 Jahren zurück. Die Mitgründer David Allemann und Caspar Coppetti übernehmen ab Mai die operative Führung als Co-CEOs.",
-              "summary": "Der Zürcher Sportartikelhersteller On vollzieht einen Führungswechsel: CEO Martin Hoffmann verlässt das Unternehmen nach 13 Jahren. Ab Mai 2026 übernehmen die beiden Mitgründer David Allemann und Caspar Coppetti gemeinsam die operative Leitung, bleiben aber auch Co-Präsidenten des Verwaltungsrats. Mit der Neuorganisation soll die globale Expansion des Unternehmens vorangetrieben werden, das 2025 erstmals über drei Milliarden Franken Umsatz erzielte.",
-              "gegenstimme": "Die Rückkehr von Gründern in die operative Führung birgt Risiken: Gründerpersönlichkeiten sind nicht immer optimal für die Führung eines börsenkotierten Grosskonzerns geeignet. Zudem übernehmen Allemann und Coppetti nun sowohl die Verwaltungsrats-Präsidien als auch die CEO-Funktionen – eine Doppelrolle, die Corporate-Governance-Experten skeptisch beurteilen.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/on-ceo-martin-hoffmann-tritt-nach-13-jahren-zurueck-zwei-mitgruender-uebernehmen-die-operative-leitung-der-firma-ld.1930939"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/martin-hoffmann-on-ceo-geht-nach-13-jahren-gruender-uebernehmen-103533718"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-solaris-stellenabbau-20-prozent",
-              "slug": "solaris-stellenabbau-20-prozent",
-              "title": "Fintech Solaris entlässt 20 Prozent der Belegschaft",
-              "date": "2026-03-25",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "🏦",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/8ecc7f1b-8ba9-4fd2-8887-260ec0fea626_w520_r2.08_fpx35_fpy56.jpg",
-              "kurz": "Das Berliner Banking-as-a-Service-Fintech Solaris baut rund 80 Stellen ab und setzt künftig auf KI-gesteuerte Bankprozesse.",
-              "summary": "Solaris, eine der bekanntesten deutschen Banking-as-a-Service-Plattformen, entlässt 20 Prozent seiner rund 400 Mitarbeitenden. Der Stellenabbau ist Teil einer tiefgreifenden Neuausrichtung unter dem seit Jahresbeginn amtierenden CEO Steffen Jentsch. Kernprozesse sollen künftig weitgehend durch Künstliche Intelligenz gesteuert werden. Das Unternehmen peilt für 2027 den Break-even an und erwartet ab 2028 steigende Profitabilität.",
-              "gegenstimme": "Kritisch zu hinterfragen ist, ob der aggressive KI-Einsatz als Legitimation für Massenentlassungen taugt – oder ob fundamentale Geschäftsmodellprobleme damit überdeckt werden. Solaris wurde einst mit 1,6 Milliarden Euro bewertet; heute liegt der Unternehmenswert unter 100 Millionen Euro. Diese Entwertung geht auf strukturelle Schwächen zurück, die auch KI-Automatisierung allein nicht löst.",
-              "sources": [
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/solaris-fintech-entlaesst-20-prozent-der-mitarbeiter/100211281.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-anthropic-pentagon-klage",
-              "slug": "anthropic-pentagon-klage",
-              "title": "Anthropic klagt gegen Pentagon: Streit um KI-Verbot im Militär",
-              "date": "2026-03-25",
-              "time": "12:15",
-              "category": "tech",
-              "icon": "⚖️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/7fb09890-6031-4022-9788-cbb2d40b5e85_w520_r2.08_fpx37.5_fpy49.98.jpg",
-              "kurz": "Anthropic klagt gegen das US-Verteidigungsministerium, das den KI-Hersteller als Lieferkettenrisiko eingestuft und alle Behörden angewiesen hat, Claude zu meiden.",
-              "summary": "Anthropic hat beim US-Bezirksgericht in Kalifornien Klage gegen das Verteidigungsministerium eingereicht. Hintergrund ist die offizielle Einstufung des Unternehmens als Lieferkettenrisiko – eine Massnahme, die typischerweise ausländischen Firmen mit Sicherheitsrisiken vorbehalten ist. Die Trump-Regierung soll alle Behörden angewiesen haben, Anthropics Dienste innerhalb von sechs Monaten einzustellen. Anthropic argumentiert, die Massnahme verletze Verfassungsrechte und sei eine Vergeltung für das Festhalten an KI-Sicherheitsgrundsätzen.",
-              "gegenstimme": "Das Pentagon und die Trump-Regierung haben öffentlich keine detaillierte Begründung für die Einstufung geliefert. Regierungsnahe Stimmen argumentieren, dass nationale Sicherheitserwägungen durchaus Einschränkungen bei KI-Zulieferern rechtfertigen können – auch bei US-amerikanischen Unternehmen. Die rechtliche Frage, ob ein Unternehmen ein verfassungsrechtliches Recht auf Regierungsaufträge hat, ist juristisch offen.",
-              "sources": [
-                {
-                  "name": "The Verge",
-                  "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit"
-                },
-                {
-                  "name": "Ars Technica",
-                  "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-el-nino-aufbaut-2026",
-              "slug": "el-nino-aufbaut-2026",
-              "title": "El Niño baut sich auf – Forscher warnen vor Wetterchaos 2026",
-              "date": "2026-03-25",
-              "time": "12:15",
-              "category": "tech",
-              "icon": "🌡️",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/6C0vNNz_4D1AeD3ncP7IXY.jpg",
-              "kurz": "Im Pazifik entwickelt sich ein potenziell starker El Niño. Klimaforscher rechnen mit Rekordtemperaturen und Extremwetterereignissen bis Ende 2026.",
-              "summary": "Die bisherige La-Niña-Phase im Pazifik löst sich schneller als erwartet auf. Klimamodelle von Forschern der University of California, Berkeley, weisen auf einen möglichen Super-El-Niño bis Ende 2026 hin, vergleichbar mit dem extremen Ereignis von 2015/16. Kombiniert mit dem menschgemachten Klimawandel könnte 2027 zum heissesten Jahr seit Beginn der Aufzeichnungen werden. Betroffen wären vor allem Südamerika, Südostasien, Australien und Ostafrika.",
-              "gegenstimme": "El-Niño-Vorhersagen sind notorisch unsicher, besonders mehr als sechs Monate im Voraus. Klimaforscher warnen selbst vor übertriebener Gewissheit: Ob sich tatsächlich ein Super-El-Niño entwickelt, hängt von zahlreichen atmosphärischen Faktoren ab, die sich rasch ändern können. Frühzeitige Alarme können zudem zu Gewöhnung und schliesslich zu weniger Aufmerksamkeit führen, wenn Vorhersagen nicht eintreffen.",
-              "sources": [
-                {
-                  "name": "Focus.de",
-                  "url": "https://www.focus.de/earth/forscher-warnen-fuer-2026-vor-dem-super-el-nino_f83680b9-fd66-4d7a-871d-a1b13d069ce8.html"
-                },
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/el-nino-baut-sich-auf-experten-erwarten-2026-rekordwaerme-196784843380"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-03-25-iran-ceasefire-ablehnung",
-              "slug": "iran-ceasefire-ablehnung",
-              "title": "Iran lehnt US-Waffenstillstandsplan ab – stellt fünf Bedingungen",
-              "date": "2026-03-25",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/944b85c6-7737-4738-87da-9c4031f5cf25_w520_r2.08_fpx51_fpy56.jpg",
-              "kurz": "Teheran bezeichnet den 15-Punkte-US-Plan als «übermässig» und lehnt ihn ab. Iran stellt eigene Bedingungen für ein Kriegsende.",
-              "summary": "Iran hat den von den USA vorgelegten 15-Punkte-Waffenstillstandsplan formell abgelehnt und als «übermässig und unzumutbar» bezeichnet. Teheran stellt eigene Bedingungen, darunter ein vollständiges Kriegsende auf allen Fronten und Reparationszahlungen. Als möglicher Verhandlungspartner der USA gilt der Hardliner Mohammad Bagher Ghalibaf, dessen tatsächliche Vollmachten unklar sind. Gleichzeitig bestätigte das US-Repräsentantenhaus, dass die Operation «Epic Fury» sich dem Ende nähere.",
-              "gegenstimme": "Iranische Offizielle weisen darauf hin, dass der Plan einseitig US-Interessen bedient und Iran zweimal während laufender Verhandlungen angegriffen wurde – was das Vertrauen in US-Diplomatie fundamental erschüttert hat. Teheran besteht auf einem vollständigen Kriegsende, nicht bloss einem Waffenstillstand.",
-              "sources": [
-                {
-                  "name": "BBC News Live",
-                  "url": "https://www.bbc.com/news/live/cn8dldl0jx9t"
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-teheran-will-laut-abbas-araghchi-keine-verhandlungen-mit-den-usa-a-61992055-24e6-44f3-b39c-e65d3e25099e"
                 },
                 {
                   "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/25/iran-gives-negative-response-to-us-ceasefire-plan-amid-push-for-talks"
+                  "url": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-lebanon-hezbollah"
                 },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-wer-ist-der-angebliche-verhandlungspartner-der-usa-mohammad-bagher-ghalibaf-a-6ea202f2-10eb-4a90-9d09-98d32e253e0e"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-ukraine-drohnen-estland-lettland",
-              "slug": "ukraine-drohnen-estland-lettland",
-              "title": "Ukrainische Drohnen verirren sich nach Estland und Lettland",
-              "date": "2026-03-25",
-              "time": "18:00",
-              "category": "international",
-              "icon": "⚔️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/c43cc70f-c320-4b58-8c71-c11a958ef5de_w520_r2.08_fpx37.5_fpy50.jpg",
-              "kurz": "Zwei ukrainische Militärdrohnen sind in den Luftraum von NATO-Mitgliedern Estland und Lettland eingedrungen. Eine traf einen Kraftwerksschornstein.",
-              "summary": "Zwei ukrainische Militärdrohnen sind vom Kurs abgekommen und in das Territorium der NATO-Staaten Estland und Lettland eingedrungen. Eine traf den Schornstein des Kraftwerks Auvere in Estland, die andere explodierte in der Region Kraslava in Lettland. Beide Länder bestätigten, dass es sich um ukrainische Drohnen handelte, und machten Russlands Krieg für den Vorfall verantwortlich. Bereits am Montag war eine ukrainische Drohne in Litauen abgestürzt – damit waren innerhalb von 48 Stunden alle drei baltischen Staaten betroffen.",
-              "gegenstimme": "NATO-Staaten müssen ungeachtet politischer Solidarität mit der Ukraine klare Rechenschaft von Kiew fordern. Unkontrollierte Drohnen in Bündnisgebiet stellen ein ernstes Sicherheitsrisiko dar und zeigen die Grenzen der ukrainischen Drohnensteuerung – insbesondere wenn GPS-Störsysteme im Einsatz sind.",
-              "sources": [
                 {
                   "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c1eql309n12o"
+                  "url": "https://www.bbc.com/news/live/cre0vl84qy9t"
                 },
                 {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/ukraine-krieg-drohnen-in-estland-und-lettland-abgestuerzt-kraftwerk-getroffen-a-3ee11042-03e5-41af-bc06-78363ac6ab13"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292"
                 }
               ]
             },
             {
-              "id": "2026-03-25-ungarn-gas-ukraine-stopp",
-              "slug": "ungarn-gas-ukraine-stopp",
-              "title": "Ungarn stoppt Gaslieferungen an Ukraine",
-              "date": "2026-03-25",
-              "time": "18:00",
+              "id": "2026-03-26-merz-zuwanderung-gewalt-deutschland",
+              "slug": "merz-zuwanderung-gewalt-deutschland",
+              "title": "Merz löst Empörung aus: Zuwanderung als Ursache für 'explodierende Gewalt",
+              "date": "2026-03-26",
+              "time": "07:00",
               "category": "international",
-              "icon": "🔥",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/84f377e9-97a9-401d-919f-376d2b459db5_w520_r2.08_fpx40.69_fpy50.98.jpg",
-              "kurz": "Viktor Orbán kündigt die schrittweise Einstellung der Gaslieferungen an die Ukraine an. Budapest blockiert gleichzeitig EU-Hilfen für Kiew.",
-              "summary": "Der ungarische Ministerpräsident Viktor Orbán hat angekündigt, die Gaslieferungen an die Ukraine schrittweise einzustellen. Als Druckmittel dient der Streit um die Druschba-Pipeline, über die Ungarn russisches Öl bezieht. Ungarn ist laut einer Studie einer der wichtigsten Gaslieferanten der Ukraine; der Anteil stieg zwischen 2022 und 2025 von 2,5 auf 14 Prozent. Budapest blockiert zudem ein EU-Darlehen von 90 Milliarden Euro sowie ein neues Russland-Sanktionspaket.",
-              "gegenstimme": "Kiew sieht in Orbáns Schritt eine gezielte politische Eskalation, die Russland in die Hände spielt. Die Ukraine wirft Budapest vor, Reparaturen an der beschädigten Druschba-Pipeline absichtlich zu verzögern, um Druck aufzubauen – was Budapest bestreitet.",
+              "icon": "🇩🇪",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/eac5af10-a671-44a5-8d0f-ab56a660ccf4_w520_r2.08_fpx29.99_fpy46.96.jpg",
+              "kurz": "Bundeskanzler Friedrich Merz hat im Bundestag einen Zusammenhang zwischen Zuwanderung und steigender Gewaltkriminalität hergestellt – und damit heftige Reaktionen ausgelöst.",
+              "summary": "Bei einer Regierungsbefragung im Bundestag am 25. März 2026 nannte Bundeskanzler Friedrich Merz Zuwanderung als eine der Ursachen für 'explodierende Gewalt' in Deutschland. Die Äusserung fiel im Kontext einer Debatte über Gewalt gegen Frauen, ausgelöst durch den Fall Collien Fernandes. Opposition und Teile der Koalition reagierten mit Empörung und Zwischenrufen. Merz verwies auf Gesetzesvorhaben wie die elektronische Fussfessel und ein Gesetz zur IP-Adressen-Speicherung.",
+              "gegenstimme": "Kritikerinnen und Kritiker, darunter Grünen-Abgeordnete, warfen Merz mangelnde Empathie und fehlende Entschlossenheit im Kampf gegen digitale Gewalt vor. Robin Wagener (Grüne) sagte: 'Als Mann schäme ich mich dafür, wie wenig Empathie und klare Entschlossenheit Sie angesichts der krassen, sexualisierten Gewalt zum Ausdruck bringen.' Die Linke kritisierte, Merz lenke von den eigentlichen Ursachen von Gewalt ab. Expertinnen und Experten betonen, dass Gewalt ein gesamtgesellschaftliches Problem sei, das nicht auf eine Bevölkerungsgruppe reduziert werden dürfe.",
               "sources": [
                 {
                   "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/ungarn-will-gaslieferungen-an-ukraine-schrittweise-einstellen-a-99fc1769-2f00-4175-b9cd-19cf8177a245"
+                  "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-zuwanderung-als-eine-ursache-fuer-explodierende-gewalt-a-a7c79eeb-6c1e-4c71-acd2-a34295683b91"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/inland/merz-zuwanderung-frauen-100.html"
+                },
+                {
+                  "name": "RTL News",
+                  "url": "https://www.rtl.de/news/friedrich-merz-macht-zuwanderung-fuer-gewalt-explosion-verantwortlich-id30511621.html"
                 }
               ]
             },
             {
-              "id": "2026-03-25-schweiz-f35-vertrag-anpassen",
-              "slug": "schweiz-f35-vertrag-anpassen",
-              "title": "Schweiz muss F-35-Vertrag mit USA anpassen – weniger Jets, mehr Risiken",
-              "date": "2026-03-25",
-              "time": "18:00",
+              "id": "2026-03-26-social-media-sucht-urteil-meta-youtube",
+              "slug": "social-media-sucht-urteil-meta-youtube",
+              "title": "Wegweisendes Urteil: Meta und YouTube für Social-Media-Sucht haftbar",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://i.guim.co.uk/img/media/e6a50b13b9f77b7e5b9d5fcf17ee3c4b4b62a74f/0_0_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=abc",
+              "kurz": "Eine Jury in Los Angeles hat Meta und YouTube erstmals für suchtförderndes Produktdesign haftbar erklärt. Die Klägerin erhält 6 Millionen Dollar Schadenersatz – das Urteil könnte hunderte ähnlicher Klagen beeinflussen.",
+              "summary": "Ein Geschworenengericht in Los Angeles hat Meta (Instagram) und Google (YouTube) für schuldig befunden, wissentlich suchtfördernde Plattformen entwickelt und eine junge Frau dadurch nachhaltig geschädigt zu haben. Die Jury sprach der Klägerin – bekannt als Kaley – 3 Millionen Dollar Schadenersatz und 3 Millionen Dollar Strafschadenersatz zu. Meta trägt 70%, Google 30% der Kosten. Es ist das erste derartige Urteil in den USA überhaupt und Teil einer konsolidierten Klagewelle mit über 1'600 Klägern.",
+              "gegenstimme": "Meta und Google bestreiten beide Urteile und haben Berufung angekündigt. Meta argumentiert, psychische Gesundheit bei Jugendlichen sei ein komplexes Phänomen und könne nicht einer einzigen App zugeschrieben werden. Google betont, YouTube sei eine verantwortungsvoll entwickelte Streaming-Plattform und kein soziales Netzwerk. Beide Unternehmen weisen auf ihre Altersrichtlinien hin. Kritiker des Urteils warnen, es könnte zu einer Klagewelle führen, die Innovationen im Technologiesektor hemmt.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/media/2026/mar/25/jury-verdict-us-first-social-media-addiction-trial-meta-youtube"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c747x7gz249o"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/netzwelt/facebook-google-meta-und-youtube-verlieren-prozess-um-suchtpotenzial-a-f637ab41-4f12-4580-8261-1f1d85e6e62c"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-ukraine-trump-sicherheitsgarantien-donbass",
+              "slug": "ukraine-trump-sicherheitsgarantien-donbass",
+              "title": "Update Ukraine: Trump verlangt Donbass-Rückzug als Preis für US-Sicherheitsgarantien",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/90da2784-469d-4f89-9b1c-b68df32c4802_w520_r2.08_fpx64_fpy50.jpg",
+              "kurz": "Laut Selenskyj knüpfen die USA ihre Sicherheitsgarantien für die Ukraine an die Aufgabe des gesamten Donbass. Trump will rasch Frieden – auch weil er sich auf den Iran-Krieg konzentriert.",
+              "summary": "Der ukrainische Präsident Wolodymyr Selenskyj hat Reuters gegenüber erklärt, dass Washington einen vollständigen ukrainischen Rückzug aus dem Donbass als Bedingung für US-Sicherheitsgarantien fordere. Trumps Drang zur schnellen Einigung erkläre sich auch dadurch, dass er sich auf den eskalierenden Konflikt mit Iran konzentrieren wolle. Die Ukraine steht damit vor der Wahl zwischen territorialen Opfern und dem Risiko, ohne externe Sicherheitsgarantien dazustehen. Russland hat sich zu den gemeldeten US-Forderungen bislang nicht geäussert.",
+              "gegenstimme": "Russland hat offiziell keine Stellungnahme zu den gemeldeten US-Forderungen abgegeben. Aus ukrainischer Sicht ist ein vollständiger Donbass-Rückzug politisch kaum vermittelbar – und würde die Grundlage für weitere territoriale Ambitionen Russlands schaffen, warnen Kritiker. Europäische Partner haben bislang keine Bereitschaft signalisiert, die US-Position zu unterstützen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-donald-trump-knuepft-sicherheitsgarantien-laut-wolodymyr-selenskyj-an-rueckzug-aus-dem-donbass-a-4004528c-8afa-441b-9ea9-464a0a0c597b"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/26/iran-war-live-updates-trump-deal-us-military-strikes-israel-leben"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-femizide-schweiz-rekord-2026",
+              "slug": "femizide-schweiz-rekord-2026",
+              "title": "Rekord bei Femiziden in der Schweiz: Was die Daten über die Täter verraten",
+              "date": "2026-03-26",
+              "time": "07:00",
               "category": "schweiz",
-              "icon": "✈️",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/0J7LKZWB4-xBhLJI4XYV0n.jpg",
-              "kurz": "Die Schweiz kauft statt 36 nur noch 30 F-35-Kampfjets. Der Bundesrat beantragt 394 Millionen Franken Zusatzkredit für Teuerungskosten.",
-              "summary": "Der Schweizer Bundesrat hat bestätigt, dass mit dem vom Volk bewilligten Finanzrahmen nicht mehr alle 36 F-35-Kampfjets beschafft werden können. Aktuell plant das Verteidigungsdepartement mit 30 Flugzeugen. Für die verbleibenden Jets wird das Parlament gebeten, im Rahmen der Armeebotschaft 2026 einen Zusatzkredit von 394 Millionen Franken zu genehmigen. Experten warnen, dass für eine vollwertige Luftverteidigung 55 bis 70 moderne Kampfflugzeuge nötig wären.",
-              "gegenstimme": "Kritiker aus der Linken sehen in der Reduktion ein Argument gegen das gesamte Beschaffungsprojekt und fordern eine Neubeurteilung. Mitte-Vertreter hingegen betonen, der Bundesrat halte sich korrekt an den Volkswillen. Unklar bleibt, ob 30 Jets für die Landesverteidigung ausreichen – Experten bezweifeln dies.",
+              "icon": "🔴",
+              "edition": "morning",
+              "image": "",
+              "kurz": "Die Schweiz verzeichnet 2025 einen historischen Höchststand bei Femiziden. 25 Frauen wurden getötet – rund die Hälfte aller Tötungsdelikte. Täter sind häufig Partner oder Ex-Partner im mittleren bis höheren Alter.",
+              "summary": "Die Polizeiliche Kriminalitätsstatistik 2025 meldet einen Rekord: Noch nie wurden seit Beginn vergleichbarer Erhebungen so viele Frauen und Mädchen in der Schweiz getötet. 25 Femizide entsprechen rund der Hälfte aller Tötungsdelikte. Zwei Drittel davon wurden von aktuellen oder ehemaligen Partnern begangen. Im europäischen Vergleich zählt die Schweiz damit zu den Ländern mit hohen Raten. Die Täterprofile zeigen: ältere Männer zwischen 40 und 70 Jahren, häufig mit Suchtproblemen, psychischen Erkrankungen oder finanziellen Schwierigkeiten.",
+              "gegenstimme": "Das Bundesamt für Statistik betont die Grenzen der Daten: Herkunftsländer, Religionszugehörigkeit oder sozioökonomische Hintergründe werden aus Datenschutzgründen nicht systematisch erhoben. Kritiker dieser Einschränkung fordern mehr Transparenz, um gezielte Präventionsmassnahmen entwickeln zu können. Andererseits warnen Fachleute vor voreiligen Schlüssen aus Herkunftsstatistiken, die ohne gesellschaftlichen Kontext (Isolation, Abhängigkeit, patriarchale Strukturen) irreführend sein können.",
               "sources": [
                 {
-                  "name": "SWI swissinfo.ch",
-                  "url": "https://www.swissinfo.ch/ger/bundesrat-plant-mit-weniger-f-35-kampfjets/91051401"
-                },
-                {
-                  "name": "Flugrevue",
-                  "url": "https://www.flugrevue.de/militaer/schweiz-kauft-offiziell-weniger-f-35-verzicht-auf-sechs-us-jets/"
+                  "name": "NZZ – Femizide Schweiz 2025",
+                  "url": "https://www.nzz.ch/schweiz/rekord-bei-femiziden-in-der-schweiz-was-wir-ueber-die-taeter-wissen-und-was-nicht-ld.1914090"
                 }
               ]
             },
             {
-              "id": "2026-03-25-elbit-anschlag-bern",
-              "slug": "elbit-anschlag-bern",
-              "title": "Anschlag auf israelische Rüstungsfirma Elbit Systems in Bern",
-              "date": "2026-03-25",
-              "time": "18:00",
+              "id": "2026-03-26-tariq-ramadan-18-jahre-haft",
+              "slug": "tariq-ramadan-18-jahre-haft",
+              "title": "Tariq Ramadan: Pariser Gericht verurteilt Islamwissenschaftler zu 18 Jahren Haft",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/1280w/4d5f84.jpg",
+              "kurz": "Das Pariser Strafgericht hat den Schweizer Islamgelehrten Tariq Ramadan in Abwesenheit wegen Vergewaltigung von drei Frauen zu 18 Jahren Haft verurteilt. Das Urteil folgt einem jahrelangen juristischen Verfahren in Frankreich und der Schweiz.",
+              "summary": "Ein Pariser Gericht hat Tariq Ramadan am 25. März 2026 in Abwesenheit wegen der Vergewaltigung von drei Frauen zu 18 Jahren Freiheitsstrafe verurteilt. Die Taten sollen sich zwischen 2009 und 2016 ereignet haben. Ramadan erschien nicht zum Prozess und berief sich auf eine MS-Erkrankung – zwei unabhängige Gutachter hielten ihn dennoch für verhandlungsfähig. Zusätzlich zu der Haftstrafe wurde ein lebenslangeres Einreiseverbot für Frankreich sowie ein achtjähriges Kontaktverbot zu den Opfern verhängt.",
+              "gegenstimme": "Ramadans Anwälte bestreiten die Vorwürfe weiterhin und machten seinen Gesundheitszustand geltend. Kritiker des Verfahrens verweisen auf den Ausschluss der Öffentlichkeit sowie das Abwesenheitsurteil als prozedurale Schwächen. Unterstützer Ramadans sehen in den Anklagen politisch motivierte Versuche, einen einflussreichen muslimischen Intellektuellen zu diskreditieren.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/schweizer-islamwissenschaftler-pariser-gericht-verurteilt-tariq-ramadan-wegen-vergewaltigung"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/panorama/tariq-ramadan-wegen-vergewaltigung-zu-18-jahren-haft-verurteilt-ld.1930979"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/prozess-in-paris-vergewaltigungsvorwuerfe-tariq-ramadan-drohen-18-jahre-haft-103533092"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-bern-regional-morgen",
+              "slug": "bern-regional-morgen",
+              "title": "Bern aktuell: Gösgen-Ausfall kostet EWB, Frost bedroht Obstblüten, Velostation-Überwachung",
+              "date": "2026-03-26",
+              "time": "07:00",
               "category": "regional",
-              "icon": "💥",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/DLuhNO88aAV8xit5VPlZja.jpg",
-              "kurz": "In Bern wurde das Büro von Elbit Systems Switzerland mit Hammerschlägen beschädigt. Sachschaden: mehrere Zehntausend Franken. Polizei ermittelt.",
-              "summary": "Der Firmensitz des israelischen Rüstungskonzerns Elbit Systems in Bern wurde am vergangenen Freitagabend von einer unbekannten Person angegriffen. Die Täterin verschaffte sich Zugang zu den Büroräumlichkeiten, zerstörte die Eingangstür mit Hammerschlägen und beschädigte Inventar. Der Sachschaden beläuft sich auf mehrere Zehntausend Franken. Im Internet kursiert ein Video, das von Aktivistinnen und Aktivisten aufgeschaltet wurde und die Tat zeigen soll.",
-              "gegenstimme": "Elbit Systems Switzerland zeigte sich besorgt über die Gewaltbereitschaft, erklärte jedoch, sich davon nicht einschüchtern zu lassen, und bekräftigte das Bekenntnis zur Präsenz in der Schweiz. Pro-palästinensische Gruppen sehen in solchen Aktionen einen Protest gegen die Beteiligung von Elbit an Rüstungsgeschäften mit Israel.",
-              "sources": [
-                {
-                  "name": "Watson.ch",
-                  "url": "https://www.watson.ch/schweiz/polizeirapport/783434096-unbekannte-beschaedigt-buero-von-israelischer-ruestungsfirma-in-bern"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/bern-anschlag-auf-israelische-ruestungsfirma-elbit-689910932296"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-tesla-betriebsrat-ig-metall-klage",
-              "slug": "tesla-betriebsrat-ig-metall-klage",
-              "title": "IG Metall ficht Tesla-Betriebsratswahl in Grünheide an",
-              "date": "2026-03-25",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "🏭",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/3dd9b074-52ff-4278-aeb4-c19650a3bdd9_w520_r2.08_fpx37.93_fpy46.98.jpg",
-              "kurz": "Die IG Metall fechtet die Tesla-Betriebsratswahl in Grünheide gerichtlich an – wegen Drohungen und Einschüchterung durch das Management.",
-              "summary": "Die IG Metall hat beim Arbeitsgericht Frankfurt (Oder) einen Beschlussantrag zur Feststellung der Unwirksamkeit der Betriebsratswahl im Tesla-Werk Grünheide eingereicht. Die Gewerkschaft wirft Tesla vor, den Wahlkampf mit Drohungen und Einschüchterungsversuchen beeinflusst zu haben. Auch Konzernchef Elon Musk schaltete sich per Videobotschaft ein und warnte die Belegschaft vor den Folgen einer IG-Metall-Mehrheit. Bei der Wahl Anfang März verlor die Gewerkschaft Stimmanteile und landete nur auf Platz zwei.",
-              "gegenstimme": "Tesla und das Werksmanagement bestreiten unzulässige Beeinflussung. Werksleiter André Thierig betonte, er äussere lediglich seine persönliche Meinung zur IG Metall, zu der er als ehemaliges Mitglied ein Recht habe. Die siegreiche Liste 'Giga United' sieht sich als legitime Vertretung der Belegschaft.",
-              "sources": [
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/unternehmen/industrie/gewerkschaft-ig-metall-will-tesla-betriebsratswahl-gerichtlich-anfechten/100211766.html"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-ig-metall-ficht-betriebsratswahl-in-gruenheide-an-a-66f4bbe0-bf6e-4bde-b337-69369f08c405"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-25-ki-songs-betrug-8-millionen",
-              "slug": "ki-songs-betrug-8-millionen",
-              "title": "KI-Songs-Betrug: Fake-Musik, Fake-Hörer – 8 Millionen Dollar kassiert",
-              "date": "2026-03-25",
-              "time": "18:00",
-              "category": "tech",
-              "icon": "🎵",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/4Cd_No39q2i9IiZQFJEB--.jpg",
-              "kurz": "Ein US-Amerikaner gestand, Streaming-Plattformen mit KI-Songs und Bot-Netzwerken um über 8 Millionen Dollar betrogen zu haben.",
-              "summary": "Michael Smith, ein 54-jähriger Musiker aus North Carolina, hat vor einem US-Bundesgericht gestanden, Streaming-Dienste wie Spotify, Apple Music und Amazon Music systematisch betrogen zu haben. Er erstellte Hunderttausende KI-generierter Songs und liess diese von über tausend Bot-Accounts rund um die Uhr abspielen. Dadurch ergab sich ein Schaden von mehr als acht Millionen Dollar, der echten Künstlerinnen und Künstlern zugestanden hätte. Das Strafmass wird im Sommer 2026 verkündet; Smith drohen bis zu fünf Jahre Haft.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass Streaming-Plattformen trotz milliardenteurer Infrastruktur über Jahre hinweg nicht in der Lage waren, diesen Betrug zu erkennen. Die Entdeckungsrate solcher Manipulationen gilt als nach wie vor unzureichend. Echte Künstler verlieren durch solche Systeme direkt Lizenzeinnahmen.",
+              "icon": "🐻",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/9-AQPJAqqraAoFaYR1rrm-.jpg",
+              "kurz": "Der Ausfall des AKW Gösgen kostet EWB rund 40 Millionen Franken – und könnte auf atomstromfreie Kleinkunden überwälzt werden. Zudem bangt das Seeland vor Frostnächten, und Bern plant die Rückkehr der Videoüberwachung in Velostationen.",
+              "summary": "Das Elektrizitätswerk der Stadt Bern (EWB) muss nach dem langen Ausfall des AKW Gösgen rund 40 Millionen Franken zusätzliche Kosten tragen und schliesst nicht aus, diese auch auf Kleinkunden umzulegen – obwohl diese ausschliesslich Ökostrom beziehen. Im Seeland warnen Obstbauern vor drohenden Frostnächten, die die früh blühenden Obstbäume gefährden könnten. Die Stadt Bern hat beim Stadtrat beantragt, den Einsatz von Videokameras in Velostationen zu bewilligen – nach einer dreijährigen Pause ohne Genehmigung.",
+              "gegenstimme": "Das Elektrizitätswerk Zürich (EWZ) zeigt, dass es auch anders geht: Es überwälzt die Gösgen-Kosten nicht auf Kleinkunden, weil diese seit 2018 ausschliesslich mit erneuerbaren Energien versorgt werden. Zudem hat das Berner Stadtparlament bereits einen Vorstoss eingereicht, der fordert, dass keine Subventionierung von Graustrom-Grossverbrauchern durch private Haushalte stattfinden darf. Bei der Videoüberwachung in Velostationen gibt es Bedenken hinsichtlich des Datenschutzes und eines Eingriffs in die Privatsphäre.",
               "sources": [
                 {
                   "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/streaming-betrug-fbi-stoppt-millionenschwindel-mit-ki-songs-441533097931"
+                  "url": "https://www.bernerzeitung.ch/goesgen-ausfall-muss-bern-fuer-akw-kosten-zahlen-269347922564"
                 },
                 {
-                  "name": "WinFuture",
-                  "url": "https://winfuture.de/news,157659.html"
+                  "name": "Der Bund – Frost Seeland",
+                  "url": "https://www.derbund.ch/frostnacht-obstbauern-im-seeland-bangen-um-die-ernte-839510386615"
                 },
                 {
-                  "name": "t3n",
-                  "url": "https://t3n.de/news/ki-songs-milliarden-streams-millionenbetrug-angeklagter-gesteht-ausgekluegeltes-bot-netzwerk-1735604/"
+                  "name": "Der Bund – Velostation",
+                  "url": "https://www.derbund.ch/bern-comeback-der-videoueberwachung-in-velostationen-425349665743"
+                },
+                {
+                  "name": "Infosperber",
+                  "url": "https://www.infosperber.ch/umwelt/naturstrombezueger-sollen-fuer-den-akw-ausfall-bezahlen/"
+                },
+                {
+                  "name": "Stadt Bern Medienmitteilung",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/bewilligung-von-videokameras-in-velostationen-beantragt"
+                },
+                {
+                  "name": "Bauernzeitung",
+                  "url": "https://www.bauernzeitung.ch/artikel/pflanzen/spaetfroeste-wenn-wegen-minusgraden-der-ganze-jahresertrag-auf-dem-spiel-steht-0-554943"
                 }
               ]
             },
             {
-              "id": "2026-03-25-manus-ki-meta-china-reiseverbot",
-              "slug": "manus-ki-meta-china-reiseverbot",
-              "title": "Meta kauft KI-Agenten Manus – Chinas Behörden sperren Gründer ein",
-              "date": "2026-03-25",
-              "time": "18:00",
-              "category": "tech",
-              "icon": "🤖",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/7fb09890-6031-4022-9788-cbb2d40b5e85_w520_r2.08_fpx37.5_fpy49.98.jpg",
-              "kurz": "Meta kauft den chinesischen KI-Agenten Manus für zwei Milliarden Dollar. Peking verhängt Ausreisesperren über die beiden Gründer.",
-              "summary": "Meta hat das chinesische KI-Start-up Manus für rund zwei Milliarden Dollar übernommen. Unmittelbar nach Bekanntwerden des Deals verhängte Chinas staatliche Entwicklungs- und Reformkommission (NDRC) Ausreisesperren über die Gründer Xiao Hong und Ji Yichao. Die Behörde bestellte die beiden Gründer nach Peking ein. Der Fall zeigt exemplarisch den chinesisch-amerikanischen Technologiekonflikt: Peking will den Abfluss kritischer KI-Expertise in die USA verhindern.",
-              "gegenstimme": "Aus chinesischer Sicht handelt es sich um den Schutz strategisch relevanter Technologie vor ausländischem Zugriff. Peking klassifiziert führende KI-Systeme zunehmend als sicherheitsrelevant – der Verkauf an einen US-Konzern ohne staatliche Genehmigung widerspricht dieser Doktrin fundamental.",
+              "id": "2026-03-26-basf-china-investition-milliarden",
+              "slug": "basf-china-investition-milliarden",
+              "title": "BASF eröffnet zweiten Verbundstandort in China – 8,7 Milliarden Euro Investition",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "🏭",
+              "edition": "morning",
+              "image": "",
+              "kurz": "BASF hat nach fast sechs Jahren Bauzeit seinen zweiten Verbundstandort in China eröffnet. Mit 8,7 Milliarden Euro ist Zhanjiang die bisher grösste Einzelinvestition der Unternehmensgeschichte.",
+              "summary": "Der Chemiekonzern BASF hat in der südchinesischen Küstenstadt Zhanjiang seinen zweiten Verbundstandort in China eingeweiht. Mit einer Investition von 8,7 Milliarden Euro ist es die grösste Einzelinvestition der Firmengeschichte. BASF-Chef Markus Kamieth räumte ein, dass die Rentabilität in den ersten Jahren unter den ursprünglichen Erwartungen liegen werde, da der Markt derzeit überversorgt ist und die Margen auf historisch niedrigem Niveau liegen. Der Standort soll ausschliesslich für den chinesischen Markt produzieren und bezieht 100 Prozent Strom aus erneuerbaren Energien.",
+              "gegenstimme": "Kritiker, darunter Politiker verschiedener Parteien, sehen in der Investition eine gefährliche Abhängigkeit von einem autoritär geführten Staat. Angesichts chinesischer Machtansprüche auf Taiwan und wiederholter Vorwürfe von Menschenrechtsverletzungen fragen sie, ob ein Konzern dieser Grösse so tief in einen geopolitisch riskanten Markt gehen sollte. Zugleich kämpft BASF in Deutschland mit Stellenabbau und Werksschliessungen – was die Frage aufwirft, ob Investitionsmittel und Prioritäten richtig gesetzt sind.",
               "sources": [
                 {
                   "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/it-internet/nach-verkauf-an-meta-peking-hindert-manus-gruender-an-der-ausreise/100211586.html"
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/chemie-neues-werk-eroeffnet-basf-will-in-china-aufholen/100211930.html"
                 },
                 {
-                  "name": "Financial Times",
-                  "url": "https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a"
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/news/2026-03/25/basf-eroeffnet-neuen-verbundstandort-in-china"
+                },
+                {
+                  "name": "Deutsche Wirtschaftsnachrichten",
+                  "url": "https://deutsche-wirtschafts-nachrichten.de/719711/basf-in-china-mega-werk-in-zhanjiang-eroeffnet-wachstumschance-oder-riskante-wette"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-dubai-finanzplatz-iran-krieg-kapitalabfluss",
+              "slug": "dubai-finanzplatz-iran-krieg-kapitalabfluss",
+              "title": "Iran-Krieg erschüttert Dubais Finanzplatz: Milliarden fliessen ab",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "morning",
+              "image": "",
+              "kurz": "Drohnenangriffe auf die Vereinigten Arabischen Emirate haben Dubais Ruf als sicherer Finanzplatz erschüttert. Internationale Banken schliessen Filialen, Kapital fliesst ab.",
+              "summary": "Seit dem Ausbruch des Iran-Kriegs und den ersten iranischen Angriffen auf die Emirate herrscht im Dubai International Financial Centre ungewohnte Stille. Grosse internationale Banken wie Citi und HSBC haben ihre Büros vorübergehend geschlossen und Personal evakuiert. Ein Teil des abgeflossenen Kapitals dürfte laut Analysten nicht zurückkehren. Die Zentralbank der VAE hat ein Stabilisierungspaket für betroffene Banken verabschiedet, das Aktien von UAE-Banken kurzfristig stützte.",
+              "gegenstimme": "Vertreter der Emirate und lokale Wirtschaftsführer betonen die strukturelle Widerstandsfähigkeit des Finanzplatzes. Mohamed Alabbar, Gründer von Emaar Properties, sieht Dubai weiterhin als globales Vorzeigezentrum für Wohlstand und Stabilität. Die Zentralbank der VAE handelte schnell mit Liquiditätsmassnahmen, was als Zeichen staatlicher Handlungsfähigkeit gewertet wird. Historisch haben sich Golfregionen nach Krisen oft rasch erholt.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/nahost-finanzplatz-in-der-krise-stoppt-der-iran-krieg-dubais-aufstieg/100207124.html"
+                },
+                {
+                  "name": "Reuters",
+                  "url": "https://www.reuters.com/world/middle-east/uae-central-bank-launches-resilience-package-amid-iran-crisis-2026-03-17/"
+                },
+                {
+                  "name": "New York Times",
+                  "url": "https://www.nytimes.com/2026/03/11/world/middleeast/citi-standard-chartered-evacuation.html"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/03/15/iran-us-war-uae-target-aggression.html"
+                },
+                {
+                  "name": "Foreign Policy",
+                  "url": "https://foreignpolicy.com/2026/03/04/iran-war-dubai-saudi-qatar-global-economy-oil-shipping-trade/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-kerosin-preis-iran-krieg-flugverkehr",
+              "slug": "kerosin-preis-iran-krieg-flugverkehr",
+              "title": "Kerosinpreis +83%: Wie der Iran-Krieg das Fliegen verteuert",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d1e5/live/cn08x9lw0pzo.jpg",
+              "kurz": "Der Iran-Krieg hat den Kerosinpreis um 83 Prozent steigen lassen. US-Airlines sind besonders betroffen, weil sie kaum abgesichert sind. Die Swiss ist durch Hedging vorerst geschützt – doch langfristig droht eine strukturelle Verteuerung des Fliegens.",
+              "summary": "Seit Beginn der Kampfhandlungen im Iran ist der Kerosinpreis auf rund 1382 Dollar pro Tonne gestiegen – 83 Prozent mehr als noch im Februar. Airlines weltweit streichen Flüge, US-Carrier wie United Airlines reduzieren ihre Kapazitäten um 5 Prozent. Die Lufthansa-Gruppe inklusive Swiss ist dank frühzeitigem Hedging zunächst abgesichert: 77 Prozent des Jahresbedarfs wurden zu 846 Dollar pro Tonne gesichert. Experten sehen drei Szenarien: rasche Erholung, neue Normalität oder strukturelle Krise mit dauerhaft höheren Ticketpreisen.",
+              "gegenstimme": "Willie Walsh, Generaldirektor des Branchenverbands IATA, betont, dass europäische Airlines die Kapazitäten der Golfcarrier nicht ersetzen können – und rechnet mit einer schnellen Erholung, sobald der Konflikt endet. Ehemalige Airline-Manager wie James Hogan (Etihad) sehen das Modell der Golfhubs als widerstandsfähig: Die Branche habe SARS, Covid und Börsencrashs überstanden und sich jeweils erholt.",
+              "sources": [
+                {
+                  "name": "NZZ – Börsen und Iran-Krieg",
+                  "url": "https://www.nzz.ch/wirtschaft/maximale-unsicherheit-an-den-boersen-doch-der-iran-krieg-bringt-auch-gewinner-hervor-ld.1929741"
+                },
+                {
+                  "name": "20 Minuten – Kerosinpreise",
+                  "url": "https://www.20min.ch/story/aviatik-experte-steigende-kerosinpreise-wird-reisen-bald-unbezahlbar-103533955"
+                },
+                {
+                  "name": "BBC – Gulf aviation model",
+                  "url": "https://www.bbc.com/news/articles/cn08x9lw0pzo"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-schweiz-wirtschaft-schwaches-jahr-2026",
+              "slug": "schweiz-wirtschaft-schwaches-jahr-2026",
+              "title": "Schweizer Wirtschaft 2026: Ökonomen warnen vor schwachem Jahr",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "morning",
+              "image": "",
+              "kurz": "Bund und KOF rechnen 2026 nur noch mit einem Prozent Wirtschaftswachstum in der Schweiz – Iran-Krieg, Ölpreise und US-Zolldruck trüben die Aussichten.",
+              "summary": "Die Expertengruppe des Bundes hat ihre Wachstumsprognose für die Schweizer Wirtschaft auf ein Prozent gesenkt – gegenüber 1,1 Prozent im Dezember. Das KOF-Institut der ETH Zürich bestätigt diese Einschätzung, warnt jedoch: Bleibt der Ölpreis dauerhaft hoch, sinkt das Wachstum auf 0,7 Prozent. Als Hauptrisiken gelten der Iran-Krieg mit steigenden Energiepreisen, möglicher US-Zolldruck auf Pharmaunternehmen sowie eine schwache globale Investitionstätigkeit. In Deutschland sorgt die Gasspeicher-Befüllung für politische Spannungen – ein direkter Ausfluss der Energiekrise.",
+              "gegenstimme": "SRF-Wirtschaftsredaktor Jan Baumann hält fest, dass die Schweiz im Vergleich zum Ausland strukturelle Vorteile hat: Die Industrie ist weniger energieintensiv, der Dienstleistungssektor (Finanzen, IT, Tourismus) ist gewichtiger. Der starke Franken dämpft zudem die importierte Teuerung. Der private Konsum bleibt robust – gestützt durch tiefe Inflation und stabiles Lohnwachstum. Von einer Rezession ist die Rede nicht.",
+              "sources": [
+                {
+                  "name": "SWI swissinfo.ch",
+                  "url": "https://www.swissinfo.ch/ger/handelspolitik/schweiz-%c3%b6konomen-sagen-schwaches-wirtschaftsjahr-voraus/91119676"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/wirtschaft/gasspeicher-befuellung-wird-fuer-reiche-zum-problem/100208818.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-vw-werk-ruestung-iran-krieg",
+              "slug": "vw-werk-ruestung-iran-krieg",
+              "title": "Rüstungsboom rettet VW-Werk: Raketen statt Cabrios in Osnabrück",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "🏗️",
+              "edition": "morning",
+              "image": "",
+              "kurz": "Das VW-Werk Osnabrück mit 2300 Arbeitsplätzen sollte schliessen. Nun prüft Volkswagen eine Kooperation mit dem israelischen Rüstungskonzern Rafael, um dort Komponenten des Iron-Dome-Raketenabwehrsystems zu fertigen.",
+              "summary": "Dem VW-Werk in Osnabrück drohte die Schliessung, nachdem die Produktion des T-Roc Cabriolets Mitte 2025 auslaufen sollte. Laut einem Bericht der Financial Times verhandelt Volkswagen nun mit dem israelischen Rüstungsunternehmen Rafael Advanced Defense Systems über die Fertigung von Lastfahrzeugen, Abschussvorrichtungen und Generatoren für das Iron-Dome-Raketenabwehrsystem. Die Bundesregierung soll die Initiative aktiv unterstützt haben. Die Umrüstung soll innerhalb von 12 bis 18 Monaten und mit geringen Investitionen realisierbar sein.",
+              "gegenstimme": "Die Gewerkschaft IG Metall in Osnabrück wollte sich zu den Berichten nicht äussern und sprach von 'Spekulationen'. Kritiker sehen die Entwicklung als Symptom des gescheiterten Kerngeschäfts: VW flüchte in die Rüstung, weil das Autogeschäft erodiere, statt in konkurrenzfähige Elektrofahrzeuge zu investieren. Ethische Fragen stellen sich ebenfalls: Das Iron-Dome-System wurde im Gaza-Konflikt eingesetzt, und eine Beteiligung an dessen Fertigung wäre für viele Mitarbeitende ein Gewissenskonflikt. Laut VW soll die Teilnahme an der Produktion freiwillig sein.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/raketen-statt-cabrios-das-vw-werk-in-osnabrueck-steht-vor-der-schliessung-dank-der-aufruestung-winkt-nun-dessen-rettung-ld.1930918"
+                },
+                {
+                  "name": "NDR",
+                  "url": "https://www.ndr.de/nachrichten/niedersachsen/osnabrueck_emsland/produziert-vw-osnabrueck-kuenftig-teile-fuer-israels-raketenabwehrsystem,vw-1116.html"
+                },
+                {
+                  "name": "FAZ",
+                  "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-in-osnabrueck-raketenabwehr-statt-autos-accg-200668549.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-isar-aerospace-raketenstart-gescheitert",
+              "slug": "isar-aerospace-raketenstart-gescheitert",
+              "title": "Isar Aerospace: Zweiter Startversuch der Spectrum-Rakete scheitert",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "🚀",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/e9fc8270-27ac-4e09-8c1c-2e7074231cd1_w520_r2.08_fpx33.69_fpy54.99.jpg",
+              "kurz": "Das deutsche Raumfahrt-Start-up Isar Aerospace musste seinen zweiten Startversuch der Spectrum-Rakete in Norwegen abbrechen – ein Fischerboot in der Sicherheitszone soll die Ursache sein.",
+              "summary": "Am 25. März 2026 scheiterte der zweite Startversuch der Spectrum-Rakete von Isar Aerospace am Weltraumbahnhof Andøya in Norwegen. Trotz abgelaufenem Countdown hob die Rakete nicht ab. Als möglicher Auslöser gilt ein Fischerboot, das in die Sicherheitszone um die Startbasis eingedrungen war. Das 2018 gegründete Münchner Unternehmen plant in diesem Jahr weitere Startversuche und ist trotz fehlender Serienreife bereits mit Aufträgen bis 2028 im Wert von mehreren hundert Millionen Dollar ausgebucht.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass Isar Aerospace nun beim zweiten Anlauf scheitert, nachdem bereits der erste Start im Januar wegen eines defekten Ventils verschoben werden musste. Die Häufung von Rückschlägen nährt Zweifel, ob das Unternehmen seinen ambitionierten Zeitplan und die Erwartungen seiner Investoren und Kunden erfüllen kann. Zudem fragen manche Beobachter, ob die rasch wachsende militärische Nachfrage (60 % der Anfragen) die zivile Raumfahrtmission des Start-ups verändert.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/weltall/isar-aerospace-zweiter-testflug-von-deutscher-spectrum-rakete-abgebrochen-a-47cc50bd-5a89-4335-a950-73eb713c6f2e"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/news/2026-03/25/zweiter-testflug-der-isar-aerospace-rakete-abgebrochen"
+                },
+                {
+                  "name": "BusinessPortal Norwegen",
+                  "url": "https://businessportal-norwegen.com/2026/03/25/zweiter-raketenstart-von-isar-aerospace-auf-dem-norwegischen-weltraumbahnhof-andoya-abgebrochen/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-ki-chip-wettbewerb-nvidia-amd-meta",
+              "slug": "ki-chip-wettbewerb-nvidia-amd-meta",
+              "title": "Der KI-Chip-Krieg: AMD fordert Nvidia heraus, Meta und Amazon bauen eigene Chips",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "💾",
+              "edition": "morning",
+              "image": "",
+              "kurz": "AMD greift Nvidias KI-Dominanz mit MI350-Chips an, während Meta und Amazon eigene Siliziumlösungen entwickeln. Parallel dazu genehmigt China 400'000 Nvidia-H200-Chips.",
+              "summary": "Der KI-Chip-Markt befindet sich in einem tiefgreifenden Wandel: AMD hat mit seinen Instinct-MI350-GPUs eine strategische Partnerschaft mit Meta über 6 Gigawatt Rechenkapazität angekündigt. Meta entwickelt parallel eigene MTIA-Chips für Inferenzaufgaben, Amazon reduziert seine Nvidia-Abhängigkeit mit hauseigenen Annapurna-Prozessoren. China erhielt derweil die Genehmigung zur Einfuhr von rund 400'000 hochleistungsfähigen Nvidia-H200-Chips. Im Hintergrund drängt sich eine neue Erkenntnis auf: Das eigentliche Investitionspotenzial liegt womöglich nicht im Chip- sondern im Energiesektor.",
+              "gegenstimme": "Nvidia bleibt trotz wachsender Konkurrenz klar dominant: Frontier-Modelle und Trainingsclusters laufen nach wie vor überwiegend auf Nvidia-Blackwell-Systemen. Analysten warnen, dass AMD und Custom-Silicon-Lösungen bisher vor allem bei Inferenzaufgaben punkten, aber beim Training komplexer Modelle noch deutlich zurückliegen. Chinas Chipfreigabe ist zudem mit restriktiven Auflagen verbunden – Bestellungen wurden noch kaum in Aufträge umgewandelt.",
+              "sources": []
+            },
+            {
+              "id": "2026-03-26-uber-wayve-robotaxi-2026",
+              "slug": "uber-wayve-robotaxi-2026",
+              "title": "Robotaxi-Zeitalter naht: Uber und Wayve starten Pilotprojekt mit Elektro-Nissan",
+              "date": "2026-03-26",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "🚗",
+              "edition": "morning",
+              "image": "https://wayve.ai/wp-content/uploads/2026/03/wayve-nissan-uber-robotaxi.jpg",
+              "kurz": "Wayve, Uber und Nissan haben ein Abkommen unterzeichnet: Ende 2026 soll in Tokio ein Robotaxi-Pilotprojekt mit dem neuen Nissan Leaf und Wayves KI-System starten.",
+              "summary": "Am 12. März 2026 gaben Wayve, Uber und Nissan eine Zusammenarbeit für autonome Fahrzeuge bekannt. Ende 2026 soll in Tokio ein Pilotprojekt starten, bei dem der neue Nissan Leaf mit Wayves KI-Fahrsystem ausgestattet und über die Uber-App buchbar sein wird. Das britische KI-Startup Wayve hatte kurz zuvor eine Finanzierungsrunde von einer Milliarde Euro abgeschlossen, an der unter anderem Mercedes-Benz, Stellantis, Nvidia und Microsoft beteiligt sind. Das Tokio-Projekt ist Teil eines Plans, Robotaxis in über zehn Städten weltweit – darunter London – einzuführen.",
+              "gegenstimme": "Sicherheitsfragen rund um autonomes Fahren bleiben offen: Anfangs werden in Tokio ausgebildete Sicherheitsfahrer an Bord sein, was zeigt, dass echte Vollautonomie noch nicht erreicht ist. Kritiker weisen darauf hin, dass Tokio mit seinem dichten Verkehr, komplexen Strassennetzen und hohen Sicherheitsstandards eine der anspruchsvollsten Städte für autonome Systeme weltweit ist. Zudem hängt der Pilot von behördlichen Genehmigungen ab, die noch ausstehen. Konkurrenten wie Waymo (Google) sind in den USA bereits kommerziell aktiv – Europa und Asien hinken hinterher.",
+              "sources": [
+                {
+                  "name": "Wayve Pressemitteilung",
+                  "url": "https://wayve.ai/press/wayve-nissan-uber-robotaxi-collaboration/"
+                },
+                {
+                  "name": "Electrive",
+                  "url": "https://www.electrive.com/2026/03/12/nissan-uber-and-wayve-collaborate-on-robotaxis/"
+                },
+                {
+                  "name": "Uber Investor Relations",
+                  "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Wayve-Uber-and-Nissan-Announce-Collaboration-on-Robotaxis/default.aspx"
+                },
+                {
+                  "name": "Nissan Global News",
+                  "url": "https://global.nissannews.com/en/releases/wayve-and-nissan-to-exhibit-global-robotaxi-prototype-vehicle-at-nvidia-gtc-2026"
                 }
               ]
             }
