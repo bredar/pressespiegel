@@ -1,5 +1,5 @@
 {
-  "updated": "10:36 UTC",
+  "updated": "18:39 UTC",
   "days": [
     {
       "date": "2026-03-26",
@@ -592,6 +592,171 @@
                 {
                   "name": "BBC News",
                   "url": "https://www.bbc.com/news/articles/cgk0j71g417o"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-26-eu-parlament-abschiebezentren-ausserhalb",
+              "slug": "eu-parlament-abschiebezentren-ausserhalb",
+              "title": "EU-Parlament stimmt für Abschiebezentren ausserhalb der EU",
+              "date": "2026-03-26",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🇪🇺",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/03753756-dfe3-4895-90bf-be2db761b3e5_w520_r2.08_fpx61.34_fpy50.jpg",
+              "kurz": "Das EU-Parlament hat für die Einrichtung von Abschiebezentren ausserhalb der EU gestimmt – ein umstrittener Schritt in der europäischen Migrationspolitik.",
+              "summary": "Mit einer Mehrheit aus konservativen, rechten und teils liberalen Fraktionen – darunter CDU/CSU gemeinsam mit der AfD – hat das EU-Parlament für die Möglichkeit gestimmt, Abschiebezentren in Drittstaaten ausserhalb der EU zu errichten. Das Modell orientiert sich am Ruanda-Plan Grossbritanniens, der jedoch gescheitert war. Kritiker sehen fundamentale Verletzungen des Flüchtlingsrechts.",
+              "gegenstimme": "Menschenrechtsorganisationen, das UNHCR und linke Fraktionen warnen vor gravierenden Verstössen gegen internationales Flüchtlingsrecht und das Non-Refoulement-Prinzip. Unklar bleibt, welche Drittstaaten überhaupt bereit wären, solche Zentren zu beherbergen.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/eu-parlament-stimmt-fuer-abschiebezentren-in-laendern-ausserhalb-der-eu-a-f5119ac6-9105-4033-a619-e3c893eb3b28"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-nato-rekord-verteidigungsausgaben-rutte",
+              "slug": "nato-rekord-verteidigungsausgaben-rutte",
+              "title": "NATO-Chef Rutte: Rekordanstieg bei Verteidigungsausgaben – aber viele verfehlen Trumps Ziel",
+              "date": "2026-03-26",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🛡️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/74b5a6df-2a80-42c8-88f0-2e4ee96bde57_w520_r2.08_fpx46.65_fpy50.jpg",
+              "kurz": "NATO-Generalsekretär Mark Rutte meldet Rekordausgaben der europäischen Mitglieder – trotzdem erreichen viele Trumps Forderung von 5% des BIP nicht.",
+              "summary": "Mark Rutte hat den NATO-Jahresbericht 2026 präsentiert: Die europäischen Mitgliedsstaaten haben ihre Verteidigungsausgaben auf Rekordniveau erhöht. Der Iran-Krieg und der Ukraine-Konflikt haben den politischen Willen zu mehr Rüstung deutlich gestärkt. Dennoch verfehlen viele Länder weiterhin Trumps Forderung von 5% des BIP – ein Dauerthema in transatlantischen Spannungen.",
+              "gegenstimme": "Kritiker in Europa warnen vor einem Rüstungswettlauf, der soziale Ausgaben verdrängt. Einige Analysten bezweifeln, dass höhere Ausgaben allein die Sicherheit erhöhen – ohne strategische Kohärenz verpuffe das Geld.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/nato-jahresbericht-mark-rutte-verkuendet-rekordanstieg-bei-verteidigungsausgaben-a-67832334-79a8-458b-a917-ac6d729e575e"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-taiwan-ko-wen-je-urteil",
+              "slug": "taiwan-ko-wen-je-urteil",
+              "title": "Taiwan: Ex-Präsidentschaftskandidat Ko Wen-je zu 17 Jahren Haft verurteilt",
+              "date": "2026-03-26",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/9c007c00-5c5b-404e-bdbf-9511c097f15c_w520_r2.08_fpx48_fpy33.jpg",
+              "kurz": "Taiwans bekanntester Oppositionspolitiker Ko Wen-je wurde wegen Korruption zu 17 Jahren Haft verurteilt – ein politisches Erdbeben in Taipeh.",
+              "summary": "Ein Gericht in Taipeh hat den Gründer der Taiwan People's Party (TPP) und früheren Bürgermeister Ko Wen-je wegen Korruption und Verschwendung von Spendengeldern zu 17 Jahren Haft verurteilt. Ko war bei den Präsidentschaftswahlen 2024 als populistischer Drittkandidat angetreten. Das Urteil erschüttert die Oppositionslandschaft Taiwans.",
+              "gegenstimme": "Kos Anhänger und die TPP sprechen von einem politisch motivierten Urteil und kündigen Berufung an. Tatsächlich war das Verfahren von der Öffentlichkeit mit grossem Misstrauen verfolgt worden, da Ko ein scharfer Kritiker der Regierung war.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/taiwan-gericht-verurteilt-frueheren-praesidentschaftskandidaten-ko-wen-je-zu-17-jahren-haft-a-c6a76d44-5d87-44fd-8708-8b95332ff23e"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-schweiz-armee-botschaft-2026-luftverteidigung",
+              "slug": "schweiz-armee-botschaft-2026-luftverteidigung",
+              "title": "Schweizer Armeebotschaft 2026: 3,4 Milliarden für Luftverteidigung und Drohnenabwehr",
+              "date": "2026-03-26",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/03/26/9bc2cf25-379f-4bf8-a5fa-4137e7464397.jpg",
+              "kurz": "Armeechef Benedikt Roos präsentiert die Armeebotschaft 2026 mit einem Budget von 3,4 Milliarden Franken – Schwerpunkt Luftverteidigung und Drohnen.",
+              "summary": "Auf dem Waffenplatz Thun hat der neue Armeechef Benedikt Roos nach 100 Tagen im Amt die Armeebotschaft 2026 präsentiert. Das Budget von rund 3,4 Milliarden Franken fliesst primär in Luftverteidigung, Drohnenabwehr und moderne Munition. Roos sieht die Schweiz als Teil des europäischen Sicherheitsraums: 'Was Europa gefährdet, gefährdet auch uns.",
+              "gegenstimme": "Linke Parteien und Friedensorganisationen kritisieren die massiven Rüstungsausgaben und fordern stattdessen verstärkte Investitionen in Diplomatie und humanitäre Hilfe. Die Neutralitätsdebatte ist durch den Iran-Krieg neu entfacht.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/armeebotschaft-geschuetze-und-gruene-pistolen-dafuer-will-die-armee-34-milliarden-103534580"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-hapag-lloyd-iran-krieg-verluste",
+              "slug": "hapag-lloyd-iran-krieg-verluste",
+              "title": "Hapag-Lloyd verliert wöchentlich 40 Millionen Euro durch den Iran-Krieg",
+              "date": "2026-03-26",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "🚢",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Der Iran-Krieg kostet Hapag-Lloyd mehr als 40 Millionen Euro pro Woche. Das Unternehmen schliesst einen Milliardenverlust für 2026 nicht mehr aus.",
+              "summary": "Die Hamburger Containerreederei Hapag-Lloyd gibt erstmals konkrete Zahlen zu den Kriegsfolgen: Der Iran-Konflikt und die Blockade der Strasse von Hormus verursachen wöchentlich über 40 Millionen Euro Mehrkosten durch Umwege, höhere Versicherungsgebühren und Charterraten. Für das Gesamtjahr 2026 schliesst der Konzern einen Milliardenverlust nicht mehr aus.",
+              "gegenstimme": "Einige Analysten weisen darauf hin, dass bei einer schnellen Entspannung im Iran-Konflikt die Frachtraten und Routen rasch zur Normalität zurückkehren könnten. Konkurrenten wie MSC und Maersk stehen vor denselben Problemen.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/logistik-iran-krieg-kostet-hapag-lloyd-woechentlich-ueber-40-millionen-euro/100210882.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-helvetia-baloise-fusion-stellen",
+              "slug": "helvetia-baloise-fusion-stellen",
+              "title": "Helvetia-Baloise Fusion: Bis zu 2600 Stellen fallen weg",
+              "date": "2026-03-26",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "🏢",
+              "edition": "evening",
+              "image": "https://media.20min.ch/6/image/2025/12/09/0007e0be-0f7b-4d34-a7f9-71f5d68749bb.jpg",
+              "kurz": "Die Fusion der Versicherer Helvetia und Baloise kostet mehr Jobs als erwartet: bis zu 2600 Stellen in der Schweiz und im Ausland.",
+              "summary": "Bei der Versicherungsfusion zwischen Helvetia und Baloise fallen laut neuen Angaben bis zu 2300 Stellen in der Schweiz und 300 weitere im Ausland weg – mehr als ursprünglich kommuniziert. Die Fusion ist eine der grössten in der Schweizer Versicherungsbranche. Beide Unternehmen haben ihren Hauptsitz in der Schweiz.",
+              "gegenstimme": "Beide Unternehmen betonen, dass die Synergien langfristig zu einem wettbewerbsfähigeren, effizienteren Unternehmen führen und die verbleibenden Arbeitsplätze sichern. Sozialpartner fordern Sozialpläne und möglichst viele interne Umsetzungen.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/versicherungsfusion-helvetia-baloise-es-fallen-wohl-mehr-stellen-weg-als-angenommen-103534628"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-eth-deepfake-sensor-zuerich",
+              "slug": "eth-deepfake-sensor-zuerich",
+              "title": "ETH Zürich entwickelt Chip der Deepfakes und manipulierte Bilder entlarvt",
+              "date": "2026-03-26",
+              "time": "18:00",
+              "category": "tech",
+              "icon": "🔬",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/897TWb5MqTxATRVPqbKHHe.jpg",
+              "kurz": "ETH-Forschende haben einen Sensor-Chip entwickelt, der jede nachträgliche Bildmanipulation zuverlässig erkennt – ein möglicher Durchbruch gegen Desinformation.",
+              "summary": "Ein Team der ETH Zürich hat einen spezialisierten Chip entwickelt, der direkt in Kameras verbaut werden kann und kryptografisch nachweist, dass ein Bild oder Video nach der Aufnahme nicht manipuliert wurde. Der Ansatz könnte einen neuen Standard für authentifizierte Medien setzen – in Zeiten von Deepfakes eine bedeutende Entwicklung.",
+              "gegenstimme": "Experten weisen darauf hin, dass der Chip nur für neue Geräte hilft und das riesige Archiv bereits vorhandener Bilder und Videos nicht abdeckt. Zudem könnten Angreifer gefälschte Chips oder Signaturen entwickeln.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/ki-sensor-der-eth-zuerich-erkennt-fake-bilder-und-deepfakes-720090738005"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-26-snapchat-eu-untersuchung-kindersicherheit",
+              "slug": "snapchat-eu-untersuchung-kindersicherheit",
+              "title": "EU leitet Untersuchung gegen Snapchat wegen Kindersicherheit ein",
+              "date": "2026-03-26",
+              "time": "18:00",
+              "category": "tech",
+              "icon": "📱",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Die EU-Kommission untersucht Snapchat wegen unzureichendem Schutz für Minderjährige – kurz nach dem wegweisenden US-Urteil gegen Meta und YouTube.",
+              "summary": "Die Europäische Kommission hat eine förmliche Untersuchung gegen Snapchat (Snap Inc.) eingeleitet. Im Fokus stehen Algorithmen, Altersverifikation und Schutzmechanismen für Minderjährige. Die Untersuchung erfolgt im Rahmen des Digital Services Act (DSA) und folgt dem wegweisenden US-Urteil gegen Meta und YouTube wegen Suchtpotenzial.",
+              "gegenstimme": "Snap Inc. betont, dass Snapchat im Vergleich zu anderen Plattformen bereits fortschrittliche Schutzmechanismen implementiert hat, darunter standardmässig private Konten für Minderjährige und eingeschränkte Werbeoptionen.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/technology/2026/mar/26/brussels-opens-investigation-into-snapchat-amid-concern-over-childrens-safety"
                 }
               ]
             }
