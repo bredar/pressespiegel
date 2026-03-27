@@ -1,5 +1,5 @@
 {
-  "updated": "05:12 UTC",
+  "updated": "11:25 UTC",
   "days": [
     {
       "date": "2026-03-27",
@@ -364,6 +364,191 @@
                 {
                   "name": "Der Spiegel",
                   "url": "https://www.spiegel.de/netzwelt/x-elon-musk-scheitert-mit-klage-gegen-abtruennige-werbekunden-a-64074a0a-e17f-4ff0-9680-5851b13a9f8f"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-27-israel-iran-strategie-ruestungsindustrie",
+              "slug": "israel-iran-strategie-ruestungsindustrie",
+              "title": "Israel wechselt Strategie: Rüstungsindustrie statt Generäle – USA und Iran bereiten Gespräche vor",
+              "date": "2026-03-27",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/85bec4f5-e82c-47f2-ae59-e28f5b16680b_w520_r2.08_fpx58.67_fpy50.jpg",
+              "kurz": "Israel verlagert seine Angriffe auf Irans Rüstungsindustrie und tötet den Chef der IRGC-Marine. Gleichzeitig signalisieren USA und Iran Gesprächsbereitschaft.",
+              "summary": "Seit Beginn des Irankriegs Ende Februar 2026 hat Israel seine Angriffsstrategie grundlegend geändert: Statt auf Generäle und Regimevertreter zielt die israelische Luftwaffe nun systematisch auf Fabrikationsanlagen für Raketen und Rüstungsgüter. Parallel dazu haben die USA und Iran laut Bundesaussenminister Wadephul indirekte Kontakte aufgenommen und planen ein direktes Treffen in Pakistan. Die G7-Aussenminister beraten in Frankreich über eine gemeinsame Linie zur Deeskalation.",
+              "gegenstimme": "Kritiker bezweifeln, ob die Zerstörung von Fabriken eine nachhaltige Wirkung hat – Iran kann Produktionskapazitäten verlagern oder wieder aufbauen. Auch die Verlängerung des US-Ultimatums um weitere zehn Tage wird als Zeichen von Ratlosigkeit interpretiert, nicht als diplomatischer Erfolg.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-weniger-generaele-mehr-fabriken-israel-aendert-angriffsstrategie-a-725f0335-a56c-46eb-a5fb-1fd4bf75036e"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cy81p99x07no"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-philippinen-energienotstand-asien-hormuz",
+              "slug": "philippinen-energienotstand-asien-hormuz",
+              "title": "Philippinen rufen Energienotstand aus – Hormuz-Krise trifft Asien hart",
+              "date": "2026-03-27",
+              "time": "12:15",
+              "category": "international",
+              "icon": "⚡",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/BKVshtAzKqlB1Rrrj-3KOe.jpg",
+              "kurz": "Die Philippinen haben wegen des Irankriegs den nationalen Energienotstand ausgerufen. Thailand strich Benzinsubventionen. Südostasien trifft die Hormuz-Blockade härter als erwartet.",
+              "summary": "Vier Wochen nach Beginn des Irankriegs und der Schliessung der Strasse von Hormuz spitzt sich die Energielage in Südostasien zu. Die Philippinen haben am Mittwoch den Energienotstand ausgerufen, da sich die Treibstoffpreise seit Kriegsbeginn verdoppelt haben. Thailand gab teure Benzinsubventionen auf, was zu langen Schlangen an Tankstellen führte. Der singapurische Aussenminister bezeichnete die Situation treffend als «Asien-Krise».",
+              "gegenstimme": "Kritiker werfen den philippinischen und thailändischen Regierungen vor, zu spät zu reagieren. Die Abhängigkeit von Golfimporten war seit Jahren bekannt. Notstandsmassnahmen können zwar kurzfristig Versorgungssicherheit schaffen, lösen aber das strukturelle Problem der einseitigen Importabhängigkeit nicht.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/iran-krieg-philippinen-rufen-den-notstand-aus-thailands-benzipreise-erhoeht-ld.1931110"
+                },
+                {
+                  "name": "Tagesanzeiger",
+                  "url": "https://www.tagesanzeiger.ch/thailand-iran-krieg-fuehrt-zu-energiekrise-309489258817"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-russland-usa-kongress-diplomatische-auftauung",
+              "slug": "russland-usa-kongress-diplomatische-auftauung",
+              "title": "Diplomatische Überraschung: Russische Abgeordnete besuchen erstmals seit Jahren den US-Kongress",
+              "date": "2026-03-27",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/c2a61b63-af61-4502-9dd3-3a16669e6224_w520_r2.08_fpx33.35_fpy50.jpg",
+              "kurz": "Vertreter der russischen Staatsduma haben US-Kongressmitglieder in Washington besucht – das erste solche Treffen seit fast 25 Jahren. Putin soll die Reise persönlich angeordnet haben.",
+              "summary": "Am 27. März 2026 empfingen US-Kongressmitglieder erstmals seit Jahren eine offizielle Delegation der russischen Staatsduma in Washington. Das Treffen fand im nach Trump benannten US-Friedensinstitut statt. Auf russischer Seite nahmen unter anderem der stellvertretende Parlamentspräsident Boris Tschernyschow teil. Kremlsprecher Peskow bezeichnete es als Beitrag zur «Wiederbelebung der bilateralen Beziehungen». Friedensgespräche über die Ukraine stehen derweil praktisch still.",
+              "gegenstimme": "Kritiker in Washington und Europa sehen das Treffen als voreilige Normalisierung mit einem Staat, der einen aktiven Angriffskrieg gegen die Ukraine führt. Die symbolische Geste könnte Moskau nutzen, um international Legitimität zu gewinnen, ohne konkrete Zugeständnisse beim Ukraine-Konflikt zu machen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/usa-russische-abgeordnete-besuchen-erstmals-seit-jahren-mitglieder-des-us-kongress-a-7968e04e-a60c-4e11-b255-c908e5af5a1c"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-saudi-arabien-usa-mehr-angriffe-iran",
+              "slug": "saudi-arabien-usa-mehr-angriffe-iran",
+              "title": "Saudi-Arabien drängt USA zu weiteren Angriffen auf Iran",
+              "date": "2026-03-27",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Kronprinz Mohammed bin Salman sieht den Irankrieg als historische Gelegenheit zur Neugestaltung des Nahen Ostens und drängt Washington zu weiteren Militärschlägen.",
+              "summary": "Saudi-Arabiens Kronprinz Mohammed bin Salman (MBS) soll US-Vertreter aktiv dazu gedrängt haben, die Angriffe auf Iran auszuweiten. Er betrachtet den Konflikt als einmalige Chance, die regionale Machtbalance zugunsten Saudi-Arabiens zu verschieben und den iranischen Einfluss dauerhaft zu schwächen. Dies geschieht, obwohl Riad offiziell keine Kriegspartei ist.",
+              "gegenstimme": "Saudi-Arabiens Haltung ist zwiespältig: Das Königreich profitiert kurzfristig von hohen Ölpreisen durch die Hormuz-Blockade, riskiert aber langfristig eine destabilisierte Nachbarschaft und verstärkte Huthi-Angriffe vom Jemen aus. Zudem könnte ein geschwächter Iran die regionalen Machtverhältnisse in eine Richtung verschieben, die Saudi-Arabien nicht vollständig kontrollieren kann.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/27/saudi-arabia-us-iran-attacks-mohammed-bin-salman"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-keller-sutter-budget-2027-sparen",
+              "slug": "keller-sutter-budget-2027-sparen",
+              "title": "Keller-Sutter: Sparpaket 2027 reicht nicht aus – weitere Entlastungen nötig",
+              "date": "2026-03-27",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/4PQ1vXocK568ZhQbz8uZv9.jpg",
+              "kurz": "Schweizer Finanzministerin Keller-Sutter fordert zusätzliche Sparmassnahmen: Das bisherige Sparpaket für das Budget 2027 reiche nicht aus.",
+              "summary": "Finanzministerin Karin Keller-Sutter hat sich besorgt über die finanzielle Lage des Bundes geäussert und weitere Entlastungen für das Budget 2027 gefordert. Das bereits beschlossene Sparpaket sei angesichts der geopolitischen Unsicherheiten und des globalen Konjunkturabschwungs nicht ausreichend. Der Iran-Krieg und seine wirtschaftlichen Folgen verschärfen den Druck auf die Bundesfinanzen.",
+              "gegenstimme": "Gewerkschaften und linke Parteien warnen vor Sozialabbau. Sie fordern stattdessen höhere Einnahmen durch Steuern auf Kapitalgewinne und Unternehmensgewinne, anstatt bei sozialen Leistungen zu sparen. Die Schuldenbremse sei in Krisenzeiten das falsche Instrument.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/keller-sutter-sparpaket-27-reicht-nicht-aus-979365117400"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-bundestag-altersvorsorge-riester-nachfolger",
+              "slug": "bundestag-altersvorsorge-riester-nachfolger",
+              "title": "Ende der Riester-Rente: Bundestag verabschiedet Reform der Altersvorsorge",
+              "date": "2026-03-27",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "💰",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/5eb4ba59-0dcc-46ae-b2de-1d2d277c3c31_w520_r2.08_fpx49_fpy64.jpg",
+              "kurz": "Der Bundestag hat den Nachfolger der Riester-Rente beschlossen – ab 2027 neue staatlich geförderte Vorsorgemöglichkeiten.",
+              "summary": "Der deutsche Bundestag hat heute die Reform der privaten Altersvorsorge verabschiedet. Ab 2027 erhalten Bürgerinnen und Bürger neue Möglichkeiten zur staatlich geförderten Privatvorsorge als Nachfolger der unbeliebten und bürokratischen Riester-Rente. Die Reform soll die private Altersvorsorge einfacher, flexibler und attraktiver machen.",
+              "gegenstimme": "Kritiker bezweifeln, ob die Reform weit genug geht. Viele Ökonomen fordern eine grundlegende Neuausrichtung hin zu einem kapitalgedeckten System nach schwedischem oder norwegischem Vorbild. Die neue Förderstruktur bleibt komplex und könnte erneut zu geringer Nutzung führen.",
+              "sources": [
+                {
+                  "name": "Spiegel Wirtschaft",
+                  "url": "https://www.spiegel.de/wirtschaft/bundestag-beschliesst-reform-der-altersvorsorge-a-f1cee04d-b144-40a1-9bc3-154d1ae0f93c"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/bundestag-stimmt-fuer-reform-der-altersvorsorge-was-bringt-der-nachfolger-der-riester-rente-ld.1931318"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-deutsche-bahn-milliardenverlust-2025",
+              "slug": "deutsche-bahn-milliardenverlust-2025",
+              "title": "Deutsche Bahn: Mehr Fahrgäste, aber noch grösserer Milliardenverlust",
+              "date": "2026-03-27",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🚂",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/4c75baf2-4500-46f8-9d1f-b1eccda6cf38_w520_r2.08_fpx62.7_fpy50.jpg",
+              "kurz": "Die Deutsche Bahn verzeichnet steigende Fahrgastzahlen, aber 2,3 Milliarden Euro Verlust – trotz Schenker-Verkauf.",
+              "summary": "Die Deutsche Bahn hat ihre Jahresbilanz präsentiert: Mehr Fahrgäste im Fernverkehr, aber der Verlust stieg auf 2,3 Milliarden Euro. Der Verkauf der Logistiktochter Schenker konnte die strukturellen Probleme nicht lösen. Neue Chefin Evelyn Palla steht vor einer enormen Sanierungsaufgabe.",
+              "gegenstimme": "Kritiker sehen das Geschäftsmodell der DB grundsätzlich als sanierungsbedürftig: Zu viel Staatseinfluss, zu wenig Effizienz, zu alte Infrastruktur. Mehrere Ökonomen fordern eine strukturelle Trennung von Netz und Betrieb.",
+              "sources": [
+                {
+                  "name": "Spiegel Wirtschaft",
+                  "url": "https://www.spiegel.de/wirtschaft/deutsche-bahn-mehr-fahrgaeste-noch-groesserer-milliardenverlust-a-decdfebe-c3c9-464f-a1b6-69f6c6ea23e4"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/deutsche-bahn-2-3-milliarden-euro-verlust-trotz-schenker-verkauf-720863935084"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-energieschock-e-auto-waermepumpe-attraktiver",
+              "slug": "energieschock-e-auto-waermepumpe-attraktiver",
+              "title": "Energieschock als Beschleuniger: E-Autos und Wärmepumpen werden durch Ölpreis-Spike attraktiver",
+              "date": "2026-03-27",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "⚡",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/0EkrwTnzKnuAcZlmiUAol7.jpg",
+              "kurz": "Der Energieschock durch den Irankrieg verändert Kaufentscheidungen: Gebrauchte E-Autos und Wärmepumpen boomen.",
+              "summary": "Der drastische Anstieg des Ölpreises durch die Hormuz-Blockade verändert die Kosten-Nutzen-Rechnung für Konsumenten fundamental. Gebrauchte Elektroautos sind plötzlich wieder gefragt, und Wärmepumpen boomen. Experten sehen darin eine strukturelle Verschiebung, die über die Krise hinaus anhält.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass Elektrizität in der Schweiz und Deutschland ebenfalls teurer wird – auch der Strommix enthält Erdgasanteile. Zudem sind Wärmepumpen nicht überall einbaubar, und die Lieferketten für E-Autos bleiben fragil.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/irankrieg-e-autos-und-waermepumpen-werden-attraktiver-917663364235"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/hohe-spritpreise-nachfrage-nach-gebrauchten-elektroautos-waechst/100212384.html"
                 }
               ]
             }
