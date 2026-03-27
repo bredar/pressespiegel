@@ -1,5 +1,5 @@
 {
-  "updated": "11:25 UTC",
+  "updated": "16:06 UTC",
   "days": [
     {
       "date": "2026-03-27",
@@ -549,6 +549,171 @@
                 {
                   "name": "Handelsblatt",
                   "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/hohe-spritpreise-nachfrage-nach-gebrauchten-elektroautos-waechst/100212384.html"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-27-iran-fbi-hack-handala-kash-patel",
+              "slug": "iran-fbi-hack-handala-kash-patel",
+              "title": "Proiranische Hacker knacken E-Mail des FBI-Chefs Kash Patel",
+              "date": "2026-03-27",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🕵️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/17f46dfe-44b8-49fa-ad8a-9886d1003f0e_w520_r2.08_fpx47.34_fpy45.jpg",
+              "kurz": "Die proiranische Hackergruppe Handala hat offenbar das private E-Mail-Konto von FBI-Direktor Kash Patel kompromittiert und intime Fotos veröffentlicht. Das US-Justizministerium hält die erbeuteten Daten für authentisch.",
+              "summary": "Die Hackergruppe Handala, die dem Iran nahestehen soll, hat nach eigenen Angaben das private E-Mail-Konto von FBI-Chef Kash Patel geknackt und private Fotos im Netz geteilt. Das US-Justizministerium bestätigte, die Daten seien offenbar echt. Der Vorfall reiht sich in eine Serie proiranischer Cyberoperationen ein, die seit dem Ausbruch des Irankriegs Ende Februar 2026 zugenommen haben. Handala ist eine bekannte Hacktivistengruppe, die in der Vergangenheit bereits israelische Infrastruktur angegriffen hat.",
+              "gegenstimme": "Skeptiker weisen darauf hin, dass Hackergruppen immer wieder gefälschte oder kompromittierte Materialien als 'echte Beute' ausgeben, um maximale Wirkung zu erzielen – eine endgültige Verifikation durch unabhängige Stellen steht noch aus. Zudem stellt sich die Frage, wie ein hochrangiger US-Geheimdienstchef derart exponierte private Kommunikationskanäle nutzen konnte.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-weniger-generaele-mehr-fabriken-israel-aendert-angriffsstrategie-a-725f0335-a56c-46eb-a5fb-1fd4bf75036e"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-israel-intensiviert-angriffe-iran",
+              "slug": "israel-intensiviert-angriffe-iran",
+              "title": "Israel kündigt Intensivierung der Angriffe auf Iran an – Ambulanzen in London in Brand gesetzt",
+              "date": "2026-03-27",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Israels Verteidigungsminister Israel Katz warnt den Iran vor einem 'schweren Preis' und kündigt eine Ausweitung der Militärschläge an. In London wurden vier Ambulanzen in Brand gesetzt – Experten sehen eine iranische Handschrift.",
+              "summary": "Der israelische Verteidigungsminister Israel Katz hat angekündigt, die Luftangriffe auf den Iran zu intensivieren und auf neue Ziele auszuweiten. Laut Reuters sind seit Kriegsbeginn über 1'900 Menschen im Iran getötet und mindestens 20'000 verletzt worden. Gleichzeitig wurden in London im Stadtbezirk Golders Green vier Ambulanzen in Brand gesetzt – Sicherheitsexperten vermuten eine Verbindung zu iranischen Netzwerken. Der Iran seinerseits sperrte die Strasse von Hormuz für Schiffe aus 'feindlichen' Nationen.",
+              "gegenstimme": "Israelischer Oppositionschef Yair Lapid warnte offen, dass die Armee 'bis ans Limit und darüber hinaus' gedehnt sei und dass die Regierung einen Mehrfrontenkrieg ohne Strategie und ausreichende Mittel führe – eine seltene öffentliche Kritik von innen. Zudem ist die Urheberschaft der Londoner Brandanschläge nicht abschliessend bewiesen.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-zelensky-saudi-arabien-luftabwehr-abkommen",
+              "slug": "zelensky-saudi-arabien-luftabwehr-abkommen",
+              "title": "Selenskyj schliesst Luftabwehr-Abkommen mit Saudi-Arabien in Dschidda",
+              "date": "2026-03-27",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🛡️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/c92cceab-df60-45d6-bf92-653bcc24c49d_w520_r2.08_fpx61.33_fpy50.jpg",
+              "kurz": "Der ukrainische Präsident Wolodymyr Selenskyj hat in Dschidda ein Luftabwehr-Abkommen mit Saudi-Arabien unterzeichnet. Der Deal kommt vor dem Hintergrund wachsender Unsicherheit über künftige US-Militärhilfen für die Ukraine.",
+              "summary": "Die Ukraine und Saudi-Arabien haben in Dschidda ein Verteidigungsabkommen zur Luftabwehr unterzeichnet. Die Ukraine verpflichtet sich, Saudi-Arabien beim Aufbau seiner Luftverteidigungskapazitäten zu unterstützen – und profitiert im Gegenzug von saudischen Fähigkeiten. Selenskyjs unangekündigter Besuch beim Kronprinzen Mohammed bin Salman zielte darauf ab, die Unterstützung für die Ukraine im fünften Kriegsjahr gegen Russland zu festigen. Hintergrund ist auch die Befürchtung, die USA könnten wegen ihres eigenen Konflikts mit dem Iran die Waffenlieferungen an Kiew einschränken.",
+              "gegenstimme": "Kritiker merken an, dass ein Luftabwehr-Abkommen mit Saudi-Arabien kaum den Wegfall amerikanischer Rüstungslieferungen kompensieren kann. Zudem steht Saudi-Arabien wegen seiner ambivalenten Haltung im Ukraine-Krieg – Riad unterhält enge wirtschaftliche Beziehungen zu Russland – weiterhin in der Kritik westlicher Partner.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-schliesst-luftabwehr-abkommen-mit-saudi-arabien-a-81101d6b-817e-4219-a2af-1fba9596850b"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-bundesgericht-hafermilch-bezeichnung-verboten",
+              "slug": "bundesgericht-hafermilch-bezeichnung-verboten",
+              "title": "Bundesgericht: Nur Milch darf Milch heissen",
+              "date": "2026-03-27",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/2G_rlLRFKbIAQb2xIZ3hX3.jpg",
+              "kurz": "Das Schweizer Bundesgericht hat entschieden: Pflanzliche Getränke dürfen die Bezeichnung «Milch» nicht verwenden – auch nicht mit Zusätzen wie «pflanzlich» oder als Negation wie «Ich bin keine Milch».",
+              "summary": "Ein Haferdrink von Alpro/Danone Schweiz mit dem Aufdruck «SHHH.... THIS IS NOT MILK» wurde vom Bundesgericht als irreführend eingestuft. Das kantonale Labor Zürich hatte Klage eingereicht, weil die Verpackung Verwechslungsgefahr mit Kuhmilch berge. Das Schweizer Lebensmittelrecht sieht vor, dass nur Tierprodukte die Bezeichnung «Milch» tragen dürfen. Das Urteil schafft Klarheit für Hersteller pflanzlicher Getränke.",
+              "gegenstimme": "Kritiker sehen das Urteil als lebensfremd: Inzwischen weiss praktisch jeder Konsument, was Hafermilch ist. Das Verbot von Begriffen wie «pflanzliche Milch» verhindert keine Täuschung mehr, sondern erschwert bloss die Kommunikation. In der EU sind ähnliche Bezeichnungen ebenfalls umstritten – dort hat der Gerichtshof vegane Milchbegriffe bereits 2017 eingeschränkt, aber die Praxis bleibt uneinheitlich.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/konsumentenschutz-bundesgericht-nur-milch-darf-milch-heissen"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-titlis-gondelunfall-strafuntersuchung",
+              "slug": "titlis-gondelunfall-strafuntersuchung",
+              "title": "Titlis-Gondelunfall: Strafuntersuchung gegen zwei Bergbahn-Mitarbeitende eröffnet",
+              "date": "2026-03-27",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🚡",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/6WIYIg_baLIB2Dh9WzHZT6.jpg",
+              "kurz": "Die Staatsanwaltschaft Nidwalden hat im Zusammenhang mit dem tödlichen Gondelunfall am Titlis vom 18. März 2026 eine Strafuntersuchung gegen zwei Mitarbeitende der Titlis-Bergbahnen eröffnet. Der Vorwurf: fahrlässige Tötung.",
+              "summary": "Beim Gondelunglück am Titlis vom 18. März kam eine 61-jährige Frau ums Leben, nachdem eine Gondel des 'Titlis Xpress' sich im Bereich Trübsee-Stand vom Seil gelöst hatte. Die Staatsanwaltschaft Nidwalden hat nun eine Strafuntersuchung wegen fahrlässiger Tötung und Störung des öffentlichen Verkehrs gegen einen Technischen Leiter sowie einen weiteren Mitarbeiter der Bergbahnen eröffnet. Der Verdacht: Beim Betrieb der Anlage seien angesichts der herrschenden Windverhältnisse Sorgfaltspflichten verletzt worden. Für beide Beschuldigte gilt die Unschuldsvermutung.",
+              "gegenstimme": "Die Unschuldsvermutung gilt bis zu einem allfälligen Urteil. Zu klären ist, ob die Entscheidungsverantwortlichen über ausreichende Informationen zu den Windverhältnissen verfügten und ob die bestehenden Sicherheitsprotokolle und Abschaltschwellen tatsächlich nicht eingehalten wurden – oder ob die Vorgaben selbst unzureichend waren.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/seilbahnunglueck-am-titlis-strafuntersuchung-gegen-zwei-personen-eroeffnet"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-maerkte-schluss-iran-gold-oel-dax",
+              "slug": "maerkte-schluss-iran-gold-oel-dax",
+              "title": "Börsenschluss: Anleger fliehen in sichere Häfen – Öl und Gold steigen stark",
+              "date": "2026-03-27",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Die Börsen schlossen schwach: DAX -1.46%, SMI -0.74%, Nasdaq -2.38%. Gleichzeitig legten Öl (+3.6% auf 103.65 USD) und Gold (+3% auf 4'535 USD) deutlich zu – klassische Flucht in sichere Häfen.",
+              "summary": "Die globalen Aktienmärkte gerieten am Freitag unter Druck. Der DAX verlor trotz einer Verlängerung von Trumps Iran-Ultimatum deutlich, der Nasdaq büsste knapp 2.4% ein. Rohöl der Sorte Brent kletterte auf 103.65 USD pro Barrel, Gold auf 4'535 USD pro Unze. Bitcoin fiel um fast 4%. Die Spannung rund um den Iran und anhaltende Zollsorgen trieben Anleger in defensivere Anlageklassen.",
+              "gegenstimme": "Die Marktreaktion könnte übertrieben sein: Ein Ölpreis über 100 Dollar schadet der Industrie und befeuert die Inflation, was mittelfristig auch Gold- und Anleihehalter treffen kann. Zudem: Jedes Iran-Ultimatum der Trump-Administration wurde bislang verlängert – Märkte, die darauf reagieren, könnten sich von politischem Theater leiten lassen.",
+              "sources": [
+                {
+                  "name": "Handelsblatt Marktbericht",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliert-trotz-verlaengerung-von-trumps-ultimatum-deutlich/100212372.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-roche-nvidia-ki-fabrik-pharmaindustrie",
+              "slug": "roche-nvidia-ki-fabrik-pharmaindustrie",
+              "title": "Roche und Nvidia bauen grösste KI-Fabrik der Pharmaindustrie",
+              "date": "2026-03-27",
+              "time": "18:00",
+              "category": "tech",
+              "icon": "💊",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Roche baut gemeinsam mit Nvidia eine KI-Fabrik mit über 3500 GPUs – die grösste Rechenkapazität, die je von einem einzelnen Pharmaunternehmen angekündigt wurde.",
+              "summary": "Der Schweizer Pharmariese Roche weitet seine Partnerschaft mit dem Chip-Hersteller Nvidia massiv aus. Ziel ist es, das Pharmaunternehmen mit der grössten GPU-Kapazität der Branche zu werden. Die KI-Fabrik soll Forschung, Entwicklung, Produktion und Diagnostik unterstützen und wird in Europa und den USA aufgebaut. Die Vereinbarung baut auf einer seit 2023 bestehenden Kooperation mit der Roche-Tochter Genentech auf.",
+              "gegenstimme": "Kritisch zu hinterfragen ist, ob der massive GPU-Ausbau wirklich zu schnelleren Medikamentenzulassungen führt oder primär ein Signal an Investoren und Regulatoren ist. KI beschleunigt die Forschung, ersetzt aber nicht klinische Studien – die eigentlichen Engpässe in der Medikamentenentwicklung. Zudem konzentriert sich die GPU-Nachfrage bei wenigen Hyperscalern, was Abhängigkeiten schafft.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/dialog/entwicklung-von-medikamenten-roche-will-mit-nvidia-groesste-ki-fabrik-der-pharmabranche-bauen"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-27-sap-reltio-uebernahme-ki-daten",
+              "slug": "sap-reltio-uebernahme-ki-daten",
+              "title": "SAP übernimmt KI-Datenspezialist Reltio",
+              "date": "2026-03-27",
+              "time": "18:00",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "evening",
+              "image": "",
+              "kurz": "SAP kauft den US-amerikanischen Softwareanbieter Reltio, der auf KI-gestütztes Datenmanagement spezialisiert ist – und stärkt damit die Grundlage für seine KI-Strategie: saubere, verlässliche Unternehmensdaten.",
+              "summary": "Der DAX-Konzern SAP übernimmt Reltio, ein Start-up aus Redwood, Kalifornien, das eine cloudbasierte Plattform für Master Data Management (MDM) anbietet. Reltio war zuletzt mit 1,7 Milliarden Dollar bewertet und hatte seit der Gründung 2011 rund 240 Millionen Dollar eingesammelt. Die Übernahme unterstreicht SAPs Strategie, KI-Anwendungen auf verlässliche Datenfundamente zu stellen. Die Kartellgenehmigung steht noch aus.",
+              "gegenstimme": "Der hohe Kaufpreis – auch wenn der genaue Betrag nicht kommuniziert wurde – und die Integrationsrisiken bei Cloud-Software-Übernahmen sollten nicht unterschätzt werden. SAP hat in der Vergangenheit zugekaufte Plattformen nicht immer erfolgreich integriert. Zudem ist «saubere Daten» ein Problem, das Reltio allein nicht lösen kann – es erfordert Änderungen in Prozessen und Unternehmenskultur, nicht nur neue Software.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/softwarehersteller-sap-uebernimmt-ki-datenspezialisten-reltio/100212412.html"
                 }
               ]
             }
