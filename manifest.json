@@ -1,5 +1,5 @@
 {
-  "updated": "05:12 UTC",
+  "updated": "10:37 UTC",
   "days": [
     {
       "date": "2026-03-28",
@@ -408,6 +408,203 @@
                 {
                   "name": "BBC News",
                   "url": "https://www.bbc.com/news/articles/c86e3eglv2go"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-28-golfstaaten-dilemma-iran-krieg",
+              "slug": "golfstaaten-dilemma-iran-krieg",
+              "title": "Golfstaaten fürchten ein zu schnelles Kriegsende – und erwägen Eigenbeteiligung",
+              "date": "2026-03-28",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌐",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/3ecec37f-9a6b-4e21-9ec3-efb1178603ef_w520_r2.08_fpx66.67_fpy50.jpg",
+              "kurz": "Saudi-Arabien und die VAE wollten keinen Krieg – doch nun fürchten sie, ein Waffenstillstand ohne klares Ergebnis könnte die Machtbalance zu ihren Ungunsten verschieben. Eine direkte Beteiligung wird ernsthaft erwogen.",
+              "summary": "Die Golfstaaten befinden sich in einem strategischen Dilemma: Einerseits werden sie von iranischen Drohnen und Raketen getroffen, andererseits fürchten sie ein Kriegsende, das dem Iran zu viel Spielraum lässt. Riad und Abu Dhabi erwägen erstmals offen eine direkte militärische Beteiligung. Gleichzeitig warnen Stimmen aus der Region eindringlich vor den Risiken einer weiteren Eskalation. Pakistan versucht derweil zu vermitteln.",
+              "gegenstimme": "Al Jazeera und regionale Stimmen betonen, dass trotz der Angriffe auf Golfstädte eine direkte militärische Beteiligung in der Region mehrheitlich abgelehnt wird. «This is not our war» ist die Haltung vieler Experten in der Region. Die Risiken einer eigenen Kriegsbeteiligung – inklusive massiver iranischer Vergeltung auf Ölanlagen – seien für die Golfstaaten kaum kalkulierbar.",
+              "sources": [
+                {
+                  "name": "Der Spiegel – Golfstaaten und Kriegsende",
+                  "url": "https://www.spiegel.de/ausland/krieg-im-nahen-osten-warum-die-golfstaaten-ein-zu-schnelles-ende-des-krieges-fuerchten-a-50af600a-33b0-4647-8623-9ee5bcb2b78d"
+                },
+                {
+                  "name": "The Guardian – Gulf states weigh up options",
+                  "url": "https://www.theguardian.com/world/2026/mar/20/gulf-states-weigh-up-options-iran-us-israel-conflict-middle-east-crisis-war"
+                },
+                {
+                  "name": "Chatham House – Should Gulf Arab states join the war?",
+                  "url": "https://www.chathamhouse.org/2026/03/should-gulf-arab-states-join-war-against-iran"
+                },
+                {
+                  "name": "Al Jazeera – Will Gulf states enter the war?",
+                  "url": "https://www.aljazeera.com/features/2026/3/2/after-irans-salvo-hit-their-skylines-will-the-gulf-states-enter-the-war"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-huthis-rakete-israel-eskalation",
+              "slug": "huthis-rakete-israel-eskalation",
+              "title": "Neue Eskalation: Huthis greifen Israel zum ersten Mal mit Rakete an",
+              "date": "2026-03-28",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/a96899cd-4f02-40b2-bcff-7bcf0406fc1a_w520_r2.08_fpx41.99_fpy55.01.jpg",
+              "kurz": "Die Huthi-Miliz hat erstmals seit Beginn des Iran-Krieges eine ballistische Rakete auf Israel abgefeuert. Die Eskalation öffnet eine neue Front im bereits ausgeweiteten Nahost-Konflikt.",
+              "summary": "Die jemenitischen Huthis haben am Samstag, 28. März 2026, zum ersten Mal im aktuellen Irankrieg eine Rakete auf Israel abgefeuert. Sie begründeten den Angriff als Reaktion auf die fortgesetzte Zerstörung von Infrastruktur in Iran, Libanon, Irak und den palästinensischen Gebieten. Die Eskalation gibt dem bereits mehrwöchigen Krieg eine neue Dimension: Nun ist auch das Rote Meer als Kriegsschauplatz zurück. Experten warnen, dass eine Wiederaufnahme von Houthi-Angriffen auf Schifffahrtsrouten verheerende Folgen für die Weltwirtschaft hätte.",
+              "gegenstimme": "Militäranalytiker betonen, dass Houthi-Raketenangriffe auf Israel bisher kaum wirksam waren – die meisten wurden abgefangen. BBC-Korrespondent Paul Adams urteilt, der Angriff sei ein «zusätzliches Problem», aber «kaum eine ernsthafte Bedrohung» für Israel. Kritiker werfen den Huthis vor, geopolitische Spielmarken zu bedienen statt tatsächlich palästinensische Interessen zu vertreten.",
+              "sources": [
+                {
+                  "name": "BBC News Live",
+                  "url": "https://www.bbc.com/news/live/cje4x38q8xqt"
+                },
+                {
+                  "name": "Der Spiegel – Iran-News",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-rubio-glaubt-der-krieg-sei-in-wochen-nicht-in-monaten-vorbei-a-624b1930-db95-4f39-a268-b36194b96f4f"
+                },
+                {
+                  "name": "Handelsblatt – Iran-Krieg Liveblog",
+                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-huthis-bestaetigen-ersten-raketenangriff-auf-israel-im-iran-krieg/100136895.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-usa-no-kings-proteste-trump",
+              "slug": "usa-no-kings-proteste-trump",
+              "title": "«No Kings»: Massenproteste gegen Trump in den USA",
+              "date": "2026-03-28",
+              "time": "12:15",
+              "category": "international",
+              "icon": "✊",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
+              "kurz": "Millionen Amerikaner demonstrieren heute in über 3000 Kundgebungen gegen Präsident Donald Trump. Die dritte Ausgabe der «No Kings»-Proteste ist die bislang grösste – doch ihre politische Wirkung bleibt umstritten.",
+              "summary": "Am 28. März 2026 findet in den USA die dritte grosse Welle der sogenannten «No Kings»-Proteste statt. Über 3000 Kundgebungen sind in allen 50 Bundesstaaten sowie in 16 Ländern weltweit geplant. Getragen werden sie von einem breiten Bündnis aus progressiven Gruppen, Gewerkschaften und zivilgesellschaftlichen Organisationen. Das Motto richtet sich direkt gegen Trumps Regierungsstil, den die Organisatoren als autoritär und demokratiegefährdend bezeichnen. Politisch ist die Bewegung heterogen – und ihre tatsächliche Schlagkraft ist umstritten.",
+              "gegenstimme": "Konservative Medien und Trump-Unterstützer bezeichnen die «No Kings»-Bewegung als von linken Eliten und ausländischem Geld finanzierte Inszenierung ohne echten Rückhalt in der Bevölkerung. Auch innerhalb der Protestbewegung gibt es Fragen: Die New York Times analysiert, dass «No Kings» zum dritten Mal stattfindet, ohne bisher konkrete politische Ergebnisse erzielt zu haben. Die Gefahr der Ermüdung ist real.",
+              "sources": [
+                {
+                  "name": "Der Spiegel – Die Lage am Morgen",
+                  "url": "https://www.spiegel.de/politik/deutschland/news-no-kings-proteste-in-den-usa-kritik-an-markus-soeder-antisemitismusproblem-der-linken-a-4948f5bc-20a1-4d83-88f1-cc8d4346a8b2"
+                },
+                {
+                  "name": "The Guardian – No Kings protests",
+                  "url": "https://www.theguardian.com/us-news/2026/mar/28/no-kings-protests-trump"
+                },
+                {
+                  "name": "New York Times – A Challenge for No Kings Protests",
+                  "url": "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html"
+                },
+                {
+                  "name": "nokings.org",
+                  "url": "https://www.nokings.org/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-schweiz-pfas-textil-beschichtung",
+              "slug": "schweiz-pfas-textil-beschichtung",
+              "title": "Durchbruch aus St. Gallen: PFAS-freie Textilbeschichtung könnte Industrie verändern",
+              "date": "2026-03-28",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🧪",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/1280w/a5c0c7.jpg",
+              "kurz": "Die Wattwiler Textilfirma Bäumlin & Ernst AG hat gemeinsam mit der Empa eine Plasma-Beschichtungstechnologie entwickelt, die PFAS-Chemikalien in der Textilindustrie vollständig ersetzen kann.",
+              "summary": "Nach 15 bis 20 Jahren Forschung und rund zwei Millionen Franken Investition ist es der Firma Bäumlin & Ernst AG aus Wattwil SG in Zusammenarbeit mit der Empa gelungen, eine PFAS-freie Beschichtung für Textilgarne zu entwickeln. Die Plasma-Technologie lagert eine hauchdünne, waschfeste Schicht auf einzelne Fasern auf, ohne die gefährlichen Ewigkeitschemikalien zu benötigen. ETH-Forscher Martin Scheringer mahnt jedoch, dass die Trägheit der Industrie und hohe Umstellungskosten einen raschen Wandel verlangsamen werden.",
+              "gegenstimme": "Umweltchemiker Martin Scheringer von der ETH Zürich betont, dass PFAS-Alternativen seit Jahren technisch verfügbar wären. Das eigentliche Problem sei die Trägheit des Systems und die Kosten für den Wechsel – nicht die Technologie selbst. Einzelne Innovationen aus der Schweiz ändern nichts daran, dass ein Grossteil der globalen Textilindustrie weiterhin auf PFAS setzt, solange verbindliche Verbote fehlen oder nicht durchgesetzt werden.",
+              "sources": [
+                {
+                  "name": "SRF News – Firma aus St. Gallen entwickelt neue Garn-Technologie ohne PFAS",
+                  "url": "https://www.srf.ch/news/schweiz/ewigkeitschemikalie-pfas-neue-beschichtung-ohne-pfas-koennte-textilindustrie-veraendern"
+                },
+                {
+                  "name": "Swiss Textiles – Bäumlin & Ernst AG verarbeitet PFAS-freies Garn",
+                  "url": "https://swisstextiles.ch/themen/baeumlin-ernst-ag-verarbeitet-pfas-freies-garn-der-empa-weiter"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-schweizer-armee-pistole-sig-sauer-skandal",
+              "slug": "schweizer-armee-pistole-sig-sauer-skandal",
+              "title": "Desaströse Testergebnisse: Schweizer Armee will trotzdem SIG Sauer Pistole kaufen",
+              "date": "2026-03-28",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "midday",
+              "image": "https://images.keystone-sda.ch/resized/610x343/KEYSTONE/AP/2023/01/13/D3T1_13-01-2023-0_p320sig.jpg",
+              "kurz": "Die Schweizer Armee plant die Beschaffung von 50'000 Pistolen des Modells SIG Sauer P320 für 50 Millionen Franken – obwohl die Waffe beim Zielschiessen die Tiefstnote 1 von 10 erhielt.",
+              "summary": "Bei internen Tests der Armee schnitt die SIG Sauer P320 in mehreren Kategorien katastrophal ab: Der Verschluss schliesst sich nicht immer selbständig, der Griff verursacht Handgelenkschmerzen, das Visiersystem versagte teilweise. Die österreichische Glock erzielte im gleichen Test die Note 7. Armasuisse verteidigt den Entscheid mit strategischen und wirtschaftspolitischen Argumenten: SIG Sauer hat zugesichert, die Produktion im Kanton Schaffhausen aufzubauen. Das Parlament wird das Geschäft in der Sommersession 2026 debattieren.",
+              "gegenstimme": "Armasuisse und Mitte-Ständerat Charles Juillard relativieren: Die Mängel seien bei amerikanisch produzierten Exemplaren festgestellt worden – die künftigen Schweizer Versionen würden angepasst und verbessert. Militärstratege Alexandre Vautravers hält den Entscheid für strategisch richtig, da die Inlandproduktion die sicherheitspolitische Unabhängigkeit stärke.",
+              "sources": [
+                {
+                  "name": "SRF News – Schweizer Armee kauft Pistole trotz schlechter Testnote",
+                  "url": "https://www.srf.ch/news/dialog/umstrittener-ruestungskauf-desastroese-bewertung-fuer-die-kuenftige-pistole-der-schweizer-armee"
+                },
+                {
+                  "name": "VBS – SIG Sauer P320 wird neue Dienstpistole",
+                  "url": "https://www.vbs.admin.ch/de/newnsb/gc5jOOY5KgVDL5xKW_BlM"
+                },
+                {
+                  "name": "20 Minuten – Warum die SIG Sauer P320 die Glock G45 übertrumpfen soll",
+                  "url": "https://www.20min.ch/story/armasuisse-insider-neue-schweizer-pistole-fiel-durch-dann-mischte-sich-der-chef-ein-103464799"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-sommerzeit-umstellung-gesundheit",
+              "slug": "sommerzeit-umstellung-gesundheit",
+              "title": "Zeitumstellung in der Nacht: Was der Chronobiologe über die Gesundheitsrisiken sagt",
+              "date": "2026-03-28",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🕐",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/3FJJLih9KxvBpgix8sa7iK.jpg",
+              "kurz": "In der Nacht auf Sonntag, 29. März 2026, werden die Uhren um 2 Uhr auf 3 Uhr vorgestellt. Chronobiologen warnen seit Jahren vor den Gesundheitsfolgen – eine Abschaffung ist aber nicht in Sicht.",
+              "summary": "Die Umstellung auf die Sommerzeit in der Nacht auf den 29. März kostet uns eine Stunde Schlaf und bringt laut Chronobiologen mehr als nur Müdigkeit: Mini-Jetlag, erhöhte Unfallgefahr, Konzentrationsprobleme und bei empfindlichen Menschen auch kardiovaskuläre Risiken sind die Folge. Die EU hatte konkrete Abschaffungspläne, scheiterte aber am fehlenden Konsens der Mitgliedstaaten. Die Schweiz, seit 1981 in der Zeitumstellung, hat keine eigenständige Bewegung zur Abschaffung lanciert.",
+              "gegenstimme": "Befürworter der Sommerzeit verweisen auf den wirtschaftlichen Nutzen: Mehr Tageslicht am Abend fördert Freizeitaktivitäten, Konsum und Aussenaktivitäten. Ursprünglich eingeführt zur Energieeinsparung in der Ölkrise 1973, ist die Sommerzeit für viele Branchen – Tourismus, Gastgewerbe, Detailhandel – nach wie vor von kommerziellem Wert. Zudem hat sich die Gesellschaft in 50 Jahren an den Rhythmus gewöhnt.",
+              "sources": [
+                {
+                  "name": "SWI swissinfo.ch – In der Nacht auf Sonntag werden die Uhren eine Stunde vorgestellt",
+                  "url": "https://www.swissinfo.ch/ger/in-der-nacht-auf-sonntag-werden-die-uhren-eine-stunde-vorgestellt/91172699"
+                },
+                {
+                  "name": "Der Bund – Zeitumstellung: Warum sie immer ein Stress für unseren Körper ist",
+                  "url": "https://www.derbund.ch/zeitumstellung-warum-sie-immer-ein-stress-fuer-unseren-koerper-ist-281527435853"
+                },
+                {
+                  "name": "St. Galler Tagblatt – Zeitumstellung 2026",
+                  "url": "https://www.tagblatt.ch/leben/zeitumstellung-2026-wann-beginnt-die-sommerzeit-ld.2106427"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-henkel-olaplex-uebernahme",
+              "slug": "henkel-olaplex-uebernahme",
+              "title": "Henkel kauft US-Shampoo-Marke Olaplex für 1,4 Milliarden Dollar",
+              "date": "2026-03-28",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "💰",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/91836318-f653-4a6b-87cb-e275f5e901ab_w520_r2.08_fpx57.31_fpy49.99.jpg",
+              "kurz": "Der Düsseldorfer Konsumgüterkonzern Henkel übernimmt die US-Haarpflegemarke Olaplex für 1,4 Milliarden Dollar und stärkt damit sein Beauty-Portfolio in Nordamerika.",
+              "summary": "Henkel hat eine Vereinbarung zum Kauf des börsennotierten US-Herstellers Olaplex zu einem Preis von 2,06 Dollar je Aktie unterzeichnet. Olaplex erzielte 2025 rund 370 Millionen Euro Umsatz mit starker Profitabilität, litt aber in den vergangenen Jahren unter erheblichem Wettbewerbsdruck. Die Transaktion ist die zweite Haarpflegeübernahme Henkels innerhalb weniger Wochen – zuvor hatte der Konzern bereits die Marke «Not Your Mother's» erworben. Der Deal soll in der zweiten Jahreshälfte 2026 abgeschlossen werden, Olaplex wird danach von der Börse genommen.",
+              "gegenstimme": "JPMorgan-Analystin Celine Pannuti mahnt zur Vorsicht: Olaplex habe in den vergangenen drei Jahren massiv unter Wettbewerbsdruck gelitten und an Umsatzdynamik verloren. Mit 1,4 Milliarden Dollar zahlt Henkel rund das 3,8-Fache des Jahresumsatzes – eine ambitionierte Bewertung für eine Marke, deren Wachstumsstory an der Börse bereits klar gescheitert ist. Kritiker fragen sich, ob der Konzern die strukturellen Probleme von Olaplex mit frischem Kapital wirklich lösen kann oder ob er schlicht zu teuer für eine angeschlagene Marke gezahlt hat.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/olaplex-henkel-kauft-us-shampoo-hersteller-fuer-1-4-milliarden-dollar-a-4bb0e927-4882-47fc-9a10-c472beadab85"
                 }
               ]
             }
