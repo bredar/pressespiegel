@@ -1,719 +1,413 @@
 {
-  "updated": "16:06 UTC",
+  "updated": "05:12 UTC",
   "days": [
     {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-03-27-deutschland-hormus-bundeswehr-einsatz",
-              "slug": "deutschland-hormus-bundeswehr-einsatz",
-              "title": "Deutschland diskutiert Bundeswehr-Beteiligung an Hormus-Absicherung",
-              "date": "2026-03-27",
+              "id": "2026-03-28-iran-update-us-soldaten-saudi-arabien",
+              "slug": "iran-update-us-soldaten-saudi-arabien",
+              "title": "Iran-Krieg Tag 30: US-Soldaten verletzt in Saudi-Arabien, Rubio sieht Kriegsende in Wochen",
+              "date": "2026-03-28",
               "time": "07:00",
               "category": "international",
-              "icon": "🌍",
+              "icon": "🔥",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/d6b2a1cf-78f8-4eb5-b48a-e79d4a375fb8_w520_r2.08_fpx51.32_fpy54.97.jpg",
-              "kurz": "Merz drängt auf raschen Waffenstillstand im Irankrieg und diskutiert eine Bundeswehr-Beteiligung an einer internationalen Hormus-Mission. Pentagon erwägt 10'000 zusätzliche Soldaten am Golf.",
-              "summary": "Die Bundesregierung unter Kanzler Merz bereitet sich offenbar auf eine aktive Rolle bei der Absicherung der Strasse von Hormus nach einem möglichen Waffenstillstand vor. Frankreich koordiniert mit 35 Staaten über einen möglichen Einsatz. Gleichzeitig erwägen die USA laut Medienberichten die Entsendung von bis zu 10'000 weiteren Soldaten in den Nahen Osten. Die Hormus-Blockade hat die globalen Energie- und Lebensmittelversorgungsketten massiv gestört.",
-              "gegenstimme": "Kritiker in Deutschland warnen vor einem weiteren Auslandseinsatz der Bundeswehr, die bereits durch Ukraine-Unterstützung stark belastet ist. Zudem stellt sich die Frage, ob eine europäische Marinemission ohne US-Beteiligung die notwendige Abschreckungswirkung hätte – oder ob sie Iran als schwaches Signal wertet und dadurch neue Eskalationsrisiken schafft.",
+              "image": "https://cdn.prod.www.spiegel.de/images/937389d8-b43d-4570-a29f-ce4c83ace1fa_w520_r2.08_fpx71.08_fpy44.99.jpg",
+              "kurz": "Iranischer Angriff auf saudischen Stützpunkt verletzt 12 US-Soldaten. US-Aussenminister Rubio erwartet ein Kriegsende in wenigen Wochen.",
+              "summary": "Am 30. Tag des Iran-Krieges griff Iran den Stützpunkt Prince Sultan in Saudi-Arabien mit Raketen und Drohnen an und verletzte mindestens 12 US-Soldaten, zwei davon schwer. US-Aussenminister Rubio sagte am Rande des G7-Aussenministertreffens in Frankreich, die Operation werde in Wochen, nicht Monaten, abgeschlossen sein. Israel bestätigte Angriffe auf iranische Atomanlagen, darunter eine Schwerwasseranlage. Der Iran kontrolliert weiterhin die Strasse von Hormus und blockiert Schiffspassagen.",
+              "gegenstimme": "Innerhalb der republikanischen Basis wächst Skepsis: An der CPAC-Konferenz in Texas zeigten sich besonders jüngere Konservative besorgt über fehlende Kriegsziele und steigende Lebenshaltungskosten. 'Ich sehe kein Endszenario', sagte ein CPAC-Teilnehmer der BBC. Iran seinerseits bestreitet jegliche Verhandlungen und bezeichnet Trumps Aussagen über 'gute Gespräche' als Lüge.",
               "sources": [
                 {
-                  "name": "Spiegel Online",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-deutschland-beraet-ueber-absicherung-der-strasse-von-hormus-a-725f0335-a56c-46eb-a5fb-1fd4bf75036e"
-                },
-                {
-                  "name": "Spiegel Online",
-                  "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-wie-deutschland-zu-einem-ende-des-irankriegs-beitragen-will-a-af623838-1009-489a-9632-bbd4f6b9639b"
+                  "name": "The Guardian Live",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/28/middle-east-crisis-live-iran-war-updates-trump-us-negotiations-israel-strikes-lebanon-tehran-syria-explosions"
                 },
                 {
                   "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/26/strait-of-hormuz-visual-guide-trickle-of-ships-iran"
+                  "url": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-rubio-glaubt-der-krieg-sei-in-wochen-nicht-in-monaten-vorbei-a-624b1930-db95-4f39-a268-b36194b96f4f"
                 },
                 {
                   "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c4gjxv5g19no"
+                  "url": "https://www.bbc.com/news/articles/cjd8e4px12ro"
                 }
               ]
             },
             {
-              "id": "2026-03-27-iran-trump-ultimatum-zehn-tage",
-              "slug": "iran-trump-ultimatum-zehn-tage",
-              "title": "Update Iran: Trump verlängert Ultimatum auf 6. April – Israel tötet iranischen Marinekommandeur",
-              "date": "2026-03-27",
+              "id": "2026-03-28-nepal-ex-pm-oli-verhaftet",
+              "slug": "nepal-ex-pm-oli-verhaftet",
+              "title": "Nepal: Ex-Premier Oli nach tödlichem Protestmassaker verhaftet",
+              "date": "2026-03-28",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "morning",
+              "image": "https://media.guim.co.uk/f6775b462e86d50adf6baddc015073dad942a8dc/0_0_6000_4000/2000.jpg",
+              "kurz": "Nepals früherer Premierminister KP Sharma Oli wurde am Samstag wegen seiner Rolle beim tödlichen Protesteinsatz vom September 2025 verhaftet. Über 70 Menschen kamen bei den Unruhen ums Leben.",
+              "summary": "Die nepalesische Polizei verhaftete den 74-jährigen Ex-Premier KP Sharma Oli sowie den früheren Innenminister Ramesh Lekhak an ihren Wohnorten in Kathmandu. Eine Untersuchungskommission empfahl die Strafverfolgung beider Männer wegen fahrlässiger Tötung im Zusammenhang mit dem Einsatz von Schusswaffen gegen Demonstranten im September 2025. Bei den Protesten, ausgelöst durch ein Social-Media-Verbot, kamen mehr als 70 Menschen ums Leben. Die Verhaftungen erfolgten einen Tag nach der Amtseinführung des neuen Premiers Balen Shah.",
+              "gegenstimme": "Olis Anwälte bezeichneten die Verhaftung als illegal und unverhältnismässig, da kein Fluchtrisiko bestehe. Oli selbst hatte die Kommissionsberichte zuvor als 'Charaktermord und Hasspolitik' abgetan. Kritiker werfen der neuen Regierung vor, die Verhaftung politisch zu instrumentalisieren, da der neue Innenminister Sudan Gurung selbst ein prominenter Anführer der Proteste war, die Oli zu Fall brachten.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/28/kp-sharma-oli-nepal-arrested-alleged-role-protest-crackdown-ntwnfb"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cn89ry7y835o"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-ukraine-rubio-selenskyj-donbas-streit",
+              "slug": "ukraine-rubio-selenskyj-donbas-streit",
+              "title": "Streit zwischen Washington und Kiew: Rubio wirft Selenskyj Lügen über Donbas-Forderungen vor",
+              "date": "2026-03-28",
               "time": "07:00",
               "category": "international",
               "icon": "🌍",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/ddacaff9-a446-4cb4-b1a9-9b23544f91fc_w520_r2.08_fpx63.31_fpy54.96.jpg",
-              "kurz": "Trump verschiebt Angriffe auf iranische Energieanlagen um 10 Tage bis 6. April. Israel tötet IRGC-Marinekommandeur Tangsiri, der die Hormus-Blockade leitete.",
-              "summary": "US-Präsident Trump verlängert sein Ultimatum an den Iran auf Montag, 6. April 2026 (20 Uhr US-Ostzeit), nachdem er Verhandlungen als 'sehr gut laufend' bezeichnet. Israel eliminierte derweil Alireza Tangsiri, den Kommandeur der IRGC-Marine, der direkt für die Blockade der Strasse von Hormus verantwortlich war. Iran weist das Ultimatum öffentlich zurück, verhandelt aber offenbar doch. Die Lage im Nahen Osten bleibt hochexplosiv: Iran greift weiterhin Ziele in Saudi-Arabien und Kuwait an.",
-              "gegenstimme": "Teheran dementiert jegliche Verhandlungen und bezeichnet Trumps Ultimatum als unzulässig. Irans Parlamentspräsident Ghalibaf erklärte, niemand könne dem Iran Ultimaten stellen. Das doppelte Spiel – öffentliches Ablehnen bei gleichzeitigem Verhandeln – ist eine klassische iranische Taktik, die Washington nicht überraschen dürfte, aber die Ernsthaftigkeit der Gespräche schwer einschätzbar macht.",
+              "image": "https://cdn.prod.www.spiegel.de/images/69898170-4033-409f-8f8b-e5ce1074d1ff_w520_r2.08_fpx49.33_fpy49.99.jpg",
+              "kurz": "US-Aussenminister Rubio bezeichnet Selenskyjs Aussagen über US-Forderungen nach Donbas-Abtretung als Lüge. Der öffentliche Streit belastet die Verhandlungen.",
+              "summary": "Wolodymyr Selenskyj behauptete gegenüber Reuters, die USA verlangten als Bedingung für Sicherheitsgarantien die Abtretung der Donbas-Region an Russland. Marco Rubio wies dies scharf zurück und bezeichnete Selenskyjs Aussagen als «Lüge», die dieser selbst besser wissen sollte. Der Streit macht die tiefen Differenzen zwischen Washington und Kiew über die Bedingungen eines möglichen Waffenstillstands öffentlich sichtbar. Parallel dazu sorgten Russland-freundliche Auftritte auf europäischen Medienplattformen für Kritik.",
+              "gegenstimme": "Die Ukraine und ihr Aussenminister Sybiha beharren darauf, dass Kiew realistische und umsetzbare Friedensvorschläge vorgelegt habe, und betonen, Druck auf Russland sei der einzige Weg zur Beendigung des Krieges. Europäische Verbündete teilen die Sorge, dass die USA – abgelenkt durch den Iran-Konflikt – zu wenig Druck auf Moskau ausüben. Selenskyjs Sprecher haben die Darstellung Rubios nicht zurückgezogen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-krieg-rubio-wirft-selenskyj-luegen-ueber-sicherheitsabkommen-vor-a-ccc61779-7436-4afb-8ddb-dea4ef31846f"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/28/ukraine-war-briefing-rubio-zelenskyy-deal-donbas-to-russia"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-schweiz-eu-vertraege-staendemehr-anhoerung",
+              "slug": "schweiz-eu-vertraege-staendemehr-anhoerung",
+              "title": "Ständemehr bei EU-Verträgen: Öffentliche Anhörung endet 3:2 für obligatorisches Referendum",
+              "date": "2026-03-28",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/AehCtaJT47E96JagWIccoS.jpg",
+              "kurz": "Die ständerätliche Staatspolitische Kommission hielt eine seltene öffentliche Anhörung zum Ständemehr für EU-Verträge ab – drei von fünf Experten sprachen sich dafür aus.",
+              "summary": "In Bern fand am 27. März 2026 eine öffentlich übertragene Anhörung der staatspolitischen Kommission des Ständerats statt. Fünf Experten diskutierten, ob die neuen Bilateralen-III-Verträge einem obligatorischen Referendum mit Ständemehr unterstellt werden sollen. Das Ergebnis: drei zu zwei für das Ständemehr – ein Ausgang, der angesichts der Zusammensetzung des Gremiums von vornherein absehbar war. Nun ist das Parlament am Zug; die finale Volksabstimmung ist frühestens 2027, wahrscheinlich erst 2028, vorgesehen.",
+              "gegenstimme": "Politologe Adrian Vatter warnte vor einer gefährlichen Kollision zwischen Volks- und Ständemehr: Wenn eine Mehrheit des Volkes Ja sagt, das Ständemehr die Vorlage aber kippt, drohe eine schwere Vertrauenskrise im politischen System. Die Abstimmungskampagne würde sich auf wenige Wackelkantone konzentrieren und den Stadt-Land-Graben weiter vertiefen. Rechtsprofessorin Astrid Epiney sieht zudem keinen verfassungsrechtlichen Zwang für ein Ständemehr.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/erste-anhoerung-zum-staendemehr-bei-den-eu-vertraegen-endet-mit-einem-sieg-auf-ansage-ld.1931210"
+                },
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/oeffentliche-anhoerung-staendemehr-fuer-vertraege-mit-eu-seltenes-politschauspiel-in-bern"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/schweiz-fuenf-kantone-koennten-ueber-eu-vertrag-entscheiden-311184788676"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-schweiz-waffenkaeufe-boom-2025",
+              "slug": "schweiz-waffenkaeufe-boom-2025",
+              "title": "Boom im Schiesskeller: Schweizer Waffenkäufe steigen stark an",
+              "date": "2026-03-28",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/1280w/1e3e2e.jpg",
+              "kurz": "In der Schweiz sind die Waffenerwerbsscheine 2025 um 10 bis 30 Prozent gestiegen – angetrieben von geopolitischer Unsicherheit und wachsendem Interesse am Schiesssport.",
+              "summary": "Deutschweizer Kantone verzeichneten 2025 einen Anstieg der ausgestellten Waffenerwerbsscheine um 10 bis 30 Prozent gegenüber dem Vorjahr. Als Ursachen nennen Händler und Behörden sowohl das Sicherheitsbedürfnis angesichts geopolitischer Krisen – darunter der Iran-Krieg – als auch ein wachsendes Interesse am Schiesssport. Behörden sehen die Entwicklung gelassen, betonen aber die Wichtigkeit einer konsequenten Umsetzung des Waffenrechts.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass eine bewaffnetere Zivilbevölkerung nicht zwangsläufig mehr Sicherheit bedeutet. Die Zunahme privater Waffen erhöhe statistisch das Risiko von Unfällen, Suiziden und häuslicher Gewalt. Eine ZHAW-Studie bestätigt zwar, dass die meisten Waffen für den Sport genutzt werden – doch die langfristigen gesellschaftlichen Folgen einer zunehmenden Bewaffnung bleiben umstritten.",
               "sources": [
                 {
                   "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-usa-gewaehren-iran-weitere-zehn-tage-aufschub"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/26/donald-trump-urges-iran-end-war-or-face-assassinations"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cy81p99x07no"
-                },
-                {
-                  "name": "Watson.ch",
-                  "url": "https://www.watson.ch/international/iran/428261260-trump-verlaengert-ultimatum-an-den-iran-um-10-tage"
+                  "url": "https://www.srf.ch/news/schweiz/boom-im-schiesskeller-schweizer-waffenkaeufe-nehmen-zu-sport-oder-sicherheitsbeduerfnis"
                 }
               ]
             },
             {
-              "id": "2026-03-27-uk-putin-schattenflotte-kanalblockade",
-              "slug": "uk-putin-schattenflotte-kanalblockade",
-              "title": "Grossbritannien stoppt Putins Schattenflotte: Entern und Beschlagnahmen im Ärmelkanal erlaubt",
-              "date": "2026-03-27",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/b5e965b8-5238-4088-82af-f98bc3fa91b2_w520_r2.08_fpx66_fpy50.jpg",
-              "kurz": "Premier Starmer erlaubt der Royal Navy, sanktionierte russische Schiffe der Schattenflotte im Ärmelkanal zu stoppen, zu entern und zu beschlagnahmen – auf Druck von Zelensky.",
-              "summary": "Grossbritannien hat eine weitreichende neue Politik im Ukraine-Konflikt verkündet: Die Royal Navy darf fortan russische Schiffe der sogenannten Schattenflotte im Ärmelkanal aktiv abfangen, entern und beschlagnahmen. Premier Keir Starmer folgt damit einer Forderung des ukrainischen Präsidenten Zelensky. Die Schattenflotte umfasst Hunderte Tanker, die unter Drittflaggen russisches Öl transportieren und damit westliche Sanktionen umgehen.",
-              "gegenstimme": "Russland dürfte auf diese Massnahme mit scharfer Kritik und möglicherweise Vergeltungsaktionen antworten. Völkerrechtler diskutieren, ob das Entern von Schiffen unter Drittflaggen auf Hoher See mit internationalem Seerecht vereinbar ist. Zudem stellt sich die Frage, ob die Massnahme ohne breite europäische Koordination effektiv sein kann oder Russland lediglich Alternativrouten nutzen wird.",
-              "sources": [
-                {
-                  "name": "Spiegel Online",
-                  "url": "https://www.spiegel.de/ausland/entscheidung-von-keir-starmer-grossbritannien-will-wladimir-putins-schattenflotte-abfangen-a-84aa9e3d-6a75-458e-b752-cfaeb9a67250"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-zelensky-saudi-arabien-drohnen-diplomatie",
-              "slug": "zelensky-saudi-arabien-drohnen-diplomatie",
-              "title": "Zelensky in Saudi-Arabien: Ukraine bietet Drohnen-Expertise als Verhandlungspfand",
-              "date": "2026-03-27",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "morning",
-              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4278/live/a3b19d50-0aa0-11f0-b3ee-0f9e2df6c6c1.jpg",
-              "kurz": "Zelensky besucht Riad und bietet ukrainische Drohnentechnologie als Gegenleistung für Luftabwehrraketen. NZZ enthüllt: USA knüpfen Sicherheitsgarantien an Donbass-Rückzug der Ukraine.",
-              "summary": "Ukraines Präsident Zelensky reist nach Saudi-Arabien und bietet ukrainische Drohnen-Expertise zur Verbesserung der Golfregion-Sicherheit an – im Tausch gegen Luftabwehrraketen für die Ukraine. Gleichzeitig enthüllt die NZZ, dass die USA Sicherheitsgarantien für die Ukraine an einen Rückzug aus dem Donbass knüpfen – womit Washington eine zentrale russische Kriegsforderung unterstützt. Der Ukraine-Friedensprozess stockt wegen des Iran-Krieges.",
-              "gegenstimme": "Die USA bestreiten, einseitig Druck auf die Ukraine auszuüben. Washington argumentiert, ein realistischer Friedensschluss erfordere Kompromisse auf beiden Seiten. Kritiker wiederum werfen den USA vor, die Ukraine als Verhandlungsmasse für andere geopolitische Ziele zu opfern – zumal Russland keinerlei eigene Kompromissbereitschaft gezeigt hat.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/sicherheitsgarantien-nur-gegen-aufgabe-des-donbass-die-usa-unterstuetzen-wichtiges-russisches-kriegsziel-in-der-ukraine-ld.1931163"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-gotthard-wintereinbruch-april-2026",
-              "slug": "gotthard-wintereinbruch-april-2026",
-              "title": "Wintereinbruch vor Gotthard: Chaos mit Sommerreifen – bis zu 1 Meter Neuschnee",
-              "date": "2026-03-27",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "❄️",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/26/4f09cdf5-e620-4a2a-96ef-518b3f20ca60.jpg",
-              "kurz": "Starker Schneefall am Donnerstagabend legte den Verkehr vor dem Gotthard lahm. Fahrzeuge mit Sommerreifen kamen ins Schleudern – darunter auch ein Flixbus.",
-              "summary": "In der Nacht auf Donnerstag sorgte starker Schneefall am Gotthard für chaotische Zustände auf der A2. Mehrere Fahrzeuge, darunter Lastwagen und ein Flixbus, blieben auf der Fahrbahn stecken oder stellten sich quer. Die Kantonspolizei Uri bestätigte, dass viele betroffene Fahrzeuge mit Sommerreifen unterwegs waren. Der Stau wuchs auf über drei Kilometer an. Im Alpenraum werden in den kommenden Tagen bis zu einem Meter Neuschnee erwartet.",
-              "gegenstimme": "Kritiker verweisen darauf, dass Fahrer mit Sommerreifen nicht nur sich selbst, sondern auch andere gefährden und den Einsatz von Schneeräumfahrzeugen blockieren. Die Frage nach Konsequenzen für unzureichend ausgerüstete Fahrzeugführer wird erneut laut.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/wintereinbruch-sommerreifen-sorgen-fuer-chaos-vor-dem-gotthard-103534990"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-kita-missbrauch-winterthur-bern",
-              "slug": "kita-missbrauch-winterthur-bern",
-              "title": "Kita-Skandal: Wie konnte der Täter ungehindert von Winterthur nach Bern wechseln?",
-              "date": "2026-03-27",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/8aQw9Y03KmYBF9ep4JS8as.jpg",
-              "kurz": "Ein Kita-Betreuer soll über 15 Kinder misshandelt haben – obwohl bereits 2022 eine Meldung einging. Ein Systemversagen mit schwerwiegenden Folgen.",
-              "summary": "Ein Kita-Betreuer in Bern steht im Verdacht, mindestens 15 Kinder misshandelt zu haben. Er war zuvor in Winterthur tätig, wo 2022 bereits eine Meldung zu seinen Handlungen einging – die jedoch zu keinem Strafverfahren führte. Der Fall wirft grundsätzliche Fragen zum Informationsaustausch zwischen Institutionen und zum Schutz von Kindern in Betreuungseinrichtungen auf. Betroffene Eltern und Fachleute fordern bessere Kontrollmechanismen.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass bestehende Meldepflichten und Datenschutzregeln den Austausch zwischen Kitas und Behörden erschweren. Eine frühere Intervention wäre möglich gewesen, wenn Meldungen konsequenter verfolgt worden wären.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/kindsmissbrauch-winterthur-wie-kita-taeter-nach-bern-wechselte-932821400411"
-                },
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/kindsmissbrauch-winterthur-wie-kita-taeter-nach-bern-wechselte-932821400411"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-schweiz-patriot-zahlungsstopp-wirkungslos",
-              "slug": "schweiz-patriot-zahlungsstopp-wirkungslos",
-              "title": "Patriot-Zahlungsstopp wirkungslos: USA greifen auf Schweizer F-35-Gelder zurück",
-              "date": "2026-03-27",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/04/3bd2fcf1-6dc1-4855-a0be-a6fe8e6485d6.jpg",
-              "kurz": "Die Schweiz stoppte Zahlungen für das verspätete Patriot-Flugabwehrsystem – doch die USA umgehen diesen Schritt einfach, indem sie auf F-35-Gelder zugreifen.",
-              "summary": "Im September 2025 setzte die Schweiz Zahlungen für das bestellte Patriot-Flugabwehrsystem aus, weil sich die Lieferung um mindestens fünf Jahre verzögert. Recherchen von SRF zeigen nun, dass dieser Zahlungsstopp wirkungslos ist: Die USA leiten Schweizer Kampfjet-Gelder aus dem F-35-Fonds um und verwenden sie für Patriot. Die fehlenden F-35-Mittel musste das VBS Ende 2025 mit vorzeitigen Zahlungen in der Höhe von mehreren Dutzend Millionen Franken ausgleichen. Die Mehrkosten für Patriot könnten laut Rüstungschef Urs Loher bis zu 50 Prozent betragen – von zwei auf drei Milliarden Franken.",
-              "gegenstimme": "SP-Nationalrätin Priska Seiler-Graf fordert einen Abbruch der Patriot-Beschaffung. SVP-Ständerat Werner Salzmann sagt, sein Vertrauen in die USA habe gelitten und man müsse sich ernsthaft überlegen, ob solche FMS-Verträge noch sinnvoll seien.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/patriot-system-zahlungsstopp-nutzlos-usa-bedienen-sich-jetzt-bei-f-35-geldern-103534429"
-                },
-                {
-                  "name": "SWI swissinfo.ch",
-                  "url": "https://www.swissinfo.ch/ger/aussenpolitik/usa-umgehen-schweizer-zahlungsstopp-f%c3%bcr-flugabwehrsystem-patriot/91161790"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-bern-kaiserhaus-60-labels-neueroeffnung",
-              "slug": "bern-kaiserhaus-60-labels-neueroeffnung",
-              "title": "Kaiserhaus Bern: 60 Labels wagen kollektives Detailhandels-Experiment",
-              "date": "2026-03-27",
+              "id": "2026-03-28-bern-beach-zentrum-grimsel-pumpspeicher",
+              "slug": "bern-beach-zentrum-grimsel-pumpspeicher",
+              "title": "Bern investiert: 18-Mio-Beach-Zentrum in Ausserholligen und 300-Mio-Pumpspeicher am Grimsel",
+              "date": "2026-03-28",
               "time": "07:00",
               "category": "regional",
-              "icon": "🏘️",
+              "icon": "🏔️",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/9hqZr2RXKZ48bLFIpmf4at.jpg",
-              "kurz": "Nach sechs Jahren Umbau oeffnet das Kaiserhaus an der Berner Marktgasse am 10. April 2026. Rund 60 Labels, Ateliers und eine SNB-Erlebniswelt ziehen ein.",
-              "summary": "Das denkmalgeschuetzte Kaiserhaus in der Berner Marktgasse wird nach einer sechsjaehrigen Renovation am 10. April 2026 eroeffnet. Unter einem Dach vereint der Gebaeudekomplex rund 60 lokale Labels, Ateliers, Reparaturstationen und Gastronomie. Das Konzept setzt bewusst auf alternative Wirtschaftsmodelle und Kreislaufwirtschaft. Zusaetzlich betreibt die Schweizerische Nationalbank (SNB) im Haus das Besuchszentrum «Moneyverse».",
-              "gegenstimme": "Skeptiker fragen, ob ein derart experimentelles Konzept mit 60 Labels und alternativen Handelsmodellen langfristig wirtschaftlich tragfaehig ist. Der Berner Detailhandel kaempft bereits mit Onlinekonkurrenz und Kaufkraftabfluss ins Ausland – ob das Kaiserhaus genuegend Publikum anzieht, um alle Flaechen nachhaltig zu betreiben, bleibt abzuwarten.",
+              "image": "https://cdn.unitycms.io/images/BS80zEa7qHr8ChdsrfWkiB.jpg",
+              "kurz": "In der Region Bern nehmen zwei Grossprojekte konkrete Form an: das «Home of Beach» in Ausserholligen für 18,5 Millionen Franken und das neue Pumpspeicherwerk Grimsel 4 der KWO für 300 Millionen Franken.",
+              "summary": "Der Verein Beachvolley Bern realisiert in Ausserholligen das neue «Home of Beach» – ein nationales Leistungs- und Breitensportzentrum für Beachvolleyball mit Gesamtkosten von 18,5 Millionen Franken. Gleichzeitig hat der Verwaltungsrat der Kraftwerke Oberhasli (KWO) den Investitionsentscheid für das vollständig unterirdische Pumpspeicherwerk Grimsel 4 gefällt: 300 Millionen Franken, Baubeginn Juni 2026, Fertigstellung Februar 2032.",
+              "gegenstimme": "Beim Beach-Zentrum gibt es kritische Stimmen zur Nutzung des öffentlichen Raums: Die bisher dort befindliche Skateanlage – laut Stadtangaben die grösste und meistgenutzte der Stadt Bern – muss weichen. Für den Bau einer Ersatzanlage sind lediglich 700'000 Franken vorgesehen, was Skater-Kreisen als unzureichend gilt. Beim Grimsel-Projekt stellen Umweltorganisationen die Frage, ob der Eingriff ins Hochgebirge trotz unterirdischer Bauweise ökologisch vertretbar ist.",
               "sources": [
                 {
-                  "name": "Der Bund – Kaiserhaus Bern 60 Labels",
-                  "url": "https://www.derbund.ch/kaiserhaus-bern-warenhaus-oeffnet-mit-60-labels-418118404181"
+                  "name": "Der Bund – Beach",
+                  "url": "https://www.derbund.ch/bern-groesste-beachvolleyball-anlage-der-schweiz-im-bau-948074025480"
                 },
                 {
-                  "name": "Berner Zeitung – Kaiserhaus 60 Labels",
-                  "url": "https://www.bernerzeitung.ch/kaiserhaus-bern-warenhaus-oeffnet-mit-60-labels-418118404181"
+                  "name": "Der Bund – Grimsel",
+                  "url": "https://www.derbund.ch/grimsel-kwo-baut-pumpspeicherwerk-fuer-300-millionen-215688087726"
                 },
                 {
-                  "name": "SWI Swissinfo – Kaiserhaus Begegnungsort",
-                  "url": "https://www.swissinfo.ch/ger/kaiserhaus-in-bern-soll-ab-april-2026-zum-begegnungsort-werden/90214753"
+                  "name": "Radio BeO",
+                  "url": "https://www.radiobeo.ch/kwo-investiert-300-millionen-franken-in-neues-pumpspeicherwerk/"
                 },
                 {
-                  "name": "be-advanced AG – Kaiserhaus schafft Begegnungen",
-                  "url": "https://be-advanced.ch/stories/details/kaiserhaus-schafft-begegnungen-in-bern"
+                  "name": "Berner Bär",
+                  "url": "https://baernerbaer.ch/sport/in-ausserholligen-entsteht-das-neue-home-of-beach/"
+                },
+                {
+                  "name": "Stadt Zürich Medienmitteilung",
+                  "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/03/stadt-zuerich-realisiert-mit-kraftwerken-oberhasli-wasserkraftprojekt-grimsel-4.html"
                 }
               ]
             },
             {
-              "id": "2026-03-27-inflation-benzin-bundesbank-irankrieg",
-              "slug": "inflation-benzin-bundesbank-irankrieg",
-              "title": "Irankrieg treibt deutsche Inflation auf 3%: Bundestag beschliesst Tankstellen-Regelung",
-              "date": "2026-03-27",
+              "id": "2026-03-28-bern-wohnungsnot-leerkundigung",
+              "slug": "bern-wohnungsnot-leerkundigung",
+              "title": "Wohnungsnot Bern: Stadtrat lässt Massnahmen gegen Leerkündigungen prüfen",
+              "date": "2026-03-28",
+              "time": "07:00",
+              "category": "regional",
+              "icon": "🏠",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/148obk9aKkXBhMQAhROfeG.jpg",
+              "kurz": "Der Berner Stadtrat hat ein Postulat gegen Leerkündigungen bei Totalsanierungen mit 47 zu 15 Stimmen überwiesen. Gleichzeitig meldet Energie Wasser Bern (EWB) einen Gewinneinbruch von 55 Millionen Franken wegen Gösgen.",
+              "summary": "Der Berner Stadtrat hat am Donnerstag ein dringliches Postulat von GFL, SP/Juso und GB/JA überwiesen, das den Gemeinderat verpflichtet, Massnahmen gegen Leerkündigungen bei Totalsanierungen zu prüfen. Das Stadtparlament stimmte mit 47 zu 15 Stimmen zu. Auf der gleichen Traktandenliste: EWB weist für 2025 nur noch 34,7 Millionen Franken Reingewinn aus – ein Rückgang um 55 Millionen gegenüber dem Vorjahr, primär verursacht durch den Ausfall des Kernkraftwerks Gösgen.",
+              "gegenstimme": "SVP und FDP warnten im Stadtrat vor einem ausufernden Regulierungsapparat, der das Problem nicht löse. SVP-Sprecher Stephan Ischi kritisierte, Hauseigentümer würden pauschal als 'profitgeil' dargestellt. Dabei verhalte sich der Grossteil verantwortungsvoll. Ökonomen weisen zudem darauf hin, dass stärkere Regulierung Sanierungsanreize dämpfen und damit langfristig den Wohnraum knapper machen könnte.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/bern-stadtrat-will-gegen-leerkuendigungen-vorgehen-173591581213"
+                },
+                {
+                  "name": "BärnerBär",
+                  "url": "https://baernerbaer.ch/politik/regional/berner-stadtrat-lasst-massnahmen-gegen-leerkundigungen-prufen-67110638"
+                },
+                {
+                  "name": "cash.ch",
+                  "url": "https://www.cash.ch/news/energie-wasser-bern-2025-mit-umsatz-und-gewinneinbruch-923101"
+                },
+                {
+                  "name": "nau.ch",
+                  "url": "https://www.nau.ch/news/wirtschaft/energie-wasser-bern-schliesst-2025-trotz-sondereffekten-positiv-67110871"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-ceconomy-jd-com-oesterreich-blockade",
+              "slug": "ceconomy-jd-com-oesterreich-blockade",
+              "title": "Ceconomy-Übernahme: Österreich stellt sich gegen Verkauf an chinesisches JD.com",
+              "date": "2026-03-28",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "🏪",
+              "edition": "morning",
+              "image": "",
+              "kurz": "Die geplante Übernahme von Ceconomy durch JD.com stockt: Österreich verweigert bislang die investitionskontrollrechtliche Freigabe für den 2,2-Milliarden-Euro-Deal.",
+              "summary": "Ceconomy hat am 27. März 2026 via Ad-hoc-Meldung bestätigt, dass die Freigabe durch die österreichische Investitionskontrollbehörde ungewiss ist. Die restlichen kartellrechtlichen Genehmigungen in sechs Ländern sowie die FDI-Freigaben in Frankreich und Italien liegen bereits vor. JD.com hat dem österreichischen Wirtschaftsministerium weitgehende Zusagen gemacht, ohne dass dies bisher zur Freigabe geführt hat. Der Abschluss der Transaktion verzögert sich damit mindestens bis ins erste Halbjahr 2026.",
+              "gegenstimme": "JD.com und Ceconomy betonen, dass sie alle anderen Genehmigungen erhalten haben und aktiv mit Wien verhandeln. Kritiker in Europa sehen hingegen die Übernahme des grössten Elektronikhändlers des Kontinents durch einen chinesischen Konzern als strategisches Risiko – besonders in Zeiten geopolitischer Spannungen zwischen der EU und China.",
+              "sources": [
+                {
+                  "name": "Ceconomy Ad-hoc-Meldung via EQS/onvista",
+                  "url": "https://www.onvista.de/news/2026/03-27-eqs-adhoc-ceconomy-ag-information-zum-laufenden-oeffentlichen-uebernahmeverfahren-unsicherheit-ueber-investitionskontroll-rechtliche-freigabe-in-oesterreich-0-37-26495120"
+                },
+                {
+                  "name": "Bloomberg",
+                  "url": "https://www.bloomberg.com/news/articles/2026-03-27/austria-declines-to-approve-jd-com-s-offer-to-buy-ceconomy"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/uebernahme-oesterreich-stellt-sich-laut-ceconomy-bei-verkauf-an-jd.com-vielleicht-quer/100212620.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-ezb-zinsdebatte-april-schnabel-nagel",
+              "slug": "ezb-zinsdebatte-april-schnabel-nagel",
+              "title": "EZB-Zinsdebatte: Schnabel bremst, Nagel legt nach – Märkte spekulieren auf April-Erhöhung",
+              "date": "2026-03-28",
               "time": "07:00",
               "category": "wirtschaft",
               "icon": "📈",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/ba4d68f8-4d40-4386-a94e-009fa331009d_w520_r2.08_fpx62.69_fpy50.jpg",
-              "kurz": "Die Bundesbank warnt vor einer Inflationsrate von bis zu 3 Prozent infolge der anhaltenden Hormuz-Blockade. Der Bundestag reagiert mit einer neuen Preisregel fuer Tankstellen.",
-              "summary": "Die anhaltende Blockade der Strasse von Hormuz durch den Iran-Krieg treibt die deutschen Sprit- und Heizölpreise stark in die Höhe. Die Bundesbank erwartet, dass die Inflationsrate in den naechsten Monaten deutlich in Richtung 3 Prozent steigen wird. Der Bundestag hat am 26. März 2026 eine sogenannte Ein-Mal-am-Tag-Regel fuer Tankstellen beschlossen: Preiserhöhungen sind nur noch einmal taeglich zulässig. Gleichzeitig steigen die Kreditkosten fuer deutsche Unternehmen auf den hoechsten Stand seit Herbst 2022.",
-              "gegenstimme": "Kritiker bezweifeln, ob die Tankstellen-Regel tatsaechlich den Konsumenten nuetzt oder ob Mineralölkonzerne die einmal taeglich erlaubte Erhöhung strategisch nutzen werden. Oekonomisch gesehen loesen regulatorische Eingriffe keine Angebotsprobleme und könnten Verzerrungen im Markt verstaerken.",
+              "image": "https://images.handelsblatt.com/thumbnails/v2/eyJrIjoibWVkaWEiLCJpIjoiZXpidS16aW5zZGViYXR0ZS0yMDI2IiwidyI6MTkyMCwiaCI6MTA4MCwiZiI6IndlYnAifQ/image.webp",
+              "kurz": "Das EZB-Direktorium ist gespalten: Bundesbankchef Nagel hält eine Zinserhöhung im April für möglich, EZB-Direktorin Schnabel mahnt zur Geduld. Die Finanzmärkte wetten zunehmend auf eine baldige Straffung.",
+              "summary": "Im EZB-Rat prallen zwei Positionen aufeinander: Bundesbankpräsident Joachim Nagel bezeichnet eine Zinserhöhung im April als 'sicherlich eine Option', warnt vor täglich wachsenden Inflationsrisiken und drängt zum Handeln. EZB-Direktorin Isabel Schnabel mahnte hingegen an der Universität Zürich, es bestehe 'kein Grund zur Eile'. Der Leitzins steht derzeit bei 2,0 Prozent. Die Energiepreisschocks durch den Iran-Krieg und steigende Rüstungsausgaben in Europa erhöhen den Preisdruck.",
+              "gegenstimme": "Kritiker einer baldigen Zinserhöhung verweisen darauf, dass höhere Zinsen die ohnehin schwache Wirtschaft der Eurozone weiter belasten würden. Morningstar-Ökonomen erwarten, dass die EZB den Leitzins bei 2,0 Prozent hält und mittelfristig sogar wieder senken könnte, falls sich die Konjunktur nicht erholt. Eine Zinserhöhung angesichts eines externen Energiepreisschocks – wie ihn der Iran-Krieg verursacht – wäre geldpolitisch unorthodox.",
               "sources": [
                 {
-                  "name": "Der Spiegel – Inflation Bundesbank",
-                  "url": "https://www.spiegel.de/wirtschaft/service/irankrieg-treibt-inflation-laut-bundesbank-in-richtung-drei-prozent-a-c342895e-68f8-450d-ae46-a27bf59c9ff5"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-zinserhoehung-in-der-euro-zone-im-april-schnabel-bremst-nagel-legt-nach/100212596.html"
                 },
                 {
-                  "name": "Der Spiegel – Tankstellen-Regel Bundestag",
-                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/benzinpreis-bundestag-stimmt-fuer-ein-mal-am-tag-regel-fuer-tankstellen-a-6391a5e7-586f-4a3b-b267-ffc52b2c83e3"
+                  "name": "FXStreet",
+                  "url": "https://www.fxstreet.de.com/news/nagel-von-der-ezb-zinserhohung-im-april-ist-sicherlich-eine-option-202603260647"
                 },
                 {
-                  "name": "Handelsblatt – Anleihenmarkt Haertetest",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-iran-krieg-wird-fuer-den-globalen-anleihemarkt-zum-haertetest/100211292.html"
-                },
-                {
-                  "name": "Handelsblatt – Kreditkosten Unternehmen",
-                  "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-irankrieg-treibt-kreditkosten-fuer-firmen-drastisch-nach-oben/100211686.html"
+                  "name": "Morningstar",
+                  "url": "https://global.morningstar.com/de/wirtschaft/hat-die-ezb-ihre-zinssenkungen-beendet-ausblick-fr-2025-und-2026"
                 }
               ]
             },
             {
-              "id": "2026-03-27-maerkte-iran-boersen-verluste",
-              "slug": "maerkte-iran-boersen-verluste",
-              "title": "Boersen unter Druck: Irankrieg laesst SMI, DAX und Nasdaq deutlich fallen",
-              "date": "2026-03-27",
+              "id": "2026-03-28-iran-hormuz-neue-bedingungen",
+              "slug": "iran-hormuz-neue-bedingungen",
+              "title": "Strasse von Hormuz: Iran fordert neue Passagebedingungen – Tanker kehren um",
+              "date": "2026-03-28",
               "time": "07:00",
               "category": "wirtschaft",
-              "icon": "📉",
+              "icon": "🛢️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/ESt6klxsKl1Bu_fQwBUi8p.jpg",
+              "kurz": "Der Iran hat an der Strasse von Hormuz ein faktisches Mautsystem eingeführt. Schiffe zahlen bis zu zwei Millionen Dollar pro Durchfahrt – westliche Reedereien bleiben draussen.",
+              "summary": "Seit Kriegsbeginn am 28. Februar kontrolliert der Iran die Strasse von Hormuz mit einem System aus Dokumentenprüfung, Freigabecodes und Revolutionsgarden-Begleitung. Mindestens zwei Schiffe zahlten Gebühren in chinesischen Yuan. Brentöl hat die Marke von 106 Dollar überschritten – ein Anstieg von fast 50 Prozent seit Kriegsbeginn. Über 2000 Schiffe mit mehr als 20'000 Besatzungsmitgliedern stecken im Kriegsgebiet fest.",
+              "gegenstimme": "Iran bestreitet eine vollständige Schliessung der Meerenge und betont, Schiffe die 'nicht als feindlich gelten' dürften passieren – sofern sie sich an Sicherheitsvorschriften halten. Kritiker sehen darin eine gezielte Selektivität, die de facto westliche Reedereien ausschliesst und Teherans geopolitischen Einfluss ausbaut, ohne eine formale Blockade erklären zu müssen.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/krieg-im-persischen-golf-seeleute-gefangen-vor-der-strasse-von-hormuz-ld.1931115"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/asien/iran-hormus-gebuehr-100.html"
+                },
+                {
+                  "name": "n-tv",
+                  "url": "https://www.n-tv.de/politik/Teheran-kontrolliert-Strasse-von-Hormus-mit-Mautstellen-id30515770.html"
+                },
+                {
+                  "name": "finanzen.net",
+                  "url": "https://www.finanzen.net/nachricht/rohstoffe/oelpreis-steigt-weiter-ueber-100-us-dollar-iran-krieg-treibt-15578736"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-der-iran-will-fuer-die-strasse-von-hormus-neue-bedingungen/100212376.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-lufthansa-kabinenpersonal-streik-urabstimmung",
+              "slug": "lufthansa-kabinenpersonal-streik-urabstimmung",
+              "title": "Lufthansa: Kabinenpersonal stimmt für Streik – Flugausfälle drohen",
+              "date": "2026-03-28",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "✈️",
               "edition": "morning",
               "image": "",
-              "kurz": "Der Iran-Krieg haelt die globalen Boersen fest im Griff. Nasdaq verliert ueber 2%, DAX und SMI ebenfalls im Minus – Gold und Oel profitieren.",
-              "summary": "Der Konflikt zwischen den USA, Israel und dem Iran belastet die weltweiten Aktienmaerkte massiv. Der S&P 500 verbucht die groessten Verluste seit Kriegsbeginn, der Nasdaq gilt als im Korrektur-Modus. In Asien zeigen sich gemischte Signale: Tokio und Shanghai reagieren unterschiedlich auf das anhaltende Umfeld. Das HRI-Wirtschaftsforschungsinstitut hat seine Konjunkturprognose fuer Deutschland zurueckgenommen und sieht fuer 2026 nur noch Mini-Wachstum.",
-              "gegenstimme": "Einige Analysten warnen vor Panikverkaufen und halten einen Teil der Kursverluste fuer uebertrieben. Chinesische Boersen zeigten sich widerstandsfaehiger, was zeigt, dass die Reaktion nicht ueberall gleichermassen stark ausfallt. Langfristig orientierte Investoren könnten die Schwaeche als Einstiegsgelegenheit werten.",
+              "kurz": "Das Kabinenpersonal von Lufthansa und CityLine hat in einer Urabstimmung mit überwältigender Mehrheit für Streikaktionen votiert. Flugausfälle sind damit erneut möglich.",
+              "summary": "Die Kabinengewerkschaft UFO gab am 27. März 2026 bekannt, dass 94 Prozent der Mitglieder bei der Kernmarke Lufthansa und fast 99 Prozent bei CityLine für Streiks gestimmt haben. Damit fehlt nur noch der Beschluss des UFO-Vorstands, um konkrete Arbeitskampfmassnahmen einzuleiten. Bereits Mitte Februar hatte ein gemeinsamer Streik von Piloten und Kabinenpersonal rund 800 Flüge gestrichen und fast 100'000 Passagiere betroffen. Mit dem Bodenpersonal konnte Lufthansa inzwischen eine Einigung erzielen – mit der Kabinenbesatzung nicht.",
+              "gegenstimme": "Lufthansa hat in der Vergangenheit betont, die Tarifgespräche konstruktiv führen zu wollen. Ökonomen warnen, dass weitere Streiks dem ohnehin durch gestiegene Betriebskosten belasteten deutschen Luftverkehrsmarkt schaden und die Wettbewerbsfähigkeit gegenüber günstigeren Billigfliegern weiter schwächen. Manche Beobachter sehen in der hohen Streikbereitschaft auch ein strukturelles Problem: Lufthansa verhandelt mit mehreren Gewerkschaften parallel, was koordinierte Einigungen erschwert.",
               "sources": [
                 {
-                  "name": "Handelsblatt – Asien-Boersen",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-asien-boersen-starten-mit-verlusten-neues-trump-ultimatum-bringt-kaum-erleichterung/100212344.html"
+                  "name": "Reuters/onvista",
+                  "url": "https://www.onvista.de/news/2026/03-27-kabinenpersonal-bei-lufthansa-votiert-in-urabstimmung-fuer-streik-0-20-26495081"
                 },
                 {
-                  "name": "Handelsblatt – US-Boersen Nasdaq Korrektur",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-deutliche-verluste-an-den-us-boersen-nasdaq-im-korrektur-modus/100212122.html"
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/wirtschaft/2026-03/lufthansa-streik-kabinenpersonal-urabstimmung"
                 },
                 {
-                  "name": "Handelsblatt – HRI Konjunkturprognose",
-                  "url": "https://www.handelsblatt.com/politik/konjunktur/hri-konjunkturprognose-mehr-als-ein-mini-wachstum-ist-nicht-drin/100208870.html"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/luftfahrt-kabinenpersonal-bei-lufthansa-stimmt-in-urabstimmung-fuer-streik/100212589.html"
                 }
               ]
             },
             {
-              "id": "2026-03-27-rainforest-company-skandal-zuerich",
-              "slug": "rainforest-company-skandal-zuerich",
-              "title": "Wie Abfall behandelt': Ex-Mitarbeiter erheben schwere Vorwürfe gegen Rainforest Company",
-              "date": "2026-03-27",
+              "id": "2026-03-28-openai-ipo-softbank-signal-2026",
+              "slug": "openai-ipo-softbank-signal-2026",
+              "title": "OpenAI-Börsengang rückt näher: SoftBanks 40-Milliarden-Kredit als klares Signal",
+              "date": "2026-03-28",
               "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "💼",
+              "category": "tech",
+              "icon": "💰",
               "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/18/1e9a1627-6381-455c-85e6-057fc225a6e3.png",
-              "kurz": "Das Zürcher Nachhaltigkeits-Start-up The Rainforest Company ist insolvent. Die Gründerin sitzt in Untersuchungshaft – und Ex-Mitarbeitende berichten von einem toxischen Arbeitsumfeld.",
-              "summary": "The Rainforest Company, ein auf Açaí-Produkte spezialisiertes Start-up mit Zürcher Wurzeln, ist seit dem Frühjahr 2025 insolvent. Gründerin Albana Rama sitzt in Untersuchungshaft wegen Verdachts auf Vermögensdelikte. Ehemalige Mitarbeitende schildern gegenüber 20 Minuten ein Klima der Angst, unbezahlte Löhne und eine herrische Führungskultur. Das Berliner Arbeitsgericht führte seit 2019 insgesamt 20 Verfahren gegen das Unternehmen. Rama bestreitet die Vorwürfe bislang nicht öffentlich – sie konnte bis zur Veröffentlichung nicht erreicht werden.",
-              "gegenstimme": "Investoren und der Verwaltungsrat werden von ehemaligen Mitarbeitenden mitverantwortlich gemacht: Sie hätten die Zustände zu lange toleriert. Die Frage nach der Aufsichtspflicht von Verwaltungsrat und Kapitalgebern steht im Raum.",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/openai-codex-plugins.jpg",
+              "kurz": "SoftBank hat einen ungesicherten 40-Milliarden-Dollar-Kredit mit 12 Monaten Laufzeit aufgenommen – Marktbeobachter sehen darin ein klares Signal für einen OpenAI-Börsengang noch 2026. Gleichzeitig holt OpenAI bei Entwicklerwerkzeugen auf.",
+              "summary": "SoftBank hat einen neuen Kredit von 40 Milliarden Dollar aufgenommen, um seine Beteiligung an OpenAI zu finanzieren. Der Kredit ist unbesichert und läuft nur 12 Monate – was darauf hindeutet, dass Kreditgeber wie JPMorgan Chase und Goldman Sachs mit einem baldigen OpenAI-Börsengang rechnen. SoftBanks Gesamtinvestition in OpenAI beläuft sich damit auf über 60 Milliarden Dollar. Gleichzeitig hat OpenAI seinen Codex-Assistenten mit Plugin-Support ausgestattet, womit Claude Code als direkter Konkurrent ins Visier genommen wird.",
+              "gegenstimme": "Skeptiker warnen, dass die Bewertungserwartungen für einen OpenAI-Börsengang möglicherweise weit über dem realen Marktpotenzial liegen. Das Unternehmen hat trotz Rekordumsätzen noch keinen profitablen Betrieb nachgewiesen, und die Abhängigkeit von Microsoft-Infrastruktur sowie der laufende Umbau zur For-Profit-Struktur werfen rechtliche und strukturelle Fragen auf. Beim Codex-Plugin-Update urteilen Entwickler nüchtern: Es ist im Wesentlichen Aufholarbeit gegenüber Features, die in Claude Code schon längst verfügbar sind.",
               "sources": [
                 {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/the-rainforest-company-wie-abfall-behandelt-ex-mitarbeiter-erheben-schwere-vorwuerfe-103533804"
+                  "name": "TechCrunch: SoftBank Loan & OpenAI IPO",
+                  "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
+                },
+                {
+                  "name": "Ars Technica: OpenAI Codex Plugins",
+                  "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/"
                 }
               ]
             },
             {
-              "id": "2026-03-27-anthropic-pentagon-gericht-sieg",
-              "slug": "anthropic-pentagon-gericht-sieg",
-              "title": "Anthropic erringt Sieg gegen US-Regierung: Gericht stoppt Pentagon-Lieferketten-Sperre",
-              "date": "2026-03-27",
+              "id": "2026-03-28-physical-intelligence-milliarde-ki-robotics",
+              "slug": "physical-intelligence-milliarde-ki-robotics",
+              "title": "Physical Intelligence verhandelt 1 Milliarde Dollar – KI-Robotics boomt",
+              "date": "2026-03-28",
               "time": "07:00",
               "category": "tech",
               "icon": "🤖",
               "edition": "morning",
-              "image": "",
-              "kurz": "Ein US-Bundesgericht hat die Pentagon-Klassifizierung von Anthropic als Lieferkettenrisiko vorläufig gestoppt. Richterin Lin sah darin eine verfassungswidrige Strafaktion gegen die Redefreiheit des Unternehmens.",
-              "summary": "Die Bundesrichterin Rita Lin in San Francisco hat eine einstweilige Verfügung gegen das US-Verteidigungsministerium erlassen und die Einstufung von Anthropic als Lieferkettenrisiko vorläufig ausgesetzt. Das Gericht befand, dass die Massnahme nicht der nationalen Sicherheit diente, sondern Anthropic für öffentliche Kritik an KI-Risiken bestrafen sollte. Anthropic hatte sich geweigert, dem Pentagon uneingeschränkte Nutzung seiner KI-Systeme zu erlauben – insbesondere für Massenüberwachung und autonome Waffen. Ein endgültiges Urteil steht noch aus und könnte Monate in Anspruch nehmen.",
-              "gegenstimme": "Das US-Justizministerium argumentiert, die Weigerung von Anthropic, Einschränkungen für Militäranwendungen aufzuheben, könne laufende Militäreinsätze gefährden. Die Regierung hat sieben Tage Zeit für eine Berufung. Kritiker fragen, ob ein privates Unternehmen de facto Veto-Rechte über staatliche Sicherheitsentscheide beanspruchen kann.",
+              "image": "https://techcrunch.com/wp-content/uploads/2026/01/physical-intelligence-tc-1.jpg",
+              "kurz": "Das KI-Robotics-Startup Physical Intelligence verhandelt über eine weitere Milliarden-Dollar-Finanzierung – diesmal bei einer Bewertung von 11 Milliarden Dollar. Waymo zeigt derweil, wohin autonome Mobilität führen kann.",
+              "summary": "Physical Intelligence, ein zweijähriges Startup aus San Francisco, steht laut Bloomberg kurz vor einer neuen Finanzierungsrunde von rund 1 Milliarde Dollar bei einer Bewertung von über 11 Milliarden Dollar. Das wäre eine Verdoppelung der Bewertung innerhalb von nur vier Monaten. Gleichzeitig erreicht Waymo 500'000 bezahlte Robotaxi-Fahrten pro Woche – ein Zehnfaches gegenüber Mai 2024. Beide Entwicklungen zeigen das enorme Investor-Vertrauen in autonome, KI-gestützte Systeme.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass Physical Intelligence bislang keine klare Kommerzialisierungsstrategie vorgelegt hat. Co-Gründer Lachy Groom selbst räumt ein, es gebe 'keinen Zeitplan für die Kommerzialisierung'. Bei Waymo hingegen häufen sich regulatorische Untersuchungen – unter anderem wegen Verstössen beim Verhalten gegenüber Schulbussen und der Inanspruchnahme von Polizei und Feuerwehr für liegengebliebene Fahrzeuge.",
               "sources": [
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/technologie/streit-mit-der-us-regierung-anthropic-erringt-einen-ersten-sieg-vor-gericht-ld.1931315"
+                  "name": "TechCrunch: Physical Intelligence Fundraising",
+                  "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/"
                 },
                 {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/it-internet/ki-gericht-stoppt-vorerst-pentagon-sperre-gegen-ki-firma-anthropic/100212304.html"
+                  "name": "TechCrunch: Waymo Ridership",
+                  "url": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/"
                 }
               ]
             },
             {
-              "id": "2026-03-27-google-turboquant-ki-speicher-effizienz",
-              "slug": "google-turboquant-ki-speicher-effizienz",
-              "title": "Google TurboQuant: Neuer Algorithmus reduziert KI-Speicherbedarf um Faktor 6",
-              "date": "2026-03-27",
+              "id": "2026-03-28-sk-hynix-ipo-ram-markt",
+              "slug": "sk-hynix-ipo-ram-markt",
+              "title": "SK Hynix plant US-Börsengang – Lösung für globalen RAM-Engpass?",
+              "date": "2026-03-28",
               "time": "07:00",
               "category": "tech",
-              "icon": "💻",
+              "icon": "💾",
               "edition": "morning",
-              "image": "",
-              "kurz": "Google Research hat TurboQuant vorgestellt, einen Kompressionsalgorithmus, der den Speicherbedarf grosser Sprachmodelle um den Faktor 6 reduziert – ohne Qualitätsverlust. Parallel dazu stimmt das EU-Parlament für Verzögerungen beim KI-Act und ein Verbot von Nacktbild-Apps.",
-              "summary": "TurboQuant kombiniert zwei Techniken (PolarQuant und QJL) um den Key-Value-Cache von LLMs massiv zu komprimieren: Tests auf Gemma- und Mistral-Modellen zeigen eine sechsfache Speicherreduktion und eine achtfache Beschleunigung bei der Berechnung von Attention-Scores auf Nvidia H100-GPUs – bei gleichbleibender Modellqualität. Der Algorithmus benötigt kein Nachtraining und kann auf bestehende Modelle angewendet werden. Gleichzeitig hat das EU-Parlament Verzögerungen für Hochrisiko-KI-Compliance bis Ende 2027 sowie ein geplantes Verbot von KI-generierten Nacktbildern (Nudify-Apps) beschlossen.",
-              "gegenstimme": "Die Ergebnisse stammen aus Googles eigenem Forschungslabor und sind noch nicht unabhängig repliziert worden. Zudem ist unklar, ob die Effizienzgewinne in der Praxis vor allem Nutzern zugutekommen – oder ob Anbieter die freie Kapazität schlicht für noch grössere, komplexere Modelle nutzen werden. Beim EU-AI-Act werfen die erneuten Verzögerungen die Frage auf, ob das ambitionierte Regelwerk jemals termingerecht umgesetzt wird.",
+              "image": "https://techcrunch.com/wp-content/uploads/2026/03/sk-hynix-chip.jpg",
+              "kurz": "Der südkoreanische Speicherchip-Riese SK Hynix plant einen US-Börsengang mit einem Volumen von 10 bis 14 Milliarden Dollar. Das Kapital soll helfen, die weltweite RAM-Knappheit im KI-Zeitalter zu bekämpfen.",
+              "summary": "SK Hynix, weltweit führender Hersteller von High-Bandwidth-Memory (HBM) für KI-Chips, hat vertraulich ein F-1-Formular bei der US-Börsenaufsicht eingereicht. Der geplante US-Börsengang in der zweiten Jahreshälfte 2026 könnte 10 bis 14 Milliarden Dollar einbringen. Das Kapital ist für massive Erweiterungen der Produktionskapazitäten vorgesehen, um die anhaltende RAM-Knappheit zu adressieren, die den KI-Chip-Markt seit Monaten belastet. Die sogenannte 'RAMmageddon'-Situation soll laut Prognosen mindestens bis 2027 andauern.",
+              "gegenstimme": "Ein US-Börsengang allein löst keine Lieferketten-Probleme: Der Bau neuer Chipfabriken dauert Jahre und ist kapitalintensiv. Analysten warnen, dass die erhofften Kapazitätssteigerungen erst 2028 oder später voll wirksam werden könnten. Zudem könnte ein Bewertungsanstieg durch US-Listing die koreanische Aktienbasis von SK Hynix verwässern und Konflikte mit dem Grossaktionär SK Square auslösen, der mindestens 20 Prozent Beteiligung halten muss.",
               "sources": [
                 {
-                  "name": "Ars Technica",
-                  "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/"
-                },
-                {
-                  "name": "The Verge (TurboQuant)",
-                  "url": "https://www.theverge.com/ai-artificial-intelligence/901313/googles-turboquant-algorithm-aims-to-slash-ai-memory-usage"
-                },
-                {
-                  "name": "The Verge (EU AI Act)",
-                  "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps"
+                  "name": "TechCrunch: SK Hynix US IPO",
+                  "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/"
                 }
               ]
             },
             {
-              "id": "2026-03-27-musk-x-klage-werbekunden-abgewiesen",
-              "slug": "musk-x-klage-werbekunden-abgewiesen",
-              "title": "Musk scheitert mit Klage gegen X-Werbekunden: Gericht weist Boykott-Klage ab",
-              "date": "2026-03-27",
+              "id": "2026-03-28-social-media-sucht-prozess-meta-youtube",
+              "slug": "social-media-sucht-prozess-meta-youtube",
+              "title": "Silicon Valley in Aufruhr: Landmark-Urteil im Social-Media-Sucht-Prozess gegen Meta und YouTube",
+              "date": "2026-03-28",
               "time": "07:00",
               "category": "tech",
               "icon": "📱",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/eba50fa8-8ca8-43ca-90f8-86130704b82e_w520_r2.08_fpx47.32_fpy48.98.jpg",
-              "kurz": "Eine US-Richterin in Texas hat die Klage von Elon Musks Plattform X gegen mehrere grosse Werbekunden abgewiesen. X konnte den Vorwurf eines koordinierten Wettbewerbsverstosses nicht belegen.",
-              "summary": "X, die ehemalige Twitter-Plattform unter Elon Musks Führung, ist mit einer Klage gegen Unternehmen wie Unilever, Mars und Lego gescheitert. Diese Firmen hatten nach Musks Übernahme von Twitter ihre Werbeausgaben auf der Plattform stark reduziert oder ganz eingestellt. X warf ihnen einen koordinierten Boykott und Verstoss gegen Wettbewerbsrecht vor. Eine Richterin in Texas wies die Klage ab – Unternehmen haben das Recht, selbst zu entscheiden, wo sie werben.",
-              "gegenstimme": "Musk und X argumentierten, die Werbekunden hätten sich über eine Branchenvereinigung abgesprochen, um X wirtschaftlich zu schädigen. Tatsächlich halbierten sich die Werbeeinnahmen von X nach der Übernahme – ein erheblicher wirtschaftlicher Schaden. Ob hinter dem koordinierten Rückzug eine formelle Absprache oder schlicht gleichgerichtetes Eigeninteresse der Firmen steckte, blieb juristisch ungeklärt.",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/assets/img/2024/09/02/110802148.jpg",
+              "kurz": "Eine Geschworenenjury in Los Angeles hat Meta und YouTube für schuldig befunden, durch suchtförderndes Plattformdesign die psychische Gesundheit einer jungen Nutzerin geschädigt zu haben – ein Präzedenzfall mit weitreichenden Folgen.",
+              "summary": "Am Mittwoch, dem 25. März 2026, fällten Geschworene in Los Angeles ein wegweisendes Urteil: Meta (Instagram) und YouTube wurden haftbar gemacht für den psychischen Schaden, den ihre Plattformen der damals minderjährigen Kaley zugefügt haben. Die Jury sprach ihr 3 Millionen Dollar Schadensersatz und weitere 3 Millionen Dollar Strafschadenersatz zu. Beide Konzerne haben Berufung angekündigt. Das Urteil wird als Startschuss für Tausende weiterer Klagen gesehen, die bereits in der Pipeline sind – darunter acht weitere sogenannte Bellwether-Prozesse in den kommenden Monaten.",
+              "gegenstimme": "Meta und Google betonen, dass das Urteil nicht einstimmig war und die Geschworenendebatte fast zwei Wochen dauerte. Rechtsprofessor Eric Goldman von der Santa Clara University warnt: Sollte die neue Rechtsdoktrin Bestand haben, könnte das eine existenzielle Bedrohung für die Social-Media-Branche werden – mit unabsehbaren Folgen für Millionen Nutzerinnen und Nutzer, die digitale Gemeinschaften zur Vernetzung und sozialen Einbindung nutzen. Meta hebt ausserdem hervor, dass Kayleys psychische Probleme bereits vor ihrer Nutzung von Instagram bestanden.",
               "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/netzwelt/x-elon-musk-scheitert-mit-klage-gegen-abtruennige-werbekunden-a-64074a0a-e17f-4ff0-9680-5851b13a9f8f"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-03-27-israel-iran-strategie-ruestungsindustrie",
-              "slug": "israel-iran-strategie-ruestungsindustrie",
-              "title": "Israel wechselt Strategie: Rüstungsindustrie statt Generäle – USA und Iran bereiten Gespräche vor",
-              "date": "2026-03-27",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/85bec4f5-e82c-47f2-ae59-e28f5b16680b_w520_r2.08_fpx58.67_fpy50.jpg",
-              "kurz": "Israel verlagert seine Angriffe auf Irans Rüstungsindustrie und tötet den Chef der IRGC-Marine. Gleichzeitig signalisieren USA und Iran Gesprächsbereitschaft.",
-              "summary": "Seit Beginn des Irankriegs Ende Februar 2026 hat Israel seine Angriffsstrategie grundlegend geändert: Statt auf Generäle und Regimevertreter zielt die israelische Luftwaffe nun systematisch auf Fabrikationsanlagen für Raketen und Rüstungsgüter. Parallel dazu haben die USA und Iran laut Bundesaussenminister Wadephul indirekte Kontakte aufgenommen und planen ein direktes Treffen in Pakistan. Die G7-Aussenminister beraten in Frankreich über eine gemeinsame Linie zur Deeskalation.",
-              "gegenstimme": "Kritiker bezweifeln, ob die Zerstörung von Fabriken eine nachhaltige Wirkung hat – Iran kann Produktionskapazitäten verlagern oder wieder aufbauen. Auch die Verlängerung des US-Ultimatums um weitere zehn Tage wird als Zeichen von Ratlosigkeit interpretiert, nicht als diplomatischer Erfolg.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-weniger-generaele-mehr-fabriken-israel-aendert-angriffsstrategie-a-725f0335-a56c-46eb-a5fb-1fd4bf75036e"
-                },
                 {
                   "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cy81p99x07no"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-philippinen-energienotstand-asien-hormuz",
-              "slug": "philippinen-energienotstand-asien-hormuz",
-              "title": "Philippinen rufen Energienotstand aus – Hormuz-Krise trifft Asien hart",
-              "date": "2026-03-27",
-              "time": "12:15",
-              "category": "international",
-              "icon": "⚡",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/BKVshtAzKqlB1Rrrj-3KOe.jpg",
-              "kurz": "Die Philippinen haben wegen des Irankriegs den nationalen Energienotstand ausgerufen. Thailand strich Benzinsubventionen. Südostasien trifft die Hormuz-Blockade härter als erwartet.",
-              "summary": "Vier Wochen nach Beginn des Irankriegs und der Schliessung der Strasse von Hormuz spitzt sich die Energielage in Südostasien zu. Die Philippinen haben am Mittwoch den Energienotstand ausgerufen, da sich die Treibstoffpreise seit Kriegsbeginn verdoppelt haben. Thailand gab teure Benzinsubventionen auf, was zu langen Schlangen an Tankstellen führte. Der singapurische Aussenminister bezeichnete die Situation treffend als «Asien-Krise».",
-              "gegenstimme": "Kritiker werfen den philippinischen und thailändischen Regierungen vor, zu spät zu reagieren. Die Abhängigkeit von Golfimporten war seit Jahren bekannt. Notstandsmassnahmen können zwar kurzfristig Versorgungssicherheit schaffen, lösen aber das strukturelle Problem der einseitigen Importabhängigkeit nicht.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/iran-krieg-philippinen-rufen-den-notstand-aus-thailands-benzipreise-erhoeht-ld.1931110"
-                },
-                {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/thailand-iran-krieg-fuehrt-zu-energiekrise-309489258817"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-russland-usa-kongress-diplomatische-auftauung",
-              "slug": "russland-usa-kongress-diplomatische-auftauung",
-              "title": "Diplomatische Überraschung: Russische Abgeordnete besuchen erstmals seit Jahren den US-Kongress",
-              "date": "2026-03-27",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/c2a61b63-af61-4502-9dd3-3a16669e6224_w520_r2.08_fpx33.35_fpy50.jpg",
-              "kurz": "Vertreter der russischen Staatsduma haben US-Kongressmitglieder in Washington besucht – das erste solche Treffen seit fast 25 Jahren. Putin soll die Reise persönlich angeordnet haben.",
-              "summary": "Am 27. März 2026 empfingen US-Kongressmitglieder erstmals seit Jahren eine offizielle Delegation der russischen Staatsduma in Washington. Das Treffen fand im nach Trump benannten US-Friedensinstitut statt. Auf russischer Seite nahmen unter anderem der stellvertretende Parlamentspräsident Boris Tschernyschow teil. Kremlsprecher Peskow bezeichnete es als Beitrag zur «Wiederbelebung der bilateralen Beziehungen». Friedensgespräche über die Ukraine stehen derweil praktisch still.",
-              "gegenstimme": "Kritiker in Washington und Europa sehen das Treffen als voreilige Normalisierung mit einem Staat, der einen aktiven Angriffskrieg gegen die Ukraine führt. Die symbolische Geste könnte Moskau nutzen, um international Legitimität zu gewinnen, ohne konkrete Zugeständnisse beim Ukraine-Konflikt zu machen.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/usa-russische-abgeordnete-besuchen-erstmals-seit-jahren-mitglieder-des-us-kongress-a-7968e04e-a60c-4e11-b255-c908e5af5a1c"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-saudi-arabien-usa-mehr-angriffe-iran",
-              "slug": "saudi-arabien-usa-mehr-angriffe-iran",
-              "title": "Saudi-Arabien drängt USA zu weiteren Angriffen auf Iran",
-              "date": "2026-03-27",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Kronprinz Mohammed bin Salman sieht den Irankrieg als historische Gelegenheit zur Neugestaltung des Nahen Ostens und drängt Washington zu weiteren Militärschlägen.",
-              "summary": "Saudi-Arabiens Kronprinz Mohammed bin Salman (MBS) soll US-Vertreter aktiv dazu gedrängt haben, die Angriffe auf Iran auszuweiten. Er betrachtet den Konflikt als einmalige Chance, die regionale Machtbalance zugunsten Saudi-Arabiens zu verschieben und den iranischen Einfluss dauerhaft zu schwächen. Dies geschieht, obwohl Riad offiziell keine Kriegspartei ist.",
-              "gegenstimme": "Saudi-Arabiens Haltung ist zwiespältig: Das Königreich profitiert kurzfristig von hohen Ölpreisen durch die Hormuz-Blockade, riskiert aber langfristig eine destabilisierte Nachbarschaft und verstärkte Huthi-Angriffe vom Jemen aus. Zudem könnte ein geschwächter Iran die regionalen Machtverhältnisse in eine Richtung verschieben, die Saudi-Arabien nicht vollständig kontrollieren kann.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/27/saudi-arabia-us-iran-attacks-mohammed-bin-salman"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-keller-sutter-budget-2027-sparen",
-              "slug": "keller-sutter-budget-2027-sparen",
-              "title": "Keller-Sutter: Sparpaket 2027 reicht nicht aus – weitere Entlastungen nötig",
-              "date": "2026-03-27",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/4PQ1vXocK568ZhQbz8uZv9.jpg",
-              "kurz": "Schweizer Finanzministerin Keller-Sutter fordert zusätzliche Sparmassnahmen: Das bisherige Sparpaket für das Budget 2027 reiche nicht aus.",
-              "summary": "Finanzministerin Karin Keller-Sutter hat sich besorgt über die finanzielle Lage des Bundes geäussert und weitere Entlastungen für das Budget 2027 gefordert. Das bereits beschlossene Sparpaket sei angesichts der geopolitischen Unsicherheiten und des globalen Konjunkturabschwungs nicht ausreichend. Der Iran-Krieg und seine wirtschaftlichen Folgen verschärfen den Druck auf die Bundesfinanzen.",
-              "gegenstimme": "Gewerkschaften und linke Parteien warnen vor Sozialabbau. Sie fordern stattdessen höhere Einnahmen durch Steuern auf Kapitalgewinne und Unternehmensgewinne, anstatt bei sozialen Leistungen zu sparen. Die Schuldenbremse sei in Krisenzeiten das falsche Instrument.",
-              "sources": [
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/keller-sutter-sparpaket-27-reicht-nicht-aus-979365117400"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-bundestag-altersvorsorge-riester-nachfolger",
-              "slug": "bundestag-altersvorsorge-riester-nachfolger",
-              "title": "Ende der Riester-Rente: Bundestag verabschiedet Reform der Altersvorsorge",
-              "date": "2026-03-27",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "💰",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/5eb4ba59-0dcc-46ae-b2de-1d2d277c3c31_w520_r2.08_fpx49_fpy64.jpg",
-              "kurz": "Der Bundestag hat den Nachfolger der Riester-Rente beschlossen – ab 2027 neue staatlich geförderte Vorsorgemöglichkeiten.",
-              "summary": "Der deutsche Bundestag hat heute die Reform der privaten Altersvorsorge verabschiedet. Ab 2027 erhalten Bürgerinnen und Bürger neue Möglichkeiten zur staatlich geförderten Privatvorsorge als Nachfolger der unbeliebten und bürokratischen Riester-Rente. Die Reform soll die private Altersvorsorge einfacher, flexibler und attraktiver machen.",
-              "gegenstimme": "Kritiker bezweifeln, ob die Reform weit genug geht. Viele Ökonomen fordern eine grundlegende Neuausrichtung hin zu einem kapitalgedeckten System nach schwedischem oder norwegischem Vorbild. Die neue Förderstruktur bleibt komplex und könnte erneut zu geringer Nutzung führen.",
-              "sources": [
-                {
-                  "name": "Spiegel Wirtschaft",
-                  "url": "https://www.spiegel.de/wirtschaft/bundestag-beschliesst-reform-der-altersvorsorge-a-f1cee04d-b144-40a1-9bc3-154d1ae0f93c"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/bundestag-stimmt-fuer-reform-der-altersvorsorge-was-bringt-der-nachfolger-der-riester-rente-ld.1931318"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-deutsche-bahn-milliardenverlust-2025",
-              "slug": "deutsche-bahn-milliardenverlust-2025",
-              "title": "Deutsche Bahn: Mehr Fahrgäste, aber noch grösserer Milliardenverlust",
-              "date": "2026-03-27",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "🚂",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/4c75baf2-4500-46f8-9d1f-b1eccda6cf38_w520_r2.08_fpx62.7_fpy50.jpg",
-              "kurz": "Die Deutsche Bahn verzeichnet steigende Fahrgastzahlen, aber 2,3 Milliarden Euro Verlust – trotz Schenker-Verkauf.",
-              "summary": "Die Deutsche Bahn hat ihre Jahresbilanz präsentiert: Mehr Fahrgäste im Fernverkehr, aber der Verlust stieg auf 2,3 Milliarden Euro. Der Verkauf der Logistiktochter Schenker konnte die strukturellen Probleme nicht lösen. Neue Chefin Evelyn Palla steht vor einer enormen Sanierungsaufgabe.",
-              "gegenstimme": "Kritiker sehen das Geschäftsmodell der DB grundsätzlich als sanierungsbedürftig: Zu viel Staatseinfluss, zu wenig Effizienz, zu alte Infrastruktur. Mehrere Ökonomen fordern eine strukturelle Trennung von Netz und Betrieb.",
-              "sources": [
-                {
-                  "name": "Spiegel Wirtschaft",
-                  "url": "https://www.spiegel.de/wirtschaft/deutsche-bahn-mehr-fahrgaeste-noch-groesserer-milliardenverlust-a-decdfebe-c3c9-464f-a1b6-69f6c6ea23e4"
-                },
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/deutsche-bahn-2-3-milliarden-euro-verlust-trotz-schenker-verkauf-720863935084"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-energieschock-e-auto-waermepumpe-attraktiver",
-              "slug": "energieschock-e-auto-waermepumpe-attraktiver",
-              "title": "Energieschock als Beschleuniger: E-Autos und Wärmepumpen werden durch Ölpreis-Spike attraktiver",
-              "date": "2026-03-27",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "⚡",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/0EkrwTnzKnuAcZlmiUAol7.jpg",
-              "kurz": "Der Energieschock durch den Irankrieg verändert Kaufentscheidungen: Gebrauchte E-Autos und Wärmepumpen boomen.",
-              "summary": "Der drastische Anstieg des Ölpreises durch die Hormuz-Blockade verändert die Kosten-Nutzen-Rechnung für Konsumenten fundamental. Gebrauchte Elektroautos sind plötzlich wieder gefragt, und Wärmepumpen boomen. Experten sehen darin eine strukturelle Verschiebung, die über die Krise hinaus anhält.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass Elektrizität in der Schweiz und Deutschland ebenfalls teurer wird – auch der Strommix enthält Erdgasanteile. Zudem sind Wärmepumpen nicht überall einbaubar, und die Lieferketten für E-Autos bleiben fragil.",
-              "sources": [
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/irankrieg-e-autos-und-waermepumpen-werden-attraktiver-917663364235"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/hohe-spritpreise-nachfrage-nach-gebrauchten-elektroautos-waechst/100212384.html"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-03-27-iran-fbi-hack-handala-kash-patel",
-              "slug": "iran-fbi-hack-handala-kash-patel",
-              "title": "Proiranische Hacker knacken E-Mail des FBI-Chefs Kash Patel",
-              "date": "2026-03-27",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🕵️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/17f46dfe-44b8-49fa-ad8a-9886d1003f0e_w520_r2.08_fpx47.34_fpy45.jpg",
-              "kurz": "Die proiranische Hackergruppe Handala hat offenbar das private E-Mail-Konto von FBI-Direktor Kash Patel kompromittiert und intime Fotos veröffentlicht. Das US-Justizministerium hält die erbeuteten Daten für authentisch.",
-              "summary": "Die Hackergruppe Handala, die dem Iran nahestehen soll, hat nach eigenen Angaben das private E-Mail-Konto von FBI-Chef Kash Patel geknackt und private Fotos im Netz geteilt. Das US-Justizministerium bestätigte, die Daten seien offenbar echt. Der Vorfall reiht sich in eine Serie proiranischer Cyberoperationen ein, die seit dem Ausbruch des Irankriegs Ende Februar 2026 zugenommen haben. Handala ist eine bekannte Hacktivistengruppe, die in der Vergangenheit bereits israelische Infrastruktur angegriffen hat.",
-              "gegenstimme": "Skeptiker weisen darauf hin, dass Hackergruppen immer wieder gefälschte oder kompromittierte Materialien als 'echte Beute' ausgeben, um maximale Wirkung zu erzielen – eine endgültige Verifikation durch unabhängige Stellen steht noch aus. Zudem stellt sich die Frage, wie ein hochrangiger US-Geheimdienstchef derart exponierte private Kommunikationskanäle nutzen konnte.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-weniger-generaele-mehr-fabriken-israel-aendert-angriffsstrategie-a-725f0335-a56c-46eb-a5fb-1fd4bf75036e"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-israel-intensiviert-angriffe-iran",
-              "slug": "israel-intensiviert-angriffe-iran",
-              "title": "Israel kündigt Intensivierung der Angriffe auf Iran an – Ambulanzen in London in Brand gesetzt",
-              "date": "2026-03-27",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🔥",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Israels Verteidigungsminister Israel Katz warnt den Iran vor einem 'schweren Preis' und kündigt eine Ausweitung der Militärschläge an. In London wurden vier Ambulanzen in Brand gesetzt – Experten sehen eine iranische Handschrift.",
-              "summary": "Der israelische Verteidigungsminister Israel Katz hat angekündigt, die Luftangriffe auf den Iran zu intensivieren und auf neue Ziele auszuweiten. Laut Reuters sind seit Kriegsbeginn über 1'900 Menschen im Iran getötet und mindestens 20'000 verletzt worden. Gleichzeitig wurden in London im Stadtbezirk Golders Green vier Ambulanzen in Brand gesetzt – Sicherheitsexperten vermuten eine Verbindung zu iranischen Netzwerken. Der Iran seinerseits sperrte die Strasse von Hormuz für Schiffe aus 'feindlichen' Nationen.",
-              "gegenstimme": "Israelischer Oppositionschef Yair Lapid warnte offen, dass die Armee 'bis ans Limit und darüber hinaus' gedehnt sei und dass die Regierung einen Mehrfrontenkrieg ohne Strategie und ausreichende Mittel führe – eine seltene öffentliche Kritik von innen. Zudem ist die Urheberschaft der Londoner Brandanschläge nicht abschliessend bewiesen.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-zelensky-saudi-arabien-luftabwehr-abkommen",
-              "slug": "zelensky-saudi-arabien-luftabwehr-abkommen",
-              "title": "Selenskyj schliesst Luftabwehr-Abkommen mit Saudi-Arabien in Dschidda",
-              "date": "2026-03-27",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🛡️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/c92cceab-df60-45d6-bf92-653bcc24c49d_w520_r2.08_fpx61.33_fpy50.jpg",
-              "kurz": "Der ukrainische Präsident Wolodymyr Selenskyj hat in Dschidda ein Luftabwehr-Abkommen mit Saudi-Arabien unterzeichnet. Der Deal kommt vor dem Hintergrund wachsender Unsicherheit über künftige US-Militärhilfen für die Ukraine.",
-              "summary": "Die Ukraine und Saudi-Arabien haben in Dschidda ein Verteidigungsabkommen zur Luftabwehr unterzeichnet. Die Ukraine verpflichtet sich, Saudi-Arabien beim Aufbau seiner Luftverteidigungskapazitäten zu unterstützen – und profitiert im Gegenzug von saudischen Fähigkeiten. Selenskyjs unangekündigter Besuch beim Kronprinzen Mohammed bin Salman zielte darauf ab, die Unterstützung für die Ukraine im fünften Kriegsjahr gegen Russland zu festigen. Hintergrund ist auch die Befürchtung, die USA könnten wegen ihres eigenen Konflikts mit dem Iran die Waffenlieferungen an Kiew einschränken.",
-              "gegenstimme": "Kritiker merken an, dass ein Luftabwehr-Abkommen mit Saudi-Arabien kaum den Wegfall amerikanischer Rüstungslieferungen kompensieren kann. Zudem steht Saudi-Arabien wegen seiner ambivalenten Haltung im Ukraine-Krieg – Riad unterhält enge wirtschaftliche Beziehungen zu Russland – weiterhin in der Kritik westlicher Partner.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-schliesst-luftabwehr-abkommen-mit-saudi-arabien-a-81101d6b-817e-4219-a2af-1fba9596850b"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-bundesgericht-hafermilch-bezeichnung-verboten",
-              "slug": "bundesgericht-hafermilch-bezeichnung-verboten",
-              "title": "Bundesgericht: Nur Milch darf Milch heissen",
-              "date": "2026-03-27",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/2G_rlLRFKbIAQb2xIZ3hX3.jpg",
-              "kurz": "Das Schweizer Bundesgericht hat entschieden: Pflanzliche Getränke dürfen die Bezeichnung «Milch» nicht verwenden – auch nicht mit Zusätzen wie «pflanzlich» oder als Negation wie «Ich bin keine Milch».",
-              "summary": "Ein Haferdrink von Alpro/Danone Schweiz mit dem Aufdruck «SHHH.... THIS IS NOT MILK» wurde vom Bundesgericht als irreführend eingestuft. Das kantonale Labor Zürich hatte Klage eingereicht, weil die Verpackung Verwechslungsgefahr mit Kuhmilch berge. Das Schweizer Lebensmittelrecht sieht vor, dass nur Tierprodukte die Bezeichnung «Milch» tragen dürfen. Das Urteil schafft Klarheit für Hersteller pflanzlicher Getränke.",
-              "gegenstimme": "Kritiker sehen das Urteil als lebensfremd: Inzwischen weiss praktisch jeder Konsument, was Hafermilch ist. Das Verbot von Begriffen wie «pflanzliche Milch» verhindert keine Täuschung mehr, sondern erschwert bloss die Kommunikation. In der EU sind ähnliche Bezeichnungen ebenfalls umstritten – dort hat der Gerichtshof vegane Milchbegriffe bereits 2017 eingeschränkt, aber die Praxis bleibt uneinheitlich.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/konsumentenschutz-bundesgericht-nur-milch-darf-milch-heissen"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-titlis-gondelunfall-strafuntersuchung",
-              "slug": "titlis-gondelunfall-strafuntersuchung",
-              "title": "Titlis-Gondelunfall: Strafuntersuchung gegen zwei Bergbahn-Mitarbeitende eröffnet",
-              "date": "2026-03-27",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🚡",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/6WIYIg_baLIB2Dh9WzHZT6.jpg",
-              "kurz": "Die Staatsanwaltschaft Nidwalden hat im Zusammenhang mit dem tödlichen Gondelunfall am Titlis vom 18. März 2026 eine Strafuntersuchung gegen zwei Mitarbeitende der Titlis-Bergbahnen eröffnet. Der Vorwurf: fahrlässige Tötung.",
-              "summary": "Beim Gondelunglück am Titlis vom 18. März kam eine 61-jährige Frau ums Leben, nachdem eine Gondel des 'Titlis Xpress' sich im Bereich Trübsee-Stand vom Seil gelöst hatte. Die Staatsanwaltschaft Nidwalden hat nun eine Strafuntersuchung wegen fahrlässiger Tötung und Störung des öffentlichen Verkehrs gegen einen Technischen Leiter sowie einen weiteren Mitarbeiter der Bergbahnen eröffnet. Der Verdacht: Beim Betrieb der Anlage seien angesichts der herrschenden Windverhältnisse Sorgfaltspflichten verletzt worden. Für beide Beschuldigte gilt die Unschuldsvermutung.",
-              "gegenstimme": "Die Unschuldsvermutung gilt bis zu einem allfälligen Urteil. Zu klären ist, ob die Entscheidungsverantwortlichen über ausreichende Informationen zu den Windverhältnissen verfügten und ob die bestehenden Sicherheitsprotokolle und Abschaltschwellen tatsächlich nicht eingehalten wurden – oder ob die Vorgaben selbst unzureichend waren.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/seilbahnunglueck-am-titlis-strafuntersuchung-gegen-zwei-personen-eroeffnet"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-maerkte-schluss-iran-gold-oel-dax",
-              "slug": "maerkte-schluss-iran-gold-oel-dax",
-              "title": "Börsenschluss: Anleger fliehen in sichere Häfen – Öl und Gold steigen stark",
-              "date": "2026-03-27",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "📉",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Die Börsen schlossen schwach: DAX -1.46%, SMI -0.74%, Nasdaq -2.38%. Gleichzeitig legten Öl (+3.6% auf 103.65 USD) und Gold (+3% auf 4'535 USD) deutlich zu – klassische Flucht in sichere Häfen.",
-              "summary": "Die globalen Aktienmärkte gerieten am Freitag unter Druck. Der DAX verlor trotz einer Verlängerung von Trumps Iran-Ultimatum deutlich, der Nasdaq büsste knapp 2.4% ein. Rohöl der Sorte Brent kletterte auf 103.65 USD pro Barrel, Gold auf 4'535 USD pro Unze. Bitcoin fiel um fast 4%. Die Spannung rund um den Iran und anhaltende Zollsorgen trieben Anleger in defensivere Anlageklassen.",
-              "gegenstimme": "Die Marktreaktion könnte übertrieben sein: Ein Ölpreis über 100 Dollar schadet der Industrie und befeuert die Inflation, was mittelfristig auch Gold- und Anleihehalter treffen kann. Zudem: Jedes Iran-Ultimatum der Trump-Administration wurde bislang verlängert – Märkte, die darauf reagieren, könnten sich von politischem Theater leiten lassen.",
-              "sources": [
-                {
-                  "name": "Handelsblatt Marktbericht",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliert-trotz-verlaengerung-von-trumps-ultimatum-deutlich/100212372.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-roche-nvidia-ki-fabrik-pharmaindustrie",
-              "slug": "roche-nvidia-ki-fabrik-pharmaindustrie",
-              "title": "Roche und Nvidia bauen grösste KI-Fabrik der Pharmaindustrie",
-              "date": "2026-03-27",
-              "time": "18:00",
-              "category": "tech",
-              "icon": "💊",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Roche baut gemeinsam mit Nvidia eine KI-Fabrik mit über 3500 GPUs – die grösste Rechenkapazität, die je von einem einzelnen Pharmaunternehmen angekündigt wurde.",
-              "summary": "Der Schweizer Pharmariese Roche weitet seine Partnerschaft mit dem Chip-Hersteller Nvidia massiv aus. Ziel ist es, das Pharmaunternehmen mit der grössten GPU-Kapazität der Branche zu werden. Die KI-Fabrik soll Forschung, Entwicklung, Produktion und Diagnostik unterstützen und wird in Europa und den USA aufgebaut. Die Vereinbarung baut auf einer seit 2023 bestehenden Kooperation mit der Roche-Tochter Genentech auf.",
-              "gegenstimme": "Kritisch zu hinterfragen ist, ob der massive GPU-Ausbau wirklich zu schnelleren Medikamentenzulassungen führt oder primär ein Signal an Investoren und Regulatoren ist. KI beschleunigt die Forschung, ersetzt aber nicht klinische Studien – die eigentlichen Engpässe in der Medikamentenentwicklung. Zudem konzentriert sich die GPU-Nachfrage bei wenigen Hyperscalern, was Abhängigkeiten schafft.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/dialog/entwicklung-von-medikamenten-roche-will-mit-nvidia-groesste-ki-fabrik-der-pharmabranche-bauen"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-27-sap-reltio-uebernahme-ki-daten",
-              "slug": "sap-reltio-uebernahme-ki-daten",
-              "title": "SAP übernimmt KI-Datenspezialist Reltio",
-              "date": "2026-03-27",
-              "time": "18:00",
-              "category": "tech",
-              "icon": "💻",
-              "edition": "evening",
-              "image": "",
-              "kurz": "SAP kauft den US-amerikanischen Softwareanbieter Reltio, der auf KI-gestütztes Datenmanagement spezialisiert ist – und stärkt damit die Grundlage für seine KI-Strategie: saubere, verlässliche Unternehmensdaten.",
-              "summary": "Der DAX-Konzern SAP übernimmt Reltio, ein Start-up aus Redwood, Kalifornien, das eine cloudbasierte Plattform für Master Data Management (MDM) anbietet. Reltio war zuletzt mit 1,7 Milliarden Dollar bewertet und hatte seit der Gründung 2011 rund 240 Millionen Dollar eingesammelt. Die Übernahme unterstreicht SAPs Strategie, KI-Anwendungen auf verlässliche Datenfundamente zu stellen. Die Kartellgenehmigung steht noch aus.",
-              "gegenstimme": "Der hohe Kaufpreis – auch wenn der genaue Betrag nicht kommuniziert wurde – und die Integrationsrisiken bei Cloud-Software-Übernahmen sollten nicht unterschätzt werden. SAP hat in der Vergangenheit zugekaufte Plattformen nicht immer erfolgreich integriert. Zudem ist «saubere Daten» ein Problem, das Reltio allein nicht lösen kann – es erfordert Änderungen in Prozessen und Unternehmenskultur, nicht nur neue Software.",
-              "sources": [
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/it-internet/softwarehersteller-sap-uebernimmt-ki-datenspezialisten-reltio/100212412.html"
+                  "url": "https://www.bbc.com/news/articles/c86e3eglv2go"
                 }
               ]
             }
