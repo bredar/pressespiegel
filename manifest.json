@@ -1,5 +1,5 @@
 {
-  "updated": "10:37 UTC",
+  "updated": "16:07 UTC",
   "days": [
     {
       "date": "2026-03-28",
@@ -605,6 +605,191 @@
                 {
                   "name": "Spiegel",
                   "url": "https://www.spiegel.de/wirtschaft/unternehmen/olaplex-henkel-kauft-us-shampoo-hersteller-fuer-1-4-milliarden-dollar-a-4bb0e927-4882-47fc-9a10-c472beadab85"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-28-iran-diplomatie-ghalibaf-rubio-kriegsende",
+              "slug": "iran-diplomatie-ghalibaf-rubio-kriegsende",
+              "title": "Iran-Diplomatie: IRGC-General als Unterhändler – Rubio nennt konkreten Zeitrahmen",
+              "date": "2026-03-28",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/c6cea3be-a4d1-4afe-8fe8-aa2334ad0c34_w520_r2.08_fpx41.7_fpy50.jpg",
+              "kurz": "IRGC-General Mohammed Ghalibaf gilt als mutmasslicher iranischer Unterhändler in Kriegsende-Verhandlungen mit den USA. US-Aussenminister Rubio nannte beim G7-Treffen einen Zeitrahmen von «wenigen Wochen».",
+              "summary": "Während die USA und Israel ihren Krieg gegen Iran nun in die vierte Woche führen, verdichten sich die Hinweise auf Geheimgespräche. Parlamentspräsident Mohammed Ghalibaf, ein ehemaliger IRGC-Kommandant, soll als iranischer Verhandlungsführer fungieren – obwohl Teheran dies offiziell bestreitet. US-Aussenminister Rubio erklärte am G7-Treffen in Frankreich, die Operationen liefen «vor dem Zeitplan» und er erwarte ein Ende «in den nächsten paar Wochen». Parallel liegt ein 15-Punkte-Plan der USA auf dem Tisch, auf den Teheran noch keine formelle Antwort gegeben hat.",
+              "gegenstimme": "Teheran bestreitet offiziell jegliche Verhandlungen mit Washington. Irans Aussenminister Abbas Araghchi drohte nach jüngsten Angriffen auf Nuklearanlagen und Stahlwerke mit einem «schweren Preis». Kritiker innerhalb des iranischen Systems sehen in Ghalibaf – der mit Korruptionsvorwürfen belastet ist und bekannt für seine Brutalität gegenüber Demonstranten – einen opportunistischen Taktiker ohne klare Ideologie, dem im eigenen Land nicht unbedingt vertraut wird.",
+              "sources": [
+                {
+                  "name": "NZZ: Wer ist Irans mutmasslicher Unterhändler?",
+                  "url": "https://www.nzz.ch/international/mohammed-ghalibaf-wer-ist-irans-mutmasslicher-unterhaendler-ld.1931124"
+                },
+                {
+                  "name": "BBC: Rubio says US expects to finish Iran war in next couple of weeks",
+                  "url": "https://www.bbc.com/news/articles/c1l9vz064nqo"
+                },
+                {
+                  "name": "Spiegel: G7 – Die vagen Botschaften des Herrn Rubio",
+                  "url": "https://www.spiegel.de/politik/deutschland/g7-rubio-laesst-bei-aussenministertreffen-kriegsende-gegen-iran-offen-a-336f66d7-bd74-4490-ab6b-3a70d6e6601b"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-iran-intelligence-drittel-raketen",
+              "slug": "iran-intelligence-drittel-raketen",
+              "title": "Alarmierende Einschätzung: USA haben laut Geheimdienst nur ein Drittel von Irans Raketen zerstört",
+              "date": "2026-03-28",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🎯",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/3ecec37f-9a6b-4e21-9ec3-efb1178603ef_w520_r2.08_fpx66.67_fpy50.jpg",
+              "kurz": "US-Geheimdienste schätzen, dass die bisherigen Angriffe erst rund ein Drittel von Irans Raketen- und Drohnenarsenal zerstört haben – ein klarer Widerspruch zu Trumps öffentlichen Behauptungen.",
+              "summary": "Laut einem Reuters-Bericht, der auf fünf Geheimdienstquellen basiert, haben die USA und Israel nach einem Monat Krieg nur etwa ein Drittel von Irans Raketenpotenzial vernichtet. Ein weiteres Drittel gilt als beschädigt oder in unterirdischen Tunneln vergraben – und damit vorläufig unzugänglich. Trotzdem widerspricht dies direkt Trumps Aussage, Iran habe «kaum noch Raketen». Parallel bestätigte die BBC, dass bei einem Angriff auf die südiranische Stadt Lamerd erstmals das neue US-Präzisionsraketen-System PrSM eingesetzt worden sein soll, bei dem mindestens 21 Zivilisten starben.",
+              "gegenstimme": "US-Verteidigungsminister Pete Hegseth betont, die USA jagten Irans Raketen «methodisch, rücksichtslos und überwältigend» – und die Anzahl der Abschüsse sei merklich zurückgegangen. Israel behauptet seinerseits, bereits 70 Prozent der iranischen Raketenwerfer «neutralisiert» zu haben. Ein anonymer US-Beamter räumte jedoch ein, eine genaue Zählung sei schlicht unmöglich: «Ich weiss nicht, ob wir je eine genaue Zahl kennen werden.»",
+              "sources": [
+                {
+                  "name": "The Guardian: US has destroyed only a third of Iran missiles",
+                  "url": "https://www.theguardian.com/world/2026/mar/28/us-destroyed-third-iran-missiles-intelligence-suggests-trump"
+                },
+                {
+                  "name": "BBC Verify: Video shows US missile likely used in deadly strike on Iranian town",
+                  "url": "https://www.bbc.com/news/articles/cx29mzmwdw2o"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-kuba-oel-humanitaere-krise",
+              "slug": "kuba-oel-humanitaere-krise",
+              "title": "Kuba: Trumps Ölblockade verschärft humanitäre Krise – Regime verhandelt heimlich mit USA",
+              "date": "2026-03-28",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🌊",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Trumps Ölblockade trifft die kubanische Bevölkerung mit voller Wucht: Stromausfälle, Wasserknappheit und leere Regale prägen den Alltag. Gleichzeitig sondiert das Regime Gesprächskanäle mit Washington – ohne sein politisches System zur Disposition zu stellen.",
+              "summary": "Seit Dezember 2025 unterbindet die Trump-Regierung Öllieferungen nach Kuba und droht Drittstaaten mit Zöllen, sollten sie die Blockade umgehen. Die humanitären Folgen sind gravierend: Schulen bleiben geschlossen, Krankenhäuser arbeiten ohne Strom und Wasser, und Lebensmittelvorräte gehen zur Neige. Das kubanische Regime hat Gespräche mit Washington aufgenommen, lehnt aber jede Verhandlung über sein politisches System oder die Ablösung von Präsident Díaz-Canel kategorisch ab. Laut US-Medien soll Washington ein Wirtschaftsabkommen vorbereiten, das Díaz-Canel einen 'Ausweg' bieten würde.",
+              "gegenstimme": "Die kubanische Regierung bezeichnet die US-Ölblockade als Teil eines seit über 60 Jahren anhaltenden Handelsembargos und sieht darin eine illegale 'Erdrosselungspolitik'. Aussenminister Carlos Fernández de Cossio betont, dass weder das politische System Kubas noch das Präsidentenamt verhandelbar seien. Präsident Díaz-Canel warnte, Kuba bereite sich auf eine mögliche 'Aggression' vor und werde auf jeden externen Angreifer mit 'unüberwindbarem Widerstand' reagieren. Kritiker wie der Berliner Kuba-Experte Bert Hoffmann werfen den USA eine Politik vor, die eine ganze Bevölkerung aushungert, um politischen Wandel zu erzwingen – und fordern mehr internationalen Widerspruch, auch von Europa.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/kuba-trumps-oelblockade-verschaerft-humanitaere-krise-375647605876"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/kuba-humanitaere-krise-100.html"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/politik/ausland/2026-03/kuba-usa-trump-oel-blockade-gxe"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-paris-bombenanschlag-bank-of-america",
+              "slug": "paris-bombenanschlag-bank-of-america",
+              "title": "Paris: Terrorversuch vor Bank of America Gebäude vereitelt",
+              "date": "2026-03-28",
+              "time": "18:00",
+              "category": "international",
+              "icon": "💣",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Pariser Polizei hat in der Nacht auf Samstag einen mutmasslichen Bombenanschlag auf ein Gebäude der Bank of America im 8. Arrondissement vereitelt. Der Tatverdächtige wurde auf frischer Tat festgenommen.",
+              "summary": "Gegen 3.30 Uhr morgens stellten Polizisten im Pariser 8. Arrondissement – unweit der Champs-Élysées – einen Mann, der gerade dabei war, einen selbst gebauten Sprengkörper vor einem Gebäude der Bank of America zu platzieren. Die Vorrichtung enthielt fünf Liter Flüssigkeit (mutmasslich Treibstoff) sowie ein Zündsystem mit 650 Gramm Sprengpulver. Die Anti-Terror-Staatsanwaltschaft übernahm sofort die Ermittlungen. Innenminister Laurent Nuñez verwies auf die «aktuelle internationale Lage» als Kontext erhöhter Sicherheitsbereitschaft.",
+              "gegenstimme": "Zur Identität, Nationalität und Motivation des Täters haben die Behörden bislang keine Angaben gemacht. Die Anti-Terror-Staatsanwaltschaft ermittelt wegen «versuchter Brandstiftung oder anderer gefährlicher Mittel im Zusammenhang mit einer terroristischen Unternehmung» sowie wegen «terroristischer krimineller Verschwörung» – eine endgültige Einstufung steht jedoch aus. Unklar bleibt, ob der Anschlag mit dem laufenden Nahost-Krieg oder anderen politischen Motiven zusammenhängt.",
+              "sources": [
+                {
+                  "name": "The Guardian: Paris police foil attempted bomb attack outside Bank of America",
+                  "url": "https://www.theguardian.com/world/2026/mar/28/paris-police-foil-attempted-bomb-attack-bank-of-america"
+                },
+                {
+                  "name": "Tages-Anzeiger: Paris – Anschlag auf Bank of America vereitelt",
+                  "url": "https://www.tagesanzeiger.ch/paris-anschlag-auf-bank-of-america-vereitelt-392688364893"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-neuenburgersee-roemischer-sensationsfund",
+              "slug": "neuenburgersee-roemischer-sensationsfund",
+              "title": "Sensationsfund: Perfekt erhaltene römische Schiffsfracht im Neuenburgersee entdeckt",
+              "date": "2026-03-28",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "⚓",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Im Neuenburgersee wurde eine aussergewöhnlich gut erhaltene Ladung eines römischen Handelsschiffs aus dem 1. Jahrhundert nach Christus geborgen – ein einzigartiger Fund nördlich der Alpen.",
+              "summary": "Archäologen des Kantons Neuenburg haben im Neuenburgersee eine vollständige Schiffsladung aus der frühen Kaiserzeit entdeckt. Die Fracht enthält mehrere hundert unversehrte Keramikgefässe, spanische Olivenöl-Amphoren, Werkzeuge, Wagenräder und Schwerter – alles in ausgezeichnetem Zustand. Der Fund gilt als einzigartig in der Schweiz und nördlich der Alpen. Die Objekte sollen nach der Restaurierung im Museum Laténium in Hauterive ausgestellt werden.",
+              "gegenstimme": "Experten warnen, dass der Fundort trotz der aktuellen Bergungsmassnahmen gefährdet bleibt: Erosion des Seegrundes, ankernde Freizeitboote und die Gefahr von Vandalismus und Plünderungen bedrohen die noch nicht geborgenen Objekte. Zudem sind die Restaurierungs- und Konservierungsarbeiten aufwendig und kostspielig – es bleibt abzuwarten, ob die nötigen Mittel langfristig zur Verfügung stehen.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/neuenburgersee-einzigartiger-fund-von-roemischer-schiffsladung-geborgen-103534491"
+                },
+                {
+                  "name": "Bluewin / SDA",
+                  "url": "https://www.bluewin.ch/de/news/vermischtes/roemische-ladung-auf-dem-grund-des-neuenburgersees-gefunden-3160948.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-schweiz-zollstreit-usa-parmelin-frist",
+              "slug": "schweiz-zollstreit-usa-parmelin-frist",
+              "title": "Schweiz im US-Zollstreit: Bundespräsident Parmelin erklärt Frist vom 31. März als hinfällig",
+              "date": "2026-03-28",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/02/22/5bd2704d-2a1a-4769-9108-82ea84189090.jpg",
+              "kurz": "Die Frist für ein verbindliches Zollabkommen mit den USA ist nach einem Supreme-Court-Urteil «de facto hinfällig», so Bundespräsident Parmelin. Die Verhandlungen gehen jedoch weiter.",
+              "summary": "Bundespräsident Guy Parmelin hat am Samstag erklärt, dass die ursprünglich bis Ende März angestrebte Einigung im Zollstreit mit den USA nicht mehr gilt. Hintergrund ist ein Urteil des US-Supreme-Courts, das einen Teil der länderspezifischen Zölle von Präsident Trump für rechtswidrig erklärte. Trump reagierte mit einem neuen pauschalen Zollsatz von 10 Prozent auf alle Länder, befristet bis Juli. Die Schweiz verhandelt dennoch weiter und stellt den USA Zugeständnisse in Aussicht.",
+              "gegenstimme": "Kritiker bemängeln, dass der Bundesrat monatelang auf eine Frist hingearbeitet hat, die nun einfach für nichtig erklärt wird – ohne dass ein konkreter neuer Zeitplan vorliegt. Wirtschaftskreise befürchten, dass die rechtliche Unsicherheit in den USA und die Volatilität der Trumpschen Zollpolitik eine verlässliche Planung für Schweizer Exporteure verunmöglicht. Die Frage bleibt offen, ob die angebotenen Zugeständnisse bei Lebensmittelzöllen innenpolitisch vertretbar sind.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/nach-supreme-court-urteil-parmelin-frist-fuer-zoll-deal-mit-usa-hinfaellig"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/guy-parmelin-zollverhandlungen-frist-vom-31-maerz-ist-nicht-mehr-gueltig-103536036"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-28-kanton-bern-wahlen-2026-vorschau",
+              "slug": "kanton-bern-wahlen-2026-vorschau",
+              "title": "Morgen wählt Bern: Grosse Rochade im Regierungsrat – SVP will Machtpoker gewinnen",
+              "date": "2026-03-28",
+              "time": "18:00",
+              "category": "regional",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/81SE4sWmK968pEx3lMj2qt.jpg",
+              "kurz": "Am Sonntag, 29. März 2026, wählt der Kanton Bern Grossrat und Regierungsrat neu. Drei Bisherige treten nicht mehr an, die SVP will mit einem Fünferticket einen dritten Regierungssitz ergattern.",
+              "summary": "Bei den Gesamterneuerungswahlen vom 29. März 2026 stehen im Kanton Bern sieben Regierungsratssitze und 160 Grossratssitze zur Wahl. Drei Regierungsratsmitglieder – Christoph Ammann (SP), Christine Häsler (Grüne) und Christoph Neuhaus (SVP) – treten nicht mehr an. Die Bürgerlichen kandidieren mit einem Fünferticket und wollen der Linken einen Sitz abspenstig machen. Rot-Grün tritt mit einem Viererticket an, um den Besitzstand zu wahren. Umfragen deuten auf eine knappe Ausgangslage hin.",
+              "gegenstimme": "Politikwissenschaftler Marc Bühlmann dämpft die Erwartungen der SVP: Aktuelle Umfragen deuten darauf hin, dass die Bürgerlichen keinen zusätzlichen Sitz gewinnen werden. Historisch gesehen wurden Bisherige im Kanton Bern kaum je abgewählt. Kritiker der SVP-Strategie sehen im Fünferticket ein riskantes Manöver, das die eigenen Stimmen zersplittern könnte, statt sie zu bündeln.",
+              "sources": [
+                {
+                  "name": "SRF News – Regierungsratswahlen",
+                  "url": "https://www.srf.ch/news/schweiz/regierungsratswahlen-bern-2026-wahlen-kanton-bern-geht-das-buergerliche-powerplay-auf"
+                },
+                {
+                  "name": "SRF News – Grossratswahlen",
+                  "url": "https://www.srf.ch/news/schweiz/grossratswahlen-bern-2026-berner-grossratswahlen-comebacks-machtkampf-und-neue-gesichter"
+                },
+                {
+                  "name": "Kanton Bern – Wahlen",
+                  "url": "https://www.sta.be.ch/de/start/themen/wahlen-und-abstimmungen/wahlen/naechste-wahlen.html"
                 }
               ]
             }
