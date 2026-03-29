@@ -1,795 +1,413 @@
 {
-  "updated": "16:07 UTC",
+  "updated": "04:11 UTC",
   "days": [
     {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-03-28-iran-update-us-soldaten-saudi-arabien",
-              "slug": "iran-update-us-soldaten-saudi-arabien",
-              "title": "Iran-Krieg Tag 30: US-Soldaten verletzt in Saudi-Arabien, Rubio sieht Kriegsende in Wochen",
-              "date": "2026-03-28",
-              "time": "07:00",
+              "id": "2026-03-29-dagestan-flut-russland-ausnahmezustand",
+              "slug": "dagestan-flut-russland-ausnahmezustand",
+              "title": "Schwere Überschwemmungen in Russlands Dagestan: 327'000 ohne Strom, Ausnahmezustand",
+              "date": "2026-03-29",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🌊",
+              "edition": "morning",
+              "image": "",
+              "kurz": "Nach heftigen Regenfällen hat Makhachkala, die Hauptstadt der russischen Kaukasusregion Dagestan, den Ausnahmezustand ausgerufen. Über 327'000 Menschen sind ohne Strom.",
+              "summary": "Starke Regenfälle haben am 28. März 2026 in der russischen Region Dagestan massive Überschwemmungen ausgelöst. Die Hauptstadt Makhachkala rief den Ausnahmezustand aus. Rund 283 Siedlungen mit insgesamt 327'183 Einwohnern – darunter knapp 90'000 Kinder – waren um Mittag noch ohne Strom. In der zweitgrössten Stadt Khasavyurt brachen zwei Brückenabschnitte einer Eisenbahnlinie ein. Regionaler Notfallchef Sergei Melikov räumte ein, dass die Lage «die pessimistischsten Prognosen übertraf».",
+              "gegenstimme": "Kritiker und Beobachter verweisen darauf, dass Dagestan eine der strukturell benachteiligsten Regionen Russlands ist. Investitionen in die Infrastruktur – Kanalisation, Schutzbauten, Stromnetz – sind seit Jahren rückständig. Extreme Wetterereignisse treffen die Region deshalb unverhältnismässig hart. Unabhängige russische Medien weisen zudem auf fehlende Vorwarnmechanismen und mangelnde Koordination der Behörden hin.",
+              "sources": [
+                {
+                  "name": "Reuters – Russia declares emergency in Dagestan",
+                  "url": "https://www.reuters.com/business/environment/russia-declares-emergency-dagestans-capital-floods-cut-power-more-than-327000-2026-03-28/"
+                },
+                {
+                  "name": "KELO – Reuters Syndicated Report",
+                  "url": "https://kelo.com/2026/03/28/russia-declares-emergency-in-dagestans-capital-as-floods-cut-power-to-more-than-327000-people/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-derby-gb-auto-menschenmenge-anschlag",
+              "slug": "derby-gb-auto-menschenmenge-anschlag",
+              "title": "Derby (GB): Autofahrer fährt in Innenstadt in Menschenmenge – mehrere Schwerverletzte",
+              "date": "2026-03-29",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🚗",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/c0309c4b-0001-0004-0000-000001109211_w520_r2.08_fpx66_fpy35.jpg",
+              "kurz": "In der englischen Stadt Derby fuhr ein Autofahrer am Samstagabend in der Innenstadt in eine Gruppe von Fussgängern. Mehrere Personen wurden schwer verletzt, ein Mann wurde festgenommen.",
+              "summary": "Am Abend des 28. März 2026 fuhr ein schwarzer Suzuki Swift gegen 21:30 Uhr Ortszeit in der Friar Gate im Stadtzentrum von Derby in eine Fussgängergruppe. Mehrere Personen wurden schwer verletzt. Laut Derbyshire Police wurde ein Mann noch am Tatort festgenommen. Die genauen Hintergründe und das Tatmotiv sind noch unbekannt; die Ermittlungen laufen.",
+              "gegenstimme": "Die Polizei hat bislang keine Aussagen zur möglichen Motivation des Täters gemacht. Es ist unklar, ob es sich um eine vorsätzliche Tat oder einen Unfall handelt. Experten warnen vor vorschnellen Schlussfolgerungen, solange die Ermittlungen laufen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/panorama/derby-in-grossbritannien-auto-fahrer-faehrt-in-innenstadt-in-menschenmenge-mehrere-verletzte-a-d25a7def-ba30-441b-afc7-bf39b00c2a69"
+                },
+                {
+                  "name": "Derbyshire Police",
+                  "url": "https://www.derbyshire.police.uk/news/derbyshire/news/news/south/2026/march/multiple-injuries-after-car-strikes-pedestrians-in-city-centre"
+                },
+                {
+                  "name": "Reuters",
+                  "url": "https://www.reuters.com/world/uk/car-hits-multiple-pedestrians-uks-derby-city-centre-times-reports-2026-03-29/"
+                },
+                {
+                  "name": "Express",
+                  "url": "https://www.express.co.uk/news/uk/2187885/Derby-car-pedestrians-crowds-mows-down-police"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-iran-huthis-zweiter-angriff-trump-pause",
+              "slug": "iran-huthis-zweiter-angriff-trump-pause",
+              "title": "Update Iran-Krieg: Huthis greifen Israel erneut an – Trump pausiert Bombardierung von Energieanlagen",
+              "date": "2026-03-29",
+              "time": "06:00",
               "category": "international",
               "icon": "🔥",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/937389d8-b43d-4570-a29f-ce4c83ace1fa_w520_r2.08_fpx71.08_fpy44.99.jpg",
-              "kurz": "Iranischer Angriff auf saudischen Stützpunkt verletzt 12 US-Soldaten. US-Aussenminister Rubio erwartet ein Kriegsende in wenigen Wochen.",
-              "summary": "Am 30. Tag des Iran-Krieges griff Iran den Stützpunkt Prince Sultan in Saudi-Arabien mit Raketen und Drohnen an und verletzte mindestens 12 US-Soldaten, zwei davon schwer. US-Aussenminister Rubio sagte am Rande des G7-Aussenministertreffens in Frankreich, die Operation werde in Wochen, nicht Monaten, abgeschlossen sein. Israel bestätigte Angriffe auf iranische Atomanlagen, darunter eine Schwerwasseranlage. Der Iran kontrolliert weiterhin die Strasse von Hormus und blockiert Schiffspassagen.",
-              "gegenstimme": "Innerhalb der republikanischen Basis wächst Skepsis: An der CPAC-Konferenz in Texas zeigten sich besonders jüngere Konservative besorgt über fehlende Kriegsziele und steigende Lebenshaltungskosten. 'Ich sehe kein Endszenario', sagte ein CPAC-Teilnehmer der BBC. Iran seinerseits bestreitet jegliche Verhandlungen und bezeichnet Trumps Aussagen über 'gute Gespräche' als Lüge.",
-              "sources": [
-                {
-                  "name": "The Guardian Live",
-                  "url": "https://www.theguardian.com/world/live/2026/mar/28/middle-east-crisis-live-iran-war-updates-trump-us-negotiations-israel-strikes-lebanon-tehran-syria-explosions"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-rubio-glaubt-der-krieg-sei-in-wochen-nicht-in-monaten-vorbei-a-624b1930-db95-4f39-a268-b36194b96f4f"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cjd8e4px12ro"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-nepal-ex-pm-oli-verhaftet",
-              "slug": "nepal-ex-pm-oli-verhaftet",
-              "title": "Nepal: Ex-Premier Oli nach tödlichem Protestmassaker verhaftet",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🌏",
-              "edition": "morning",
-              "image": "https://media.guim.co.uk/f6775b462e86d50adf6baddc015073dad942a8dc/0_0_6000_4000/2000.jpg",
-              "kurz": "Nepals früherer Premierminister KP Sharma Oli wurde am Samstag wegen seiner Rolle beim tödlichen Protesteinsatz vom September 2025 verhaftet. Über 70 Menschen kamen bei den Unruhen ums Leben.",
-              "summary": "Die nepalesische Polizei verhaftete den 74-jährigen Ex-Premier KP Sharma Oli sowie den früheren Innenminister Ramesh Lekhak an ihren Wohnorten in Kathmandu. Eine Untersuchungskommission empfahl die Strafverfolgung beider Männer wegen fahrlässiger Tötung im Zusammenhang mit dem Einsatz von Schusswaffen gegen Demonstranten im September 2025. Bei den Protesten, ausgelöst durch ein Social-Media-Verbot, kamen mehr als 70 Menschen ums Leben. Die Verhaftungen erfolgten einen Tag nach der Amtseinführung des neuen Premiers Balen Shah.",
-              "gegenstimme": "Olis Anwälte bezeichneten die Verhaftung als illegal und unverhältnismässig, da kein Fluchtrisiko bestehe. Oli selbst hatte die Kommissionsberichte zuvor als 'Charaktermord und Hasspolitik' abgetan. Kritiker werfen der neuen Regierung vor, die Verhaftung politisch zu instrumentalisieren, da der neue Innenminister Sudan Gurung selbst ein prominenter Anführer der Proteste war, die Oli zu Fall brachten.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/28/kp-sharma-oli-nepal-arrested-alleged-role-protest-crackdown-ntwnfb"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cn89ry7y835o"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-ukraine-rubio-selenskyj-donbas-streit",
-              "slug": "ukraine-rubio-selenskyj-donbas-streit",
-              "title": "Streit zwischen Washington und Kiew: Rubio wirft Selenskyj Lügen über Donbas-Forderungen vor",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/69898170-4033-409f-8f8b-e5ce1074d1ff_w520_r2.08_fpx49.33_fpy49.99.jpg",
-              "kurz": "US-Aussenminister Rubio bezeichnet Selenskyjs Aussagen über US-Forderungen nach Donbas-Abtretung als Lüge. Der öffentliche Streit belastet die Verhandlungen.",
-              "summary": "Wolodymyr Selenskyj behauptete gegenüber Reuters, die USA verlangten als Bedingung für Sicherheitsgarantien die Abtretung der Donbas-Region an Russland. Marco Rubio wies dies scharf zurück und bezeichnete Selenskyjs Aussagen als «Lüge», die dieser selbst besser wissen sollte. Der Streit macht die tiefen Differenzen zwischen Washington und Kiew über die Bedingungen eines möglichen Waffenstillstands öffentlich sichtbar. Parallel dazu sorgten Russland-freundliche Auftritte auf europäischen Medienplattformen für Kritik.",
-              "gegenstimme": "Die Ukraine und ihr Aussenminister Sybiha beharren darauf, dass Kiew realistische und umsetzbare Friedensvorschläge vorgelegt habe, und betonen, Druck auf Russland sei der einzige Weg zur Beendigung des Krieges. Europäische Verbündete teilen die Sorge, dass die USA – abgelenkt durch den Iran-Konflikt – zu wenig Druck auf Moskau ausüben. Selenskyjs Sprecher haben die Darstellung Rubios nicht zurückgezogen.",
+              "image": "https://cdn.prod.www.spiegel.de/images/4171295f-e6bc-4ba7-b6e0-6eae070592f0_w520_r2.08_fpx46_fpy55.jpg",
+              "kurz": "Die Huthi-Miliz aus Jemen ist offiziell in den Iran-Krieg eingetreten und beschoss Israel zum zweiten Mal in weniger als 24 Stunden. Trump pausierte die US-Angriffe auf iranische Energieanlagen für 10 Tage.",
+              "summary": "Die jemenitischen Huthis feuerten Samstag früh erstmals seit Kriegsbeginn Raketen und Drohnen auf Israel ab – und wiederholten den Angriff nur Stunden später. Trump verkündete eine 10-tägige Pause der Bombenangriffe auf iranische Energieanlagen, auf angeblichen Wunsch Teherans. Pakistan veranstaltet ein Vermittlertreffen mit Saudi-Arabien, der Türkei und Ägypten. Iran öffnet die Strasse von Hormus laut Berichten für pakistanische Schiffe.",
+              "gegenstimme": "US-Geheimdienstkreise bezweifeln laut Reuters die Effektivität der bisherigen Militärschläge: Washington könne nur sicher sein, etwa ein Drittel von Irans Raketen- und Drohnenarsenal zerstört zu haben. Kritiker werfen Trump vor, durch die Pause die Verhandlungsposition Irans zu stärken, ohne konkrete Gegenleistungen erhalten zu haben.",
               "sources": [
                 {
                   "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/ukraine-krieg-rubio-wirft-selenskyj-luegen-ueber-sicherheitsabkommen-vor-a-ccc61779-7436-4afb-8ddb-dea4ef31846f"
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-huthi-miliz-greift-israel-zum-zweiten-mal-in-folge-an-a-e3abed9c-7ead-4e59-8925-c10f1a6fdd7e"
                 },
                 {
                   "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/28/ukraine-war-briefing-rubio-zelenskyy-deal-donbas-to-russia"
+                  "url": "https://www.theguardian.com/world/2026/mar/28/houthi-forces-enter-iran-conflict-with-missile-attacks-on-israeli-military-sites"
+                },
+                {
+                  "name": "Reuters",
+                  "url": "https://www.reuters.com/business/energy/trump-says-he-will-pause-attacks-irans-energy-plants-talks-going-very-well-2026-03-26/"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/die-huthi-sind-zurueck-mit-dem-kriegseintritt-der-jemeniten-eskaliert-die-lage-im-nahen-osten-weiter-ld.1931517"
                 }
               ]
             },
             {
-              "id": "2026-03-28-schweiz-eu-vertraege-staendemehr-anhoerung",
-              "slug": "schweiz-eu-vertraege-staendemehr-anhoerung",
-              "title": "Ständemehr bei EU-Verträgen: Öffentliche Anhörung endet 3:2 für obligatorisches Referendum",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
+              "id": "2026-03-29-jd-vance-cpac-trump-nachfolge-2028",
+              "slug": "jd-vance-cpac-trump-nachfolge-2028",
+              "title": "JD Vance führt CPAC-Umfrage: Vizepräsident wird Favorit der Republikaner für 2028",
+              "date": "2026-03-29",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🇺🇸",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/AehCtaJT47E96JagWIccoS.jpg",
-              "kurz": "Die ständerätliche Staatspolitische Kommission hielt eine seltene öffentliche Anhörung zum Ständemehr für EU-Verträge ab – drei von fünf Experten sprachen sich dafür aus.",
-              "summary": "In Bern fand am 27. März 2026 eine öffentlich übertragene Anhörung der staatspolitischen Kommission des Ständerats statt. Fünf Experten diskutierten, ob die neuen Bilateralen-III-Verträge einem obligatorischen Referendum mit Ständemehr unterstellt werden sollen. Das Ergebnis: drei zu zwei für das Ständemehr – ein Ausgang, der angesichts der Zusammensetzung des Gremiums von vornherein absehbar war. Nun ist das Parlament am Zug; die finale Volksabstimmung ist frühestens 2027, wahrscheinlich erst 2028, vorgesehen.",
-              "gegenstimme": "Politologe Adrian Vatter warnte vor einer gefährlichen Kollision zwischen Volks- und Ständemehr: Wenn eine Mehrheit des Volkes Ja sagt, das Ständemehr die Vorlage aber kippt, drohe eine schwere Vertrauenskrise im politischen System. Die Abstimmungskampagne würde sich auf wenige Wackelkantone konzentrieren und den Stadt-Land-Graben weiter vertiefen. Rechtsprofessorin Astrid Epiney sieht zudem keinen verfassungsrechtlichen Zwang für ein Ständemehr.",
+              "image": "https://cdn.prod.www.spiegel.de/images/f458c3a7-ca3f-44cc-8349-36fedf1a7e86_w520_r2.08_fpx51_fpy29.jpg",
+              "kurz": "JD Vance hat beim CPAC-Kongress in Texas 53 Prozent der Stimmen erhalten und ist damit klarer Favorit für die republikanische Präsidentschaft 2028.",
+              "summary": "An der jährlichen Konferenz amerikanischer Konservativer (CPAC) im texanischen Grapevine wurde US-Vizepräsident JD Vance mit 53 Prozent der Stimmen zum Favoriten für die republikanische Präsidentschaftskandidatur 2028 gekürt. Auf Platz zwei folgt Aussenminister Marco Rubio mit 35 Prozent. Parallel zur Konferenz gingen in ganz Amerika Millionen Menschen unter dem Motto «No Kings» gegen die Trump-Regierung auf die Strasse – die grössten Proteste in der neueren US-Geschichte.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass CPAC-Umfragen ein starkes Bias zugunsten der MAGA-Basis haben und keinen repräsentativen Querschnitt der Gesamtbevölkerung oder selbst der gesamten republikanischen Wählerschaft zeigen. Gleichzeitig zeigen die landesweiten «No Kings»-Proteste mit Millionen Teilnehmern, dass die gesellschaftliche Opposition gegen den Kurs der Trump-Regierung massiv und breit aufgestellt ist.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/jd-vance-bei-cpac-in-texas-zum-favorit-fuer-nachfolge-von-donald-trump-gekuert-a-e589b4f7-7638-4104-95de-1d561af87061"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/mar/28/no-kings-protests-trump"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-meloni-krise-italien-justizreferendum",
+              "slug": "meloni-krise-italien-justizreferendum",
+              "title": "Politische Krise in Italien: Nach Justizreferendum stellen sich Minister gegen Meloni",
+              "date": "2026-03-29",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🇮🇹",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/728272b0-dfd6-4fd5-ab7a-7f8d62b4d50f_w520_r2.08_fpx41.36_fpy50.jpg",
+              "kurz": "Nach der Niederlage beim Justizreferendum mussten in Italien eine Ministerin, ein Staatssekretär und weitere Regierungsvertreter ihre Ämter räumen. Meloni übernimmt das Tourismusministerium interimistisch.",
+              "summary": "Das gescheiterte Referendum über Italiens Justizreform hat eine Personaloffensive von Regierungschefin Giorgia Meloni ausgelöst. Tourismusministerin Daniela Santanchè, Staatssekretär Andrea Delmastro sowie der Fraktionschef von Forza Italia mussten zurücktreten. Meloni übernimmt das Tourismusministerium vorübergehend selbst. Die Regierung sitzt zwar noch fest im Sattel, doch die Turbulenzen erinnern Beobachter an die instabilen Koalitionsjahre vor Melonis Amtsantritt.",
+              "gegenstimme": "Oppositionschefin Elly Schlein (PD) sieht in den Abstimmungsresultaten kein automatisches Mandat für die Linke, sondern einen allgemeinen Protest gegen Melonis Reformkurs. Die Rücktritte werden von kritischen Stimmen als Ablenkungsmanöver interpretiert: Meloni habe bei den betreffenden Personen schon lange von fragwürdigem Verhalten gewusst, aber erst nach der Abstimmungsniederlage gehandelt.",
               "sources": [
                 {
                   "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/erste-anhoerung-zum-staendemehr-bei-den-eu-vertraegen-endet-mit-einem-sieg-auf-ansage-ld.1931210"
-                },
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/oeffentliche-anhoerung-staendemehr-fuer-vertraege-mit-eu-seltenes-politschauspiel-in-bern"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/schweiz-fuenf-kantone-koennten-ueber-eu-vertrag-entscheiden-311184788676"
+                  "url": "https://www.nzz.ch/international/nach-justizreferendum-koepferollen-im-palazzo-chigi-in-rom-ld.1931322"
                 }
               ]
             },
             {
-              "id": "2026-03-28-schweiz-waffenkaeufe-boom-2025",
-              "slug": "schweiz-waffenkaeufe-boom-2025",
-              "title": "Boom im Schiesskeller: Schweizer Waffenkäufe steigen stark an",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "morning",
-              "image": "https://www.srf.ch/static/cms/images/1280w/1e3e2e.jpg",
-              "kurz": "In der Schweiz sind die Waffenerwerbsscheine 2025 um 10 bis 30 Prozent gestiegen – angetrieben von geopolitischer Unsicherheit und wachsendem Interesse am Schiesssport.",
-              "summary": "Deutschweizer Kantone verzeichneten 2025 einen Anstieg der ausgestellten Waffenerwerbsscheine um 10 bis 30 Prozent gegenüber dem Vorjahr. Als Ursachen nennen Händler und Behörden sowohl das Sicherheitsbedürfnis angesichts geopolitischer Krisen – darunter der Iran-Krieg – als auch ein wachsendes Interesse am Schiesssport. Behörden sehen die Entwicklung gelassen, betonen aber die Wichtigkeit einer konsequenten Umsetzung des Waffenrechts.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass eine bewaffnetere Zivilbevölkerung nicht zwangsläufig mehr Sicherheit bedeutet. Die Zunahme privater Waffen erhöhe statistisch das Risiko von Unfällen, Suiziden und häuslicher Gewalt. Eine ZHAW-Studie bestätigt zwar, dass die meisten Waffen für den Sport genutzt werden – doch die langfristigen gesellschaftlichen Folgen einer zunehmenden Bewaffnung bleiben umstritten.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/boom-im-schiesskeller-schweizer-waffenkaeufe-nehmen-zu-sport-oder-sicherheitsbeduerfnis"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-bern-beach-zentrum-grimsel-pumpspeicher",
-              "slug": "bern-beach-zentrum-grimsel-pumpspeicher",
-              "title": "Bern investiert: 18-Mio-Beach-Zentrum in Ausserholligen und 300-Mio-Pumpspeicher am Grimsel",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "🏔️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/BS80zEa7qHr8ChdsrfWkiB.jpg",
-              "kurz": "In der Region Bern nehmen zwei Grossprojekte konkrete Form an: das «Home of Beach» in Ausserholligen für 18,5 Millionen Franken und das neue Pumpspeicherwerk Grimsel 4 der KWO für 300 Millionen Franken.",
-              "summary": "Der Verein Beachvolley Bern realisiert in Ausserholligen das neue «Home of Beach» – ein nationales Leistungs- und Breitensportzentrum für Beachvolleyball mit Gesamtkosten von 18,5 Millionen Franken. Gleichzeitig hat der Verwaltungsrat der Kraftwerke Oberhasli (KWO) den Investitionsentscheid für das vollständig unterirdische Pumpspeicherwerk Grimsel 4 gefällt: 300 Millionen Franken, Baubeginn Juni 2026, Fertigstellung Februar 2032.",
-              "gegenstimme": "Beim Beach-Zentrum gibt es kritische Stimmen zur Nutzung des öffentlichen Raums: Die bisher dort befindliche Skateanlage – laut Stadtangaben die grösste und meistgenutzte der Stadt Bern – muss weichen. Für den Bau einer Ersatzanlage sind lediglich 700'000 Franken vorgesehen, was Skater-Kreisen als unzureichend gilt. Beim Grimsel-Projekt stellen Umweltorganisationen die Frage, ob der Eingriff ins Hochgebirge trotz unterirdischer Bauweise ökologisch vertretbar ist.",
-              "sources": [
-                {
-                  "name": "Der Bund – Beach",
-                  "url": "https://www.derbund.ch/bern-groesste-beachvolleyball-anlage-der-schweiz-im-bau-948074025480"
-                },
-                {
-                  "name": "Der Bund – Grimsel",
-                  "url": "https://www.derbund.ch/grimsel-kwo-baut-pumpspeicherwerk-fuer-300-millionen-215688087726"
-                },
-                {
-                  "name": "Radio BeO",
-                  "url": "https://www.radiobeo.ch/kwo-investiert-300-millionen-franken-in-neues-pumpspeicherwerk/"
-                },
-                {
-                  "name": "Berner Bär",
-                  "url": "https://baernerbaer.ch/sport/in-ausserholligen-entsteht-das-neue-home-of-beach/"
-                },
-                {
-                  "name": "Stadt Zürich Medienmitteilung",
-                  "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/03/stadt-zuerich-realisiert-mit-kraftwerken-oberhasli-wasserkraftprojekt-grimsel-4.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-bern-wohnungsnot-leerkundigung",
-              "slug": "bern-wohnungsnot-leerkundigung",
-              "title": "Wohnungsnot Bern: Stadtrat lässt Massnahmen gegen Leerkündigungen prüfen",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "🏠",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/148obk9aKkXBhMQAhROfeG.jpg",
-              "kurz": "Der Berner Stadtrat hat ein Postulat gegen Leerkündigungen bei Totalsanierungen mit 47 zu 15 Stimmen überwiesen. Gleichzeitig meldet Energie Wasser Bern (EWB) einen Gewinneinbruch von 55 Millionen Franken wegen Gösgen.",
-              "summary": "Der Berner Stadtrat hat am Donnerstag ein dringliches Postulat von GFL, SP/Juso und GB/JA überwiesen, das den Gemeinderat verpflichtet, Massnahmen gegen Leerkündigungen bei Totalsanierungen zu prüfen. Das Stadtparlament stimmte mit 47 zu 15 Stimmen zu. Auf der gleichen Traktandenliste: EWB weist für 2025 nur noch 34,7 Millionen Franken Reingewinn aus – ein Rückgang um 55 Millionen gegenüber dem Vorjahr, primär verursacht durch den Ausfall des Kernkraftwerks Gösgen.",
-              "gegenstimme": "SVP und FDP warnten im Stadtrat vor einem ausufernden Regulierungsapparat, der das Problem nicht löse. SVP-Sprecher Stephan Ischi kritisierte, Hauseigentümer würden pauschal als 'profitgeil' dargestellt. Dabei verhalte sich der Grossteil verantwortungsvoll. Ökonomen weisen zudem darauf hin, dass stärkere Regulierung Sanierungsanreize dämpfen und damit langfristig den Wohnraum knapper machen könnte.",
-              "sources": [
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/bern-stadtrat-will-gegen-leerkuendigungen-vorgehen-173591581213"
-                },
-                {
-                  "name": "BärnerBär",
-                  "url": "https://baernerbaer.ch/politik/regional/berner-stadtrat-lasst-massnahmen-gegen-leerkundigungen-prufen-67110638"
-                },
-                {
-                  "name": "cash.ch",
-                  "url": "https://www.cash.ch/news/energie-wasser-bern-2025-mit-umsatz-und-gewinneinbruch-923101"
-                },
-                {
-                  "name": "nau.ch",
-                  "url": "https://www.nau.ch/news/wirtschaft/energie-wasser-bern-schliesst-2025-trotz-sondereffekten-positiv-67110871"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-ceconomy-jd-com-oesterreich-blockade",
-              "slug": "ceconomy-jd-com-oesterreich-blockade",
-              "title": "Ceconomy-Übernahme: Österreich stellt sich gegen Verkauf an chinesisches JD.com",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "🏪",
-              "edition": "morning",
-              "image": "",
-              "kurz": "Die geplante Übernahme von Ceconomy durch JD.com stockt: Österreich verweigert bislang die investitionskontrollrechtliche Freigabe für den 2,2-Milliarden-Euro-Deal.",
-              "summary": "Ceconomy hat am 27. März 2026 via Ad-hoc-Meldung bestätigt, dass die Freigabe durch die österreichische Investitionskontrollbehörde ungewiss ist. Die restlichen kartellrechtlichen Genehmigungen in sechs Ländern sowie die FDI-Freigaben in Frankreich und Italien liegen bereits vor. JD.com hat dem österreichischen Wirtschaftsministerium weitgehende Zusagen gemacht, ohne dass dies bisher zur Freigabe geführt hat. Der Abschluss der Transaktion verzögert sich damit mindestens bis ins erste Halbjahr 2026.",
-              "gegenstimme": "JD.com und Ceconomy betonen, dass sie alle anderen Genehmigungen erhalten haben und aktiv mit Wien verhandeln. Kritiker in Europa sehen hingegen die Übernahme des grössten Elektronikhändlers des Kontinents durch einen chinesischen Konzern als strategisches Risiko – besonders in Zeiten geopolitischer Spannungen zwischen der EU und China.",
-              "sources": [
-                {
-                  "name": "Ceconomy Ad-hoc-Meldung via EQS/onvista",
-                  "url": "https://www.onvista.de/news/2026/03-27-eqs-adhoc-ceconomy-ag-information-zum-laufenden-oeffentlichen-uebernahmeverfahren-unsicherheit-ueber-investitionskontroll-rechtliche-freigabe-in-oesterreich-0-37-26495120"
-                },
-                {
-                  "name": "Bloomberg",
-                  "url": "https://www.bloomberg.com/news/articles/2026-03-27/austria-declines-to-approve-jd-com-s-offer-to-buy-ceconomy"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/uebernahme-oesterreich-stellt-sich-laut-ceconomy-bei-verkauf-an-jd.com-vielleicht-quer/100212620.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-ezb-zinsdebatte-april-schnabel-nagel",
-              "slug": "ezb-zinsdebatte-april-schnabel-nagel",
-              "title": "EZB-Zinsdebatte: Schnabel bremst, Nagel legt nach – Märkte spekulieren auf April-Erhöhung",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "📈",
-              "edition": "morning",
-              "image": "https://images.handelsblatt.com/thumbnails/v2/eyJrIjoibWVkaWEiLCJpIjoiZXpidS16aW5zZGViYXR0ZS0yMDI2IiwidyI6MTkyMCwiaCI6MTA4MCwiZiI6IndlYnAifQ/image.webp",
-              "kurz": "Das EZB-Direktorium ist gespalten: Bundesbankchef Nagel hält eine Zinserhöhung im April für möglich, EZB-Direktorin Schnabel mahnt zur Geduld. Die Finanzmärkte wetten zunehmend auf eine baldige Straffung.",
-              "summary": "Im EZB-Rat prallen zwei Positionen aufeinander: Bundesbankpräsident Joachim Nagel bezeichnet eine Zinserhöhung im April als 'sicherlich eine Option', warnt vor täglich wachsenden Inflationsrisiken und drängt zum Handeln. EZB-Direktorin Isabel Schnabel mahnte hingegen an der Universität Zürich, es bestehe 'kein Grund zur Eile'. Der Leitzins steht derzeit bei 2,0 Prozent. Die Energiepreisschocks durch den Iran-Krieg und steigende Rüstungsausgaben in Europa erhöhen den Preisdruck.",
-              "gegenstimme": "Kritiker einer baldigen Zinserhöhung verweisen darauf, dass höhere Zinsen die ohnehin schwache Wirtschaft der Eurozone weiter belasten würden. Morningstar-Ökonomen erwarten, dass die EZB den Leitzins bei 2,0 Prozent hält und mittelfristig sogar wieder senken könnte, falls sich die Konjunktur nicht erholt. Eine Zinserhöhung angesichts eines externen Energiepreisschocks – wie ihn der Iran-Krieg verursacht – wäre geldpolitisch unorthodox.",
-              "sources": [
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-zinserhoehung-in-der-euro-zone-im-april-schnabel-bremst-nagel-legt-nach/100212596.html"
-                },
-                {
-                  "name": "FXStreet",
-                  "url": "https://www.fxstreet.de.com/news/nagel-von-der-ezb-zinserhohung-im-april-ist-sicherlich-eine-option-202603260647"
-                },
-                {
-                  "name": "Morningstar",
-                  "url": "https://global.morningstar.com/de/wirtschaft/hat-die-ezb-ihre-zinssenkungen-beendet-ausblick-fr-2025-und-2026"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-iran-hormuz-neue-bedingungen",
-              "slug": "iran-hormuz-neue-bedingungen",
-              "title": "Strasse von Hormuz: Iran fordert neue Passagebedingungen – Tanker kehren um",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "🛢️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/ESt6klxsKl1Bu_fQwBUi8p.jpg",
-              "kurz": "Der Iran hat an der Strasse von Hormuz ein faktisches Mautsystem eingeführt. Schiffe zahlen bis zu zwei Millionen Dollar pro Durchfahrt – westliche Reedereien bleiben draussen.",
-              "summary": "Seit Kriegsbeginn am 28. Februar kontrolliert der Iran die Strasse von Hormuz mit einem System aus Dokumentenprüfung, Freigabecodes und Revolutionsgarden-Begleitung. Mindestens zwei Schiffe zahlten Gebühren in chinesischen Yuan. Brentöl hat die Marke von 106 Dollar überschritten – ein Anstieg von fast 50 Prozent seit Kriegsbeginn. Über 2000 Schiffe mit mehr als 20'000 Besatzungsmitgliedern stecken im Kriegsgebiet fest.",
-              "gegenstimme": "Iran bestreitet eine vollständige Schliessung der Meerenge und betont, Schiffe die 'nicht als feindlich gelten' dürften passieren – sofern sie sich an Sicherheitsvorschriften halten. Kritiker sehen darin eine gezielte Selektivität, die de facto westliche Reedereien ausschliesst und Teherans geopolitischen Einfluss ausbaut, ohne eine formale Blockade erklären zu müssen.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/krieg-im-persischen-golf-seeleute-gefangen-vor-der-strasse-von-hormuz-ld.1931115"
-                },
-                {
-                  "name": "Tagesschau",
-                  "url": "https://www.tagesschau.de/ausland/asien/iran-hormus-gebuehr-100.html"
-                },
-                {
-                  "name": "n-tv",
-                  "url": "https://www.n-tv.de/politik/Teheran-kontrolliert-Strasse-von-Hormus-mit-Mautstellen-id30515770.html"
-                },
-                {
-                  "name": "finanzen.net",
-                  "url": "https://www.finanzen.net/nachricht/rohstoffe/oelpreis-steigt-weiter-ueber-100-us-dollar-iran-krieg-treibt-15578736"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-der-iran-will-fuer-die-strasse-von-hormus-neue-bedingungen/100212376.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-lufthansa-kabinenpersonal-streik-urabstimmung",
-              "slug": "lufthansa-kabinenpersonal-streik-urabstimmung",
-              "title": "Lufthansa: Kabinenpersonal stimmt für Streik – Flugausfälle drohen",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "✈️",
-              "edition": "morning",
-              "image": "",
-              "kurz": "Das Kabinenpersonal von Lufthansa und CityLine hat in einer Urabstimmung mit überwältigender Mehrheit für Streikaktionen votiert. Flugausfälle sind damit erneut möglich.",
-              "summary": "Die Kabinengewerkschaft UFO gab am 27. März 2026 bekannt, dass 94 Prozent der Mitglieder bei der Kernmarke Lufthansa und fast 99 Prozent bei CityLine für Streiks gestimmt haben. Damit fehlt nur noch der Beschluss des UFO-Vorstands, um konkrete Arbeitskampfmassnahmen einzuleiten. Bereits Mitte Februar hatte ein gemeinsamer Streik von Piloten und Kabinenpersonal rund 800 Flüge gestrichen und fast 100'000 Passagiere betroffen. Mit dem Bodenpersonal konnte Lufthansa inzwischen eine Einigung erzielen – mit der Kabinenbesatzung nicht.",
-              "gegenstimme": "Lufthansa hat in der Vergangenheit betont, die Tarifgespräche konstruktiv führen zu wollen. Ökonomen warnen, dass weitere Streiks dem ohnehin durch gestiegene Betriebskosten belasteten deutschen Luftverkehrsmarkt schaden und die Wettbewerbsfähigkeit gegenüber günstigeren Billigfliegern weiter schwächen. Manche Beobachter sehen in der hohen Streikbereitschaft auch ein strukturelles Problem: Lufthansa verhandelt mit mehreren Gewerkschaften parallel, was koordinierte Einigungen erschwert.",
-              "sources": [
-                {
-                  "name": "Reuters/onvista",
-                  "url": "https://www.onvista.de/news/2026/03-27-kabinenpersonal-bei-lufthansa-votiert-in-urabstimmung-fuer-streik-0-20-26495081"
-                },
-                {
-                  "name": "Die Zeit",
-                  "url": "https://www.zeit.de/wirtschaft/2026-03/lufthansa-streik-kabinenpersonal-urabstimmung"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/luftfahrt-kabinenpersonal-bei-lufthansa-stimmt-in-urabstimmung-fuer-streik/100212589.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-openai-ipo-softbank-signal-2026",
-              "slug": "openai-ipo-softbank-signal-2026",
-              "title": "OpenAI-Börsengang rückt näher: SoftBanks 40-Milliarden-Kredit als klares Signal",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "💰",
-              "edition": "morning",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/openai-codex-plugins.jpg",
-              "kurz": "SoftBank hat einen ungesicherten 40-Milliarden-Dollar-Kredit mit 12 Monaten Laufzeit aufgenommen – Marktbeobachter sehen darin ein klares Signal für einen OpenAI-Börsengang noch 2026. Gleichzeitig holt OpenAI bei Entwicklerwerkzeugen auf.",
-              "summary": "SoftBank hat einen neuen Kredit von 40 Milliarden Dollar aufgenommen, um seine Beteiligung an OpenAI zu finanzieren. Der Kredit ist unbesichert und läuft nur 12 Monate – was darauf hindeutet, dass Kreditgeber wie JPMorgan Chase und Goldman Sachs mit einem baldigen OpenAI-Börsengang rechnen. SoftBanks Gesamtinvestition in OpenAI beläuft sich damit auf über 60 Milliarden Dollar. Gleichzeitig hat OpenAI seinen Codex-Assistenten mit Plugin-Support ausgestattet, womit Claude Code als direkter Konkurrent ins Visier genommen wird.",
-              "gegenstimme": "Skeptiker warnen, dass die Bewertungserwartungen für einen OpenAI-Börsengang möglicherweise weit über dem realen Marktpotenzial liegen. Das Unternehmen hat trotz Rekordumsätzen noch keinen profitablen Betrieb nachgewiesen, und die Abhängigkeit von Microsoft-Infrastruktur sowie der laufende Umbau zur For-Profit-Struktur werfen rechtliche und strukturelle Fragen auf. Beim Codex-Plugin-Update urteilen Entwickler nüchtern: Es ist im Wesentlichen Aufholarbeit gegenüber Features, die in Claude Code schon längst verfügbar sind.",
-              "sources": [
-                {
-                  "name": "TechCrunch: SoftBank Loan & OpenAI IPO",
-                  "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
-                },
-                {
-                  "name": "Ars Technica: OpenAI Codex Plugins",
-                  "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-physical-intelligence-milliarde-ki-robotics",
-              "slug": "physical-intelligence-milliarde-ki-robotics",
-              "title": "Physical Intelligence verhandelt 1 Milliarde Dollar – KI-Robotics boomt",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🤖",
-              "edition": "morning",
-              "image": "https://techcrunch.com/wp-content/uploads/2026/01/physical-intelligence-tc-1.jpg",
-              "kurz": "Das KI-Robotics-Startup Physical Intelligence verhandelt über eine weitere Milliarden-Dollar-Finanzierung – diesmal bei einer Bewertung von 11 Milliarden Dollar. Waymo zeigt derweil, wohin autonome Mobilität führen kann.",
-              "summary": "Physical Intelligence, ein zweijähriges Startup aus San Francisco, steht laut Bloomberg kurz vor einer neuen Finanzierungsrunde von rund 1 Milliarde Dollar bei einer Bewertung von über 11 Milliarden Dollar. Das wäre eine Verdoppelung der Bewertung innerhalb von nur vier Monaten. Gleichzeitig erreicht Waymo 500'000 bezahlte Robotaxi-Fahrten pro Woche – ein Zehnfaches gegenüber Mai 2024. Beide Entwicklungen zeigen das enorme Investor-Vertrauen in autonome, KI-gestützte Systeme.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass Physical Intelligence bislang keine klare Kommerzialisierungsstrategie vorgelegt hat. Co-Gründer Lachy Groom selbst räumt ein, es gebe 'keinen Zeitplan für die Kommerzialisierung'. Bei Waymo hingegen häufen sich regulatorische Untersuchungen – unter anderem wegen Verstössen beim Verhalten gegenüber Schulbussen und der Inanspruchnahme von Polizei und Feuerwehr für liegengebliebene Fahrzeuge.",
-              "sources": [
-                {
-                  "name": "TechCrunch: Physical Intelligence Fundraising",
-                  "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/"
-                },
-                {
-                  "name": "TechCrunch: Waymo Ridership",
-                  "url": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-sk-hynix-ipo-ram-markt",
-              "slug": "sk-hynix-ipo-ram-markt",
-              "title": "SK Hynix plant US-Börsengang – Lösung für globalen RAM-Engpass?",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "💾",
-              "edition": "morning",
-              "image": "https://techcrunch.com/wp-content/uploads/2026/03/sk-hynix-chip.jpg",
-              "kurz": "Der südkoreanische Speicherchip-Riese SK Hynix plant einen US-Börsengang mit einem Volumen von 10 bis 14 Milliarden Dollar. Das Kapital soll helfen, die weltweite RAM-Knappheit im KI-Zeitalter zu bekämpfen.",
-              "summary": "SK Hynix, weltweit führender Hersteller von High-Bandwidth-Memory (HBM) für KI-Chips, hat vertraulich ein F-1-Formular bei der US-Börsenaufsicht eingereicht. Der geplante US-Börsengang in der zweiten Jahreshälfte 2026 könnte 10 bis 14 Milliarden Dollar einbringen. Das Kapital ist für massive Erweiterungen der Produktionskapazitäten vorgesehen, um die anhaltende RAM-Knappheit zu adressieren, die den KI-Chip-Markt seit Monaten belastet. Die sogenannte 'RAMmageddon'-Situation soll laut Prognosen mindestens bis 2027 andauern.",
-              "gegenstimme": "Ein US-Börsengang allein löst keine Lieferketten-Probleme: Der Bau neuer Chipfabriken dauert Jahre und ist kapitalintensiv. Analysten warnen, dass die erhofften Kapazitätssteigerungen erst 2028 oder später voll wirksam werden könnten. Zudem könnte ein Bewertungsanstieg durch US-Listing die koreanische Aktienbasis von SK Hynix verwässern und Konflikte mit dem Grossaktionär SK Square auslösen, der mindestens 20 Prozent Beteiligung halten muss.",
-              "sources": [
-                {
-                  "name": "TechCrunch: SK Hynix US IPO",
-                  "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-social-media-sucht-prozess-meta-youtube",
-              "slug": "social-media-sucht-prozess-meta-youtube",
-              "title": "Silicon Valley in Aufruhr: Landmark-Urteil im Social-Media-Sucht-Prozess gegen Meta und YouTube",
-              "date": "2026-03-28",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "📱",
-              "edition": "morning",
-              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/assets/img/2024/09/02/110802148.jpg",
-              "kurz": "Eine Geschworenenjury in Los Angeles hat Meta und YouTube für schuldig befunden, durch suchtförderndes Plattformdesign die psychische Gesundheit einer jungen Nutzerin geschädigt zu haben – ein Präzedenzfall mit weitreichenden Folgen.",
-              "summary": "Am Mittwoch, dem 25. März 2026, fällten Geschworene in Los Angeles ein wegweisendes Urteil: Meta (Instagram) und YouTube wurden haftbar gemacht für den psychischen Schaden, den ihre Plattformen der damals minderjährigen Kaley zugefügt haben. Die Jury sprach ihr 3 Millionen Dollar Schadensersatz und weitere 3 Millionen Dollar Strafschadenersatz zu. Beide Konzerne haben Berufung angekündigt. Das Urteil wird als Startschuss für Tausende weiterer Klagen gesehen, die bereits in der Pipeline sind – darunter acht weitere sogenannte Bellwether-Prozesse in den kommenden Monaten.",
-              "gegenstimme": "Meta und Google betonen, dass das Urteil nicht einstimmig war und die Geschworenendebatte fast zwei Wochen dauerte. Rechtsprofessor Eric Goldman von der Santa Clara University warnt: Sollte die neue Rechtsdoktrin Bestand haben, könnte das eine existenzielle Bedrohung für die Social-Media-Branche werden – mit unabsehbaren Folgen für Millionen Nutzerinnen und Nutzer, die digitale Gemeinschaften zur Vernetzung und sozialen Einbindung nutzen. Meta hebt ausserdem hervor, dass Kayleys psychische Probleme bereits vor ihrer Nutzung von Instagram bestanden.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c86e3eglv2go"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-03-28-golfstaaten-dilemma-iran-krieg",
-              "slug": "golfstaaten-dilemma-iran-krieg",
-              "title": "Golfstaaten fürchten ein zu schnelles Kriegsende – und erwägen Eigenbeteiligung",
-              "date": "2026-03-28",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🌐",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/3ecec37f-9a6b-4e21-9ec3-efb1178603ef_w520_r2.08_fpx66.67_fpy50.jpg",
-              "kurz": "Saudi-Arabien und die VAE wollten keinen Krieg – doch nun fürchten sie, ein Waffenstillstand ohne klares Ergebnis könnte die Machtbalance zu ihren Ungunsten verschieben. Eine direkte Beteiligung wird ernsthaft erwogen.",
-              "summary": "Die Golfstaaten befinden sich in einem strategischen Dilemma: Einerseits werden sie von iranischen Drohnen und Raketen getroffen, andererseits fürchten sie ein Kriegsende, das dem Iran zu viel Spielraum lässt. Riad und Abu Dhabi erwägen erstmals offen eine direkte militärische Beteiligung. Gleichzeitig warnen Stimmen aus der Region eindringlich vor den Risiken einer weiteren Eskalation. Pakistan versucht derweil zu vermitteln.",
-              "gegenstimme": "Al Jazeera und regionale Stimmen betonen, dass trotz der Angriffe auf Golfstädte eine direkte militärische Beteiligung in der Region mehrheitlich abgelehnt wird. «This is not our war» ist die Haltung vieler Experten in der Region. Die Risiken einer eigenen Kriegsbeteiligung – inklusive massiver iranischer Vergeltung auf Ölanlagen – seien für die Golfstaaten kaum kalkulierbar.",
-              "sources": [
-                {
-                  "name": "Der Spiegel – Golfstaaten und Kriegsende",
-                  "url": "https://www.spiegel.de/ausland/krieg-im-nahen-osten-warum-die-golfstaaten-ein-zu-schnelles-ende-des-krieges-fuerchten-a-50af600a-33b0-4647-8623-9ee5bcb2b78d"
-                },
-                {
-                  "name": "The Guardian – Gulf states weigh up options",
-                  "url": "https://www.theguardian.com/world/2026/mar/20/gulf-states-weigh-up-options-iran-us-israel-conflict-middle-east-crisis-war"
-                },
-                {
-                  "name": "Chatham House – Should Gulf Arab states join the war?",
-                  "url": "https://www.chathamhouse.org/2026/03/should-gulf-arab-states-join-war-against-iran"
-                },
-                {
-                  "name": "Al Jazeera – Will Gulf states enter the war?",
-                  "url": "https://www.aljazeera.com/features/2026/3/2/after-irans-salvo-hit-their-skylines-will-the-gulf-states-enter-the-war"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-huthis-rakete-israel-eskalation",
-              "slug": "huthis-rakete-israel-eskalation",
-              "title": "Neue Eskalation: Huthis greifen Israel zum ersten Mal mit Rakete an",
-              "date": "2026-03-28",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🚀",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/a96899cd-4f02-40b2-bcff-7bcf0406fc1a_w520_r2.08_fpx41.99_fpy55.01.jpg",
-              "kurz": "Die Huthi-Miliz hat erstmals seit Beginn des Iran-Krieges eine ballistische Rakete auf Israel abgefeuert. Die Eskalation öffnet eine neue Front im bereits ausgeweiteten Nahost-Konflikt.",
-              "summary": "Die jemenitischen Huthis haben am Samstag, 28. März 2026, zum ersten Mal im aktuellen Irankrieg eine Rakete auf Israel abgefeuert. Sie begründeten den Angriff als Reaktion auf die fortgesetzte Zerstörung von Infrastruktur in Iran, Libanon, Irak und den palästinensischen Gebieten. Die Eskalation gibt dem bereits mehrwöchigen Krieg eine neue Dimension: Nun ist auch das Rote Meer als Kriegsschauplatz zurück. Experten warnen, dass eine Wiederaufnahme von Houthi-Angriffen auf Schifffahrtsrouten verheerende Folgen für die Weltwirtschaft hätte.",
-              "gegenstimme": "Militäranalytiker betonen, dass Houthi-Raketenangriffe auf Israel bisher kaum wirksam waren – die meisten wurden abgefangen. BBC-Korrespondent Paul Adams urteilt, der Angriff sei ein «zusätzliches Problem», aber «kaum eine ernsthafte Bedrohung» für Israel. Kritiker werfen den Huthis vor, geopolitische Spielmarken zu bedienen statt tatsächlich palästinensische Interessen zu vertreten.",
-              "sources": [
-                {
-                  "name": "BBC News Live",
-                  "url": "https://www.bbc.com/news/live/cje4x38q8xqt"
-                },
-                {
-                  "name": "Der Spiegel – Iran-News",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-rubio-glaubt-der-krieg-sei-in-wochen-nicht-in-monaten-vorbei-a-624b1930-db95-4f39-a268-b36194b96f4f"
-                },
-                {
-                  "name": "Handelsblatt – Iran-Krieg Liveblog",
-                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-huthis-bestaetigen-ersten-raketenangriff-auf-israel-im-iran-krieg/100136895.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-usa-no-kings-proteste-trump",
-              "slug": "usa-no-kings-proteste-trump",
-              "title": "«No Kings»: Massenproteste gegen Trump in den USA",
-              "date": "2026-03-28",
-              "time": "12:15",
+              "id": "2026-03-29-no-kings-proteste-millionen-ergebnis",
+              "slug": "no-kings-proteste-millionen-ergebnis",
+              "title": "«No Kings»: Millionen demonstrieren in allen 50 US-Bundesstaaten und 16 weiteren Ländern",
+              "date": "2026-03-29",
+              "time": "06:00",
               "category": "international",
               "icon": "✊",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
-              "kurz": "Millionen Amerikaner demonstrieren heute in über 3000 Kundgebungen gegen Präsident Donald Trump. Die dritte Ausgabe der «No Kings»-Proteste ist die bislang grösste – doch ihre politische Wirkung bleibt umstritten.",
-              "summary": "Am 28. März 2026 findet in den USA die dritte grosse Welle der sogenannten «No Kings»-Proteste statt. Über 3000 Kundgebungen sind in allen 50 Bundesstaaten sowie in 16 Ländern weltweit geplant. Getragen werden sie von einem breiten Bündnis aus progressiven Gruppen, Gewerkschaften und zivilgesellschaftlichen Organisationen. Das Motto richtet sich direkt gegen Trumps Regierungsstil, den die Organisatoren als autoritär und demokratiegefährdend bezeichnen. Politisch ist die Bewegung heterogen – und ihre tatsächliche Schlagkraft ist umstritten.",
-              "gegenstimme": "Konservative Medien und Trump-Unterstützer bezeichnen die «No Kings»-Bewegung als von linken Eliten und ausländischem Geld finanzierte Inszenierung ohne echten Rückhalt in der Bevölkerung. Auch innerhalb der Protestbewegung gibt es Fragen: Die New York Times analysiert, dass «No Kings» zum dritten Mal stattfindet, ohne bisher konkrete politische Ergebnisse erzielt zu haben. Die Gefahr der Ermüdung ist real.",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/03/29/e3bc2762-9b79-4c45-aa74-55ce41e3823c.jpg",
+              "kurz": "Rund 9 Millionen Menschen gingen am 28. März 2026 bei den dritten «No Kings»-Protesten auf die Strasse – in allen 50 US-Bundesstaaten und 16 weiteren Ländern. In Minnesota trat Bruce Springsteen auf.",
+              "summary": "Die dritten «No Kings»-Proteste gegen die Regierung Trump übertrafen laut Veranstaltern alle bisherigen Demonstrationen in der US-Geschichte. In über 3000 Kundgebungen landesweit und in mehr als 16 weiteren Ländern gingen rund 9 Millionen Menschen auf die Strasse. Zentrales Ereignis war eine Grosskundgebung in St. Paul, Minnesota, mit Auftritten von Bruce Springsteen und Bernie Sanders. Die Proteste richteten sich gegen den Iran-Krieg, Einwanderungsrazzien, steigende Lebenshaltungskosten und autoritäre Regierungsführung.",
+              "gegenstimme": "Das Weisse Haus bezeichnete die Proteste als «Trump Derangement Therapy Sessions» und erklärte, nur bezahlte Journalisten würden sich dafür interessieren. SRF-Korrespondent Roger Aebli gibt zu bedenken: Massendemonstrationen gab es bereits in Trumps erster Amtszeit – und er sitzt trotzdem wieder im Weissen Haus. Die politische Wirkung gross angelegter Strassenproteste bleibt in den USA begrenzt.",
               "sources": [
                 {
-                  "name": "Der Spiegel – Die Lage am Morgen",
-                  "url": "https://www.spiegel.de/politik/deutschland/news-no-kings-proteste-in-den-usa-kritik-an-markus-soeder-antisemitismusproblem-der-linken-a-4948f5bc-20a1-4d83-88f1-cc8d4346a8b2"
-                },
-                {
-                  "name": "The Guardian – No Kings protests",
+                  "name": "The Guardian",
                   "url": "https://www.theguardian.com/us-news/2026/mar/28/no-kings-protests-trump"
                 },
                 {
-                  "name": "New York Times – A Challenge for No Kings Protests",
-                  "url": "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html"
+                  "name": "Reuters",
+                  "url": "https://www.reuters.com/world/us/rallies-planned-thousands-us-cities-no-kings-protest-against-trump-2026-03-28/"
                 },
                 {
-                  "name": "nokings.org",
-                  "url": "https://www.nokings.org/"
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/faschisten-im-weissen-haus-die-us-bevoelkerung-hat-genug-landesweite-no-kings-demos"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o"
                 }
               ]
             },
             {
-              "id": "2026-03-28-schweiz-pfas-textil-beschichtung",
-              "slug": "schweiz-pfas-textil-beschichtung",
-              "title": "Durchbruch aus St. Gallen: PFAS-freie Textilbeschichtung könnte Industrie verändern",
-              "date": "2026-03-28",
-              "time": "12:15",
+              "id": "2026-03-29-kita-betreuer-missbrauch-winterthur-bern-wechsel",
+              "slug": "kita-betreuer-missbrauch-winterthur-bern-wechsel",
+              "title": "Kita-Missbrauchsskandal: Wie der Täter nach einer Anzeige 2022 ungehindert nach Bern wechseln konnte",
+              "date": "2026-03-29",
+              "time": "06:00",
               "category": "schweiz",
-              "icon": "🧪",
-              "edition": "midday",
-              "image": "https://www.srf.ch/static/cms/images/1280w/a5c0c7.jpg",
-              "kurz": "Die Wattwiler Textilfirma Bäumlin & Ernst AG hat gemeinsam mit der Empa eine Plasma-Beschichtungstechnologie entwickelt, die PFAS-Chemikalien in der Textilindustrie vollständig ersetzen kann.",
-              "summary": "Nach 15 bis 20 Jahren Forschung und rund zwei Millionen Franken Investition ist es der Firma Bäumlin & Ernst AG aus Wattwil SG in Zusammenarbeit mit der Empa gelungen, eine PFAS-freie Beschichtung für Textilgarne zu entwickeln. Die Plasma-Technologie lagert eine hauchdünne, waschfeste Schicht auf einzelne Fasern auf, ohne die gefährlichen Ewigkeitschemikalien zu benötigen. ETH-Forscher Martin Scheringer mahnt jedoch, dass die Trägheit der Industrie und hohe Umstellungskosten einen raschen Wandel verlangsamen werden.",
-              "gegenstimme": "Umweltchemiker Martin Scheringer von der ETH Zürich betont, dass PFAS-Alternativen seit Jahren technisch verfügbar wären. Das eigentliche Problem sei die Trägheit des Systems und die Kosten für den Wechsel – nicht die Technologie selbst. Einzelne Innovationen aus der Schweiz ändern nichts daran, dass ein Grossteil der globalen Textilindustrie weiterhin auf PFAS setzt, solange verbindliche Verbote fehlen oder nicht durchgesetzt werden.",
-              "sources": [
-                {
-                  "name": "SRF News – Firma aus St. Gallen entwickelt neue Garn-Technologie ohne PFAS",
-                  "url": "https://www.srf.ch/news/schweiz/ewigkeitschemikalie-pfas-neue-beschichtung-ohne-pfas-koennte-textilindustrie-veraendern"
-                },
-                {
-                  "name": "Swiss Textiles – Bäumlin & Ernst AG verarbeitet PFAS-freies Garn",
-                  "url": "https://swisstextiles.ch/themen/baeumlin-ernst-ag-verarbeitet-pfas-freies-garn-der-empa-weiter"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-schweizer-armee-pistole-sig-sauer-skandal",
-              "slug": "schweizer-armee-pistole-sig-sauer-skandal",
-              "title": "Desaströse Testergebnisse: Schweizer Armee will trotzdem SIG Sauer Pistole kaufen",
-              "date": "2026-03-28",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "midday",
-              "image": "https://images.keystone-sda.ch/resized/610x343/KEYSTONE/AP/2023/01/13/D3T1_13-01-2023-0_p320sig.jpg",
-              "kurz": "Die Schweizer Armee plant die Beschaffung von 50'000 Pistolen des Modells SIG Sauer P320 für 50 Millionen Franken – obwohl die Waffe beim Zielschiessen die Tiefstnote 1 von 10 erhielt.",
-              "summary": "Bei internen Tests der Armee schnitt die SIG Sauer P320 in mehreren Kategorien katastrophal ab: Der Verschluss schliesst sich nicht immer selbständig, der Griff verursacht Handgelenkschmerzen, das Visiersystem versagte teilweise. Die österreichische Glock erzielte im gleichen Test die Note 7. Armasuisse verteidigt den Entscheid mit strategischen und wirtschaftspolitischen Argumenten: SIG Sauer hat zugesichert, die Produktion im Kanton Schaffhausen aufzubauen. Das Parlament wird das Geschäft in der Sommersession 2026 debattieren.",
-              "gegenstimme": "Armasuisse und Mitte-Ständerat Charles Juillard relativieren: Die Mängel seien bei amerikanisch produzierten Exemplaren festgestellt worden – die künftigen Schweizer Versionen würden angepasst und verbessert. Militärstratege Alexandre Vautravers hält den Entscheid für strategisch richtig, da die Inlandproduktion die sicherheitspolitische Unabhängigkeit stärke.",
-              "sources": [
-                {
-                  "name": "SRF News – Schweizer Armee kauft Pistole trotz schlechter Testnote",
-                  "url": "https://www.srf.ch/news/dialog/umstrittener-ruestungskauf-desastroese-bewertung-fuer-die-kuenftige-pistole-der-schweizer-armee"
-                },
-                {
-                  "name": "VBS – SIG Sauer P320 wird neue Dienstpistole",
-                  "url": "https://www.vbs.admin.ch/de/newnsb/gc5jOOY5KgVDL5xKW_BlM"
-                },
-                {
-                  "name": "20 Minuten – Warum die SIG Sauer P320 die Glock G45 übertrumpfen soll",
-                  "url": "https://www.20min.ch/story/armasuisse-insider-neue-schweizer-pistole-fiel-durch-dann-mischte-sich-der-chef-ein-103464799"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-sommerzeit-umstellung-gesundheit",
-              "slug": "sommerzeit-umstellung-gesundheit",
-              "title": "Zeitumstellung in der Nacht: Was der Chronobiologe über die Gesundheitsrisiken sagt",
-              "date": "2026-03-28",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🕐",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/3FJJLih9KxvBpgix8sa7iK.jpg",
-              "kurz": "In der Nacht auf Sonntag, 29. März 2026, werden die Uhren um 2 Uhr auf 3 Uhr vorgestellt. Chronobiologen warnen seit Jahren vor den Gesundheitsfolgen – eine Abschaffung ist aber nicht in Sicht.",
-              "summary": "Die Umstellung auf die Sommerzeit in der Nacht auf den 29. März kostet uns eine Stunde Schlaf und bringt laut Chronobiologen mehr als nur Müdigkeit: Mini-Jetlag, erhöhte Unfallgefahr, Konzentrationsprobleme und bei empfindlichen Menschen auch kardiovaskuläre Risiken sind die Folge. Die EU hatte konkrete Abschaffungspläne, scheiterte aber am fehlenden Konsens der Mitgliedstaaten. Die Schweiz, seit 1981 in der Zeitumstellung, hat keine eigenständige Bewegung zur Abschaffung lanciert.",
-              "gegenstimme": "Befürworter der Sommerzeit verweisen auf den wirtschaftlichen Nutzen: Mehr Tageslicht am Abend fördert Freizeitaktivitäten, Konsum und Aussenaktivitäten. Ursprünglich eingeführt zur Energieeinsparung in der Ölkrise 1973, ist die Sommerzeit für viele Branchen – Tourismus, Gastgewerbe, Detailhandel – nach wie vor von kommerziellem Wert. Zudem hat sich die Gesellschaft in 50 Jahren an den Rhythmus gewöhnt.",
-              "sources": [
-                {
-                  "name": "SWI swissinfo.ch – In der Nacht auf Sonntag werden die Uhren eine Stunde vorgestellt",
-                  "url": "https://www.swissinfo.ch/ger/in-der-nacht-auf-sonntag-werden-die-uhren-eine-stunde-vorgestellt/91172699"
-                },
-                {
-                  "name": "Der Bund – Zeitumstellung: Warum sie immer ein Stress für unseren Körper ist",
-                  "url": "https://www.derbund.ch/zeitumstellung-warum-sie-immer-ein-stress-fuer-unseren-koerper-ist-281527435853"
-                },
-                {
-                  "name": "St. Galler Tagblatt – Zeitumstellung 2026",
-                  "url": "https://www.tagblatt.ch/leben/zeitumstellung-2026-wann-beginnt-die-sommerzeit-ld.2106427"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-henkel-olaplex-uebernahme",
-              "slug": "henkel-olaplex-uebernahme",
-              "title": "Henkel kauft US-Shampoo-Marke Olaplex für 1,4 Milliarden Dollar",
-              "date": "2026-03-28",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "💰",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/91836318-f653-4a6b-87cb-e275f5e901ab_w520_r2.08_fpx57.31_fpy49.99.jpg",
-              "kurz": "Der Düsseldorfer Konsumgüterkonzern Henkel übernimmt die US-Haarpflegemarke Olaplex für 1,4 Milliarden Dollar und stärkt damit sein Beauty-Portfolio in Nordamerika.",
-              "summary": "Henkel hat eine Vereinbarung zum Kauf des börsennotierten US-Herstellers Olaplex zu einem Preis von 2,06 Dollar je Aktie unterzeichnet. Olaplex erzielte 2025 rund 370 Millionen Euro Umsatz mit starker Profitabilität, litt aber in den vergangenen Jahren unter erheblichem Wettbewerbsdruck. Die Transaktion ist die zweite Haarpflegeübernahme Henkels innerhalb weniger Wochen – zuvor hatte der Konzern bereits die Marke «Not Your Mother's» erworben. Der Deal soll in der zweiten Jahreshälfte 2026 abgeschlossen werden, Olaplex wird danach von der Börse genommen.",
-              "gegenstimme": "JPMorgan-Analystin Celine Pannuti mahnt zur Vorsicht: Olaplex habe in den vergangenen drei Jahren massiv unter Wettbewerbsdruck gelitten und an Umsatzdynamik verloren. Mit 1,4 Milliarden Dollar zahlt Henkel rund das 3,8-Fache des Jahresumsatzes – eine ambitionierte Bewertung für eine Marke, deren Wachstumsstory an der Börse bereits klar gescheitert ist. Kritiker fragen sich, ob der Konzern die strukturellen Probleme von Olaplex mit frischem Kapital wirklich lösen kann oder ob er schlicht zu teuer für eine angeschlagene Marke gezahlt hat.",
-              "sources": [
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/olaplex-henkel-kauft-us-shampoo-hersteller-fuer-1-4-milliarden-dollar-a-4bb0e927-4882-47fc-9a10-c472beadab85"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-03-28-iran-diplomatie-ghalibaf-rubio-kriegsende",
-              "slug": "iran-diplomatie-ghalibaf-rubio-kriegsende",
-              "title": "Iran-Diplomatie: IRGC-General als Unterhändler – Rubio nennt konkreten Zeitrahmen",
-              "date": "2026-03-28",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🕊️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/c6cea3be-a4d1-4afe-8fe8-aa2334ad0c34_w520_r2.08_fpx41.7_fpy50.jpg",
-              "kurz": "IRGC-General Mohammed Ghalibaf gilt als mutmasslicher iranischer Unterhändler in Kriegsende-Verhandlungen mit den USA. US-Aussenminister Rubio nannte beim G7-Treffen einen Zeitrahmen von «wenigen Wochen».",
-              "summary": "Während die USA und Israel ihren Krieg gegen Iran nun in die vierte Woche führen, verdichten sich die Hinweise auf Geheimgespräche. Parlamentspräsident Mohammed Ghalibaf, ein ehemaliger IRGC-Kommandant, soll als iranischer Verhandlungsführer fungieren – obwohl Teheran dies offiziell bestreitet. US-Aussenminister Rubio erklärte am G7-Treffen in Frankreich, die Operationen liefen «vor dem Zeitplan» und er erwarte ein Ende «in den nächsten paar Wochen». Parallel liegt ein 15-Punkte-Plan der USA auf dem Tisch, auf den Teheran noch keine formelle Antwort gegeben hat.",
-              "gegenstimme": "Teheran bestreitet offiziell jegliche Verhandlungen mit Washington. Irans Aussenminister Abbas Araghchi drohte nach jüngsten Angriffen auf Nuklearanlagen und Stahlwerke mit einem «schweren Preis». Kritiker innerhalb des iranischen Systems sehen in Ghalibaf – der mit Korruptionsvorwürfen belastet ist und bekannt für seine Brutalität gegenüber Demonstranten – einen opportunistischen Taktiker ohne klare Ideologie, dem im eigenen Land nicht unbedingt vertraut wird.",
-              "sources": [
-                {
-                  "name": "NZZ: Wer ist Irans mutmasslicher Unterhändler?",
-                  "url": "https://www.nzz.ch/international/mohammed-ghalibaf-wer-ist-irans-mutmasslicher-unterhaendler-ld.1931124"
-                },
-                {
-                  "name": "BBC: Rubio says US expects to finish Iran war in next couple of weeks",
-                  "url": "https://www.bbc.com/news/articles/c1l9vz064nqo"
-                },
-                {
-                  "name": "Spiegel: G7 – Die vagen Botschaften des Herrn Rubio",
-                  "url": "https://www.spiegel.de/politik/deutschland/g7-rubio-laesst-bei-aussenministertreffen-kriegsende-gegen-iran-offen-a-336f66d7-bd74-4490-ab6b-3a70d6e6601b"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-iran-intelligence-drittel-raketen",
-              "slug": "iran-intelligence-drittel-raketen",
-              "title": "Alarmierende Einschätzung: USA haben laut Geheimdienst nur ein Drittel von Irans Raketen zerstört",
-              "date": "2026-03-28",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🎯",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/3ecec37f-9a6b-4e21-9ec3-efb1178603ef_w520_r2.08_fpx66.67_fpy50.jpg",
-              "kurz": "US-Geheimdienste schätzen, dass die bisherigen Angriffe erst rund ein Drittel von Irans Raketen- und Drohnenarsenal zerstört haben – ein klarer Widerspruch zu Trumps öffentlichen Behauptungen.",
-              "summary": "Laut einem Reuters-Bericht, der auf fünf Geheimdienstquellen basiert, haben die USA und Israel nach einem Monat Krieg nur etwa ein Drittel von Irans Raketenpotenzial vernichtet. Ein weiteres Drittel gilt als beschädigt oder in unterirdischen Tunneln vergraben – und damit vorläufig unzugänglich. Trotzdem widerspricht dies direkt Trumps Aussage, Iran habe «kaum noch Raketen». Parallel bestätigte die BBC, dass bei einem Angriff auf die südiranische Stadt Lamerd erstmals das neue US-Präzisionsraketen-System PrSM eingesetzt worden sein soll, bei dem mindestens 21 Zivilisten starben.",
-              "gegenstimme": "US-Verteidigungsminister Pete Hegseth betont, die USA jagten Irans Raketen «methodisch, rücksichtslos und überwältigend» – und die Anzahl der Abschüsse sei merklich zurückgegangen. Israel behauptet seinerseits, bereits 70 Prozent der iranischen Raketenwerfer «neutralisiert» zu haben. Ein anonymer US-Beamter räumte jedoch ein, eine genaue Zählung sei schlicht unmöglich: «Ich weiss nicht, ob wir je eine genaue Zahl kennen werden.»",
-              "sources": [
-                {
-                  "name": "The Guardian: US has destroyed only a third of Iran missiles",
-                  "url": "https://www.theguardian.com/world/2026/mar/28/us-destroyed-third-iran-missiles-intelligence-suggests-trump"
-                },
-                {
-                  "name": "BBC Verify: Video shows US missile likely used in deadly strike on Iranian town",
-                  "url": "https://www.bbc.com/news/articles/cx29mzmwdw2o"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-kuba-oel-humanitaere-krise",
-              "slug": "kuba-oel-humanitaere-krise",
-              "title": "Kuba: Trumps Ölblockade verschärft humanitäre Krise – Regime verhandelt heimlich mit USA",
-              "date": "2026-03-28",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🌊",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Trumps Ölblockade trifft die kubanische Bevölkerung mit voller Wucht: Stromausfälle, Wasserknappheit und leere Regale prägen den Alltag. Gleichzeitig sondiert das Regime Gesprächskanäle mit Washington – ohne sein politisches System zur Disposition zu stellen.",
-              "summary": "Seit Dezember 2025 unterbindet die Trump-Regierung Öllieferungen nach Kuba und droht Drittstaaten mit Zöllen, sollten sie die Blockade umgehen. Die humanitären Folgen sind gravierend: Schulen bleiben geschlossen, Krankenhäuser arbeiten ohne Strom und Wasser, und Lebensmittelvorräte gehen zur Neige. Das kubanische Regime hat Gespräche mit Washington aufgenommen, lehnt aber jede Verhandlung über sein politisches System oder die Ablösung von Präsident Díaz-Canel kategorisch ab. Laut US-Medien soll Washington ein Wirtschaftsabkommen vorbereiten, das Díaz-Canel einen 'Ausweg' bieten würde.",
-              "gegenstimme": "Die kubanische Regierung bezeichnet die US-Ölblockade als Teil eines seit über 60 Jahren anhaltenden Handelsembargos und sieht darin eine illegale 'Erdrosselungspolitik'. Aussenminister Carlos Fernández de Cossio betont, dass weder das politische System Kubas noch das Präsidentenamt verhandelbar seien. Präsident Díaz-Canel warnte, Kuba bereite sich auf eine mögliche 'Aggression' vor und werde auf jeden externen Angreifer mit 'unüberwindbarem Widerstand' reagieren. Kritiker wie der Berliner Kuba-Experte Bert Hoffmann werfen den USA eine Politik vor, die eine ganze Bevölkerung aushungert, um politischen Wandel zu erzwingen – und fordern mehr internationalen Widerspruch, auch von Europa.",
-              "sources": [
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/kuba-trumps-oelblockade-verschaerft-humanitaere-krise-375647605876"
-                },
-                {
-                  "name": "Tagesschau",
-                  "url": "https://www.tagesschau.de/ausland/kuba-humanitaere-krise-100.html"
-                },
-                {
-                  "name": "Die Zeit",
-                  "url": "https://www.zeit.de/politik/ausland/2026-03/kuba-usa-trump-oel-blockade-gxe"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-paris-bombenanschlag-bank-of-america",
-              "slug": "paris-bombenanschlag-bank-of-america",
-              "title": "Paris: Terrorversuch vor Bank of America Gebäude vereitelt",
-              "date": "2026-03-28",
-              "time": "18:00",
-              "category": "international",
-              "icon": "💣",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Pariser Polizei hat in der Nacht auf Samstag einen mutmasslichen Bombenanschlag auf ein Gebäude der Bank of America im 8. Arrondissement vereitelt. Der Tatverdächtige wurde auf frischer Tat festgenommen.",
-              "summary": "Gegen 3.30 Uhr morgens stellten Polizisten im Pariser 8. Arrondissement – unweit der Champs-Élysées – einen Mann, der gerade dabei war, einen selbst gebauten Sprengkörper vor einem Gebäude der Bank of America zu platzieren. Die Vorrichtung enthielt fünf Liter Flüssigkeit (mutmasslich Treibstoff) sowie ein Zündsystem mit 650 Gramm Sprengpulver. Die Anti-Terror-Staatsanwaltschaft übernahm sofort die Ermittlungen. Innenminister Laurent Nuñez verwies auf die «aktuelle internationale Lage» als Kontext erhöhter Sicherheitsbereitschaft.",
-              "gegenstimme": "Zur Identität, Nationalität und Motivation des Täters haben die Behörden bislang keine Angaben gemacht. Die Anti-Terror-Staatsanwaltschaft ermittelt wegen «versuchter Brandstiftung oder anderer gefährlicher Mittel im Zusammenhang mit einer terroristischen Unternehmung» sowie wegen «terroristischer krimineller Verschwörung» – eine endgültige Einstufung steht jedoch aus. Unklar bleibt, ob der Anschlag mit dem laufenden Nahost-Krieg oder anderen politischen Motiven zusammenhängt.",
-              "sources": [
-                {
-                  "name": "The Guardian: Paris police foil attempted bomb attack outside Bank of America",
-                  "url": "https://www.theguardian.com/world/2026/mar/28/paris-police-foil-attempted-bomb-attack-bank-of-america"
-                },
-                {
-                  "name": "Tages-Anzeiger: Paris – Anschlag auf Bank of America vereitelt",
-                  "url": "https://www.tagesanzeiger.ch/paris-anschlag-auf-bank-of-america-vereitelt-392688364893"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-28-neuenburgersee-roemischer-sensationsfund",
-              "slug": "neuenburgersee-roemischer-sensationsfund",
-              "title": "Sensationsfund: Perfekt erhaltene römische Schiffsfracht im Neuenburgersee entdeckt",
-              "date": "2026-03-28",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "⚓",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Im Neuenburgersee wurde eine aussergewöhnlich gut erhaltene Ladung eines römischen Handelsschiffs aus dem 1. Jahrhundert nach Christus geborgen – ein einzigartiger Fund nördlich der Alpen.",
-              "summary": "Archäologen des Kantons Neuenburg haben im Neuenburgersee eine vollständige Schiffsladung aus der frühen Kaiserzeit entdeckt. Die Fracht enthält mehrere hundert unversehrte Keramikgefässe, spanische Olivenöl-Amphoren, Werkzeuge, Wagenräder und Schwerter – alles in ausgezeichnetem Zustand. Der Fund gilt als einzigartig in der Schweiz und nördlich der Alpen. Die Objekte sollen nach der Restaurierung im Museum Laténium in Hauterive ausgestellt werden.",
-              "gegenstimme": "Experten warnen, dass der Fundort trotz der aktuellen Bergungsmassnahmen gefährdet bleibt: Erosion des Seegrundes, ankernde Freizeitboote und die Gefahr von Vandalismus und Plünderungen bedrohen die noch nicht geborgenen Objekte. Zudem sind die Restaurierungs- und Konservierungsarbeiten aufwendig und kostspielig – es bleibt abzuwarten, ob die nötigen Mittel langfristig zur Verfügung stehen.",
+              "icon": "⚠️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/8aQw9Y03KmYBF9ep4JS8as.jpg",
+              "kurz": "Ein Kita-Betreuer soll mindestens 15 Kleinkinder sexuell misshandelt haben. Trotz einer Anzeige 2022 erhielt er danach eine neue Stelle – mit positiven Referenzen.",
+              "summary": "Ein Kita-Gruppenleiter wird beschuldigt, mindestens 15 Kleinkinder in zwei verschiedenen Kindertagesstätten misshandelt zu haben. Bereits 2022 war eine Meldung eingegangen, das Verfahren wurde jedoch eingestellt. Da keine rechtskräftige Verurteilung vorlag, konnte der Mann ungehindert mit positiven Referenzen in eine Berner Kita wechseln. Der Fall deckt strukturelle Schutzlücken im schweizerischen Kinderschutzsystem auf.",
+              "gegenstimme": "Kinderschutz-Expertinnen und der Beschuldigte selbst verweisen auf die Unschuldsvermutung: Solange keine rechtskräftige Verurteilung vorliegt, ist es rechtlich heikel, negative Informationen über eine Person weiterzugeben. Aus Datenschutz- und Persönlichkeitsgründen ist auch der Informationsaustausch zwischen Arbeitgebern begrenzt.",
               "sources": [
                 {
                   "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/neuenburgersee-einzigartiger-fund-von-roemischer-schiffsladung-geborgen-103534491"
+                  "url": "https://www.20min.ch/story/ein-jahr-spaeter-15-kinder-misshandelt-warum-bekam-kita-betreuer-noch-einen-job-103533967"
                 },
                 {
-                  "name": "Bluewin / SDA",
-                  "url": "https://www.bluewin.ch/de/news/vermischtes/roemische-ladung-auf-dem-grund-des-neuenburgersees-gefunden-3160948.html"
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/kindsmissbrauch-winterthur-wie-kita-taeter-nach-bern-wechselte-932821400411"
                 }
               ]
             },
             {
-              "id": "2026-03-28-schweiz-zollstreit-usa-parmelin-frist",
-              "slug": "schweiz-zollstreit-usa-parmelin-frist",
-              "title": "Schweiz im US-Zollstreit: Bundespräsident Parmelin erklärt Frist vom 31. März als hinfällig",
-              "date": "2026-03-28",
-              "time": "18:00",
+              "id": "2026-03-29-schweiz-akademiker-arbeitslosigkeit-master",
+              "slug": "schweiz-akademiker-arbeitslosigkeit-master",
+              "title": "Akademiker-Arbeitslosigkeit explodiert: 70 Prozent mehr Master-Absolventen ohne Job seit 2010",
+              "date": "2026-03-29",
+              "time": "06:00",
               "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "evening",
+              "icon": "📊",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/03/27/a7e9f4ec-dfb0-44f0-93e2-d96fb5359170.jpg",
+              "kurz": "Seit 2010 ist die Zahl arbeitsloser Master-Absolventen in der Schweiz um 70 Prozent gestiegen. Gleichzeitig sank die Arbeitslosigkeit bei Berufslernenden um 45 Prozent.",
+              "summary": "Die Arbeitslosenquote unter Uni-Absolventen mit Master-Abschluss hat sich seit 2010 dramatisch entwickelt: Plus 70 Prozent bei arbeitslosen Master-Absolventen, minus 45 Prozent bei Personen mit Berufslehre. Der Arbeitsmarkt kann das stark gestiegene Angebot an Hochschulabsolventen nicht im gleichen Tempo aufnehmen. Besonders der Einstieg nach dem Uni-Abschluss ist schwieriger geworden als nach einem FH- oder HF-Studium, da universitäre Ausbildungen weiter vom Arbeitsmarkt entfernt sind.",
+              "gegenstimme": "Bildung schützt nach wie vor vor Arbeitslosigkeit: Die Gesamtquote bei Personen mit tertiärem Abschluss liegt mit 2,4 Prozent (Februar 2026) unter dem Schweizer Durchschnitt von 3 Prozent (Sek II) und weit unter dem Niveau ohne Berufsabschluss (6 Prozent). Der Arbeitgeberverband betont, dass das Matching-Problem lösbar ist – etwa durch engere Verbindung zwischen Hochschulprogrammen und Wirtschaftsbedürfnissen.",
+              "sources": [
+                {
+                  "name": "20 Minuten – 70% mehr Arbeitslose mit Masterabschluss",
+                  "url": "https://www.20min.ch/story/seit-2010-quote-explodiert-70-prozent-mehr-arbeitslose-mit-masterabschluss-103535439"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-schweiz-hybride-bedrohung-russland",
+              "slug": "schweiz-hybride-bedrohung-russland",
+              "title": "Schweiz im Visier: Drohnen, Spione, Cyberangriffe – beispiellose hybride Bedrohungsdichte",
+              "date": "2026-03-29",
+              "time": "06:00",
+              "category": "schweiz",
+              "icon": "🛡️",
+              "edition": "morning",
               "image": "https://image.20min.ch/2026/02/22/5bd2704d-2a1a-4769-9108-82ea84189090.jpg",
-              "kurz": "Die Frist für ein verbindliches Zollabkommen mit den USA ist nach einem Supreme-Court-Urteil «de facto hinfällig», so Bundespräsident Parmelin. Die Verhandlungen gehen jedoch weiter.",
-              "summary": "Bundespräsident Guy Parmelin hat am Samstag erklärt, dass die ursprünglich bis Ende März angestrebte Einigung im Zollstreit mit den USA nicht mehr gilt. Hintergrund ist ein Urteil des US-Supreme-Courts, das einen Teil der länderspezifischen Zölle von Präsident Trump für rechtswidrig erklärte. Trump reagierte mit einem neuen pauschalen Zollsatz von 10 Prozent auf alle Länder, befristet bis Juli. Die Schweiz verhandelt dennoch weiter und stellt den USA Zugeständnisse in Aussicht.",
-              "gegenstimme": "Kritiker bemängeln, dass der Bundesrat monatelang auf eine Frist hingearbeitet hat, die nun einfach für nichtig erklärt wird – ohne dass ein konkreter neuer Zeitplan vorliegt. Wirtschaftskreise befürchten, dass die rechtliche Unsicherheit in den USA und die Volatilität der Trumpschen Zollpolitik eine verlässliche Planung für Schweizer Exporteure verunmöglicht. Die Frage bleibt offen, ob die angebotenen Zugeständnisse bei Lebensmittelzöllen innenpolitisch vertretbar sind.",
+              "kurz": "Der Nachrichtendienst des Bundes warnt vor einer «beispiellosen Bedrohungsdichte»: Drohnenüberflüge über kritische Infrastrukturen, enttarnte Agenten und über 260 Cyberangriffe in neun Monaten.",
+              "summary": "Die Kantonspolizei Aargau hat in den letzten zwei Jahren rund ein Dutzend Vorfälle mit ausländischen Agenten registriert, mehrheitlich russischen oder chinesischen Diensten zugeordnet. Im Visier stehen Kernkraftwerke, Treibstofflager und der Stromnetzknoten Laufenburg. Gleichzeitig verdoppelten sich Drohnenmeldungen auf 104 im Jahr 2025, und das Bundesamt für Cybersicherheit zählte über 260 Angriffe auf kritische Infrastruktur in neun Monaten. Zusätzlich zeigen Recherchen von SRF, dass die USA den Schweizer Zahlungsstopp für das Patriot-Flugabwehrsystem umgehen – mit erheblichen finanziellen Folgen für das Verteidigungsdepartement.",
+              "gegenstimme": "Sicherheitsexperten warnen, die Schweiz sei trotz der Bedrohungslage nicht ausreichend vorbereitet. Denis Froidevaux, früherer Chef des kantonalen Führungsstabs Waadt, sagt, ein entschlossener staatlicher Angreifer könnte die Schweizer Infrastruktur zumindest teilweise lahmlegen. Drohnenspezialist Stefan Hunziker ergänzt, es gebe kein System, das alle Drohnentypen erkennen könne – feindliche Militärdrohnen seien besonders schwer zu detektieren.",
               "sources": [
                 {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/nach-supreme-court-urteil-parmelin-frist-fuer-zoll-deal-mit-usa-hinfaellig"
+                  "name": "SRF – Die Schweiz im Visier des hybriden russischen Kriegs",
+                  "url": "https://www.srf.ch/news/dialog/sicherheit-die-schweiz-im-visier-des-hybriden-russischen-kriegs"
                 },
                 {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/guy-parmelin-zollverhandlungen-frist-vom-31-maerz-ist-nicht-mehr-gueltig-103536036"
+                  "name": "SWI swissinfo – USA umgehen Schweizer Zahlungsstopp für Patriot",
+                  "url": "https://www.swissinfo.ch/ger/aussenpolitik/usa-umgehen-schweizer-zahlungsstopp-f%c3%bcr-flugabwehrsystem-patriot/91161790"
                 }
               ]
             },
             {
-              "id": "2026-03-28-kanton-bern-wahlen-2026-vorschau",
-              "slug": "kanton-bern-wahlen-2026-vorschau",
-              "title": "Morgen wählt Bern: Grosse Rochade im Regierungsrat – SVP will Machtpoker gewinnen",
-              "date": "2026-03-28",
-              "time": "18:00",
+              "id": "2026-03-29-schweiz-kernenergie-bauverbot-aufhebung",
+              "slug": "schweiz-kernenergie-bauverbot-aufhebung",
+              "title": "Stromlücke Schweiz: Bundesrat plant Aufhebung des Atomkraftwerk-Bauverbots von 2017",
+              "date": "2026-03-29",
+              "time": "06:00",
+              "category": "schweiz",
+              "icon": "⚡",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/03/27/e23c83c7-995a-429d-98b7-4cc1065690fc.jpg",
+              "kurz": "Der Bundesrat will das 2017 eingeführte Bauverbot für neue Atomkraftwerke aufheben. Ab den 2040er-Jahren droht der Schweiz sonst eine Winterstromlücke.",
+              "summary": "Der Bundesrat prüft die Aufhebung des Verbots für neue Kernkraftwerke, das 2017 per Volksabstimmung eingeführt wurde. Der Ständerat stimmte einem indirekten Gegenvorschlag bereits zu. Hintergrund ist eine drohende Winterstromlücke ab 2045, wenn die bestehenden AKW vom Netz gehen und die erneuerbaren Energien die Lücke nicht vollständig schliessen können. In der SRF-Arena prallten bürgerliche Befürworter und linke Gegner der Kernenergie aufeinander.",
+              "gegenstimme": "Grüne und GLP warnen: Jede Diskussion über neue AKW lenke Investitionen von den erneuerbaren Energien ab. Ein neues Kernkraftwerk kostet 8 bis 12 Milliarden Franken und wäre frühestens 2045 betriebsbereit – also genau dann, wenn die Lücke entsteht, aber viel zu spät für eine Überbrückung. Zudem ist ein Referendum wahrscheinlich, das den Entscheid verzögern würde.",
+              "sources": [
+                {
+                  "name": "20 Minuten – Stromlücke Hintergrund",
+                  "url": "https://www.20min.ch/story/atomdebatte-darum-ist-die-versorgung-der-schweiz-mit-strom-gefaehrdet-103372965"
+                },
+                {
+                  "name": "20 Minuten – SRF Arena Kernenergie",
+                  "url": "https://www.20min.ch/story/srf-arena-ihr-blockiert-alles-beim-thema-kernenergie-wirds-hitzig-103535940"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-svp-10-millionen-initiative-spuhler-opposition",
+              "slug": "svp-10-millionen-initiative-spuhler-opposition",
+              "title": "SVP-Initiative «Keine 10-Millionen-Schweiz»: Parteiaushängeschild Spuhler stellt sich dagegen",
+              "date": "2026-03-29",
+              "time": "06:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/25lkiKqEqg68iB_NmS_ALD.jpg",
+              "kurz": "Die SVP beschloss einstimmig die Unterstützung ihrer Volksinitiative «Keine 10-Millionen-Schweiz». Doch der frühere SVP-Nationalrat und Unternehmer Peter Spuhler lehnt sie als «zu extrem» ab.",
+              "summary": "An der Delegiertenversammlung in Maienfeld stimmten die SVP-Delegierten ohne eine einzige Enthaltung für ihre Volksinitiative, die die Einwohnerzahl der Schweiz auf zehn Millionen begrenzen will. Gleichentags distanzierte sich Peter Spuhler, Verwaltungsratspräsident von Stadler Rail und ehemaliger SVP-Nationalrat, öffentlich von der Initiative. Er hält sie für «zu scharf und zu extrem» und befürchtet Schäden für die Industrie, das Gesundheitswesen und die Bilateralen Verträge. Die Volksabstimmung findet am 14. Juni 2026 statt.",
+              "gegenstimme": "Politologe Michael Herrmann zweifelt an der Kampagnenstrategie der SVP: Die Partei setze zu stark auf Wachstumskritik, statt die Wählerschaft der Mitte und der FDP direkt anzusprechen. Zudem lehnen alle anderen grossen Parteien – SP, Mitte, FDP, Grüne, GLP – die Initiative ab. Kritiker sehen in der Initiative einen Angriff auf die Personenfreizügigkeit mit der EU und damit auf die Bilateralen Verträge.",
+              "sources": [
+                {
+                  "name": "SRF – SVP unisono für ihre Initiative",
+                  "url": "https://www.srf.ch/news/schweiz/svp-delegiertenversammlung-svp-unisono-fuer-ihre-initiative-keine-10-millionen-schweiz"
+                },
+                {
+                  "name": "20 Minuten – Spuhler stellt sich gegen 10-Millionen-Initiative",
+                  "url": "https://www.20min.ch/story/zu-extrem-spuhler-stellt-sich-gegen-10-millionen-initiative-seiner-svp-103536066"
+                },
+                {
+                  "name": "SWI swissinfo – SVP stimmt Basis auf Abstimmungskampf ein",
+                  "url": "https://www.swissinfo.ch/ger/svp-spitze-stimmt-basis-auf-abstimmungskampf-zur-zuwanderung-ein/91173692"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-bern-kantonswahlen-2026-ergebnis",
+              "slug": "bern-kantonswahlen-2026-ergebnis",
+              "title": "Kantonswahlen Bern 2026: Grosse Rochade – Resultate im Überblick",
+              "date": "2026-03-29",
+              "time": "06:00",
               "category": "regional",
               "icon": "🗳️",
-              "edition": "evening",
+              "edition": "morning",
               "image": "https://cdn.unitycms.io/images/81SE4sWmK968pEx3lMj2qt.jpg",
-              "kurz": "Am Sonntag, 29. März 2026, wählt der Kanton Bern Grossrat und Regierungsrat neu. Drei Bisherige treten nicht mehr an, die SVP will mit einem Fünferticket einen dritten Regierungssitz ergattern.",
-              "summary": "Bei den Gesamterneuerungswahlen vom 29. März 2026 stehen im Kanton Bern sieben Regierungsratssitze und 160 Grossratssitze zur Wahl. Drei Regierungsratsmitglieder – Christoph Ammann (SP), Christine Häsler (Grüne) und Christoph Neuhaus (SVP) – treten nicht mehr an. Die Bürgerlichen kandidieren mit einem Fünferticket und wollen der Linken einen Sitz abspenstig machen. Rot-Grün tritt mit einem Viererticket an, um den Besitzstand zu wahren. Umfragen deuten auf eine knappe Ausgangslage hin.",
-              "gegenstimme": "Politikwissenschaftler Marc Bühlmann dämpft die Erwartungen der SVP: Aktuelle Umfragen deuten darauf hin, dass die Bürgerlichen keinen zusätzlichen Sitz gewinnen werden. Historisch gesehen wurden Bisherige im Kanton Bern kaum je abgewählt. Kritiker der SVP-Strategie sehen im Fünferticket ein riskantes Manöver, das die eigenen Stimmen zersplittern könnte, statt sie zu bündeln.",
+              "kurz": "Der Kanton Bern wählt heute Grossen Rat und Regierungsrat neu. Erste Resultate werden ab 14 Uhr erwartet – die Ausgangslage deutet auf Verschiebungen zugunsten der SVP und SP hin.",
+              "summary": "Am 29. März 2026 wählt der Kanton Bern seinen 160-köpfigen Grossen Rat und den siebensitzigen Regierungsrat. Drei bisherige Regierungsräte treten nicht mehr an, was eine erhebliche personelle Erneuerung garantiert. Laut Wahlbarometer von gfs.bern bleibt die SVP stärkste Kraft, während SP leicht zulegen könnte. Im Regierungsrat überrascht die Grünen-Nationalrätin Aline Trede mit Zufriedenheitswerten auf Niveau der Bisherigen.",
+              "gegenstimme": "Kritiker mahnen, dass ein SVP-Zuwachs im Grossen Rat die politische Balance im bevölkerungsreichsten Kanton kippen könnte. Politologen weisen zudem darauf hin, dass grosse Namen auf Listen den Wahlausgang kaum beeinflussen – die Wählerinnen und Wähler stimmten primär für Parteien, nicht für Personen.",
               "sources": [
                 {
-                  "name": "SRF News – Regierungsratswahlen",
-                  "url": "https://www.srf.ch/news/schweiz/regierungsratswahlen-bern-2026-wahlen-kanton-bern-geht-das-buergerliche-powerplay-auf"
-                },
-                {
-                  "name": "SRF News – Grossratswahlen",
+                  "name": "SRF News – Berner Grossratswahlen 2026",
                   "url": "https://www.srf.ch/news/schweiz/grossratswahlen-bern-2026-berner-grossratswahlen-comebacks-machtkampf-und-neue-gesichter"
                 },
                 {
-                  "name": "Kanton Bern – Wahlen",
+                  "name": "gfs.bern – Wahlbarometer Kanton Bern",
+                  "url": "https://www.gfsbern.ch/de/news/wahlbarometer-kanton-bern/"
+                },
+                {
+                  "name": "Kanton Bern – Gesamterneuerungswahlen 29. März 2026",
                   "url": "https://www.sta.be.ch/de/start/themen/wahlen-und-abstimmungen/wahlen/naechste-wahlen.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-iran-krieg-finanzielle-folgen-oel-sprit",
+              "slug": "iran-krieg-finanzielle-folgen-oel-sprit",
+              "title": "Iran-Krieg belastet Haushalte: Öl bei 106 Dollar, Sprit über 2 Euro, Aktienmärkte im Minus",
+              "date": "2026-03-29",
+              "time": "06:00",
+              "category": "wirtschaft",
+              "icon": "💰",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/cdcb0921-64a4-42a3-a3b0-9bcbdfc3a542_w520_r2.08_fpx57.97_fpy44.99.jpg",
+              "kurz": "Der Iran-Krieg treibt die Energie- und Lebenshaltungskosten weltweit in die Höhe: Brent-Öl über 100 Dollar, Spritpreise in Deutschland auf Jahreshöchststand, Börsen unter Druck.",
+              "summary": "Seit Ausbruch des Iran-Kriegs Ende Februar 2026 hat sich der Brent-Ölpreis von rund 72 Dollar auf zeitweise über 120 Dollar fast verdoppelt, bevor er sich auf rund 106 Dollar einpendelte. In Deutschland kostet ein Liter Super E10 bereits 2,07 Euro, Diesel sogar 2,29 Euro – nur knapp unter dem Allzeithoch von 2022. Der DAX schloss am Freitag 1,4 Prozent tiefer bei 22.301 Punkten, der Dow Jones befindet sich im Korrekturbereich. Ökonomen und Analysten warnen vor einem stagflationären Mix aus hohen Energiepreisen und fallenden Aktienkursen, der das Wirtschaftswachstum abwürgen könnte.",
+              "gegenstimme": "Einige Analysten warnen davor, die Marktreaktionen zu übertreiben: Die IEA und ihre 32 Mitgliedstaaten haben strategische Ölreserven freigegeben, um die Märkte zu beruhigen, und Versorgungsengpässe bei Benzin und Diesel sind in Deutschland laut Experten derzeit nicht zu befürchten. Zudem profitiert der Iran – trotz Kriegszustand – selbst von den hohen Preisen: Teheran verdiente im März schätzungsweise 139 Millionen Dollar täglich an Ölverkäufen, was Verhandlungsanreize für ein rasches Kriegsende schafft.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/irankrieg-aktienmaerkte-drohen-zum-risiko-fuer-die-weltkonjunktur-zu-werden/100212390.html"
+                },
+                {
+                  "name": "Handelsblatt DAX",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-trotz-verlaengerung-von-trumps-ultimatum-deutlich-tiefer/100212372.html"
+                },
+                {
+                  "name": "ADAC",
+                  "url": "https://www.adac.de/news/spritpreise-steigen-durch-krieg-in-nahost/"
+                },
+                {
+                  "name": "Fortune",
+                  "url": "https://fortune.com/2026/03/27/anthropic-leaked-ai-mythos-cybersecurity-risk/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-vw-rivian-allianz-probleme-meilenstein",
+              "slug": "vw-rivian-allianz-probleme-meilenstein",
+              "title": "VW-Rivian-Allianz: Meilenstein entsperrt 1 Milliarde – doch in der Partnerschaft knirscht es",
+              "date": "2026-03-29",
+              "time": "06:00",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/7ad536b0-a0bd-41e7-9655-6b7ee138e562_w520_r2.08_fpx69.67_fpy49.93.jpg",
+              "kurz": "Das Joint Venture zwischen Rivian und Volkswagen hat den Wintertest-Meilenstein bestanden und damit 1 Milliarde Dollar freigeschaltet – obwohl hinter den Kulissen strukturelle Spannungen schwelen.",
+              "summary": "Das gemeinsame Softwareunternehmen RV Tech von Rivian und Volkswagen hat erfolgreich Wintertests der neuen SDV-Architektur abgeschlossen, was laut Vereinbarung eine weitere Milliarden-Dollar-Investition von VW auslöst. Insgesamt hat Volkswagen damit bereits über 3 Milliarden Dollar in Rivian investiert. Gleichzeitig mehren sich Berichte über Integrationschwierigkeiten: Rivians EV-only-Architektur passt nicht reibungslos zu VWs breitem Portfolio aus Verbrenner- und Elektrofahrzeugen, und Premiummarken wie Audi und Porsche fordern markspezifische Anpassungen. Rivians CFO betonte allerdings zuletzt, die Beziehung sei «sehr stark».",
+              "gegenstimme": "Kritische Stimmen weisen darauf hin, dass die Partnerschaft strukturell ungleich ist: Rivian muss seine EV-native Softwarearchitektur für eine Flotte anpassen, die grösstenteils noch Verbrenner umfasst. Laut Manager Magazin drohen Verzögerungen beim Audi Q8 e-tron und der elektrischen A4 um mindestens ein Jahr. Porsche's Giga-SUV K1 soll sogar auf unbestimmte Zeit verschoben worden sein. Ein «Notfall-Comeback» von VWs eigenem Softwarearm Cariad wird intern diskutiert.",
+              "sources": [
+                {
+                  "name": "Electrek",
+                  "url": "https://electrek.co/2026/03/27/volkswagen-groups-joint-venture-with-rivian-hits-latest-milestone-unlocking-another-1b-for-the-ev-automaker/"
+                },
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/"
+                },
+                {
+                  "name": "Reuters",
+                  "url": "https://www.reuters.com/business/autos-transportation/vws-software-partnership-with-rivian-clears-investment-hurdle-2026-03-27/"
+                },
+                {
+                  "name": "Electrive",
+                  "url": "https://www.electrive.com/2025/09/19/volkswagen-rivian-software-joint-venture-allegedly-hits-turbulence/"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-anthropic-sicherheitsleck-mythos-modell",
+              "slug": "anthropic-sicherheitsleck-mythos-modell",
+              "title": "Anthropic-Datenpanne: Details zum nächsten KI-Modell «Mythos» ungewollt öffentlich",
+              "date": "2026-03-29",
+              "time": "06:00",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/03/27/a7e9f4ec-dfb0-44f0-93e2-d96fb5359170.jpg",
+              "kurz": "Eine fehlerhafte CMS-Konfiguration bei Anthropic machte fast 3000 unveröffentlichte Dateien öffentlich zugänglich – darunter Details zum neuen KI-Modell «Claude Mythos» und einer exklusiven CEO-Veranstaltung.",
+              "summary": "Anthropic hat unbeabsichtigt Entwürfe für ein neues KI-Modell namens «Claude Mythos» öffentlich zugänglich gemacht. Der Fehler lag in der Standardkonfiguration des Content-Management-Systems, das hochgeladene Assets per Default öffentlich publiziert. Die geleakten Dokumente beschreiben Mythos als das bisher leistungsfähigste Modell von Anthropic – mit einem «Sprung» in den Bereichen Coding, Reasoning und vor allem Cybersicherheit. Das Unternehmen bestätigte die Existenz des Modells und sprach von einem «Step Change».",
+              "gegenstimme": "Sicherheitsexperten betonen die Ironie des Vorfalls: Ein Unternehmen, das ein KI-Modell mit «beispiellosen Cybersicherheitsrisiken» entwickelt, schützt seine eigenen Daten nicht ausreichend. Die Tatsache, dass ein Standard-CMS-Fehler fast 3000 interne Dateien freigab, wirft Fragen zur internen Sicherheitskultur auf. Zudem gibt die Einschätzung Anthropics selbst – das Modell sei «derzeit allen anderen KI-Modellen in Cyber-Fähigkeiten weit voraus» – Anlass zur Sorge darüber, ob eine so mächtige Technologie verantwortungsvoll kontrolliert werden kann.",
+              "sources": [
+                {
+                  "name": "Fortune",
+                  "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"
+                },
+                {
+                  "name": "Fortune (Cybersecurity)",
+                  "url": "https://fortune.com/2026/03/27/anthropic-leaked-ai-mythos-cybersecurity-risk/"
+                },
+                {
+                  "name": "Techzine",
+                  "url": "https://www.techzine.eu/news/applications/140017/details-leak-on-anthropics-step-change-mythos-model/"
                 }
               ]
             }
