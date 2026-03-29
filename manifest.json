@@ -1,5 +1,5 @@
 {
-  "updated": "04:11 UTC",
+  "updated": "09:36 UTC",
   "days": [
     {
       "date": "2026-03-29",
@@ -408,6 +408,223 @@
                 {
                   "name": "Techzine",
                   "url": "https://www.techzine.eu/news/applications/140017/details-leak-on-anthropics-step-change-mythos-model/"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-29-grossbrand-kehl-disco-750-gaeste",
+              "slug": "grossbrand-kehl-disco-750-gaeste",
+              "title": "Grossbrand in Kehl: Disco mit 750 Gästen vollständig ausgebrannt",
+              "date": "2026-03-29",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/03/29/91925f06-184e-4948-9243-d129b0cc0f7a.jpg",
+              "kurz": "In der Nacht auf Sonntag brannte der Kiss-Club in Kehl vollständig aus. Rund 750 Gäste konnten sich rechtzeitig in Sicherheit bringen.",
+              "summary": "In der Grossraumdisco Kiss-Club in Kehl (Baden-Württemberg) brach gegen 3.45 Uhr ein Feuer aus und zerstörte das Gebäude vollständig. Rund 750 Gäste konnten sich ins Freie retten, drei Personen wurden vom Rettungsdienst wegen Schocks behandelt, mussten aber nicht hospitalisiert werden. Mindestens 80 Einsatzkräfte waren stundenlang vor Ort. Die Brandursache ist noch unklar.",
+              "gegenstimme": "Brandschutzexperten weisen darauf hin, dass Grossdiscos mit über 500 Gästen besonders hohe Anforderungen an Notausgänge und Evakuierungspläne stellen. Dass 750 Personen mitten in der Nacht das Gebäude verlassen konnten, ohne schwere Verletzungen zu erleiden, deutet auf funktionierende Notfallmassnahmen hin – ist aber auch Glück. Fragen zur Bausubstanz und Brandschutzinstallation werden die Ermittlungen klären müssen.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/brand-in-kehl-flammen-in-grenznaher-disco-hunderte-fliehen-ins-freie"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/kehl-d-club-brennt-aus-750-gaeste-fluechten-vor-den-flammen-103536335"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-iran-bodenoffensive-pentagon-us-marines",
+              "slug": "iran-bodenoffensive-pentagon-us-marines",
+              "title": "Iran-Krieg: Pentagon plant wochenlange Bodenoffensive – US-Marines und USS Tripoli eingetroffen",
+              "date": "2026-03-29",
+              "time": "11:30",
+              "category": "international",
+              "icon": "⚔️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/2b2f3fe6-28c8-475a-8f65-7b277c8ad509_w520_r2.08_fpx51_fpy48.jpg",
+              "kurz": "Das Pentagon bereitet laut Washington Post einen wochenlangen Bodeneinsatz im Iran vor. Iran warnt, seine Kräfte seien bereit, US-Soldaten zu empfangen.",
+              "summary": "Laut einem Bericht der Washington Post rechnet das Pentagon mit wochenlangen Bodenoperationen im Iran – obwohl keine vollständige Invasion geplant sei. Tausende US-Marines und das Amphibienschiff USS Tripoli sind bereits in der Region eingetroffen. Iran reagiert mit Warnungen: Parlamentspräsident Ghalibaf erklärte, der Feind sende öffentlich Verhandlungssignale, plane aber heimlich einen Bodenangriff. Saudi-Arabien und andere Golfstaaten meldeten unterdessen Drohnenangriffe auf ihr Gebiet.",
+              "gegenstimme": "Kritiker innerhalb der USA und internationale Beobachter warnen vor einer weiteren Eskalation: Ein Bodeneinsatz im Iran würde erhebliche Verluste riskieren und könnte die gesamte Region destabilisieren. Zudem bleibt unklar, ob Präsident Trump dem Einsatzplan tatsächlich zugestimmt hat. Iranische Quellen und Berichte von BBC Persian zeigen, dass die Bevölkerung im Iran gespalten ist – viele sind schlecht informiert und fürchten einen Bürgerkrieg.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-huthi-miliz-greift-israel-zum-zweiten-mal-in-folge-an-a-e3abed9c-7ead-4e59-8925-c10f1a6fdd7e"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/live/cje4x38q8xqt"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/29/middle-east-crisis-live-explosions-tehran-yemen-houthis-iran-war-updates-trump-us-israel-strikes-lebanon"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-sbb-swisscom-skyguide-sicherheitspruefung-luecke",
+              "slug": "sbb-swisscom-skyguide-sicherheitspruefung-luecke",
+              "title": "Sicherheitslücke: SBB-, Swisscom- und Skyguide-Kader ohne gültige Sicherheitsprüfung",
+              "date": "2026-03-29",
+              "time": "11:30",
+              "category": "schweiz",
+              "icon": "🔓",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/9ebAebcL4DaBqvzPGHpehR.jpg",
+              "kurz": "Top-Kader von SBB, Swisscom und Skyguide steuern kritische nationale Infrastruktur – ohne je eine Personensicherheitsprüfung des Bundes durchlaufen zu haben.",
+              "summary": "Ein interner VBS-Bericht zeigt: Bei den meisten Verwaltungsrats- und Geschäftsleitungsmitgliedern von SBB, Swisscom und Skyguide fehlen gültige Sicherheitserklärungen. Die Prüfungen wurden entweder nie eingeleitet oder sind abgelaufen. Sicherheitspolitiker beider Lager fordern neue Gesetzgebung. Das zuständige Departement von Bundesrat Rösti hält sein bestehendes Verfahren hingegen für ausreichend.",
+              "gegenstimme": "Das Departement von Bundesrat Albert Rösti sowie die betroffenen Unternehmen sehen keinen Handlungsbedarf: Das Top-Kader werde bereits durch professionelle Auswahlverfahren rekrutiert, inklusive Betreibungs- und Strafregisterauszüge sowie Interessenbindungen. Swisscom verweist zudem auf zusätzliche interne Sicherheitsprüfungen bei besonders sensiblen Funktionen.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/nzz-am-sonntag/schweiz/sicherheitsluecken-bei-staatsnahen-betrieben-top-kader-von-sbb-swisscom-und-co-ohne-personensicherheitspruefung-ld.1931146"
+                },
+                {
+                  "name": "Tages-Anzeiger / Der Bund",
+                  "url": "https://www.derbund.ch/swisscom-sbb-skyguide-kader-ohne-sicherheitspruefung-814040992523"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/181460737-sonntagsnews-svpler-sind-laut-umfrage-eher-demokratiemuede"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-schweiz-demokratiemuedigkeit-studie-viertel",
+              "slug": "schweiz-demokratiemuedigkeit-studie-viertel",
+              "title": "Studie: Jeder vierte Schweizer ist der Demokratie überdrüssig",
+              "date": "2026-03-29",
+              "time": "11:30",
+              "category": "schweiz",
+              "icon": "🗺️",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/4dli1aAAqtOBbTiQ9C2wlA.jpg",
+              "kurz": "Eine neue Studie der Denkfabrik Pro Futuris zeigt: 25 Prozent der Schweizer gelten als demokratiemüde. Besonders auffällig sind SVP-Wähler und jüngere Männer.",
+              "summary": "Die Schweizer Denkfabrik Pro Futuris hat in einer repräsentativen Umfrage untersucht, wie es die Bevölkerung mit der Demokratie hält. Resultat: 25 Prozent sind 'eher' oder 'fortgeschritten' demokratiemüde. Bei SVP-Wählern liegt der Anteil sogar bei 35 Prozent. Als Hauptursache identifiziert die Studie fehlendes Vertrauen in die Problemlösungsfähigkeit der Politik. Eine Überraschung: Politische Polarisierung steigert nicht zwingend die Demokratiemüdigkeit.",
+              "gegenstimme": "Wissenschaftler und Demokratieforscher warnen davor, die Befunde zu dramatisieren: Eine Minderheit von 25 Prozent bedeutet noch lange keine Krise. Zudem zeigt die Studie selbst, dass emotional engagierte Bürgerinnen und Bürger – auch wenn sie polarisiert denken – die Demokratie wertschätzen. Entscheidender als institutionelle Reformen könnte es sein, konkrete Problemlösungen zu liefern, die das Vertrauen in die Politik wieder aufbauen.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag – SVP-Wähler Studie",
+                  "url": "https://www.nzz.ch/nzz-am-sonntag/report-und-debatte/ein-drittel-der-svp-waehler-sind-demokratiemuede-ld.1931444"
+                },
+                {
+                  "name": "NZZ am Sonntag – Demokratiemüdigkeit weltweit",
+                  "url": "https://www.nzz.ch/nzz-am-sonntag/report-und-debatte/demokratiemuedigkeit-weltweit-waechst-die-sehnsucht-nach-autokratie-ld.1930912"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/demokratiemuedigkeit-viertel-der-schweizer-ist-des-waehlens-ueberdruessig-679747402614"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-bern-kantonswahlen-2026-hochrechnung",
+              "slug": "bern-kantonswahlen-2026-hochrechnung",
+              "title": "Berner Kantonswahlen 2026: Erste Hochrechnungen – SVP-Machtpoker und Parteienfinanzierung im Fokus",
+              "date": "2026-03-29",
+              "time": "11:30",
+              "category": "regional",
+              "icon": "🗳️",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/81SE4sWmK968pEx3lMj2qt.jpg",
+              "kurz": "Der Kanton Bern wählt heute Grossen Rat und Regierungsrat. Die Bürgerlichen wollen ihre Mehrheit auf vier Regierungssitze ausbauen – Rot-Grün will das verhindern.",
+              "summary": "Im Kanton Bern finden heute die Grossrats- und Regierungsratswahlen statt. 2261 Kandidierende bewerben sich um 160 Parlamentssitze, 16 Kandidierende um sieben Regierungsratssitze. SVP, FDP und Die Mitte wollen gemeinsam einen vierten Regierungssitz erobern – gegen den Widerstand von SP und Grünen. Erstmals müssen Parteien ihre Wahlkampfbudgets offenlegen: SP führt mit 639'000 Franken, die SVP gibt mit 182'000 Franken deutlich weniger aus.",
+              "gegenstimme": "Die SVP kritisiert die neue Offenlegungspflicht als bürokratischen Mehraufwand ohne Nutzen. Zudem ist das dezentrale SVP-Modell schwer vergleichbar: Wahlkreise finanzieren ihre Kampagnen selbst, womit das ausgewiesene Budget kein vollständiges Bild zeigt. Politologinnen weisen darauf hin, dass höhere Budgets nicht automatisch mehr Wählerstimmen bedeuten.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-bern-der-kanton-bern-waehlt-geht-das-buergerliche-powerplay-auf"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/639-000-franken-wahlen-bern-sp-hat-ein-dreimal-groesseres-budget-als-die-svp-103533682"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-iran-rohstoffkrise-aluminium-duenger-sprit",
+              "slug": "iran-rohstoffkrise-aluminium-duenger-sprit",
+              "title": "Iran-Krieg verschärft Rohstoffkrise: Aluminium, Dünger und Sprit werden knapp",
+              "date": "2026-03-29",
+              "time": "11:30",
+              "category": "wirtschaft",
+              "icon": "⛽",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/cdcb0921-64a4-42a3-a3b0-9bcbdfc3a542_w520_r2.08_fpx57.97_fpy44.99.jpg",
+              "kurz": "Der Iran-Krieg blockiert die Strasse von Hormus und löst eine globale Rohstoffkrise aus: 15 Warengruppen verteuerten sich um 10 bis 50 Prozent, Düngerpreise explodieren.",
+              "summary": "Seit dem US-israelischen Angriff auf den Iran ist die Strasse von Hormus blockiert. Rund 2000 Schiffe liegen im Persischen Golf fest. Grundstoffe wie Harnstoff, Schwefel, Ammoniak und Edelgase fehlen auf dem Weltmarkt. Laut Handelsblatt-Analyse stiegen 15 Rohstoffkategorien um 10 bis 50 Prozent. Besonders betroffen: die Landwirtschaft, die Chemieindustrie und die Halbleiterproduktion. Die IEA spricht von einer Bedrohung schlimmer als die beiden Ölkrisen der 1970er Jahre zusammen.",
+              "gegenstimme": "Experten wie Julian Hinz vom Kiel-Institut für Weltwirtschaft warnen vor Panik: Es gebe noch keine physische Knappheit, sondern vor allem eine Erwartungsknappheit, die Preise treibe. 80 Prozent der für 2026 benötigten Düngermenge sei beim Handel bereits vorrätig. Deutsche Hersteller könnten 75 Prozent des heimischen Bedarfs selbst decken. Bundeswirtschaftsministerin Katherina Reiche sieht eine Preis-, aber keine Versorgungskrise.",
+              "sources": [
+                {
+                  "name": "Deutsche Welle",
+                  "url": "https://www.dw.com/de/iran-krieg-news-preis-oel-sprit-erdoel-krise-erdgas-kunststoffe-rohstoffe-helium-trump-afrika/a-76494164"
+                },
+                {
+                  "name": "WirtschaftsWoche",
+                  "url": "https://www.wiwo.de/finanzen/iran-krieg-gnadenfrist-fuer-die-landwirtschaft/100210881.html"
+                },
+                {
+                  "name": "WDR",
+                  "url": "https://www1.wdr.de/nachrichten/iran-krieg-lebensmittel-preise-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-swiss-lufthansa-genf-standort-druck",
+              "slug": "swiss-lufthansa-genf-standort-druck",
+              "title": "Lufthansa verliert die Geduld: Wird aus der Swiss die «Zürich-Air»?",
+              "date": "2026-03-29",
+              "time": "11:30",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Die Lufthansa-Gruppe setzt die Swiss unter Druck: Bis Ende 2026 muss der Genf-Betrieb schwarze Zahlen schreiben – sonst droht ein vollständiger Rückzug.",
+              "summary": "Die Swiss ist in Genf-Cointrin seit fast 25 Jahren kaum profitabel – nur 2019 schrieb sie dort schwarze Zahlen. Für den Sommer 2026 wurden 25 Prozent der Verbindungen ab Genf gestrichen. Der Lufthansa-Konzern hat intern eine Frist bis Ende Jahr gesetzt. Bleibt die Wende aus, steht sogar ein vollständiger Rückzug zur Diskussion – was die Swiss zur reinen Zürich-Airline machen würde.",
+              "gegenstimme": "Wirtschaftsexperten und Standortvertreter wie Thomas Bohn (Greater Geneva Bern Area) betonen, dass eine nationale Airline politisch und symbolisch unverzichtbar für die Romandie ist. Zudem dient Genf als wichtiger Zubringer für die Langstreckendrehscheibe Zürich – ein vollständiger Rückzug könnte diese Zubringerfunktion gefährden und EasyJet noch weiter stärken.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/wirtschaft/wird-aus-der-swiss-die-air-zuerich-die-lufthansa-gruppe-verliert-die-geduld-mit-dem-standort-genf-ld.1931055"
+                },
+                {
+                  "name": "SWI swissinfo.ch",
+                  "url": "https://www.swissinfo.ch/ger/swiss-streicht-im-sommerflugplan-2026-ein-viertel-der-ziele-ab-genf/90246364"
+                },
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/wegen-wartung-und-ersatzteilen-swiss-zieht-die-reissleine-kleine-airbus-jets-bleiben-am-boden"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-ki-arbeitsplaetze-wildberger-berufe-bedroht",
+              "slug": "ki-arbeitsplaetze-wildberger-berufe-bedroht",
+              "title": "Deutschlands Digitalminister warnt: KI bedroht konkrete Berufsgruppen massiv",
+              "date": "2026-03-29",
+              "time": "11:30",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/c61096f0-6134-4e28-b23a-3dfebd55a933_w520_r2.08_fpx66.65_fpy49.99.jpg",
+              "kurz": "Bundesdigitalminister Karsten Wildberger nennt konkrete Berufe, die KI stark treffen wird: Programmierer und Callcenter-Mitarbeitende sind besonders gefährdet.",
+              "summary": "Bundesdigitalminister Karsten Wildberger (CDU) hat in einem Interview mit der 'Bild am Sonntag' vor konkreten Jobverlusten durch KI gewarnt. Besonders Programmierer und Callcenter-Agenten sieht er als gefährdet. Gleichzeitig betont er, dass Deutschland massiv in KI investieren müsse, da Nicht-Teilnahme keine Option sei. Die Zukunft der Arbeit erfordere lebenslanges Lernen – unabhängig vom Alter.",
+              "gegenstimme": "Arbeitsmarktforscher und Gewerkschaften mahnen zu Differenzierung: KI verdränge Berufe selten vollständig, sondern verändere sie. Historisch habe Automatisierung langfristig mehr Jobs geschaffen als vernichtet. Kritiker werfen Wildberger vor, mit dramatischen Prognosen politische Deregulierungsagenda zu rechtfertigen, anstatt konkrete Schutzmechanismen für betroffene Arbeitnehmer zu formulieren.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/ki-digitalminister-karsten-wildberger-sieht-klassische-berufe-bedroht-a-8b9dd64c-8f9e-4ffe-80f2-801934f2df16"
+                },
+                {
+                  "name": "Bild am Sonntag (via Spiegel)",
+                  "url": "https://www.spiegel.de/politik/ki-digitalminister-karsten-wildberger-sieht-klassische-berufe-bedroht-a-8b9dd64c-8f9e-4ffe-80f2-801934f2df16"
                 }
               ]
             }
