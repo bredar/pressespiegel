@@ -1,5 +1,5 @@
 {
-  "updated": "09:36 UTC",
+  "updated": "15:07 UTC",
   "days": [
     {
       "date": "2026-03-29",
@@ -625,6 +625,227 @@
                 {
                   "name": "Bild am Sonntag (via Spiegel)",
                   "url": "https://www.spiegel.de/politik/ki-digitalminister-karsten-wildberger-sieht-klassische-berufe-bedroht-a-8b9dd64c-8f9e-4ffe-80f2-801934f2df16"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-29-kardinal-jerusalem-grabeskirche-israelische-polizei",
+              "slug": "kardinal-jerusalem-grabeskirche-israelische-polizei",
+              "title": "Diplomatischer Eklat: Israelische Polizei verweigert Kardinal Zugang zur Grabeskirche",
+              "date": "2026-03-29",
+              "time": "17:00",
+              "category": "international",
+              "icon": "⛪",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/1f020340-4512-4750-b0d4-420300c5ed01_w520_r2.08_fpx48.67_fpy55.01.jpg",
+              "kurz": "Israelische Polizisten haben Kardinal Pizzaballa am Palmsonntag den Zutritt zur Grabeskirche in Jerusalem verwehrt. Italien bestellt den israelischen Botschafter ein – ein historisch einmaliger Vorfall.",
+              "summary": "Am Palmsonntag, dem 29. März 2026, wurden Kardinal Pierbattista Pizzaballa und der Franziskanerkustos Francesco Ielpo von israelischen Polizisten daran gehindert, die Grabeskirche in Jerusalem zu betreten. Beide hatten die traditionelle Palmsonntags-Messe feiern wollen, bewegten sich aber privat und ohne Prozession. Das Lateinische Patriarchat von Jerusalem bezeichnete den Vorfall als schwerwiegenden Präzedenzfall. Italiens Aussenminister Tajani bestellte den israelischen Botschafter ein; Ministerpräsidentin Meloni sprach von einer Beleidigung für alle, die Religionsfreiheit anerkennen.",
+              "gegenstimme": "Israel hat sich zum Vorfall bisher nicht offiziell geäussert. In israelischen Sicherheitskreisen wird auf bestehende Einschränkungen im Kontext des laufenden Krieges verwiesen. Manche Beobachter betonen, dass auch andere religiöse Versammlungen und Prozessionen in Jerusalem seit Kriegsbeginn eingeschränkt wurden – und der Vorfall möglicherweise auf eine Fehlkommunikation zwischen Polizeieinheiten vor Ort zurückzuführen sei, nicht auf eine politische Entscheidung.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/israelische-polizisten-verweigern-kardinal-zutritt-zur-grabeskirche-in-jerusalem-a-d1455f3d-7f6a-4205-a2a0-48b6599d5ad2"
+                },
+                {
+                  "name": "Welt – Eklat am Palmsonntag",
+                  "url": "https://www.welt.de/politik/ausland/article69c9159b80d7a94f32d322be/eklat-in-jerusalem-israel-laesst-kardinal-nicht-in-die-grabeskirche-laschet-spricht-von-reiner-schikane.html"
+                },
+                {
+                  "name": "Jüdische Allgemeine",
+                  "url": "https://www.juedische-allgemeine.de/israel/kirchenvertreter-in-jerusalem-am-zutritt-zur-grabeskirche-gehindert/"
+                },
+                {
+                  "name": "Domradio",
+                  "url": "https://www.domradio.de/artikel/polizei-verweigert-kardinal-pizzaballa-zutritt-grabeskirche"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-musk-trump-modi-telefonat-einmischung",
+              "slug": "musk-trump-modi-telefonat-einmischung",
+              "title": "Staatstelefon mit Überraschungsgast: Elon Musk schaltet sich bei Trump-Modi-Gespräch ein",
+              "date": "2026-03-29",
+              "time": "17:00",
+              "category": "international",
+              "icon": "📞",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/80a3c0c5-f9b9-4315-9ed2-e44d00ef214e_w520_r2.08_fpx30_fpy44.99.jpg",
+              "kurz": "Elon Musk soll sich in ein Staatstelefon zwischen Trump und Modi eingeschaltet haben. Indien dementiert, die USA schweigen – und die Fragen über Interessen und Einfluss bleiben.",
+              "summary": "Laut einem Bericht der New York Times nahm Elon Musk am 24. März 2026 an einem Telefonat zwischen US-Präsident Donald Trump und dem indischen Premier Narendra Modi teil. Thema war die Irankrise und die gesperrte Strasse von Hormus. Indien dementiert die Berichte offiziell. Musk hat erhebliche wirtschaftliche Interessen in Indien – Tesla kämpft gegen Importzölle, Starlink wartet auf Genehmigungen.",
+              "gegenstimme": "Das indische Aussenministerium weist die Berichte zurück: Das Gespräch am 24. März habe nur zwischen Modi und Trump stattgefunden. Kritik kommt aber vor allem aus Indiens Oppositionspartei Congress: Sie fragt, warum bei keinem anderen Staatstelefon ein Privatunternehmer anwesend war – und ob es eine versteckte Wirtschaftsagenda gab.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/trump-und-modi-sprechen-ueber-den-irankrieg-dann-schaltet-sich-elon-musk-dazu-a-5912f8ea-6414-4fb9-9cf7-badad054685c"
+                },
+                {
+                  "name": "The Independent",
+                  "url": "https://www.independent.co.uk/asia/india/india-modi-trump-musk-iran-call-b2947852.html"
+                },
+                {
+                  "name": "NDTV",
+                  "url": "https://www.ndtv.com/india-news/india-denies-reports-of-elon-musk-joining-donald-trump-pm-narendra-modi-phone-call-on-iran-war-11278482"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-rheinmetall-ceo-ukraine-drohnen-eklat",
+              "slug": "rheinmetall-ceo-ukraine-drohnen-eklat",
+              "title": "Rheinmetall-CEO Papperger löst Shitstorm aus: Vergleicht ukrainische Drohnenhersteller mit «Hausfrauen»",
+              "date": "2026-03-29",
+              "time": "17:00",
+              "category": "international",
+              "icon": "💬",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Rheinmetall-Chef Armin Papperger nannte ukrainische Drohnenhersteller «Hausfrauen mit 3D-Druckern in der Küche». Die Ukraine reagierte scharf – und mit Zahlen.",
+              "summary": "Rheinmetall-CEO Armin Papperger hat in einem Interview mit dem US-Magazin 'The Atlantic' ukrainische Drohnenproduzenten als «ukrainische Hausfrauen» verspottet und ihre Technologie mit Lego-Bausteinen verglichen. Der ukrainische Präsidentenberater Alexander Kamyshin konterte umgehend: Diese «Lego-Drohnen» hätten bereits über 11.000 russische Panzer zerstört. Der Eklat kommt zu einem heiklen Zeitpunkt – Rheinmetall expandiert gerade massiv in der Rüstungsproduktion und ist auf gute Beziehungen zur Ukraine angewiesen.",
+              "gegenstimme": "Selenskyj-Berater Alexander Kamyshin wies die Aussagen scharf zurück: «Unsere Lego-Drohnen haben mehr als 11.000 russische Panzer vernichtet.» Er ergänzte am Sonntag: «Ich habe über 200 Rüstungsfabriken besucht. Ukrainische Frauen arbeiten gleichberechtigt mit Männern. Sie verdienen Respekt, Rheinmetall.» Aus Militärkreisen wird betont, dass billige, dezentral produzierte Drohnen eine der entscheidenden taktischen Innovationen des Ukraine-Krieges sind.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/armin-papperger-rheinmetall-ceo-empoerung-nach-aussage-zu-ukraine-drohnen/100212832.html"
+                },
+                {
+                  "name": "t-online",
+                  "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101191230/drohnen-im-ukraine-krieg-rheinmetall-ceo-verspottet-kiews-eigenbauten.html"
+                },
+                {
+                  "name": "Pravda DE",
+                  "url": "https://deutsch.news-pravda.com/world/2026/03/28/649054.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-bern-wahlergebnisse-abend-final",
+              "slug": "bern-wahlergebnisse-abend-final",
+              "title": "Berner Kantonswahlen 2026: SVP-Machtpoker – Aktuelle Auszählungsresultate",
+              "date": "2026-03-29",
+              "time": "17:00",
+              "category": "regional",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/81SE4sWmK968pEx3lMj2qt.jpg",
+              "kurz": "Der Kanton Bern hat gewählt: SVP und Mitte kämpfen um einen vierten Regierungsratssitz. Laut GFS-Hochrechnung dürfte die bisherige 4:3-Verteilung (bürgerlich zu links-grün) bestehen bleiben.",
+              "summary": "Am 29. März 2026 finden im Kanton Bern die Gesamterneuerungswahlen für Regierungsrat und Grossen Rat statt. Die SVP strebt einen vierten Regierungsratssitz an – und damit erstmals eine bürgerliche Mehrheit von 5:2. Laut GFS-Hochrechnung bleibt es jedoch beim Status quo von 4:3. Astrid Bärtschi (Mitte) liegt nach sechs ausgezählten Verwaltungskreisen in Führung. SVP-Kandidat Raphael Lanz liegt in seiner Heimat Oberland vorne, kämpft aber gesamtkantonal noch um den Durchbruch.",
+              "gegenstimme": "Links-Grün hält die bürgerliche Offensive für überzogen: Laut SP-Kreisen sei die Kampagne der SVP für einen vierten Regierungsratssitz demokratiepolitisch fragwürdig, da sie das Proporzsystem aushebeln würde. Politologen warnen zudem, dass ein 5:2-Verhältnis die Regierungsfähigkeit bei gesellschaftlich heiklen Themen – Bildung, Gesundheit, Soziales – erschwere.",
+              "sources": [
+                {
+                  "name": "SRF News – Liveticker",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-bern-sechs-verwaltungskreise-astrid-baertschi-mitte-liegt-vorne"
+                },
+                {
+                  "name": "Der Bund / Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/wahlen-kanton-bern-2026-alle-resultate-im-ueberblick-435697014483"
+                },
+                {
+                  "name": "Blick – Liveticker",
+                  "url": "https://www.blick.ch/politik/wahlen-im-ticker-schafft-gruenen-trede-den-sprung-in-die-regierung-id21826264.html"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/29-maerz-2026-wahlen-in-bern-holt-sich-svp-den-dritten-sitz-im-regierungsrat-103513973"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-iran-hormuz-mautstation-zwei-millionen-pro-schiff",
+              "slug": "iran-hormuz-mautstation-zwei-millionen-pro-schiff",
+              "title": "Irans neue Einnahmequelle: 2 Millionen Dollar pro Schiff durch die Strasse von Hormuz",
+              "date": "2026-03-29",
+              "time": "17:00",
+              "category": "wirtschaft",
+              "icon": "🚢",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/F8egy4YhqA5AMxvdWUQs2Q.jpg",
+              "kurz": "Iran hat ein Mautstellen-System für die Strasse von Hormuz eingeführt. Pro Durchfahrt werden bis zu 2 Millionen Dollar verlangt – rund 2000 Schiffe warten noch immer auf Einlass.",
+              "summary": "Seit dem israelisch-amerikanischen Angriff auf den Iran am 28. Februar 2026 ist die Strasse von Hormuz weitgehend blockiert. Teheran lässt nur noch ausgewählte Schiffe passieren – gegen Zahlung einer informellen Mautgebühr von bis zu 2 Millionen Dollar pro Durchfahrt. Die Revolutionsgarde kontrolliert die Passage über ein System aus zugelassenen Vermittlern, Dokumentenpflichten und bewachten Korridoren. Das iranische Parlament arbeitet bereits an einer Gesetzesgrundlage, um die Abgaben zu formalisieren.",
+              "gegenstimme": "Viele westliche Reedereien, darunter der Genfer MSC-Konzern, verweigern bislang die Mautzahlung und haben die Durchfahrt ganz eingestellt. Schifffahrtsexperten warnen, dass die Zahlung der Maut das Regime faktisch finanzieren und die Blockade dauerhaft legitimieren würde. Zudem bleibt die Passage auch nach Bezahlung gefährlich – Iran droht mit Minen und Drohnenangriffen.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/strasse-von-hormuz-iran-kassiert-2-millionen-pro-schiff-424460415581"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/wirtschaft/mega-maut-der-mullahs-iran-will-2-millionen-dollar-fuer-hormus-passage-pro-tanker-id21819254.html"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/asien/iran-hormus-gebuehr-100.html"
+                },
+                {
+                  "name": "Bloomberg",
+                  "url": "https://www.bloomberg.com/news/articles/2026-03-24/iran-verlangt-bis-zu-2-millionen-dollar-fur-durchfahrt-durch-stra-e-von-hormus"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-anthropic-pentagon-gericht-sanktionen",
+              "slug": "anthropic-pentagon-gericht-sanktionen",
+              "title": "Anthropic gegen Pentagon: Gericht blockiert Sanktionen wegen KI-Waffenverbot",
+              "date": "2026-03-29",
+              "time": "17:00",
+              "category": "tech",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/d2026dcf-c672-45a3-91d6-21ccb35f851e_w520_r2.08_fpx31.03_fpy50.jpg",
+              "kurz": "Ein US-Bundesgericht hat die Pentagon-Sanktionen gegen den KI-Entwickler Anthropic vorläufig blockiert. Auslöser war Anthropics Weigerung, seine KI für autonome Waffen freizugeben.",
+              "summary": "Richterin Rita Lin erliess in San Francisco eine einstweilige Verfügung gegen die Einstufung von Anthropic als 'Lieferkettenrisiko für die nationale Sicherheit'. Das Pentagon hatte das Unternehmen sanktioniert, weil es die Nutzung seiner KI-Modelle für autonome Waffensysteme und Massenüberwachung verweigerte. Trump hatte daraufhin alle Bundesbehörden angewiesen, Anthropic-Produkte nicht mehr zu verwenden. Die Richterin sieht in dem Vorgehen eine mögliche Verletzung der Redefreiheit.",
+              "gegenstimme": "Das US-Verteidigungsministerium argumentiert, kein privates Unternehmen könne der Regierung vorschreiben, wie Technologie einzusetzen sei. Zudem schloss OpenAI nach dem Konflikt eine Vereinbarung mit dem Pentagon – was zeigt, dass eine Kooperation mit dem Militär durchaus möglich ist, ohne die eigenen Grundsätze vollständig aufzugeben.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/usa-gericht-blockiert-pentagon-sanktionen-gegen-anthropic-a-fe811dc3-d775-49ab-9322-ca5f0b731c6b"
+                },
+                {
+                  "name": "CNN Business",
+                  "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk"
+                },
+                {
+                  "name": "POLITICO",
+                  "url": "https://www.politico.com/news/2026/03/26/judge-pauses-anthropics-supply-chain-risk-designation-00847682"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-29-cern-antimaterie-transport-lastwagen",
+              "slug": "cern-antimaterie-transport-lastwagen",
+              "title": "Wissenschafts-Sensation: CERN transportiert erstmals Antimaterie im Lastwagen",
+              "date": "2026-03-29",
+              "time": "17:00",
+              "category": "tech",
+              "icon": "⚛️",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Das CERN hat 92 Antiprotonen erfolgreich in einem Lastwagen über das Gelände transportiert. Ein Meilenstein der Teilchenphysik – und der Auftakt zu Experimenten, die eine der grössten Fragen der Physik beantworten könnten.",
+              "summary": "Forschern der BASE-Arbeitsgruppe am CERN in Genf ist es erstmals gelungen, Antiprotonen in einer mobilen elektromagnetischen Falle zu speichern und in einem Lastwagen zu transportieren. Nach einer Testfahrt von zehn Kilometern auf dem CERN-Gelände waren alle 92 Antiprotonen noch intakt. Das Experiment ist der erste Schritt auf dem Weg zu hochpräzisen Messungen an der Heinrich-Heine-Universität Düsseldorf, die klären sollen, ob Materie und Antimaterie wirklich identisch sind – eine Grundfrage über die Existenz des Universums.",
+              "gegenstimme": "Kritische Stimmen aus der Physik-Community verweisen auf den enormen technischen Aufwand und die noch ausstehenden Hürden: Die mobile Falle ist nicht für Präzisionsmessungen geeignet; die Antiprotonen müssen nach dem Transport in eine andere Falle umgeladen werden – ein Prozess, der noch nicht getestet wurde. Zudem reicht die Batteriekapazität für Fahrten über vier Stunden noch nicht aus. Mit ersten wissenschaftlich verwertbaren Resultaten ist frühestens in vier Jahren zu rechnen. Die Frage bleibt offen, ob die erhoffte Messgenauigkeit von 13-14 Nachkommastellen überhaupt ausreicht, um eine Verletzung der CPT-Symmetrie nachzuweisen.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag – Premiere am CERN",
+                  "url": "https://www.nzz.ch/wissenschaft/premiere-am-cern-transport-von-92-antiprotonen-elektrisiert-wissenschaft-ld.1931132"
+                },
+                {
+                  "name": "CERN – Offizielle Pressemitteilung",
+                  "url": "https://home.cern/news/press-release/experiments/base-experiment-cern-succeeds-transporting-antimatter"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/wissen/2026-03/teilchenphysik-kernforschungszentrum-cern-transport-antimaterie-gxe"
+                },
+                {
+                  "name": "Welt – Erfolgreiches Experiment",
+                  "url": "https://www.welt.de/wissenschaft/article69c2dfc18f5761671715e40a/erfolgreiches-experiment-cern-wissenschaftlern-gelingt-erstmals-transport-von-antimaterie.html"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/science/2026/mar/14/please-drive-carefully-scientists-plan-to-transport-volatile-antimatter-for-first-time"
                 }
               ]
             }
