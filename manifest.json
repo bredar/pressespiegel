@@ -1,5 +1,5 @@
 {
-  "updated": "04:12 UTC",
+  "updated": "17:46 UTC",
   "days": [
     {
       "date": "2026-03-30",
@@ -324,6 +324,195 @@
                 {
                   "name": "TechCrunch – Soras shutdown reality check",
                   "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-30-iran-oel-116-trump-kharg-droht",
+              "slug": "iran-oel-116-trump-kharg-droht",
+              "title": "Ölpreis auf $116: Trump droht mit Zerstörung von Kharg Island",
+              "date": "2026-03-30",
+              "time": "17:00",
+              "category": "international",
+              "icon": "💥",
+              "edition": "evening",
+              "image": "https://i.guim.co.uk/img/media/323aac17ff1a48994b0fa3d5c4152310c0f56934/422_21_4086_3271/master/4086.jpg?width=700&quality=85&auto=format&fit=max",
+              "kurz": "Der Brent-Rohölpreis ist am Montag auf fast $117 pro Barrel gestiegen, nachdem Trump auf Truth Social damit drohte, Irans Ölinfrastruktur und die Exportinsel Kharg Island zu zerstören.",
+              "summary": "Trump hat angekündigt, iranische Stromkraftwerke, Ölquellen und Kharg Island zu 'sprengen und vollständig zu vernichten', wenn kein Deal zustande komme. Der Ölpreis reagierte mit einem Sprung auf $116.89 und liegt damit auf dem höchsten Stand seit Juni 2022. Der Brent-Preis steht im März bisher 54% im Plus – die grösste monatliche Steigerung aller Zeiten. Analysten warnen, dass Preise über $130 eine globale Rezession auslösen könnten.",
+              "gegenstimme": "Ein US-Militärsprecher betonte, die Armee erfülle ihre Ziele im Rahmen von 'Operation Epic Fury' und brauche keine Hilfe von aussen. Kritiker innerhalb der USA – auch Teile von Trumps eigener Basis – warnen vor einem Bodeneinsatz und erinnern an frühere Fehlkalkulationen in der Region. Der Iran seinerseits hat einen Angriff auf Kharg als 'Kriegserklärung' bezeichnet und will mit Drohnen und Raketen reagieren.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/mar/30/price-of-oil-trump-iran-stock-markets-middle-east"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c937gd1vq7xo"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-30-spanien-luftraum-us-militaer-gesperrt",
+              "slug": "spanien-luftraum-us-militaer-gesperrt",
+              "title": "Spanien sperrt Luftraum für US-Militärflugzeuge im Iran-Krieg",
+              "date": "2026-03-30",
+              "time": "17:00",
+              "category": "international",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a516/live/5f6b8700-2c34-11f1-b8c9-f5058c0aec9a.jpg",
+              "kurz": "Spanien hat seinen Luftraum für US-Militärflugzeuge gesperrt, die an Angriffen auf den Iran beteiligt sind, und verweigert den USA die Nutzung der Militärbasen Morón und Rota.",
+              "summary": "Spaniens Verteidigungsministerin Margarita Robles bestätigte, dass keine US-Operationen im Zusammenhang mit dem Iran-Krieg über spanisches Staatsgebiet oder von spanischen Basen aus erfolgen dürfen. Premierminister Pedro Sánchez positioniert sich seit Kriegsbeginn Ende Februar als schärfster europäischer Kritiker des US-israelischen Vorgehens. Der Iran dankte Spanien explizit für seine Haltung und signalisierte, spanische Schiffe könnten die Strasse von Hormuz passieren. Die USA reagierten kühl: Man erfülle alle Ziele ohne Spaniens Hilfe.",
+              "gegenstimme": "Ein Sprecher des Weissen Hauses betonte, die US-Streitkräfte erreichten alle Ziele der 'Operation Epic Fury' auch ohne spanische Unterstützung. Kritiker in Spanien sowie einige NATO-Partner sehen das Vorgehen als problematisches Präzedenzfall innerhalb des Bündnisses. Zudem hat Trump zuvor gedroht, ein vollständiges Handelsembargo gegen Spanien zu verhängen, falls Madrid sich weiter querstelle.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cwy368j1e3lo"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-30-trump-xi-china-mai-iran",
+              "slug": "trump-xi-china-mai-iran",
+              "title": "Trump-Besuch bei Xi Jinping auf Mai verschoben – Iran-Krieg als Grund",
+              "date": "2026-03-30",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🤝",
+              "edition": "evening",
+              "image": "https://i.guim.co.uk/img/media/efd33b95527baba22f6ffb7ee17c0214f759dfc4/130_0_1096_877/master/1096.jpg?width=700&quality=85&auto=format&fit=max",
+              "kurz": "Donald Trump hat seine China-Reise, die ursprünglich für Anfang April geplant war, auf den 14. und 15. Mai verschoben – als direktes Resultat des laufenden Iran-Krieges.",
+              "summary": "Trump kündigte via Truth Social an, Xi Jinping am 14. und 15. Mai in Peking zu treffen – das erste Mal seit 2017, dass ein US-Präsident China besucht. Der Trip war bereits einmal verschoben worden wegen der Iran-Operationen. China ist als grösster Ölimporteur der Welt (12 Mio. Barrel täglich) direkt vom Konflikt betroffen, hat aber Trumps Bitte um Unterstützung bei der Hormuz-Frage bisher ignoriert. Neben dem Iran dürften Taiwan, Handelsabkommen und eine mögliche US-Vermittlerrolle auf der Agenda stehen.",
+              "gegenstimme": "China hat offiziell keine Informationen zum Besuch bestätigt und Pekings Haltung zum Iran-Krieg bleibt ambivalent: Als wichtigster Handelspartner Teherans will China eine Eskalation vermeiden, aber auch seine Ölversorgung sichern. Peking hat Trumps Bitte um Unterstützung gegen den Iran klar abgelehnt und beobachtet die US-Militäroperationen mit Skepsis. Einige Analysten bezweifeln, ob Trump tatsächlich an einer Lösung interessiert ist oder China nur als Hebel in anderen Verhandlungen nutzt.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/mar/26/trump-xi-jinping-china-trip-rescheduled-may"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-30-pilatus-pc24-indonesien-auftrag",
+              "slug": "pilatus-pc24-indonesien-auftrag",
+              "title": "Pilatus gewinnt Grossauftrag: Indonesische Luftwaffe bestellt 12 PC-24-Jets",
+              "date": "2026-03-30",
+              "time": "17:00",
+              "category": "schweiz",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/03/30/0709f377-4268-4198-8760-9ccd725eb3af.jpg",
+              "kurz": "Der Schweizer Flugzeughersteller Pilatus Aircraft aus Stans liefert zwölf PC-24-Jets an die indonesische Luftwaffe – ein strategisch bedeutsamer Auftrag in Südostasien.",
+              "summary": "Pilatus Aircraft hat einen Grossauftrag aus Indonesien erhalten: Das Verteidigungsministerium bestellt zwölf Exemplare des PC-24, eines vielseitigen Business- und Militärjets. Die Maschinen sollen für Pilotenausbildung und Transportmissionen eingesetzt werden. Neben den Jets umfasst der Vertrag Ausrüstung, Ersatzteile, Trainingsprogramme und technischen Support direkt aus Stans. Zusätzlich wurde eine Absichtserklärung für 24 PC-21-Trainingsflugzeuge unterzeichnet.",
+              "gegenstimme": "Kritische Stimmen aus dem Umfeld der Rüstungsexport-Debatte dürften den Deal mit Argwohn betrachten: Indonesien ist kein Konfliktgebiet, aber militärische Exporte in Schwellenländer stehen in der Schweiz grundsätzlich unter politischem Vorbehalt. Zudem stellt sich die Frage, ob ein 'Super Versatile Jet' mit Militärnutzung strengeren Exportregeln unterliegen sollte als ein ziviles Flugzeug.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/flugzeugbauer-zwoelf-pc-24-pilatus-angelt-sich-grossen-auftrag-in-indonesien-103537392"
+                },
+                {
+                  "name": "cash.ch (AWP)",
+                  "url": "https://www.cash.ch/news/pilatus-indonesische-luftwaffe-bestellt-zwolf-pc-24-flugzeuge-923795"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-30-schweiz-wirtschaft-iran-krieg-keine-rezession",
+              "slug": "schweiz-wirtschaft-iran-krieg-keine-rezession",
+              "title": "Schweizer Wirtschaft: Iran-Krieg bremst Konjunktur – aber keine Rezession",
+              "date": "2026-03-30",
+              "time": "17:00",
+              "category": "schweiz",
+              "icon": "📊",
+              "edition": "evening",
+              "image": "https://img.nzz.ch/2026/03/30/d5170d56-76f5-4b3f-9811-f56fe1ec2cfb.jpg",
+              "kurz": "Das KOF-Konjunkturbarometer ist im März deutlich gesunken – der Iran-Krieg trübt die Schweizer Wirtschaftsaussichten, eine Rezession droht aber laut Experten nicht.",
+              "summary": "Der Iran-Krieg, der Ende Februar ausbrach, hinterlässt erste Spuren in der Schweizer Wirtschaft. Das KOF-Barometer fiel von 103,8 auf 96,1 Punkte – unter den mittelfristigen Durchschnitt. Das Seco erwartet im pessimistischen Szenario ein BIP-Wachstum von 0,8 Prozent für 2026, die Inflation soll moderat bei rund 1 Prozent bleiben. Entscheidend wird die Dauer des Konflikts und wie lange der Erdölpreis über 100 Dollar verbleibt.",
+              "gegenstimme": "Kritische Stimmen weisen darauf hin, dass die Unsicherheit erheblich bleibt: Niemand weiss, wann der Krieg endet. Der Vergleich mit dem Ukraine-Krieg 2022 zeigt, dass prolongierte Konflikte die Wirtschaft über Monate hinweg belasten können – mit Folgen, die sich kurzfristig kaum abschätzen lassen.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/der-iran-krieg-wirft-die-schweizer-wirtschaft-zurueck-dennoch-droht-wohl-keine-rezession-ld.1931624"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/oelpreis-ueber-100-dollar-droht-der-schweiz-eine-rezession-821781113443"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-30-twint-staat-uebernahme-gebuehren",
+              "slug": "twint-staat-uebernahme-gebuehren",
+              "title": "Twint: Schweizer Parlament diskutiert Verstaatlichung wegen hoher Gebühren",
+              "date": "2026-03-30",
+              "time": "17:00",
+              "category": "schweiz",
+              "icon": "📱",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/03/30/e6ea6775-6e11-4913-823d-49866eb7f8e4.jpg",
+              "kurz": "SP-Ständerat Carlo Sommaruga hat eine Motion eingereicht, die den Bundesrat beauftragen soll, eine Strategie zur Überführung von Twint in staatliche Hand auszuarbeiten.",
+              "summary": "Twint, der meistgenutzte Bezahldienst der Schweiz mit über sechs Millionen Nutzern, steht im Zentrum einer politischen Debatte über Verstaatlichung. SP-Ständerat Carlo Sommaruga sieht den elektronischen Zahlungsverkehr als öffentliche Dienstleistung und fordert eine staatliche Lösung nach brasilianischem Vorbild. Kleinere Detaillisten beklagen hohe Gebühren und ungleiche Konditionen gegenüber Grossverteilern. Mitte-Nationalrat Vincent Maitre lehnt eine Verstaatlichung ab und plädiert stattdessen für eine Gebührenobergrenze.",
+              "gegenstimme": "Mitte-Nationalrat Vincent Maitre bezeichnet den Verstaatlichungsvorschlag als 'ziemlich bolschewistisch' und warnt: Eine Dienstleistung wie Twint könne nicht kostenlos sein – am Ende bezahle immer jemand, entweder die Nutzer oder die Steuerzahler. Er bevorzugt gezielte Gebührenobergrenzen statt staatlicher Übernahme.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/wegen-gebuehren-streit-um-twint-soll-der-staat-den-bezahldienst-uebernehmen-103537314"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-30-bern-gaza-demo-fahndung-unverpixelt",
+              "slug": "bern-gaza-demo-fahndung-unverpixelt",
+              "title": "Berner Gaza-Demo: Polizei fahndet mit unverpixelten Fotos – Rechtsexperten kritisch",
+              "date": "2026-03-30",
+              "time": "17:00",
+              "category": "regional",
+              "icon": "📸",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/2ovzU2cKafi9gZKN8TaWZR.jpg",
+              "kurz": "Die Berner Kantonspolizei veröffentlicht unverpixelte Fotos von 31 Tatverdächtigen der pro-palästinensischen Demo vom Oktober 2025. Datenschützer und Rechtsexperten warnen vor Stigmatisierung und rechtlicher Grauzone.",
+              "summary": "Nach den Ausschreitungen an der unbewilligten Pro-Palästina-Demo in Bern vom Oktober 2025 hat die Kantonspolizei Bern am 30. März 2026 unverpixelte Bilder von 31 dringend tatverdächtigen Personen veröffentlicht. Damit greift sie zu einem in der Schweiz ungewöhnlich scharfen Mittel der Öffentlichkeitsfahndung. 101 weitere vermummte Tatverdächtige wurden bereits auf anderem Weg identifiziert und werden in den kommenden Wochen kontaktiert. Bislang konnte eine Person aufgrund der Bildveröffentlichung eindeutig identifiziert werden.",
+              "gegenstimme": "Datenschutzexperten und Rechtsanwälte kritisieren die Veröffentlichung unverpixelter Fotos scharf: Sie sehen darin einen unverhältnismässigen Eingriff in die Persönlichkeitsrechte. Personen, die sich noch nicht vor Gericht verantworten mussten, würden öffentlich als Straftäter stigmatisiert – auch wenn sich im Nachhinein herausstellt, dass sie keine strafbaren Handlungen begangen haben. Zudem bestehe die Gefahr von Selbstjustiz durch aufgeheizte Reaktionen in sozialen Medien.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/bern-kapo-veroeffentlicht-klarbilder-zu-gaza-kundgebung-807613715246"
+                },
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/pro-palaestina-demo-unverpixelte-bilder-von-berner-demo-hat-es-so-noch-nie-gegeben"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-30-mistral-ai-rechenzentrum-paris-830m",
+              "slug": "mistral-ai-rechenzentrum-paris-830m",
+              "title": "Mistral AI sammelt 830 Millionen Dollar für Rechenzentrum bei Paris",
+              "date": "2026-03-30",
+              "time": "17:00",
+              "category": "tech",
+              "icon": "🏗️",
+              "edition": "evening",
+              "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2155469291.jpg",
+              "kurz": "Das französische KI-Unternehmen Mistral AI hat 830 Millionen Dollar als Fremdkapital aufgenommen, um ein neues Rechenzentrum nahe Paris zu bauen. Betrieb soll im zweiten Quartal 2026 aufgenommen werden.",
+              "summary": "Mistral AI finanziert den Bau eines Rechenzentrums in Bruyères-le-Châtel südlich von Paris mit 830 Millionen Dollar Fremdkapital. Die Anlage wird mit Nvidia-Chips ausgestattet. Das Unternehmen will bis 2027 insgesamt 200 Megawatt Rechenkapazität in Europa bereitstellen – darunter auch eine Investition von 1,4 Milliarden Dollar in Schweden. CEO Arthur Mensch betont, Europa müsse in KI-Infrastruktur investieren, um Unabhängigkeit von US-Hyperscalern zu wahren.",
+              "gegenstimme": "Kritiker bezweifeln, ob europäische KI-Unternehmen mit dem Tempo und den Ressourcen amerikanischer Tech-Giganten mithalten können. Die Fremdfinanzierung per Debt-Runde erhöht zudem das finanzielle Risiko, falls die Nachfrage nach Mistral-Diensten nicht schnell genug wächst, um Zinsen und Amortisation zu decken.",
+              "sources": [
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/"
+                },
+                {
+                  "name": "Reuters",
+                  "url": "https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html"
                 }
               ]
             }
