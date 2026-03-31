@@ -1,5 +1,5 @@
 {
-  "updated": "05:48 UTC",
+  "updated": "09:38 UTC",
   "days": [
     {
       "date": "2026-03-31",
@@ -392,6 +392,207 @@
                 {
                   "name": "Fortune",
                   "url": "https://fortune.com/2026/01/21/trump-davos-nuclear-power-plant-approval-data-centers-ai-race-energy/"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-03-31-china-dritter-front-militaer",
+              "slug": "china-dritter-front-militaer",
+              "title": "China reaktiviert Maos 'Dritten Front': Geheime Militärfabriken in den Bergen",
+              "date": "2026-03-31",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🇨🇳",
+              "edition": "midday",
+              "image": "",
+              "kurz": "China belebt eine Kalter-Krieg-Strategie aus den 1960er-Jahren neu: Geheime Militärfabriken in abgelegenen Bergregionen sollen das Land gegen potenzielle US-Angriffe absichern.",
+              "summary": "Unter Mao Zedong mobilisierte China 1964 rund 15 Millionen Arbeiter, um im Landesinnern Rüstungsfabriken zu errichten – weit entfernt von der verwundbaren Küste. Dieses als 'Dritte Front' bekannte Programm wurde nach Maos Tod aufgegeben. Heute, angesichts zunehmender Spannungen mit den USA, reaktiviert Peking diese Strategie. Satellitenbilder zeigen neue nukleare Aufrüstung in den alten Fabrikregionen Sichuans.",
+              "gegenstimme": "Historiker und Ökonomen warnen, dass eine militärische Industrialisierung in entlegenen Berggebieten wirtschaftlich wenig sinnvoll ist. Zudem mahnen Beobachter, dass die tiefe wirtschaftliche Verflechtung zwischen den USA und China eigentlich als Kriegsbremse wirken sollte – und eine Eskalation für beide Seiten verheerende Folgen hätte.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/31/third-front-china-mao-military-factories-defences"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-hegseth-insiderhandel",
+              "slug": "hegseth-insiderhandel",
+              "title": "US-Kriegsminister Hegseth soll Insiderwissen für Rüstungsinvestitionen genutzt haben",
+              "date": "2026-03-31",
+              "time": "11:30",
+              "category": "international",
+              "icon": "⚠️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/55cc5cce-d561-4d84-9e78-50f250c3536c_w520_r2.08_fpx65.36_fpy49.99.jpg",
+              "kurz": "US-Verteidigungsminister Pete Hegseth soll laut einem Bericht der Financial Times versucht haben, sein Vorwissen über den bevorstehenden Iran-Krieg für Investitionen in Rüstungsaktien zu nutzen.",
+              "summary": "Laut einem Bericht der Financial Times soll US-Kriegsminister Pete Hegseth kurz vor Beginn des Irankriegs grössere Summen in Rüstungsunternehmen investieren wollen – mit Wissen, das er aufgrund seiner Regierungsposition hatte. Der Spiegel berichtete am 31. März darüber. Falls die Vorwürfe zutreffen, wäre dies ein klassischer Fall von Insiderhandel auf Basis nicht-öffentlicher staatlicher Informationen. Hegseth selbst hat sich bislang nicht öffentlich zu den Vorwürfen geäussert.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass die Vorwürfe bislang auf Medienberichten beruhen und keine formelle Anklage oder behördliche Untersuchung bekannt ist. Unterstützer Hegseths argumentieren, dass es sich um politisch motivierte Anschuldigungen handeln könnte, die im Kontext der aufgeheizten innenpolitischen Debatte über den Irankrieg zu sehen seien.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/us-kriegsminister-pete-hegseth-wollte-offenbar-insiderwissen-fuer-investitionen-nutzen-a-d70da609-c349-467b-a2a1-08332461bedf"
+                },
+                {
+                  "name": "Financial Times (zitiert via Spiegel)",
+                  "url": "https://www.ft.com"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-iran-tanker-dubai-flammen",
+              "slug": "iran-tanker-dubai-flammen",
+              "title": "Öltanker vor Dubai in Flammen – Iran eskaliert, Trump will Krieg beenden",
+              "date": "2026-03-31",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/8d348175-941e-4293-99d3-0ae5dd383779_w520_r2.08_fpx54.64_fpy49.98.jpg",
+              "kurz": "Ein kuwaitischer Supertanker wurde vor Dubai von einer iranischen Drohne getroffen und in Brand gesetzt – die Besatzung blieb unverletzt. Gleichzeitig verdichten sich Berichte, dass Trump den Krieg beenden will, auch ohne Öffnung der Strasse von Hormuz.",
+              "summary": "Der kuwaitisch-beflaggte Supertanker Al-Salmi wurde in den frühen Morgenstunden des 31. März vor dem Hafen von Dubai von einer Drohne getroffen und in Brand gesetzt. Das Schiff war vollständig mit rund 2 Millionen Barrel Rohöl beladen und auf dem Weg nach China. Die Feuerwehr konnte den Brand nach wenigen Stunden löschen; alle 24 Besatzungsmitglieder blieben unverletzt. Laut BBC bezeichnete die Kuwait Petroleum Corporation den Angriff als 'brutalen iranischen Luftangriff'. US-Präsident Trump soll laut Medienberichten bereit sein, den Krieg zu beenden – auch wenn die Strasse von Hormuz dabei noch blockiert bleibt.",
+              "gegenstimme": "Der frühere britische Marinekommandant Tom Sharpe warnte, dass ein militärisches Vorgehen zur Öffnung der Hormuzstrasse kaum Aussicht auf Erfolg habe: 'Iran hat die Kontrolle über diese Situation – das ist klar. Sie werden daran festhalten.' Ein Waffenstillstand ohne Lösung der Hormuz-Frage würde die Seehandelsroute dauerhaft unsicher lassen und die globalen Energiepreise hochhalten.",
+              "sources": [
+                {
+                  "name": "BBC News Live",
+                  "url": "https://www.bbc.com/news/live/c8jke9v9xv9t"
+                },
+                {
+                  "name": "The Guardian Live",
+                  "url": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist-a-f1df0f24-9734-4bc2-b88c-caa4761ed54d"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-us-soldaten-naher-osten",
+              "slug": "us-soldaten-naher-osten",
+              "title": "Tausende US-Fallschirmjäger im Nahen Osten eingetroffen",
+              "date": "2026-03-31",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🪖",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/e8cff713-7e7f-42cd-93b2-e852b420bc1d_w520_r2.08_fpx49_fpy41.jpg",
+              "kurz": "Die USA haben tausende Fallschirmjäger in den Nahen Osten verlegt und erwägen eine weitere Truppenverstärkung. Italien verweigerte Washington die Nutzung eines NATO-Stützpunkts für Operationen gegen Iran.",
+              "summary": "Im Zuge der andauernden Kampfhandlungen mit Iran haben die USA ihre Militärpräsenz im Nahen Osten deutlich ausgebaut. Tausende Fallschirmjäger der US-Armee sind in der Region eingetroffen; die Regierung Trump erwägt eine weitere Aufstockung der Truppenstärke. Gleichzeitig berichtet der Spiegel, dass Italien die Nutzung eines seiner Militärstützpunkte durch die USA für Einsätze gegen Iran abgelehnt hat – ein ungewöhnlicher Schritt innerhalb des NATO-Bündnisses. Trotz des militärischen Aufbaus mehren sich Berichte, dass Trump offen für eine Beendigung des Konflikts ist.",
+              "gegenstimme": "Die Ablehnung Italiens zeigt, dass die NATO-Einheit in diesem Krieg brüchiger ist, als es nach aussen erscheint. Mehrere europäische Verbündete haben Vorbehalte gegen eine weitere Eskalation und befürchten, in einen umfassenderen Regionalkonflikt hineingezogen zu werden, den sie weder militärisch noch politisch mitverantworten wollen.",
+              "sources": [
+                {
+                  "name": "Reuters",
+                  "url": "https://www.reuters.com/world/middle-east/thousands-us-army-paratroopers-arrive-middle-east-buildup-intensifies-2026-03-30/"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist-a-f1df0f24-9734-4bc2-b88c-caa4761ed54d"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-oev-preise-erhoehung-schweiz",
+              "slug": "oev-preise-erhoehung-schweiz",
+              "title": "ÖV-Tickets und Abos werden im Dezember 3.9% teurer",
+              "date": "2026-03-31",
+              "time": "11:30",
+              "category": "schweiz",
+              "icon": "🚆",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/4riDFKGc4iUAEtYsGQzb-P.jpg",
+              "kurz": "Die ÖV-Branche erhöht per Dezember 2026 die Tarife um durchschnittlich 3.9 Prozent – die erste Preisanpassung seit mehreren Jahren.",
+              "summary": "Der Strategierat der Alliance SwissPass hat eine Tariferhöhung im nationalen Direktverkehr um 3.9 Prozent beschlossen, die mit dem Fahrplanwechsel im Dezember 2026 in Kraft tritt. Als Gründe nennt die Branche gestiegene Kosten für Material, Personal und Energie sowie politische Entscheide des Parlaments, die zu finanziellen Einbussen führen. Angebote für Kinder, Jugendliche und Familien sollen nicht oder nur geringfügig teurer werden. Das Generalabonnement steigt stärker als Einzelbillette, das Halbtax-Abo wird um fünf Franken teurer.",
+              "gegenstimme": "Konsumentenorganisationen und Pendlerverbände dürften die Massnahme kritisch aufnehmen: Die Preiserhöhung trifft besonders regelmässige ÖV-Nutzerinnen und -Nutzer, also genau jene Gruppe, die das System trägt. Zudem wird die Streichung der Mineralölsteuer-Rückvergütung durch das Parlament als Kostentreiber genannt – eine politische Entscheidung, deren finanzielle Last nun auf die Fahrgäste abgewälzt wird.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/anpassung-der-tarife-im-dezember-oev-preise-steigen-um-3-9-prozent"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/ab-dezember-oev-preise-steigen-um-4-prozent-103537818"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/die-oev-branche-kuendigt-hoehere-preise-an-ld.1931828"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-zuerich-is-anklage-messer",
+              "slug": "zuerich-is-anklage-messer",
+              "title": "Zürich: IS-Anhänger wegen Messerattacke auf Juden angeklagt",
+              "date": "2026-03-31",
+              "time": "11:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/BPi-CNVnqu7AuUWjvimtaI.jpg",
+              "kurz": "Die Jugendanwaltschaft Unterland hat einen heute 17-jährigen Schweizer-Tunesier wegen mehrfachen versuchten Mordes angeklagt. Er hatte im März 2024 in Zürich einen orthodoxen Juden mit einem Messer lebensgefährlich verletzt.",
+              "summary": "Am 2. März 2024 griff ein damals 15-jähriger Jugendlicher aus Dielsdorf in Zürich einen 50-jährigen orthodoxen Juden auf offener Strasse mit einem Messer an und verletzte ihn schwer. Die Jugendanwaltschaft Unterland reichte die Anklage am 19. März 2026 beim Jugendgericht Dielsdorf ein. Neben mehrfachem versuchten Mord wird dem Teenager auch die Unterstützung einer kriminellen Organisation sowie der Aufruf zu Diskriminierung und Hass vorgeworfen. Der Jugendliche befindet sich seit der Tat in einer geschlossenen Institution.",
+              "gegenstimme": "Der Verteidiger des Jugendlichen äussert sich nicht zur Anklage. Kritiker weisen darauf hin, dass das Jugendstrafrecht bei unter 16-Jährigen maximal vier Jahre Freiheitsstrafe vorsieht – und eine Verwahrung aufgrund des Alters und des Tatzeitpunkts (vor der Gesetzesrevision 2025) ausgeschlossen ist. Manche Stimmen stellen die Frage, ob der Rechtsstaat in diesem Fall ausreichend Schutz bietet.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/zuerich-jugendlicher-is-anhaenger-wegen-mehrfachen-mordversuchs-angeklagt-ld.1931830"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/jugendgericht-jihadist-aus-dielsdorf-attackierte-jude-mit-messer-angeklagt-103537824"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/zuerich-anklage-wegen-versuchtem-mord-nach-messerattacke-292176542937"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-waermepumpen-iran-boom",
+              "slug": "waermepumpen-iran-boom",
+              "title": "Iran-Krieg belebt Wärmepumpen-Markt neu",
+              "date": "2026-03-31",
+              "time": "11:30",
+              "category": "wirtschaft",
+              "icon": "♨️",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Der Iran-Krieg treibt die Energiepreise in die Höhe – und könnte Wärmepumpen nach Jahren der Stagnation wieder attraktiver machen.",
+              "summary": "Nach dem Boom während der Ukraine-Krise ist der Schweizer Wärmepumpenmarkt seit 2024 deutlich abgekühlt. Ölheizungen erleben eine Nachfrage-Renaissance, während Wärmepumpen mit Vorurteilen und hohen Anschaffungskosten kämpfen. Der Iran-Krieg und steigende Öl- und Gaspreise könnten das Blatt erneut wenden – ähnlich wie nach dem Angriff Russlands auf die Ukraine 2022. Ob daraus ein dauerhafter Schub wird, hängt vor allem davon ab, wie lange der Konflikt die Energiemärkte belastet.",
+              "gegenstimme": "Branchenvertreter warnen vor überhöhten Erwartungen: Viele Versprechen aus dem Wärmepumpen-Hype der Corona- und Ukraine-Jahre wurden nicht eingehalten. Betriebskosteneinsparungen von 50 Prozent gegenüber fossilen Heizungen sind nur unter idealen Bedingungen erreichbar. Auch staatliche Subventionen werden von Unternehmerseite als falsches Mittel abgelehnt – sie führten zuletzt zu Marktverzerrungen wie dem Verkaufsboom bei Öl- und Gasheizungen kurz vor dem Baselbieter Verbauverbot.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/waermepumpen-iran-krieg-koennte-den-hype-der-ukraine-krise-wiederbeleben-ld.1931204"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-artemis-2-mondflug",
+              "slug": "artemis-2-mondflug",
+              "title": "Artemis 2: In 10 Tagen startet der erste Mondflug seit Apollo",
+              "date": "2026-03-31",
+              "time": "11:30",
+              "category": "tech",
+              "icon": "🌙",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/assets/img/2025/09/03/media-images-artemis-ii-crew-portrait.jpg",
+              "kurz": "Am 1. April 2026 startet die NASA-Mission Artemis 2 – der erste bemannte Flug in Richtung Mond seit der Apollo-Ära. Vier Astronauten werden den Mond umrunden, aber nicht landen.",
+              "summary": "Die NASA-Mission Artemis 2 startet am 1. April 2026 mit vier Astronauten: Commander Reid Wiseman, Victor Glover, Christina Koch und dem Kanadier Jeremy Hansen. Sie werden den Mond in einer Acht-Bahn in rund 7500 Kilometern Höhe umrunden und nach zehn Tagen zur Erde zurückkehren. Es ist der erste bemannte Mondflug seit Apollo 17 im Jahr 1972. Eine Mondlandung ist nicht vorgesehen – diese soll frühestens 2028 mit Artemis 3 erfolgen.",
+              "gegenstimme": "Kritiker bemängeln, dass das Artemis-Programm seit Jahren Verzögerungen und explodierende Kosten produziert. Das Space Launch System gilt als teuerste Einwegrakete der Geschichte. Zudem fragen manche, ob eine Rückkehr zum Mond angesichts von Mars-Ambitionen und privater Konkurrenz (SpaceX) tatsächlich den besten Einsatz von Steuergeldern darstellt. Technisch ungeklärt ist zudem das Verhalten des Hitzeschilds beim Wiedereintritt, der nach dem unbemannten Testflug 2022 Risse aufwies.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wissenschaft/artemis-2-der-erste-bemannte-flug-zum-mond-seit-apollo-ld.1920889"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cdj7e11pw10o"
                 }
               ]
             }
