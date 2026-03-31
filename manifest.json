@@ -1,5 +1,5 @@
 {
-  "updated": "09:38 UTC",
+  "updated": "16:47 UTC",
   "days": [
     {
       "date": "2026-03-31",
@@ -593,6 +593,195 @@
                 {
                   "name": "BBC News",
                   "url": "https://www.bbc.com/news/articles/cdj7e11pw10o"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-03-31-iran-hormuz-maut",
+              "slug": "iran-hormuz-maut",
+              "title": "Iran kassiert 2 Millionen Dollar Maut pro Schiff an der Strasse von Hormuz",
+              "date": "2026-03-31",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🚢",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Die iranischen Revolutionswaechter verlangen von Schiffen, die die Strasse von Hormuz passieren wollen, umgerechnet 2 Millionen Dollar Durchfahrtsmaut. Das Teheraner Parlament will die Praxis nun gesetzlich verankern.",
+              "summary": "Seit Beginn des Irankriegs kontrollieren die Revolutionswaechter die Strasse von Hormuz faktisch wie ein Privatgewaesser. Schiffe muessen sich ueber Mittelsmanner anmelden, detaillierte Angaben zu Ladung und Mannschaft machen und eine Gebuehr von umgerechnet 2 Millionen Dollar bezahlen. Laut der Fachfirma Lloyd's List Intelligence haben bisher rund zwanzig Kapitaene den Prozess durchlaufen, zwei haben auch bezahlt – in chinesischen Yuan. Das iranische Parlament debattiert bereits ein Gesetz, das die Mautpflicht formal verankern soll.",
+              "gegenstimme": "Voelkerrechtlich ist die Erhebung einer Durchfahrtsgebuehr in der Strasse von Hormuz hochgradig umstritten. Iran hat die UN-Seerechtskonvention (UNCLOS) nicht unterzeichnet, beruft sich aber auf nationale Souveraenitaet ueber Teile des Meerengengebiets. Viele Experten sehen darin einen klaren Verstoss gegen internationales Gewohnheitsrecht. Die geringe Zahl von bisher zwei zahlenden Schiffen deutet darauf hin, dass die meisten Kapitaene die Maut noch umgehen – oder gar nicht erst versuchen durchzufahren.",
+              "sources": [
+                {
+                  "name": "Neue Zürcher Zeitung",
+                  "url": "https://www.nzz.ch/international/zwei-millionen-dollar-pro-schiff-wie-iran-an-der-strasse-von-hormuz-einkassiert-ld.1931740"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-uk-truppen-golf",
+              "slug": "uk-truppen-golf",
+              "title": "Grossbritannien schickt zusätzliche Truppen in den Golf",
+              "date": "2026-03-31",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🇬🇧",
+              "edition": "evening",
+              "image": "",
+              "kurz": "London erhöht seine Truppenpräsenz im Golf auf rund 1000 Soldaten und liefert zusätzliche Luftabwehrsysteme – trotz scharfer Kritik von US-Präsident Trump.",
+              "summary": "Verteidigungsminister John Healey kündigte bei einem Besuch in Katar, Saudi-Arabien und Bahrain die Verstärkung britischer Kräfte im Nahen Osten an. Insgesamt sind nun rund 1000 britische Soldaten in der Region tätig. Zusätzlich zum bestehenden Typhoon-Kampfjetgeschwader wird das Luftabwehrsystem Sky Sabre nach Saudi-Arabien verlegt. Grossbritannien betont, ausschliesslich defensive Operationen durchzuführen und sich nicht am Angriffskrieg gegen Iran zu beteiligen.",
+              "gegenstimme": "US-Präsident Trump kritisiert die zurückhaltende britische Haltung scharf: Länder, die sich nicht an Offensivoperationen gegen Iran beteiligten, sollten lernen, sich selbst zu verteidigen. Einige Analysten fragen, ob die Unterscheidung zwischen 'defensiven' und 'offensiven' Operationen in einem aktiven Konfliktgebiet langfristig haltbar bleibt.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/mar/31/uk-troops-gulf-donald-trump-jibes-british-military-involvement"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c7vq76g45rvo"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-batteriebrand-biberist",
+              "slug": "batteriebrand-biberist",
+              "title": "Grossbrand in Batterierecycling-Fabrik Biberist SO",
+              "date": "2026-03-31",
+              "time": "17:00",
+              "category": "schweiz",
+              "icon": "🔥",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/03/31/6a7a9f43-c5f6-4d82-9065-a80267b09ead.jpg",
+              "kurz": "In der Batterierecycling-Firma Librec AG in Biberist SO brach am Dienstagmittag ein Grossbrand aus. Der Einsatz dauerte mehrere Stunden, verletzt wurde niemand.",
+              "summary": "Am 31. März 2026 um 12:38 Uhr meldete die Kantonspolizei Solothurn einen Brand in der Librec AG in Biberist. Das Unternehmen recycelt Lithium-Ionen-Batterien aus Elektrofahrzeugen. Die starke Rauchentwicklung veranlasste die Behörden, die Bevölkerung in den Gemeinden Biberist, Gerlafingen und Derendingen via Alertswiss zu warnen. Am späteren Nachmittag gab die Polizei Entwarnung. Das Batterielager erlitt massiven Schaden, das Hauptgebäude blieb weitgehend verschont.",
+              "gegenstimme": "Der CEO von Librec, Jodok Reinhardt, sagte, ein Brand sei «nicht total überraschend» – man arbeite schliesslich mit Batterien. Experten und die Gebäudeversicherung Solothurn prüfen nun, ob das Brandschutzkonzept den Anforderungen genügte. Offen ist, weshalb sich das Feuer trotz Schutzmassnahmen ausbreiten konnte.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/grosseinsatz-in-biberist-brennt-eine-recyclingfabrik-loescharbeiten-dauern-an"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/biberist-so-nicht-ueberrascht-hat-schutzkonzept-bei-batteriebrand-versagt-103538046"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-schweizer-oelversorgung",
+              "slug": "schweizer-oelversorgung",
+              "title": "Schweizer Ölversorgung stabil – aber Importeure warnen vor Folgen",
+              "date": "2026-03-31",
+              "time": "17:00",
+              "category": "schweiz",
+              "icon": "🛢️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/FwnI5YpkqI58P0sDwHiBlS.jpg",
+              "kurz": "Die Versorgung der Schweiz mit Mineralölprodukten ist laut Bund derzeit gesichert. Mittelfristig warnen Experten jedoch vor erheblichen Folgen des Iran-Kriegs und möglichen Schäden an der Infrastruktur der Golfregion.",
+              "summary": "Seit dem Ausbruch des Iran-Kriegs und der damit verbundenen Destabilisierung der Golfregion beobachtet die Wirtschaftliche Landesversorgung des Bundes die Versorgungslage der Schweiz genau. Aktuell sind Mineralölprodukte auf dem Markt verfügbar und es gibt keine Einschränkungen im Gütertransport. Allerdings werden in Europa noch Lieferungen entladen, die vor der Eskalation des Konflikts verschifft wurden. Experten warnen, dass selbst bei einer raschen Rückkehr zum Normalbetrieb der Ölmärkte eine Instabilität von Monaten zu erwarten ist – insbesondere, wenn Infrastrukturen in der Golfregion dauerhaft beschädigt wurden.",
+              "gegenstimme": "Kritiker sehen in der offiziellen Kommunikation des Bundes eine Verharmlosung der Lage. Die Pflichtlager decken lediglich 3 bis 4,5 Monate nationalen Bedarf ab – bei einer lang anhaltenden Unterbrechung der Lieferketten reicht das kaum. Zudem wird bemängelt, dass die Schweiz trotz jahrelanger Diskussionen über Energieunabhängigkeit noch immer stark von fossilen Importen abhängig ist und kein beschleunigtes Umstiegsszenario vorbereitet hat.",
+              "sources": [
+                {
+                  "name": "Bundesamt für wirtschaftliche Landesversorgung",
+                  "url": "https://www.bwl.admin.ch/de/versorgungslage-iran-krieg"
+                },
+                {
+                  "name": "20 Minuten – Weltweite Reaktionen auf Ölkrise",
+                  "url": "https://www.20min.ch/story/schweiz-unter-druck-so-reagiert-die-welt-auf-oelkrise-iran-krieg-103534465"
+                },
+                {
+                  "name": "Swissinfo – Öl- und Gasversorgung der Schweiz",
+                  "url": "https://www.swissinfo.ch/ger/klimaanpassung/warum-die-%C3%B6l-und-gasversorgung-der-schweiz-trotz-des-kriegs-im-iran-gesichert-ist/91111209"
+                },
+                {
+                  "name": "Blick – Schweizer Exportindustrie",
+                  "url": "https://www.blick.ch/wirtschaft/iran-krieg-frankenstaerke-trump-zoelle-jetzt-trueben-sich-die-aussichten-fuer-die-schweiz-erst-recht-ein-id21779176.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-bundeswehr-rheinmetall-drohnen",
+              "slug": "bundeswehr-rheinmetall-drohnen",
+              "title": "Bundeswehr kauft Rheinmetall-Kampfdrohnen für 2.4 Milliarden Euro",
+              "date": "2026-03-31",
+              "time": "17:00",
+              "category": "wirtschaft",
+              "icon": "🎯",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/b6e3b334-543c-457a-944f-a5089a8c6c9a_w520_r2.08_fpx49.41_fpy50.jpg",
+              "kurz": "Der Haushaltsausschuss des Bundestages soll naechste Woche einen Rahmenvertrag mit Rheinmetall fuer Kampfdrohnen bis zu 2,4 Milliarden Euro billigen. Erste Lieferungen in Hoehe von 298 Millionen Euro sind bereits vorgesehen.",
+              "summary": "Die Bundeswehr setzt ihre Beschaffung sogenannter Loitering Munition fort und wendet sich nun auch an Rheinmetall. Der Haushaltsausschuss soll in der Woche ab dem 7. April einem Rahmenvertrag zustimmen, aus dem zunaechst Waffen fuer 298 Millionen Euro fest bestellt werden. Der Gesamtrahmen belaeuft sich auf bis zu 2,4 Milliarden Euro. Das Modell 'Raider' von Rheinmetall soll zunaechst die deutsche Panzerbrigade in Litauen unterstuetzen. Bereits im Februar hatte der Ausschuss Auftrage an Helsing und Stark Defence bewilligt.",
+              "gegenstimme": "Der Haushaltsausschuss hatte bei den ersten Drohnenauftragen im Februar erhebliche Bedenken geltend gemacht: mangelnde Transparenz, unklare Kostenaufteilung und politisch heikle Investorenbeteiligungen (Peter Thiel bei Stark Defence). Die Abgeordneten haben den Rahmenvertrag deshalb auf 1 Milliarde Euro gedeckelt und behalten sich vor, jeden einzelnen Abruf nochmals zu genehmigen. Bei Rheinmetall hatten die Drohnen bei frueheren Tests zudem nicht die gewuenschten Ergebnisse geliefert.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/bundeswehr-bund-will-rheinmetall-kampfdrohnen-fuer-bis-zu-24-milliarden-euro-kaufen/100213541.html"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/aufruestung-der-bundeswehr-verteidigungsminister-boris-pistorius-will-rheinmetall-drohnen-fuer-bundeswehr-bestellen-a-6ad35430-7c00-4aa7-858a-c61ae9bbf3a2"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-lufthansa-krise-iran",
+              "slug": "lufthansa-krise-iran",
+              "title": "Lufthansa im Krisenmodus: Bis zu 40 Jets könnten am Boden bleiben",
+              "date": "2026-03-31",
+              "time": "17:00",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/1412fe4a-54f9-42c1-9c17-6e1c026c5ac7_w520_r2.08_fpx56.74_fpy49.98.jpg",
+              "kurz": "Lufthansa-Chef Carsten Spohr warnt intern vor massiven Auswirkungen des Irankriegs auf den Konzern. Je nach Eskalation könnten bis zu 40 Flugzeuge vorübergehend stillgelegt werden.",
+              "summary": "Der Irankrieg und die damit verbundene Kerosinknappheit setzen die Lufthansa Group unter Druck. Vorstandschef Carsten Spohr hat intern zwei Krisenpakete in Auftrag gegeben: eines mit 20 stillgelegten Flugzeugen (2,5 Prozent weniger Kapazität), eines mit 40 Maschinen am Boden (5 Prozent). Das geplante Wachstum von 4 Prozent fuer 2026 gilt als unrealistisch. Selbst Kurzarbeit wurde als Option erwaehnt.",
+              "gegenstimme": "Spohr betont ausdruecklich, es sei noch kein Beschluss zur Umsetzung gefasst worden – die Pakete seien nur Vorbereitungsmassnahmen. Kritiker koennten einwenden, dass die oeffentliche Kommunikation dieser Szenarien eher Druck auf Politik und Gehaltsverhandlungen erzeugt als echte operative Notwendigkeit widerspiegelt.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein-a-42cd7bfc-722b-42ec-b411-a2d85dc656d3"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-lufthansa-koennte-wegen-folgen-des-irankriegs-40-jets-parken/100213437.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-axios-hack-supply-chain",
+              "slug": "axios-hack-supply-chain",
+              "title": "Axios-Bibliothek gehackt: Millionen Entwickler-Rechner gefährdet",
+              "date": "2026-03-31",
+              "time": "17:00",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Die populäre JavaScript-HTTP-Bibliothek Axios wurde über ein kompromittiertes npm-Konto mit einem Remote Access Trojan verseucht. Betroffen sind alle Entwickler, die am 31. März 2026 zwischen 00:21 und 03:29 UTC ein npm install durchführten.",
+              "summary": "Am 31. März 2026 wurden zwei schadhafte Versionen der weit verbreiteten JavaScript-Bibliothek Axios (v1.14.1 und v0.30.4) auf npm veröffentlicht. Der Angreifer hatte das npm-Konto eines Hauptentwicklers übernommen und eine versteckte Abhängigkeit eingeschleust, die automatisch beim Installieren einen plattformübergreifenden Remote Access Trojan (RAT) auf dem Zielsystem installierte. Das Sicherheitsunternehmen StepSecurity erkannte den Angriff und meldete ihn; npm entfernte beide Versionen bis 03:29 UTC. Entwickler, die in diesem Zeitfenster einen frischen Install durchführten, müssen ihre Systeme und alle gespeicherten Zugangsdaten als kompromittiert betrachten.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass npm als Plattform seit Jahren unter unzureichendem Schutz gegen Account-Übernahmen leidet. Die Tatsache, dass ein einzelnes kompromittiertes Maintainer-Konto 100 Millionen wöchentliche Downloads gefährden kann, zeigt die strukturelle Schwäche des npm-Ökosystems. Zudem löscht sich die Malware selbst, was forensische Nachweise erschwert – viele betroffene Entwickler werden nie erfahren, ob ihr System infiziert war.",
+              "sources": [
+                {
+                  "name": "StepSecurity Blog",
+                  "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+                },
+                {
+                  "name": "Snyk Advisory",
+                  "url": "https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/"
+                },
+                {
+                  "name": "Socket.dev Blog",
+                  "url": "https://socket.dev/blog/axios-npm-package-compromised"
+                },
+                {
+                  "name": "Malwarebytes",
+                  "url": "https://www.malwarebytes.com/blog/news/2026/03/axios-supply-chain-attack-chops-away-at-npm-trust"
+                },
+                {
+                  "name": "The Hacker News",
+                  "url": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html"
                 }
               ]
             }
