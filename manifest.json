@@ -1,518 +1,397 @@
 {
-  "updated": "17:46 UTC",
+  "updated": "05:48 UTC",
   "days": [
     {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-03-30-china-inseln-suedchinesisches-meer",
-              "slug": "china-inseln-suedchinesisches-meer",
-              "title": "China baut neue Inseln im Südchinesischen Meer",
-              "date": "2026-03-30",
-              "time": "06:00",
+              "id": "2026-03-31-huthi-welthandel-rotes-meer",
+              "slug": "huthi-welthandel-rotes-meer",
+              "title": "Huthi treten in den Krieg ein – droht dem Welthandel der Kollaps?",
+              "date": "2026-03-31",
+              "time": "07:00",
               "category": "international",
-              "icon": "🌏",
+              "icon": "🚢",
               "edition": "morning",
-              "image": "https://img.nzz.ch/2026/03/25/e56b4e41-09a0-4915-bf9b-959d606b8822.jpg",
-              "kurz": "China baut erstmals seit zehn Jahren wieder eine neue künstliche Insel – diesmal am Antelope-Riff in der Paracel-Gruppe. Die Anlage könnte Pekings grösste Insel im Südchinesischen Meer werden.",
-              "summary": "Satellitenbilder zeigen, dass China seit November 2025 massiv am Antelope-Riff in der Paracel-Inselgruppe aufschüttet. Die bereits entstandene Landfläche beträgt laut Schätzungen 6 bis 15 Quadratkilometer – gross genug für eine Landebahn. Es ist das erste grosse chinesische Aufschüttungsprojekt seit den Spratly-Bauten der 2010er-Jahre. Vietnam protestiert, da es ebenfalls Ansprüche auf die Paracel-Inseln erhebt. China hat sich zu den Bauarbeiten bisher nicht offiziell geäussert.",
-              "gegenstimme": "Experten sind sich uneins über den strategischen Nutzen. Das Antelope-Riff liegt nur 280 Kilometer von der chinesischen Insel Hainan entfernt – der Standortvorteil ist geringer als bei den Spratly-Stützpunkten. Zudem besteht aus porösem Korall kein Schutz durch unterirdische Bunker. Kritische Stimmen aus dem Westen sahen die früheren Anlagen als leicht angreifbare 'stationäre Flugzeugträger' – CSIS-Analyst Greg Poling hält das jedoch für eine gefährliche Fehlannahme.",
+              "image": "https://image.20min.ch/2026/03/30/91b5b760-199f-4517-8847-f18db7364cc4.jpg",
+              "kurz": "Die jemenitische Huthi-Miliz hat erstmals direkt Israel angegriffen und steigt damit in den Iran-Krieg ein. Ihr Griff über die Meerenge Bab al-Mandab bedroht 15 Prozent des Welthandels.",
+              "summary": "Mit Raketenangriffen auf israelische Militärstandorte ist die Huthi-Miliz am Wochenende erstmals direkt in den Iran-Krieg eingestiegen. Die Miliz kontrolliert die Meerenge Bab al-Mandab am Eingang zum Roten Meer – eine der wichtigsten Handelsrouten der Welt. Eine Blockade würde nach dem bereits gesperrten Hormus eine zweite Schlüsselroute ausschalten. Experten warnen vor einem historisch beispiellosen Engpass für den globalen Warenverkehr.",
+              "gegenstimme": "Die Huthi haben gute Gründe, sich zurückzuhalten: Ein offener Angriff auf Handelsschiffe würde Saudi-Arabien und die USA zu direkten Gegenmassnahmen zwingen. Der Jemen, nach jahrelangem Bürgerkrieg geschwächt, kann einen regionalen Grosskrieg kaum verkraften. Marktexperten betonen, dass die Miliz bisher vor allem Drohsignale sendet – keine vollständige Blockade.",
               "sources": [
                 {
-                  "name": "NZZ – Südchinesisches Meer: Baut China eine neue Militärbasis?",
-                  "url": "https://www.nzz.ch/international/suedchinesisches-meer-baut-china-eine-neue-militaerbasis-ld.1930807"
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/blockade-handelsstrasse-huthi-angriff-bricht-jetzt-der-welthandel-komplett-ein-103537223"
+                },
+                {
+                  "name": "NZZ Zwischenbilanz",
+                  "url": "https://www.nzz.ch/international/vier-wochen-krieg-gegen-iran-was-haben-die-usa-und-israel-erreicht-ld.1930709"
                 }
               ]
             },
             {
-              "id": "2026-03-30-deutschland-rechnungshof-sondervermoegen-verschiebebahnhof",
-              "slug": "deutschland-rechnungshof-sondervermoegen-verschiebebahnhof",
-              "title": "Rechnungshof-Präsident: Deutschlands Milliarden-Sondervermögen ist ein Verschiebebahnhof",
-              "date": "2026-03-30",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🏦",
-              "edition": "morning",
-              "image": "https://images.welt.de/69c9aec704eeb30f4b10929c/58eb698962c91ed6409eaed24fe2644b-master/ci23x11-w1200/dpa-com-20090101-260214-935-1150849-jpg",
-              "kurz": "Scheidender Bundesrechnungshof-Präsident Kay Scheller kritisiert, dass 80 bis 90 Prozent der milliardenschweren deutschen Sondervermögen zweckentfremdet werden. Er spricht von einem 'Verschiebebahnhof' zur Umgehung der Schuldenbremse.",
-              "summary": "Kay Scheller, der Ende Mai nach 14 Jahren als Präsident des Bundesrechnungshofs in Pension geht, rechnet in einem Interview mit der Haushaltspolitik der Bundesregierung ab. Das 500-Milliarden-Sondervermögen für Infrastruktur und Klimaneutralität werde zu 80 bis 90 Prozent zweckentfremdet, um Haushaltslöcher zu stopfen. Auch beim 100-Milliarden-Programm für die Bundesländer bestehe die Gefahr der Zweckentfremdung. Hinzu kommt eine 'Versteinerung' des Bundeshaushalts: 90 Prozent der Mittel sind fest verplant, fast die Hälfte fliesst in Zinsen, Renten und Verteidigung.",
-              "gegenstimme": "Die Bundesregierung und Befürworter der Sondervermögen argumentieren, dass angesichts jahrzehntelanger Unterinvestitionen in Infrastruktur ein rascher, flexibler Mitteleinsatz notwendig sei. Die Schuldenbremse in ihrer aktuellen Form sei ein Hindernis für dringend nötige Investitionen in die Zukunftsfähigkeit Deutschlands. Schellers Kritik kommt zudem kurz vor seinem Abgang — was politisch als Abrechnung gelesen werden kann.",
-              "sources": [
-                {
-                  "name": "Die Welt",
-                  "url": "https://www.welt.de/politik/deutschland/article69c9aec704eeb30f4b10929c/haushaltspolitik-rechnungshof-praesident-warnt-regierung-nutzt-milliarden-fonds-als-verschiebebahnhof.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-iran-krieg-update-un-soldat-pakistan-talks",
-              "slug": "iran-krieg-update-un-soldat-pakistan-talks",
-              "title": "Iran-Krieg: UN-Soldat getötet, Pakistan vermittelt USA-Iran-Gespräche",
-              "date": "2026-03-30",
-              "time": "06:00",
+              "id": "2026-03-31-iran-krieg-eskalation",
+              "slug": "iran-krieg-eskalation",
+              "title": "Iran-Krieg: Öltanker angegriffen, Trump droht mit Energiegitter-Vernichtung",
+              "date": "2026-03-31",
+              "time": "07:00",
               "category": "international",
               "icon": "🔥",
               "edition": "morning",
-              "image": "https://images.welt.de/69c61eccaf187d606b8148a0/9dbd5e7978084dd836d073e8d55cfed8/ci23x11-w1200/dpa-com-20090101-260329-935-1249269-jpg",
-              "kurz": "Ein UNIFIL-Blauhelm wurde im Südlibanon durch ein Geschoss getötet. Pakistan vermittelt zwischen Washington und Teheran; US-Aussenminister Rubio rechnet mit einem Kriegsende in wenigen Wochen.",
-              "summary": "Im Südlibanon wurde ein UNIFIL-Soldat durch eine Explosion getötet, ein weiterer schwer verletzt. Die Herkunft des Geschosses ist ungeklärt. Parallel kündigt Pakistan Vermittlergespräche zwischen den USA und dem Iran an. US-Aussenminister Rubio sagte nach einem G7-Treffen in Frankreich, die Operationen im Iran seien im Zeitplan und könnten in wenigen Wochen abgeschlossen sein. Trump spricht derweil öffentlich über eine mögliche Einnahme der iranischen Ölinsel Charg.",
-              "gegenstimme": "Iran bestreitet, Verhandlungsbereitschaft signalisiert zu haben. Teheran betonte, keinen Kontakt zu Washington aufgenommen zu haben. Kritiker warnen, Trumps öffentliche Aussagen über Charg und iranisches Öl könnten die Verhandlungen torpedieren und Iran von einem Deal abbringen.",
+              "image": "https://image.20min.ch/2026/03/31/784be20d-6004-40ca-b9a6-d35138ad3c6b.png",
+              "kurz": "Vor Dubai wurde ein grosser Öltanker beschossen und in Brand gesetzt. Trump will den Krieg offenbar beenden – auch wenn die Strasse von Hormus noch blockiert bleibt.",
+              "summary": "Der Konflikt zwischen den USA, Israel und dem Iran geht in die fünfte Woche. Vor der Küste Dubais wurde ein kuwaitischer Öltanker von einer Rakete getroffen und brannte. US-Präsident Trump drohte mit Angriffen auf iranische Ölanlagen und Kraftwerke, falls die Strasse von Hormus blockiert bleibt – will den Krieg aber laut Medienberichten auch ohne vollständige Öffnung der Meerenge beenden. Indirekte Gespräche zwischen Washington und Teheran laufen, beide Seiten widersprechen sich jedoch über den Stand.",
+              "gegenstimme": "Der Iran bezeichnet die US-Verhandlungsvorschläge als 'unrealistisch, unlogisch und überzogen'. Teheran bestreitet aktive Gespräche, während das Weisse Haus 'gute Fortschritte' meldet – ein klassisches Muster gegenseitiger Informationskontrolle in frühen Verhandlungsphasen.",
               "sources": [
                 {
-                  "name": "Welt Liveticker",
-                  "url": "https://www.welt.de/politik/ausland/article69c61eccaf187d606b8148a0/iran-niemand-der-dem-frieden-dient-sollte-sein-leben-verlieren-explosion-toetet-un-soldat-im-libanon-liveticker.html"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c1l9vz064nqo"
-                },
-                {
-                  "name": "Spiegel Liveticker",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-uno-blauhelmsoldat-bei-angriff-im-sued-libanon-getoetet-a-3e3072a1-693a-4f29-8c3f-03523f5b46ce"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-israel-grabeskirche-palmsonntag-kardinal",
-              "slug": "israel-grabeskirche-palmsonntag-kardinal",
-              "title": "Palmsonntag-Eklat: Israelische Polizei blockiert Kardinal – Netanjahu ordnet Zugang an",
-              "date": "2026-03-30",
-              "time": "06:00",
-              "category": "international",
-              "icon": "⛪",
-              "edition": "morning",
-              "image": "https://images.welt.de/69c9159b80d7a94f32d322be/1ed65647459a932b158a984d242bede8/ci23x11-w1200/1774797509971-afp-a64d2d3-jpg",
-              "kurz": "Israelische Polizei verwehrte Kardinal Pizzaballa am Palmsonntag den Zugang zur Grabeskirche – erstmals seit Jahrhunderten. Netanjahu korrigierte den Entscheid nach internationaler Empörung noch in der Nacht.",
-              "summary": "Israelische Sicherheitskräfte hinderten am Palmsonntag den Lateinischen Patriarchen von Jerusalem, Kardinal Pierbattista Pizzaballa, am Betreten der Grabeskirche. Begründet wurde dies mit Sicherheitsregeln im Kontext des laufenden Iran-Krieges. Die Verweigerung löste eine Welle internationaler Verurteilungen aus – von Frankreich, Italien, Deutschland, den USA bis hin zu Papst Leo XIV. Ministerpräsident Netanyahu ordnete noch in der Nacht zum Montag uneingeschränkten Zugang an, betonte aber, es habe keinerlei böswillige Absicht bestanden.",
-              "gegenstimme": "Israel verweist auf reale Sicherheitsbedrohungen: Iranische Raketen schlugen zuletzt wenige Meter von der Grabeskirche entfernt ein. Alle Heiligen Stätten in der Altstadt – Klagemauer, Al-Aksa-Moschee, Grabeskirche – sind seit dem 28. Februar für Gläubige aller Religionen gesperrt. Israelische Stimmen werfen manchen internationalen Kritikern politische Instrumentalisierung vor, insbesondere im Falle Spaniens.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cvg0128z41eo"
-                },
-                {
-                  "name": "Die Welt (Hauptbericht)",
-                  "url": "https://www.welt.de/politik/ausland/article69c9159b80d7a94f32d322be/israel-polizei-laesst-kardinal-nicht-in-die-grabeskirche-netanjahu-ordnet-sofortigen-zugang-an.html"
-                },
-                {
-                  "name": "Die Welt (Reaktionen)",
-                  "url": "https://www.welt.de/politik/ausland/article69c97d31b33459bf52773c1f/respektlosigkeit-und-schikane-israel-verweigert-zugang-zur-grabeskirche-und-loest-welle-der-empoerung-aus.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-kuba-oel-blockade-usa-russland",
-              "slug": "kuba-oel-blockade-usa-russland",
-              "title": "USA entspannen Kuba-Ölblockade: Russischer Tanker mit 730'000 Fass darf passieren",
-              "date": "2026-03-30",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🛢️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/4cbd22f4-0eae-48d4-b05d-21d1f9991cee_w520_r2.08_fpx40.67_fpy55.01.jpg",
-              "kurz": "Trump erlaubt dem russischen Tanker Anatoly Kolodkin mit 730'000 Fass Rohöl, Kuba anzulaufen. Die de-facto-Ölblockade wird damit vorübergehend gelockert – die Gründe bleiben unklar.",
-              "summary": "Die USA haben offenbar grünes Licht gegeben, damit ein russischer Öltanker trotz bestehender Blockade Kuba anlaufen kann. Trump signalisierte gegenüber Medien persönlich Flexibilität. Kuba steckt in seiner schlimmsten Energiekrise seit dem Zusammenbruch der Sowjetunion: drei Monate ohne Ölimporte, landesweite Stromausfälle, Benzinrationierung. Geopolitisch bleibt entscheidend, dass Raúl Castro – trotz fehlender offizieller Ämter – im Hintergrund die Fäden zieht und jede Annäherung an die USA mitbestimmen dürfte.",
-              "gegenstimme": "Israel kritische Stimmen: Die Lockerung könnte als Schwäche Washingtons gelesen werden. Experten wie Jorge Pinon (Univ. Texas) betonen, ein einmaliger Tankerfüllstand reiche nur für rund 12 Tage Dieselbedarf – strukturell ändere sich nichts. Trumps Politik gegenüber Kuba bleibt widersprüchlich: Drohungen und Flexibilität wechseln sich ohne erkennbare Strategie ab.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/us-news/2026/mar/29/us-russian-oil-tanker-cuba-blockade"
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-golfstaaten-melden-angriffe-oeltanker-vor-dubai-beschossen"
                 },
                 {
                   "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/kuba-usa-laesst-offenbar-russischen-oeltanker-durch-blockade-a-2f830e67-cf12-4d1b-840e-2649f5c47252"
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-trump-moechte-irankrieg-offenbar-beenden-auch-wenn-strasse-von-hormus-noch-blockiert-ist-a-f1df0f24-9734-4bc2-b88c-caa4761ed54d"
                 },
                 {
                   "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/ohne-ihn-ist-ein-deal-mit-den-usa-unwahrscheinlich-raul-castro-bleibt-die-graue-eminenz-in-kuba-ld.1930662"
+                  "url": "https://www.nzz.ch/international/vier-wochen-krieg-gegen-iran-was-haben-die-usa-und-israel-erreicht-ld.1930709"
                 }
               ]
             },
             {
-              "id": "2026-03-30-ungarn-wahl-orban-april",
-              "slug": "ungarn-wahl-orban-april",
-              "title": "Ungarn wählt am 12. April: Erstmals seit 16 Jahren könnte Orbán verlieren",
-              "date": "2026-03-30",
-              "time": "06:00",
+              "id": "2026-03-31-israel-todesstrafe-palaestinenser",
+              "slug": "israel-todesstrafe-palaestinenser",
+              "title": "Israel führt Todesstrafe ein – faktisch nur für Palästinenser",
+              "date": "2026-03-31",
+              "time": "07:00",
               "category": "international",
-              "icon": "🗳️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/9ff7f5f3-7739-4623-bad5-7296afa9e2ed_w520_r2.08_fpx38.67_fpy49.99.jpg",
-              "kurz": "Am 12. April wählt Ungarn — die pro-europäische Tisza-Partei von Peter Magyar liegt laut Umfragen rund 11 Punkte vor Orbáns Fidesz. Es wäre Orbáns erste Niederlage nach 16 Jahren Macht.",
-              "summary": "Ungarn wählt am 12. April ein neues Parlament. Zum ersten Mal seit Orbáns Machtübernahme 2010 liegt die Opposition in Umfragen deutlich vorn: Die Tisza-Partei von Herausforderer Péter Magyar führt mit rund 11 Prozentpunkten vor Fidesz. Magyar, ehemaliger Regierungsbeamter und Fidesz-Aussteiger, tourte durch alle 106 Wahlbezirke. Orbáns Regime hat aber das Wahlrecht und die Wahlkreise zu seinen Gunsten verändert — Magyar braucht einen Vorsprung von mindestens 5 Punkten, nur um eine Parlamentsmehrheit zu erzielen.",
-              "gegenstimme": "Orbán hat das Mediensystem, die Justiz und die Wahlkreiseinteilung seit Jahren systematisch auf seine Partei ausgerichtet. Internationale Wahlbeobachter und die EU-Kommission haben wiederholte Verstösse gegen rechtsstaatliche Standards dokumentiert. Selbst bei einem Wahlsieg Magyars bleibt unklar, ob ein Regierungswechsel reibungslos möglich wäre — oder ob Orbáns Netzwerk eine Machtübergabe blockieren kann.",
-              "sources": [
-                {
-                  "name": "Spiegel – Wahlkampf in Ungarn",
-                  "url": "https://www.spiegel.de/ausland/ungarn-viktor-orban-kaempft-um-die-wiederwahl-die-opposition-liegt-in-umfragen-vorn-a-32743154-3f02-4193-9d82-2b5c093a82f6"
-                },
-                {
-                  "name": "Tagesschau – Ungarn vor der Wahl",
-                  "url": "https://www.tagesschau.de/ausland/europa/orban-ungarn-wahl-2026-100.html"
-                },
-                {
-                  "name": "Wikipedia – Parlamentswahl Ungarn 2026",
-                  "url": "https://de.wikipedia.org/wiki/Parlamentswahl_in_Ungarn_2026"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-schweiz-botschafter-iran-kuehlschrank",
-              "slug": "schweiz-botschafter-iran-kuehlschrank",
-              "title": "Schweizer Botschafter in Teheran verärgert Iran mit Kühlschrank-Kommentar",
-              "date": "2026-03-30",
-              "time": "06:00",
-              "category": "schweiz",
-              "icon": "🍷",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/29/7e9bd63c-6646-4fa1-a16f-f145b453340a.png",
-              "kurz": "Schweizer Botschafter Olivier Bangerter erwähnte an einer Medienkonferenz in Bern, dass in der Schweizer Residenz in Teheran ein Kühlschrank voller Alkohol stehe. Die iranische Botschaft reagierte empört.",
-              "summary": "An einer Medienkonferenz am 19. März in Bern schilderte Botschafter Olivier Bangerter die Evakuierung seiner Botschaft aus Teheran. Dabei erwähnte er beiläufig, dass in der Schweizer Residenz Alkohol gelagert sei — was im Iran strikt verboten ist. Die iranische Botschaft in Bern kritisierte die Aussage scharf und verwies auf die Wiener Diplomatenkonvention. Das EDA stellte sich hinter Bangerter und erklärte, er habe im Einklang mit den internationalen Verpflichtungen gehandelt. Der Botschafter befindet sich derzeit aus Sicherheitsgründen in der Schweiz.",
-              "gegenstimme": "Die iranische Botschaft hat nicht Unrecht, wenn sie auf die Sensibilität des Themas hinweist: Selbst wenn Diplomaten kraft ihrer Immunität nicht nach Gastlandrecht verfolgt werden können, ist öffentliches Sprechen über illegal gelagertes Alkohol in einem islamischen Staat diplomatisch unklug. Kritiker sehen darin ein Eigentor, das die ohnehin angespannten Beziehungen zwischen der Schweiz und Iran unnötig belastet.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/olivier-bangerter-schweizer-botschafter-verraet-kuehlschrank-inhalt-iran-empoert-103536443"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-schweiz-zolldeal-usa-frist-supreme-court",
-              "slug": "schweiz-zolldeal-usa-frist-supreme-court",
-              "title": "Zollverhandlungen Schweiz-USA: Supreme-Court-Urteil macht Frist hinfällig",
-              "date": "2026-03-30",
-              "time": "06:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "morning",
-              "image": "https://www.srf.ch/static/cms/images//320ws/053cf10.webp",
-              "kurz": "Bundespräsident Parmelin erklärt die Frist vom 31. März für ein Zollabkommen mit den USA als faktisch hinfällig. Grund ist ein Urteil des US-Supreme-Courts, das zentrale Teile von Trumps Zollpolitik als rechtswidrig einstuft.",
-              "summary": "Der US-Supreme-Court hat einen Teil der länderspezifischen Zölle Trumps für verfassungswidrig erklärt, da Trump seine Befugnisse überschritten habe. Bundespräsident Guy Parmelin bestätigte am Rande der SVP-Delegiertenversammlung, dass die ursprüngliche Frist vom 31. März für eine verbindliche Einigung mit den USA dadurch faktisch ungültig geworden sei. Die Verhandlungen werden jedoch fortgesetzt — Parmelin sieht keinen Grund, bis Juli zuzuwarten. Trump hat inzwischen eine neue Rechtsgrundlage für pauschale Zusatzzölle von 10 Prozent eingeführt, die bis Ende Juli gelten sollen.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass die Schweiz durch die Verzögerung in einer schwachen Verhandlungsposition bleibt: Ohne verbindlichen Vertrag bleiben die im November vereinbarten 15 Prozent eine blosse Absichtserklärung — und Trump könnte die Rahmenbedingungen jederzeit erneut ändern. Die Zusatzzölle von 10 Prozent kommen obendrauf und treffen die Schweizer Exportwirtschaft spürbar.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/nach-supreme-court-urteil-parmelin-frist-fuer-zoll-deal-mit-usa-hinfaellig"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/guy-parmelin-zollverhandlungen-frist-vom-31-maerz-ist-nicht-mehr-gueltig-103536036"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-bern-kantonswahlen-endresultat-svp",
-              "slug": "bern-kantonswahlen-endresultat-svp",
-              "title": "Berner Kantonswahlen final: SVP triumphiert mit +7 Sitzen",
-              "date": "2026-03-30",
-              "time": "06:00",
-              "category": "regional",
-              "icon": "🏛️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/FVn_FnIkKEeAkHKLzWH3ad.jpg",
-              "kurz": "Die SVP gewinnt bei den Berner Grossratswahlen 2026 sieben Sitze hinzu und stellt neu 51 der 160 Parlamentsmitglieder. Im Regierungsrat bleibt die Zusammensetzung stabil.",
-              "summary": "Die SVP ist die grosse Siegerin der Berner Kantonswahlen vom 29. März 2026: Sie legt sieben Sitze zu und hält nun 51 Sitze im 160-köpfigen Grossen Rat. Auch SP (+4) und EDU (+2) gehören zu den Gewinnern. Zu den grossen Verlierern zählen EVP (-4), Mitte (-3), Grüne (-2) und GLP (-1). Im Regierungsrat bleibt die Zusammensetzung stabil – die Zauberformel hält. Mit dem knappen Sieg von SP-Kandidat Reto Müller gibt es dennoch eine personelle Überraschung.",
-              "gegenstimme": "Politologe Marc Bühlmann mahnt zur Einordnung: Eine eigentliche Mehrheitsverschiebung, die einem Block die alleinige Entscheidungsmacht gibt, hat es nicht gegeben. Das Berner Parlament bleibt eines der zersplitterteren kantonalen Parlamente. EVP-Kantonalpräsidentin Barbara Stotzer-Wyss kritisiert zudem das Wahlsystem als strukturell ungerecht.",
-              "sources": [
-                {
-                  "name": "Der Bund (Überblick)",
-                  "url": "https://www.derbund.ch/bern-wahlen-regierungsrat-stabil-rechtsrutsch-im-parlament-198363077453"
-                },
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/berner-grossratswahlen-svp-ist-die-grosse-siegerin-mit-plus-sieben-sitzen"
-                },
-                {
-                  "name": "Der Bund (Alle Resultate)",
-                  "url": "https://www.derbund.ch/wahlen-kanton-bern-2026-alle-resultate-im-ueberblick-435697014483"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-iran-finanzfolgen-boersen-energie",
-              "slug": "iran-finanzfolgen-boersen-energie",
-              "title": "Iran-Krieg trifft Märkte: Nikkei -5%, Energie verteuert sich, Wirtschaft in Gefahr",
-              "date": "2026-03-30",
-              "time": "06:00",
-              "category": "wirtschaft",
-              "icon": "📉",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/cdcb0921-64a4-42a3-a3b0-9bcbdfc3a542_w520_r2.08_fpx57.97_fpy44.99.jpg",
-              "kurz": "Der Nikkei verliert am Montag rund 5 Prozent, asiatische Märkte brechen ein. Energiepreise explodieren — Sprit über 2 Euro, Heizöl +50%. Fitch warnt vor globalem Konjunkturrisiko.",
-              "summary": "Der japanische Leitindex Nikkei sackte am Montag um bis zu 5,3 Prozent ab, der südkoreanische Kospi verlor fast 4 Prozent. Auch der Dow Jones und Nasdaq schlossen am Freitag schwächer. Ökonomen und Ratingagenturen haben ihre Konjunkturprognosen nach unten korrigiert. Der Benzinpreis liegt über 2 Euro, Heizöl ist 50 Prozent teurer als vor Kriegsbeginn. Besonders verwundbar sind Länder mit hoher Energieimportabhängigkeit.",
-              "gegenstimme": "Einige Analysten warnen vor übertriebener Panik: Die Märkte seien zwar unter Druck, aber eine globale Rezession setze eine anhaltende Blockade der Strasse von Hormus über Monate voraus. Erste Signale zu Verhandlungen und die temporäre Durchfahrtgenehmigung für 20 Tanker könnten die Lage stabilisieren.",
-              "sources": [
-                {
-                  "name": "Handelsblatt – Nikkei",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-in-asien-nikkei-rutscht-zum-wochenauftakt-rund-fuenf-prozent-ins-minus/100212959.html"
-                },
-                {
-                  "name": "Handelsblatt – Weltkonjunktur",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/iran-krieg-aktienmaerkte-drohen-zum-risiko-fuer-die-weltkonjunktur-zu-werden/100212390.html"
-                },
-                {
-                  "name": "Spiegel – Finanzen",
-                  "url": "https://www.spiegel.de/wirtschaft/service/was-der-iran-krieg-fuer-ihre-finanzen-bedeutet-a-eb1d30c5-3e30-4147-8014-1699fa8e4fe5"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-anthropic-trump-blacklisting-gericht",
-              "slug": "anthropic-trump-blacklisting-gericht",
-              "title": "US-Gericht blockiert Trumps Versuch, Anthropic auf schwarze Liste zu setzen",
-              "date": "2026-03-30",
-              "time": "06:00",
-              "category": "tech",
               "icon": "⚖️",
               "edition": "morning",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2267370596-1024x648.jpg",
-              "kurz": "Ein US-Bundesgericht hat eine einstweilige Verfügung gegen das Blacklisting von Anthropic erlassen – Richterin Rita Lin nennt das Vorgehen von Trump und Hegseth 'klassische illegale Vergeltung nach dem Ersten Zusatzartikel'.",
-              "summary": "US-Bundesrichterin Rita Lin hat dem KI-Unternehmen Anthropic eine einstweilige Verfügung gegen die Blacklist-Anordnung des Verteidigungsministeriums gewährt. Das Gericht stellte fest, dass Verteidigungsminister Pete Hegseth und Präsident Trump keine rechtliche Grundlage hatten, Anthropic als Supply-Chain-Risiko einzustufen. Der eigentliche Grund war, dass Anthropic sich geweigert hatte, Claude für Massenüberwachung und autonome Kriegsführung freizugeben – und dies öffentlich kommunizierte. Drei Handelsverträge wurden bereits gecancelt, potenzielle Verluste von Milliarden über fünf Jahre stehen im Raum.",
-              "gegenstimme": "Das Verteidigungsministerium hält an seiner Position fest: Under Secretary Emil Michael bezeichnete das Urteil als 'Schande' und behauptet, der Richter habe den Einfluss auf die Militäroperationen nicht vollständig berücksichtigt. Die Regierung hat eine 7-tägige Verwaltungspause erwirkt und prüft eine Notbeschwerde beim Berufungsgericht. Kritiker fragen auch, ob ein privates Unternehmen tatsächlich bestimmen darf, für welche militärischen Zwecke seine Modelle eingesetzt werden dürfen.",
+              "image": "https://cdn.unitycms.io/images/1BE7ezQVaxABbY6qKQ-mCD.jpg",
+              "kurz": "Die Knesset hat mit 62 zu 48 Stimmen ein Gesetz verabschiedet, das die Todesstrafe für Terroranschläge einführt. Formulierung und Anwendungsbereich machen sie faktisch nur für Palästinenser anwendbar.",
+              "summary": "Das israelische Parlament hat am Montag ein Gesetz verabschiedet, das die Todesstrafe für tödliche Terroranschläge einführt. Aufgehängt wird sie für Westbank-Palästinenser in israelischen Militärgerichten als Standardstrafe. Die Formulierung – Anschläge mit dem Ziel, 'das Existenzrecht Israels zu verneinen' – macht es praktisch unmöglich, einen jüdischen Extremisten zu verurteilen. Die EU, Grossbritannien, Frankreich, Deutschland und Italien äusserten 'tiefe Beunruhigung'. Israels Bürgerrechtsorganisation hat bereits beim Obersten Gericht Beschwerde eingereicht.",
+              "gegenstimme": "Befürworter des Gesetzes, darunter Sicherheitsminister Itamar Ben-Gvir, argumentieren, dass inhaftierte Terroristen in der Vergangenheit im Rahmen von Gefangenenaustauschen freigelassen wurden und anschliessend erneut töteten – wie am 7. Oktober 2023. Aus dieser Sicht soll das Gesetz einen dauerhaften Abschreckungseffekt erzeugen und den Kreislauf von Verhaftung, Freilassung und erneutem Terror durchbrechen.",
               "sources": [
                 {
-                  "name": "Ars Technica – Gericht blockiert Blacklisting",
-                  "url": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-ki-speicher-rammageddon-sk-hynix",
-              "slug": "ki-speicher-rammageddon-sk-hynix",
-              "title": "KI-Boom treibt Speicherpreise: SK Hynix plant $10-14 Mrd.-IPO, Autoindustrie unter Druck",
-              "date": "2026-03-30",
-              "time": "06:00",
-              "category": "tech",
-              "icon": "💾",
-              "edition": "morning",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/codex-plugins-1152x648.jpg",
-              "kurz": "Der KI-Boom leert den globalen Speichermarkt – SK Hynix plant ein milliardenschweres US-Börsendebit, während die Autoindustrie unter steigenden Chip-Kosten ächzt.",
-              "summary": "SK Hynix, der südkoreanische Speicherchip-Riese, hat vertraulich einen Börsenprospekt (Form F-1) in den USA eingereicht und plant einen IPO in der zweiten Jahreshälfte 2026 im Volumen von 10 bis 14 Milliarden Dollar. Treiber ist der explodierende Bedarf an High-Bandwidth-Memory (HBM) für KI-Systeme. Gleichzeitig spürt die Automobilindustrie die Folgen: Ein gut ausgestattetes Fahrzeug wird laut Gartner-Analyst Pedro Pacheco in diesem Jahr rund 150 Dollar teurer – in der Summe über eine Milliarde Dollar Mehrkosten für grosse Konzerne. Ab dem zweiten Quartal 2026 werden erste Lieferengpässe erwartet.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass ein US-Börsengang SK Hynix zwar höhere Bewertungsmultiplikatoren bringen könnte, das fundamentale Angebotsproblem aber nicht löst. Google arbeitet mit Algorithmen wie TurboQuant an Speicherkompression – ein Zeichen, dass die Industrie auch softwareseitig nach Auswegen sucht, statt allein auf mehr Produktion zu setzen. Zudem bleibt offen, ob ein US-Listing tatsächlich zu mehr Investitionskapital führt oder lediglich den Unternehmenswertzuwachs für bestehende Aktionäre optimiert.",
-              "sources": [
-                {
-                  "name": "TechCrunch – SK Hynix IPO",
-                  "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/"
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/nahost/israels-gesetz-fuer-todesstrafe-todesstrafe-faktisch-nur-fuer-palaestinenser"
                 },
-                {
-                  "name": "Handelsblatt – KI treibt Kosten bei Autobauern",
-                  "url": "https://www.handelsblatt.com/technik/it-internet/ki-teurer-arbeitsspeicher-treibt-die-kosten-bei-autobauern/100208869.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-openai-sora-shutdown",
-              "slug": "openai-sora-shutdown",
-              "title": "OpenAI stellt KI-Videotool Sora nach nur 6 Monaten ein",
-              "date": "2026-03-30",
-              "time": "06:00",
-              "category": "tech",
-              "icon": "🤖",
-              "edition": "morning",
-              "image": "https://techcrunch.com/wp-content/uploads/2026/03/sora-shutdown.jpg",
-              "kurz": "OpenAI beerdigt seinen KI-Videogenerator Sora – nur sechs Monate nach dem Launch. Das Tool verbrannte täglich eine Million Dollar, während die Nutzerzahlen kollabierten.",
-              "summary": "OpenAI hat Sora, seinen KI-gestützten Videogenerator, sechs Monate nach dem öffentlichen Launch wieder eingestellt. Laut einem WSJ-Bericht war das Tool ein finanzielles Desaster: Die Nutzerzahlen brachen von rund einer Million auf unter 500'000 ein, während die Betriebskosten bei etwa einer Million Dollar täglich lagen. CEO Sam Altman entschied, die Rechenkapazitäten freizugeben und OpenAI auf Enterprise- und Entwicklerprodukte auszurichten. Ein bereits vereinbarter Milliarden-Deal mit Disney fiel dabei ebenfalls weg.",
-              "gegenstimme": "Einzelne Analysten loben die Entscheidung als unternehmerische Reife: Ein KI-Labor, das unprofitable Produkte ohne ideologische Verbissenheit einstellt, zeigt Handlungsfähigkeit. Andere sehen darin einen Beleg dafür, dass der Hype um KI-Videotools übertrieben war – und mahnen, dass der Sektor insgesamt noch weit davon entfernt ist, Hollywood zu ersetzen. Die Milliardenabschreibung wirft auch Fragen zur Due-Diligence-Praxis von Grosspartnern wie Disney auf.",
-              "sources": [
-                {
-                  "name": "TechCrunch – Why OpenAI shut down Sora",
-                  "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/"
-                },
-                {
-                  "name": "TechCrunch – Soras shutdown reality check",
-                  "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-03-30-iran-oel-116-trump-kharg-droht",
-              "slug": "iran-oel-116-trump-kharg-droht",
-              "title": "Ölpreis auf $116: Trump droht mit Zerstörung von Kharg Island",
-              "date": "2026-03-30",
-              "time": "17:00",
-              "category": "international",
-              "icon": "💥",
-              "edition": "evening",
-              "image": "https://i.guim.co.uk/img/media/323aac17ff1a48994b0fa3d5c4152310c0f56934/422_21_4086_3271/master/4086.jpg?width=700&quality=85&auto=format&fit=max",
-              "kurz": "Der Brent-Rohölpreis ist am Montag auf fast $117 pro Barrel gestiegen, nachdem Trump auf Truth Social damit drohte, Irans Ölinfrastruktur und die Exportinsel Kharg Island zu zerstören.",
-              "summary": "Trump hat angekündigt, iranische Stromkraftwerke, Ölquellen und Kharg Island zu 'sprengen und vollständig zu vernichten', wenn kein Deal zustande komme. Der Ölpreis reagierte mit einem Sprung auf $116.89 und liegt damit auf dem höchsten Stand seit Juni 2022. Der Brent-Preis steht im März bisher 54% im Plus – die grösste monatliche Steigerung aller Zeiten. Analysten warnen, dass Preise über $130 eine globale Rezession auslösen könnten.",
-              "gegenstimme": "Ein US-Militärsprecher betonte, die Armee erfülle ihre Ziele im Rahmen von 'Operation Epic Fury' und brauche keine Hilfe von aussen. Kritiker innerhalb der USA – auch Teile von Trumps eigener Basis – warnen vor einem Bodeneinsatz und erinnern an frühere Fehlkalkulationen in der Region. Der Iran seinerseits hat einen Angriff auf Kharg als 'Kriegserklärung' bezeichnet und will mit Drohnen und Raketen reagieren.",
-              "sources": [
                 {
                   "name": "The Guardian",
-                  "url": "https://www.theguardian.com/business/2026/mar/30/price-of-oil-trump-iran-stock-markets-middle-east"
+                  "url": "https://www.theguardian.com/world/2026/mar/30/israel-passes-law-death-penalty-palestinian-convicted-terrorists"
                 },
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c937gd1vq7xo"
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo"
                 }
               ]
             },
             {
-              "id": "2026-03-30-spanien-luftraum-us-militaer-gesperrt",
-              "slug": "spanien-luftraum-us-militaer-gesperrt",
-              "title": "Spanien sperrt Luftraum für US-Militärflugzeuge im Iran-Krieg",
-              "date": "2026-03-30",
-              "time": "17:00",
+              "id": "2026-03-31-merz-syrien-heimkehr",
+              "slug": "merz-syrien-heimkehr",
+              "title": "Merz und al-Sharaa: 80% der Syrer sollen zurückkehren",
+              "date": "2026-03-31",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🇸🇾",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/a8e8a1b2-7c86-44dc-8cea-1da045253a71_w520_r2.08_fpx47_fpy54.jpg",
+              "kurz": "Deutschlands Bundeskanzler Merz empfängt Syriens Übergangspräsidenten al-Sharaa in Berlin und formuliert ein konkretes Rückführungsziel: 80 Prozent der syrischen Flüchtlinge in drei Jahren.",
+              "summary": "Der syrische Übergangspräsident Ahmed al-Sharaa besuchte am 30. März Berlin und traf Bundespräsident Steinmeier sowie Bundeskanzler Friedrich Merz. Merz stellte die Rückführungsfrage ins Zentrum und nannte ein Ziel: 80 Prozent der in Deutschland lebenden Syrer sollen binnen drei Jahren nach Syrien zurückkehren. Aussenminister Wadephul sicherte Unterstützung beim Wiederaufbau zu. Der Besuch verlief nicht unumstritten – mehrere Tausend Menschen demonstrierten in Berlin.",
+              "gegenstimme": "Menschenrechtsorganisationen und Teile der Opposition bezweifeln, dass Syrien unter al-Sharaa – einem ehemaligen Dschihadistenführer – bereits ein sicheres Rückkehrland ist. Die Frage, ob 80 Prozent realistisch sind, wird von Experten skeptisch beurteilt: Viele Syrer haben sich in Deutschland aufgebaut und wollen nicht zurück.",
+              "sources": [
+                {
+                  "name": "Spiegel – Merz empfängt al-Sharaa",
+                  "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-empfaengt-ahmed-al-sharaa-heimkehr-von-80-prozent-der-syrer-geht-das-a-64a59282-df20-4352-885e-c4caa28f7e48"
+                },
+                {
+                  "name": "Spiegel – al-Sharaa bei Steinmeier",
+                  "url": "https://www.spiegel.de/politik/deutschland/ahmed-al-sharaa-in-berlin-uebergangspraesident-von-syrien-bei-frank-walter-steinmeier-a-2dd761c8-992b-4fb0-9b94-1ccca56ab1f3"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-pakistan-vermittler-iran",
+              "slug": "pakistan-vermittler-iran",
+              "title": "Pakistan als unerwarteter Vermittler im Iran-Krieg",
+              "date": "2026-03-31",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/8d348175-941e-4293-99d3-0ae5dd383779_w520_r2.08_fpx54.64_fpy49.98.jpg",
+              "kurz": "Islamabad gastiert US-Iran-Gespräche und formiert einen neuen diplomatischen Block mit Ägypten, Saudi-Arabien und der Türkei.",
+              "summary": "Pakistan hat sich als unerwarteter Vermittler im laufenden Krieg zwischen den USA und dem Iran positioniert. Armeechef Field Marshall Asim Munir geniesst das Vertrauen von Präsident Trump. Am 29. März trafen sich die Aussenminister Ägyptens, Pakistans, Saudi-Arabiens und der Türkei in Islamabad – ein erstes Signal für einen neuen diplomatischen Block. Iran stimmte zu, täglich bis zu zwei Schiffe unter pakistanischer Flagge durch die Strasse von Hormuz passieren zu lassen.",
+              "gegenstimme": "Pakistan ist kein neutraler Akteur: Es hat einen Verteidigungspakt mit Saudi-Arabien, liegt im offenen Konflikt mit Afghanistan und hat eine pro-iranische Bevölkerung. Skeptiker warnen, Islamabads Vermittlerrolle könnte auch taktischer Natur sein – eine Atempause für beide Kriegsparteien, bevor die Kämpfe eskalieren.",
+              "sources": [
+                {
+                  "name": "BBC – How Pakistan became an unlikely mediator",
+                  "url": "https://www.bbc.com/news/articles/cy91vrzxn34o"
+                },
+                {
+                  "name": "SRF – Friedensstifter Pakistan?",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-friedensstifter-pakistan-so-will-das-land-im-krieg-vermitteln"
+                },
+                {
+                  "name": "The Guardian – New four-nation bloc",
+                  "url": "https://www.theguardian.com/world/2026/mar/30/egypt-pakistan-saudi-arabia-turkey-talks-embryo-new-order"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-spanien-luftraum-usa",
+              "slug": "spanien-luftraum-usa",
+              "title": "Spanien sperrt Luftraum für US-Militär wegen Iran-Krieg",
+              "date": "2026-03-31",
+              "time": "07:00",
               "category": "international",
               "icon": "✈️",
-              "edition": "evening",
-              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a516/live/5f6b8700-2c34-11f1-b8c9-f5058c0aec9a.jpg",
-              "kurz": "Spanien hat seinen Luftraum für US-Militärflugzeuge gesperrt, die an Angriffen auf den Iran beteiligt sind, und verweigert den USA die Nutzung der Militärbasen Morón und Rota.",
-              "summary": "Spaniens Verteidigungsministerin Margarita Robles bestätigte, dass keine US-Operationen im Zusammenhang mit dem Iran-Krieg über spanisches Staatsgebiet oder von spanischen Basen aus erfolgen dürfen. Premierminister Pedro Sánchez positioniert sich seit Kriegsbeginn Ende Februar als schärfster europäischer Kritiker des US-israelischen Vorgehens. Der Iran dankte Spanien explizit für seine Haltung und signalisierte, spanische Schiffe könnten die Strasse von Hormuz passieren. Die USA reagierten kühl: Man erfülle alle Ziele ohne Spaniens Hilfe.",
-              "gegenstimme": "Ein Sprecher des Weissen Hauses betonte, die US-Streitkräfte erreichten alle Ziele der 'Operation Epic Fury' auch ohne spanische Unterstützung. Kritiker in Spanien sowie einige NATO-Partner sehen das Vorgehen als problematisches Präzedenzfall innerhalb des Bündnisses. Zudem hat Trump zuvor gedroht, ein vollständiges Handelsembargo gegen Spanien zu verhängen, falls Madrid sich weiter querstelle.",
+              "edition": "morning",
+              "image": "https://i.guim.co.uk/img/media/spain-airspace-us-military.jpg",
+              "kurz": "Spanien verweigert US-Militärflugzeugen den Überflug für Iran-Operationen. Aussenminister Rubio deutet eine NATO-Neubewertung durch die USA an.",
+              "summary": "Spanien hat als erstes NATO-Mitglied seinen Luftraum für alle US-Militärflugzeuge gesperrt, die im Zusammenhang mit dem Krieg gegen den Iran operieren. Verteidigungsministerin Margarita Robles bestätigte den Schritt am Montag. US-Aussenminister Marco Rubio kritisierte Spanien scharf und deutete an, die USA könnten nach dem Krieg ihre Mitgliedschaft in der NATO neu bewerten. Die Spannungen zwischen Washington und Madrid haben sich seit Beginn des Iran-Kriegs stetig verschärft.",
+              "gegenstimme": "Spanien erlaubt weiterhin den regulären Betrieb seiner gemeinsam mit den USA genutzten Stützpunkte Rota und Morón gemäss den bilateralen Abkommen. Nicht-kriegsbezogene US-Militärtransporte und Logistikflüge sind von der Sperrung ausgenommen.",
               "sources": [
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cwy368j1e3lo"
+                  "name": "The Guardian – Spain closes airspace",
+                  "url": "https://www.theguardian.com/world/2026/mar/30/spain-closes-airspace-to-us-military-over-iran-war-widening-rift-with-us"
+                },
+                {
+                  "name": "Spiegel – Rubio deutet NATO-Neubewertung an",
+                  "url": "https://www.spiegel.de/ausland/marco-rubio-deutet-neubewertung-der-nato-durch-usa-an-a-f5cb6f70-395f-4813-975c-5db6e368e5e0"
                 }
               ]
             },
             {
-              "id": "2026-03-30-trump-xi-china-mai-iran",
-              "slug": "trump-xi-china-mai-iran",
-              "title": "Trump-Besuch bei Xi Jinping auf Mai verschoben – Iran-Krieg als Grund",
-              "date": "2026-03-30",
-              "time": "17:00",
+              "id": "2026-03-31-ukraine-oster-waffenruhe",
+              "slug": "ukraine-oster-waffenruhe",
+              "title": "Selenski signalisiert Bereitschaft zur Oster-Waffenruhe",
+              "date": "2026-03-31",
+              "time": "07:00",
               "category": "international",
-              "icon": "🤝",
-              "edition": "evening",
-              "image": "https://i.guim.co.uk/img/media/efd33b95527baba22f6ffb7ee17c0214f759dfc4/130_0_1096_877/master/1096.jpg?width=700&quality=85&auto=format&fit=max",
-              "kurz": "Donald Trump hat seine China-Reise, die ursprünglich für Anfang April geplant war, auf den 14. und 15. Mai verschoben – als direktes Resultat des laufenden Iran-Krieges.",
-              "summary": "Trump kündigte via Truth Social an, Xi Jinping am 14. und 15. Mai in Peking zu treffen – das erste Mal seit 2017, dass ein US-Präsident China besucht. Der Trip war bereits einmal verschoben worden wegen der Iran-Operationen. China ist als grösster Ölimporteur der Welt (12 Mio. Barrel täglich) direkt vom Konflikt betroffen, hat aber Trumps Bitte um Unterstützung bei der Hormuz-Frage bisher ignoriert. Neben dem Iran dürften Taiwan, Handelsabkommen und eine mögliche US-Vermittlerrolle auf der Agenda stehen.",
-              "gegenstimme": "China hat offiziell keine Informationen zum Besuch bestätigt und Pekings Haltung zum Iran-Krieg bleibt ambivalent: Als wichtigster Handelspartner Teherans will China eine Eskalation vermeiden, aber auch seine Ölversorgung sichern. Peking hat Trumps Bitte um Unterstützung gegen den Iran klar abgelehnt und beobachtet die US-Militäroperationen mit Skepsis. Einige Analysten bezweifeln, ob Trump tatsächlich an einer Lösung interessiert ist oder China nur als Hebel in anderen Verhandlungen nutzt.",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
+              "kurz": "Der ukrainische Präsident Selenski zeigt sich offen für eine Waffenruhe über Ostern und signalisiert die Bereitschaft, Angriffe auf russische Energieanlagen zu reduzieren – wenn Moskau dasselbe tut.",
+              "summary": "Wolodymyr Selenski hat über Ostern eine Waffenruhe angeboten und erklärt, die Ukraine sei bereit, Angriffe auf die russische Energieinfrastruktur einzustellen – sofern Russland mit gleichem Mass handelt. Hintergrund ist der globale Energiepreisanstieg infolge des Iran-Kriegs, der Verbündete veranlasst hat, Kiew entsprechende Signale zu senden. Laut einem Reuters-Bericht sollen diese Signale ursprünglich von Moskau ausgegangen sein, über amerikanische Kanäle nach Kiew weitergegeben worden sein.",
+              "gegenstimme": "Russlands Position bleibt unklar: Kreml-Sprecher Peskow erklärte, es sei keine neue Mobilmachung geplant – was kaum als Friedenssignal gelten kann. Kritiker in Kiew warnen, dass jede Einschränkung der Angriffe auf russische Energieziele Moskau eine Atempause verschaffe und die russische Kriegswirtschaft entlaste.",
               "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-signalisiert-bereitschaft-zu-oster-waffenruhe"
+                },
                 {
                   "name": "The Guardian",
-                  "url": "https://www.theguardian.com/us-news/2026/mar/26/trump-xi-jinping-china-trip-rescheduled-may"
+                  "url": "https://www.theguardian.com/world/2026/mar/31/ukraine-war-briefing-allies-asked-kyiv-about-reducing-attacks-on-russian-energy-sector-zelenskyy-says"
                 }
               ]
             },
             {
-              "id": "2026-03-30-pilatus-pc24-indonesien-auftrag",
-              "slug": "pilatus-pc24-indonesien-auftrag",
-              "title": "Pilatus gewinnt Grossauftrag: Indonesische Luftwaffe bestellt 12 PC-24-Jets",
-              "date": "2026-03-30",
-              "time": "17:00",
+              "id": "2026-03-31-berner-wahlen-polarisierung",
+              "slug": "berner-wahlen-polarisierung",
+              "title": "Berner Kantonswahlen: SVP legt zu, Mitte erodiert",
+              "date": "2026-03-31",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/CjMWE7b_qjpAkADGmV547G.jpg",
+              "kurz": "Die SVP gewinnt sieben Sitze im Berner Grossrat. Politologen sehen darin ein Vorzeichen für die nationalen Wahlen 2027.",
+              "summary": "Bei den Berner Grossratswahlen vom 29. März 2026 legt die SVP markant zu und gewinnt sieben Sitze hinzu. Auch die SP profitiert mit vier Zusatzsitzen. Die Mitte hingegen verliert drei Mandate. Laut der Politologin Corina Schena von gfs.bern könnte die SVP national 2027 erstmals die 30-Prozent-Marke knacken – mehrheitlich auf Kosten der FDP.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass die Berner Mitte ein Sonderfall ist und kaum direkte Rückschlüsse auf die gesamtschweizerische Lage zulässt. Zudem zeigt die Regierungsratswahl, dass die SVP bei Exekutivwahlen nach wie vor an Grenzen stösst.",
+              "sources": [
+                {
+                  "name": "20 Minuten – SVP vor Rekord",
+                  "url": "https://www.20min.ch/story/svp-auf-erfolgskurs-was-das-berner-ergebnis-ueber-die-nationalen-wahlen-2027-verraet-103537184"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-pilatus-indonesien-pc24",
+              "slug": "pilatus-indonesien-pc24",
+              "title": "Pilatus gewinnt Grossauftrag: 12 PC-24 für Indonesiens Luftwaffe",
+              "date": "2026-03-31",
+              "time": "07:00",
               "category": "schweiz",
               "icon": "✈️",
-              "edition": "evening",
+              "edition": "morning",
               "image": "https://image.20min.ch/2026/03/30/0709f377-4268-4198-8760-9ccd725eb3af.jpg",
-              "kurz": "Der Schweizer Flugzeughersteller Pilatus Aircraft aus Stans liefert zwölf PC-24-Jets an die indonesische Luftwaffe – ein strategisch bedeutsamer Auftrag in Südostasien.",
-              "summary": "Pilatus Aircraft hat einen Grossauftrag aus Indonesien erhalten: Das Verteidigungsministerium bestellt zwölf Exemplare des PC-24, eines vielseitigen Business- und Militärjets. Die Maschinen sollen für Pilotenausbildung und Transportmissionen eingesetzt werden. Neben den Jets umfasst der Vertrag Ausrüstung, Ersatzteile, Trainingsprogramme und technischen Support direkt aus Stans. Zusätzlich wurde eine Absichtserklärung für 24 PC-21-Trainingsflugzeuge unterzeichnet.",
-              "gegenstimme": "Kritische Stimmen aus dem Umfeld der Rüstungsexport-Debatte dürften den Deal mit Argwohn betrachten: Indonesien ist kein Konfliktgebiet, aber militärische Exporte in Schwellenländer stehen in der Schweiz grundsätzlich unter politischem Vorbehalt. Zudem stellt sich die Frage, ob ein 'Super Versatile Jet' mit Militärnutzung strengeren Exportregeln unterliegen sollte als ein ziviles Flugzeug.",
+              "kurz": "Pilatus Aircraft aus Stans sichert sich einen bedeutenden Rüstungsexport: 12 PC-24-Jets gehen an Indonesiens Luftwaffe, dazu eine Absichtserklärung für 24 weitere Trainingsflugzeuge.",
+              "summary": "Der Schweizer Flugzeughersteller Pilatus Aircraft hat am 30. März 2026 bekanntgegeben, dass Indonesiens Verteidigungsministerium zwölf PC-24-Jets bestellt hat. Das Abkommen umfasst neben den Flugzeugen auch Ausrüstung, Ersatzteile, Trainingsprogramme und technischen Support. Zusätzlich wurde eine Absichtserklärung für 24 Trainingsflugzeuge des Typs PC-21 unterzeichnet. Für Pilatus markiert der Deal einen wichtigen Schritt in den wachsenden südostasiatischen Markt.",
+              "gegenstimme": "Exportkritiker weisen darauf hin, dass Schweizer Rüstungsexporte in Schwellenländer politisch heikel sind – auch wenn der PC-24 primär für Ausbildung und Transport eingesetzt wird. Die Schweizer Kriegsmaterialgesetzgebung setzt enge Grenzen, und jeder Export in ein Land mit instabiler Sicherheitslage bedarf einer sorgfältigen Prüfung.",
               "sources": [
                 {
                   "name": "20 Minuten",
                   "url": "https://www.20min.ch/story/flugzeugbauer-zwoelf-pc-24-pilatus-angelt-sich-grossen-auftrag-in-indonesien-103537392"
                 },
                 {
-                  "name": "cash.ch (AWP)",
-                  "url": "https://www.cash.ch/news/pilatus-indonesische-luftwaffe-bestellt-zwolf-pc-24-flugzeuge-923795"
-                }
-              ]
-            },
-            {
-              "id": "2026-03-30-schweiz-wirtschaft-iran-krieg-keine-rezession",
-              "slug": "schweiz-wirtschaft-iran-krieg-keine-rezession",
-              "title": "Schweizer Wirtschaft: Iran-Krieg bremst Konjunktur – aber keine Rezession",
-              "date": "2026-03-30",
-              "time": "17:00",
-              "category": "schweiz",
-              "icon": "📊",
-              "edition": "evening",
-              "image": "https://img.nzz.ch/2026/03/30/d5170d56-76f5-4b3f-9811-f56fe1ec2cfb.jpg",
-              "kurz": "Das KOF-Konjunkturbarometer ist im März deutlich gesunken – der Iran-Krieg trübt die Schweizer Wirtschaftsaussichten, eine Rezession droht aber laut Experten nicht.",
-              "summary": "Der Iran-Krieg, der Ende Februar ausbrach, hinterlässt erste Spuren in der Schweizer Wirtschaft. Das KOF-Barometer fiel von 103,8 auf 96,1 Punkte – unter den mittelfristigen Durchschnitt. Das Seco erwartet im pessimistischen Szenario ein BIP-Wachstum von 0,8 Prozent für 2026, die Inflation soll moderat bei rund 1 Prozent bleiben. Entscheidend wird die Dauer des Konflikts und wie lange der Erdölpreis über 100 Dollar verbleibt.",
-              "gegenstimme": "Kritische Stimmen weisen darauf hin, dass die Unsicherheit erheblich bleibt: Niemand weiss, wann der Krieg endet. Der Vergleich mit dem Ukraine-Krieg 2022 zeigt, dass prolongierte Konflikte die Wirtschaft über Monate hinweg belasten können – mit Folgen, die sich kurzfristig kaum abschätzen lassen.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/der-iran-krieg-wirft-die-schweizer-wirtschaft-zurueck-dennoch-droht-wohl-keine-rezession-ld.1931624"
+                  "name": "SWI swissinfo.ch",
+                  "url": "https://www.swissinfo.ch/ger/pilatus-verkauft-zw%c3%b6lf-pc-24-an-indonesische-luftwaffe/91183865"
                 },
                 {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/oelpreis-ueber-100-dollar-droht-der-schweiz-eine-rezession-821781113443"
+                  "name": "Pilatus Aircraft",
+                  "url": "https://www.pilatus-aircraft.com/de/news/pc-24-indonesia"
                 }
               ]
             },
             {
-              "id": "2026-03-30-twint-staat-uebernahme-gebuehren",
-              "slug": "twint-staat-uebernahme-gebuehren",
-              "title": "Twint: Schweizer Parlament diskutiert Verstaatlichung wegen hoher Gebühren",
-              "date": "2026-03-30",
-              "time": "17:00",
+              "id": "2026-03-31-twint-verstaatlichung-debatte",
+              "slug": "twint-verstaatlichung-debatte",
+              "title": "Twint-Gebühren: Soll der Staat den Bezahldienst übernehmen?",
+              "date": "2026-03-31",
+              "time": "07:00",
               "category": "schweiz",
-              "icon": "📱",
-              "edition": "evening",
-              "image": "https://image.20min.ch/2026/03/30/e6ea6775-6e11-4913-823d-49866eb7f8e4.jpg",
-              "kurz": "SP-Ständerat Carlo Sommaruga hat eine Motion eingereicht, die den Bundesrat beauftragen soll, eine Strategie zur Überführung von Twint in staatliche Hand auszuarbeiten.",
-              "summary": "Twint, der meistgenutzte Bezahldienst der Schweiz mit über sechs Millionen Nutzern, steht im Zentrum einer politischen Debatte über Verstaatlichung. SP-Ständerat Carlo Sommaruga sieht den elektronischen Zahlungsverkehr als öffentliche Dienstleistung und fordert eine staatliche Lösung nach brasilianischem Vorbild. Kleinere Detaillisten beklagen hohe Gebühren und ungleiche Konditionen gegenüber Grossverteilern. Mitte-Nationalrat Vincent Maitre lehnt eine Verstaatlichung ab und plädiert stattdessen für eine Gebührenobergrenze.",
-              "gegenstimme": "Mitte-Nationalrat Vincent Maitre bezeichnet den Verstaatlichungsvorschlag als 'ziemlich bolschewistisch' und warnt: Eine Dienstleistung wie Twint könne nicht kostenlos sein – am Ende bezahle immer jemand, entweder die Nutzer oder die Steuerzahler. Er bevorzugt gezielte Gebührenobergrenzen statt staatlicher Übernahme.",
+              "icon": "💳",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/02/17/e6ea6775-6e11-4913-823d-49866eb7f8e4.jpg",
+              "kurz": "SP-Ständerat Carlo Sommaruga fordert die Verstaatlichung von Twint. Hintergrund sind steigende Händlergebühren und die marktbeherrschende Stellung der App bei über 6 Millionen Nutzerinnen und Nutzern.",
+              "summary": "Twint verarbeitet über 900 Millionen Transaktionen pro Jahr und ist bei fast allen Schweizerinnen und Schweizern bekannt. Der Genfer SP-Ständerat Carlo Sommaruga hat eine Motion eingereicht, die den Bundesrat beauftragt, eine Strategie zur Überführung des Bezahldienstes in staatliche Hand zu erarbeiten. Inspiration ist das brasilianische System Pix, das von der Zentralbank betrieben wird. Gegner im Bundeshaus sehen darin staatliche Übergriffigkeit.",
+              "gegenstimme": "Mitte-Nationalrat Vincent Maitre bezeichnet den Vorstoss als 'ziemlich bolschewistisch'. Er argumentiert, dass Twint nicht kostenlos betrieben werden könne – am Ende zahle entweder der Nutzer oder der Steuerzahler. Wirtschaftsliberale Kreise warnen davor, funktionierende Marktmechanismen durch staatliche Eingriffe zu ersetzen.",
               "sources": [
                 {
                   "name": "20 Minuten",
                   "url": "https://www.20min.ch/story/wegen-gebuehren-streit-um-twint-soll-der-staat-den-bezahldienst-uebernehmen-103537314"
+                },
+                {
+                  "name": "CH Media / Aargauer Zeitung",
+                  "url": "https://www.aargauerzeitung.ch/schweiz/twint-sp-staenderat-will-verstaatlichung-ld.4145929"
+                },
+                {
+                  "name": "RTS La Matinale",
+                  "url": "https://www.rts.ch/info/economie/2026/article/twint-gratuite-pour-tous-faut-il-nationaliser-l-application-de-paiement-29197527.html"
                 }
               ]
             },
             {
-              "id": "2026-03-30-bern-gaza-demo-fahndung-unverpixelt",
-              "slug": "bern-gaza-demo-fahndung-unverpixelt",
-              "title": "Berner Gaza-Demo: Polizei fahndet mit unverpixelten Fotos – Rechtsexperten kritisch",
-              "date": "2026-03-30",
-              "time": "17:00",
+              "id": "2026-03-31-aline-trede-berner-regierung",
+              "slug": "aline-trede-berner-regierung",
+              "title": "Aline Trede (Grüne) in Berner Regierungsrat gewählt",
+              "date": "2026-03-31",
+              "time": "07:00",
               "category": "regional",
-              "icon": "📸",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/2ovzU2cKafi9gZKN8TaWZR.jpg",
-              "kurz": "Die Berner Kantonspolizei veröffentlicht unverpixelte Fotos von 31 Tatverdächtigen der pro-palästinensischen Demo vom Oktober 2025. Datenschützer und Rechtsexperten warnen vor Stigmatisierung und rechtlicher Grauzone.",
-              "summary": "Nach den Ausschreitungen an der unbewilligten Pro-Palästina-Demo in Bern vom Oktober 2025 hat die Kantonspolizei Bern am 30. März 2026 unverpixelte Bilder von 31 dringend tatverdächtigen Personen veröffentlicht. Damit greift sie zu einem in der Schweiz ungewöhnlich scharfen Mittel der Öffentlichkeitsfahndung. 101 weitere vermummte Tatverdächtige wurden bereits auf anderem Weg identifiziert und werden in den kommenden Wochen kontaktiert. Bislang konnte eine Person aufgrund der Bildveröffentlichung eindeutig identifiziert werden.",
-              "gegenstimme": "Datenschutzexperten und Rechtsanwälte kritisieren die Veröffentlichung unverpixelter Fotos scharf: Sie sehen darin einen unverhältnismässigen Eingriff in die Persönlichkeitsrechte. Personen, die sich noch nicht vor Gericht verantworten mussten, würden öffentlich als Straftäter stigmatisiert – auch wenn sich im Nachhinein herausstellt, dass sie keine strafbaren Handlungen begangen haben. Zudem bestehe die Gefahr von Selbstjustiz durch aufgeheizte Reaktionen in sozialen Medien.",
+              "icon": "🏛️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/7soJTMZoKNHB-cAigUSgGV.jpg",
+              "kurz": "Drei neue Gesichter im Berner Regierungsrat. Grüne Aline Trede als grosse Siegerin. Die Berner Zauberformel bleibt intact.",
+              "summary": "Bei den Berner Regierungsratswahlen vom 29. März 2026 wurden drei neue Mitglieder gewählt. Grünen-Nationalrätin Aline Trede schaffte den Einzug in die Kantonsregierung. SVP-Kandidat Raphael Lanz erzielte das beste Einzelergebnis aller Kandidierenden. Die bisherige Machtverteilung – zwei SVP, zwei SP, eine Mitte, eine FDP, eine Grüne – blieb unverändert.",
+              "gegenstimme": "Trotz dem bürgerlichen Angriff auf den Rot-Grünen Sitz scheiterte die Rechte: Ein SVP-Dritter Regierungssitz blieb ausser Reichweite. Kritiker der Grünen merken an, dass Tredes Wahl vor allem der persönlichen Bekanntheit zu verdanken ist – und weniger einem Parteiaufschwung.",
+              "sources": [
+                {
+                  "name": "TeleBärn – Drei neue Gesichter im Regierungsrat",
+                  "url": "https://www.telebaern.tv/telebaern-news/drei-neue-gesichter-im-berner-regierungsrat-163825025"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-bern-viererfeld-schulanlage",
+              "slug": "bern-viererfeld-schulanlage",
+              "title": "Bern krönt Millionenprojekt: Schulanlage Viererfeld für 86 Mio. Franken",
+              "date": "2026-03-31",
+              "time": "07:00",
+              "category": "regional",
+              "icon": "🏫",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/6yX9LR22qL99cI9_NKVaAl.jpg",
+              "kurz": "Stadt Bern hat das Siegerprojekt 'ZUR LINDE' für die neue Schulanlage Viererfeld gekürt. Investitionsvolumen: 70 bis 86 Millionen Franken, Inbetriebnahme ab Schuljahr 2031/2032.",
+              "summary": "Im neuen Stadtquartier Viererfeld/Mittelfeld, das rund 3'000 neue Bewohnerinnen und Bewohner beherbergen wird, entsteht eine vollständige Schulanlage. Das Siegerprojekt 'ZUR LINDE' umfasst ein viergeschossiges Schulhaus für 14 Klassen, eine Dreifachturnhalle, ein Kunstrasenfeld sowie eine Tiefgarage. Die Investitionskosten belaufen sich auf 70 bis 86 Millionen Franken. Das Stadtberner Stimmvolk kann voraussichtlich im Juni 2027 über den Baukredit abstimmen.",
+              "gegenstimme": "Kritiker weisen auf den verzögerten Zeitplan hin: Eine zusätzliche Projektüberarbeitung im Wettbewerbsverfahren hat den ursprünglichen Plan verschoben. Zudem kommen zur Schulanlage noch 21 bis 25 Millionen Franken für Tiefgarage, Zivilschutzplätze und Trafostation hinzu – das Gesamtvolumen ist damit deutlich höher als die kommunizierten Schlagzeilen vermuten lassen.",
               "sources": [
                 {
                   "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/bern-kapo-veroeffentlicht-klarbilder-zu-gaza-kundgebung-807613715246"
+                  "url": "https://www.bernerzeitung.ch/viererfeld-bern-stadt-kuert-siegerprojekt-fuer-schulanlage-682841888966"
                 },
                 {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/pro-palaestina-demo-unverpixelte-bilder-von-berner-demo-hat-es-so-noch-nie-gegeben"
+                  "name": "Stadt Bern – Medienmitteilung",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/volksschule-und-sportanlagen-viererfeld-siegerprojekt-liegt-vor"
                 }
               ]
             },
             {
-              "id": "2026-03-30-mistral-ai-rechenzentrum-paris-830m",
-              "slug": "mistral-ai-rechenzentrum-paris-830m",
-              "title": "Mistral AI sammelt 830 Millionen Dollar für Rechenzentrum bei Paris",
-              "date": "2026-03-30",
-              "time": "17:00",
-              "category": "tech",
-              "icon": "🏗️",
-              "edition": "evening",
-              "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2155469291.jpg",
-              "kurz": "Das französische KI-Unternehmen Mistral AI hat 830 Millionen Dollar als Fremdkapital aufgenommen, um ein neues Rechenzentrum nahe Paris zu bauen. Betrieb soll im zweiten Quartal 2026 aufgenommen werden.",
-              "summary": "Mistral AI finanziert den Bau eines Rechenzentrums in Bruyères-le-Châtel südlich von Paris mit 830 Millionen Dollar Fremdkapital. Die Anlage wird mit Nvidia-Chips ausgestattet. Das Unternehmen will bis 2027 insgesamt 200 Megawatt Rechenkapazität in Europa bereitstellen – darunter auch eine Investition von 1,4 Milliarden Dollar in Schweden. CEO Arthur Mensch betont, Europa müsse in KI-Infrastruktur investieren, um Unabhängigkeit von US-Hyperscalern zu wahren.",
-              "gegenstimme": "Kritiker bezweifeln, ob europäische KI-Unternehmen mit dem Tempo und den Ressourcen amerikanischer Tech-Giganten mithalten können. Die Fremdfinanzierung per Debt-Runde erhöht zudem das finanzielle Risiko, falls die Nachfrage nach Mistral-Diensten nicht schnell genug wächst, um Zinsen und Amortisation zu decken.",
+              "id": "2026-03-31-oel-preis-100-dollar",
+              "slug": "oel-preis-100-dollar",
+              "title": "Ölpreis über 100 Dollar: Weltmärkte unter Schock",
+              "date": "2026-03-31",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "🛢️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/6cdWGaz5q4nBgfwBHn1OuK.jpg",
+              "kurz": "US-Öl notiert erstmals seit Jahren über 100 Dollar pro Barrel. Der Iran-Krieg treibt die Preise – Analysten warnen vor einem weiteren Anstieg um bis zu 50 Prozent.",
+              "summary": "Die Rohölpreise haben sich im März fast verdoppelt: von rund 75 auf über 115 Dollar pro Barrel Brent. WTI (US-Öl) notiert über 102 Dollar. Asiatische Börsen gerieten unter Druck, der Yen wertet ab, der Goldpreis kletterte auf über 4500 Dollar je Unze. Analysten warnen, ein weiterer Anstieg sei möglich – besonders wenn die Huthi auch die Meerenge Bab al-Mandab blockieren sollten. Deutschland meldet einen wirtschaftlichen Schaden von 50 Milliarden Euro.",
+              "gegenstimme": "Einige Marktbeobachter mahnen zur Vorsicht bei Panikszenarien: Ölpreise über 150 Dollar würden auch grosse Ölproduzenten wie Saudi-Arabien zu schneller Eskalationsdeeskalation zwingen. Zudem verfügen westliche Länder über strategische Ölreserven, die kurzfristig stabilisierend wirken könnten.",
               "sources": [
                 {
-                  "name": "TechCrunch",
-                  "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/"
+                  "name": "Handelsblatt Märkte",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-iran-krieg-treibt-oelpreis-weiter-asienmaerkte-unter-druck/100213194.html"
                 },
                 {
-                  "name": "Reuters",
-                  "url": "https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/"
+                  "name": "Handelsblatt Energie",
+                  "url": "https://www.handelsblatt.com/finanzen/devisen-rohstoffe/energiekrise-oelpreis-koennte-noch-einmal-um-fast-50-prozent-steigen/100213037.html"
                 },
                 {
-                  "name": "CNBC",
-                  "url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html"
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/krieg-im-iran-erdoelpreis-koennte-bald-alle-rekorde-sprengen-665270869008"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-sap-reltio-ki-akquisition",
+              "slug": "sap-reltio-ki-akquisition",
+              "title": "SAP übernimmt KI-Spezialisten Reltio – und Uber kauft Blacklane",
+              "date": "2026-03-31",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "",
+              "kurz": "SAP kauft den US-Datenspezialist Reltio, um seine KI-Strategie zu stärken. Parallel übernimmt Uber den Berliner Premiumfahrdienst Blacklane für einen mittleren dreistelligen Millionenbetrag.",
+              "summary": "Der Dax-Konzern SAP übernimmt Reltio, einen auf Master Data Management spezialisierten US-Softwarehersteller, zuletzt mit 1,7 Mrd. Dollar bewertet. Reltios Technologie soll Unternehmensdaten 'KI-bereit' machen und wird in SAPs Business Data Cloud integriert. Ebenfalls am 30. März bekannt wurde die Übernahme von Blacklane durch Uber – der Berliner Premiumfahrdienst war zuletzt mit über 547 Mio. Dollar bewertet.",
+              "gegenstimme": "SAP muss beweisen, dass die Akquisitionsstrategie im KI-Bereich mehr als teure Einkäufe sind – bisher blieb die Integration von Zukäufen oft hinter den Erwartungen zurück. Bei Uber/Blacklane fragen Analysten, ob die kulturellen Unterschiede zwischen einem europäischen Premiumdienst und Ubers aggressiver Wachstumsstrategie überbrückt werden können.",
+              "sources": [
+                {
+                  "name": "Handelsblatt – SAP/Reltio",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/softwarehersteller-sap-uebernimmt-ki-datenspezialisten-reltio/100212412.html"
+                },
+                {
+                  "name": "Handelsblatt – Uber/Blacklane",
+                  "url": "https://www.handelsblatt.com/unternehmen/start-ups/start-up-uber-kauft-premiumfahrdienst-blacklane/100213000.html"
+                },
+                {
+                  "name": "Skift – Uber/Blacklane",
+                  "url": "https://skift.com/2026/03/30/uber-to-buy-blacklane-in-push-to-accelerate-premium-services/"
+                },
+                {
+                  "name": "WirtschaftsWoche",
+                  "url": "https://www.wiwo.de/unternehmen/auto/uber-kauft-blacklane-berliner-fahrdienstleister-wechselt-den-besitzer/100213137.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-03-31-nuklear-revival-rechenzentren",
+              "slug": "nuklear-revival-rechenzentren",
+              "title": "Silicon Valley setzt auf Kernenergie für KI-Rechenzentren",
+              "date": "2026-03-31",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "⚛️",
+              "edition": "morning",
+              "image": "",
+              "kurz": "Tech-Konzerne wie Microsoft, Google und Amazon setzen auf Kernkraft, um den wachsenden Energiehunger ihrer KI-Rechenzentren zu stillen. Gleichzeitig baut Trumps Administration die US-Atomaufsicht NRC massiv ab.",
+              "summary": "Der Energiebedarf von KI-Rechenzentren wächst schneller als erneuerbare Energien liefern können. Silicon Valley setzt deshalb auf Kernkraft – und findet in Trumps Administration einen willigen Partner: Der Präsident verspricht beschleunigte Genehmigungsverfahren. Gleichzeitig hat die US-Atomaufsichtsbehörde NRC seit Trumps Amtsantritt über 400 Mitarbeitende verloren, vorwiegend aus dem Sicherheitsbereich.",
+              "gegenstimme": "Die ehemalige NRC-Vorsitzende Allison Macfarlane warnt: 'Die Behörde ist keine unabhängige Regulierungsbehörde mehr – wir wissen nicht, wessen Interessen sie vertritt.' Sicherheitsexperten befürchten, dass der Abbau von Expertise bei der Atombehörde langfristige Risiken schafft, die kurzfristige Wachstumsgewinne nicht aufwiegen.",
+              "sources": [
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/news/903548/nuclear-energy-nrc-trump-silicon-valley-investigation"
+                },
+                {
+                  "name": "ProPublica",
+                  "url": "https://www.propublica.org/article/trump-nuclear-power-nrc-safety-doge-vought"
+                },
+                {
+                  "name": "Fortune",
+                  "url": "https://fortune.com/2026/01/21/trump-davos-nuclear-power-plant-approval-data-centers-ai-race-energy/"
                 }
               ]
             }
