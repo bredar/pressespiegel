@@ -1,5 +1,5 @@
 {
-  "updated": "10:51 UTC",
+  "updated": "15:14 UTC",
   "days": [
     {
       "date": "2026-04-01",
@@ -553,6 +553,151 @@
                 {
                   "name": "Der Spiegel – Wirtschaftsinstitute senken Prognose",
                   "url": "https://www.spiegel.de/wirtschaft/irankrieg-folgen-wirtschaftsinstitute-senken-prognose-auf-0-6-prozent-wachstum-a-194cc8d0-5576-4900-9fd4-ff59c1d4f542"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-04-01-starmer-eu-naherung-iran",
+              "slug": "starmer-eu-naherung-iran",
+              "title": "UK sucht engere EU-Beziehungen wegen Iran-Krieg – Hormuz-Konferenz mit 35 Ländern",
+              "date": "2026-04-01",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🇬🇧",
+              "edition": "evening",
+              "image": "",
+              "kurz": "UK-Premier Starmer will engere EU-Beziehungen und lädt 35 Länder zu Gesprächen über die Wiederöffnung der Strasse von Hormuz ein.",
+              "summary": "UK-Premierminister Keir Starmer hat angekündigt, engere Beziehungen zur EU zu suchen – ausgelöst durch den Iran-Krieg. Grossbritannien wird am Donnerstag 35 Länder zu Gesprächen über die Wiederöffnung der Strasse von Hormuz einladen. Starmer bezeichnete Brexit-Schäden an der Wirtschaft als nicht mehr ignorierbar und kündigte einen ambitionierteren EU-Gipfel an.",
+              "gegenstimme": "Konservative werfen Starmer vor, den Iran-Krieg als Vorwand für eine Rückabwicklung des Brexit zu nutzen. Starmer betont, es gehe nicht um eine Rückkehr zum Binnenmarkt – doch seine Formulierungen lassen Spielraum.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c62l6w03lwzo"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-trump-birthright-supreme-court",
+              "slug": "trump-birthright-supreme-court",
+              "title": "Historisch: Trump persönlich beim Supreme Court – Geburtsrecht auf dem Prüfstand",
+              "date": "2026-04-01",
+              "time": "18:00",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Erstmals in der Geschichte erscheint ein amtierender US-Präsident persönlich vor dem Supreme Court. Verhandelt wird, ob in den USA Geborene automatisch Staatsbürger sind.",
+              "summary": "Der US Supreme Court verhandelt Trumps Vorstoss, das verfassungsmässig garantierte Geburtsrecht auf Staatsbürgerschaft einzuschränken. Trump erschien persönlich – ein Novum. Der 14. Verfassungszusatz garantiert seit 1868 allen in den USA Geborenen die Staatsbürgerschaft. Hunderttausende Babys wären betroffen.",
+              "gegenstimme": "Verfassungsrechtler halten die Klausel für eindeutig. Die Gegenposition argumentiert, dass die Gründerväter nicht an 'Geburtstourismus' gedacht hätten. Unabhängig vom Ausgang: Die symbolische Dimension eines Präsidenten, der persönlich vor dem Gericht erscheint, um Bürgerrechte einzuschränken, ist beispiellos.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/live/cj37jn53xk1t"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/apr/01/supreme-court-birthright-citizenship-case"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-trump-nato-iran-waffenstillstand",
+              "slug": "trump-nato-iran-waffenstillstand",
+              "title": "Trump behauptet Iran bat um Waffenstillstand – und erwägt NATO-Austritt",
+              "date": "2026-04-01",
+              "time": "18:00",
+              "category": "international",
+              "icon": "💣",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Trump behauptet, Iran habe um Waffenstillstand gebeten. Teheran widerspricht umgehend. Gleichzeitig kritisiert Trump die NATO erneut scharf.",
+              "summary": "US-Präsident Trump erklärte am Mittwoch, Iran habe um einen Waffenstillstand gebeten. Irans Präsident Pezeshkian widersprach sofort. Gleichzeitig verschärfte Trump seine NATO-Kritik und erwähnte erstmals einen möglichen Austritt. Die Signale sind widersprüchlich: Einerseits Deeskalationsrhetorik, andererseits maximale Konfrontation mit europäischen Verbündeten.",
+              "gegenstimme": "Trumps Behauptung könnte innenpolitisch motiviert sein – er braucht einen 'Sieg', um den unpopulären Krieg zu beenden. Irans Dementi folgt dem klassischen Muster: Keine Seite will als die schwächere dastehen.",
+              "sources": [
+                {
+                  "name": "BBC News Live",
+                  "url": "https://www.bbc.com/news/live/c36r5p1l7w3t"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-trump-iran-hat-um-waffenstillstand-gebeten"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-gotthard-osterstau-maut",
+              "slug": "gotthard-osterstau-maut",
+              "title": "Gotthard: Blechlawine über Ostern – Maut-Debatte entflammt",
+              "date": "2026-04-01",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🚗",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Der Osterstau am Gotthard ist vorhersehbar – trotzdem fahren alle gleichzeitig. Die Maut-Debatte gewinnt an Fahrt.",
+              "summary": "Wie jedes Jahr staut sich über die Ostertage der Verkehr am Gotthard kilometerlang. Trotz Vorhersagbarkeit ändert niemand sein Verhalten. Die Idee einer Autobahnmaut am Gotthard wird zunehmend diskutiert – die Meinungen gehen aber weit auseinander. Befürworter sehen darin das einzige Mittel zur Verkehrslenkung, Gegner warnen vor einer Zweiklassen-Mobilität.",
+              "gegenstimme": "Eine Maut würde nur die Reichen durchlassen und widerspricht dem Schweizer Verständnis von Gleichbehandlung im Strassenverkehr. Andererseits: Der Status quo – stundenlanger Stau, Umweltbelastung, Notfall-Blockaden – ist auch keine Lösung.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/blechlawine-am-gotthard-alle-wissen-es-und-fahren-trotzdem-in-den-osterstau"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/osterstau-am-gotthard-an-moeglicher-autobahnmaut-scheiden-sich-die-geister"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-schweiz-patriot-beschaffung",
+              "slug": "schweiz-patriot-beschaffung",
+              "title": "Bundesrat Pfister schliesst Abbruch der Patriot-Beschaffung nicht aus",
+              "date": "2026-04-01",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Verteidigungsminister Pfister nennt erstmals den Abbruch der US-Luftabwehrsystem-Beschaffung als mögliche Option.",
+              "summary": "Bei der Beschaffung des US-Luftabwehrsystems Patriot harzt es seit Längerem. Bundesrat Martin Pfister erwähnte nun erstmals öffentlich einen Abbruch als mögliche Option. Die Schweiz sucht seit Jahren nach einer Nachfolgelösung für ihre Luftverteidigung, doch die Patriot-Beschaffung steckt in Schwierigkeiten – verschärft durch die angespannten Beziehungen zu den USA im Kontext des Iran-Kriegs.",
+              "gegenstimme": "Ein Abbruch würde die Schweiz sicherheitspolitisch in ein Vakuum stürzen. Alternative europäische Systeme (IRIS-T, Aster) wären nicht schneller verfügbar. Andererseits: Sich von einem unzuverlässigen Lieferanten abhängig zu machen, ist auch keine Lösung.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/us-luftabwehrsystem-pfister-erwaehnt-abbruch-der-patriot-beschaffung-als-option"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-wuhan-robotaxi-massenausfall",
+              "slug": "wuhan-robotaxi-massenausfall",
+              "title": "Über 100 Robotaxis blockieren Verkehr in Wuhan – Systemausfall bei Baidu",
+              "date": "2026-04-01",
+              "time": "18:00",
+              "category": "tech",
+              "icon": "🚗",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Mehr als 100 autonome Taxis von Baidu blieben mitten im Verkehr in Wuhan stehen. Ein Systemausfall legte ganze Strassenzüge lahm.",
+              "summary": "Ein massiver Systemausfall bei Baidus Apollo-Go-Robotaxi-Dienst hat in der chinesischen Metropole Wuhan mindestens 100 selbstfahrende Fahrzeuge zum Stillstand gebracht. Die Autos stoppten mitten auf der Strasse und blockierten den Verkehr. Videos zeigen eine Highway-Kollision als Folge. Baidu hat sich bisher nicht geäussert.",
+              "gegenstimme": "Autonome Fahrzeuge sind statistisch sicherer als menschliche Fahrer. Aber dieser Vorfall zeigt ein einzigartiges Risiko: Wenn das System ausfällt, fallen alle Fahrzeuge gleichzeitig aus – ein Risiko, das bei menschlichen Fahrern nicht existiert.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cvge91r9j80o"
                 }
               ]
             }
