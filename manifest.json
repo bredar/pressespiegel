@@ -1,5 +1,5 @@
 {
-  "updated": "05:49 UTC",
+  "updated": "10:51 UTC",
   "days": [
     {
       "date": "2026-04-01",
@@ -396,6 +396,163 @@
                 {
                   "name": "The Next Web – Oracle 30000 Entlassungen",
                   "url": "https://thenextweb.com/news/oracle-layoffs-march-2026"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-04-01-eu-verteidigungsbuendnis",
+              "slug": "eu-verteidigungsbuendnis",
+              "title": "Europa plant Verteidigungsbündnis ohne USA",
+              "date": "2026-04-01",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇪🇺",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/b2f7a280-495c-4c97-8ee0-21ee06cdcb45_w520_r2.08_fpx47_fpy53.jpg",
+              "kurz": "Die EU arbeitet an einer eigenständigen Verteidigungsklausel, die im Angriffsfall gegenseitigen Beistand ohne US-Beteiligung garantieren soll. Ein internes Protokoll zeigt, wie umstritten die Formulierungen innerhalb Europas sind.",
+              "summary": "Dem Spiegel und dem ARD-Magazin Report Mainz liegt ein internes Verhandlungsprotokoll vor, das die Kontroversen rund um eine neue europäische Verteidigungsklausel dokumentiert. Hintergrund ist die zunehmende Distanz der Trump-Administration zur NATO. Die EU-Mitglieder sind sich über den genauen Verpflichtungsgrad uneinig – einige Staaten wollen verbindliche Beistands-Garantien, andere lehnen eine Schwächung des Nato-Primats ab. Parallel dazu drängte UK-Premier Starmer am Mittwoch auf eine engere Sicherheitspartnerschaft mit der EU.",
+              "gegenstimme": "Kritiker innerhalb der EU warnen, eine parallele Verteidigungsstruktur könnte die NATO untergraben und Ressourcen doppeln, statt Kräfte zu bündeln. Zudem bleiben zentrale Fragen zur Kommandostruktur und zu nationalen Souveränitätsvorbehalten ungeklärt.",
+              "sources": [
+                {
+                  "name": "Der Spiegel – Neue Verteidigungsallianz",
+                  "url": "https://www.spiegel.de/ausland/verteidigungsallianz-wenn-europa-angegriffen-wird-soll-uns-diese-klausel-schuetzen-a-1f00d53d-e96d-4681-be0c-5dea9e8654b5"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-iran-oel-unter-100",
+              "slug": "iran-oel-unter-100",
+              "title": "Öl fällt unter 100 Dollar – UK plant Hormuz-Konferenz",
+              "date": "2026-04-01",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/532ec522-ee66-4467-a691-149429882313_w520_r2.08_fpx56_fpy50.jpg",
+              "kurz": "Der Ölpreis ist erstmals seit Wochen unter 100 Dollar gefallen, nachdem Trump das baldige Ende des Iran-Kriegs in Aussicht gestellt hat. UK-Premier Starmer kündigte eine internationale Konferenz zur Sicherung des Hormuz-Strassts an.",
+              "summary": "Donald Trump sagte am Dienstag, der Krieg gegen Iran werde in 'zwei bis drei Wochen' beendet sein. Die Aussage löste eine breite Markt-Rally aus: Brent-Rohöl fiel auf 99,78 Dollar, der DAX und der Stoxx 600 legten je rund 2 Prozent zu. In London kündigte Premier Starmer an, Aussenministerin Yvette Cooper werde noch diese Woche 35 Nationen zu einer Konferenz über maritime Sicherheit im Golf zusammenrufen. Gleichzeitig sprach Starmer von der Notwendigkeit einer engeren Partnerschaft mit der EU.",
+              "gegenstimme": "Marktanalystin Emma Wall (Hargreaves Lansdown) warnt: Die Energieversorgung bleibt noch Monate gestört, selbst wenn die USA ihren Abzug ankündigen. Ein realer Deal mit Iran ist nicht in Sicht – die Rally basiert auf Trumps Worten, nicht auf einer gesicherten Vereinbarung.",
+              "sources": [
+                {
+                  "name": "The Guardian – Oil prices and markets",
+                  "url": "https://www.theguardian.com/world/2026/apr/01/iran-war-oil-prices-trump-crude-stock-markets-business-us-israel-middle-east"
+                },
+                {
+                  "name": "The Guardian – UK Politics Live",
+                  "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-russland-spionage-drohnenfabrik",
+              "slug": "russland-spionage-drohnenfabrik",
+              "title": "GRU-Agenten spionieren deutschen Rüstungsunternehmer aus",
+              "date": "2026-04-01",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🕵️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/dea2ac41-9ff7-4085-917c-e23d5fdfecf4_w520_r2.08_fpx68.53_fpy49.99.jpg",
+              "kurz": "Zwei mutmassliche Agenten des russischen Militärgeheimdienstes GRU wurden festgenommen. Sie sollen einen deutschen Rüstungsunternehmer im Drohnen-Sektor ausgespäht haben – enttarnt durch Chatnachrichten.",
+              "summary": "Nach Recherchen des Spiegel sollen zwei kürzlich in Deutschland festgenommene Männer für den russischen Militärgeheimdienst GRU tätig gewesen sein. Ihr Ziel war offenbar ein Unternehmer, der eine Drohnenfabrik in Bayern betreibt. Verräterische Chatnachrichten führten die Ermittler auf die Spur der mutmasslichen Agenten. Der Fall reiht sich in eine Serie russischer Spionage- und Sabotageoperationen gegen westliche Rüstungsunternehmen ein.",
+              "gegenstimme": "Die Täterschaft ist noch nicht gerichtlich bestätigt – es handelt sich um Verdächtige. Russland bestreitet routinemässig jede staatliche Beteiligung an Spionagefällen in Europa. Kritiker fragen, ob der deutsche Verfassungsschutz ausreichend Ressourcen hat, um die gestiegene Bedrohungslage abzudecken.",
+              "sources": [
+                {
+                  "name": "Der Spiegel – Drohnenfabrik GRU-Spionage",
+                  "url": "https://www.spiegel.de/politik/deutschland/drohnenfabrik-mutmassliche-agenten-sollen-fuer-russischen-militaergeheimdienst-spioniert-haben-a-d63662f7-353f-40a9-9a77-345d2e617dff"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-keller-sutter-grok-anzeige",
+              "slug": "keller-sutter-grok-anzeige",
+              "title": "Bundesrätin Keller-Sutter reicht Strafanzeige gegen KI-Chatbot Grok ein",
+              "date": "2026-04-01",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Finanzministerin Karin Keller-Sutter hat Strafanzeige erstattet, nachdem ein X-Nutzer den KI-Chatbot Grok gezielt zu sexistischen Beschimpfungen gegen sie veranlasste. Es ist der erste bekannte Fall, in dem eine Schweizer Magistratin rechtlich gegen den Missbrauch eines KI-Systems vorgeht.",
+              "summary": "Ein Nutzer der Plattform X forderte den KI-Chatbot Grok auf, Bundesrätin Karin Keller-Sutter sexistisch zu beschimpfen. Keller-Sutter erstattete daraufhin Strafanzeige wegen Verleumdung und Beschimpfung. Ihr Sprecher Pascal Hollenstein betonte, Frauenhass dürfe nicht als normal akzeptiert werden. Strafrechtsprofessorin Monika Simmler bewertet die rechtlichen Chancen als gut – auch wenn die betreffenden Posts im Nachhinein gelöscht wurden.",
+              "gegenstimme": "Rechtlich bleibt die Frage offen, wer die eigentliche Verantwortung trägt: der Nutzer, der den Prompt formulierte, oder der Anbieter des KI-Systems. Grok bzw. xAI (Elon Musks Unternehmen) hat seinen Sitz in den USA, was die internationale Rechtsdurchsetzung erschwert. Kritiker weisen ausserdem darauf hin, dass eine Strafanzeige das Problem des Missbrauchs von KI-Systemen für gezielte Angriffe strukturell nicht löst.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/ki-chatbot-grok-sexistische-beschimpfungen-keller-sutter-reicht-strafanzeige-ein"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-schweiz-eigenmietwert-abschaffung",
+              "slug": "schweiz-eigenmietwert-abschaffung",
+              "title": "Schweiz: Eigenmietwert fällt ab 2029 weg",
+              "date": "2026-04-01",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🏠",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Ab dem 1. Januar 2029 entfällt der Eigenmietwert für selbstgenutztes Wohneigentum in der Schweiz. Der Bundesrat hat die Inkraftsetzung der Volksabstimmung vom September 2025 nun verbindlich festgelegt.",
+              "summary": "Im September 2025 sprach sich das Schweizer Stimmvolk klar für die Abschaffung des Eigenmietwerts aus. Am 1. April 2026 hat der Bundesrat entschieden, dass die Reform per 1. Januar 2029 in Kraft tritt. Damit fallen nicht nur die fiktiven Mietwertbesteuerungen weg, sondern auch eine Reihe von Steuerabzügen – insbesondere für Hypothekarzinsen und Renovationen. Tourismuskantone erhalten die Möglichkeit, eine Objektsteuer auf Zweitliegenschaften einzuführen, um Mindereinnahmen zu kompensieren.",
+              "gegenstimme": "Die Regierungskonferenz der Gebirgskantone hatte auf eine Verschiebung auf 2030 gedrängt. Ihre Begründung: Die Einführung einer Ersatz-Objektsteuer auf Zweitliegenschaften sei rechtlich und politisch wesentlich komplexer als im Abstimmungskampf dargestellt. Kritiker warnen zudem, dass der Wegfall der Schuldzinsabzüge Eigenheimbesitzer mit hohen Hypotheken benachteiligen könnte.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/volkswille-ab-dem-1-januar-2029-ist-der-eigenmietwert-geschichte-103538757"
+                },
+                {
+                  "name": "SWI swissinfo.ch",
+                  "url": "https://www.swissinfo.ch/ger/ab-2029-muss-der-eigenmietwert-nicht-mehr-versteuert-werden/91193458"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-jungfraubahnen-300mio",
+              "slug": "jungfraubahnen-300mio",
+              "title": "Jungfraubahnen knacken 300-Millionen-Grenze – Rekordumsatz",
+              "date": "2026-04-01",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🏔️",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/7rkSOlVGKuUAHwqPCcUzDT.jpg",
+              "kurz": "Die Jungfraubahnen haben im Geschäftsjahr 2025 erstmals einen Umsatz von über 300 Millionen Franken erzielt und dabei einen Reingewinn von 78,2 Millionen Franken ausgewiesen. Das Rekordergebnis wurde trotz rückläufigen Besucherzahlen aus Asien infolge des Iran-Konflikts erreicht.",
+              "summary": "Das Berner Touristikunternehmen Jungfraubahnen AG meldete für 2025 einen Rekordumsatz, der erstmals die 300-Millionen-Franken-Schwelle überschritt. Der Jahresgewinn lag bei 78,2 Millionen Franken. Trotz des Rückgangs asiatischer Reisender – bedingt durch geopolitische Spannungen rund um den Iran-Konflikt – hielt das Unternehmen die Passagierzahlen mit europäischem und nordamerikanischem Tourismus weitgehend stabil. Die Geschäftsleitung kündigte gleichzeitig Massnahmen gegen Overtourism am Jungfraujoch an.",
+              "gegenstimme": "Umwelt- und Naturschutzorganisationen mahnen, dass weiteres Wachstum im Hochgebirge ökologisch problematisch ist. Die Kapazitätsgrenzen der Infrastruktur sind erreicht; Massnahmen gegen Overtourism werden zwar angekündigt, bleiben aber oft hinter den tatsächlichen Besucherströmen zurück. Kritiker fordern verbindliche Obergrenzen statt bloss freiwilliger Steuerungsmassnahmen.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/jungfraubahnen-knacken-300-millionen-grenze-796700069361"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/jungfraubahnen-78-2-millionen-franken-jahresgewinn-532359295962"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-01-iran-wachstumsprognose-senkung",
+              "slug": "iran-wachstumsprognose-senkung",
+              "title": "Wirtschaftsinstitute halbieren Wachstumsprognose wegen Iran-Krieg",
+              "date": "2026-04-01",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/bbc5ddcd-1dee-4398-94c0-c75b11a92dc9_w520_r2.08_fpx32.66_fpy54.99.jpg",
+              "kurz": "Fuhrende deutsche Wirtschaftsforschungsinstitute haben ihre Wachstumsprognose für 2026 von 1,3 auf 0,6 Prozent halbiert. Haupttreiber ist der Energiepreisschock infolge des Iran-Kriegs.",
+              "summary": "Die Gemeinschaftsdiagnose der fuhrenden Wirtschaftsforschungsinstitute sieht die deutsche Wirtschaft weiter auf Erholungskurs, aber deutlich gebremst. Für 2026 erwarten sie nur noch 0,6 Prozent BIP-Wachstum, für 2027 0,9 Prozent. Der Energiepreisschock durch den Iran-Krieg treibt die Inflation auf 2,8 Prozent (2026) und droht den Konsum zu dampfen. Ohne die expansive Fiskalpolitik des Bundes – vor allem Ausgaben für Verteidigung, Infrastruktur und Klimaschutz – ware der Ruckgang noch starker.",
+              "gegenstimme": "Einige Ökonomen bezweifeln, ob staatliche Konjunkturprogramme den Energiepreisschock strukturell ausgleichen können. Hoehere Staatsverschuldung loest das Problem nicht, sondern verschiebt es – und birgt langfristige Risiken fur die Haushaltsstabilitat.",
+              "sources": [
+                {
+                  "name": "Der Spiegel – Wirtschaftsinstitute senken Prognose",
+                  "url": "https://www.spiegel.de/wirtschaft/irankrieg-folgen-wirtschaftsinstitute-senken-prognose-auf-0-6-prozent-wachstum-a-194cc8d0-5576-4900-9fd4-ff59c1d4f542"
                 }
               ]
             }
