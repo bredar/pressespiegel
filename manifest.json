@@ -1,5 +1,5 @@
 {
-  "updated": "06:17 UTC",
+  "updated": "09:49 UTC",
   "days": [
     {
       "date": "2026-04-02",
@@ -396,6 +396,143 @@
                 {
                   "name": "Swissinfo (gfs.bern-Studie)",
                   "url": "https://www.swissinfo.ch/ger/digitale-demokratie/die-schweizer-bev%c3%b6lkerung-misstraut-google-tiktok-und-meta/91180831"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-04-02-iran-energie-zukunft",
+              "slug": "iran-energie-zukunft",
+              "title": "Hormuz-Blockade als Wendepunkt: Der Kampf um die Energie der Zukunft hat begonnen",
+              "date": "2026-04-02",
+              "time": "11:30",
+              "category": "international",
+              "icon": "⚡",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/4c58f140-4bae-4e56-ba1a-ca5ac2f8a19f_w520_r2.08_fpx48_fpy26.jpg",
+              "kurz": "Die Blockade der Strasse von Hormuz zwingt die Welt zum Energieumdenken. Eine neue geopolitische Spaltung zeichnet sich ab: Petrostaaten gegen Elektrostaaten.",
+              "summary": "Der Iran-Krieg beschleunigt die Energiewende – nicht durch Überzeugung, sondern durch Zwang. Die Hormuz-Blockade trifft Ölimporteure hart und macht erneuerbare Energien plötzlich attraktiver denn je. Analysten sehen eine neue Weltordnung entstehen: Länder mit fossilen Ressourcen auf der einen, Elektrifizierungsstaaten auf der anderen Seite.",
+              "gegenstimme": "Kritiker warnen vor einer Überinterpretation: Fossile Infrastruktur lasse sich nicht innert Monaten ersetzen. Der Wechsel zu erneuerbaren Energien brauche Jahrzehnte – und sei ohne Investitionen nicht erreichbar, die derzeit in Rüstung fliessen.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/irankrieg-der-kampf-um-die-energie-der-zukunft-hat-begonnen-a-a2872723-d2ff-4477-87b3-a54b61fb7d15"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/klimaanpassung/energie-in-der-schweiz-die-milliardenschwere-rechnung-des-nahostkonflikts/91181834"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-iran-nuklear-bedrohung",
+              "slug": "iran-nuklear-bedrohung",
+              "title": "Irans Atomprogramm: Nukleare Bedrohung paradoxerweise grösser als vor dem Krieg",
+              "date": "2026-04-02",
+              "time": "11:30",
+              "category": "international",
+              "icon": "☢️",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/04/02/0c57ce2e-ba86-40fb-8742-2244ab003328.jpg",
+              "kurz": "Trotz massiver US-Luftangriffe auf Irans Atomanlagen ist die nukleare Bedrohung laut Experten gewachsen – weil 400 Kilo hochangereichertes Uran nach wie vor nicht gesichert sind.",
+              "summary": "Iran besitzt rund 400 Kilogramm Uran mit einem Reinheitsgrad von 60 Prozent. Nuklearexpertin Emma Belcher warnt: Die Welt ist weniger sicher als vor Kriegsbeginn, weil das Material noch vorhanden ist und niemand weiss, was damit geschieht. Trump spielt die Gefahr herunter – Geheimdienstler widersprechen.",
+              "gegenstimme": "Trump und Teile des Pentagons argumentieren, die Atomanlagen seien so stark beschädigt, dass Iran monatelang nicht an das Uran gelangen könnte. Satellitenüberwachung soll jede Bewegung sofort sichtbar machen.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/iran-die-nukleare-bedrohung-ist-groesser-als-vor-dem-krieg-103539420"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-iran-droht-usa-und-israel-mit-haerteren-angriffen"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-syrien-merz-abschiebungen-streit",
+              "slug": "syrien-merz-abschiebungen-streit",
+              "title": "Syriens Aussenminister lehnt Zwangsabschiebungen ab – Eskalation im Merz-Streit",
+              "date": "2026-04-02",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🏛️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/5a354a63-6c91-4dd8-93e3-c2e2d717b07c_w520_r2.08_fpx40_fpy54.jpg",
+              "kurz": "Damaskus reagiert auf Kanzler Merz' Rückkehr-Aussagen: Zwangsabschiebungen lehne man 'entschieden' ab. Der diplomatische Streit zwischen Berlin und Syrien eskaliert.",
+              "summary": "Syriens Aussenminister Asaad al-Schaibani hat auf die Aussagen von Kanzler Friedrich Merz reagiert und Zwangsrückführungen von Syrern klar abgelehnt. Merz hatte eine konkrete Zielmarke für Rückkehrzahlen genannt – was in Damaskus und bei Syrern in Deutschland für massive Irritationen sorgte. Der Konflikt zeigt, wie schwierig die Rückkehrpolitik in der Praxis ist.",
+              "gegenstimme": "Die Bundesregierung argumentiert, Syrien müsse Verantwortung für seine Bürger übernehmen und Rückkehrbedingungen schaffen. Viele Syrer in Deutschland wünschen sich laut Umfragen tatsächlich eine Rückkehr – aber freiwillig und unter sicheren Bedingungen.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/syrien-aussenminister-assad-al-shaibani-stellt-sich-gegen-zwangsabschiebungen-reaktion-auf-friedrich-merz-a-4ead38e1-4a9b-4f76-b307-ca18bcb06dc1"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-ungarn-szijjarto-russland-skandal",
+              "slug": "ungarn-szijjarto-russland-skandal",
+              "title": "Kurz vor der Wahl: Ungarns Aussenminister soll Russland gegen EU-Sanktionen geholfen haben",
+              "date": "2026-04-02",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🇭🇺",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/86b160b2-10a6-4ced-8a94-04f8ad5535e9_w520_r2.08_fpx33.34_fpy50.jpg",
+              "kurz": "Zehn Tage vor der Parlamentswahl steht Ungarns Aussenminister Szijjártó unter Druck: Er soll Russlands Aussenminister Lawrow Hilfe gegen EU-Sanktionen versprochen haben.",
+              "summary": "Ein geleaktes Telefonat belastet Ungarns Aussenminister Péter Szijjártó: Er soll seinem russischen Amtskollegen Sergej Lawrow zugesichert haben, Ungarn werde helfen, EU-Sanktionen zu umgehen. Der Skandal kommt zehn Tage vor der Wahl – und stärkt ausgerechnet den Oppositionskandidaten Peter Magyar.",
+              "gegenstimme": "Szijjártó und die Orbán-Regierung bestreiten die Darstellung. Ungarns aussenpolitischer Kurs – enge Russland-Beziehungen und Kritik an EU-Sanktionen – ist bekannt und wird von einem Teil der Bevölkerung unterstützt.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/telefonat-mit-russland-kurz-vor-der-wahl-ungarischer-aussenminister-in-erklaerungsnot"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-schweiz-konzernverantwortung-jans",
+              "slug": "schweiz-konzernverantwortung-jans",
+              "title": "Bundesrat Jans präsentiert Gegenvorschlag zur Konzernverantwortungsinitiative",
+              "date": "2026-04-02",
+              "time": "11:30",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/04/02/b3c5060a-f8d8-4a1d-8483-565f7c21b1bd.jpg",
+              "kurz": "Justizminister Jans will grosse Unternehmen per Gesetz zur Einhaltung von Menschenrechten und Umweltstandards zwingen – angelehnt an EU-Regeln. KMU wären ausgenommen.",
+              "summary": "Beat Jans stellte am Donnerstag den bundesrätlichen Gegenentwurf zur Konzernverantwortungsinitiative 2.0 vor. Das geplante 'Bundesgesetz über die nachhaltige Unternehmensführung' soll sich an EU-Regeln orientieren und nicht darüber hinausgehen. Grosse Konzerne mit über 5000 Mitarbeitenden wären betroffen. Die FDP spricht von einem 'Jobkiller'.",
+              "gegenstimme": "Die FDP kritisiert den Vorschlag als überbordende Regulierung und 'Jobkiller'. Wirtschaftsverbände warnen vor Wettbewerbsnachteilen gegenüber Ländern ohne vergleichbare Sorgfaltspflichten.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/konzernverantwortung-jans-will-unternehmen-zu-achtung-der-menschenrechte-zwingen-103538960"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-maerkte-smi-trump-reaktion",
+              "slug": "maerkte-smi-trump-reaktion",
+              "title": "Märkte enttäuscht: SMI dreht nach Trump-Rede ins Minus, Ölpreis steigt weiter",
+              "date": "2026-04-02",
+              "time": "11:30",
+              "category": "wirtschaft",
+              "icon": "📊",
+              "edition": "midday",
+              "image": "https://media.20min.ch/6/image/2023/12/22/e0c0da14-9877-4de7-8e0c-29e332c95db3.jpeg",
+              "kurz": "Anleger hatten auf ein klares Kriegsende gehofft – Trumps vage Rede enttäuschte. SMI sackte ab, Nikkei verlor 2.5%, Ölpreis kletterte weiter.",
+              "summary": "Nach Trumps Ansprache am Mittwochabend reagierten die Märkte verhalten bis negativ. Der SMI, zunächst vorbörslich im Plus, drehte am Morgen ins Minus. Asiatische Börsen verloren bis zu 4.9% (Kospi). Der Ölpreis stieg weiter, der Goldpreis fiel von 4780 auf 4600 Dollar.",
+              "gegenstimme": "Einige Marktbeobachter werten Trumps Rede als Signal, dass der Krieg geordnet abgewickelt wird – und sehen darin mittelfristig eine Stabilisierung. Die Ankündigung eines Endes 'in zwei bis drei Wochen' könnte als positives Signal gelesen werden.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/iran-krieg-smi-nach-trump-rede-auf-erholungskurs-oelpreis-steigt-weiter-103539397"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/iran-rede-von-trump-enttaeuscht-die-anleger-in-asien-ld.1932188"
                 }
               ]
             }
