@@ -1,5 +1,5 @@
 {
-  "updated": "09:49 UTC",
+  "updated": "15:09 UTC",
   "days": [
     {
       "date": "2026-04-02",
@@ -533,6 +533,139 @@
                 {
                   "name": "NZZ",
                   "url": "https://www.nzz.ch/wirtschaft/iran-rede-von-trump-enttaeuscht-die-anleger-in-asien-ld.1932188"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-04-02-iran-hinrichtung-18-jaehriger",
+              "slug": "iran-hinrichtung-18-jaehriger",
+              "title": "Iran richtet 18-Jährigen hin – vierte Hinrichtung im Zusammenhang mit Januarprotesten",
+              "date": "2026-04-02",
+              "time": "17:00",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/04/02/167801b9-a3a3-4af6-816e-09fddf5a5692.jpg",
+              "kurz": "Amir-Hossein Hatami (18) wurde im Iran gehängt – beschuldigt, im Auftrag Israels und der USA gehandelt zu haben. Menschenrechtsorganisationen sprechen von Folter und Scheinprozess.",
+              "summary": "Iran hat den 18-jährigen Amir-Hossein Hatami hingerichtet. Er wurde für schuldig befunden, in einen Armeestützpunkt eingedrungen zu sein und die nationale Sicherheit gefährdet zu haben. Es ist die vierte Hinrichtung im Zusammenhang mit den brutal niedergeschlagenen Januarprotesten. NGOs sprechen von erpressten Geständnissen und Folter.",
+              "gegenstimme": "Die iranischen Behörden beharren darauf, es habe sich um koordinierte Terrorakte im Auftrag ausländischer Geheimdienste gehandelt. In iranischen Staatsmedien wird die Hinrichtung als notwendige Sicherheitsmassnahme dargestellt.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/amir-hossein-hatami-im-morgengrauen-gehaengt-iran-richtet-18-jaehrigen-hin-103539749"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-nato-zerbricht-iran-krieg",
+              "slug": "nato-zerbricht-iran-krieg",
+              "title": "Zerbricht die NATO am Iran-Krieg? Europa rebelliert gegen Trump",
+              "date": "2026-04-02",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/e6062684-2340-4790-a3cb-cd7a35d08b6f_w520_r2.08_fpx46_fpy50.jpg",
+              "kurz": "Europäische NATO-Partner distanzieren sich zunehmend von Trumps Iran-Politik. Spaniens Sánchez führt den Widerstand an – und stellt den Sinn der Allianz grundsätzlich in Frage.",
+              "summary": "Nach Trumps NATO-Austrittsdrohungen und seiner Forderung, die Verbündeten sollen im Iran-Krieg mehr Verantwortung übernehmen, bricht in Europa offener Widerstand aus. Spaniens Pedro Sánchez führt eine Gruppe von Ländern an, die Trumps Kriegslogik nicht mitmachen wollen. Führende US-Senatoren treten hingegen für den NATO-Verbleib ein.",
+              "gegenstimme": "Führende US-Senatoren beider Parteien haben sich klar gegen einen NATO-Austritt ausgesprochen. Auch innerhalb der europäischen NATO gilt: Keine Allianz ist besser als eine geschwächte – deshalb suchen die meisten Regierungen den Dialog statt den Bruch.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/irankrieg-und-trumps-drohungen-zerbricht-die-nato-am-irankrieg-a-fb9e5168-c4d0-442d-a072-9c37a9e8a769"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-oesterreich-verbietet-us-ueberfluege-fuer-iran-krieg"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-oesterreich-verbiet-us-ueberfluege",
+              "slug": "oesterreich-verbiet-us-ueberfluege",
+              "title": "Neutrales Österreich verbietet US-Militärüberflüge für Iran-Krieg",
+              "date": "2026-04-02",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🇦🇹",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/e6062684-2340-4790-a3cb-cd7a35d08b6f_w520_r2.08_fpx46_fpy50.jpg",
+              "kurz": "Österreich verweigert den USA Überflugrechte für Militäreinsätze gegen Iran – mit Verweis auf seine immerwährende Neutralität. Ein weiteres Signal der europäischen Distanzierung.",
+              "summary": "Das neutrale Österreich hat den USA militärische Überflüge für den Iran-Krieg verboten. Gleichzeitig beraten 40 Länder über die künftige Nutzung der Strasse von Hormuz. Auch die UNO fordert ein Ende der 'Spirale aus Tod und Zerstörung'. Macron bezeichnete eine gewaltsame Öffnung der Meerenge als unrealistisch.",
+              "gegenstimme": "Die USA und Israel sehen Österreichs Schritt als unfreundlichen Akt in einer Phase, in der westliche Solidarität gefragt sei. Washington argumentiert, es handle sich um eine präventive Operation gegen ein atombewaffnungsfähiges Regime.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-oesterreich-verbietet-us-ueberfluege-fuer-iran-krieg"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-kita-maenner-generalverdacht",
+              "slug": "kita-maenner-generalverdacht",
+              "title": "Kita-Missbrauch schweizweit: Betreuer soll 15 Kinder in Winterthur und Bern missbraucht haben",
+              "date": "2026-04-02",
+              "time": "17:00",
+              "category": "schweiz",
+              "icon": "⚠️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/8wnJHqINaa1AD2llcVNXVA.jpg",
+              "kurz": "Ein 33-jähriger Kita-Betreuer soll systematisch 15 Kleinkinder in Winterthur und Bern missbraucht und gefilmt haben. Der Fall weitet sich aus – und stellt Männer in Kitas unter Generalverdacht.",
+              "summary": "Ein 33-jähriger Mann wurde von der Berner Staatsanwaltschaft wegen Schändung, Vergewaltigung und sexueller Handlungen mit Kindern angeklagt. Er soll in Kitas in Winterthur und Bern insgesamt 15 Kleinkinder missbraucht und die Taten teilweise gefilmt haben. Der Branchenverband Kibesuisse fordert nun einen vertieften Einblick ins Strafregister. Männer in der Kinderbetreuung, die in den letzten Jahren gezielt gefördert wurden, stehen unter Generalverdacht.",
+              "gegenstimme": "Branchenvertreter und Fachleute warnen davor, aus einem Einzelfall Pauschalurteile abzuleiten. Der Männeranteil in Kitas ist von 7.4% (2010) auf 16.5% (2024) gestiegen – der Grossteil dieser Betreuer arbeite sorgfältig und professionell. Generalverdacht schadee auch den Kindern, die von gemischten Betreuungsteams profitierten.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/maenner-in-der-kita-stehen-nach-missbrauchsfall-unter-generalverdacht-ld.1931677"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/missbrauch-in-berner-kita-mutter-spricht-ueber-ungewissheit-485445099889"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-schifffahrt-bunkertreibstoff-krise",
+              "slug": "schifffahrt-bunkertreibstoff-krise",
+              "title": "Unterschätztes Risiko: Iran-Krieg bedroht globale Schifffahrt durch Treibstoffkrise",
+              "date": "2026-04-02",
+              "time": "17:00",
+              "category": "wirtschaft",
+              "icon": "🚢",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/e1fd00a2-bcbb-4ee8-af56-08cfc0008fde_w520_r2.08_fpx41_fpy61.jpg",
+              "kurz": "Nicht Öl, sondern Bunkertreibstoff für Schiffe könnte die globalen Lieferketten zum Kollaps bringen. In Singapur haben sich die Treibstoffpreise bereits verdoppelt.",
+              "summary": "Im Hafen von Singapur wächst die Nervosität: Seit Kriegsbeginn haben sich die Schiffstreibstoffpreise mehr als verdoppelt. Experten warnen, ein Engpass bei Bunkertreibstoff könnte die globalen Lieferketten schlimmer treffen als die Covid-Pandemie. Zwei Monate Hormuz-Blockade wären 'katastrophal', warnt ein Analyst.",
+              "gegenstimme": "Die Lage sei noch nicht so angespannt wie bei Kerosin oder Diesel, sagen einige Branchenbeobachter. Viele Häfen hätten noch Reserven für Wochen. Und ein Kriegsende in 2-3 Wochen – wie Trump verspricht – würde die Krise abwenden.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/die-globale-schifffahrt-droht-am-iran-krieg-aufzulaufen-ld.1931644"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-usa-rezession-angst-trump",
+              "slug": "usa-rezession-angst-trump",
+              "title": "USA vor der Rezession? Energiepreise, Inflation und schwächelnder Arbeitsmarkt alarmieren Ökonomen",
+              "date": "2026-04-02",
+              "time": "17:00",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/7ead54be-ff55-4937-84ee-7da548c6a4e8_w520_r2.08_fpx37.49_fpy49.99.jpg",
+              "kurz": "Der Iran-Krieg trifft die US-Wirtschaft härter als erwartet. Ökonomen sprechen offen von Rezessionsrisiko – mit direkten Folgen für Trumps Midterm-Chancen 2026.",
+              "summary": "Hohe Energiepreise, steigende Inflation und ein schwächelnder Arbeitsmarkt lassen US-Ökonomen von Rezession sprechen. Die Fed sitzt in der Klemme: Zinssenkungen würden die Inflation befeuern, Zinserhöhungen die Konjunktur abwürgen. Politisch ist das Rezessionsrisiko für Trump vor den Midterms im Herbst 2026 gefährlich.",
+              "gegenstimme": "Optimisten verweisen auf die Widerstandsfähigkeit des US-Konsums und den robusten Dienstleistungssektor. Sollte der Iran-Krieg in 2-3 Wochen enden (wie Trump verspricht), könnten sich Energiepreise schnell normalisieren und die Konjunktur stabilisieren.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-in-den-usa-waechst-die-angst-vor-einer-rezession-a-1281a01f-7782-4cba-8640-55ff0f7629c1"
                 }
               ]
             }
