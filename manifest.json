@@ -1,703 +1,401 @@
 {
-  "updated": "15:14 UTC",
+  "updated": "06:16 UTC",
   "days": [
     {
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-04-01-artemis-mondmission",
-              "slug": "artemis-mondmission",
-              "title": "Artemis 2: Erste bemannte Mondmission seit 53 Jahren startet",
-              "date": "2026-04-01",
-              "time": "07:00",
+              "id": "2026-04-02-artemis-2-astronauten-weltall",
+              "slug": "artemis-2-astronauten-weltall",
+              "title": "Artemis II: Vier Astronauten auf dem Weg zum Mond – erste Bilder aus dem All",
+              "date": "2026-04-02",
+              "time": "06:00",
               "category": "international",
-              "icon": "🌕",
+              "icon": "🚀",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/2GxRpL6RaK59XqNg4I_Fs4.webp",
-              "kurz": "Artemis 2 startet heute Nacht: Vier Astronauten fliegen erstmals seit 1972 Richtung Mond. Die Mondumrundung ist ein Testflug – eine Landung ist nicht geplant.",
-              "summary": "In der Nacht auf Donnerstag, kurz nach Mitternacht Schweizer Zeit (00:24 Uhr), soll die NASA-Mission Artemis 2 vom Kennedy Space Center in Florida abheben. Vier Astronauten – drei Amerikaner und ein Kanadier – werden das erste bemannte Space-Launch-System-Raumschiff Orion steuern und den Mond auf einem Bogen umrunden. Die zehn Tage dauernde Mission ist kein Landungsversuch, sondern ein umfassender Testflug. Rund 400'000 Schaulustige werden an Floridas Space Coast erwartet.",
-              "gegenstimme": "Kritiker bemängeln die enormen Kosten des Artemis-Programms: Allein die NASA hat bislang über 90 Milliarden US-Dollar investiert, und die ursprünglich geplante Mondlandung 2027 musste auf 2028 verschoben werden. Einige Weltraumforscher hinterfragen, ob bemannte Mondmissionen im Zeitalter leistungsfähiger Robotersonden den grössten wissenschaftlichen Nutzen bieten. Der zunehmende Wettbewerb mit China wird als politischer Treiber gesehen, der möglicherweise technische Risikoabwägungen beeinflusst.",
+              "image": "https://cdn.prod.www.spiegel.de/images/f9bf306c-6370-4dbd-913c-edcb05ed7a75_w520_r2.08_fpx69.98_fpy50.97.jpg",
+              "kurz": "Die NASA-Mission Artemis II ist erfolgreich gestartet. Vier Astronauten befinden sich erstmals seit 53 Jahren auf dem Weg zum Mond – die Orion-Kapsel umkreist derzeit die Erde.",
+              "summary": "In der Nacht auf Donnerstag hob das Space Launch System der NASA vom Kennedy Space Center in Florida ab. An Bord der Orion-Kapsel: Commander Reid Wiseman, Pilot Victor Glover, Spezialistin Christina Koch und der kanadische Astronaut Jeremy Hansen. Die Mission dauert neun Tage und ist ein Testflug ohne Mondlandung – sie soll jedoch den Weg für eine Landung 2028 ebnen. Technische Probleme kurz vor dem Start konnten behoben werden.",
+              "gegenstimme": "Kritiker verweisen auf die massiven Kostenüberschreitungen des Artemis-Programms: Die NASA hat bisher rund 93 Milliarden Dollar investiert, ohne je eine Mondlandung durchgeführt zu haben. Manche Raumfahrtexperten bezweifeln, ob das State-Launch-System langfristig konkurrenzfähig gegenüber privatwirtschaftlichen Trägersystemen wie SpaceX Starship sein kann.",
               "sources": [
                 {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/cz0e1myvl2ko"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/die-nasa-schickt-wieder-menschen-zum-mond-das-sind-die-gruende-103537305"
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d"
                 },
                 {
                   "name": "NZZ",
-                  "url": "https://www.nzz.ch/wissenschaft/artemis-2-der-erste-bemannte-flug-zum-mond-seit-apollo-ld.1920889"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-iran-journalistin-bagdad",
-              "slug": "iran-journalistin-bagdad",
-              "title": "US-Journalistin Shelly Kittleson in Bagdad entführt",
-              "date": "2026-04-01",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🚨",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/eaefbedc-3750-428e-9568-72918b86290c_w520_r2.08_fpx65.32_fpy49.99.jpg",
-              "kurz": "Die amerikanische Freijournalistin Shelly Kittleson wurde in Bagdad von bewaffneten Männern entführt. US-Behörden vermuten Verbindungen zur irangestützten Miliz Kataib Hezbollah.",
-              "summary": "Shelly Kittleson, eine erfahrene US-amerikanische Freijournalistin, die regelmässig aus dem Irak und Syrien berichtet, wurde vor einem Hotel in Bagdad von vier vermummten Männern in ein Fahrzeug gezerrt. Das US-Aussenministerium erklärte, ein Verdächtiger mit Verbindungen zur irangestützten Miliz Kataib Hezbollah sei von irakischen Behörden festgenommen worden. Bei der Verfolgungsjagd durch Sicherheitskräfte verunfallte eines der Fahrzeuge der Entführer. Der Aufenthaltsort Kittlesons ist weiterhin unbekannt.",
-              "gegenstimme": "Irakische Behörden haben sich offiziell nicht zur Urheberschaft geäussert und betonen die laufenden Suchoperationen. Einige Beobachter warnen davor, voreilig iranische Milizen zu beschuldigen, solange keine gesicherten Beweise vorliegen – zumal die US-Aussagen zur Täterschaft schnell und möglicherweise politisch motiviert kamen.",
-              "sources": [
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/c5yled478zwo"
-                },
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-krieg-us-journalistin-shelly-kittleson-im-irak-entfuehrt-a-f06f3b08-635f-478b-871f-cc0c6a83f273"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/apr/01/shelly-kittleson-us-american-journalist-kidnapped-iraq"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-iran-krieg-update",
-              "slug": "iran-krieg-update",
-              "title": "Iran-Krieg: Trump kündigt Abzug in 2-3 Wochen an",
-              "date": "2026-04-01",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🔥",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/532ec522-ee66-4467-a691-149429882313_w520_r2.08_fpx56_fpy50.jpg",
-              "kurz": "Trump erklärt, die USA werden den Iran in zwei bis drei Wochen verlassen – egal ob ein Deal zustande kommt oder nicht. Europa blockiert Luftraumnutzung und bleibt dem Krieg fern.",
-              "summary": "US-Präsident Trump hat in einer Erklärung den baldigen Rückzug der amerikanischen Streitkräfte aus dem Iran angekündigt – unabhängig vom Ausgang laufender Verhandlungen. Der iranische Präsident zeigt sich verhandlungsbereit. Mehrere europäische Staaten, darunter Frankreich, Spanien und Italien, verweigern die Nutzung ihres Luftraums und ihrer Stützpunkte für US- und israelische Operationen. Der Ölpreis verzeichnete im März den höchsten monatlichen Anstieg seit dem Golfkrieg 1990.",
-              "gegenstimme": "Iranische Parlamentarier warnen, die Strasse von Hormus werde zukünftig nur noch für Staaten geöffnet sein, die sich an neue iranische Regeln halten. Kritiker in Europa sehen Trumps Tirade als Versuch, die Verbündeten unter Druck zu setzen, und betonen, der Krieg sei völkerrechtlich fragwürdig. Auch in den USA selbst gibt es Stimmen, die einen schnellen Abzug ohne gesicherten Deal als riskant einschätzen.",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-trump-stellt-baldiges-ende-der-us-angriffe-im-iran-in-aussicht"
-                },
-                {
-                  "name": "BBC Live",
-                  "url": "https://www.bbc.com/news/live/c36r5p1l7w3t"
-                },
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-russland-krim-absturz",
-              "slug": "russland-krim-absturz",
-              "title": "29 Tote bei Absturz russisches Militärflugzeug auf Krim",
-              "date": "2026-04-01",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🛩️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/296b7b7c-0001-0004-0000-000001004933_w520_r2.08_fpx30_fpy45.jpg",
-              "kurz": "Eine russische Militärmaschine vom Typ An-26 ist auf der Krim abgestürzt und hat alle 29 Menschen an Bord das Leben gekostet. Erste Hinweise deuten auf einen technischen Defekt hin.",
-              "summary": "Am Dienstagabend um ca. 18 Uhr Ortszeit verlor die russische Militärführung den Funkkontakt mit einer Antonov An-26, die sich auf einem Routineflug über der Krim befand. Die Maschine stürzte in eine Klippe. 23 Passagiere und 6 Besatzungsmitglieder kamen ums Leben. Russlands Verteidigungsministerium schliesst einen äusseren Einschlag – also Raketenbeschuss, Drohnenangriff oder Vogelschlag – aus und geht von einem technischen Fehler aus. Die Absturzursache ist offiziell noch nicht bestätigt.",
-              "gegenstimme": "Die Ukraine hat sich bislang nicht zu dem Vorfall geäussert. Angesichts des laufenden Krieges und ukrainischer Angriffe auf russische Militäreinrichtungen auf der Krim schliessen Beobachter ausserhalb Russlands einen Fremdeinwirkungs-Angriff nicht vollständig aus, auch wenn das russische Ministerium das Gegenteil behauptet. Unabhängige Überprüfungen sind derzeit nicht möglich.",
-              "sources": [
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/krim-29-tote-bei-absturz-von-russischem-militaerflugzeug-a-45d81567-5a73-4042-9b42-93ed2477eb8f"
+                  "url": "https://www.nzz.ch/wissenschaft/heute-sollen-erstmals-wieder-astronauten-um-den-mond-fliegen-in-wenigen-stunden-heben-sie-ab-ld.1922643"
                 },
                 {
                   "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/cly6387xgqxo"
+                  "url": "https://www.bbc.com/news/live/c4g4ygw0r02t"
                 },
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/apr/01/russia-military-plane-crash-crimea-ukraine"
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/"
                 }
               ]
             },
             {
-              "id": "2026-04-01-syrien-merz-widerspruch",
-              "slug": "syrien-merz-widerspruch",
-              "title": "Syrischer Präsident widerspricht Merz: Hat 80%-Rückkehr nie gesagt",
-              "date": "2026-04-01",
-              "time": "07:00",
+              "id": "2026-04-02-iran-trump-ansprache-sieg",
+              "slug": "iran-trump-ansprache-sieg",
+              "title": "Trump erklärt Iran-Krieg für gewonnen – aber Geheimdienste zweifeln",
+              "date": "2026-04-02",
+              "time": "06:00",
               "category": "international",
-              "icon": "🕊️",
+              "icon": "🇺🇸",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/091fd822-4e10-444b-827f-1b1a11b79a18_w520_r2.08_fpx61.32_fpy50.jpg",
-              "kurz": "Bundeskanzler Merz hatte nach einem Treffen mit Syriens Übergangspräsident al-Sharaa verkündet, 80% der syrischen Geflüchteten sollen in drei Jahren zurückkehren – als Wunsch al-Sharaas. Dieser widerspricht nun öffentlich.",
-              "summary": "Bei einer gemeinsamen Pressekonferenz in Berlin nannte Merz eine 80-Prozent-Rückkehrquote für syrische Geflüchtete in Deutschland und schrieb diesen Wunsch al-Sharaa zu. Der syrische Übergangspräsident widerspricht nun: Er habe diese Zahl nie genannt. Merz relativierte daraufhin und bezeichnete die Zahl als Kenntnisnahme, nicht als eigenes Ziel. Die Affäre beleuchtet, wie stark die deutsche Migrationsdebatte politisch aufgeladen ist.",
-              "gegenstimme": "Merz relativiert: Er habe die Zahl lediglich «zur Kenntnis genommen» und sei sich «der Dimension der Aufgabe bewusst». Kritiker aus Hilfsorganisationen und Grünen weisen darauf hin, dass eine Rückkehr von 80% angesichts der instabilen Sicherheitslage, der zerstörten Infrastruktur und der anhaltenden Gewalt gegen Minderheiten in Syrien unrealistisch und gefährlich wäre.",
+              "image": "https://image.20min.ch/2026/04/02/1fa1dba8-d602-49aa-8760-96517c2dfbed.jpg",
+              "kurz": "Trump erklärte in einer Fernsehansprache den Sieg über Iran – gleichzeitig drohte er mit noch härteren Angriffen und zweifeln US-Geheimdienste am Verhandlungswillen Teherans.",
+              "summary": "US-Präsident Trump wandte sich erstmals seit Kriegsbeginn in einer 19-minütigen Primetime-Rede aus dem Weissen Haus an die Nation. Er behauptete, Iran sei militärisch und wirtschaftlich besiegt. Gleichzeitig drohte er, alle iranischen Kraftwerke anzugreifen, falls kein Abkommen zustande kommt. US-Geheimdienste berichten jedoch, Teheran sei nicht zu echten Verhandlungen bereit.",
+              "gegenstimme": "Kritiker weisen auf den offensichtlichen Widerspruch in Trumps Rede hin: Wer seinen Feind für besiegt erklärt, droht nicht gleichzeitig mit 'extrem harten' neuen Angriffen in zwei bis drei Wochen. Iranische Staatsmedien bezeichneten die Rede als Propagandaveranstaltung und bestritten, verhandlungsbereit zu sein.",
               "sources": [
                 {
-                  "name": "Der Spiegel – Syrischer Präsident bestreitet 80-Prozent-Aussage, 1. April 2026",
-                  "url": "https://www.spiegel.de/ausland/syrischer-praesident-bestreitet-80-prozent-aussage-und-deutet-auf-merz-a-517450c3-7b73-410a-8155-0d436f50114b"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-trump-bekraeftigt-baldiges-kriegsende-doch-der-oelpreis-steigt/100213875.html"
                 },
                 {
-                  "name": "Tagesschau – Rückkehr von 80 Prozent der Syrer als Ziel, 30. März 2026",
-                  "url": "https://www.tagesschau.de/inland/innenpolitik/al-sharaa-merz-100.html"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/trump-spricht-zur-nation-und-droht-iran-wir-schicken-sie-zurueck-ins-steinzeitalter-wo-sie-hingehoeren-ld.1932184"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-news-heute-us-geheimdienste-zweifeln-an-teherans-verhandlungswillen-a-8d01d13b-430f-4a0b-a0be-b7f83cee8058"
                 }
               ]
             },
             {
-              "id": "2026-04-01-ungarn-moskau-skandal",
-              "slug": "ungarn-moskau-skandal",
-              "title": "Ungarn soll Moskau EU-Sanktionen-Änderungen versprochen haben",
-              "date": "2026-04-01",
-              "time": "07:00",
+              "id": "2026-04-02-iran-uae-hormuz-eskalation",
+              "slug": "iran-uae-hormuz-eskalation",
+              "title": "Emirate wollen Hormuz-Strasse gewaltsam öffnen – neue Eskalationsstufe",
+              "date": "2026-04-02",
+              "time": "06:00",
+              "category": "international",
+              "icon": "⚓",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/b203daa2-8f1f-4ce9-b174-9dad4dac86e6_w520_r2.08_fpx51_fpy50.jpg",
+              "kurz": "Die Vereinigten Arabischen Emirate erwägen laut Berichten eine militärische Öffnung der Strasse von Hormuz. Iran hat unterdessen ein De-facto-Mautsystem eingerichtet – bis zu zwei Millionen Dollar pro Durchfahrt.",
+              "summary": "Iran hat die Strasse von Hormuz faktisch unter Kontrolle gebracht und verlangt von Schiffen bis zu zwei Millionen Dollar Passagegebühren – rechtlich eine klare Verletzung des internationalen Seerechts. Die UAE prüfen nun offenbar militärische Massnahmen zur Öffnung der Meerenge, einschliesslich Minenräumung. Experten des Seevölkerrechts betonen: Die freie Durchfahrt durch internationale Meerengen ist auch im Krieg garantiert. Frankreich fand bisher keine Minen.",
+              "gegenstimme": "Iran beruft sich auf seine Territorialgewässer und den Ausnahmezustand im Krieg. Völkerrechtler wie Anna Petrig von der Universität Basel sind klar: Iran hat keine rechtliche Grundlage für Gebühren oder Sperrungen. Allerdings ist die Durchsetzung des Seevölkerrechts ohne militärische Mittel faktisch unmöglich – was die Eskalationsgefahr erhöht.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-emirate-wollen-strasse-von-hormus-offenbar-gewaltsam-oeffnen/100213733.html"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/iran-verlangt-gebuehren-fuer-hormuz-passage-erlaubt-dies-das-seerecht-ld.1931794"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-lampedusa-19-migranten-tot",
+              "slug": "lampedusa-19-migranten-tot",
+              "title": "Lampedusa: Küstenwache birgt 19 Migranten-Leichen",
+              "date": "2026-04-02",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/bc8edc4f-1b85-49d4-a443-94bb816560c0_w520_r2.08_fpx36.65_fpy52.99.jpg",
+              "kurz": "Italiens Küstenwache hat 19 tote Migranten aus dem Mittelmeer geborgen. In nur drei Tagen kamen nach Schätzungen mindestens 104 Menschen bei der Überfahrt ums Leben.",
+              "summary": "Nach dem Kentern eines Migrationsbootes vor Lampedusa hat die italienische Küstenwache 19 Leichen geborgen und 58 Menschen gerettet. Das Boot war am 30. März in Westlibyen gestartet. Laut der Hilfsorganisation Sea-Watch starben in den vorangegangenen drei Tagen mindestens 104 Menschen im Mittelmeer. Die Internationale Organisation für Migration (IOM) zählt für 2026 bereits 643 bekannte Todesfälle auf der zentralen Mittelmeerroute – eine der höchsten Zahlen seit 2014.",
+              "gegenstimme": "Europäische Regierungen verweisen auf sinkende Gesamtankunftszahlen als Erfolg ihrer Migrationspolitik. Im ersten Quartal 2026 erreichten 6117 Menschen Italien auf dem Seeweg – deutlich weniger als die 11'416 im gleichen Zeitraum 2024. Kritiker halten dagegen, dass weniger Ankünfte nicht weniger Tote bedeuten, sondern gefährlichere Routen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/bei-lampedusa-kuestenwache-birgt-leichen-von-19-migranten-a-860650b1-7944-414f-8c4d-8c99673102f4"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-seebeben-indonesien-tsunami",
+              "slug": "seebeben-indonesien-tsunami",
+              "title": "Seebeben 7.4 vor Indonesien: Tsunami-Warnung ausgelöst, eine Tote",
+              "date": "2026-04-02",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🌊",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/42c263ee-f04d-4cf1-8dd2-9f2cb3bdacbd_w520_r2.08_fpx55.47_fpy50.jpg",
+              "kurz": "Ein Erdbeben der Stärke 7.4 erschütterte die Molukken-See vor Indonesiens Ternate-Insel. Eine 70-jährige Frau kam ums Leben, Tsunami-Warnungen für mehrere Länder wurden inzwischen aufgehoben.",
+              "summary": "Am frühen Donnerstagmorgen (Ortszeit 06:48 Uhr) bebte es mit der Magnitude 7.4 in der Molukken-See vor Ternate, Indonesien. Das Beben in 35 km Tiefe löste Tsunami-Warnungen für Guam, Japan, Malaysia, Papua-Neuguinea, die Philippinen und Taiwan aus. Eine 70-jährige Frau in Nordsulawesi starb unter Trümmern, eine weitere Person wurde verletzt. Nach zwei Stunden wurden alle Warnungen aufgehoben, die tatsächlichen Tsunamiwellen blieben mit unter 0.3 Metern gering.",
+              "gegenstimme": "Einige Bewohner der Region kritisieren die Evakuierungsinfrastruktur als unzureichend: In Küstenstädten wie Bitung dauerte die Kommunikation von Behördenwarnungen zu den Menschen zu lange. Experten weisen darauf hin, dass Indonesia trotz seiner extremen seismischen Aktivität in vielen Küstengemeinden noch immer keine lückenlosen Frühwarnsysteme besitzt.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cn53krrrr24o"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/natur/indonesien-tsunamiwarnung-nach-schwerem-beben-aber-keine-opfer-erwartet-a-067587bb-3440-4f7a-a608-8f2a8b30934c"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-syrien-rueckkehrer-zukunft",
+              "slug": "syrien-rueckkehrer-zukunft",
+              "title": "Syrien: Die ersten Rückkehrer – Träume, Geschäftsideen und ungewisse Zukunft",
+              "date": "2026-04-02",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🏠",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/2754bb79-d51c-491c-a245-1a56cad042ba_w520_r2.08_fpx33.35_fpy50.jpg",
+              "kurz": "Während Deutschland unter Bundeskanzler Merz Druck auf syrische Flüchtlinge zur Rückkehr ausübt, wagen einige bereits freiwillig den Schritt zurück in die Heimat – mit Hoffnung, aber auch grosser Unsicherheit.",
+              "summary": "Seit dem Sturz des Assad-Regimes Ende 2024 kehren erste syrische Geflüchtete freiwillig in ihr Heimatland zurück. Sie bringen Träume und Geschäftsideen mit, treffen aber auf ein zerstörtes Land mit fragiler politischer Lage. Bundeskanzler Friedrich Merz hat angekündigt, die Rückkehr syrischer Flüchtlinge aktiv fördern zu wollen. Die Debatte zwischen politischem Druck zur Rückkehr und realen Bedingungen vor Ort ist damit neu entfacht.",
+              "gegenstimme": "Menschenrechtsorganisationen und Experten warnen: Die Sicherheitslage in Syrien ist nach wie vor instabil. Teile des Landes sind zerstört, staatliche Strukturen fehlen weitgehend. Eine erzwungene oder unter Druck erfolgte Rückkehr gefährde besonders vulnerable Gruppen – Frauen, Kinder, Angehörige ehemals verfolgter Minderheiten.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/syrien-warum-einige-gefluechtete-freiwillig-in-die-heimat-zurueckkehren-a-b999eb2f-d8b2-43cb-bffe-387a0e52a27f"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-ungarn-wahl-europarat-warnung",
+              "slug": "ungarn-wahl-europarat-warnung",
+              "title": "Ungarn vor der Wahl: Europarat warnt vor 'vergiftetem Klima",
+              "date": "2026-04-02",
+              "time": "06:00",
               "category": "international",
               "icon": "🇭🇺",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/091fd822-4e10-444b-827f-1b1a11b79a18_w520_r2.08_fpx61.32_fpy50.jpg",
-              "kurz": "Durchgesickerte Telefonate belasten Ungarns Aussenminister schwer: Péter Szijjártó soll Sergei Lavrov Gefälligkeiten bei EU-Sanktionen versprochen haben.",
-              "summary": "Ein gemeinsames Medienkonsortium veröffentlichte Mitschnitte von Telefonaten zwischen Ungarns Aussenminister Péter Szijjártó und dem russischen Aussenminister Sergei Lavrov. Darin soll Szijjártó Lavrov Hilfe bei EU-Sanktionslisten angeboten und betont haben, er stehe «jederzeit zur Verfügung». Die Ukraine bezeichnete Ungarn als «Schande», die EU-Diplomatiechefin Kaja Kallas und mehrere Regierungschefs reagierten mit scharfer Kritik. Die Enthüllung kommt eineinhalb Wochen vor den ungarischen Parlamentswahlen, in denen Viktor Orbán die härteste Herausforderung seiner 16-jährigen Amtszeit erwartet.",
-              "gegenstimme": "Szijjártó weist nicht den Inhalt, sondern das Abhören zurück: Er bezeichnet es als «riesigen Skandal», dass ausländische Geheimdienste seine Gespräche abgehört und kurz vor der Wahl veröffentlicht haben. Das Timing der Veröffentlichung – 10 Tage vor der Parlamentswahl – wirft Fragen über Absichten und Herkunft der Leaks auf.",
+              "image": "https://cdn.prod.www.spiegel.de/images/86b160b2-10a6-4ced-8a94-04f8ad5535e9_w520_r2.08_fpx33.34_fpy50.jpg",
+              "kurz": "Zehn Tage vor der ungarischen Parlamentswahl mahnt der Europarat: Das Wahlumfeld sei von Angstkampagnen und einseitiger Mediendominanz vergiftet. Oppositionsführer Peter Magyar liegt in Umfragen vorn.",
+              "summary": "Eine Delegation des Europarats hat nach einem zweitägigen Besuch in Budapest ernsthafte Bedenken hinsichtlich der bevorstehenden Wahl am 12. April geäussert. Das Gremium kritisiert ein 'vergiftetes Klima', einseitige Medienlandschaft und aggressive Wahlkampfrhetorik von Regierungsseite. Oppositionsführer Peter Magyar, ein ehemaliger Fidesz-Insider, liegt laut Umfragen vor Amtsinhaber Viktor Orbán und stellt die grösste Herausforderung für dessen Macht seit 2010.",
+              "gegenstimme": "Die ungarische Regierung weist internationale Kritik als Einmischung zurück. Orbán beschuldigt die EU und die Ukraine, die Opposition zu unterstützen. Anhänger der Regierung sehen Magyar als Instrument westlicher Interessen und zweifeln an seiner tatsächlichen Unabhängigkeit.",
               "sources": [
                 {
-                  "name": "The Guardian – Ukraine war briefing, 1. April 2026",
-                  "url": "https://www.theguardian.com/world/2026/apr/01/ukraine-war-briefing-ukraine-calls-hungary-a-disgrace-after-leaked-calls-with-moscow-emerge"
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ungarn-vor-der-wahl-europarat-krisitiert-vergiftetes-klima-im-land-a-0783fa1b-5c71-4b7b-81da-f8aa943dcefa"
                 },
                 {
-                  "name": "The Guardian – Polish and Irish leaders condemn Hungary, 31. März 2026",
-                  "url": "https://www.theguardian.com/world/2026/mar/31/polish-irish-leaders-condemn-hungarian-foreign-minister-alleged-links-to-russia"
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c78l7vyylgqo"
                 }
               ]
             },
             {
-              "id": "2026-04-01-schweiz-oev-preiserhoeung",
-              "slug": "schweiz-oev-preiserhoeung",
-              "title": "ÖV-Preise steigen: GA kostet erstmals über 4000 Franken",
-              "date": "2026-04-01",
-              "time": "07:00",
+              "id": "2026-04-02-schweiz-army-pistole-sig",
+              "slug": "schweiz-army-pistole-sig",
+              "title": "Schweizer Armee kauft durchgefallene Pistole – kaum politische Kritik",
+              "date": "2026-04-02",
+              "time": "06:00",
               "category": "schweiz",
-              "icon": "🚆",
+              "icon": "🇨🇭",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/C2ICTN5aK4e9WXySGBRrZs.jpg",
-              "kurz": "Ab Dezember 2026 werden Billette und Abonnemente im Schweizer öffentlichen Verkehr um durchschnittlich 3,9 Prozent teurer. Das GA überschreitet erstmals die 4000-Franken-Grenze.",
-              "summary": "Der Strategierat der Alliance Swisspass hat eine nationale Tariferhöhung von durchschnittlich 3,9 Prozent per Fahrplanwechsel im Dezember 2026 beschlossen. Das Generalabonnement steigt stärker als Einzelbillette und kostet neu über 4000 Franken. Kinder-, Jugend- und Familienangebote sind weitgehend ausgenommen. Der Preisüberwacher hat noch nicht interveniert, prüft die Beschlussvorlage aber. Regionale Verbünde wie Libero und Passepartout passen ihre Tarife ebenfalls an.",
-              "gegenstimme": "Pro Bahn zeigt sich «schockiert»: Die Erhöhung bestrafe treue Stammkunden, insbesondere GA-Nutzende, und sei mit den Klimazielen der Schweiz nicht vereinbar. Der Verkehrs-Club der Schweiz (VCS) warnt, steigende Preise machten den ÖV gegenüber dem Auto weniger attraktiv. Der Preisüberwacher Stefan Meierhans wurde von den Plänen nicht informiert und prüft nun den Schritt.",
+              "image": "https://image.20min.ch/2026/04/01/07b0459c-aeff-4424-86d4-28e5e1f404dd.jpg",
+              "kurz": "Das VBS entschied sich für die SIG Sauer P320 als neue Armee-Dienstpistole – obwohl das Modell im Auswahlverfahren technisch am schlechtesten abschnitt. Das Parlament übt kaum Kritik.",
+              "summary": "Armasuisse hat die SIG Sauer P320 als künftige Dienstpistole der Schweizer Armee ausgewählt, obwohl sie in der technischen Evaluation das schlechteste Ergebnis aller geprüften Modelle erzielte. Rüstungschef Urs Loher griff zugunsten der Schweizer SIG-Sauer-Niederlassung in das Auswahlverfahren ein und priorisierte den Produktionsstandort Schweiz. Im Parlament ist die Kritik verhalten – bürgerliche Parteien unterstützen die Stärkung inländischer Rüstungskapazitäten. Parallel hält der Bund Zahlungen für das US-Luftabwehrsystem Patriot zurück, das wegen des Iran-Kriegs nicht geliefert werden kann.",
+              "gegenstimme": "Kritikerinnen wie SP-Nationalrätin Linda de Ventura sehen im Entscheid ein weiteres Rüstungsdebakel: Eine technisch unterlegene Waffe zu kaufen, um einen Standort zu sichern, schwächt das Vertrauen der Bevölkerung in die Rüstungsbeschaffung – besonders nach mehreren vorherigen Beschaffungsskandalen.",
               "sources": [
                 {
-                  "name": "SRF News – ÖV-Preise sollen ab Dezember um 3.9 Prozent steigen, 31. März 2026",
-                  "url": "https://www.srf.ch/news/schweiz/anpassung-der-tarife-oev-preise-sollen-ab-dezember-um-3-9-prozent-steigen"
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/armee/201888485-schweizer-politiker-aeussern-kaum-kritik-zu-vbs-entscheid-fuer-sig-pistole"
                 },
                 {
-                  "name": "Watson – Schweiz: Im Dezember steigen die Tarife im öffentlichen Verkehr, 31. März 2026",
-                  "url": "https://www.watson.ch/schweiz/oev/247654092-schweiz-im-dezember-steigen-die-tarife-im-oeffentlichen-verkehr"
-                },
-                {
-                  "name": "Tages-Anzeiger / Der Bund – GA kostet erstmals über 4000 Franken",
-                  "url": "https://www.tagesanzeiger.ch/ga-kostet-erstmals-ueber-4000-franken-oev-erhoeht-preise-212431888196"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/patriot-beschaffung-das-vbs-haelt-zahlungen-an-die-usa-weiterhin-zurueck-ld.1932055"
                 }
               ]
             },
             {
-              "id": "2026-04-01-bern-grossratswahlen",
-              "slug": "bern-grossratswahlen",
-              "title": "Bern: Drei neue Regierungsräte, EVP-Fiasko mit Proporzsystem",
-              "date": "2026-04-01",
-              "time": "07:00",
+              "id": "2026-04-02-bern-kita-missbrauch",
+              "slug": "bern-kita-missbrauch",
+              "title": "Schwere Vorwürfe: Sexuelle Übergriffe in Berner Kita über Monate",
+              "date": "2026-04-02",
+              "time": "06:00",
               "category": "regional",
-              "icon": "🏛️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/Cy8hPCAUqobA2fYG8jCnu4.jpg",
-              "kurz": "Der Kanton Bern hat am 29. März 2026 seine Regierung und das Kantonsparlament gewählt. Drei neue Gesichter ziehen in den Regierungsrat ein, das bürgerliche Kräfteverhältnis bleibt stabil.",
-              "summary": "Bei den Berner Regierungs- und Grossratswahlen vom 29. März 2026 bestätigten die Stimmenden die bisherige Machtverteilung weitgehend. Im Regierungsrat gibt es drei neue Mitglieder, die Zauberformel bleibt unverändert (SVP 2, SP 2, Mitte 1, FDP 1, Grüne 1). Im Grossrat triumphierte die SVP mit sieben zusätzlichen Sitzen und ist neu mit 51 Mandaten stärkste Kraft. Die EVP erlitt das grösste Minus: Sie verlor vier von neun Sitzen, obwohl sie ihren Wähleranteil teilweise halten konnte – ein Phänomen des Proporzsystems.",
-              "gegenstimme": "EVP-Kantonalpräsidentin Barbara Stotzer-Wyss spricht von einem ungerechten Wahlsystem: Parteien mit tieferem Wähleranteil hätten mehr Sitze als die EVP, die proportional stärker verliere, als ihre Wählerzahl es nahelege. Politologe Marc Bühlmann relativiert: Es habe keine grosse Verschiebung stattgefunden, kein Block könne alleine entscheiden – das sei gut für die Demokratie.",
-              "sources": [
-                {
-                  "name": "TeleBärn – Drei neue Gesichter im Berner Regierungsrat, 30. März 2026",
-                  "url": "https://www.telebaern.tv/telebaern-news/drei-neue-gesichter-im-berner-regierungsrat-163825025"
-                },
-                {
-                  "name": "TeleBärn – Mitte-Parteien und Grüne verlieren bei Grossratswahlen, 30. März 2026",
-                  "url": "https://www.telebaern.tv/telebaern-news/mitte-parteien-und-gruene-verlieren-bei-grossratswahlen-163825014"
-                },
-                {
-                  "name": "SRF News – SVP ist die grosse Siegerin mit plus sieben Sitzen",
-                  "url": "https://www.srf.ch/news/schweiz/berner-grossratswahlen-svp-ist-die-grosse-siegerin-mit-plus-sieben-sitzen"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-inselspital-bern-spart",
-              "slug": "inselspital-bern-spart",
-              "title": "Inselspital Bern verzichtet auf Neubau und spart 100 Millionen",
-              "date": "2026-04-01",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "🏥",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/2gp-qA6vKDv8ldlH9EpvaR.jpg",
-              "kurz": "Das Inselspital Bern streicht geplante Neubauten aus seinem Investitionsprogramm und will so rund 100 Millionen Franken einsparen. Tiefere Patientenprognosen und finanzielle Druck sind der Hintergrund.",
-              "summary": "Die Insel Gruppe, Trägerin des Inselspitals Bern, überprüft ihr Bauprogramm grundlegend. Statt auf neue Gebäude setzt die Gruppe auf Verdichtung und Sanierung bestehender Strukturen. Der Verzicht auf geplante Neubauten, darunter ein Service- und Logistikgebäude, spart rund 100 Millionen Franken. Tiefere Patientenprognosen für die kommenden Jahre machen grosszügige Neubauten weniger dringlich. Die Insel Gruppe hatte bereits 2024 ein Sparprogramm von über 110 Millionen Franken gestartet, das Stellenabbau und den Stopp von Gerätekäufen umfasste.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass das Inselspital in der Vergangenheit durch teure IT-Projekte und Bauvorhaben aufgefallen ist, deren Kosten aus dem Ruder liefen. Ein Vorstoss im Grossen Rat, der eine Untersuchung der Mehrkosten beim neuen IT-System forderte, wurde erst jüngst abgelehnt. Sparversprechen des Inselspitals sind deshalb mit einer gewissen Skepsis zu begegnen.",
-              "sources": [
-                {
-                  "name": "Der Bund – Inselspital Bern verzichtet auf Neubau und spart 100 Millionen",
-                  "url": "https://www.derbund.ch/inselspital-bern-verzicht-auf-neubau-spart-100-millionen-641562904720"
-                },
-                {
-                  "name": "BärnToday – Inselspital will über 100 Millionen Franken sparen, Juli 2024",
-                  "url": "https://www.baerntoday.ch/bern/region-bern/personalabbau-und-keine-neuen-maschinen-berner-inselspital-will-ueber-100-millionen-franken-sparen-158077090"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-iran-boersen-rally",
-              "slug": "iran-boersen-rally",
-              "title": "Börsen-Rally: Iran-Deeskalationshoffnung treibt Märkte",
-              "date": "2026-04-01",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "📈",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/2706f00d-d598-4347-8e34-e0151f7907e2_w520_r2.08_fpx62.8_fpy49.99.jpg",
-              "kurz": "Hoffnungen auf eine Deeskalation im Iran-Konflikt haben die Weltbörsen am Dienstag stark beflügelt. Nikkei, Nasdaq und Dow Jones verzeichneten deutliche Kursgewinne.",
-              "summary": "Spekulationen auf ein baldiges Ende oder zumindest eine Beruhigung im Iran-Krieg haben an den Aktienmärkten weltweit eine kräftige Rally ausgelöst. Der japanische Nikkei legte rund 4 Prozent zu, die US-Technologiebörse Nasdaq schloss mehr als 3 Prozent im Plus, der Dow Jones gewann 2,5 Prozent. Auch der Schweizer SMI zog um rund 0,85 Prozent an. Händler reagierten auf erste diplomatische Signale, die auf eine mögliche Entspannung im Nahen Osten hindeuteten.",
-              "gegenstimme": "Marktbeobachter warnen vor übertriebenen Erwartungen: Diplomatische Signale können rasch verpuffen. Analysten wie Mark Malek von Siebert Financial betonen, dass die Rally auf dünnen Grundlagen steht – Investoren hören, was sie hören wollen, nicht was tatsächlich passiert. Ein Rückfall wäre bei ausbleibenden Fortschritten schnell möglich.",
-              "sources": [
-                {
-                  "name": "Handelsblatt – Asien-Börsen",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/asien-hoffnung-auf-deeskalation-im-iran-krieg-treibt-die-boersen-an/100213629.html"
-                },
-                {
-                  "name": "Handelsblatt – US-Börsen Comeback",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-liefern-starkes-comeback-nasdaq-schliesst-mehr-als-drei-prozent-im-plus/100213456.html"
-                },
-                {
-                  "name": "Handelsblatt – Börsen-Schock Grafiken",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/iran-krieg-fuenf-grafiken-erklaeren-den-boersen-schock/100213208.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-iran-inflation-lufthansa",
-              "slug": "iran-inflation-lufthansa",
-              "title": "Iran-Krieg treibt Inflation – Lufthansa prüft 40 Jets am Boden",
-              "date": "2026-04-01",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "✈️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/1412fe4a-54f9-42c1-9c17-6e1c026c5ac7_w520_r2.08_fpx56.74_fpy49.98.jpg",
-              "kurz": "Der Iran-Krieg treibt die deutsche Inflation auf den höchsten Stand seit zwei Jahren. Gleichzeitig bereitet sich Lufthansa auf einen deutlichen Kapazitätsabbau vor.",
-              "summary": "Der Ölpreisschock infolge des Iran-Krieges hat die deutschen Verbraucherpreise im März auf ein Plus von 2,7 Prozent getrieben – der stärkste Anstieg seit zwei Jahren. Lufthansa-Chef Carsten Spohr bereitet die Belegschaft auf schwierige Zeiten vor und prüft, bis zu 40 Flugzeuge vorübergehend zu parken. Konzernweit könnte die angebotene Sitzplatzkapazität um 2,5 Prozent sinken. Auch Unilever reagiert auf den Schock im Welthandel mit einem globalen Einstellungsstopp.",
-              "gegenstimme": "Kritiker fragen, ob die Unternehmen den Konflikt als Deckmantel nutzen, um strukturelle Restrukturierungen vorzuziehen, die ohnehin geplant waren. Lufthansa-Chef Spohr sieht Betroffen vor allem ältere Jets, die «kurz vor der Ausmusterung» standen – womöglich eine Chance, bereits geplante Konsolidierungen früher umzusetzen.",
-              "sources": [
-                {
-                  "name": "Spiegel – Iran-Krieg und Inflation",
-                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-treibt-inflation-in-deutschland-stark-an-a-827dc1d3-9a6c-4108-8cff-71f1a75799e0"
-                },
-                {
-                  "name": "Handelsblatt – Lufthansa 40 Jets",
-                  "url": "https://www.handelsblatt.com/unternehmen/dienstleister/luftfahrt-lufthansa-koennte-wegen-folgen-des-irankriegs-40-jets-parken/100213437.html"
-                },
-                {
-                  "name": "Spiegel – Spohr schwört Belegschaft ein",
-                  "url": "https://www.spiegel.de/wirtschaft/lufthansa-carsten-spohr-schwoert-belegschaft-auf-die-naechste-grosse-krise-ein-a-42cd7bfc-722b-42ec-b411-a2d85dc656d3"
-                },
-                {
-                  "name": "Spiegel – Unilever Einstellungsstopp",
-                  "url": "https://www.spiegel.de/wirtschaft/iran-kriegunilever-verhaengt-globalen-einstellungsstopp-a-0f06c816-ccd6-4485-a71f-ec325a346913"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-axios-javascript-malware",
-              "slug": "axios-javascript-malware",
-              "title": "Axios-JavaScript-Bibliothek kompromittiert – Remote-Trojaner verbreitet",
-              "date": "2026-04-01",
-              "time": "07:00",
-              "category": "tech",
               "icon": "⚠️",
               "edition": "morning",
-              "image": "",
-              "kurz": "Angreifer haben das npm-Konto eines Axios-Hauptentwicklers übernommen und zwei trojanisierte Versionen veröffentlicht. Millionen von Entwicklern und CI/CD-Pipelines waren exponiert.",
-              "summary": "Am 31. März 2026 zwischen 00:21 und 03:15 UTC wurden auf dem npm-Paketregister zwei kompromittierte Versionen der JavaScript-Bibliothek Axios (1.14.1 und 0.30.4) veröffentlicht. Der Angreifer missbrauchte die Zugangsdaten eines Lead-Maintainers, um schadhaften Code einzuschleusen, der Zugangsdaten stiehlt und einen plattformübergreifenden Remote-Access-Trojaner (RAT) installiert. Axios hat über 100 Millionen Downloads pro Woche. Die Pakete wurden nach rund 2-3 Stunden entfernt, doch jede Installation in dieser Zeitspanne muss als kompromittiert gelten.",
-              "gegenstimme": "Das npm-Ökosystem und die Open-Source-Community stehen seit Jahren unter Kritik, weil Sicherheitsstandards für Paket-Maintainer uneinheitlich sind. Sicherheitsforscher weisen darauf hin, dass viele Organisationen trotz verfügbarer Tools wie Lockfiles und automatisierter Integritätsprüfungen keine ausreichenden Supply-Chain-Kontrollen einsetzen. Der Vorfall zeigt erneut, dass das Vertrauen in registrierte Pakete strukturell überschätzt wird.",
-              "sources": [
-                {
-                  "name": "SANS Institute",
-                  "url": "https://www.sans.org/blog/axios-npm-supply-chain-compromise-malicious-packages-remote-access-trojan"
-                },
-                {
-                  "name": "StepSecurity",
-                  "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
-                },
-                {
-                  "name": "Snyk",
-                  "url": "https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/"
-                },
-                {
-                  "name": "Malwarebytes",
-                  "url": "https://www.malwarebytes.com/blog/news/2026/03/axios-supply-chain-attack-chops-away-at-npm-trust"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-openai-superapp-funding",
-              "slug": "openai-superapp-funding",
-              "title": "OpenAI schliesst 122-Milliarden-Finanzierungsrunde ab, plant Superapp",
-              "date": "2026-04-01",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🤖",
-              "edition": "morning",
-              "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=10.625,0,78.75,100",
-              "kurz": "OpenAI hat eine Finanzierungsrunde von 122 Milliarden Dollar abgeschlossen und ist damit 852 Milliarden Dollar wert. Das Unternehmen kündigt eine umfassende KI-Superapp an.",
-              "summary": "OpenAI schloss am Dienstag die grösste Finanzierungsrunde der Silicon-Valley-Geschichte ab: 122 Milliarden Dollar bei einer Bewertung von 852 Milliarden Dollar. Hauptinvestoren sind Amazon, Nvidia, SoftBank und Microsoft, weitere 3 Milliarden Dollar kamen von Privatanlegern. Das Unternehmen zählt 900 Millionen aktive Nutzer pro Woche und 50 Millionen Abonnenten. Angekündigt wurde eine «Unified AI Superapp», die ChatGPT, den Codex-Codegenerator, einen Browser und KI-Agenten in einer Plattform vereint.",
-              "gegenstimme": "Kritiker stellen die Frage, ob der KI-Sektor eine Blase bildet. OpenAI ist noch nicht profitabel, verbrennt enorme Mengen Kapital für Chips, Rechenzentren und Talente. Der Kapitalmarkt bewertet das Unternehmen auf Basis von Erwartungen, nicht von Gewinnen – ein Muster, das aus der Dotcom-Ära bekannt ist.",
-              "sources": [
-                {
-                  "name": "The Guardian – OpenAI 122bn",
-                  "url": "https://www.theguardian.com/technology/2026/mar/31/openai-raises-122-billion-ai-boom"
-                },
-                {
-                  "name": "TechCrunch – OpenAI Retail Investors",
-                  "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
-                },
-                {
-                  "name": "Bloomberg – OpenAI $852bn Valuation",
-                  "url": "https://www.bloomberg.com/news/articles/2026-03-31/openai-valued-at-852-billion-after-completing-122-billion-round"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-oracle-ki-entlassungen",
-              "slug": "oracle-ki-entlassungen",
-              "title": "Oracle: Tausende Entlassungen und 50 Milliarden für KI-Infrastruktur",
-              "date": "2026-04-01",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "☁️",
-              "edition": "morning",
-              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/assets/img/2024/01/12/oracle-logo.jpg",
-              "kurz": "Oracle entlässt tausende Mitarbeiter, um Kosten zu senken und den massiven Ausbau seiner KI-Infrastruktur zu finanzieren. Analysten schätzen bis zu 30'000 betroffene Stellen.",
-              "summary": "Oracle hat begonnen, tausende Angestellte zu entlassen – nach Schätzungen von Analysten könnten bis zu 30'000 der rund 162'000 Beschäftigten betroffen sein. Der Konzern will dadurch Mittel freisetzen, um den schuldenfinanzierten Aufbau von KI-Rechenzentren zu stemmen. Im Januar hatte Oracle Pläne angekündigt, 50 Milliarden Dollar in Schulden und Eigenkapital aufzunehmen. Die Aktie ist seit Jahresbeginn um 25 Prozent gefallen – stärker als jedes andere Tech-Megacap.",
-              "gegenstimme": "Die Kündigungen sind laut Oracle intern nicht leistungsbasiert – es handelt sich um strukturelle Massnahmen. Kritiker hinterfragen das Modell: Oracle ist deutlich kleiner als seine Cloud-Konkurrenten Amazon, Microsoft und Google, und könnte im KI-Infrastruktur-Rennen strukturell benachteiligt sein. Schuldenfinanzierte KI-Investitionen in dieser Grössenordnung tragen erhebliche Risiken.",
-              "sources": [
-                {
-                  "name": "CNBC – Oracle Layoffs",
-                  "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html"
-                },
-                {
-                  "name": "BBC News – Oracle Job Cuts",
-                  "url": "https://www.bbc.com/news/articles/cm296jzzl9yo"
-                },
-                {
-                  "name": "The Next Web – Oracle 30000 Entlassungen",
-                  "url": "https://thenextweb.com/news/oracle-layoffs-march-2026"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-04-01-eu-verteidigungsbuendnis",
-              "slug": "eu-verteidigungsbuendnis",
-              "title": "Europa plant Verteidigungsbündnis ohne USA",
-              "date": "2026-04-01",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🇪🇺",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/b2f7a280-495c-4c97-8ee0-21ee06cdcb45_w520_r2.08_fpx47_fpy53.jpg",
-              "kurz": "Die EU arbeitet an einer eigenständigen Verteidigungsklausel, die im Angriffsfall gegenseitigen Beistand ohne US-Beteiligung garantieren soll. Ein internes Protokoll zeigt, wie umstritten die Formulierungen innerhalb Europas sind.",
-              "summary": "Dem Spiegel und dem ARD-Magazin Report Mainz liegt ein internes Verhandlungsprotokoll vor, das die Kontroversen rund um eine neue europäische Verteidigungsklausel dokumentiert. Hintergrund ist die zunehmende Distanz der Trump-Administration zur NATO. Die EU-Mitglieder sind sich über den genauen Verpflichtungsgrad uneinig – einige Staaten wollen verbindliche Beistands-Garantien, andere lehnen eine Schwächung des Nato-Primats ab. Parallel dazu drängte UK-Premier Starmer am Mittwoch auf eine engere Sicherheitspartnerschaft mit der EU.",
-              "gegenstimme": "Kritiker innerhalb der EU warnen, eine parallele Verteidigungsstruktur könnte die NATO untergraben und Ressourcen doppeln, statt Kräfte zu bündeln. Zudem bleiben zentrale Fragen zur Kommandostruktur und zu nationalen Souveränitätsvorbehalten ungeklärt.",
-              "sources": [
-                {
-                  "name": "Der Spiegel – Neue Verteidigungsallianz",
-                  "url": "https://www.spiegel.de/ausland/verteidigungsallianz-wenn-europa-angegriffen-wird-soll-uns-diese-klausel-schuetzen-a-1f00d53d-e96d-4681-be0c-5dea9e8654b5"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-iran-oel-unter-100",
-              "slug": "iran-oel-unter-100",
-              "title": "Öl fällt unter 100 Dollar – UK plant Hormuz-Konferenz",
-              "date": "2026-04-01",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🛢️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/532ec522-ee66-4467-a691-149429882313_w520_r2.08_fpx56_fpy50.jpg",
-              "kurz": "Der Ölpreis ist erstmals seit Wochen unter 100 Dollar gefallen, nachdem Trump das baldige Ende des Iran-Kriegs in Aussicht gestellt hat. UK-Premier Starmer kündigte eine internationale Konferenz zur Sicherung des Hormuz-Strassts an.",
-              "summary": "Donald Trump sagte am Dienstag, der Krieg gegen Iran werde in 'zwei bis drei Wochen' beendet sein. Die Aussage löste eine breite Markt-Rally aus: Brent-Rohöl fiel auf 99,78 Dollar, der DAX und der Stoxx 600 legten je rund 2 Prozent zu. In London kündigte Premier Starmer an, Aussenministerin Yvette Cooper werde noch diese Woche 35 Nationen zu einer Konferenz über maritime Sicherheit im Golf zusammenrufen. Gleichzeitig sprach Starmer von der Notwendigkeit einer engeren Partnerschaft mit der EU.",
-              "gegenstimme": "Marktanalystin Emma Wall (Hargreaves Lansdown) warnt: Die Energieversorgung bleibt noch Monate gestört, selbst wenn die USA ihren Abzug ankündigen. Ein realer Deal mit Iran ist nicht in Sicht – die Rally basiert auf Trumps Worten, nicht auf einer gesicherten Vereinbarung.",
-              "sources": [
-                {
-                  "name": "The Guardian – Oil prices and markets",
-                  "url": "https://www.theguardian.com/world/2026/apr/01/iran-war-oil-prices-trump-crude-stock-markets-business-us-israel-middle-east"
-                },
-                {
-                  "name": "The Guardian – UK Politics Live",
-                  "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-russland-spionage-drohnenfabrik",
-              "slug": "russland-spionage-drohnenfabrik",
-              "title": "GRU-Agenten spionieren deutschen Rüstungsunternehmer aus",
-              "date": "2026-04-01",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🕵️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/dea2ac41-9ff7-4085-917c-e23d5fdfecf4_w520_r2.08_fpx68.53_fpy49.99.jpg",
-              "kurz": "Zwei mutmassliche Agenten des russischen Militärgeheimdienstes GRU wurden festgenommen. Sie sollen einen deutschen Rüstungsunternehmer im Drohnen-Sektor ausgespäht haben – enttarnt durch Chatnachrichten.",
-              "summary": "Nach Recherchen des Spiegel sollen zwei kürzlich in Deutschland festgenommene Männer für den russischen Militärgeheimdienst GRU tätig gewesen sein. Ihr Ziel war offenbar ein Unternehmer, der eine Drohnenfabrik in Bayern betreibt. Verräterische Chatnachrichten führten die Ermittler auf die Spur der mutmasslichen Agenten. Der Fall reiht sich in eine Serie russischer Spionage- und Sabotageoperationen gegen westliche Rüstungsunternehmen ein.",
-              "gegenstimme": "Die Täterschaft ist noch nicht gerichtlich bestätigt – es handelt sich um Verdächtige. Russland bestreitet routinemässig jede staatliche Beteiligung an Spionagefällen in Europa. Kritiker fragen, ob der deutsche Verfassungsschutz ausreichend Ressourcen hat, um die gestiegene Bedrohungslage abzudecken.",
-              "sources": [
-                {
-                  "name": "Der Spiegel – Drohnenfabrik GRU-Spionage",
-                  "url": "https://www.spiegel.de/politik/deutschland/drohnenfabrik-mutmassliche-agenten-sollen-fuer-russischen-militaergeheimdienst-spioniert-haben-a-d63662f7-353f-40a9-9a77-345d2e617dff"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-keller-sutter-grok-anzeige",
-              "slug": "keller-sutter-grok-anzeige",
-              "title": "Bundesrätin Keller-Sutter reicht Strafanzeige gegen KI-Chatbot Grok ein",
-              "date": "2026-04-01",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "⚖️",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Finanzministerin Karin Keller-Sutter hat Strafanzeige erstattet, nachdem ein X-Nutzer den KI-Chatbot Grok gezielt zu sexistischen Beschimpfungen gegen sie veranlasste. Es ist der erste bekannte Fall, in dem eine Schweizer Magistratin rechtlich gegen den Missbrauch eines KI-Systems vorgeht.",
-              "summary": "Ein Nutzer der Plattform X forderte den KI-Chatbot Grok auf, Bundesrätin Karin Keller-Sutter sexistisch zu beschimpfen. Keller-Sutter erstattete daraufhin Strafanzeige wegen Verleumdung und Beschimpfung. Ihr Sprecher Pascal Hollenstein betonte, Frauenhass dürfe nicht als normal akzeptiert werden. Strafrechtsprofessorin Monika Simmler bewertet die rechtlichen Chancen als gut – auch wenn die betreffenden Posts im Nachhinein gelöscht wurden.",
-              "gegenstimme": "Rechtlich bleibt die Frage offen, wer die eigentliche Verantwortung trägt: der Nutzer, der den Prompt formulierte, oder der Anbieter des KI-Systems. Grok bzw. xAI (Elon Musks Unternehmen) hat seinen Sitz in den USA, was die internationale Rechtsdurchsetzung erschwert. Kritiker weisen ausserdem darauf hin, dass eine Strafanzeige das Problem des Missbrauchs von KI-Systemen für gezielte Angriffe strukturell nicht löst.",
+              "image": "https://cdn.unitycms.io/images/8wnJHqINaa1AD2llcVNXVA.jpg",
+              "kurz": "Ein ehemaliger Kita-Betreuer steht vor Gericht, weil er in einer Berner und einer Winterthurer Kita mindestens 15 Kleinkinder sexuell missbraucht haben soll. Die Übergriffe sollen anderthalb Jahre lang unbemerkt geblieben sein.",
+              "summary": "Die Berner Staatsanwaltschaft hat einen 33-jährigen Mann wegen sexueller Übergriffe an mindestens 15 Kleinkindern angeklagt. Die Taten sollen in zwei privaten Kitas stattgefunden haben – einer in der Region Bern und einer in Winterthur – über einen Zeitraum von eineinhalb Jahren. Der Beschuldigte filmte die Übergriffe und besass bei seiner Verhaftung im Februar 2024 über 800 Dateien mit Kinderpornografie. Mütter betroffener Kinder berichten von Ungewissheit und mangelhafter Kommunikation.",
+              "gegenstimme": "Der Fall wirft grundsätzliche Fragen zur Wirksamkeit von Schutzkonzepten auf: Beide Kitas verfügten über entsprechende Konzepte – und dennoch konnte der Missbrauch über anderthalb Jahre andauern. Kritiker fordern unabhängige Aufsichtsmechanismen und verbindliche Referenzauskünfte zwischen Arbeitgebern.",
               "sources": [
                 {
                   "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/ki-chatbot-grok-sexistische-beschimpfungen-keller-sutter-reicht-strafanzeige-ein"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-schweiz-eigenmietwert-abschaffung",
-              "slug": "schweiz-eigenmietwert-abschaffung",
-              "title": "Schweiz: Eigenmietwert fällt ab 2029 weg",
-              "date": "2026-04-01",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🏠",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Ab dem 1. Januar 2029 entfällt der Eigenmietwert für selbstgenutztes Wohneigentum in der Schweiz. Der Bundesrat hat die Inkraftsetzung der Volksabstimmung vom September 2025 nun verbindlich festgelegt.",
-              "summary": "Im September 2025 sprach sich das Schweizer Stimmvolk klar für die Abschaffung des Eigenmietwerts aus. Am 1. April 2026 hat der Bundesrat entschieden, dass die Reform per 1. Januar 2029 in Kraft tritt. Damit fallen nicht nur die fiktiven Mietwertbesteuerungen weg, sondern auch eine Reihe von Steuerabzügen – insbesondere für Hypothekarzinsen und Renovationen. Tourismuskantone erhalten die Möglichkeit, eine Objektsteuer auf Zweitliegenschaften einzuführen, um Mindereinnahmen zu kompensieren.",
-              "gegenstimme": "Die Regierungskonferenz der Gebirgskantone hatte auf eine Verschiebung auf 2030 gedrängt. Ihre Begründung: Die Einführung einer Ersatz-Objektsteuer auf Zweitliegenschaften sei rechtlich und politisch wesentlich komplexer als im Abstimmungskampf dargestellt. Kritiker warnen zudem, dass der Wegfall der Schuldzinsabzüge Eigenheimbesitzer mit hohen Hypotheken benachteiligen könnte.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/volkswille-ab-dem-1-januar-2029-ist-der-eigenmietwert-geschichte-103538757"
+                  "url": "https://www.srf.ch/news/schweiz/kitas-in-be-und-zh-betroffen-kita-betreuer-soll-mehrere-kleinkinder-missbraucht-haben"
                 },
                 {
-                  "name": "SWI swissinfo.ch",
-                  "url": "https://www.swissinfo.ch/ger/ab-2029-muss-der-eigenmietwert-nicht-mehr-versteuert-werden/91193458"
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/missbrauch-in-berner-kita-mutter-spricht-ueber-ungewissheit-485445099889"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/winterthur-und-bern-kita-gruppenleiter-soll-15-kinder-sexuell-misshandelt-haben-103533604"
                 }
               ]
             },
             {
-              "id": "2026-04-01-jungfraubahnen-300mio",
-              "slug": "jungfraubahnen-300mio",
-              "title": "Jungfraubahnen knacken 300-Millionen-Grenze – Rekordumsatz",
-              "date": "2026-04-01",
-              "time": "12:15",
+              "id": "2026-04-02-bern-regierungsrat-allemann-verkehr",
+              "slug": "bern-regierungsrat-allemann-verkehr",
+              "title": "Berner Regierungsrat: Evi Allemann übernimmt Bau- und Verkehrsdirektion",
+              "date": "2026-04-02",
+              "time": "06:00",
               "category": "regional",
-              "icon": "🏔️",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/7rkSOlVGKuUAHwqPCcUzDT.jpg",
-              "kurz": "Die Jungfraubahnen haben im Geschäftsjahr 2025 erstmals einen Umsatz von über 300 Millionen Franken erzielt und dabei einen Reingewinn von 78,2 Millionen Franken ausgewiesen. Das Rekordergebnis wurde trotz rückläufigen Besucherzahlen aus Asien infolge des Iran-Konflikts erreicht.",
-              "summary": "Das Berner Touristikunternehmen Jungfraubahnen AG meldete für 2025 einen Rekordumsatz, der erstmals die 300-Millionen-Franken-Schwelle überschritt. Der Jahresgewinn lag bei 78,2 Millionen Franken. Trotz des Rückgangs asiatischer Reisender – bedingt durch geopolitische Spannungen rund um den Iran-Konflikt – hielt das Unternehmen die Passagierzahlen mit europäischem und nordamerikanischem Tourismus weitgehend stabil. Die Geschäftsleitung kündigte gleichzeitig Massnahmen gegen Overtourism am Jungfraujoch an.",
-              "gegenstimme": "Umwelt- und Naturschutzorganisationen mahnen, dass weiteres Wachstum im Hochgebirge ökologisch problematisch ist. Die Kapazitätsgrenzen der Infrastruktur sind erreicht; Massnahmen gegen Overtourism werden zwar angekündigt, bleiben aber oft hinter den tatsächlichen Besucherströmen zurück. Kritiker fordern verbindliche Obergrenzen statt bloss freiwilliger Steuerungsmassnahmen.",
+              "icon": "🏛️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/EC7mWtu0K808FoLA65E_8u.jpg",
+              "kurz": "Nach den Wahlen vom letzten Sonntag hat der neue Berner Regierungsrat die Direktionen verteilt. Evi Allemann wechselt von der Justiz in die Bau- und Verkehrsdirektion.",
+              "summary": "Evi Allemann (SP) verlässt die Justizdirektion und übernimmt neu die Bau- und Verkehrsdirektion. Aline Trede (Grüne), die frisch in den Regierungsrat gewählt wurde, übernimmt die Justizdirektion. Raphael Lanz (SVP) wird Wirtschaftsdirektor, Reto Müller (SP) Bildungsdirektor. Da Trede den Nationalrat verlässt, rückt Grossrätin Andrea de Meuron nach Bern.",
+              "gegenstimme": "Die Direktionsverteilung zeigt, dass SP und Grüne weiterhin starken Einfluss auf die Regierungspolitik haben – trotz des Rechtsrutschs im Grossen Rat, der einen veränderten politischen Wind andeutet.",
               "sources": [
                 {
                   "name": "Der Bund",
-                  "url": "https://www.derbund.ch/jungfraubahnen-knacken-300-millionen-grenze-796700069361"
+                  "url": "https://www.derbund.ch/regierungsrat-bern-evi-allemann-wird-verkehrsdirektorin-485241865706"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/616709517-evi-allemann-wird-bernische-bau-und-verkehrsdirektorin"
                 },
                 {
                   "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/jungfraubahnen-78-2-millionen-franken-jahresgewinn-532359295962"
+                  "url": "https://www.bernerzeitung.ch/wahlen-kanton-bern-2026-alle-resultate-rechtsrutsch-im-grossen-rat-435697014483/2"
                 }
               ]
             },
             {
-              "id": "2026-04-01-iran-wachstumsprognose-senkung",
-              "slug": "iran-wachstumsprognose-senkung",
-              "title": "Wirtschaftsinstitute halbieren Wachstumsprognose wegen Iran-Krieg",
-              "date": "2026-04-01",
-              "time": "12:15",
+              "id": "2026-04-02-bern-tram-gleisarbeiten",
+              "slug": "bern-tram-gleisarbeiten",
+              "title": "Bern: 10 Tage kein Tram zwischen Bahnhof und Zytglogge – ab 7. April",
+              "date": "2026-04-02",
+              "time": "06:00",
+              "category": "regional",
+              "icon": "🚋",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/3beeMX7hqoNBjclCsiY0iu.jpg",
+              "kurz": "Ab dem 7. April unterbricht BERNMOBIL den Tramverkehr im Bereich Bahnhof Bern für zehn Tage. Sechs Tramlinien sind betroffen, Umleitungen sind eingerichtet.",
+              "summary": "Im Rahmen umfangreicher Gleisunterhaltsarbeiten in der Berner Innenstadt stellt BERNMOBIL vom 7. bis 17. April 2026 sämtliche Tramlinien zwischen dem Bahnhof und der Zytglogge ein. Betroffen sind die Linien 3, 6, 7, 8 und 9. Fahrgäste können auf die Linien 10 und 19 ausweichen. Die Bauarbeiten sind Teil eines grösseren Unterhaltspakets, das von März bis Mitte April sowie von Juli bis Mitte August 2026 dauert.",
+              "gegenstimme": "Bauprojekte im öffentlichen Raum sind notwendig, beeinträchtigen aber Tausende von Pendlerinnen und Pendlern täglich. Kritiker fordern, dass solche Sperrungen besser ausserhalb der Hauptverkehrszeiten oder in den Sommerferien durchgeführt werden.",
+              "sources": [
+                {
+                  "name": "BERNMOBIL",
+                  "url": "https://www.bernmobil.ch/de/verkehrsinformationen/baustellen/unterhalsarbeiten-raum-bahnhof"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/bernmobil-gleisarbeiten-unterbrechen-tramverkehr-am-bahnhof-175050471690"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bernmobil-gleisarbeiten-unterbrechen-tramverkehr-am-bahnhof-175050471690"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-deutschland-wirtschaft-prognose-energiepreise",
+              "slug": "deutschland-wirtschaft-prognose-energiepreise",
+              "title": "Iran-Krieg trifft Europas Wirtschaft: Öl-Knappheit, Lufthansa in Not, düstere Prognosen",
+              "date": "2026-04-02",
+              "time": "06:00",
               "category": "wirtschaft",
               "icon": "📉",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/bbc5ddcd-1dee-4398-94c0-c75b11a92dc9_w520_r2.08_fpx32.66_fpy54.99.jpg",
-              "kurz": "Fuhrende deutsche Wirtschaftsforschungsinstitute haben ihre Wachstumsprognose für 2026 von 1,3 auf 0,6 Prozent halbiert. Haupttreiber ist der Energiepreisschock infolge des Iran-Kriegs.",
-              "summary": "Die Gemeinschaftsdiagnose der fuhrenden Wirtschaftsforschungsinstitute sieht die deutsche Wirtschaft weiter auf Erholungskurs, aber deutlich gebremst. Für 2026 erwarten sie nur noch 0,6 Prozent BIP-Wachstum, für 2027 0,9 Prozent. Der Energiepreisschock durch den Iran-Krieg treibt die Inflation auf 2,8 Prozent (2026) und droht den Konsum zu dampfen. Ohne die expansive Fiskalpolitik des Bundes – vor allem Ausgaben für Verteidigung, Infrastruktur und Klimaschutz – ware der Ruckgang noch starker.",
-              "gegenstimme": "Einige Ökonomen bezweifeln, ob staatliche Konjunkturprogramme den Energiepreisschock strukturell ausgleichen können. Hoehere Staatsverschuldung loest das Problem nicht, sondern verschiebt es – und birgt langfristige Risiken fur die Haushaltsstabilitat.",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/e592c28b-adbc-47fe-b7fb-861b5c81114d_w520_r2.08_fpx38_fpy54.jpg",
+              "kurz": "Der Iran-Krieg schlägt zunehmend auf die europäische Wirtschaft durch: Energiepreise steigen, Wachstumsprognosen sinken, und Unternehmen warnen vor Produktionskürzungen.",
+              "summary": "Der seit rund einem Monat andauernde US-geführte Krieg gegen Iran treibt die Öl- und Gaspreise in die Höhe und belastet Europas Wirtschaft spürbar. Deutschland und Italien erwägen, ihre Wachstumsprognosen zu senken. Energieintensive Industrien wie die deutsche Chemiebranche haben bereits die Produktion gedrosselt. Die EZB warnte vor einem Schock, der 'über das Vorstellbare hinausgehe'. An den US-Börsen dagegen zeigten sich zuletzt Hoffnungszeichen auf ein baldiges Kriegsende – Wall Street schloss am Dienstag im Plus.",
+              "gegenstimme": "Während europäische Institutionen vor den wirtschaftlichen Folgen warnen, halten manche Ökonomen die kurzfristigen Marktreaktionen für übertrieben. Die US-Börsen haben zuletzt positiv auf Signale reagiert, die auf ein mögliches Ende des Konflikts hindeuten – was zeigt, dass die Märkte eine schnelle Lösung nicht ausschliessen.",
               "sources": [
                 {
-                  "name": "Der Spiegel – Wirtschaftsinstitute senken Prognose",
-                  "url": "https://www.spiegel.de/wirtschaft/irankrieg-folgen-wirtschaftsinstitute-senken-prognose-auf-0-6-prozent-wachstum-a-194cc8d0-5576-4900-9fd4-ff59c1d4f542"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-04-01-starmer-eu-naherung-iran",
-              "slug": "starmer-eu-naherung-iran",
-              "title": "UK sucht engere EU-Beziehungen wegen Iran-Krieg – Hormuz-Konferenz mit 35 Ländern",
-              "date": "2026-04-01",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🇬🇧",
-              "edition": "evening",
-              "image": "",
-              "kurz": "UK-Premier Starmer will engere EU-Beziehungen und lädt 35 Länder zu Gesprächen über die Wiederöffnung der Strasse von Hormuz ein.",
-              "summary": "UK-Premierminister Keir Starmer hat angekündigt, engere Beziehungen zur EU zu suchen – ausgelöst durch den Iran-Krieg. Grossbritannien wird am Donnerstag 35 Länder zu Gesprächen über die Wiederöffnung der Strasse von Hormuz einladen. Starmer bezeichnete Brexit-Schäden an der Wirtschaft als nicht mehr ignorierbar und kündigte einen ambitionierteren EU-Gipfel an.",
-              "gegenstimme": "Konservative werfen Starmer vor, den Iran-Krieg als Vorwand für eine Rückabwicklung des Brexit zu nutzen. Starmer betont, es gehe nicht um eine Rückkehr zum Binnenmarkt – doch seine Formulierungen lassen Spielraum.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c62l6w03lwzo"
+                  "name": "cash.ch",
+                  "url": "https://www.cash.ch/news/top-news/iran-krieg-trifft-europas-wirtschaft-wachstum-sinkt-preise-steigen-923104"
                 },
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-hoffnung-auf-baldiges-ende-des-iran-kriegs-wall-street-schliesst-im-plus/100213770.html"
+                },
+                {
+                  "name": "Zeit Online",
+                  "url": "https://www.zeit.de/wirtschaft/2026-03/wirtschaftswachstum-gemeinschaftsprognose-irankrieg-rwi-torsten-schmidt"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/klimaanpassung/energie-in-der-schweiz-die-milliardenschwere-rechnung-des-nahostkonflikts/91181834"
+                },
+                {
+                  "name": "DW",
+                  "url": "https://www.dw.com/de/oelpreise-gas-anstieg-boersen-iran-krieg-katar-wirtschaft-deutschland-hormus-bahrain-trump/a-76273905"
                 }
               ]
             },
             {
-              "id": "2026-04-01-trump-birthright-supreme-court",
-              "slug": "trump-birthright-supreme-court",
-              "title": "Historisch: Trump persönlich beim Supreme Court – Geburtsrecht auf dem Prüfstand",
-              "date": "2026-04-01",
-              "time": "18:00",
-              "category": "international",
-              "icon": "⚖️",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Erstmals in der Geschichte erscheint ein amtierender US-Präsident persönlich vor dem Supreme Court. Verhandelt wird, ob in den USA Geborene automatisch Staatsbürger sind.",
-              "summary": "Der US Supreme Court verhandelt Trumps Vorstoss, das verfassungsmässig garantierte Geburtsrecht auf Staatsbürgerschaft einzuschränken. Trump erschien persönlich – ein Novum. Der 14. Verfassungszusatz garantiert seit 1868 allen in den USA Geborenen die Staatsbürgerschaft. Hunderttausende Babys wären betroffen.",
-              "gegenstimme": "Verfassungsrechtler halten die Klausel für eindeutig. Die Gegenposition argumentiert, dass die Gründerväter nicht an 'Geburtstourismus' gedacht hätten. Unabhängig vom Ausgang: Die symbolische Dimension eines Präsidenten, der persönlich vor dem Gericht erscheint, um Bürgerrechte einzuschränken, ist beispiellos.",
+              "id": "2026-04-02-spacex-boersengang-rekord",
+              "slug": "spacex-boersengang-rekord",
+              "title": "SpaceX plant grössten Börsengang der Geschichte – Bewertung über 1 Billion Dollar",
+              "date": "2026-04-02",
+              "time": "06:00",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "morning",
+              "image": "https://techcrunch.com/wp-content/uploads/2026/04/startup-funding.jpg",
+              "kurz": "SpaceX hat vertraulich einen IPO-Antrag bei der US-Börsenaufsicht SEC eingereicht. Eine Bewertung von über einer Billion Dollar würde es zum wertvollsten Börsengang der Geschichte machen.",
+              "summary": "Elon Musks Raumfahrtunternehmen SpaceX hat vertraulich bei der SEC einen IPO-Antrag eingereicht. Ziel ist ein Börsengang voraussichtlich im Juni 2026, bei dem über 50 Milliarden Dollar eingesammelt werden sollen. Mit einer erwarteten Marktkapitalisierung von über einer Billion Dollar – nach einer internen Bewertung von 1.25 Billionen Dollar nach der xAI-Übernahme – wäre es der grösste Börsengang der Geschichte. Musks Anteil würde ihn zum ersten Billionär der Welt machen.",
+              "gegenstimme": "Kritische Analysten warnen vor einer Überbewertung: SpaceX ist hochprofitabel durch Starlink, aber ein Grossteil des Werts basiert auf zukünftigen Projekten wie dem Mars-Programm, die auf Jahrzehnte hinaus keine Rendite versprechen. Zudem wächst die politische Abhängigkeit von Regierungsaufträgen – ein Risiko, das traditionelle IPO-Investoren scheuen. Musks zunehmende Verstrickung in Politik (DOGE) könnte den Aktienkurs politisch volatil machen.",
               "sources": [
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/live/cj37jn53xk1t"
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c2k35lg92dpo"
                 },
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/us-news/2026/apr/01/supreme-court-birthright-citizenship-case"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-vor-groesstem-boersengang-der-geschichte-was-bekannt-ist/100213860.html"
                 }
               ]
             },
             {
-              "id": "2026-04-01-trump-nato-iran-waffenstillstand",
-              "slug": "trump-nato-iran-waffenstillstand",
-              "title": "Trump behauptet Iran bat um Waffenstillstand – und erwägt NATO-Austritt",
-              "date": "2026-04-01",
-              "time": "18:00",
-              "category": "international",
-              "icon": "💣",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Trump behauptet, Iran habe um Waffenstillstand gebeten. Teheran widerspricht umgehend. Gleichzeitig kritisiert Trump die NATO erneut scharf.",
-              "summary": "US-Präsident Trump erklärte am Mittwoch, Iran habe um einen Waffenstillstand gebeten. Irans Präsident Pezeshkian widersprach sofort. Gleichzeitig verschärfte Trump seine NATO-Kritik und erwähnte erstmals einen möglichen Austritt. Die Signale sind widersprüchlich: Einerseits Deeskalationsrhetorik, andererseits maximale Konfrontation mit europäischen Verbündeten.",
-              "gegenstimme": "Trumps Behauptung könnte innenpolitisch motiviert sein – er braucht einen 'Sieg', um den unpopulären Krieg zu beenden. Irans Dementi folgt dem klassischen Muster: Keine Seite will als die schwächere dastehen.",
-              "sources": [
-                {
-                  "name": "BBC News Live",
-                  "url": "https://www.bbc.com/news/live/c36r5p1l7w3t"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship"
-                },
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-trump-iran-hat-um-waffenstillstand-gebeten"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-gotthard-osterstau-maut",
-              "slug": "gotthard-osterstau-maut",
-              "title": "Gotthard: Blechlawine über Ostern – Maut-Debatte entflammt",
-              "date": "2026-04-01",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🚗",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Der Osterstau am Gotthard ist vorhersehbar – trotzdem fahren alle gleichzeitig. Die Maut-Debatte gewinnt an Fahrt.",
-              "summary": "Wie jedes Jahr staut sich über die Ostertage der Verkehr am Gotthard kilometerlang. Trotz Vorhersagbarkeit ändert niemand sein Verhalten. Die Idee einer Autobahnmaut am Gotthard wird zunehmend diskutiert – die Meinungen gehen aber weit auseinander. Befürworter sehen darin das einzige Mittel zur Verkehrslenkung, Gegner warnen vor einer Zweiklassen-Mobilität.",
-              "gegenstimme": "Eine Maut würde nur die Reichen durchlassen und widerspricht dem Schweizer Verständnis von Gleichbehandlung im Strassenverkehr. Andererseits: Der Status quo – stundenlanger Stau, Umweltbelastung, Notfall-Blockaden – ist auch keine Lösung.",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/schweiz/blechlawine-am-gotthard-alle-wissen-es-und-fahren-trotzdem-in-den-osterstau"
-                },
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/schweiz/osterstau-am-gotthard-an-moeglicher-autobahnmaut-scheiden-sich-die-geister"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-schweiz-patriot-beschaffung",
-              "slug": "schweiz-patriot-beschaffung",
-              "title": "Bundesrat Pfister schliesst Abbruch der Patriot-Beschaffung nicht aus",
-              "date": "2026-04-01",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Verteidigungsminister Pfister nennt erstmals den Abbruch der US-Luftabwehrsystem-Beschaffung als mögliche Option.",
-              "summary": "Bei der Beschaffung des US-Luftabwehrsystems Patriot harzt es seit Längerem. Bundesrat Martin Pfister erwähnte nun erstmals öffentlich einen Abbruch als mögliche Option. Die Schweiz sucht seit Jahren nach einer Nachfolgelösung für ihre Luftverteidigung, doch die Patriot-Beschaffung steckt in Schwierigkeiten – verschärft durch die angespannten Beziehungen zu den USA im Kontext des Iran-Kriegs.",
-              "gegenstimme": "Ein Abbruch würde die Schweiz sicherheitspolitisch in ein Vakuum stürzen. Alternative europäische Systeme (IRIS-T, Aster) wären nicht schneller verfügbar. Andererseits: Sich von einem unzuverlässigen Lieferanten abhängig zu machen, ist auch keine Lösung.",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/schweiz/us-luftabwehrsystem-pfister-erwaehnt-abbruch-der-patriot-beschaffung-als-option"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-01-wuhan-robotaxi-massenausfall",
-              "slug": "wuhan-robotaxi-massenausfall",
-              "title": "Über 100 Robotaxis blockieren Verkehr in Wuhan – Systemausfall bei Baidu",
-              "date": "2026-04-01",
-              "time": "18:00",
+              "id": "2026-04-02-openai-bewertung-rekordfinanzierung",
+              "slug": "openai-bewertung-rekordfinanzierung",
+              "title": "OpenAI: 852-Milliarden-Bewertung nach Rekordfinanzierung",
+              "date": "2026-04-02",
+              "time": "06:00",
               "category": "tech",
-              "icon": "🚗",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Mehr als 100 autonome Taxis von Baidu blieben mitten im Verkehr in Wuhan stehen. Ein Systemausfall legte ganze Strassenzüge lahm.",
-              "summary": "Ein massiver Systemausfall bei Baidus Apollo-Go-Robotaxi-Dienst hat in der chinesischen Metropole Wuhan mindestens 100 selbstfahrende Fahrzeuge zum Stillstand gebracht. Die Autos stoppten mitten auf der Strasse und blockierten den Verkehr. Videos zeigen eine Highway-Kollision als Folge. Baidu hat sich bisher nicht geäussert.",
-              "gegenstimme": "Autonome Fahrzeuge sind statistisch sicherer als menschliche Fahrer. Aber dieser Vorfall zeigt ein einzigartiges Risiko: Wenn das System ausfällt, fallen alle Fahrzeuge gleichzeitig aus – ein Risiko, das bei menschlichen Fahrern nicht existiert.",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://techcrunch.com/wp-content/uploads/2026/01/openai-revenue.jpg",
+              "kurz": "OpenAI schliesst die grösste Finanzierungsrunde der Startup-Geschichte ab: 122 Milliarden Dollar von Amazon, Nvidia und Softbank treiben die Bewertung auf 852 Milliarden Dollar.",
+              "summary": "Mit einer Finanzierungsrunde von 122 Milliarden Dollar hat OpenAI im März 2026 einen neuen Weltrekord aufgestellt. Investoren wie Amazon, Nvidia und Softbank stützen die Bewertung des ChatGPT-Entwicklers auf 852 Milliarden Dollar. Das globale Startup-Funding brach im ersten Quartal 2026 alle Rekorde: 297 Milliarden Dollar wurden investiert – 2,5-mal mehr als im Vorquartal. Vier Mega-Deals – OpenAI, Anthropic, xAI und Waymo – machten dabei rund 63 Prozent des gesamten Volumens aus.",
+              "gegenstimme": "Kritiker warnen vor einer neuen Technologie-Blase: Die Konzentration auf wenige Mega-Deals verdecke, dass der breite Startup-Markt auf normalem Niveau bleibt. Zudem bleibt OpenAI weiterhin nicht börsenkotiert, was Transparenz und Liquidität für Anleger einschränkt.",
               "sources": [
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cvge91r9j80o"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/ki/ki-rekordfinanzierungsrunde-openai-mit-852-milliarden-dollar-bewertet/100213652.html"
+                },
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/"
+                },
+                {
+                  "name": "Crunchbase",
+                  "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-02-schweiz-bevölkerung-ki-tools",
+              "slug": "schweiz-bevölkerung-ki-tools",
+              "title": "76% der Schweizer nutzen KI-Tools täglich – und misstrauen Tech-Konzernen",
+              "date": "2026-04-02",
+              "time": "06:00",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/86b160b2-10a6-4ced-8a94-04f8ad5535e9_w520_r2.08_fpx33.34_fpy50.jpg",
+              "kurz": "76 Prozent der Schweizer Bevölkerung nutzen KI-Tools im Alltag – gleichzeitig halten 90 Prozent die grossen Tech-Konzerne für rein profitorientiert und fordern staatliche Regulierung.",
+              "summary": "Laut einer Comparis-Umfrage vom März 2026 nutzen drei Viertel der erwachsenen Schweizer Bevölkerung Künstliche Intelligenz im Alltag – ein Anstieg von fast 14 Prozentpunkten gegenüber dem Vorjahr. Parallel dazu zeigt eine Studie von gfs.bern für die Stiftung Mercator Schweiz: 90 Prozent der Befragten glauben, Big-Tech-Unternehmen seien ausschliesslich profitorientiert, und 94 Prozent fordern stärkeren Schutz für Kinder in sozialen Netzwerken. Eine grosse Mehrheit erwartet staatliche Regulierung von KI-Entscheiden.",
+              "gegenstimme": "Befürworter weniger staatlicher Eingriffe warnen vor Überregulierung, die Innovationen hemmt. Auch die Nutzerzahlen zeigen: Die Bevölkerung nimmt KI-Tools bereitwillig an, trotz Misstrauen gegenüber den Anbietern. Das könnte bedeuten, dass der wahrgenommene Nutzen das Misstrauen überwiegt – und regulatorische Massnahmen über das Ziel hinausschiessen könnten.",
+              "sources": [
+                {
+                  "name": "Swissinfo (Comparis-Umfrage)",
+                  "url": "https://www.swissinfo.ch/ger/drei-viertel-der-bev%c3%b6lkerung-nutzt-ki-tools-im-alltag/91198062"
+                },
+                {
+                  "name": "Swissinfo (gfs.bern-Studie)",
+                  "url": "https://www.swissinfo.ch/ger/digitale-demokratie/die-schweizer-bev%c3%b6lkerung-misstraut-google-tiktok-und-meta/91180831"
                 }
               ]
             }
