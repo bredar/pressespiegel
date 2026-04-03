@@ -1,5 +1,5 @@
 {
-  "updated": "05:51 UTC",
+  "updated": "10:52 UTC",
   "days": [
     {
       "date": "2026-04-03",
@@ -408,6 +408,187 @@
                 {
                   "name": "TechCrunch (Anthropic)",
                   "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-04-03-iran-nobelpreis-herzanfall",
+              "slug": "iran-nobelpreis-herzanfall",
+              "title": "Iranische Nobelpreisträgerin Mohammadi erleidet Herzanfall im Gefängnis",
+              "date": "2026-04-03",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🏥",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Narges Mohammadi, iranische Friedensnobelpreisträgerin, soll im Gefängnis Zanjan einen Herzanfall erlitten haben – eine Verlegung ins Spital wurde verweigert.",
+              "summary": "Die 53-jährige Menschenrechtsaktivistin und Nobelpreisträgerin Narges Mohammadi wurde laut Aussage ihres Bruders am 24. März 2026 bewusstlos in ihrer Gefängniszelle aufgefunden. Mithäftlinge trugen sie in die Krankenstation, wo sie mit Medikamenten stabilisiert wurde – doch eine Spitaleinweisung lehnten die Behörden trotz ihrer bekannten Herz- und Lungenprobleme ab. Ihr Bruder Hamidreza Mohammadi warnt, ihr Leben sei in unmittelbarer Gefahr, auch wegen der Belastungen durch den laufenden US-israelischen Krieg gegen Iran.",
+              "gegenstimme": "Die iranischen Behörden haben sich zu den Vorwürfen nicht öffentlich geäussert. Das Regime bezeichnet politische Gefangene wie Mohammadi als Verurteilte wegen 'staatsfeindlicher Propaganda', nicht als Gewissensgefangene.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cdj7xye8knxo"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-kuba-gefangene-freilassung",
+              "slug": "kuba-gefangene-freilassung",
+              "title": "Kuba kuendigt Freilassung von ueber 2000 Gefangenen an",
+              "date": "2026-04-03",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "midday",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1280px-Flag_of_Cuba.svg.png",
+              "kurz": "Die kubanische Regierung hat die Begnadigung von 2010 Gefangenen angekuendigt und bezeichnet dies als humanitaere Geste zur Osterwoche. Beobachter sehen einen Zusammenhang mit einer Lockerung des US-Oelembargos.",
+              "summary": "Kuba will 2010 Gefangene freilassen – darunter Auslaender, Frauen, Jugendliche und aeltere Personen. Havanna stellt die Massnahme als Ostergest dar, doch Analysten vermuten einen politischen Deal: Kurz zuvor liess die US-Marine erstmals seit Verhaengung des Oelembargos einen russischen Tanker mit fast 730 000 Barrel Rohoel nach Kuba passieren. Die tatsaechliche Freilassung politischer Gefangener aus den Protesten von 2021 bleibt unklar.",
+              "gegenstimme": "Menschenrechtsorganisationen wie Human Rights Watch und Prisoners Defenders bezweifeln, dass echte politische Gefangene freigelassen werden. Laut Prisoners Defenders sitzen Stand Anfang Maerz 1214 politische Gefangene in Kuba ein. Havanna bestreitet deren Existenz. Kritiker sehen die Freilassung als taktisches Zugestaendnis ohne substanzielle politische Oeffnung.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/humanitaere-und-souveraene-geste-kuba-kuendigt-die-freilassung-von-mehr-als-zweitausend-gefangenen-an-ld.1932318"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-merz-sautter-iran-diplomatie",
+              "slug": "merz-sautter-iran-diplomatie",
+              "title": "Merz schickt Vertrauten nach Washington – Europas Diplomatie im Iran-Konflikt",
+              "date": "2026-04-03",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🤝",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/fc317ba7-3641-4a8d-89a2-02857c25210b_w520_r2.08_fpx60.65_fpy44.96.jpg",
+              "kurz": "Bundeskanzler Friedrich Merz hat einen persoenlichen Vertrauten nach Washington entsandt, um im Iran-Konflikt zu vermitteln. Gleichzeitig beraten mehr als 40 Laender, wie die gesperrte Strasse von Hormuz wieder geoeffnet werden kann.",
+              "summary": "Waehrend der Krieg gegen Iran anhalt, arbeiten europaeische Staaten auf Hochtouren an diplomatischen Loesungen. Deutschland schickte einen Kanzlerberater nach Washington, um Trump zu beschwichtigen und einen moeglichen NATO-Austritt der USA abzuwenden. Mehr als 40 Laender nahmen an einem virtuellen Gipfel teil, der Sanktionsdruck und internationale Kooperation zur Wiederoeffnung der Strasse von Hormuz zum Ziel hatte. Die USA waren nicht dabei – Praesident Trump forderte stattdessen die Verbuendeten auf, selbst aktiv zu werden.",
+              "gegenstimme": "Kritiker wenden ein, dass die europaeische Diplomatie zu wenig entschlossen wirkt: Frankreichs Praesident Macron schliesst militaerische Optionen aus und setzt auf Verhandlungen mit Iran – ein Ansatz, der angesichts der laufenden Kriegshandlungen als realitaetsfern gilt. Zudem besteht die Gefahr, dass Europa durch zu viel Beschwichtigungspolitik gegenueber Washington an Glaubwuerdigkeit verliert.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzlerberater-sautter-auf-iran-mission-in-den-usa-a-b6f1a23f-13df-4401-a2ad-71906c4b9d8c"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cx2d0md89v2o"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/krieg-in-nahost-johann-wadephul-besorgt-ueber-nato-austrittsdrohung-von-donald-trump-a-09cd283c-3d08-4cb8-ac91-36913cfe2145"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-myanmar-militaer-praesident",
+              "slug": "myanmar-militaer-praesident",
+              "title": "Myanmar: Putsch-General Min Aung Hlaing wird Präsident",
+              "date": "2026-04-03",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Fünf Jahre nach seinem Militärputsch gegen Aung San Suu Kyi wurde General Min Aung Hlaing vom neu gewählten Parlament Myanmars zum Präsidenten ernannt.",
+              "summary": "Das neu einberufene Parlament Myanmars wählte am Donnerstag den bisherigen Putsch-General Min Aung Hlaing zum Staatspräsidenten. Er legte sein Amt als Armeechef nieder, wie es die Verfassung vorschreibt. Doch die Machtverhältnisse bleiben dieselben: Das Parlament ist mit Loyalisten besetzt, die Militärpartei USDP gewann rund 80 Prozent der zivilen Sitze. Beobachter sprechen von einer Krönung, nicht einer Wahl. Der Bürgerkrieg, der seit dem Coup 2021 Tausende das Leben kostete und Millionen vertrieb, dürfte weitergehen.",
+              "gegenstimme": "Die Nationale Einheitsregierung (NUG) – die im Exil operierende demokratische Gegenregierung – bezeichnet Wahl und Parlament als vollständig illegitim und bekräftigt, den Kampf fortzusetzen. Aktivist Mya Aye ruft zu Dialog und Freilassung aller politischen Gefangenen auf.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c1782nk0018o"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-bern-kita-missbrauch",
+              "slug": "bern-kita-missbrauch",
+              "title": "Schwerer Missbrauchsfall in Berner Kita: Mindestens 15 Kleinkinder betroffen",
+              "date": "2026-04-03",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🚨",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/4uGLgsmmqKQAWPGVdCqM6H.jpg",
+              "kurz": "Ein ehemaliger Kita-Gruppenleiter aus dem Raum Bern soll mindestens 15 Kleinkinder zwischen 1 und 4 Jahren sexuell missbraucht und die Taten gefilmt haben.",
+              "summary": "Ein 33-jähriger Mann, der als Gruppenleiter in Kindertagesstätten im Raum Bern und Winterthur tätig war, ist wegen sexueller Übergriffe an mindestens 15 Kleinkindern angeklagt. Die Taten sollen sich über eineinhalb Jahre ereignet haben. Der Mann ist grösstenteils geständig. Besonders stossend: Bereits 2022 wurde ein Verdacht gemeldet, das Verfahren aber eingestellt – woraufhin der Mann in Bern eine neue Stelle antrat. Der Prozess vor dem Regionalgericht Bern wurde verschoben, nachdem der amtliche Verteidiger den Fall abgegeben hat.",
+              "gegenstimme": "Die Kita-Leitungen beider betroffenen Institutionen betonen, Schutzkonzepte seien vorhanden und gelebt worden. Opferanwältin Laura Jost zweifelt daran: Bei derart systematischem Missbrauch an so vielen Kindern müsse es organisatorische Mängel gegeben haben.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/kitas-in-be-und-zh-betroffen-kita-betreuer-soll-mehrere-kleinkinder-missbraucht-haben"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/winterthur-und-bern-kita-gruppenleiter-soll-15-kinder-sexuell-misshandelt-haben-103533604"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-kita-mitarbeiter-missbrauchte-15-kinder-trotz-verdacht-726677387252"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-iran-stahl-wirtschaft",
+              "slug": "iran-stahl-wirtschaft",
+              "title": "Iran-Krieg trifft Wirtschaft: Stahlwerke stillgelegt, Deutschland droht Gaskrise",
+              "date": "2026-04-03",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🏭",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/a949ee83-d180-4e73-8975-d72186236448_w520_r2.08_fpx49.34_fpy50.jpg",
+              "kurz": "Die zwei groessten Stahlwerke Irans sind nach US-israelischen Luftangriffen vollstaendig stillgelegt. In Deutschland droht angesichts gesperrter Gaswege und leerer Speicher eine neue Energiekrise.",
+              "summary": "Irans zwei groesste Stahlproduzenten – Khuzestan Steel und Mobarakeh Steel – haben ihre Produktion nach massiven Luftangriffen eingestellt; eine Wiedereröffnung wird auf sechs Monate bis ein Jahr geschaetzt. Die Sperrung der Strasse von Hormuz hat die weltweiten Gaspreise verdoppelt und bedroht Deutschlands Speicherziele fuer den naechsten Winter. Russland profitiert als Alternativlieferant massiv von der Lage und nimmt im Maerz bis zu 17,6 Milliarden Dollar durch Rohstoffexporte ein. Europa steht vor einem Dilemma: Den Energiebedarf decken oder Russlands Kriegskasse fuellen.",
+              "gegenstimme": "Die NZZ weist darauf hin, dass die gesetzlichen deutschen Fuellstandsvorgaben fuer Gasspeicher den Markt verzerren und staatliche Notkaufe wahrscheinlicher machen – was Steuerzahler teuer zu stehen kommen koennte, aehnlich wie 2022 mit ueber 13 Milliarden Euro. Zudem profitiert ausgerechnet Russland von der westlichen Schwaeche bei der Energieversorgung.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/iran-krieg-droht-deutschland-eine-neue-gaskrise-ld.1932267"
+                },
+                {
+                  "name": "NZZ Pro",
+                  "url": "https://www.nzz.ch/pro/russland-verdient-milliarden-am-iran-krieg-ld.1932054"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-amazon-globalstar-satellit",
+              "slug": "amazon-globalstar-satellit",
+              "title": "Amazon verhandelt 9-Milliarden-Übernahme von Globalstar – Kampf gegen Starlink",
+              "date": "2026-04-03",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🛰️",
+              "edition": "midday",
+              "image": "",
+              "kurz": "Amazon führt laut Financial Times fortgeschrittene Gespräche zur Übernahme des Satellitenbetreibers Globalstar für rund 9 Milliarden US-Dollar, um sein Project-Kuiper-Netzwerk zu beschleunigen.",
+              "summary": "Amazon verhandelt über den Kauf von Globalstar, dem Unternehmen hinter Apples Satelliten-Notruffunktion. Die Übernahme würde Amazon im Rennen um Satelliten-Internet gegen Elon Musks Starlink massiv stärken. Apple hält 20 Prozent an Globalstar und ist in die Gespräche eingebunden. Der Deal wird auf rund 9 Milliarden US-Dollar geschätzt. Auch SpaceX hatte Interesse gezeigt.",
+              "gegenstimme": "Eine Übernahme durch Amazon würde Apple in eine Abhängigkeit von einem direkten Konkurrenten bringen, da das iPhone-Netzwerk auf Globalstar-Infrastruktur basiert. Apple dürfte Garantien für den weiteren Netzzugang fordern.",
+              "sources": [
+                {
+                  "name": "Macerkopf",
+                  "url": "https://www.macerkopf.de/2026/04/02/amazon-uebernahme-apples-satellitenpartner-globalstar/"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/forschung-innovation/uebernahme-amazon-will-offenbar-satellitenfirma-globalstar-kaufen/100214027.html"
+                },
+                {
+                  "name": "Financial Times",
+                  "url": "https://www.ft.com/content/abace066-fe93-4ff0-8378-d3c3eb49519c"
                 }
               ]
             }
