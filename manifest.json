@@ -1,37 +1,33 @@
 {
-  "updated": "15:09 UTC",
+  "updated": "05:51 UTC",
   "days": [
     {
-      "date": "2026-04-02",
+      "date": "2026-04-03",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-04-02-artemis-2-astronauten-weltall",
-              "slug": "artemis-2-astronauten-weltall",
-              "title": "Artemis II: Vier Astronauten auf dem Weg zum Mond – erste Bilder aus dem All",
-              "date": "2026-04-02",
-              "time": "06:00",
+              "id": "2026-04-03-artemis-II-mondmission",
+              "slug": "artemis-II-mondmission",
+              "title": "Artemis II: Erstmals wieder Menschen auf dem Weg zum Mond",
+              "date": "2026-04-03",
+              "time": "07:00",
               "category": "international",
               "icon": "🚀",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/f9bf306c-6370-4dbd-913c-edcb05ed7a75_w520_r2.08_fpx69.98_fpy50.97.jpg",
-              "kurz": "Die NASA-Mission Artemis II ist erfolgreich gestartet. Vier Astronauten befinden sich erstmals seit 53 Jahren auf dem Weg zum Mond – die Orion-Kapsel umkreist derzeit die Erde.",
-              "summary": "In der Nacht auf Donnerstag hob das Space Launch System der NASA vom Kennedy Space Center in Florida ab. An Bord der Orion-Kapsel: Commander Reid Wiseman, Pilot Victor Glover, Spezialistin Christina Koch und der kanadische Astronaut Jeremy Hansen. Die Mission dauert neun Tage und ist ein Testflug ohne Mondlandung – sie soll jedoch den Weg für eine Landung 2028 ebnen. Technische Probleme kurz vor dem Start konnten behoben werden.",
-              "gegenstimme": "Kritiker verweisen auf die massiven Kostenüberschreitungen des Artemis-Programms: Die NASA hat bisher rund 93 Milliarden Dollar investiert, ohne je eine Mondlandung durchgeführt zu haben. Manche Raumfahrtexperten bezweifeln, ob das State-Launch-System langfristig konkurrenzfähig gegenüber privatwirtschaftlichen Trägersystemen wie SpaceX Starship sein kann.",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-20260120-PH-FMX01_0061large-1.jpg",
+              "kurz": "Erstmals seit 1972 sind wieder Menschen auf dem Weg zum Mond. Die NASA-Crew der Artemis-II-Mission hat die Erdumlaufbahn verlassen und fliegt der Rückseite des Monds entgegen.",
+              "summary": "In der Nacht vom 1. auf den 2. April 2026 startete die NASA-Artemis-II-Mission vom Kennedy Space Center in Florida. Vier Astronauten – drei Amerikaner und ein Kanadier – befinden sich an Bord der Orion-Kapsel auf dem Weg zum Mond, dem ersten bemannten Mondflug seit der Apollo-17-Mission von 1972. Am zweiten Flugtag zündete die Crew erfolgreich das Haupttriebwerk und verliess die Erdumlaufbahn. Die 10-tägige Mission soll den Weg für eine Mondlandung 2028 ebnen.",
+              "gegenstimme": "Kritiker und unabhängige Raumfahrtexperten äussern Skepsis gegenüber dem ambitionierten Zeitplan: Eine Mondlandung 2028, wie von der NASA und Trump angepeilt, gilt angesichts der bisherigen Verzögerungen und der Abhängigkeit vom Privatsektor für viele als unrealistisch. Das Artemis-Programm hat Milliarden mehr gekostet als geplant und sich mehrfach verschoben.",
               "sources": [
                 {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d"
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit"
                 },
                 {
                   "name": "NZZ",
                   "url": "https://www.nzz.ch/wissenschaft/heute-sollen-erstmals-wieder-astronauten-um-den-mond-fliegen-in-wenigen-stunden-heben-sie-ab-ld.1922643"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/live/c4g4ygw0r02t"
                 },
                 {
                   "name": "Ars Technica",
@@ -40,632 +36,378 @@
               ]
             },
             {
-              "id": "2026-04-02-iran-trump-ansprache-sieg",
-              "slug": "iran-trump-ansprache-sieg",
-              "title": "Trump erklärt Iran-Krieg für gewonnen – aber Geheimdienste zweifeln",
-              "date": "2026-04-02",
-              "time": "06:00",
+              "id": "2026-04-03-hegseth-heereschef-entlassen",
+              "slug": "hegseth-heereschef-entlassen",
+              "title": "Hegseth feuert Heereschef mitten im Iran-Krieg",
+              "date": "2026-04-03",
+              "time": "07:00",
               "category": "international",
-              "icon": "🇺🇸",
+              "icon": "🎖️",
               "edition": "morning",
-              "image": "https://image.20min.ch/2026/04/02/1fa1dba8-d602-49aa-8760-96517c2dfbed.jpg",
-              "kurz": "Trump erklärte in einer Fernsehansprache den Sieg über Iran – gleichzeitig drohte er mit noch härteren Angriffen und zweifeln US-Geheimdienste am Verhandlungswillen Teherans.",
-              "summary": "US-Präsident Trump wandte sich erstmals seit Kriegsbeginn in einer 19-minütigen Primetime-Rede aus dem Weissen Haus an die Nation. Er behauptete, Iran sei militärisch und wirtschaftlich besiegt. Gleichzeitig drohte er, alle iranischen Kraftwerke anzugreifen, falls kein Abkommen zustande kommt. US-Geheimdienste berichten jedoch, Teheran sei nicht zu echten Verhandlungen bereit.",
-              "gegenstimme": "Kritiker weisen auf den offensichtlichen Widerspruch in Trumps Rede hin: Wer seinen Feind für besiegt erklärt, droht nicht gleichzeitig mit 'extrem harten' neuen Angriffen in zwei bis drei Wochen. Iranische Staatsmedien bezeichneten die Rede als Propagandaveranstaltung und bestritten, verhandlungsbereit zu sein.",
-              "sources": [
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-trump-bekraeftigt-baldiges-kriegsende-doch-der-oelpreis-steigt/100213875.html"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/trump-spricht-zur-nation-und-droht-iran-wir-schicken-sie-zurueck-ins-steinzeitalter-wo-sie-hingehoeren-ld.1932184"
-                },
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-news-heute-us-geheimdienste-zweifeln-an-teherans-verhandlungswillen-a-8d01d13b-430f-4a0b-a0be-b7f83cee8058"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-iran-uae-hormuz-eskalation",
-              "slug": "iran-uae-hormuz-eskalation",
-              "title": "Emirate wollen Hormuz-Strasse gewaltsam öffnen – neue Eskalationsstufe",
-              "date": "2026-04-02",
-              "time": "06:00",
-              "category": "international",
-              "icon": "⚓",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/b203daa2-8f1f-4ce9-b174-9dad4dac86e6_w520_r2.08_fpx51_fpy50.jpg",
-              "kurz": "Die Vereinigten Arabischen Emirate erwägen laut Berichten eine militärische Öffnung der Strasse von Hormuz. Iran hat unterdessen ein De-facto-Mautsystem eingerichtet – bis zu zwei Millionen Dollar pro Durchfahrt.",
-              "summary": "Iran hat die Strasse von Hormuz faktisch unter Kontrolle gebracht und verlangt von Schiffen bis zu zwei Millionen Dollar Passagegebühren – rechtlich eine klare Verletzung des internationalen Seerechts. Die UAE prüfen nun offenbar militärische Massnahmen zur Öffnung der Meerenge, einschliesslich Minenräumung. Experten des Seevölkerrechts betonen: Die freie Durchfahrt durch internationale Meerengen ist auch im Krieg garantiert. Frankreich fand bisher keine Minen.",
-              "gegenstimme": "Iran beruft sich auf seine Territorialgewässer und den Ausnahmezustand im Krieg. Völkerrechtler wie Anna Petrig von der Universität Basel sind klar: Iran hat keine rechtliche Grundlage für Gebühren oder Sperrungen. Allerdings ist die Durchsetzung des Seevölkerrechts ohne militärische Mittel faktisch unmöglich – was die Eskalationsgefahr erhöht.",
-              "sources": [
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-emirate-wollen-strasse-von-hormus-offenbar-gewaltsam-oeffnen/100213733.html"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/iran-verlangt-gebuehren-fuer-hormuz-passage-erlaubt-dies-das-seerecht-ld.1931794"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-lampedusa-19-migranten-tot",
-              "slug": "lampedusa-19-migranten-tot",
-              "title": "Lampedusa: Küstenwache birgt 19 Migranten-Leichen",
-              "date": "2026-04-02",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/bc8edc4f-1b85-49d4-a443-94bb816560c0_w520_r2.08_fpx36.65_fpy52.99.jpg",
-              "kurz": "Italiens Küstenwache hat 19 tote Migranten aus dem Mittelmeer geborgen. In nur drei Tagen kamen nach Schätzungen mindestens 104 Menschen bei der Überfahrt ums Leben.",
-              "summary": "Nach dem Kentern eines Migrationsbootes vor Lampedusa hat die italienische Küstenwache 19 Leichen geborgen und 58 Menschen gerettet. Das Boot war am 30. März in Westlibyen gestartet. Laut der Hilfsorganisation Sea-Watch starben in den vorangegangenen drei Tagen mindestens 104 Menschen im Mittelmeer. Die Internationale Organisation für Migration (IOM) zählt für 2026 bereits 643 bekannte Todesfälle auf der zentralen Mittelmeerroute – eine der höchsten Zahlen seit 2014.",
-              "gegenstimme": "Europäische Regierungen verweisen auf sinkende Gesamtankunftszahlen als Erfolg ihrer Migrationspolitik. Im ersten Quartal 2026 erreichten 6117 Menschen Italien auf dem Seeweg – deutlich weniger als die 11'416 im gleichen Zeitraum 2024. Kritiker halten dagegen, dass weniger Ankünfte nicht weniger Tote bedeuten, sondern gefährlichere Routen.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/bei-lampedusa-kuestenwache-birgt-leichen-von-19-migranten-a-860650b1-7944-414f-8c4d-8c99673102f4"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-seebeben-indonesien-tsunami",
-              "slug": "seebeben-indonesien-tsunami",
-              "title": "Seebeben 7.4 vor Indonesien: Tsunami-Warnung ausgelöst, eine Tote",
-              "date": "2026-04-02",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🌊",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/42c263ee-f04d-4cf1-8dd2-9f2cb3bdacbd_w520_r2.08_fpx55.47_fpy50.jpg",
-              "kurz": "Ein Erdbeben der Stärke 7.4 erschütterte die Molukken-See vor Indonesiens Ternate-Insel. Eine 70-jährige Frau kam ums Leben, Tsunami-Warnungen für mehrere Länder wurden inzwischen aufgehoben.",
-              "summary": "Am frühen Donnerstagmorgen (Ortszeit 06:48 Uhr) bebte es mit der Magnitude 7.4 in der Molukken-See vor Ternate, Indonesien. Das Beben in 35 km Tiefe löste Tsunami-Warnungen für Guam, Japan, Malaysia, Papua-Neuguinea, die Philippinen und Taiwan aus. Eine 70-jährige Frau in Nordsulawesi starb unter Trümmern, eine weitere Person wurde verletzt. Nach zwei Stunden wurden alle Warnungen aufgehoben, die tatsächlichen Tsunamiwellen blieben mit unter 0.3 Metern gering.",
-              "gegenstimme": "Einige Bewohner der Region kritisieren die Evakuierungsinfrastruktur als unzureichend: In Küstenstädten wie Bitung dauerte die Kommunikation von Behördenwarnungen zu den Menschen zu lange. Experten weisen darauf hin, dass Indonesia trotz seiner extremen seismischen Aktivität in vielen Küstengemeinden noch immer keine lückenlosen Frühwarnsysteme besitzt.",
+              "image": "https://cdn.prod.www.spiegel.de/images/789d88c1-65ac-4d9b-b49e-eef1e7cb9de0_w520_r2.08_fpx50_fpy42.jpg",
+              "kurz": "US-Verteidigungsminister Pete Hegseth hat den Generalstabschef des Heeres, Randy George, mitten im laufenden Iran-Krieg mit sofortiger Wirkung entlassen – ohne Angabe von Gründen.",
+              "summary": "Pentagonchef Pete Hegseth liess General Randy George, den ranghöchsten Offizier des US-Heeres, am 3. April 2026 mit sofortiger Wirkung in den Ruhestand versetzen. Keine offizielle Begründung wurde genannt. George war 2023 unter Biden ernannt worden und hatte im Golfkrieg, im Irak und in Afghanistan gedient. Es ist Hegseths bisher spektakulärste Entlassung – und die erste eines Heereschefs mitten in einem aktiven Kriegsszenario. Nachfolger wird vorerst der stellvertretende Heereschef General Christopher LaNeve.",
+              "gegenstimme": "Militärexperten warnen: Das Entlassen von erfahrenen Spitzenoffizieren mitten in einem aktiven Krieg ist aus Sicht der militärischen Doktrin hochriskant. Kontinuität in der Führungskette ist entscheidend. Die Frage, ob Loyalität gegenüber der politischen Führung ein Ersatz fuer operative Erfahrung sein kann, stellt sich gerade bei LaNeve, der noch nie ein vergleichbares Kommando hatte.",
               "sources": [
                 {
                   "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/cn53krrrr24o"
+                  "url": "https://www.bbc.com/news/articles/cn8d63v058zo"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/international/mitten-im-iran-krieg-hegseth-draengt-generalstabschef-des-us-heeres-zum-ruecktritt/100214221.html"
                 },
                 {
                   "name": "Spiegel",
-                  "url": "https://www.spiegel.de/wissenschaft/natur/indonesien-tsunamiwarnung-nach-schwerem-beben-aber-keine-opfer-erwartet-a-067587bb-3440-4f7a-a608-8f2a8b30934c"
+                  "url": "https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-wirft-heereschef-randy-george-raus-a-f743a0de-eab7-42c2-bc0b-1fd48466e2cc"
                 }
               ]
             },
             {
-              "id": "2026-04-02-syrien-rueckkehrer-zukunft",
-              "slug": "syrien-rueckkehrer-zukunft",
-              "title": "Syrien: Die ersten Rückkehrer – Träume, Geschäftsideen und ungewisse Zukunft",
-              "date": "2026-04-02",
-              "time": "06:00",
+              "id": "2026-04-03-iran-europa-dilemma",
+              "slug": "iran-europa-dilemma",
+              "title": "Europas Dilemma: Kritik am Iran-Krieg, aber niemand will Trump reizen",
+              "date": "2026-04-03",
+              "time": "07:00",
               "category": "international",
-              "icon": "🏠",
+              "icon": "🇪🇺",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/2754bb79-d51c-491c-a245-1a56cad042ba_w520_r2.08_fpx33.35_fpy50.jpg",
-              "kurz": "Während Deutschland unter Bundeskanzler Merz Druck auf syrische Flüchtlinge zur Rückkehr ausübt, wagen einige bereits freiwillig den Schritt zurück in die Heimat – mit Hoffnung, aber auch grosser Unsicherheit.",
-              "summary": "Seit dem Sturz des Assad-Regimes Ende 2024 kehren erste syrische Geflüchtete freiwillig in ihr Heimatland zurück. Sie bringen Träume und Geschäftsideen mit, treffen aber auf ein zerstörtes Land mit fragiler politischer Lage. Bundeskanzler Friedrich Merz hat angekündigt, die Rückkehr syrischer Flüchtlinge aktiv fördern zu wollen. Die Debatte zwischen politischem Druck zur Rückkehr und realen Bedingungen vor Ort ist damit neu entfacht.",
-              "gegenstimme": "Menschenrechtsorganisationen und Experten warnen: Die Sicherheitslage in Syrien ist nach wie vor instabil. Teile des Landes sind zerstört, staatliche Strukturen fehlen weitgehend. Eine erzwungene oder unter Druck erfolgte Rückkehr gefährde besonders vulnerable Gruppen – Frauen, Kinder, Angehörige ehemals verfolgter Minderheiten.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/syrien-warum-einige-gefluechtete-freiwillig-in-die-heimat-zurueckkehren-a-b999eb2f-d8b2-43cb-bffe-387a0e52a27f"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-ungarn-wahl-europarat-warnung",
-              "slug": "ungarn-wahl-europarat-warnung",
-              "title": "Ungarn vor der Wahl: Europarat warnt vor 'vergiftetem Klima",
-              "date": "2026-04-02",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🇭🇺",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/86b160b2-10a6-4ced-8a94-04f8ad5535e9_w520_r2.08_fpx33.34_fpy50.jpg",
-              "kurz": "Zehn Tage vor der ungarischen Parlamentswahl mahnt der Europarat: Das Wahlumfeld sei von Angstkampagnen und einseitiger Mediendominanz vergiftet. Oppositionsführer Peter Magyar liegt in Umfragen vorn.",
-              "summary": "Eine Delegation des Europarats hat nach einem zweitägigen Besuch in Budapest ernsthafte Bedenken hinsichtlich der bevorstehenden Wahl am 12. April geäussert. Das Gremium kritisiert ein 'vergiftetes Klima', einseitige Medienlandschaft und aggressive Wahlkampfrhetorik von Regierungsseite. Oppositionsführer Peter Magyar, ein ehemaliger Fidesz-Insider, liegt laut Umfragen vor Amtsinhaber Viktor Orbán und stellt die grösste Herausforderung für dessen Macht seit 2010.",
-              "gegenstimme": "Die ungarische Regierung weist internationale Kritik als Einmischung zurück. Orbán beschuldigt die EU und die Ukraine, die Opposition zu unterstützen. Anhänger der Regierung sehen Magyar als Instrument westlicher Interessen und zweifeln an seiner tatsächlichen Unabhängigkeit.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/ungarn-vor-der-wahl-europarat-krisitiert-vergiftetes-klima-im-land-a-0783fa1b-5c71-4b7b-81da-f8aa943dcefa"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/c78l7vyylgqo"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-schweiz-army-pistole-sig",
-              "slug": "schweiz-army-pistole-sig",
-              "title": "Schweizer Armee kauft durchgefallene Pistole – kaum politische Kritik",
-              "date": "2026-04-02",
-              "time": "06:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/04/01/07b0459c-aeff-4424-86d4-28e5e1f404dd.jpg",
-              "kurz": "Das VBS entschied sich für die SIG Sauer P320 als neue Armee-Dienstpistole – obwohl das Modell im Auswahlverfahren technisch am schlechtesten abschnitt. Das Parlament übt kaum Kritik.",
-              "summary": "Armasuisse hat die SIG Sauer P320 als künftige Dienstpistole der Schweizer Armee ausgewählt, obwohl sie in der technischen Evaluation das schlechteste Ergebnis aller geprüften Modelle erzielte. Rüstungschef Urs Loher griff zugunsten der Schweizer SIG-Sauer-Niederlassung in das Auswahlverfahren ein und priorisierte den Produktionsstandort Schweiz. Im Parlament ist die Kritik verhalten – bürgerliche Parteien unterstützen die Stärkung inländischer Rüstungskapazitäten. Parallel hält der Bund Zahlungen für das US-Luftabwehrsystem Patriot zurück, das wegen des Iran-Kriegs nicht geliefert werden kann.",
-              "gegenstimme": "Kritikerinnen wie SP-Nationalrätin Linda de Ventura sehen im Entscheid ein weiteres Rüstungsdebakel: Eine technisch unterlegene Waffe zu kaufen, um einen Standort zu sichern, schwächt das Vertrauen der Bevölkerung in die Rüstungsbeschaffung – besonders nach mehreren vorherigen Beschaffungsskandalen.",
-              "sources": [
-                {
-                  "name": "Watson",
-                  "url": "https://www.watson.ch/schweiz/armee/201888485-schweizer-politiker-aeussern-kaum-kritik-zu-vbs-entscheid-fuer-sig-pistole"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/patriot-beschaffung-das-vbs-haelt-zahlungen-an-die-usa-weiterhin-zurueck-ld.1932055"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-bern-kita-missbrauch",
-              "slug": "bern-kita-missbrauch",
-              "title": "Schwere Vorwürfe: Sexuelle Übergriffe in Berner Kita über Monate",
-              "date": "2026-04-02",
-              "time": "06:00",
-              "category": "regional",
-              "icon": "⚠️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/8wnJHqINaa1AD2llcVNXVA.jpg",
-              "kurz": "Ein ehemaliger Kita-Betreuer steht vor Gericht, weil er in einer Berner und einer Winterthurer Kita mindestens 15 Kleinkinder sexuell missbraucht haben soll. Die Übergriffe sollen anderthalb Jahre lang unbemerkt geblieben sein.",
-              "summary": "Die Berner Staatsanwaltschaft hat einen 33-jährigen Mann wegen sexueller Übergriffe an mindestens 15 Kleinkindern angeklagt. Die Taten sollen in zwei privaten Kitas stattgefunden haben – einer in der Region Bern und einer in Winterthur – über einen Zeitraum von eineinhalb Jahren. Der Beschuldigte filmte die Übergriffe und besass bei seiner Verhaftung im Februar 2024 über 800 Dateien mit Kinderpornografie. Mütter betroffener Kinder berichten von Ungewissheit und mangelhafter Kommunikation.",
-              "gegenstimme": "Der Fall wirft grundsätzliche Fragen zur Wirksamkeit von Schutzkonzepten auf: Beide Kitas verfügten über entsprechende Konzepte – und dennoch konnte der Missbrauch über anderthalb Jahre andauern. Kritiker fordern unabhängige Aufsichtsmechanismen und verbindliche Referenzauskünfte zwischen Arbeitgebern.",
+              "image": "https://media.guim.co.uk/e8020c2aaa5485d6a3da43ba607d9d742fa43c95/775_150_4326_3461/master/4326.jpg",
+              "kurz": "Europas Regierungen distanzieren sich zunehmend vom Iran-Krieg – doch eine offene Konfrontation mit Trump wagt niemand. Die Angst vor einem NATO-Austritt der USA lähmt Europas Handlungsspielraum.",
+              "summary": "Fünf Wochen nach Kriegsbeginn wächst Europas Unbehagen gegenüber dem US-israelischen Krieg gegen den Iran. Frankreichs Präsident Macron kritisierte Trumps widersprüchliche Kommunikation offen, warnte vor einer Militäroperation bei Hormus als 'unrealistisch' und bestand darauf: 'Das ist nicht unsere Operation.' Gleichzeitig hat Trump offen mit einem NATO-Austritt gedroht, was Europa in eine strategische Zwickmühle treibt. Auf britische Initiative berieten mehr als 40 Staaten über die Sicherung der Hormus-Meerenge – ohne konkrete Ergebnisse.",
+              "gegenstimme": "Polens Ministerpräsident Tusk warnt, dass Trumps NATO-Drohung, kombiniert mit Sanktionslockeru​ngen gegenüber Russland, wie 'Putins Traumplan' aussehe. Experten halten einen US-Kongress-beschlossenen Nato-Austritt für derzeit unrealistisch – doch allein die Drohung untergräbt die Abschreckungswirkung des Bündnisses.",
               "sources": [
                 {
                   "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/kitas-in-be-und-zh-betroffen-kita-betreuer-soll-mehrere-kleinkinder-missbraucht-haben"
+                  "url": "https://www.srf.ch/news/international/europa-und-der-iran-krieg-trumps-krieg-bringt-europaeische-regierungen-in-ein-dilemma"
                 },
                 {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/missbrauch-in-berner-kita-mutter-spricht-ueber-ungewissheit-485445099889"
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cevk0e4ykwko"
                 },
                 {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/winterthur-und-bern-kita-gruppenleiter-soll-15-kinder-sexuell-misshandelt-haben-103533604"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/trumps-droht-mit-dem-nato-austritt-europa-zaehlt-darauf-dass-es-nur-rhetorik-ist-ld.1932176"
                 }
               ]
             },
             {
-              "id": "2026-04-02-bern-regierungsrat-allemann-verkehr",
-              "slug": "bern-regierungsrat-allemann-verkehr",
-              "title": "Berner Regierungsrat: Evi Allemann übernimmt Bau- und Verkehrsdirektion",
-              "date": "2026-04-02",
-              "time": "06:00",
+              "id": "2026-04-03-iran-hormus-krieg",
+              "slug": "iran-hormus-krieg",
+              "title": "Iran-Krieg: Angriff auf Brücke, Hormus-Blockade und UN-Sicherheitsrat",
+              "date": "2026-04-03",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/0b305d89-4d1a-4d90-8006-29cfc581f691_w520_r2.08_fpx50.25_fpy55.01.jpg",
+              "kurz": "Die USA zerstörten Irans grösste Brücke bei Teheran – Trump droht mit weiteren Angriffen. Der UN-Sicherheitsrat debattiert über den Einsatz militärischer Gewalt zur Sicherung der Strasse von Hormus.",
+              "summary": "Fünf Wochen nach Kriegsbeginn zwischen den USA, Israel und Iran eskaliert der Konflikt weiter. US-Präsident Trump reklamierte die Zerstörung der 136 Meter hohen B1-Hängebrücke zwischen Teheran und Karaj für sich und drohte mit mehr. Im UN-Sicherheitsrat liegt eine von Bahrain eingebrachte Resolution vor, die den Einsatz 'aller notwendigen Mittel' zur Öffnung der Strasse von Hormus genehmigen würde. Die Blockade der Meerenge liess den Ölpreis auf 108 Dollar pro Barrel steigen.",
+              "gegenstimme": "China und Russland lehnen die Hormus-Resolution entschieden ab: Peking warnt, eine Ermächtigung zum Einsatz militärischer Gewalt würde die Situation weiter eskalieren. Völkerrechtsfachleute bezeichnen die US-Angriffe als mögliche Kriegsverbrechen. Iran hat nach eigenen Angaben mehr als 15'000 Bombenangriffe erlitten, mindestens 1'900 Menschen wurden getötet.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/apr/02/trump-warns-tehran-more-to-follow-after-strike-destroys-irans-largest-bridge"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/strasse-von-hormus-uno-sicherheitsrat-soll-ueber-einsatz-militaerischer-gewalt-abstimmen-a-030b6116-c60e-4252-aba7-5128fdae6c14"
+                },
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-angriff-auf-hoechste-verkehrsbruecke-im-iran-trump-droht-mit-mehr"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-trump-bondi-entlassung",
+              "slug": "trump-bondi-entlassung",
+              "title": "Trump entlässt Justizministerin Pam Bondi – Epstein-Akten im Hintergrund",
+              "date": "2026-04-03",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/94d49892-20cf-423a-a44b-fe404a3d7c64_w520_r2.08_fpx58.66_fpy50.jpg",
+              "kurz": "US-Präsident Trump hat Justizministerin Pam Bondi entlassen – offiziell in Frieden, inoffiziell wegen des Epstein-Debakels und mangelnder Aggressivität gegen politische Gegner.",
+              "summary": "Donald Trump entliess am 2. April 2026 Justizministerin Pam Bondi via Truth Social – sie ist die dritte hochrangige Kabinettsmitglied, die in Trumps zweiter Amtszeit geht. Ihr Umgang mit den Epstein-Akten hatte sowohl Trump als auch Teile des Kongresses verärgert: erst grossartige Versprechen, dann keine Enthüllungen. Dazu galt ihr Vorgehen gegen Trumps politische Feinde als zu zögerlich. Nachfolger wird ihr bisheriger Stellvertreter Todd Blanche, Trumps ehemaliger Strafverteidiger.",
+              "gegenstimme": "Kritiker aus beiden Lagern: Republikanische Abgeordnete wie Thomas Massie kritisierten Bondi, weil sie die Epstein-Akten nicht konsequent offengelegt habe. Demokraten wie Ro Khanna sehen in der Affäre den Beweis, dass das Justizministerium unter Trump instrumentalisiert wurde. Die Juristin Stacey Young (Justice Connection) urteilte, Bondi habe die Unabhängigkeit ihres Ministeriums 'mit dem Vorschlaghammer' zerstört – wurde aber trotzdem entlassen, weil sie nicht weit genug ging.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/donald-trump-entlaesst-seine-generalstaatsanwaeltin-pam-bondi-ld.1932308"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/ce843ge47z4o"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/donald-trump-entlaesst-us-justizministerin-pam-bondi-a-de263436-fee0-43a2-8ce3-954e4267225a"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-ungarn-wahl-magyar-orban",
+              "slug": "ungarn-wahl-magyar-orban",
+              "title": "Ungarn vor der Wahl: Oppositionsführer Magyar bedroht Orbáns Machtposition",
+              "date": "2026-04-03",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/4de1d5df-ff3b-40a1-98ff-2241e9b214fc_w520_r2.08_fpx51.58_fpy54.97.jpg",
+              "kurz": "Am 12. April 2026 wählt Ungarn ein neues Parlament. Erstmals seit 16 Jahren könnte Viktor Orbán seine Mehrheit verlieren – sein Herausforderer Peter Magyar liegt in Umfragen deutlich vorne.",
+              "summary": "Peter Magyar, ehemaliger Insider des Fidesz-Systems, hat mit seiner Partei Tisza die Regierungspartei in Umfragen überholt und bedroht Orbáns Machtmonopol ernsthaft. Der politische Neuling gewann in nur zwei Jahren eine breite Wählerschaft – getrieben von wirtschaftlicher Unzufriedenheit, einem Begnadigungsskandal und Magyars geschickter Kommunikation. Orbán weigert sich, vor der Wahl eine Debatte mit Magyar zu führen. Die Wahl am 12. April gilt als die offenste seit Jahren.",
+              "gegenstimme": "Kritiker sehen in Magyar einen opportunistischen Aufsteiger, der selbst jahrelang vom Fidesz-System profitiert hat. Eine 60-jährige Kinobesucherin brachte es auf den Punkt: 'Einen zweiten Orban brauchen wir nicht.' Ob Magyar tatsächlich einen Systemwechsel herbeiführt oder nur das Personal austauscht, bleibt offen. Das Fidesz-nahe Forschungsinstitut Nézőpont betont zudem, dass Orbán trotz schlechter Umfragen über einen strukturellen Vorteil im ländlichen Raum verfügt.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/peter-magyar-ein-einstpeter-magyar-ein-einstiger-gefolgsmann-koennte-viktor-orban-stuerzen-ld.1931034"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/orban-ungarn-wahl-2026-100.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/03/30/ungarn-wahl-europa-orban-ukraine"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-pharma-zoelle-usa-schweiz",
+              "slug": "pharma-zoelle-usa-schweiz",
+              "title": "USA verhängen 100%-Zölle auf Arzneimittel – Schweiz zahlt 15%",
+              "date": "2026-04-03",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "💊",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/6810e90f-6456-439a-9958-7d465210e83d_w520_r2.08_fpx49.33_fpy50.jpg",
+              "kurz": "US-Präsident Trump verhängt per Dekret Zölle von bis zu 100% auf patentierte Medikamente. Für die Schweiz gilt ein reduzierter Satz von 15%.",
+              "summary": "Die USA erheben künftig Zölle von bis zu 100 Prozent auf patentierte Arzneimittel und deren Wirkstoffe. Länder mit Handelsvereinbarungen – darunter die Schweiz und Liechtenstein – profitieren von einem deutlich tieferen Satz von 15 Prozent. Unternehmen, die bereits Preisdeals mit der US-Regierung abgeschlossen haben (darunter Roche und Novartis), sollen bis 2029 von den Zöllen befreit sein. Der Schweizer Pharmaverband Interpharma warnt trotzdem vor Risiken für die globale Versorgungssicherheit.",
+              "gegenstimme": "Der Schweizer Pharmaverband Interpharma kritisiert, dass die Zölle globale Lieferketten gefährden, Forschung behindern und Patienten weltweit schaden. Trotz des reduzierten Satzes von 15% fordert der Verband eine vollständige Befreiung nach dem Vorbild des Vereinigten Königreichs.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/dekret-von-trump-usa-verkuenden-hohe-arzneimittel-zoelle-schweiz-ausgenommen"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/usa-bis-zu-100-prozent-us-regierung-fuehrt-zoelle-auf-bestimmte-arzneimittel-ein/100214192.html"
+                },
+                {
+                  "name": "swissinfo.ch",
+                  "url": "https://www.swissinfo.ch/ger/usa-verh%c3%a4ngen-hohe-pharma-z%c3%b6lle-15-prozent-satz-f%c3%bcr-die-schweiz/91203997"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-schweiz-demografie-aeltere-junge",
+              "slug": "schweiz-demografie-aeltere-junge",
+              "title": "Erstmals mehr ältere als junge Menschen in der Schweiz",
+              "date": "2026-04-03",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "👵",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/04/02/1bdad8d1-f321-4d88-982a-8fe7afc3580b.jpg",
+              "kurz": "Im Jahr 2025 überstieg in der Schweiz erstmals die Zahl der über 65-Jährigen jene der unter 20-Jährigen. Das Bundesamt für Statistik bezeichnet dies als Zeichen beschleunigter demografischer Alterung.",
+              "summary": "Die Schweizer Bevölkerung wuchs 2025 auf 9,1 Millionen an. Gleichzeitig erreichte die Alterung einen symbolischen Wendepunkt: Erstmals leben mehr Menschen über 65 als unter 20 Jahren im Land. Die Geburtenrate sank zum vierten Mal in Folge, während die Lebenserwartung weiter stieg. Diese Verschiebung stellt Sozialsysteme, Arbeitsmärkte und Staatshaushalte vor wachsende Herausforderungen.",
+              "gegenstimme": "Demografen betonen, dass die Alterung ein langfristiger Trend ist, der sich nicht kurzfristig umkehren lässt. Einwanderung kann das Verhältnis zwar beeinflussen, löst aber die strukturellen Herausforderungen nicht vollständig. Die politische Diskussion über die Finanzierung der AHV und der Altersvorsorge wird damit noch dringlicher – besonders im Kontext der parallel laufenden Debatte über das Armeebudget.",
+              "sources": [
+                {
+                  "name": "20 Minuten / BFS",
+                  "url": "https://www.20min.ch/story/bevoelkerung-erstmals-leben-in-der-schweiz-mehr-aeltere-als-junge-menschen-103539693"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-schweizer-armee-31-mrd",
+              "slug": "schweizer-armee-31-mrd",
+              "title": "31 Milliarden für die Schweizer Armee – Finanzierung noch offen",
+              "date": "2026-04-03",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/03/31/d22c3b4f-9ed2-4b71-ac3e-2c3716e454a3.jpg",
+              "kurz": "Der Bundesrat will das Schweizer Armeebudget bis 2038 um 31 Milliarden Franken erhöhen – finanziert durch eine Mehrwertsteuererhöhung von 0,8 Prozentpunkten. Das Volk ist laut Umfragen klar dagegen.",
+              "summary": "Die Schweizer Landesverteidigung soll bis 2038 massiv ausgebaut werden. Der Bundesrat schlägt eine befristete Erhöhung der Mehrwertsteuer um 0,8 Prozentpunkte vor, um den Rüstungsfonds zu speisen. Das Parlament diskutiert Alternativen – von Einsparungen bei der Entwicklungshilfe bis hin zu Umverteilung innerhalb des Bundeshaushalts. Eine klare Volksunterstützung fehlt, eine Verfassungsänderung wäre nötig.",
+              "gegenstimme": "Umfragen zeigen, dass die Bevölkerung einer Mehrwertsteuererhöhung für die Armee mehrheitlich ablehnend gegenübersteht. Linke Parteien wehren sich gegen Einsparungen bei Entwicklungshilfe und Sozialleistungen. Zudem konkurriert die Armeeerhöhung mit der Finanzierung der 13. AHV-Rente, die ebenfalls auf eine Mehrwertsteuererhöhung um 0,5 bis 0,8 Prozentpunkte angewiesen ist. Beide gleichzeitig wären für den Mittelstand eine erhebliche Belastung.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/polit-entertainment-31-milliarden-fuer-die-armee-sonst-stehen-wir-fuedliblutt-da-103537949"
+                },
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/temporaere-finanzierung-bundesrat-will-mehrwertsteuer-fuer-armee-erhoehen"
+                },
+                {
+                  "name": "VBS",
+                  "url": "https://www.vbs.admin.ch/de/finanzierung-armee"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-bern-regierungsrat-allemann",
+              "slug": "bern-regierungsrat-allemann",
+              "title": "Rochade im Berner Regierungsrat: Allemann übernimmt Baudirektion",
+              "date": "2026-04-03",
+              "time": "07:00",
               "category": "regional",
               "icon": "🏛️",
               "edition": "morning",
               "image": "https://cdn.unitycms.io/images/EC7mWtu0K808FoLA65E_8u.jpg",
-              "kurz": "Nach den Wahlen vom letzten Sonntag hat der neue Berner Regierungsrat die Direktionen verteilt. Evi Allemann wechselt von der Justiz in die Bau- und Verkehrsdirektion.",
-              "summary": "Evi Allemann (SP) verlässt die Justizdirektion und übernimmt neu die Bau- und Verkehrsdirektion. Aline Trede (Grüne), die frisch in den Regierungsrat gewählt wurde, übernimmt die Justizdirektion. Raphael Lanz (SVP) wird Wirtschaftsdirektor, Reto Müller (SP) Bildungsdirektor. Da Trede den Nationalrat verlässt, rückt Grossrätin Andrea de Meuron nach Bern.",
-              "gegenstimme": "Die Direktionsverteilung zeigt, dass SP und Grüne weiterhin starken Einfluss auf die Regierungspolitik haben – trotz des Rechtsrutschs im Grossen Rat, der einen veränderten politischen Wind andeutet.",
+              "kurz": "Nach den Berner Regierungsratswahlen hat das neue Kollegium die Direktionen verteilt. Evi Allemann (SP) wechselt von der Justiz- in die Bau- und Verkehrsdirektion.",
+              "summary": "Der neu zusammengesetzte Berner Regierungsrat hat sich wenige Tage nach den Wahlen auf die Direktionszuteilung geeinigt. Die einzige Rochade unter den Bisherigen vollzieht Evi Allemann (SP): Sie übernimmt die als politisch gewichtig geltende Bau- und Verkehrsdirektion von der SVP. Neu im Amt sind Raphael Lanz (SVP, Wirtschaft), Reto Müller (SP, Bildung) und Aline Trede (Grüne, Justiz). Die SP ist damit erfreut, da Allemann als frühere VCS-Präsidentin Expertise in Verkehrs- und Mobilitätsfragen mitbringt.",
+              "gegenstimme": "",
               "sources": [
                 {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/regierungsrat-bern-evi-allemann-wird-verkehrsdirektorin-485241865706"
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/regierungsrat-bern-evi-allemann-wird-verkehrsdirektorin-485241865706"
                 },
                 {
                   "name": "Watson",
                   "url": "https://www.watson.ch/schweiz/gesellschaft-politik/616709517-evi-allemann-wird-bernische-bau-und-verkehrsdirektorin"
                 },
                 {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/wahlen-kanton-bern-2026-alle-resultate-rechtsrutsch-im-grossen-rat-435697014483/2"
+                  "name": "Plattform J",
+                  "url": "https://www.plattformj.ch/artikel/241860/"
                 }
               ]
             },
             {
-              "id": "2026-04-02-bern-tram-gleisarbeiten",
-              "slug": "bern-tram-gleisarbeiten",
-              "title": "Bern: 10 Tage kein Tram zwischen Bahnhof und Zytglogge – ab 7. April",
-              "date": "2026-04-02",
-              "time": "06:00",
+              "id": "2026-04-03-bern-wankdorf-beschwerde",
+              "slug": "bern-wankdorf-beschwerde",
+              "title": "Stadt Bern hält Beschwerde gegen Autobahnanschluss Wankdorf aufrecht",
+              "date": "2026-04-03",
+              "time": "07:00",
               "category": "regional",
-              "icon": "🚋",
+              "icon": "🛣️",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/3beeMX7hqoNBjclCsiY0iu.jpg",
-              "kurz": "Ab dem 7. April unterbricht BERNMOBIL den Tramverkehr im Bereich Bahnhof Bern für zehn Tage. Sechs Tramlinien sind betroffen, Umleitungen sind eingerichtet.",
-              "summary": "Im Rahmen umfangreicher Gleisunterhaltsarbeiten in der Berner Innenstadt stellt BERNMOBIL vom 7. bis 17. April 2026 sämtliche Tramlinien zwischen dem Bahnhof und der Zytglogge ein. Betroffen sind die Linien 3, 6, 7, 8 und 9. Fahrgäste können auf die Linien 10 und 19 ausweichen. Die Bauarbeiten sind Teil eines grösseren Unterhaltspakets, das von März bis Mitte April sowie von Juli bis Mitte August 2026 dauert.",
-              "gegenstimme": "Bauprojekte im öffentlichen Raum sind notwendig, beeinträchtigen aber Tausende von Pendlerinnen und Pendlern täglich. Kritiker fordern, dass solche Sperrungen besser ausserhalb der Hauptverkehrszeiten oder in den Sommerferien durchgeführt werden.",
+              "image": "https://cdn.unitycms.io/images/0dLwVWEzKVdBGVeoXg3UaR.jpg",
+              "kurz": "Der Berner Gemeinderat hält an seiner Beschwerde gegen das BUGAW-Projekt (Autobahnanschluss Wankdorf) fest, nachdem eine grosszügige Überdachung der Allmenden als nicht realisierbar eingestuft wurde.",
+              "summary": "Die Machbarkeitsstudie zur Überdachung der Autobahn zwischen den Allmenden Bern kommt zum Schluss, dass eine grosszügige Verbindung baulich nicht bewilligungsfähig ist. Der Berner Gemeinderat betrachtet damit einen wesentlichen Beschwerdepunkt als ungelöst und hält die Beschwerde gegen das BUGAW-Projekt aufrecht. Zusätzlich hat die Rückstufung des Bypass Bern Ost durch den Bundesrat die Ausgangslage grundlegend verändert. Der Gemeinderat will dennoch nach Lösungen für eine verträgliche Entwicklung des ESP Wankdorf suchen.",
+              "gegenstimme": "",
               "sources": [
                 {
-                  "name": "BERNMOBIL",
-                  "url": "https://www.bernmobil.ch/de/verkehrsinformationen/baustellen/unterhalsarbeiten-raum-bahnhof"
-                },
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/bernmobil-gleisarbeiten-unterbrechen-tramverkehr-am-bahnhof-175050471690"
+                  "name": "Stadt Bern Medienmitteilung",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/bugaw-gemeinderat-haelt-an-seiner-beschwerde-fest"
                 },
                 {
                   "name": "Der Bund",
-                  "url": "https://www.derbund.ch/bernmobil-gleisarbeiten-unterbrechen-tramverkehr-am-bahnhof-175050471690"
+                  "url": "https://www.derbund.ch/wankdorf-ueberdachung-der-allmenden-in-bern-gescheitert-352206797884"
                 }
               ]
             },
             {
-              "id": "2026-04-02-deutschland-wirtschaft-prognose-energiepreise",
-              "slug": "deutschland-wirtschaft-prognose-energiepreise",
-              "title": "Iran-Krieg trifft Europas Wirtschaft: Öl-Knappheit, Lufthansa in Not, düstere Prognosen",
-              "date": "2026-04-02",
-              "time": "06:00",
-              "category": "wirtschaft",
-              "icon": "📉",
+              "id": "2026-04-03-zollikofen-ueberschuss",
+              "slug": "zollikofen-ueberschuss",
+              "title": "Zollikofen erzielt 2,3 Millionen Franken Überschuss statt Defizit",
+              "date": "2026-04-03",
+              "time": "07:00",
+              "category": "regional",
+              "icon": "🏘️",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/e592c28b-adbc-47fe-b7fb-861b5c81114d_w520_r2.08_fpx38_fpy54.jpg",
-              "kurz": "Der Iran-Krieg schlägt zunehmend auf die europäische Wirtschaft durch: Energiepreise steigen, Wachstumsprognosen sinken, und Unternehmen warnen vor Produktionskürzungen.",
-              "summary": "Der seit rund einem Monat andauernde US-geführte Krieg gegen Iran treibt die Öl- und Gaspreise in die Höhe und belastet Europas Wirtschaft spürbar. Deutschland und Italien erwägen, ihre Wachstumsprognosen zu senken. Energieintensive Industrien wie die deutsche Chemiebranche haben bereits die Produktion gedrosselt. Die EZB warnte vor einem Schock, der 'über das Vorstellbare hinausgehe'. An den US-Börsen dagegen zeigten sich zuletzt Hoffnungszeichen auf ein baldiges Kriegsende – Wall Street schloss am Dienstag im Plus.",
-              "gegenstimme": "Während europäische Institutionen vor den wirtschaftlichen Folgen warnen, halten manche Ökonomen die kurzfristigen Marktreaktionen für übertrieben. Die US-Börsen haben zuletzt positiv auf Signale reagiert, die auf ein mögliches Ende des Konflikts hindeuten – was zeigt, dass die Märkte eine schnelle Lösung nicht ausschliessen.",
+              "image": "https://cdn.unitycms.io/images/20J_R2G1KIlBeUF-_POBV1.jpg",
+              "kurz": "Die Gemeinde Zollikofen schliesst die Jahresrechnung 2025 mit einem Ertragsüberschuss von 2,3 Millionen Franken ab – deutlich besser als das budgetierte Defizit.",
+              "summary": "Zollikofen hat die Jahresrechnung 2025 mit einem Ertragsüberschuss von 2,3 Millionen Franken abgeschlossen. Budgetiert war ursprünglich ein Aufwandüberschuss. Damit setzt die Gemeinde einen langjährigen Trend fort, die Rechnung besser als geplant zu schliessen. Die FDP hatte diesen Trend bereits als Argument für eine Steuersenkung genutzt, die im November 2025 vom Volk bewilligt wurde.",
+              "gegenstimme": "",
               "sources": [
                 {
-                  "name": "cash.ch",
-                  "url": "https://www.cash.ch/news/top-news/iran-krieg-trifft-europas-wirtschaft-wachstum-sinkt-preise-steigen-923104"
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/zollikofen-gemeinde-erzielt-2-3-millionen-franken-ueberschuss-206947883176"
                 },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/zollikofen-gemeinde-erzielt-2-3-millionen-franken-ueberschuss-206947883176"
+                },
+                {
+                  "name": "Gemeinde Zollikofen",
+                  "url": "https://www.zollikofen.ch/finanzensteuern/11860"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-iran-energiepreise-schock",
+              "slug": "iran-energiepreise-schock",
+              "title": "Öl bei 109 Dollar: Der Energiepreisschock aus dem Iran-Krieg",
+              "date": "2026-04-03",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "⛽",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/05970176-631c-41da-90f4-31450c584579_w520_r2.08_fpx67.3_fpy52.96.jpg",
+              "kurz": "Der Iran-Krieg treibt den Ölpreis auf über 100 Dollar – Spritpreise explodieren, Notenbanken stehen vor einem Dilemma zwischen Inflation und Wachstum.",
+              "summary": "Seit dem Ausbruch des Iran-Kriegs klettert der Rohölpreis auf rund 109 Dollar je Barrel und reisst die Spritpreise in Europa auf neue Hochststände. Die EU ruft zum Energiesparen auf, während einzelne Mitgliedstaaten lieber Steuern senken. Fuer die Schweiz droht eine milliardenschwere Mehrbelastung. Gleichzeitig stehen die Notenbanken vor einem klassischen Stagflationsproblem: steigende Preise bei gleichzeitig drohender Rezession.",
+              "gegenstimme": "Oekonomische Gegenthese: Einige Energieexperten warnen davor, die Preisschocks zu ueberschaetzen. Sollte der Konflikt rasch eingedaemmt werden, koennten die Ölpreise ebenso schnell wieder sinken – wie 2022 nach dem ersten russischen Preisschock. Steuersenkungen auf Energie werden von Klimaoekonomlnnen zudem als kontraproduktiv kritisiert, weil sie den Anreiz zum Sparen untergraben.",
+              "sources": [
                 {
                   "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-hoffnung-auf-baldiges-ende-des-iran-kriegs-wall-street-schliesst-im-plus/100213770.html"
+                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-der-iran-krieg-erschuettert-das-globale-zinsgefuege/100213010.html"
                 },
                 {
-                  "name": "Zeit Online",
-                  "url": "https://www.zeit.de/wirtschaft/2026-03/wirtschaftswachstum-gemeinschaftsprognose-irankrieg-rwi-torsten-schmidt"
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/spritpreise-eu-ruft-zum-sparen-auf-staaten-setzen-auf-steuersenkungen-a-fd650cff-40b8-46eb-b6e3-ce6b6637e8d8"
                 },
                 {
                   "name": "Swissinfo",
                   "url": "https://www.swissinfo.ch/ger/klimaanpassung/energie-in-der-schweiz-die-milliardenschwere-rechnung-des-nahostkonflikts/91181834"
-                },
-                {
-                  "name": "DW",
-                  "url": "https://www.dw.com/de/oelpreise-gas-anstieg-boersen-iran-krieg-katar-wirtschaft-deutschland-hormus-bahrain-trump/a-76273905"
                 }
               ]
             },
             {
-              "id": "2026-04-02-spacex-boersengang-rekord",
-              "slug": "spacex-boersengang-rekord",
-              "title": "SpaceX plant grössten Börsengang der Geschichte – Bewertung über 1 Billion Dollar",
-              "date": "2026-04-02",
-              "time": "06:00",
+              "id": "2026-04-03-spacex-ipo",
+              "slug": "spacex-ipo",
+              "title": "SpaceX plant Mega-Börsengang – potenziell grösste Emission aller Zeiten",
+              "date": "2026-04-03",
+              "time": "07:00",
               "category": "wirtschaft",
               "icon": "📈",
               "edition": "morning",
-              "image": "https://techcrunch.com/wp-content/uploads/2026/04/startup-funding.jpg",
-              "kurz": "SpaceX hat vertraulich einen IPO-Antrag bei der US-Börsenaufsicht SEC eingereicht. Eine Bewertung von über einer Billion Dollar würde es zum wertvollsten Börsengang der Geschichte machen.",
-              "summary": "Elon Musks Raumfahrtunternehmen SpaceX hat vertraulich bei der SEC einen IPO-Antrag eingereicht. Ziel ist ein Börsengang voraussichtlich im Juni 2026, bei dem über 50 Milliarden Dollar eingesammelt werden sollen. Mit einer erwarteten Marktkapitalisierung von über einer Billion Dollar – nach einer internen Bewertung von 1.25 Billionen Dollar nach der xAI-Übernahme – wäre es der grösste Börsengang der Geschichte. Musks Anteil würde ihn zum ersten Billionär der Welt machen.",
-              "gegenstimme": "Kritische Analysten warnen vor einer Überbewertung: SpaceX ist hochprofitabel durch Starlink, aber ein Grossteil des Werts basiert auf zukünftigen Projekten wie dem Mars-Programm, die auf Jahrzehnte hinaus keine Rendite versprechen. Zudem wächst die politische Abhängigkeit von Regierungsaufträgen – ein Risiko, das traditionelle IPO-Investoren scheuen. Musks zunehmende Verstrickung in Politik (DOGE) könnte den Aktienkurs politisch volatil machen.",
+              "image": "https://cdn.prod.www.spiegel.de/images/5bc846d4-ccc2-4462-b67f-a65fed90b377_w520_r2.08_fpx50.65_fpy49.99.jpg",
+              "kurz": "SpaceX hat bei der US-Börsenaufsicht SEC vertraulich einen IPO-Antrag eingereicht. Die Bewertung könnte 1,75 Billionen Dollar erreichen – mehr als je ein Unternehmen beim Börsengang erzielt hat.",
+              "summary": "Elon Musks Raumfahrtunternehmen SpaceX hat laut Medienberichten vom 2. April 2026 vertraulich ein Emissionsprospekt bei der SEC eingereicht. Die Bewertung könnte bis zu 1,75 Billionen Dollar betragen – das wäre der grösste Börsengang der Geschichte. Geplant ist ein Ersthandelstag im Juni 2026, das Emissionsvolumen soll bei 50 bis 75 Milliarden Dollar liegen. SpaceX hatte zuletzt auch seine KI-Firma xAI und die Plattform X in den Konzern eingebracht.",
+              "gegenstimme": "Kritiker zweifeln an der enormen Bewertung: Die prognostizierten Gewinne und das Wachstumspotenzial seien schwer einzuschätzen. Zudem ist Musk aufgrund seiner politischen Aktivitäten und seiner Nähe zur Trump-Regierung eine polarisierende Figur – was das Interesse institutioneller Investoren in Europa und Asien dämpfen könnte. Konkurrent Blue Origin von Jeff Bezos baut ebenfalls einen eigenen Satellitendienst auf.",
               "sources": [
                 {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/c2k35lg92dpo"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/spacex-macht-science-fiction-zur-realitaet-die-firma-von-elon-musk-koennte-an-der-boerse-175-billionen-dollar-wert-sein-ld.1931017"
                 },
                 {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-vor-groesstem-boersengang-der-geschichte-was-bekannt-ist/100213860.html"
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/spacex-elon-musk-meldet-offenbar-rekord-boersengang-an-a-93f3bc08-88b0-4534-ab18-4cf0c6890c6d"
                 }
               ]
             },
             {
-              "id": "2026-04-02-openai-bewertung-rekordfinanzierung",
-              "slug": "openai-bewertung-rekordfinanzierung",
-              "title": "OpenAI: 852-Milliarden-Bewertung nach Rekordfinanzierung",
-              "date": "2026-04-02",
-              "time": "06:00",
+              "id": "2026-04-03-openai-122-mrd-finanzierung",
+              "slug": "openai-122-mrd-finanzierung",
+              "title": "OpenAI sammelt 122 Milliarden Dollar – und plant den Börsengang",
+              "date": "2026-04-03",
+              "time": "07:00",
               "category": "tech",
               "icon": "🤖",
               "edition": "morning",
-              "image": "https://techcrunch.com/wp-content/uploads/2026/01/openai-revenue.jpg",
-              "kurz": "OpenAI schliesst die grösste Finanzierungsrunde der Startup-Geschichte ab: 122 Milliarden Dollar von Amazon, Nvidia und Softbank treiben die Bewertung auf 852 Milliarden Dollar.",
-              "summary": "Mit einer Finanzierungsrunde von 122 Milliarden Dollar hat OpenAI im März 2026 einen neuen Weltrekord aufgestellt. Investoren wie Amazon, Nvidia und Softbank stützen die Bewertung des ChatGPT-Entwicklers auf 852 Milliarden Dollar. Das globale Startup-Funding brach im ersten Quartal 2026 alle Rekorde: 297 Milliarden Dollar wurden investiert – 2,5-mal mehr als im Vorquartal. Vier Mega-Deals – OpenAI, Anthropic, xAI und Waymo – machten dabei rund 63 Prozent des gesamten Volumens aus.",
-              "gegenstimme": "Kritiker warnen vor einer neuen Technologie-Blase: Die Konzentration auf wenige Mega-Deals verdecke, dass der breite Startup-Markt auf normalem Niveau bleibt. Zudem bleibt OpenAI weiterhin nicht börsenkotiert, was Transparenz und Liquidität für Anleger einschränkt.",
+              "image": "https://cdn.prod.www.spiegel.de/images/5bc846d4-ccc2-4462-b67f-a65fed90b377_w520_r2.08_fpx50.65_fpy49.99.jpg",
+              "kurz": "OpenAI hat Ende März 2026 eine Rekord-Finanzierungsrunde von 122 Milliarden Dollar abgeschlossen. Die Bewertung klettert auf 852 Milliarden Dollar – ein Börsengang Ende 2026 wird konkreter.",
+              "summary": "OpenAI schloss per Ende März 2026 eine Finanzierungsrunde über 122 Milliarden Dollar ab – die grösste in der Unternehmensgeschichte und laut Finanzchefin Sarah Friar grösser als jeder bisherige Börsengang. Angeführt wurde die Runde von Amazon, Nvidia und Softbank. Die Bewertung des ChatGPT-Herstellers steigt damit auf 852 Milliarden Dollar. Trotz rasantem Umsatzwachstum ist OpenAI noch weit von der Profitabilität entfernt. Ein IPO Ende 2026 mit einer Billionen-Dollar-Bewertung gilt als wahrscheinlich. Konkurrent Anthropic sammelte im Februar 30 Milliarden bei einer Bewertung von 380 Milliarden Dollar.",
+              "gegenstimme": "OpenAI schreibt weiterhin massive Verluste – im dritten Quartal 2025 sollen es über zwölf Milliarden Dollar gewesen sein. Die wachsende Konkurrenz durch Google Gemini, Anthropics Claude und Microsofts Copilot setzt das Unternehmen unter Druck. CEO Sam Altman rief Ende 2025 intern den 'Code Red' aus. Zudem wurde die erfolgreiche Video-KI Sora eingestellt, weil sie zu kostenintensiv war – ein Zeichen, dass auch bei OpenAI harte Priorisierungen nötig sind.",
               "sources": [
                 {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/ki/ki-rekordfinanzierungsrunde-openai-mit-852-milliarden-dollar-bewertet/100213652.html"
+                  "name": "t3n",
+                  "url": "https://t3n.de/news/openai-rekord-finanzierung-1736992/"
                 },
                 {
-                  "name": "TechCrunch",
-                  "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/"
+                  "name": "TechCrunch (OpenAI)",
+                  "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
                 },
                 {
-                  "name": "Crunchbase",
-                  "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-schweiz-bevoelkerung-ki-tools",
-              "slug": "schweiz-bevoelkerung-ki-tools",
-              "title": "76% der Schweizer nutzen KI-Tools täglich – und misstrauen Tech-Konzernen",
-              "date": "2026-04-02",
-              "time": "06:00",
-              "category": "tech",
-              "icon": "💻",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/86b160b2-10a6-4ced-8a94-04f8ad5535e9_w520_r2.08_fpx33.34_fpy50.jpg",
-              "kurz": "76 Prozent der Schweizer Bevölkerung nutzen KI-Tools im Alltag – gleichzeitig halten 90 Prozent die grossen Tech-Konzerne für rein profitorientiert und fordern staatliche Regulierung.",
-              "summary": "Laut einer Comparis-Umfrage vom März 2026 nutzen drei Viertel der erwachsenen Schweizer Bevölkerung Künstliche Intelligenz im Alltag – ein Anstieg von fast 14 Prozentpunkten gegenüber dem Vorjahr. Parallel dazu zeigt eine Studie von gfs.bern für die Stiftung Mercator Schweiz: 90 Prozent der Befragten glauben, Big-Tech-Unternehmen seien ausschliesslich profitorientiert, und 94 Prozent fordern stärkeren Schutz für Kinder in sozialen Netzwerken. Eine grosse Mehrheit erwartet staatliche Regulierung von KI-Entscheiden.",
-              "gegenstimme": "Befürworter weniger staatlicher Eingriffe warnen vor Überregulierung, die Innovationen hemmt. Auch die Nutzerzahlen zeigen: Die Bevölkerung nimmt KI-Tools bereitwillig an, trotz Misstrauen gegenüber den Anbietern. Das könnte bedeuten, dass der wahrgenommene Nutzen das Misstrauen überwiegt – und regulatorische Massnahmen über das Ziel hinausschiessen könnten.",
-              "sources": [
-                {
-                  "name": "Swissinfo (Comparis-Umfrage)",
-                  "url": "https://www.swissinfo.ch/ger/drei-viertel-der-bev%c3%b6lkerung-nutzt-ki-tools-im-alltag/91198062"
-                },
-                {
-                  "name": "Swissinfo (gfs.bern-Studie)",
-                  "url": "https://www.swissinfo.ch/ger/digitale-demokratie/die-schweizer-bev%c3%b6lkerung-misstraut-google-tiktok-und-meta/91180831"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-04-02-iran-energie-zukunft",
-              "slug": "iran-energie-zukunft",
-              "title": "Hormuz-Blockade als Wendepunkt: Der Kampf um die Energie der Zukunft hat begonnen",
-              "date": "2026-04-02",
-              "time": "11:30",
-              "category": "international",
-              "icon": "⚡",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/4c58f140-4bae-4e56-ba1a-ca5ac2f8a19f_w520_r2.08_fpx48_fpy26.jpg",
-              "kurz": "Die Blockade der Strasse von Hormuz zwingt die Welt zum Energieumdenken. Eine neue geopolitische Spaltung zeichnet sich ab: Petrostaaten gegen Elektrostaaten.",
-              "summary": "Der Iran-Krieg beschleunigt die Energiewende – nicht durch Überzeugung, sondern durch Zwang. Die Hormuz-Blockade trifft Ölimporteure hart und macht erneuerbare Energien plötzlich attraktiver denn je. Analysten sehen eine neue Weltordnung entstehen: Länder mit fossilen Ressourcen auf der einen, Elektrifizierungsstaaten auf der anderen Seite.",
-              "gegenstimme": "Kritiker warnen vor einer Überinterpretation: Fossile Infrastruktur lasse sich nicht innert Monaten ersetzen. Der Wechsel zu erneuerbaren Energien brauche Jahrzehnte – und sei ohne Investitionen nicht erreichbar, die derzeit in Rüstung fliessen.",
-              "sources": [
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/irankrieg-der-kampf-um-die-energie-der-zukunft-hat-begonnen-a-a2872723-d2ff-4477-87b3-a54b61fb7d15"
-                },
-                {
-                  "name": "Swissinfo",
-                  "url": "https://www.swissinfo.ch/ger/klimaanpassung/energie-in-der-schweiz-die-milliardenschwere-rechnung-des-nahostkonflikts/91181834"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-iran-nuklear-bedrohung",
-              "slug": "iran-nuklear-bedrohung",
-              "title": "Irans Atomprogramm: Nukleare Bedrohung paradoxerweise grösser als vor dem Krieg",
-              "date": "2026-04-02",
-              "time": "11:30",
-              "category": "international",
-              "icon": "☢️",
-              "edition": "midday",
-              "image": "https://image.20min.ch/2026/04/02/0c57ce2e-ba86-40fb-8742-2244ab003328.jpg",
-              "kurz": "Trotz massiver US-Luftangriffe auf Irans Atomanlagen ist die nukleare Bedrohung laut Experten gewachsen – weil 400 Kilo hochangereichertes Uran nach wie vor nicht gesichert sind.",
-              "summary": "Iran besitzt rund 400 Kilogramm Uran mit einem Reinheitsgrad von 60 Prozent. Nuklearexpertin Emma Belcher warnt: Die Welt ist weniger sicher als vor Kriegsbeginn, weil das Material noch vorhanden ist und niemand weiss, was damit geschieht. Trump spielt die Gefahr herunter – Geheimdienstler widersprechen.",
-              "gegenstimme": "Trump und Teile des Pentagons argumentieren, die Atomanlagen seien so stark beschädigt, dass Iran monatelang nicht an das Uran gelangen könnte. Satellitenüberwachung soll jede Bewegung sofort sichtbar machen.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/iran-die-nukleare-bedrohung-ist-groesser-als-vor-dem-krieg-103539420"
-                },
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-iran-droht-usa-und-israel-mit-haerteren-angriffen"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-syrien-merz-abschiebungen-streit",
-              "slug": "syrien-merz-abschiebungen-streit",
-              "title": "Syriens Aussenminister lehnt Zwangsabschiebungen ab – Eskalation im Merz-Streit",
-              "date": "2026-04-02",
-              "time": "11:30",
-              "category": "international",
-              "icon": "🏛️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/5a354a63-6c91-4dd8-93e3-c2e2d717b07c_w520_r2.08_fpx40_fpy54.jpg",
-              "kurz": "Damaskus reagiert auf Kanzler Merz' Rückkehr-Aussagen: Zwangsabschiebungen lehne man 'entschieden' ab. Der diplomatische Streit zwischen Berlin und Syrien eskaliert.",
-              "summary": "Syriens Aussenminister Asaad al-Schaibani hat auf die Aussagen von Kanzler Friedrich Merz reagiert und Zwangsrückführungen von Syrern klar abgelehnt. Merz hatte eine konkrete Zielmarke für Rückkehrzahlen genannt – was in Damaskus und bei Syrern in Deutschland für massive Irritationen sorgte. Der Konflikt zeigt, wie schwierig die Rückkehrpolitik in der Praxis ist.",
-              "gegenstimme": "Die Bundesregierung argumentiert, Syrien müsse Verantwortung für seine Bürger übernehmen und Rückkehrbedingungen schaffen. Viele Syrer in Deutschland wünschen sich laut Umfragen tatsächlich eine Rückkehr – aber freiwillig und unter sicheren Bedingungen.",
-              "sources": [
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/syrien-aussenminister-assad-al-shaibani-stellt-sich-gegen-zwangsabschiebungen-reaktion-auf-friedrich-merz-a-4ead38e1-4a9b-4f76-b307-ca18bcb06dc1"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-ungarn-szijjarto-russland-skandal",
-              "slug": "ungarn-szijjarto-russland-skandal",
-              "title": "Kurz vor der Wahl: Ungarns Aussenminister soll Russland gegen EU-Sanktionen geholfen haben",
-              "date": "2026-04-02",
-              "time": "11:30",
-              "category": "international",
-              "icon": "🇭🇺",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/86b160b2-10a6-4ced-8a94-04f8ad5535e9_w520_r2.08_fpx33.34_fpy50.jpg",
-              "kurz": "Zehn Tage vor der Parlamentswahl steht Ungarns Aussenminister Szijjártó unter Druck: Er soll Russlands Aussenminister Lawrow Hilfe gegen EU-Sanktionen versprochen haben.",
-              "summary": "Ein geleaktes Telefonat belastet Ungarns Aussenminister Péter Szijjártó: Er soll seinem russischen Amtskollegen Sergej Lawrow zugesichert haben, Ungarn werde helfen, EU-Sanktionen zu umgehen. Der Skandal kommt zehn Tage vor der Wahl – und stärkt ausgerechnet den Oppositionskandidaten Peter Magyar.",
-              "gegenstimme": "Szijjártó und die Orbán-Regierung bestreiten die Darstellung. Ungarns aussenpolitischer Kurs – enge Russland-Beziehungen und Kritik an EU-Sanktionen – ist bekannt und wird von einem Teil der Bevölkerung unterstützt.",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/telefonat-mit-russland-kurz-vor-der-wahl-ungarischer-aussenminister-in-erklaerungsnot"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-schweiz-konzernverantwortung-jans",
-              "slug": "schweiz-konzernverantwortung-jans",
-              "title": "Bundesrat Jans präsentiert Gegenvorschlag zur Konzernverantwortungsinitiative",
-              "date": "2026-04-02",
-              "time": "11:30",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "midday",
-              "image": "https://image.20min.ch/2026/04/02/b3c5060a-f8d8-4a1d-8483-565f7c21b1bd.jpg",
-              "kurz": "Justizminister Jans will grosse Unternehmen per Gesetz zur Einhaltung von Menschenrechten und Umweltstandards zwingen – angelehnt an EU-Regeln. KMU wären ausgenommen.",
-              "summary": "Beat Jans stellte am Donnerstag den bundesrätlichen Gegenentwurf zur Konzernverantwortungsinitiative 2.0 vor. Das geplante 'Bundesgesetz über die nachhaltige Unternehmensführung' soll sich an EU-Regeln orientieren und nicht darüber hinausgehen. Grosse Konzerne mit über 5000 Mitarbeitenden wären betroffen. Die FDP spricht von einem 'Jobkiller'.",
-              "gegenstimme": "Die FDP kritisiert den Vorschlag als überbordende Regulierung und 'Jobkiller'. Wirtschaftsverbände warnen vor Wettbewerbsnachteilen gegenüber Ländern ohne vergleichbare Sorgfaltspflichten.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/konzernverantwortung-jans-will-unternehmen-zu-achtung-der-menschenrechte-zwingen-103538960"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-maerkte-smi-trump-reaktion",
-              "slug": "maerkte-smi-trump-reaktion",
-              "title": "Märkte enttäuscht: SMI dreht nach Trump-Rede ins Minus, Ölpreis steigt weiter",
-              "date": "2026-04-02",
-              "time": "11:30",
-              "category": "wirtschaft",
-              "icon": "📊",
-              "edition": "midday",
-              "image": "https://media.20min.ch/6/image/2023/12/22/e0c0da14-9877-4de7-8e0c-29e332c95db3.jpeg",
-              "kurz": "Anleger hatten auf ein klares Kriegsende gehofft – Trumps vage Rede enttäuschte. SMI sackte ab, Nikkei verlor 2.5%, Ölpreis kletterte weiter.",
-              "summary": "Nach Trumps Ansprache am Mittwochabend reagierten die Märkte verhalten bis negativ. Der SMI, zunächst vorbörslich im Plus, drehte am Morgen ins Minus. Asiatische Börsen verloren bis zu 4.9% (Kospi). Der Ölpreis stieg weiter, der Goldpreis fiel von 4780 auf 4600 Dollar.",
-              "gegenstimme": "Einige Marktbeobachter werten Trumps Rede als Signal, dass der Krieg geordnet abgewickelt wird – und sehen darin mittelfristig eine Stabilisierung. Die Ankündigung eines Endes 'in zwei bis drei Wochen' könnte als positives Signal gelesen werden.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/iran-krieg-smi-nach-trump-rede-auf-erholungskurs-oelpreis-steigt-weiter-103539397"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/iran-rede-von-trump-enttaeuscht-die-anleger-in-asien-ld.1932188"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-04-02-iran-hinrichtung-18-jaehriger",
-              "slug": "iran-hinrichtung-18-jaehriger",
-              "title": "Iran richtet 18-Jährigen hin – vierte Hinrichtung im Zusammenhang mit Januarprotesten",
-              "date": "2026-04-02",
-              "time": "17:00",
-              "category": "international",
-              "icon": "⚖️",
-              "edition": "evening",
-              "image": "https://image.20min.ch/2026/04/02/167801b9-a3a3-4af6-816e-09fddf5a5692.jpg",
-              "kurz": "Amir-Hossein Hatami (18) wurde im Iran gehängt – beschuldigt, im Auftrag Israels und der USA gehandelt zu haben. Menschenrechtsorganisationen sprechen von Folter und Scheinprozess.",
-              "summary": "Iran hat den 18-jährigen Amir-Hossein Hatami hingerichtet. Er wurde für schuldig befunden, in einen Armeestützpunkt eingedrungen zu sein und die nationale Sicherheit gefährdet zu haben. Es ist die vierte Hinrichtung im Zusammenhang mit den brutal niedergeschlagenen Januarprotesten. NGOs sprechen von erpressten Geständnissen und Folter.",
-              "gegenstimme": "Die iranischen Behörden beharren darauf, es habe sich um koordinierte Terrorakte im Auftrag ausländischer Geheimdienste gehandelt. In iranischen Staatsmedien wird die Hinrichtung als notwendige Sicherheitsmassnahme dargestellt.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/amir-hossein-hatami-im-morgengrauen-gehaengt-iran-richtet-18-jaehrigen-hin-103539749"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-nato-zerbricht-iran-krieg",
-              "slug": "nato-zerbricht-iran-krieg",
-              "title": "Zerbricht die NATO am Iran-Krieg? Europa rebelliert gegen Trump",
-              "date": "2026-04-02",
-              "time": "17:00",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/e6062684-2340-4790-a3cb-cd7a35d08b6f_w520_r2.08_fpx46_fpy50.jpg",
-              "kurz": "Europäische NATO-Partner distanzieren sich zunehmend von Trumps Iran-Politik. Spaniens Sánchez führt den Widerstand an – und stellt den Sinn der Allianz grundsätzlich in Frage.",
-              "summary": "Nach Trumps NATO-Austrittsdrohungen und seiner Forderung, die Verbündeten sollen im Iran-Krieg mehr Verantwortung übernehmen, bricht in Europa offener Widerstand aus. Spaniens Pedro Sánchez führt eine Gruppe von Ländern an, die Trumps Kriegslogik nicht mitmachen wollen. Führende US-Senatoren treten hingegen für den NATO-Verbleib ein.",
-              "gegenstimme": "Führende US-Senatoren beider Parteien haben sich klar gegen einen NATO-Austritt ausgesprochen. Auch innerhalb der europäischen NATO gilt: Keine Allianz ist besser als eine geschwächte – deshalb suchen die meisten Regierungen den Dialog statt den Bruch.",
-              "sources": [
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/irankrieg-und-trumps-drohungen-zerbricht-die-nato-am-irankrieg-a-fb9e5168-c4d0-442d-a072-9c37a9e8a769"
-                },
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-oesterreich-verbietet-us-ueberfluege-fuer-iran-krieg"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-oesterreich-verbiet-us-ueberfluege",
-              "slug": "oesterreich-verbiet-us-ueberfluege",
-              "title": "Neutrales Österreich verbietet US-Militärüberflüge für Iran-Krieg",
-              "date": "2026-04-02",
-              "time": "17:00",
-              "category": "international",
-              "icon": "🇦🇹",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/e6062684-2340-4790-a3cb-cd7a35d08b6f_w520_r2.08_fpx46_fpy50.jpg",
-              "kurz": "Österreich verweigert den USA Überflugrechte für Militäreinsätze gegen Iran – mit Verweis auf seine immerwährende Neutralität. Ein weiteres Signal der europäischen Distanzierung.",
-              "summary": "Das neutrale Österreich hat den USA militärische Überflüge für den Iran-Krieg verboten. Gleichzeitig beraten 40 Länder über die künftige Nutzung der Strasse von Hormuz. Auch die UNO fordert ein Ende der 'Spirale aus Tod und Zerstörung'. Macron bezeichnete eine gewaltsame Öffnung der Meerenge als unrealistisch.",
-              "gegenstimme": "Die USA und Israel sehen Österreichs Schritt als unfreundlichen Akt in einer Phase, in der westliche Solidarität gefragt sei. Washington argumentiert, es handle sich um eine präventive Operation gegen ein atombewaffnungsfähiges Regime.",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-oesterreich-verbietet-us-ueberfluege-fuer-iran-krieg"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-kita-maenner-generalverdacht",
-              "slug": "kita-maenner-generalverdacht",
-              "title": "Kita-Missbrauch schweizweit: Betreuer soll 15 Kinder in Winterthur und Bern missbraucht haben",
-              "date": "2026-04-02",
-              "time": "17:00",
-              "category": "schweiz",
-              "icon": "⚠️",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/8wnJHqINaa1AD2llcVNXVA.jpg",
-              "kurz": "Ein 33-jähriger Kita-Betreuer soll systematisch 15 Kleinkinder in Winterthur und Bern missbraucht und gefilmt haben. Der Fall weitet sich aus – und stellt Männer in Kitas unter Generalverdacht.",
-              "summary": "Ein 33-jähriger Mann wurde von der Berner Staatsanwaltschaft wegen Schändung, Vergewaltigung und sexueller Handlungen mit Kindern angeklagt. Er soll in Kitas in Winterthur und Bern insgesamt 15 Kleinkinder missbraucht und die Taten teilweise gefilmt haben. Der Branchenverband Kibesuisse fordert nun einen vertieften Einblick ins Strafregister. Männer in der Kinderbetreuung, die in den letzten Jahren gezielt gefördert wurden, stehen unter Generalverdacht.",
-              "gegenstimme": "Branchenvertreter und Fachleute warnen davor, aus einem Einzelfall Pauschalurteile abzuleiten. Der Männeranteil in Kitas ist von 7.4% (2010) auf 16.5% (2024) gestiegen – der Grossteil dieser Betreuer arbeite sorgfältig und professionell. Generalverdacht schadee auch den Kindern, die von gemischten Betreuungsteams profitierten.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/zuerich/maenner-in-der-kita-stehen-nach-missbrauchsfall-unter-generalverdacht-ld.1931677"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/missbrauch-in-berner-kita-mutter-spricht-ueber-ungewissheit-485445099889"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-schifffahrt-bunkertreibstoff-krise",
-              "slug": "schifffahrt-bunkertreibstoff-krise",
-              "title": "Unterschätztes Risiko: Iran-Krieg bedroht globale Schifffahrt durch Treibstoffkrise",
-              "date": "2026-04-02",
-              "time": "17:00",
-              "category": "wirtschaft",
-              "icon": "🚢",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/e1fd00a2-bcbb-4ee8-af56-08cfc0008fde_w520_r2.08_fpx41_fpy61.jpg",
-              "kurz": "Nicht Öl, sondern Bunkertreibstoff für Schiffe könnte die globalen Lieferketten zum Kollaps bringen. In Singapur haben sich die Treibstoffpreise bereits verdoppelt.",
-              "summary": "Im Hafen von Singapur wächst die Nervosität: Seit Kriegsbeginn haben sich die Schiffstreibstoffpreise mehr als verdoppelt. Experten warnen, ein Engpass bei Bunkertreibstoff könnte die globalen Lieferketten schlimmer treffen als die Covid-Pandemie. Zwei Monate Hormuz-Blockade wären 'katastrophal', warnt ein Analyst.",
-              "gegenstimme": "Die Lage sei noch nicht so angespannt wie bei Kerosin oder Diesel, sagen einige Branchenbeobachter. Viele Häfen hätten noch Reserven für Wochen. Und ein Kriegsende in 2-3 Wochen – wie Trump verspricht – würde die Krise abwenden.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/die-globale-schifffahrt-droht-am-iran-krieg-aufzulaufen-ld.1931644"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-02-usa-rezession-angst-trump",
-              "slug": "usa-rezession-angst-trump",
-              "title": "USA vor der Rezession? Energiepreise, Inflation und schwächelnder Arbeitsmarkt alarmieren Ökonomen",
-              "date": "2026-04-02",
-              "time": "17:00",
-              "category": "wirtschaft",
-              "icon": "📉",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/7ead54be-ff55-4937-84ee-7da548c6a4e8_w520_r2.08_fpx37.49_fpy49.99.jpg",
-              "kurz": "Der Iran-Krieg trifft die US-Wirtschaft härter als erwartet. Ökonomen sprechen offen von Rezessionsrisiko – mit direkten Folgen für Trumps Midterm-Chancen 2026.",
-              "summary": "Hohe Energiepreise, steigende Inflation und ein schwächelnder Arbeitsmarkt lassen US-Ökonomen von Rezession sprechen. Die Fed sitzt in der Klemme: Zinssenkungen würden die Inflation befeuern, Zinserhöhungen die Konjunktur abwürgen. Politisch ist das Rezessionsrisiko für Trump vor den Midterms im Herbst 2026 gefährlich.",
-              "gegenstimme": "Optimisten verweisen auf die Widerstandsfähigkeit des US-Konsums und den robusten Dienstleistungssektor. Sollte der Iran-Krieg in 2-3 Wochen enden (wie Trump verspricht), könnten sich Energiepreise schnell normalisieren und die Konjunktur stabilisieren.",
-              "sources": [
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/donald-trump-und-die-wirtschaft-in-den-usa-waechst-die-angst-vor-einer-rezession-a-1281a01f-7782-4cba-8640-55ff0f7629c1"
+                  "name": "TechCrunch (Anthropic)",
+                  "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/"
                 }
               ]
             }
