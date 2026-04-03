@@ -1,5 +1,5 @@
 {
-  "updated": "10:52 UTC",
+  "updated": "16:52 UTC",
   "days": [
     {
       "date": "2026-04-03",
@@ -589,6 +589,195 @@
                 {
                   "name": "Financial Times",
                   "url": "https://www.ft.com/content/abace066-fe93-4ff0-8378-d3c3eb49519c"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-04-03-china-politbuero-korruption",
+              "slug": "china-politbuero-korruption",
+              "title": "Xi Jinping lässt Politbüromitglied Ma Xingrui wegen Korruption ermitteln",
+              "date": "2026-04-03",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🇨🇳",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/34e3ccd1-da0f-45c1-8d24-4af3a51d78a6_w520_r2.08_fpx59.98_fpy49.99.jpg",
+              "kurz": "China leitet Korruptionsermittlungen gegen Politbüromitglied Ma Xingrui ein – der nächste hochrangige Kader, der in Xi Jinpings Antikorruptionskampagne fällt.",
+              "summary": "Die Zentrale Disziplinarkommission der KPCh hat Ermittlungen gegen Politbüromitglied Ma Xingrui wegen schwerwiegender Verstösse gegen Gesetz und Disziplin eingeleitet. Ma war zuletzt im Oktober 2025 öffentlich aufgetreten und war im Juli 2025 als Parteichef von Xinjiang abgesetzt worden. Der Fall reiht sich ein in eine Serie von Verfahren gegen hochrangige Militärs und Parteikader. Die Zentrale Militärkommission (ZMK) ist mittlerweile von sieben auf zwei Mitglieder geschrumpft.",
+              "gegenstimme": "Kritiker sehen in Xis Antikorruptionskampagne weniger einen echten Kampf gegen Missstände als ein Mittel zur Machtkonsolidierung: Wer Xi gefährlich werden könnte oder Loyalitätsfragen aufwirft, wird durch Korruptionsvorwürfe neutralisiert. Aussenstehende können kaum überprüfen, ob die Vorwürfe substanziell sind oder politisch motiviert.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma-a-ddc490af-a78e-4f58-936a-113b3dc1eae1"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-israel-gaza-50-prozent",
+              "slug": "israel-gaza-50-prozent",
+              "title": "Israel kontrolliert über 50% des Gazastreifens – Welt schaut auf Iran",
+              "date": "2026-04-03",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🛡️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/cb78cfca-4a73-4090-bcbf-2cc9cb8a3ffc_w520_r2.08_fpx49.46_fpy49.97.png",
+              "kurz": "Während die Weltöffentlichkeit auf den Irankrieg fokussiert ist, schafft Israel in Gaza vollendete Tatsachen: Neue Satellitenbilder zeigen kilometerlange Erdwälle und Militärlager – Israel kontrolliert nun mehr als die Hälfte des Streifens.",
+              "summary": "Neue Satellitenaufnahmen, ausgewertet vom Spiegel, zeigen, dass Israel inzwischen über 50 Prozent des Gazastreifens militärisch kontrolliert. Kilometerlange Erdwälle teilen den Streifen, neue Militärlager entstehen. Die internationale Aufmerksamkeit gilt dem Irankrieg – Gaza gerät ins Hintertreffen der globalen Nachrichtenlage. Humanitäre Organisationen warnen vor einer dauerhaften Annexion unter dem Deckmantel des Krieges.",
+              "gegenstimme": "Israel bezeichnet die Militärpräsenz als temporäre Sicherheitsmassnahme gegen Hamas-Infrastruktur, nicht als Besatzungsabsicht. Kritiker – darunter UN-Organisationen und zahlreiche westliche Regierungen – sehen in den Erdwällen und Lagern jedoch Anzeichen einer dauerhaften Kontrolle über Gaza, die völkerrechtlich als Besatzung einzustufen wäre.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten-a-004fed64-bf81-4d3e-b326-0730b0e08991"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-ukraine-oster-eskalation",
+              "slug": "ukraine-oster-eskalation",
+              "title": "Russland eskaliert an Ostern – Zelenskyy telefoniert mit Papst Leo",
+              "date": "2026-04-03",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/b5048ae8-ba2d-4c35-83d9-1481f09ded64_w520_r2.08_fpx33.35_fpy50.jpg",
+              "kurz": "Russland überzog die Ukraine am Karfreitag mit Hunderten Drohnen und Dutzenden Raketen – als Antwort auf Selenskyys Angebot einer Osterruhe. Der ukrainische Präsident telefonierte währenddessen mit dem neuen Papst Leo XIV.",
+              "summary": "Am Karfreitag, dem 3. April 2026, griff Russland die Ukraine mit Hunderten Shahed-Drohnen und Dutzenden Raketen an. Selenskyy hatte zuvor eine Waffenruhe über die Osterfeiertage vorgeschlagen – Moskau bestritt, diesen Vorschlag je erhalten zu haben. Während des Telefonats mit Papst Leo XIV. liefen die Angriffe. Die von den USA vermittelten Friedensgespräche sind ins Stocken geraten, da Washington derzeit durch den Irankrieg abgelenkt ist.",
+              "gegenstimme": "Der Kreml bestreitet, jemals einen formellen Vorschlag für eine Osterruhe erhalten zu haben. Zudem feiern orthodoxe Christen in der Ukraine und in Russland Ostern erst am 12. April – die Formulierung 'Oster-Eskalation' bedient also primär den westlichen Kalender und hat für die orthodoxe Bevölkerung beider Länder geringere symbolische Wirkung.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation-a-f403170f-7439-4685-a46d-4abcd82ec14f"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-us-kampfjet-iran-abgeschossen",
+              "slug": "us-kampfjet-iran-abgeschossen",
+              "title": "US-Kampfjet über Iran abgeschossen – Pilot vermisst, Iran setzt Kopfgeld",
+              "date": "2026-04-03",
+              "time": "18:00",
+              "category": "international",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/4906769e-09a6-4ab6-a173-e1272215d516_w520_r2.08_fpx41.99_fpy50.98.jpg",
+              "kurz": "Erstmals seit Kriegsbeginn wurde ein US-Kampfjet über Iran abgeschossen – eine F-15E mit zwei Besatzungsmitgliedern. Die Suche läuft auf beiden Seiten.",
+              "summary": "Ein US-amerikanischer Kampfjet vom Typ F-15E wurde am 3. April 2026 über Zentraliran abgeschossen – der erste derartige Verlust seit Beginn des Irankrieges im März 2026. Iran behauptete zunächst, eine F-35 getroffen zu haben, Luftfahrtexperten korrigierten dies auf eine F-15E des 494. Geschwaders, stationiert in RAF Lakenheath in Grossbritannien. Die USA bestätigten den Abschuss inoffiziell. Eine Such- und Rettungsaktion mit C-130-Transportern und HH-60-Helikoptern ist im Gang. Der Iran setzte eine Prämie für die Ergreifung von US-Soldaten aus.",
+              "gegenstimme": "Iran behauptet, einer der Piloten sei bereits gefangen genommen worden – was US-Stellen weder bestätigen noch dementieren. Die Widersprüche in Irans Darstellung (zuerst F-35, dann F-15; zuerst 'Pilot tot', dann 'gefangen') deuten auf Informationskrieg hin. Unabhängige Verifikation ist derzeit unmöglich.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung-a-38c5d01b-625b-4240-873e-66d56b32026d"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran"
+                },
+                {
+                  "name": "BBC Live",
+                  "url": "https://www.bbc.com/news/live/cgj0gn36px8t"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-bern-polizei-ki-fahndung",
+              "slug": "bern-polizei-ki-fahndung",
+              "title": "Berner Polizei veröffentlicht Fotos von Palästina-Demo – Bevölkerung nutzt KI zur Identifikation",
+              "date": "2026-04-03",
+              "time": "18:00",
+              "category": "regional",
+              "icon": "🔍",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/9sqj37MQKrwABqaxGW_oQr.jpg",
+              "kurz": "Die Kantonspolizei Bern hat unverpixelte Fotos von 31 Tatverdächtigen der Palästina-Demo vom Oktober 2025 veröffentlicht. Aus der Bevölkerung werden Hinweise erbeten – teils unter Einsatz von KI-Gesichtserkennungstools.",
+              "summary": "Rund fünf Monate nach der eskalierten Pro-Palästina-Kundgebung vom 11. Oktober 2025 in Bern veröffentlichte die Kantonspolizei Bern am 30. März 2026 unverpixelte Fahndungsfotos von 31 noch unbekannten Tatverdächtigen. Bereits zuvor hatte die Polizei über 101 Personen identifiziert. Seit der Publikation ist eine weitere Person identifiziert worden. Die Aktion ist laut Polizei ohne Vergleich in ihrer Dimension – noch nie wurden so viele Bilder gleichzeitig zur öffentlichen Fahndung freigegeben.",
+              "gegenstimme": "Datenschützer und Bürgerrechtsorganisationen kritisieren die massenhafte Veröffentlichung unverpixelter Bilder. Es bestehe das Risiko von Verwechslungen und ungerechtfertigtem öffentlichem Druck auf Unschuldige. Auch der Einsatz privater KI-Gesichtserkennungstools durch die Bevölkerung ist rechtlich und ethisch umstritten.",
+              "sources": [
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/bern/eskalierte-pro-palaestina-demo-in-bern-unverpixelte-bilder-von-31-verdaechtigen-veroeffentlicht-id21828867.html"
+                },
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/pro-palaestina-demo-unverpixelte-bilder-von-berner-demo-hat-es-so-noch-nie-gegeben"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/pro-palaestina-demo-polizei-veroeffentlicht-bilder-unverpixelt-103537082"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-kantonspolizei-fahndet-nach-31-palaestina-demo-teilnehmern-347191096177"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-gantrisch-lawine-karfreitag",
+              "slug": "gantrisch-lawine-karfreitag",
+              "title": "Lawine im Gantrischgebiet – Rega sucht Vermisste",
+              "date": "2026-04-03",
+              "time": "18:00",
+              "category": "regional",
+              "icon": "🏔️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/8bNALnlk4xXBzkv6qFTdmC.jpg",
+              "kurz": "Am Karfreitag ist im Gantrischgebiet nahe der Bürgle eine Lawine niedergegangen. Die Rega ist im Einsatz, da vermisste Personen vermutet werden.",
+              "summary": "Am 3. April 2026 (Karfreitag) hat sich im Berner Voralpengebiet Gantrisch, in der Nähe des beliebten Skitourengipfels Bürgle, eine Lawine gelöst. Die Schweizerische Rettungsflugwacht Rega ist mit Helikoptern vor Ort im Einsatz. Es werden vermisste Personen vermutet. Der Karfreitag ist bekannt als ein stark frequentierter Skitourentag in der Region.",
+              "gegenstimme": "Die genaue Anzahl der vermissten Personen war zum Redaktionsschluss noch unklar. Lawinenexperten weisen regelmässig darauf hin, dass die Gefahren im Frühjahr – besonders an Karfreitag bei grossen Skitouren-Aufkommen – nicht unterschätzt werden dürfen.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/gantrischgebiet-lawine-am-karfreitag-bei-der-buergle-942995759894"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/gantrischgebiet-lawine-am-karfreitag-bei-der-buergle-942995759894"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-eli-lilly-abnehmpille-roche",
+              "slug": "eli-lilly-abnehmpille-roche",
+              "title": "Neue Abnehmpille zugelassen – 20-Milliarden-Markt und was das für Roche bedeutet",
+              "date": "2026-04-03",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "💉",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Die US-Gesundheitsbehörde FDA hat die Abnehmpille Foundayo von Eli Lilly in einem Rekordtempo zugelassen. Bis 2030 soll das Produkt über 20 Milliarden Dollar pro Jahr einbringen – davon profitiert auch der Schweizer Pharmakonzern Roche.",
+              "summary": "Die FDA hat Eli Lillys Abnehmpille Foundayo (Wirkstoff: Orforglipron) innerhalb von weniger als vier Monaten zugelassen – ein Rekord. Das Präparat ergänzt den Markt der oralen GLP-1-Arzneimittel neben Novo Nordisks Wegovy-Pille. Analysten der J.P. Morgan erwarten bis 2030 einen Umsatz von 21,5 Milliarden Dollar für das Produkt. Roche, deren Tochterfirma Chugai den Wirkstoff erfunden hat, dürfte durch Lizenzgebühren rund 1,5 Milliarden Dollar pro Jahr erhalten.",
+              "gegenstimme": "Der Markt ist mit Risiken behaftet: Viele US-Krankenversicherungen übernehmen die Kosten noch nicht. Nebenwirkungen wie Brechreiz, Verstopfung und Haarausfall sind verbreitet. Zudem gibt es Kritik daran, dass das US-Gesundheitssystem die Kostenexplosion durch millionenfache Dauerbehandlungen kaum wird stemmen können.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/neue-abnehmpille-auf-eli-lilly-und-roche-wartet-milliardengeschaeft-ld.1932201"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-03-us-arbeitsmarkt-iran-krieg",
+              "slug": "us-arbeitsmarkt-iran-krieg",
+              "title": "Trotz Iran-Krieg: US-Arbeitslosigkeit sinkt auf 4,3% – Fed unter Druck",
+              "date": "2026-04-03",
+              "time": "18:00",
+              "category": "wirtschaft",
+              "icon": "📊",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Der US-Arbeitsmarkt zeigte sich im März 2026 überraschend robust: Die Arbeitslosenquote sank auf 4,3 Prozent, obwohl der Krieg gegen den Iran die Wirtschaft belastet. Die US-Notenbank Fed steht vor einem Dilemma.",
+              "summary": "Im März 2026 entstanden in den USA 178.000 neue Stellen ausserhalb der Landwirtschaft – fast dreimal so viele wie von Ökonomen erwartet. Die Arbeitslosenquote fiel von 4,4 auf 4,3 Prozent. Trotz des seit fünf Wochen laufenden Iran-Krieges und eines Ölpreisanstiegs von über 50 Prozent zeigt sich der Arbeitsmarkt widerstandsfähig. Für die Notenbank Fed wird der Spielraum für Zinssenkungen damit enger: Analysten sprechen bereits von einer drohenden 'Warflation'.",
+              "gegenstimme": "Kritische Stimmen sehen im starken Jobmarkt eine trügerische Stärke: Der Ölpreisschock könnte in den kommenden Monaten zu Stagflation führen. US-Ökonom Mohamed El-Erian warnte, es sei unklar, ob die aktuelle Konstellation aus robuster Wirtschaft und steigendem Inflationsdruck auf Dauer tragfähig sei.",
+              "sources": [
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-us-arbeitslosenquote-sinkt-trotz-iran-krieg-auf-43-prozent/100214326.html"
                 }
               ]
             }
