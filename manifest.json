@@ -1,5 +1,5 @@
 {
-  "updated": "10:53 UTC",
+  "updated": "16:53 UTC",
   "days": [
     {
       "date": "2026-04-04",
@@ -553,6 +553,187 @@
                 {
                   "name": "Der Spiegel",
                   "url": "https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an-a-25755ae6-706f-404c-ad47-80d1469a4b80"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-04-04-deutschland-wehrpflicht-auslandsreisen",
+              "slug": "deutschland-wehrpflicht-auslandsreisen",
+              "title": "Deutschland: Wehrpflichtige Männer bis 45 brauchen Genehmigung für längere Auslandsaufenthalte",
+              "date": "2026-04-04",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🪖",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/466a4522-d6ae-4e96-b55d-75754f21e9fd_w520_r2.08_fpx57.43_fpy50.jpg",
+              "kurz": "Seit dem 1. Januar 2026 müssen Männer zwischen 17 und 45 Jahren Auslandsaufenthalte von mehr als drei Monaten bei der Bundeswehr genehmigen lassen – eine Änderung, die kaum öffentlich diskutiert wurde.",
+              "summary": "Das neue Wehrdienst-Modernisierungsgesetz ist am 1. Januar 2026 in Kraft getreten und betrifft mehrere Millionen deutsche Männer. Wer länger als drei Monate ins Ausland reisen will, muss dies vorab beim zuständigen Karrierecenter der Bundeswehr beantragen. Das Verteidigungsministerium relativiert: Solange der Wehrdienst freiwillig ist, gelte die Genehmigung als erteilt – Details sollen Verwaltungsvorschriften klären. Die Kernregel des Gesetzes ist jedoch die verpflichtende Musterung für Männer des Jahrgangs 2008.",
+              "gegenstimme": "Kritiker sehen in der Regelung einen unverhältnismässigen Eingriff in die Bewegungsfreiheit. Die FDP und Bürgerrechtsinitiativen kritisieren, dass eine derart weitreichende Einschränkung ohne öffentliche Debatte eingeführt wurde. Unklar bleibt auch, was gilt, solange die angekündigten Verwaltungsvorschriften noch ausstehen – betroffene Männer befinden sich derzeit in einer rechtlichen Grauzone.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/wehrpflicht-maenner-bis-45-muessen-laengere-auslandsaufenthalte-genehmigen-lassen-a-75dadcaa-967e-48be-abf9-bcd1000c0fd4"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/bundeswehr-maenner-bis-45-muessen-auslandsaufenthalt-melden/100214458.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-iran-akw-buschehr-angriff",
+              "slug": "iran-akw-buschehr-angriff",
+              "title": "Angriff nahe iranischem Atomkraftwerk Buschehr – Rosatom evakuiert Personal",
+              "date": "2026-04-04",
+              "time": "17:00",
+              "category": "international",
+              "icon": "☢️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/E_Viyf1IqxB8PNl25MGNdq.jpg",
+              "kurz": "Ein Geschoss schlug nahe dem Grenzzaun des AKW Buschehr ein – ein Sicherheitsmann starb. Russlands Rosatom evakuiert weiteres Personal aus der Anlage.",
+              "summary": "Bei einem Luftangriff nahe dem iranischen Atomkraftwerk Buschehr wurde ein Mitarbeiter des Sicherheitspersonals getötet und ein Nebengebäude beschädigt. Der Reaktorbetrieb selbst wurde laut iranischen Behörden nicht beeinträchtigt. Rosatom evakuierte daraufhin weiteres russisches Fachpersonal aus der Anlage. Die IAEA wurde vom Iran über den Vorfall informiert und kritisiert ihrerseits die Internationale Atomenergiebehörde als «parteiisch».",
+              "gegenstimme": "Die iranische Atomenergieorganisation (AEOI) wirft der IAEA Parteilichkeit vor und stellt deren Unabhängigkeit in Frage. Unabhängige Experten hingegen warnen: Jeder Angriff in der Nähe einer Nuklearanlage – auch ohne direkte Reaktorschäden – stellt ein inakzeptables Risiko dar und verstösst gegen das humanitäre Völkerrecht. Wer den Reaktor als strategische Infrastruktur ins Zielgebiet einbezieht, gefährdet die gesamte Region.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-iran-meldet-luftangriff-in-der-naehe-des-atomkraftwerks-buschehr"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-kritische-rettungsmission-im-iran-trump-in-erklaerungsnot/100214428.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-iran-teheran-verhandlungen-pakistan",
+              "slug": "iran-teheran-verhandlungen-pakistan",
+              "title": "Iran offen für Verhandlungen – Pakistan will zwischen USA und Teheran vermitteln",
+              "date": "2026-04-04",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🤝",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/8d70a805-4760-4e4f-be71-b084ddee35a6_w520_r2.08_fpx34.86_fpy50.jpg",
+              "kurz": "Fünf Wochen nach Kriegsbeginn signalisiert Teheran Gesprächsbereitschaft – via Pakistan als Vermittler. Trump erneuert gleichzeitig sein 48-Stunden-Ultimatum zur Öffnung der Strasse von Hormus.",
+              "summary": "Der iranische Aussenminister Araghchi erklärt, Teheran habe nie eine Reise nach Islamabad verweigert und sei grundsätzlich zu Vermittlungsgesprächen bereit. Gleichzeitig läuft im Iran eine heikle US-Rettungsmission für ein abgeschossenes F-15E-Besatzungsmitglied. Trump drohte erneut via Truth Social mit massiven Angriffen, sollte Iran die Strasse von Hormus nicht bis Montag öffnen. Zwei am Rettungseinsatz beteiligte Black-Hawk-Hubschrauber wurden dabei vom Iran beschädigt.",
+              "gegenstimme": "Kritiker in Washington und bei westlichen Denkfabriken warnen, Teherans Gesprächsbereitschaft könne taktischer Natur sein – ein Mittel, um Zeit zu gewinnen und das Kopfgeld auf das vermisste US-Besatzungsmitglied (bis 100'000 Dollar) als Druckmittel zu nutzen. Trumps fortgesetzte Kriegsrhetorik erschwert zudem seriöse Diplomatie: Wer nach Verhandlungen ruft, muss auch bereit sein, Ultimaten zurückzuhalten.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-kritische-rettungsmission-im-iran-trump-in-erklaerungsnot/100214428.html"
+                },
+                {
+                  "name": "The Guardian (Liveticker)",
+                  "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-ungarn-wahl-orban-finale",
+              "slug": "ungarn-wahl-orban-finale",
+              "title": "Ungarn-Wahl: Kann Orbán nach 16 Jahren gestürzt werden?",
+              "date": "2026-04-04",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/3p3efY8zqMP8mLIOCWjj_z.jpg",
+              "kurz": "Am 12. April wählt Ungarn – und laut allen Umfragen liegt Oppositionsführer Péter Magyar mit rund 58 Prozent weit vor Orbáns Fidesz (35%). Nach 16 Jahren an der Macht kämpft der Ministerpräsident um sein politisches Überleben.",
+              "summary": "Ungarns Parlamentswahl am 12. April gilt als die unsicherste seit Orbáns Machtantritt 2010. Umfragen der Median-Agentur zeigen einen klaren Vorsprung der oppositionellen Tisza-Partei unter Péter Magyar. Besonders junge Wählerinnen und Wähler wenden sich massiv ab: Unter 30-Jährige unterstützen Fidesz laut aktuellen Erhebungen kaum noch. Orbán ist wieder persönlich auf Wahlkampfreise – etwas, das er in den letzten drei Wahlen kaum nötig hatte.",
+              "gegenstimme": "Fidesz-nahe Analysten wie Zoltan Kiszelly vom Regierungs-Thinktank Szazadveg zweifeln an den Umfragen und betonen Orbáns bewährtes Mobilisierungsnetzwerk in ländlichen Gebieten. Rund 4,5 Millionen der 8,2 Millionen Stimmberechtigten leben in kleinen Gemeinden – traditionell eine Fidesz-Hochburg. Kritische Berichte über mögliche Stimmenkäufe (Barzahlungen bis 120 Euro, Lebensmittelgutscheine) sind bisher unbewiesen, könnten aber das Ergebnis beeinflussen.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/wahl-in-ungarn-der-machthaber-wankt-und-beschimpft-sein-volk-709214701030"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-zelenski-erdogan-istanbul",
+              "slug": "zelenski-erdogan-istanbul",
+              "title": "Zelenski in Istanbul – Gespräche mit Erdogan über Ukraine-Krieg und Waffenruhe",
+              "date": "2026-04-04",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/7a4784eb-a139-4c5c-9043-4546aaa59772_w520_r2.08_fpx69.93_fpy54.99.jpg",
+              "kurz": "Ukrainischer Präsident Zelenski reist zu 'substanziellen' Gesprächen mit dem türkischen Präsidenten Erdogan nach Istanbul – während russische Drohnenangriffe weitergehen.",
+              "summary": "Wolodimir Zelenski ist am Samstag in Istanbul eingetroffen, um mit dem türkischen Präsidenten Recep Tayyip Erdogan über Sicherheitsfragen und Friedensbemühungen zu verhandeln. Die Türkei fungiert erneut als Vermittlerin. Gleichzeitig vermeldet die Ukraine mindestens fünf Tote nach einem russischen Drohnenangriff auf Nikopol im Gebiet Dnipropetrowsk sowie weitere Opfer nach Angriffen auf Sumi und Kramatorsk. Der Krieg dauert an – am Karfreitag war der 1500. Tag der russischen Grossinvasion.",
+              "gegenstimme": "Russland sieht die Türkei als Vermittler mit Interesse, hat aber eigene Forderungen klar formuliert: Moskau verlangt laut Berichten einen ukrainischen Rückzug aus dem Donbass innerhalb von zwei Monaten als Vorbedingung für ein Kriegsende. Kremlsprecher Peskow betonte zuletzt, Moskau strebe eine grundsätzliche Friedenslösung und keinen befristeten Waffenstillstand an – was Kiews Ostern-Waffenstillstandsangebot faktisch ablehnte.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-trifft-erdogan-fuer-gespraeche-in-istanbul"
+                },
+                {
+                  "name": "NZZ – Ukraine-Liveblog",
+                  "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-ld.1613540"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-lawinen-ostern-dritter-toter-gantrisch",
+              "slug": "lawinen-ostern-dritter-toter-gantrisch",
+              "title": "Dritter Lawinentod über Ostern: Snowboarder stirbt am Bürgle im Gantrisch",
+              "date": "2026-04-04",
+              "time": "17:00",
+              "category": "regional",
+              "icon": "🏂",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/3xW1BL1yKo68Ju7cdMngeR.jpg",
+              "kurz": "Drei Menschen sterben am Karfreitag unabhängig voneinander bei Lawinenunglücken in der Schweiz – in Schwyz, im Berner Oberland und im Gantrischgebiet.",
+              "summary": "Am Karfreitag 2026 sind in der Schweiz drei Wintersportler und Berggänger bei separaten Lawinenabgängen ums Leben gekommen. Ein 41-jähriger Snowboarder starb am Bürgle im Gantrischgebiet bei Rüschegg BE, ein 35-Jähriger auf einer Freeride-Abfahrt bei Isenfluh/Lauterbrunnen, und ein Berggänger unbekannter Identität am Grossen Mythen in Schwyz. Die drei Ereignisse ereigneten sich unabhängig voneinander innerhalb eines einzigen Tages. Experten hatten für das Osterwochenende erhebliche Lawinengefahren ausgewiesen.",
+              "gegenstimme": "Kritiker und Bergsportverbände weisen regelmässig darauf hin, dass viele Lawinenunfälle durch bessere Risikoeinschätzung vermeidbar wären. Die erhöhte Lawinengefahr war für das Osterwochenende öffentlich kommuniziert worden. Die Frage stellt sich, ob Absperrungen und Warnsysteme wirkungsvoller durchgesetzt werden sollten – oder ob das eigenverantwortliche Handeln im Bergsport stärker in die Pflicht genommen werden müsste.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/mythen-rueschegg-und-isenfluh-drei-wintersportler-von-lawinen-erfasst-und-verstorben"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/gantrischgebiet-snowboarder-stirbt-bei-lawinenunfall-429407980610"
+                },
+                {
+                  "name": "Der Bund (Übersicht)",
+                  "url": "https://www.derbund.ch/mehrere-tote-nach-lawinengaengen-in-bern-und-schwyz-408178305366"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-chip-krise-ki-preise",
+              "slug": "chip-krise-ki-preise",
+              "title": "KI-Boom löst Chip-Krise aus: Smartphones und Laptops werden bis zu 20% teurer",
+              "date": "2026-04-04",
+              "time": "17:00",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "evening",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2232214770-384x216.jpg",
+              "kurz": "Der KI-Boom hat eine globale Speicherchip-Knappheit ausgelöst: Smartphones werden 5–10%, Notebooks bis zu 20% teurer – besonders im Einstiegssegment.",
+              "summary": "Weil KI-Rechenzentren die Produktionskapazität der drei dominierenden Speicherchip-Hersteller (Micron, Samsung, SK Hynix) absorbieren, werden Konsumgeräte benachteiligt. Media Markt Schweiz, Digitec Galaxus und Swisscom rechnen mit schrittweisen Preiserhöhungen ab April – mit Spitzenwerten vor Weihnachten. Besonders günstige Geräte im Einstiegsbereich sind betroffen, weil Speicherchips dort 15–20% des Gesamtpreises ausmachen. Lieferausfälle drohen zusätzlich.",
+              "gegenstimme": "Kritiker aus der Konsumentenschutzbewegung warnen vor einer weiteren Spaltung zwischen technikaffinen Bevölkerungsgruppen, die sich teure Flaggschiffgeräte leisten können, und Haushalten mit tiefem Budget, die auf günstige Einstiegsgeräte angewiesen sind. Zudem wird gefragt, ob Kartellbehörden die Marktmacht der drei Chip-Oligopolisten – die zusammen über 90% des Speicherchipmarkts kontrollieren – stärker regulieren sollten.",
+              "sources": [
+                {
+                  "name": "SRF News Wirtschaft",
+                  "url": "https://www.srf.ch/news/wirtschaft/chip-krise-wegen-ki-handys-und-laptops-werden-bis-zu-20-prozent-teurer"
                 }
               ]
             }
