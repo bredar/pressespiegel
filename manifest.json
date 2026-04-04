@@ -1,783 +1,381 @@
 {
-  "updated": "16:52 UTC",
+  "updated": "05:52 UTC",
   "days": [
     {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-04-03-artemis-II-mondmission",
-              "slug": "artemis-II-mondmission",
-              "title": "Artemis II: Erstmals wieder Menschen auf dem Weg zum Mond",
-              "date": "2026-04-03",
-              "time": "07:00",
+              "id": "2026-04-04-frankreich-frachter-hormuz",
+              "slug": "frankreich-frachter-hormuz",
+              "title": "Erster Frachter eines westlichen Eigners passiert die Strasse von Hormuz",
+              "date": "2026-04-04",
+              "time": "06:00",
               "category": "international",
-              "icon": "🚀",
+              "icon": "🚢",
               "edition": "morning",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-20260120-PH-FMX01_0061large-1.jpg",
-              "kurz": "Erstmals seit 1972 sind wieder Menschen auf dem Weg zum Mond. Die NASA-Crew der Artemis-II-Mission hat die Erdumlaufbahn verlassen und fliegt der Rückseite des Monds entgegen.",
-              "summary": "In der Nacht vom 1. auf den 2. April 2026 startete die NASA-Artemis-II-Mission vom Kennedy Space Center in Florida. Vier Astronauten – drei Amerikaner und ein Kanadier – befinden sich an Bord der Orion-Kapsel auf dem Weg zum Mond, dem ersten bemannten Mondflug seit der Apollo-17-Mission von 1972. Am zweiten Flugtag zündete die Crew erfolgreich das Haupttriebwerk und verliess die Erdumlaufbahn. Die 10-tägige Mission soll den Weg für eine Mondlandung 2028 ebnen.",
-              "gegenstimme": "Kritiker und unabhängige Raumfahrtexperten äussern Skepsis gegenüber dem ambitionierten Zeitplan: Eine Mondlandung 2028, wie von der NASA und Trump angepeilt, gilt angesichts der bisherigen Verzögerungen und der Abhängigkeit vom Privatsektor für viele als unrealistisch. Das Artemis-Programm hat Milliarden mehr gekostet als geplant und sich mehrfach verschoben.",
+              "image": "https://cdn.prod.www.spiegel.de/images/b37c6e4b-904d-4cea-954b-fe70019c46bc_w520_r2.08_fpx45.35_fpy50.jpg",
+              "kurz": "Ein Containerschiff des französischen Reederei-Konzerns CMA CGM hat als erstes westliches Schiff die Strasse von Hormuz seit Kriegsbeginn passiert – auf einer von Iran genehmigten Route mit offenbar bezahlten Gebühren.",
+              "summary": "Seit dem Beginn des Iran-Kriegs Ende Februar 2026 gilt die Strasse von Hormuz für westliche Schiffe als unpassierbar. Nun hat erstmals ein Containerschiff eines westlichen Eigners die blockierte Meerenge durchfahren: die CMA CGM Kribi, ein Schiff des französischen Logistikkonzerns CMA CGM unter maltesischer Flagge. Das Schiff nutzte eine neue Route nahe der iranischen Insel Larak, für die offenbar Gebühren an Iran bezahlt wurden. Auch drei weitere Tanker – darunter einer mit japanischer Beteiligung (Mitsui OSK Lines) – passierten die Meerenge. Rund 2000 Handelsschiffe stecken weiterhin im Persischen Golf fest.",
+              "gegenstimme": "Grossbritannien und andere westliche Länder lehnen das iranische 'Mautgebühren'-System kategorisch ab: Die britische Aussenministerin Yvette Cooper bezeichnete Gebührenzahlungen als inakzeptabel und forderte koordinierten internationalen Druck auf Iran. Kritiker warnen, dass jedes Schiff, das Gebühren zahlt, Irans Blockade-Strategie legitimiert und finanziell unterstützt – was wiederum den Druck auf den Westen verringert, militärisch oder diplomatisch zu handeln.",
               "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus-a-00b35873-d254-4393-9897-77018e003ad4"
+                },
                 {
                   "name": "The Guardian",
-                  "url": "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wissenschaft/heute-sollen-erstmals-wieder-astronauten-um-den-mond-fliegen-in-wenigen-stunden-heben-sie-ab-ld.1922643"
-                },
-                {
-                  "name": "Ars Technica",
-                  "url": "https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/"
+                  "url": "https://www.theguardian.com/world/2026/apr/03/french-owned-ship-japanese-tanker-pass-through-strait-of-hormuz-iran-war"
                 }
               ]
             },
             {
-              "id": "2026-04-03-hegseth-heereschef-entlassen",
-              "slug": "hegseth-heereschef-entlassen",
-              "title": "Hegseth feuert Heereschef mitten im Iran-Krieg",
-              "date": "2026-04-03",
-              "time": "07:00",
+              "id": "2026-04-04-indien-lebensmittelkrise-iran-krieg",
+              "slug": "indien-lebensmittelkrise-iran-krieg",
+              "title": "Indien droht Lebensmittelkrise – Düngemittelengpässe wegen Iran-Krieg",
+              "date": "2026-04-04",
+              "time": "06:00",
               "category": "international",
-              "icon": "🎖️",
+              "icon": "🌾",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/789d88c1-65ac-4d9b-b49e-eef1e7cb9de0_w520_r2.08_fpx50_fpy42.jpg",
-              "kurz": "US-Verteidigungsminister Pete Hegseth hat den Generalstabschef des Heeres, Randy George, mitten im laufenden Iran-Krieg mit sofortiger Wirkung entlassen – ohne Angabe von Gründen.",
-              "summary": "Pentagonchef Pete Hegseth liess General Randy George, den ranghöchsten Offizier des US-Heeres, am 3. April 2026 mit sofortiger Wirkung in den Ruhestand versetzen. Keine offizielle Begründung wurde genannt. George war 2023 unter Biden ernannt worden und hatte im Golfkrieg, im Irak und in Afghanistan gedient. Es ist Hegseths bisher spektakulärste Entlassung – und die erste eines Heereschefs mitten in einem aktiven Kriegsszenario. Nachfolger wird vorerst der stellvertretende Heereschef General Christopher LaNeve.",
-              "gegenstimme": "Militärexperten warnen: Das Entlassen von erfahrenen Spitzenoffizieren mitten in einem aktiven Krieg ist aus Sicht der militärischen Doktrin hochriskant. Kontinuität in der Führungskette ist entscheidend. Die Frage, ob Loyalität gegenüber der politischen Führung ein Ersatz fuer operative Erfahrung sein kann, stellt sich gerade bei LaNeve, der noch nie ein vergleichbares Kommando hatte.",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-520147094-384x216.jpg",
+              "kurz": "Die Hormuz-Blockade durch Iran bedroht Indiens Düngemittelversorgung. Experten warnen, dass Ernteausfälle hunderte Millionen Menschen treffen könnten – das Welternährungsprogramm rechnet mit 45 Millionen zusätzlichen Hungernden.",
+              "summary": "Irans Blockade der Strasse von Hormuz seit Ende Februar 2026 hat weitreichende Folgen für die globale Lebensmittelversorgung. Indien, der weltgrösste Düngemittelverbraucher nach China, bezieht einen Grossteil seiner Düngemittelimporte und Rohstoffe aus den Golfstaaten. Die Gaslieferungen an indische Düngemittelfabriken wurden bereits um 30 Prozent gekürzt. Landwirte in Punjab und Haryana berichten von Panik und Hamsterkäufen. Das Welternährungsprogramm warnt, dass bis zu 45 Millionen Menschen in akute Ernährungsunsicherheit getrieben werden könnten, wenn der Konflikt nicht bis Juni endet. Besonders betroffen sind auch Sri Lanka und andere südasiatische Länder.",
+              "gegenstimme": "Indische Regierungsbeamte betonen, die Düngemittellager seien aktuell höher als im Vorjahr und die Versorgung sei gesichert. Das Ministerium für Düngemittel erklärt, die Beschaffung werde aktiv diversifiziert, um die Abhängigkeit von Golflieferanten zu reduzieren. Kritiker halten diese Beruhigungsversuche für verfrüht: Die Kharif-Aussaat beginnt erst im Mai/Juni – bis dahin könnten sich die Engpässe noch deutlich verschärfen.",
               "sources": [
                 {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/cn8d63v058zo"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/international/mitten-im-iran-krieg-hegseth-draengt-generalstabschef-des-us-heeres-zum-ruecktritt/100214221.html"
-                },
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-wirft-heereschef-randy-george-raus-a-f743a0de-eab7-42c2-bc0b-1fd48466e2cc"
+                  "name": "The Guardian – India food crisis",
+                  "url": "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming"
                 }
               ]
             },
             {
-              "id": "2026-04-03-iran-europa-dilemma",
-              "slug": "iran-europa-dilemma",
-              "title": "Europas Dilemma: Kritik am Iran-Krieg, aber niemand will Trump reizen",
-              "date": "2026-04-03",
-              "time": "07:00",
+              "id": "2026-04-04-iran-schwere-angriffe-teheran-israel",
+              "slug": "iran-schwere-angriffe-teheran-israel",
+              "title": "Schwere Angriffe auf Teheran und Beirut – iranische Raketen treffen Israel",
+              "date": "2026-04-04",
+              "time": "06:00",
               "category": "international",
-              "icon": "🇪🇺",
+              "icon": "💥",
               "edition": "morning",
-              "image": "https://media.guim.co.uk/e8020c2aaa5485d6a3da43ba607d9d742fa43c95/775_150_4326_3461/master/4326.jpg",
-              "kurz": "Europas Regierungen distanzieren sich zunehmend vom Iran-Krieg – doch eine offene Konfrontation mit Trump wagt niemand. Die Angst vor einem NATO-Austritt der USA lähmt Europas Handlungsspielraum.",
-              "summary": "Fünf Wochen nach Kriegsbeginn wächst Europas Unbehagen gegenüber dem US-israelischen Krieg gegen den Iran. Frankreichs Präsident Macron kritisierte Trumps widersprüchliche Kommunikation offen, warnte vor einer Militäroperation bei Hormus als 'unrealistisch' und bestand darauf: 'Das ist nicht unsere Operation.' Gleichzeitig hat Trump offen mit einem NATO-Austritt gedroht, was Europa in eine strategische Zwickmühle treibt. Auf britische Initiative berieten mehr als 40 Staaten über die Sicherung der Hormus-Meerenge – ohne konkrete Ergebnisse.",
-              "gegenstimme": "Polens Ministerpräsident Tusk warnt, dass Trumps NATO-Drohung, kombiniert mit Sanktionslockeru​ngen gegenüber Russland, wie 'Putins Traumplan' aussehe. Experten halten einen US-Kongress-beschlossenen Nato-Austritt für derzeit unrealistisch – doch allein die Drohung untergräbt die Abschreckungswirkung des Bündnisses.",
+              "image": "https://cdn.prod.www.spiegel.de/images/57301487-ced7-4dc3-909a-f497f8e31070_w520_r2.08_fpx51.56_fpy54.99.jpg",
+              "kurz": "Teheran und Beirut wurden in der Nacht auf den 4. April von schweren Explosionen erschüttert. Gleichzeitig trafen iranische Raketen Israel, eine Person wurde verletzt.",
+              "summary": "In der Nacht auf den 4. April 2026 kam es an mehreren Fronten gleichzeitig zu schweren Angriffen. Israel startete nach eigenen Angaben eine Angriffswelle auf Ziele in Teheran sowie auf Hisbollah-Infrastruktur in Beirut. Bewohner im Norden und Westen Teherans berichteten von massiven Explosionen. Gleichzeitig feuerte Iran erneut Raketen auf Israel: Im zentral-israelischen Bnei Brak wurde ein 45-jähriger Mann durch Glassplitter verletzt. Israelische Streitkräfte beschossen zudem eine Brücke im Osten des Libanon, um Hisbollah-Verstärkungen zu blockieren. In Beiruts Südvorstadt Haret Hreik kollabierte ein Gebäude nach einem israelischen Luftangriff.",
+              "gegenstimme": "Iran stellt seine Raketenangriffe auf Israel als legitime Gegenwehr gegen die von USA und Israel begonnenen Angriffe auf iranisches Staatsgebiet dar. Aus iranischer Sicht handelt es sich um Selbstverteidigung, nicht um Aggression. Internationale Beobachter und Hilfsorganisationen hingegen warnen vor dem zunehmenden Leid der Zivilbevölkerung auf allen Seiten – in Teheran, Beirut und israelischen Städten – und fordern einen sofortigen Waffenstillstand.",
               "sources": [
                 {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/europa-und-der-iran-krieg-trumps-krieg-bringt-europaeische-regierungen-in-ein-dilemma"
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/schwere-angriffe-auf-teheran-iranische-raketen-treffen-israel-a-43881aff-d7f7-4241-a076-487b1df34365"
+                },
+                {
+                  "name": "The Guardian (Live)",
+                  "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut"
                 },
                 {
                   "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cevk0e4ykwko"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/trumps-droht-mit-dem-nato-austritt-europa-zaehlt-darauf-dass-es-nur-rhetorik-ist-ld.1932176"
+                  "url": "https://www.bbc.com/news/articles/cew70wjvv9do"
                 }
               ]
             },
             {
-              "id": "2026-04-03-iran-hormus-krieg",
-              "slug": "iran-hormus-krieg",
-              "title": "Iran-Krieg: Angriff auf Brücke, Hormus-Blockade und UN-Sicherheitsrat",
-              "date": "2026-04-03",
-              "time": "07:00",
+              "id": "2026-04-04-iran-us-jets-abgeschossen-rescue",
+              "slug": "iran-us-jets-abgeschossen-rescue",
+              "title": "Zwei US-Kampfjets über Iran abgeschossen – Pilot vermisst, Rescue-Mission läuft",
+              "date": "2026-04-04",
+              "time": "06:00",
               "category": "international",
-              "icon": "🌍",
+              "icon": "🪖",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/0b305d89-4d1a-4d90-8006-29cfc581f691_w520_r2.08_fpx50.25_fpy55.01.jpg",
-              "kurz": "Die USA zerstörten Irans grösste Brücke bei Teheran – Trump droht mit weiteren Angriffen. Der UN-Sicherheitsrat debattiert über den Einsatz militärischer Gewalt zur Sicherung der Strasse von Hormus.",
-              "summary": "Fünf Wochen nach Kriegsbeginn zwischen den USA, Israel und Iran eskaliert der Konflikt weiter. US-Präsident Trump reklamierte die Zerstörung der 136 Meter hohen B1-Hängebrücke zwischen Teheran und Karaj für sich und drohte mit mehr. Im UN-Sicherheitsrat liegt eine von Bahrain eingebrachte Resolution vor, die den Einsatz 'aller notwendigen Mittel' zur Öffnung der Strasse von Hormus genehmigen würde. Die Blockade der Meerenge liess den Ölpreis auf 108 Dollar pro Barrel steigen.",
-              "gegenstimme": "China und Russland lehnen die Hormus-Resolution entschieden ab: Peking warnt, eine Ermächtigung zum Einsatz militärischer Gewalt würde die Situation weiter eskalieren. Völkerrechtsfachleute bezeichnen die US-Angriffe als mögliche Kriegsverbrechen. Iran hat nach eigenen Angaben mehr als 15'000 Bombenangriffe erlitten, mindestens 1'900 Menschen wurden getötet.",
+              "image": "https://cdn.prod.www.spiegel.de/images/c4a42d6e-89eb-44ee-9535-89366666b874_w520_r2.08_fpx27.79_fpy50.98.jpg",
+              "kurz": "Eine F-15E wurde über Iran abgeschossen – erster US-Jet-Verlust durch Feindfeuer seit 2003. Ein Besatzungsmitglied ist vermisst, ein zweites US-Flugzeug (A-10) stürzte bei der Rettungsmission ab.",
+              "summary": "Am 3./4. April 2026 wurde eine US-amerikanische F-15E Strike Eagle bei einem Kampfeinsatz über Iran durch iranisches Feuer abgeschossen. Es ist der erste Verlust eines US-Kampfflugzeugs durch Feindfeuer seit dem Irakkrieg 2003. Ein Besatzungsmitglied konnte geborgen werden, ein weiterer Pilot blieb zunächst vermisst. Bei der anschliessenden Rettungsmission verlor die US-Luftwaffe ein zweites Flugzeug: Eine A-10 Thunderbolt II stürzte nahe der Strasse von Hormuz ab, wobei der Pilot Iran-Medienberichten zufolge ebenfalls von iranischen Kräften abgeschossen wurde – das US-Militär bestätigte nur den Absturz. Zudem wurden zwei an der Rettungsmission beteiligte Black-Hawk-Helikopter von iranischen Kräften getroffen, Soldaten wurden verletzt.",
+              "gegenstimme": "Trumps Berater und republikanische Unterstützer betonen, solche Verluste seien im Krieg unvermeidlich und zeigten keinen grundlegenden Strategiefehler. Trump selbst erklärte gegenüber NBC, der Abschuss ändere nichts an der Kriegsführung: 'No, not at all. No, it's war.' Kritiker hingegen weisen darauf hin, dass die US-Führung zuvor die vollständige Luftüberlegenheit über Iran behauptet hatte – was diese Ereignisse widerlegen.",
               "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/apr/02/trump-warns-tehran-more-to-follow-after-strike-destroys-irans-largest-bridge"
-                },
                 {
                   "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/strasse-von-hormus-uno-sicherheitsrat-soll-ueber-einsatz-militaerischer-gewalt-abstimmen-a-030b6116-c60e-4252-aba7-5128fdae6c14"
+                  "url": "https://www.spiegel.de/ausland/abgeschossener-us-kampfjet-setzt-trump-unter-druck-a-f3c2f4ea-f104-4cf0-8804-d722a1276929"
+                },
+                {
+                  "name": "The Guardian (Live)",
+                  "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut"
                 },
                 {
                   "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-angriff-auf-hoechste-verkehrsbruecke-im-iran-trump-droht-mit-mehr"
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-usa-bestaetigen-abschuss-eines-kampfjets-ueber-dem-iran"
                 }
               ]
             },
             {
-              "id": "2026-04-03-trump-bondi-entlassung",
-              "slug": "trump-bondi-entlassung",
-              "title": "Trump entlässt Justizministerin Pam Bondi – Epstein-Akten im Hintergrund",
-              "date": "2026-04-03",
-              "time": "07:00",
+              "id": "2026-04-04-russland-ukraine-keine-gewinne",
+              "slug": "russland-ukraine-keine-gewinne",
+              "title": "Russland erzielt erstmals seit 2023 fast keine territorialen Gewinne in der Ukraine",
+              "date": "2026-04-04",
+              "time": "06:00",
               "category": "international",
-              "icon": "🇺🇸",
+              "icon": "🇺🇦",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/94d49892-20cf-423a-a44b-fe404a3d7c64_w520_r2.08_fpx58.66_fpy50.jpg",
-              "kurz": "US-Präsident Trump hat Justizministerin Pam Bondi entlassen – offiziell in Frieden, inoffiziell wegen des Epstein-Debakels und mangelnder Aggressivität gegen politische Gegner.",
-              "summary": "Donald Trump entliess am 2. April 2026 Justizministerin Pam Bondi via Truth Social – sie ist die dritte hochrangige Kabinettsmitglied, die in Trumps zweiter Amtszeit geht. Ihr Umgang mit den Epstein-Akten hatte sowohl Trump als auch Teile des Kongresses verärgert: erst grossartige Versprechen, dann keine Enthüllungen. Dazu galt ihr Vorgehen gegen Trumps politische Feinde als zu zögerlich. Nachfolger wird ihr bisheriger Stellvertreter Todd Blanche, Trumps ehemaliger Strafverteidiger.",
-              "gegenstimme": "Kritiker aus beiden Lagern: Republikanische Abgeordnete wie Thomas Massie kritisierten Bondi, weil sie die Epstein-Akten nicht konsequent offengelegt habe. Demokraten wie Ro Khanna sehen in der Affäre den Beweis, dass das Justizministerium unter Trump instrumentalisiert wurde. Die Juristin Stacey Young (Justice Connection) urteilte, Bondi habe die Unabhängigkeit ihres Ministeriums 'mit dem Vorschlaghammer' zerstört – wurde aber trotzdem entlassen, weil sie nicht weit genug ging.",
+              "image": "https://cdn.unitycms.io/images/3gjI12XPaByBVTPin10DbO.jpg",
+              "kurz": "Im März 2026 erzielte die russische Armee in der Ukraine kaum noch territoriale Gewinne – erstmals seit September 2023. Gleichzeitig attackierte Russland zu Ostern mit Hunderten Drohnen und Raketen.",
+              "summary": "Laut einer AFP-Analyse von Daten des Institute for the Study of War (ISW) hat die russische Armee im März 2026 nur noch 23 Quadratkilometer Territorium in der Ukraine gewonnen – der kleinste monatliche Fortschritt seit September 2023. Im Januar waren es noch 319 km², im Februar 123 km². Als Ursachen nennt das ISW ukrainische Gegenangriffe im Südosten sowie Russlands Massnahmen gegen Starlink und Telegram an der Front. Gleichzeitig eskalierte Russland die Angriffe: Am Karfreitag wurden mehr als 500 Drohnen und Dutzende Raketen auf die Ukraine abgefeuert, 14 Menschen starben. Die Ukraine steht ausserdem unter massivem Finanzdruck: Der Finanzierungsbedarf für 2026 beläuft sich auf 52 Milliarden US-Dollar.",
+              "gegenstimme": "Russische Staatsmedien und Militärkommentatoren relativieren die Zahlen und betonen, dass die Frontlinie insgesamt stabil zu Russlands Gunsten verlaufe. Sie argumentieren, dass territoriale Gewinne nicht der einzige Massstab für Kriegserfolg seien – Russland zermürbe die Ukraine durch anhaltenden Raketenbeschuss und wirtschaftliche Erschöpfung. Einige westliche Analysten warnen zudem davor, die ISW-Daten als zu optimistisch zu lesen: Russlands Kapazitäten zur Erneuerung seiner Streitkräfte seien nach wie vor erheblich.",
               "sources": [
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/donald-trump-entlaesst-seine-generalstaatsanwaeltin-pam-bondi-ld.1932308"
+                  "name": "The Guardian – Ukraine War Briefing",
+                  "url": "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis"
                 },
                 {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/ce843ge47z4o"
-                },
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/donald-trump-entlaesst-us-justizministerin-pam-bondi-a-de263436-fee0-43a2-8ce3-954e4267225a"
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cew70wjvv9do"
                 }
               ]
             },
             {
-              "id": "2026-04-03-ungarn-wahl-magyar-orban",
-              "slug": "ungarn-wahl-magyar-orban",
-              "title": "Ungarn vor der Wahl: Oppositionsführer Magyar bedroht Orbáns Machtposition",
-              "date": "2026-04-03",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🗳️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/4de1d5df-ff3b-40a1-98ff-2241e9b214fc_w520_r2.08_fpx51.58_fpy54.97.jpg",
-              "kurz": "Am 12. April 2026 wählt Ungarn ein neues Parlament. Erstmals seit 16 Jahren könnte Viktor Orbán seine Mehrheit verlieren – sein Herausforderer Peter Magyar liegt in Umfragen deutlich vorne.",
-              "summary": "Peter Magyar, ehemaliger Insider des Fidesz-Systems, hat mit seiner Partei Tisza die Regierungspartei in Umfragen überholt und bedroht Orbáns Machtmonopol ernsthaft. Der politische Neuling gewann in nur zwei Jahren eine breite Wählerschaft – getrieben von wirtschaftlicher Unzufriedenheit, einem Begnadigungsskandal und Magyars geschickter Kommunikation. Orbán weigert sich, vor der Wahl eine Debatte mit Magyar zu führen. Die Wahl am 12. April gilt als die offenste seit Jahren.",
-              "gegenstimme": "Kritiker sehen in Magyar einen opportunistischen Aufsteiger, der selbst jahrelang vom Fidesz-System profitiert hat. Eine 60-jährige Kinobesucherin brachte es auf den Punkt: 'Einen zweiten Orban brauchen wir nicht.' Ob Magyar tatsächlich einen Systemwechsel herbeiführt oder nur das Personal austauscht, bleibt offen. Das Fidesz-nahe Forschungsinstitut Nézőpont betont zudem, dass Orbán trotz schlechter Umfragen über einen strukturellen Vorteil im ländlichen Raum verfügt.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/peter-magyar-ein-einstpeter-magyar-ein-einstiger-gefolgsmann-koennte-viktor-orban-stuerzen-ld.1931034"
-                },
-                {
-                  "name": "Tagesschau",
-                  "url": "https://www.tagesschau.de/ausland/europa/orban-ungarn-wahl-2026-100.html"
-                },
-                {
-                  "name": "Euronews",
-                  "url": "https://de.euronews.com/2026/03/30/ungarn-wahl-europa-orban-ukraine"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-pharma-zoelle-usa-schweiz",
-              "slug": "pharma-zoelle-usa-schweiz",
-              "title": "USA verhängen 100%-Zölle auf Arzneimittel – Schweiz zahlt 15%",
-              "date": "2026-04-03",
-              "time": "07:00",
+              "id": "2026-04-04-lawine-grosser-mythen-toter",
+              "slug": "lawine-grosser-mythen-toter",
+              "title": "Lawine am Grossen Mythen – Bergsteiger stirbt, zweiter verletzt",
+              "date": "2026-04-04",
+              "time": "06:00",
               "category": "schweiz",
-              "icon": "💊",
+              "icon": "🏔️",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/6810e90f-6456-439a-9958-7d465210e83d_w520_r2.08_fpx49.33_fpy50.jpg",
-              "kurz": "US-Präsident Trump verhängt per Dekret Zölle von bis zu 100% auf patentierte Medikamente. Für die Schweiz gilt ein reduzierter Satz von 15%.",
-              "summary": "Die USA erheben künftig Zölle von bis zu 100 Prozent auf patentierte Arzneimittel und deren Wirkstoffe. Länder mit Handelsvereinbarungen – darunter die Schweiz und Liechtenstein – profitieren von einem deutlich tieferen Satz von 15 Prozent. Unternehmen, die bereits Preisdeals mit der US-Regierung abgeschlossen haben (darunter Roche und Novartis), sollen bis 2029 von den Zöllen befreit sein. Der Schweizer Pharmaverband Interpharma warnt trotzdem vor Risiken für die globale Versorgungssicherheit.",
-              "gegenstimme": "Der Schweizer Pharmaverband Interpharma kritisiert, dass die Zölle globale Lieferketten gefährden, Forschung behindern und Patienten weltweit schaden. Trotz des reduzierten Satzes von 15% fordert der Verband eine vollständige Befreiung nach dem Vorbild des Vereinigten Königreichs.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/dekret-von-trump-usa-verkuenden-hohe-arzneimittel-zoelle-schweiz-ausgenommen"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/unternehmen/industrie/usa-bis-zu-100-prozent-us-regierung-fuehrt-zoelle-auf-bestimmte-arzneimittel-ein/100214192.html"
-                },
-                {
-                  "name": "swissinfo.ch",
-                  "url": "https://www.swissinfo.ch/ger/usa-verh%c3%a4ngen-hohe-pharma-z%c3%b6lle-15-prozent-satz-f%c3%bcr-die-schweiz/91203997"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-schweiz-demografie-aeltere-junge",
-              "slug": "schweiz-demografie-aeltere-junge",
-              "title": "Erstmals mehr ältere als junge Menschen in der Schweiz",
-              "date": "2026-04-03",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "👵",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/04/02/1bdad8d1-f321-4d88-982a-8fe7afc3580b.jpg",
-              "kurz": "Im Jahr 2025 überstieg in der Schweiz erstmals die Zahl der über 65-Jährigen jene der unter 20-Jährigen. Das Bundesamt für Statistik bezeichnet dies als Zeichen beschleunigter demografischer Alterung.",
-              "summary": "Die Schweizer Bevölkerung wuchs 2025 auf 9,1 Millionen an. Gleichzeitig erreichte die Alterung einen symbolischen Wendepunkt: Erstmals leben mehr Menschen über 65 als unter 20 Jahren im Land. Die Geburtenrate sank zum vierten Mal in Folge, während die Lebenserwartung weiter stieg. Diese Verschiebung stellt Sozialsysteme, Arbeitsmärkte und Staatshaushalte vor wachsende Herausforderungen.",
-              "gegenstimme": "Demografen betonen, dass die Alterung ein langfristiger Trend ist, der sich nicht kurzfristig umkehren lässt. Einwanderung kann das Verhältnis zwar beeinflussen, löst aber die strukturellen Herausforderungen nicht vollständig. Die politische Diskussion über die Finanzierung der AHV und der Altersvorsorge wird damit noch dringlicher – besonders im Kontext der parallel laufenden Debatte über das Armeebudget.",
-              "sources": [
-                {
-                  "name": "20 Minuten / BFS",
-                  "url": "https://www.20min.ch/story/bevoelkerung-erstmals-leben-in-der-schweiz-mehr-aeltere-als-junge-menschen-103539693"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-schweizer-armee-31-mrd",
-              "slug": "schweizer-armee-31-mrd",
-              "title": "31 Milliarden für die Schweizer Armee – Finanzierung noch offen",
-              "date": "2026-04-03",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/03/31/d22c3b4f-9ed2-4b71-ac3e-2c3716e454a3.jpg",
-              "kurz": "Der Bundesrat will das Schweizer Armeebudget bis 2038 um 31 Milliarden Franken erhöhen – finanziert durch eine Mehrwertsteuererhöhung von 0,8 Prozentpunkten. Das Volk ist laut Umfragen klar dagegen.",
-              "summary": "Die Schweizer Landesverteidigung soll bis 2038 massiv ausgebaut werden. Der Bundesrat schlägt eine befristete Erhöhung der Mehrwertsteuer um 0,8 Prozentpunkte vor, um den Rüstungsfonds zu speisen. Das Parlament diskutiert Alternativen – von Einsparungen bei der Entwicklungshilfe bis hin zu Umverteilung innerhalb des Bundeshaushalts. Eine klare Volksunterstützung fehlt, eine Verfassungsänderung wäre nötig.",
-              "gegenstimme": "Umfragen zeigen, dass die Bevölkerung einer Mehrwertsteuererhöhung für die Armee mehrheitlich ablehnend gegenübersteht. Linke Parteien wehren sich gegen Einsparungen bei Entwicklungshilfe und Sozialleistungen. Zudem konkurriert die Armeeerhöhung mit der Finanzierung der 13. AHV-Rente, die ebenfalls auf eine Mehrwertsteuererhöhung um 0,5 bis 0,8 Prozentpunkte angewiesen ist. Beide gleichzeitig wären für den Mittelstand eine erhebliche Belastung.",
+              "image": "https://image.20min.ch/2026/04/03/5f0c9eb7-1a08-4d87-8fd7-48b3ada3bdac.jpg",
+              "kurz": "Am Karfreitag riss eine Gleitschneelawine am Grossen Mythen (SZ) einen jungen Bergsteiger in den Tod. Sein Begleiter überlebte knapp.",
+              "summary": "Zwei junge Männer wurden am Karfreitag, 3. April 2026, beim Abstieg vom Grossen Mythen im Kanton Schwyz von einer Gleitschneelawine erfasst. Einer der Berggänger wurde über eine Felswand gerissen und starb noch an der Unfallstelle. Der andere konnte sich an einem Baum festhalten und sich selbst befreien. Zwei Rettungshelikopter und die Alpine Rettung Schweiz waren im Einsatz. Die Identität des Verstorbenen war zunächst noch unklar.",
+              "gegenstimme": "Das Unglück wirft Fragen zur Einschätzung der Lawinengefahr durch Bergsportler auf. Die Lawinensituation war an jenem Tag erheblich, trotzdem befanden sich die beiden Männer mit Seilen ausgerüstet auf dem Normalweg Richtung Gipfel. Bergführer und Alpinexperten betonen regelmässig, dass auch vermeintlich einfache Wanderwege im Frühjahr durch Schnee und Lawinengefahr zur tödlichen Falle werden können – und dass das Umkehren, wie es die beiden taten, zwar richtig war, aber manchmal zu spät kommt.",
               "sources": [
                 {
                   "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/polit-entertainment-31-milliarden-fuer-die-armee-sonst-stehen-wir-fuedliblutt-da-103537949"
+                  "url": "https://www.20min.ch/story/grosser-mythen-zwei-personen-von-lawine-erfasst-junger-mann-stirbt-103540439"
                 },
+                {
+                  "name": "SWI swissinfo.ch",
+                  "url": "https://www.swissinfo.ch/ger/bergg%c3%a4nger-stirbt-am-grossen-mythen-nach-lawinenniedergang/91207712"
+                },
+                {
+                  "name": "Polizeinews.ch",
+                  "url": "https://www.polizeinews.ch/2026/04/03/grosser-mythen-sz-tragoedie-am-berg-lawine-reisst-jungen-mann-in-den-tod/"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-salmonellen-kaese-rueckruf",
+              "slug": "salmonellen-kaese-rueckruf",
+              "title": "Salmonellen-Alarm: Coop und Migros rufen Weichkäse-Produkte zurück",
+              "date": "2026-04-04",
+              "time": "06:00",
+              "category": "schweiz",
+              "icon": "⚠️",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/04/03/f8cbafba-bebe-46dd-8f69-4bdee47d363c.jpg",
+              "kurz": "Wegen Salmonellenbelastung rufen Coop und Migros Weichkäse der Schüpfheimer Käserei Landbrügg zurück. Konsumenten sollen die Produkte nicht essen.",
+              "summary": "Die Käserei Landbrügg aus Schüpfheim LU hat ihr gesamtes Sortiment vorsorglich zurückgerufen, nachdem in einem Kräuterbrie-Weichkäse Salmonellen festgestellt wurden. Coop ruft neun Produkte zurück, Migros vier – darunter verschiedene Brie-Varianten, Humidor-Käse und Käseplatten. Die Produkte wurden zwischen März und April 2026 schweizweit sowie in ausgewählten Regionen verkauft. Konsumentinnen und Konsumenten erhalten den Kaufpreis zurückerstattet.",
+              "gegenstimme": "Die Käserei Landbrügg handelt mit dem Totalrückruf präventiv und geht damit über das gesetzlich vorgeschriebene Minimum hinaus. Lebensmittelsicherheitsexperten weisen darauf hin, dass Salmonellen in Weichkäse zwar ein ernstes Risiko darstellen, gesunde Erwachsene eine Infektion aber in der Regel ohne Komplikationen überstehen. Kritisch zu hinterfragen bleibt, wie es zur Kontamination kommen konnte und ob die Überwachungsstrukturen in der Weichkäseproduktion ausreichend sind.",
+              "sources": [
                 {
                   "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/temporaere-finanzierung-bundesrat-will-mehrwertsteuer-fuer-armee-erhoehen"
+                  "url": "https://www.srf.ch/news/schweiz/gesundheitsgefaehrdung-coop-und-migros-rufen-weichkaese-wegen-salmonellengefahr-zurueck"
                 },
                 {
-                  "name": "VBS",
-                  "url": "https://www.vbs.admin.ch/de/finanzierung-armee"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-bern-regierungsrat-allemann",
-              "slug": "bern-regierungsrat-allemann",
-              "title": "Rochade im Berner Regierungsrat: Allemann übernimmt Baudirektion",
-              "date": "2026-04-03",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "🏛️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/EC7mWtu0K808FoLA65E_8u.jpg",
-              "kurz": "Nach den Berner Regierungsratswahlen hat das neue Kollegium die Direktionen verteilt. Evi Allemann (SP) wechselt von der Justiz- in die Bau- und Verkehrsdirektion.",
-              "summary": "Der neu zusammengesetzte Berner Regierungsrat hat sich wenige Tage nach den Wahlen auf die Direktionszuteilung geeinigt. Die einzige Rochade unter den Bisherigen vollzieht Evi Allemann (SP): Sie übernimmt die als politisch gewichtig geltende Bau- und Verkehrsdirektion von der SVP. Neu im Amt sind Raphael Lanz (SVP, Wirtschaft), Reto Müller (SP, Bildung) und Aline Trede (Grüne, Justiz). Die SP ist damit erfreut, da Allemann als frühere VCS-Präsidentin Expertise in Verkehrs- und Mobilitätsfragen mitbringt.",
-              "gegenstimme": "",
-              "sources": [
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/regierungsrat-bern-evi-allemann-wird-verkehrsdirektorin-485241865706"
-                },
-                {
-                  "name": "Watson",
-                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/616709517-evi-allemann-wird-bernische-bau-und-verkehrsdirektorin"
-                },
-                {
-                  "name": "Plattform J",
-                  "url": "https://www.plattformj.ch/artikel/241860/"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-bern-wankdorf-beschwerde",
-              "slug": "bern-wankdorf-beschwerde",
-              "title": "Stadt Bern hält Beschwerde gegen Autobahnanschluss Wankdorf aufrecht",
-              "date": "2026-04-03",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "🛣️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/0dLwVWEzKVdBGVeoXg3UaR.jpg",
-              "kurz": "Der Berner Gemeinderat hält an seiner Beschwerde gegen das BUGAW-Projekt (Autobahnanschluss Wankdorf) fest, nachdem eine grosszügige Überdachung der Allmenden als nicht realisierbar eingestuft wurde.",
-              "summary": "Die Machbarkeitsstudie zur Überdachung der Autobahn zwischen den Allmenden Bern kommt zum Schluss, dass eine grosszügige Verbindung baulich nicht bewilligungsfähig ist. Der Berner Gemeinderat betrachtet damit einen wesentlichen Beschwerdepunkt als ungelöst und hält die Beschwerde gegen das BUGAW-Projekt aufrecht. Zusätzlich hat die Rückstufung des Bypass Bern Ost durch den Bundesrat die Ausgangslage grundlegend verändert. Der Gemeinderat will dennoch nach Lösungen für eine verträgliche Entwicklung des ESP Wankdorf suchen.",
-              "gegenstimme": "",
-              "sources": [
-                {
-                  "name": "Stadt Bern Medienmitteilung",
-                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/bugaw-gemeinderat-haelt-an-seiner-beschwerde-fest"
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/bakterienbelastung-salmonellen-alarm-coop-ruft-diverse-kaeseprodukte-zurueck-103540399"
                 },
                 {
                   "name": "Der Bund",
-                  "url": "https://www.derbund.ch/wankdorf-ueberdachung-der-allmenden-in-bern-gescheitert-352206797884"
+                  "url": "https://www.derbund.ch/schuepfheim-coop-ruft-kaese-wegen-salmonellen-zurueck-553055821808"
                 }
               ]
             },
             {
-              "id": "2026-04-03-zollikofen-ueberschuss",
-              "slug": "zollikofen-ueberschuss",
-              "title": "Zollikofen erzielt 2,3 Millionen Franken Überschuss statt Defizit",
-              "date": "2026-04-03",
-              "time": "07:00",
+              "id": "2026-04-04-bern-stadtrechnung-2025",
+              "slug": "bern-stadtrechnung-2025",
+              "title": "Bern schliesst 2025 mit Überschuss ab – Zollikofen meldet ebenfalls Plus",
+              "date": "2026-04-04",
+              "time": "06:00",
               "category": "regional",
-              "icon": "🏘️",
+              "icon": "🏦",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/20J_R2G1KIlBeUF-_POBV1.jpg",
-              "kurz": "Die Gemeinde Zollikofen schliesst die Jahresrechnung 2025 mit einem Ertragsüberschuss von 2,3 Millionen Franken ab – deutlich besser als das budgetierte Defizit.",
-              "summary": "Zollikofen hat die Jahresrechnung 2025 mit einem Ertragsüberschuss von 2,3 Millionen Franken abgeschlossen. Budgetiert war ursprünglich ein Aufwandüberschuss. Damit setzt die Gemeinde einen langjährigen Trend fort, die Rechnung besser als geplant zu schliessen. Die FDP hatte diesen Trend bereits als Argument für eine Steuersenkung genutzt, die im November 2025 vom Volk bewilligt wurde.",
-              "gegenstimme": "",
+              "image": "https://cdn.unitycms.io/images/5X2j6v3y4-tAFAjcjLL6lf.jpg",
+              "kurz": "Die Stadt Bern schliesst das Rechnungsjahr 2025 mit einem Gewinn von 1,7 Millionen Franken ab – trotz budgetiertem Defizit von 29,8 Millionen. Auch Zollikofen meldet 2,3 Millionen Plus.",
+              "summary": "Die Stadt Bern hat die Jahresrechnung 2025 mit einem Ertragsüberschuss von 1,7 Millionen Franken abgeschlossen, bei einem budgetierten Defizit von fast 30 Millionen Franken. Haupttreiber war ein Rekord-Fiskalertrag von 648 Millionen Franken – rund 37 Millionen über dem Budget. Allerdings sind zwei Drittel dieses Mehrertrag auf Einmaleffekte zurückzuführen. Die finanzpolitischen Reserven steigen auf 96,2 Millionen Franken, bleiben aber unterhalb des angestrebten Eigenkapitals von 120 bis 180 Millionen. Auch die Gemeinde Zollikofen meldet für 2025 einen Überschuss von 2,3 Millionen Franken.",
+              "gegenstimme": "Das positive Ergebnis ist zu einem wesentlichen Teil Einmaleffekten zu verdanken: 7,1 Millionen Franken aus Quellsteuer-Nachfakturierungen und 18,4 Millionen Franken ausserordentliche Gewinnsteuer einer einzelnen juristischen Person. Ohne diese Sondereffekte hätte die Stadt Bern ein deutliches Defizit geschrieben. Finanzexperten und bürgerliche Stimmen im Stadtrat warnen deshalb: Die strukturellen Ausgaben wachsen, insbesondere durch hohe Investitionen und steigende Betriebsfolgekosten. Die schwarze Null ist kein Zeichen struktureller Gesundheit.",
               "sources": [
                 {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/zollikofen-gemeinde-erzielt-2-3-millionen-franken-ueberschuss-206947883176"
+                  "name": "Stadt Bern – Medienmitteilung Rechnung 2025",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/rechnung-2025-schwarze-null-dank-steuerertraegen"
                 },
                 {
-                  "name": "Berner Zeitung",
+                  "name": "Der Bund – Rechnung 2025 Stadt Bern",
+                  "url": "https://www.derbund.ch/rechnung-2026-stadt-bern-kleiner-ueberschuss-994802130526"
+                },
+                {
+                  "name": "Bernerzeitung – Zollikofen: Gemeinde erzielt 2,3 Millionen Franken Überschuss",
                   "url": "https://www.bernerzeitung.ch/zollikofen-gemeinde-erzielt-2-3-millionen-franken-ueberschuss-206947883176"
-                },
-                {
-                  "name": "Gemeinde Zollikofen",
-                  "url": "https://www.zollikofen.ch/finanzensteuern/11860"
                 }
               ]
             },
             {
-              "id": "2026-04-03-iran-energiepreise-schock",
-              "slug": "iran-energiepreise-schock",
-              "title": "Öl bei 109 Dollar: Der Energiepreisschock aus dem Iran-Krieg",
-              "date": "2026-04-03",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "⛽",
+              "id": "2026-04-04-bern-svp-longchamp-analyse",
+              "slug": "bern-svp-longchamp-analyse",
+              "title": "SVP-Siegesserie in Bern: Longchamp rechnet mit Forderung nach drittem Bundesrat",
+              "date": "2026-04-04",
+              "time": "06:00",
+              "category": "regional",
+              "icon": "🗳️",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/05970176-631c-41da-90f4-31450c584579_w520_r2.08_fpx67.3_fpy52.96.jpg",
-              "kurz": "Der Iran-Krieg treibt den Ölpreis auf über 100 Dollar – Spritpreise explodieren, Notenbanken stehen vor einem Dilemma zwischen Inflation und Wachstum.",
-              "summary": "Seit dem Ausbruch des Iran-Kriegs klettert der Rohölpreis auf rund 109 Dollar je Barrel und reisst die Spritpreise in Europa auf neue Hochststände. Die EU ruft zum Energiesparen auf, während einzelne Mitgliedstaaten lieber Steuern senken. Fuer die Schweiz droht eine milliardenschwere Mehrbelastung. Gleichzeitig stehen die Notenbanken vor einem klassischen Stagflationsproblem: steigende Preise bei gleichzeitig drohender Rezession.",
-              "gegenstimme": "Oekonomische Gegenthese: Einige Energieexperten warnen davor, die Preisschocks zu ueberschaetzen. Sollte der Konflikt rasch eingedaemmt werden, koennten die Ölpreise ebenso schnell wieder sinken – wie 2022 nach dem ersten russischen Preisschock. Steuersenkungen auf Energie werden von Klimaoekonomlnnen zudem als kontraproduktiv kritisiert, weil sie den Anreiz zum Sparen untergraben.",
+              "image": "https://cdn.unitycms.io/images/5k39sd0rK3b8Bl-6N9qmqg.jpg",
+              "kurz": "Die SVP gewinnt bei den Berner Grossratswahlen 2026 sieben Sitze dazu und stellt neu 51 von 160 Mandaten. Politologe Longchamp analysiert die Dynamik und warnt vor einer Forderung nach dem dritten Bundesratssitz.",
+              "summary": "Bei den Regierungs- und Grossratswahlen vom 29. März 2026 im Kanton Bern hat die SVP sieben Sitze gewonnen und ist mit 51 von 160 Sitzen klar stärkste Kraft im Grossen Rat. Politologe Claude Longchamp sieht darin eine Fortsetzung der kantonalen SVP-Erfolge schweizweit und erwartet, dass die Partei bald einen dritten Bundesratssitz einfordern wird. Die Bürgerlichen halten im Regierungsrat weiterhin 4 von 7 Sitzen, Rot-Grün konnte jedoch seine Positionen dort verteidigen.",
+              "gegenstimme": "Politologe Marc Bühlmann (Universität Bern) relativiert die Bedeutung des Rechtsrutschs: Es habe keine grosse Verschiebung gegeben, die einem Block die alleinige Mehrheit verschaffe. Die Vielparteienlandschaft Berns bleibe intakt und erfordere weiterhin Kompromisse. Zudem wäre eine SVP-Forderung nach einem dritten Bundesratssitz verfassungsrechtlich heikel und politisch kaum mehrheitsfähig – der aktuelle Proporz spiegelt die Kräfteverhältnisse im Nationalrat, nicht in einzelnen Kantonen.",
               "sources": [
                 {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-der-iran-krieg-erschuettert-das-globale-zinsgefuege/100213010.html"
+                  "name": "SRF News – Berner Grossratswahlen",
+                  "url": "https://www.srf.ch/news/schweiz/berner-grossratswahlen-svp-ist-die-grosse-siegerin-mit-plus-sieben-sitzen"
                 },
                 {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/spritpreise-eu-ruft-zum-sparen-auf-staaten-setzen-auf-steuersenkungen-a-fd650cff-40b8-46eb-b6e3-ce6b6637e8d8"
+                  "name": "Blick – Wahlen Kanton Bern 2026",
+                  "url": "https://www.blick.ch/politik/wahlen-im-ticker-schafft-gruenen-trede-den-sprung-in-die-regierung-id21826264.html"
                 },
                 {
-                  "name": "Swissinfo",
+                  "name": "Der Bund – Longchamp erklärt die SVP-Siegesserie",
+                  "url": "https://www.derbund.ch/claude-longchamp-erklaert-die-siegesserie-der-svp-399898108672"
+                },
+                {
+                  "name": "Nau.ch – Longchamp: 2026 wird kontroverser",
+                  "url": "https://www.nau.ch/politik/bundeshaus/longchamp-2026-wird-kontroverser-heftiger-und-interessanter-67079400"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-europa-kernenergie-energiekrise",
+              "slug": "europa-kernenergie-energiekrise",
+              "title": "Energiekrise treibt Europa zur Kernkraft – neue Debatte nach Iran-Schock",
+              "date": "2026-04-04",
+              "time": "06:00",
+              "category": "wirtschaft",
+              "icon": "⚛️",
+              "edition": "morning",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2232214770-384x216.jpg",
+              "kurz": "Der Energiepreisschock durch den Iran-Krieg beschleunigt Europas Rückkehr zur Kernkraft. Für die Schweiz könnten jährliche Mehrkosten von bis zu 5 Milliarden Franken entstehen.",
+              "summary": "Steigende Energiepreise infolge des Iran-Kriegs und der Blockade der Strasse von Hormus haben in Europa eine neue Debatte über Energieunabhängigkeit ausgelöst. Kernenergie erlebt eine Renaissance: Italien, Belgien, Griechenland und Schweden revidieren frühere Anti-Atomkurs-Entscheide. EU-Kommissionspräsidentin von der Leyen bezeichnet den europäischen Atomausstieg als 'strategischen Fehler'. Gleichzeitig warnen Experten, dass Kernkraft kein schneller Ausweg ist – neue Reaktoren brauchen Jahrzehnte.",
+              "gegenstimme": "Umweltschutzorganisationen warnen, Investitionen in Kernkraft könnten Mittel und politische Aufmerksamkeit von erneuerbaren Energien abziehen, die günstiger und schneller skalierbar sind. Chatham House-Forscher Chris Aylett betont: Europas Hauptproblem ist der Erhalt bestehender, alternder Anlagen – nicht der Bau neuer. Zudem bleiben Länder wie Ungarn und die Slowakei von russischer Nukleartechnologie abhängig, was eine neue geopolitische Verwundbarkeit schafft.",
+              "sources": [
+                {
+                  "name": "BBC News – Europe asks if reviving nuclear is the answer",
+                  "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno"
+                },
+                {
+                  "name": "NZZ – Benzinpreise an Osterfeiertagen",
+                  "url": "https://www.nzz.ch/wirtschaft/die-benzinpreise-schiessen-an-den-osterfeiertagen-in-die-hoehe-wegen-trump-und-iran-krieg-aber-nicht-nur-ld.1932344"
+                },
+                {
+                  "name": "Swissinfo – Energie in der Schweiz",
                   "url": "https://www.swissinfo.ch/ger/klimaanpassung/energie-in-der-schweiz-die-milliardenschwere-rechnung-des-nahostkonflikts/91181834"
                 }
               ]
             },
             {
-              "id": "2026-04-03-spacex-ipo",
-              "slug": "spacex-ipo",
-              "title": "SpaceX plant Mega-Börsengang – potenziell grösste Emission aller Zeiten",
-              "date": "2026-04-03",
-              "time": "07:00",
+              "id": "2026-04-04-opec-produktion-hochfahren",
+              "slug": "opec-produktion-hochfahren",
+              "title": "OPEC will Ölproduktion hochfahren – Irak droht die Staatspleite",
+              "date": "2026-04-04",
+              "time": "06:00",
               "category": "wirtschaft",
-              "icon": "📈",
+              "icon": "🛢️",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/5bc846d4-ccc2-4462-b67f-a65fed90b377_w520_r2.08_fpx50.65_fpy49.99.jpg",
-              "kurz": "SpaceX hat bei der US-Börsenaufsicht SEC vertraulich einen IPO-Antrag eingereicht. Die Bewertung könnte 1,75 Billionen Dollar erreichen – mehr als je ein Unternehmen beim Börsengang erzielt hat.",
-              "summary": "Elon Musks Raumfahrtunternehmen SpaceX hat laut Medienberichten vom 2. April 2026 vertraulich ein Emissionsprospekt bei der SEC eingereicht. Die Bewertung könnte bis zu 1,75 Billionen Dollar betragen – das wäre der grösste Börsengang der Geschichte. Geplant ist ein Ersthandelstag im Juni 2026, das Emissionsvolumen soll bei 50 bis 75 Milliarden Dollar liegen. SpaceX hatte zuletzt auch seine KI-Firma xAI und die Plattform X in den Konzern eingebracht.",
-              "gegenstimme": "Kritiker zweifeln an der enormen Bewertung: Die prognostizierten Gewinne und das Wachstumspotenzial seien schwer einzuschätzen. Zudem ist Musk aufgrund seiner politischen Aktivitäten und seiner Nähe zur Trump-Regierung eine polarisierende Figur – was das Interesse institutioneller Investoren in Europa und Asien dämpfen könnte. Konkurrent Blue Origin von Jeff Bezos baut ebenfalls einen eigenen Satellitendienst auf.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/spacex-macht-science-fiction-zur-realitaet-die-firma-von-elon-musk-koennte-an-der-boerse-175-billionen-dollar-wert-sein-ld.1931017"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/spacex-elon-musk-meldet-offenbar-rekord-boersengang-an-a-93f3bc08-88b0-4534-ab18-4cf0c6890c6d"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-openai-122-mrd-finanzierung",
-              "slug": "openai-122-mrd-finanzierung",
-              "title": "OpenAI sammelt 122 Milliarden Dollar – und plant den Börsengang",
-              "date": "2026-04-03",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🤖",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/5bc846d4-ccc2-4462-b67f-a65fed90b377_w520_r2.08_fpx50.65_fpy49.99.jpg",
-              "kurz": "OpenAI hat Ende März 2026 eine Rekord-Finanzierungsrunde von 122 Milliarden Dollar abgeschlossen. Die Bewertung klettert auf 852 Milliarden Dollar – ein Börsengang Ende 2026 wird konkreter.",
-              "summary": "OpenAI schloss per Ende März 2026 eine Finanzierungsrunde über 122 Milliarden Dollar ab – die grösste in der Unternehmensgeschichte und laut Finanzchefin Sarah Friar grösser als jeder bisherige Börsengang. Angeführt wurde die Runde von Amazon, Nvidia und Softbank. Die Bewertung des ChatGPT-Herstellers steigt damit auf 852 Milliarden Dollar. Trotz rasantem Umsatzwachstum ist OpenAI noch weit von der Profitabilität entfernt. Ein IPO Ende 2026 mit einer Billionen-Dollar-Bewertung gilt als wahrscheinlich. Konkurrent Anthropic sammelte im Februar 30 Milliarden bei einer Bewertung von 380 Milliarden Dollar.",
-              "gegenstimme": "OpenAI schreibt weiterhin massive Verluste – im dritten Quartal 2025 sollen es über zwölf Milliarden Dollar gewesen sein. Die wachsende Konkurrenz durch Google Gemini, Anthropics Claude und Microsofts Copilot setzt das Unternehmen unter Druck. CEO Sam Altman rief Ende 2025 intern den 'Code Red' aus. Zudem wurde die erfolgreiche Video-KI Sora eingestellt, weil sie zu kostenintensiv war – ein Zeichen, dass auch bei OpenAI harte Priorisierungen nötig sind.",
-              "sources": [
-                {
-                  "name": "t3n",
-                  "url": "https://t3n.de/news/openai-rekord-finanzierung-1736992/"
-                },
-                {
-                  "name": "TechCrunch (OpenAI)",
-                  "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
-                },
-                {
-                  "name": "TechCrunch (Anthropic)",
-                  "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-04-03-iran-nobelpreis-herzanfall",
-              "slug": "iran-nobelpreis-herzanfall",
-              "title": "Iranische Nobelpreisträgerin Mohammadi erleidet Herzanfall im Gefängnis",
-              "date": "2026-04-03",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🏥",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Narges Mohammadi, iranische Friedensnobelpreisträgerin, soll im Gefängnis Zanjan einen Herzanfall erlitten haben – eine Verlegung ins Spital wurde verweigert.",
-              "summary": "Die 53-jährige Menschenrechtsaktivistin und Nobelpreisträgerin Narges Mohammadi wurde laut Aussage ihres Bruders am 24. März 2026 bewusstlos in ihrer Gefängniszelle aufgefunden. Mithäftlinge trugen sie in die Krankenstation, wo sie mit Medikamenten stabilisiert wurde – doch eine Spitaleinweisung lehnten die Behörden trotz ihrer bekannten Herz- und Lungenprobleme ab. Ihr Bruder Hamidreza Mohammadi warnt, ihr Leben sei in unmittelbarer Gefahr, auch wegen der Belastungen durch den laufenden US-israelischen Krieg gegen Iran.",
-              "gegenstimme": "Die iranischen Behörden haben sich zu den Vorwürfen nicht öffentlich geäussert. Das Regime bezeichnet politische Gefangene wie Mohammadi als Verurteilte wegen 'staatsfeindlicher Propaganda', nicht als Gewissensgefangene.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cdj7xye8knxo"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-kuba-gefangene-freilassung",
-              "slug": "kuba-gefangene-freilassung",
-              "title": "Kuba kuendigt Freilassung von ueber 2000 Gefangenen an",
-              "date": "2026-04-03",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🕊️",
-              "edition": "midday",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1280px-Flag_of_Cuba.svg.png",
-              "kurz": "Die kubanische Regierung hat die Begnadigung von 2010 Gefangenen angekuendigt und bezeichnet dies als humanitaere Geste zur Osterwoche. Beobachter sehen einen Zusammenhang mit einer Lockerung des US-Oelembargos.",
-              "summary": "Kuba will 2010 Gefangene freilassen – darunter Auslaender, Frauen, Jugendliche und aeltere Personen. Havanna stellt die Massnahme als Ostergest dar, doch Analysten vermuten einen politischen Deal: Kurz zuvor liess die US-Marine erstmals seit Verhaengung des Oelembargos einen russischen Tanker mit fast 730 000 Barrel Rohoel nach Kuba passieren. Die tatsaechliche Freilassung politischer Gefangener aus den Protesten von 2021 bleibt unklar.",
-              "gegenstimme": "Menschenrechtsorganisationen wie Human Rights Watch und Prisoners Defenders bezweifeln, dass echte politische Gefangene freigelassen werden. Laut Prisoners Defenders sitzen Stand Anfang Maerz 1214 politische Gefangene in Kuba ein. Havanna bestreitet deren Existenz. Kritiker sehen die Freilassung als taktisches Zugestaendnis ohne substanzielle politische Oeffnung.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/humanitaere-und-souveraene-geste-kuba-kuendigt-die-freilassung-von-mehr-als-zweitausend-gefangenen-an-ld.1932318"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-merz-sautter-iran-diplomatie",
-              "slug": "merz-sautter-iran-diplomatie",
-              "title": "Merz schickt Vertrauten nach Washington – Europas Diplomatie im Iran-Konflikt",
-              "date": "2026-04-03",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🤝",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/fc317ba7-3641-4a8d-89a2-02857c25210b_w520_r2.08_fpx60.65_fpy44.96.jpg",
-              "kurz": "Bundeskanzler Friedrich Merz hat einen persoenlichen Vertrauten nach Washington entsandt, um im Iran-Konflikt zu vermitteln. Gleichzeitig beraten mehr als 40 Laender, wie die gesperrte Strasse von Hormuz wieder geoeffnet werden kann.",
-              "summary": "Waehrend der Krieg gegen Iran anhalt, arbeiten europaeische Staaten auf Hochtouren an diplomatischen Loesungen. Deutschland schickte einen Kanzlerberater nach Washington, um Trump zu beschwichtigen und einen moeglichen NATO-Austritt der USA abzuwenden. Mehr als 40 Laender nahmen an einem virtuellen Gipfel teil, der Sanktionsdruck und internationale Kooperation zur Wiederoeffnung der Strasse von Hormuz zum Ziel hatte. Die USA waren nicht dabei – Praesident Trump forderte stattdessen die Verbuendeten auf, selbst aktiv zu werden.",
-              "gegenstimme": "Kritiker wenden ein, dass die europaeische Diplomatie zu wenig entschlossen wirkt: Frankreichs Praesident Macron schliesst militaerische Optionen aus und setzt auf Verhandlungen mit Iran – ein Ansatz, der angesichts der laufenden Kriegshandlungen als realitaetsfern gilt. Zudem besteht die Gefahr, dass Europa durch zu viel Beschwichtigungspolitik gegenueber Washington an Glaubwuerdigkeit verliert.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzlerberater-sautter-auf-iran-mission-in-den-usa-a-b6f1a23f-13df-4401-a2ad-71906c4b9d8c"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cx2d0md89v2o"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/krieg-in-nahost-johann-wadephul-besorgt-ueber-nato-austrittsdrohung-von-donald-trump-a-09cd283c-3d08-4cb8-ac91-36913cfe2145"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-myanmar-militaer-praesident",
-              "slug": "myanmar-militaer-praesident",
-              "title": "Myanmar: Putsch-General Min Aung Hlaing wird Präsident",
-              "date": "2026-04-03",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🌏",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Fünf Jahre nach seinem Militärputsch gegen Aung San Suu Kyi wurde General Min Aung Hlaing vom neu gewählten Parlament Myanmars zum Präsidenten ernannt.",
-              "summary": "Das neu einberufene Parlament Myanmars wählte am Donnerstag den bisherigen Putsch-General Min Aung Hlaing zum Staatspräsidenten. Er legte sein Amt als Armeechef nieder, wie es die Verfassung vorschreibt. Doch die Machtverhältnisse bleiben dieselben: Das Parlament ist mit Loyalisten besetzt, die Militärpartei USDP gewann rund 80 Prozent der zivilen Sitze. Beobachter sprechen von einer Krönung, nicht einer Wahl. Der Bürgerkrieg, der seit dem Coup 2021 Tausende das Leben kostete und Millionen vertrieb, dürfte weitergehen.",
-              "gegenstimme": "Die Nationale Einheitsregierung (NUG) – die im Exil operierende demokratische Gegenregierung – bezeichnet Wahl und Parlament als vollständig illegitim und bekräftigt, den Kampf fortzusetzen. Aktivist Mya Aye ruft zu Dialog und Freilassung aller politischen Gefangenen auf.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c1782nk0018o"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-bern-kita-missbrauch",
-              "slug": "bern-kita-missbrauch",
-              "title": "Schwerer Missbrauchsfall in Berner Kita: Mindestens 15 Kleinkinder betroffen",
-              "date": "2026-04-03",
-              "time": "12:15",
-              "category": "regional",
-              "icon": "🚨",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/4uGLgsmmqKQAWPGVdCqM6H.jpg",
-              "kurz": "Ein ehemaliger Kita-Gruppenleiter aus dem Raum Bern soll mindestens 15 Kleinkinder zwischen 1 und 4 Jahren sexuell missbraucht und die Taten gefilmt haben.",
-              "summary": "Ein 33-jähriger Mann, der als Gruppenleiter in Kindertagesstätten im Raum Bern und Winterthur tätig war, ist wegen sexueller Übergriffe an mindestens 15 Kleinkindern angeklagt. Die Taten sollen sich über eineinhalb Jahre ereignet haben. Der Mann ist grösstenteils geständig. Besonders stossend: Bereits 2022 wurde ein Verdacht gemeldet, das Verfahren aber eingestellt – woraufhin der Mann in Bern eine neue Stelle antrat. Der Prozess vor dem Regionalgericht Bern wurde verschoben, nachdem der amtliche Verteidiger den Fall abgegeben hat.",
-              "gegenstimme": "Die Kita-Leitungen beider betroffenen Institutionen betonen, Schutzkonzepte seien vorhanden und gelebt worden. Opferanwältin Laura Jost zweifelt daran: Bei derart systematischem Missbrauch an so vielen Kindern müsse es organisatorische Mängel gegeben haben.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/kitas-in-be-und-zh-betroffen-kita-betreuer-soll-mehrere-kleinkinder-missbraucht-haben"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/winterthur-und-bern-kita-gruppenleiter-soll-15-kinder-sexuell-misshandelt-haben-103533604"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/bern-kita-mitarbeiter-missbrauchte-15-kinder-trotz-verdacht-726677387252"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-iran-stahl-wirtschaft",
-              "slug": "iran-stahl-wirtschaft",
-              "title": "Iran-Krieg trifft Wirtschaft: Stahlwerke stillgelegt, Deutschland droht Gaskrise",
-              "date": "2026-04-03",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "🏭",
-              "edition": "midday",
               "image": "https://cdn.prod.www.spiegel.de/images/a949ee83-d180-4e73-8975-d72186236448_w520_r2.08_fpx49.34_fpy50.jpg",
-              "kurz": "Die zwei groessten Stahlwerke Irans sind nach US-israelischen Luftangriffen vollstaendig stillgelegt. In Deutschland droht angesichts gesperrter Gaswege und leerer Speicher eine neue Energiekrise.",
-              "summary": "Irans zwei groesste Stahlproduzenten – Khuzestan Steel und Mobarakeh Steel – haben ihre Produktion nach massiven Luftangriffen eingestellt; eine Wiedereröffnung wird auf sechs Monate bis ein Jahr geschaetzt. Die Sperrung der Strasse von Hormuz hat die weltweiten Gaspreise verdoppelt und bedroht Deutschlands Speicherziele fuer den naechsten Winter. Russland profitiert als Alternativlieferant massiv von der Lage und nimmt im Maerz bis zu 17,6 Milliarden Dollar durch Rohstoffexporte ein. Europa steht vor einem Dilemma: Den Energiebedarf decken oder Russlands Kriegskasse fuellen.",
-              "gegenstimme": "Die NZZ weist darauf hin, dass die gesetzlichen deutschen Fuellstandsvorgaben fuer Gasspeicher den Markt verzerren und staatliche Notkaufe wahrscheinlicher machen – was Steuerzahler teuer zu stehen kommen koennte, aehnlich wie 2022 mit ueber 13 Milliarden Euro. Zudem profitiert ausgerechnet Russland von der westlichen Schwaeche bei der Energieversorgung.",
+              "kurz": "OPEC-Staaten wollen trotz gesperrter Strasse von Hormus die Ölförderung erhöhen – ein Signal an die Märkte. Für den Irak, der 90 Prozent seines Budgets aus Öleinnahmen bestreitet, könnte im Mai das Geld ausgehen.",
+              "summary": "Der Iran-Krieg hat die Strasse von Hormus weitgehend blockiert und trifft vor allem den Irak mit voller Wucht: Ölexporte stocken, Importgüter kommen nur noch halb so viel an, die Staatskasse ist bis Mitte Mai leer. OPEC-Mitglieder planen dennoch eine Produktionssteigerung – vorerst als Signal, praktisch wirkungslos solange Hormus blockiert bleibt. Brent-Öl steht bei rund 109 Dollar, Schweizer Autofahrer zahlen an Ostern über 2.20 Franken pro Liter Diesel.",
+              "gegenstimme": "Eine OPEC-Produktionssteigerung ist derzeit symbolischer Natur: Solange die Strasse von Hormus gesperrt ist, kann das zusätzliche Öl ohnehin nicht transportiert werden. Kritiker sehen darin ein Signal mangelnder Glaubwürdigkeit des Kartells. Gleichzeitig profitieren einige OPEC-Mitglieder ausserhalb des Golfraums – etwa Libyen oder Nigeria – von den hohen Preisen und haben wenig Anreiz, schnell zu liefern.",
               "sources": [
+                {
+                  "name": "Handelsblatt – OPEC Produktion",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/iran-krieg-opec-laender-wollen-offenbar-produktion-hochfahren/100214067.html"
+                },
+                {
+                  "name": "Handelsblatt – Irak Ölfelder",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/irakkrieg-stillstand-auf-iraks-oelfeldern/100214391.html"
+                },
+                {
+                  "name": "NZZ – Benzinpreise Osterfeiertage",
+                  "url": "https://www.nzz.ch/wirtschaft/die-benzinpreise-schiessen-an-den-osterfeiertagen-in-die-hoehe-wegen-trump-und-iran-krieg-aber-nicht-nur-ld.1932344"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-musk-spacex-grok-erpressung",
+              "slug": "musk-spacex-grok-erpressung",
+              "title": "Musk zwingt Banken für SpaceX-IPO zur Millionen-Investition in Grok",
+              "date": "2026-04-04",
+              "time": "06:00",
+              "category": "tech",
+              "icon": "🚀",
+              "edition": "morning",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/grok-icon-300x300-1775247969.jpg",
+              "kurz": "Elon Musk soll von Banken, die am SpaceX-Börsengang teilnehmen wollen, Millionen-Käufe von Grok-KI-Abonnements verlangen – ein beispielloser Interessenkonflikt.",
+              "summary": "Laut einem Bericht der New York Times verlangt Elon Musk von den fünf Investmentbanken, die den geplanten SpaceX-IPO begleiten sollen, den Kauf von Grok-Enterprise-Abonnements in Millionenhöhe. SpaceX strebt eine Bewertung von über 2 Billionen Dollar an, was ihn zum grössten Börsengang aller Zeiten machen würde. Die beteiligten Banken – Bank of America, Citigroup, Goldman Sachs, JPMorgan und Morgan Stanley – könnten Beratungsgebühren von über 500 Millionen Dollar verdienen, was den Druck erhöht, Musks Bedingungen zu akzeptieren.",
+              "gegenstimme": "Juristen und Governance-Experten weisen auf potenzielle Interessenkonflikte und regulatorische Risiken hin: Wer als Underwriter eines Börsengangs agiert, sollte frei von Abhängigkeiten gegenüber dem Emittenten sein. Aktionärsschützer sehen die Vermischung von SpaceX- und xAI-Interessen als Problem – Anleger könnten in einen Börsengang investieren, dessen Konditionen teilweise durch Nebengeschäfte beeinflusst wurden. SpaceX hat sich bisher nicht zu den Berichten geäussert.",
+              "sources": [
+                {
+                  "name": "Ars Technica – Musk insists banks must buy Grok subscriptions",
+                  "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/"
+                },
+                {
+                  "name": "Handelsblatt – Musk knüpft SpaceX-Börsengang an KI-Chatbot",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/spacex-musk-knuepft-laut-bericht-teilnahme-an-spacex-boersengang-an-kauf-von-ki-chatbot/100214371.html"
+                },
+                {
+                  "name": "Handelsblatt – SpaceX peilt IPO mit 2 Billionen Dollar an",
+                  "url": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-peilt-offenbar-ipo-mit-zwei-billionen-dollar-bewertung-an/100214341.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-rowhammer-nvidia-gpu-sicherheit",
+              "slug": "rowhammer-nvidia-gpu-sicherheit",
+              "title": "Neue Rowhammer-Angriffe ermöglichen vollständige Kontrolle über Nvidia-GPU-Maschinen",
+              "date": "2026-04-04",
+              "time": "06:00",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "morning",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-768x432.jpg",
+              "kurz": "Drei unabhängige Forschungsteams haben neue Rowhammer-Angriffe auf Nvidia-GPUs entdeckt, die vollständige Systemkompromittierung ermöglichen – auch in Cloud-Umgebungen.",
+              "summary": "Sicherheitsforscher haben drei neue Rowhammer-Angriffsmethoden vorgestellt – GDDRHammer, GeForge und GPUBreach – die GDDR-Grafikspeicher manipulieren und über mehrere Stufen vollständige Root-Kontrolle über den Host-Rechner ermöglichen. Besonders beunruhigend: GPUBreach funktioniert auch bei aktiviertem IOMMU-Schutz, der bisher als wirksame Schutzmassnahme galt. Cloud-Umgebungen, in denen teure GPUs unter mehreren Nutzern geteilt werden, sind potenziell besonders exponiert.",
+              "gegenstimme": "Nvidia hat bisher nicht offiziell auf die Forschungsergebnisse reagiert. Sicherheitsexperten betonen, dass Rowhammer-Angriffe in der Praxis schwierig durchzuführen sind und in der Regel lokalen oder Cloud-Zugang zum Zielsystem erfordern. Dennoch sei das Muster besorgniserregend: Rowhammer-Resistenz auf CPU-Seite schützt nicht, wenn der Angriff via GPU erfolgt – alle bisherigen Schutzmechanismen müssen neu bewertet werden.",
+              "sources": [
+                {
+                  "name": "Ars Technica – New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+                  "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-04-trump-militaeretat-2027",
+              "slug": "trump-militaeretat-2027",
+              "title": "Trump will Militäretat 2027 massiv erhöhen – Kürzungen bei Bildung, Umwelt und Nasa",
+              "date": "2026-04-04",
+              "time": "06:00",
+              "category": "usa",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/fb5f874d-3fd6-432d-a984-ce41966bb750_w520_r2.08_fpx30_fpy54.97.jpg",
+              "kurz": "Das Weisse Haus beantragt für 2027 ein Rekord-Verteidigungsbudget von 1,5 Billionen Dollar – begleitet von drastischen Kürzungen bei Bildung, Umwelt und der Nasa.",
+              "summary": "Die Trump-Administration legte dem Kongress ihren Haushaltsentwurf für 2027 vor. Das Verteidigungsbudget soll auf 1,5 Billionen Dollar steigen – die grösste Aufrüstung seit dem Zweiten Weltkrieg. Gleichzeitig werden zivile Programme um rund 73 Milliarden Dollar gekürzt, darunter Bildung, Wohnbau und Klimaschutz. Die Nasa verliert erheblich an Budget – ausgerechnet während Astronauten auf dem Weg zum Mond sind.",
+              "gegenstimme": "Demokraten nennen den Entwurf eine 'realitätsferne Forderung'. Haushaltexperten weisen darauf hin, dass das Golden-Dome-Raketenabwehrsystem allein über 20 Jahre mehr als 542 Milliarden Dollar kosten könnte – eine enorme Belastung selbst für das beantragte Rekordbudget. Auch innerhalb der Republikanischen Partei ist eine Verabschiedung in dieser Form unwahrscheinlich.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/usa-donald-trump-weisses-haus-fordert-massive-aufstockung-des-militaeretats-a-fadd97ba-fe09-4923-bee8-b18e7d410b82"
+                },
                 {
                   "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo"
+                  "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o"
                 },
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/iran-krieg-droht-deutschland-eine-neue-gaskrise-ld.1932267"
-                },
-                {
-                  "name": "NZZ Pro",
-                  "url": "https://www.nzz.ch/pro/russland-verdient-milliarden-am-iran-krieg-ld.1932054"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-amazon-globalstar-satellit",
-              "slug": "amazon-globalstar-satellit",
-              "title": "Amazon verhandelt 9-Milliarden-Übernahme von Globalstar – Kampf gegen Starlink",
-              "date": "2026-04-03",
-              "time": "12:15",
-              "category": "tech",
-              "icon": "🛰️",
-              "edition": "midday",
-              "image": "",
-              "kurz": "Amazon führt laut Financial Times fortgeschrittene Gespräche zur Übernahme des Satellitenbetreibers Globalstar für rund 9 Milliarden US-Dollar, um sein Project-Kuiper-Netzwerk zu beschleunigen.",
-              "summary": "Amazon verhandelt über den Kauf von Globalstar, dem Unternehmen hinter Apples Satelliten-Notruffunktion. Die Übernahme würde Amazon im Rennen um Satelliten-Internet gegen Elon Musks Starlink massiv stärken. Apple hält 20 Prozent an Globalstar und ist in die Gespräche eingebunden. Der Deal wird auf rund 9 Milliarden US-Dollar geschätzt. Auch SpaceX hatte Interesse gezeigt.",
-              "gegenstimme": "Eine Übernahme durch Amazon würde Apple in eine Abhängigkeit von einem direkten Konkurrenten bringen, da das iPhone-Netzwerk auf Globalstar-Infrastruktur basiert. Apple dürfte Garantien für den weiteren Netzzugang fordern.",
-              "sources": [
-                {
-                  "name": "Macerkopf",
-                  "url": "https://www.macerkopf.de/2026/04/02/amazon-uebernahme-apples-satellitenpartner-globalstar/"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/forschung-innovation/uebernahme-amazon-will-offenbar-satellitenfirma-globalstar-kaufen/100214027.html"
-                },
-                {
-                  "name": "Financial Times",
-                  "url": "https://www.ft.com/content/abace066-fe93-4ff0-8378-d3c3eb49519c"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-04-03-china-politbuero-korruption",
-              "slug": "china-politbuero-korruption",
-              "title": "Xi Jinping lässt Politbüromitglied Ma Xingrui wegen Korruption ermitteln",
-              "date": "2026-04-03",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🇨🇳",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/34e3ccd1-da0f-45c1-8d24-4af3a51d78a6_w520_r2.08_fpx59.98_fpy49.99.jpg",
-              "kurz": "China leitet Korruptionsermittlungen gegen Politbüromitglied Ma Xingrui ein – der nächste hochrangige Kader, der in Xi Jinpings Antikorruptionskampagne fällt.",
-              "summary": "Die Zentrale Disziplinarkommission der KPCh hat Ermittlungen gegen Politbüromitglied Ma Xingrui wegen schwerwiegender Verstösse gegen Gesetz und Disziplin eingeleitet. Ma war zuletzt im Oktober 2025 öffentlich aufgetreten und war im Juli 2025 als Parteichef von Xinjiang abgesetzt worden. Der Fall reiht sich ein in eine Serie von Verfahren gegen hochrangige Militärs und Parteikader. Die Zentrale Militärkommission (ZMK) ist mittlerweile von sieben auf zwei Mitglieder geschrumpft.",
-              "gegenstimme": "Kritiker sehen in Xis Antikorruptionskampagne weniger einen echten Kampf gegen Missstände als ein Mittel zur Machtkonsolidierung: Wer Xi gefährlich werden könnte oder Loyalitätsfragen aufwirft, wird durch Korruptionsvorwürfe neutralisiert. Aussenstehende können kaum überprüfen, ob die Vorwürfe substanziell sind oder politisch motiviert.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/china-ermittelt-gegen-politbuero-mitglied-ma-a-ddc490af-a78e-4f58-936a-113b3dc1eae1"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-israel-gaza-50-prozent",
-              "slug": "israel-gaza-50-prozent",
-              "title": "Israel kontrolliert über 50% des Gazastreifens – Welt schaut auf Iran",
-              "date": "2026-04-03",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🛡️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/cb78cfca-4a73-4090-bcbf-2cc9cb8a3ffc_w520_r2.08_fpx49.46_fpy49.97.png",
-              "kurz": "Während die Weltöffentlichkeit auf den Irankrieg fokussiert ist, schafft Israel in Gaza vollendete Tatsachen: Neue Satellitenbilder zeigen kilometerlange Erdwälle und Militärlager – Israel kontrolliert nun mehr als die Hälfte des Streifens.",
-              "summary": "Neue Satellitenaufnahmen, ausgewertet vom Spiegel, zeigen, dass Israel inzwischen über 50 Prozent des Gazastreifens militärisch kontrolliert. Kilometerlange Erdwälle teilen den Streifen, neue Militärlager entstehen. Die internationale Aufmerksamkeit gilt dem Irankrieg – Gaza gerät ins Hintertreffen der globalen Nachrichtenlage. Humanitäre Organisationen warnen vor einer dauerhaften Annexion unter dem Deckmantel des Krieges.",
-              "gegenstimme": "Israel bezeichnet die Militärpräsenz als temporäre Sicherheitsmassnahme gegen Hamas-Infrastruktur, nicht als Besatzungsabsicht. Kritiker – darunter UN-Organisationen und zahlreiche westliche Regierungen – sehen in den Erdwällen und Lagern jedoch Anzeichen einer dauerhaften Kontrolle über Gaza, die völkerrechtlich als Besatzung einzustufen wäre.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/israel-gaza-krieg-waehrend-die-welt-auf-iran-schaut-schafft-israel-in-gaza-fakten-a-004fed64-bf81-4d3e-b326-0730b0e08991"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-ukraine-oster-eskalation",
-              "slug": "ukraine-oster-eskalation",
-              "title": "Russland eskaliert an Ostern – Zelenskyy telefoniert mit Papst Leo",
-              "date": "2026-04-03",
-              "time": "18:00",
-              "category": "international",
-              "icon": "🕊️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/b5048ae8-ba2d-4c35-83d9-1481f09ded64_w520_r2.08_fpx33.35_fpy50.jpg",
-              "kurz": "Russland überzog die Ukraine am Karfreitag mit Hunderten Drohnen und Dutzenden Raketen – als Antwort auf Selenskyys Angebot einer Osterruhe. Der ukrainische Präsident telefonierte währenddessen mit dem neuen Papst Leo XIV.",
-              "summary": "Am Karfreitag, dem 3. April 2026, griff Russland die Ukraine mit Hunderten Shahed-Drohnen und Dutzenden Raketen an. Selenskyy hatte zuvor eine Waffenruhe über die Osterfeiertage vorgeschlagen – Moskau bestritt, diesen Vorschlag je erhalten zu haben. Während des Telefonats mit Papst Leo XIV. liefen die Angriffe. Die von den USA vermittelten Friedensgespräche sind ins Stocken geraten, da Washington derzeit durch den Irankrieg abgelenkt ist.",
-              "gegenstimme": "Der Kreml bestreitet, jemals einen formellen Vorschlag für eine Osterruhe erhalten zu haben. Zudem feiern orthodoxe Christen in der Ukraine und in Russland Ostern erst am 12. April – die Formulierung 'Oster-Eskalation' bedient also primär den westlichen Kalender und hat für die orthodoxe Bevölkerung beider Länder geringere symbolische Wirkung.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-telefoniert-mit-papst-leo-xiv-und-spricht-von-russischer-oster-eskalation-a-f403170f-7439-4685-a46d-4abcd82ec14f"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-us-kampfjet-iran-abgeschossen",
-              "slug": "us-kampfjet-iran-abgeschossen",
-              "title": "US-Kampfjet über Iran abgeschossen – Pilot vermisst, Iran setzt Kopfgeld",
-              "date": "2026-04-03",
-              "time": "18:00",
-              "category": "international",
-              "icon": "✈️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/4906769e-09a6-4ab6-a173-e1272215d516_w520_r2.08_fpx41.99_fpy50.98.jpg",
-              "kurz": "Erstmals seit Kriegsbeginn wurde ein US-Kampfjet über Iran abgeschossen – eine F-15E mit zwei Besatzungsmitgliedern. Die Suche läuft auf beiden Seiten.",
-              "summary": "Ein US-amerikanischer Kampfjet vom Typ F-15E wurde am 3. April 2026 über Zentraliran abgeschossen – der erste derartige Verlust seit Beginn des Irankrieges im März 2026. Iran behauptete zunächst, eine F-35 getroffen zu haben, Luftfahrtexperten korrigierten dies auf eine F-15E des 494. Geschwaders, stationiert in RAF Lakenheath in Grossbritannien. Die USA bestätigten den Abschuss inoffiziell. Eine Such- und Rettungsaktion mit C-130-Transportern und HH-60-Helikoptern ist im Gang. Der Iran setzte eine Prämie für die Ergreifung von US-Soldaten aus.",
-              "gegenstimme": "Iran behauptet, einer der Piloten sei bereits gefangen genommen worden – was US-Stellen weder bestätigen noch dementieren. Die Widersprüche in Irans Darstellung (zuerst F-35, dann F-15; zuerst 'Pilot tot', dann 'gefangen') deuten auf Informationskrieg hin. Unabhängige Verifikation ist derzeit unmöglich.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-us-kampfjet-abgeschossen-suche-nach-besatzung-a-38c5d01b-625b-4240-873e-66d56b32026d"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran"
-                },
-                {
-                  "name": "BBC Live",
-                  "url": "https://www.bbc.com/news/live/cgj0gn36px8t"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-bern-polizei-ki-fahndung",
-              "slug": "bern-polizei-ki-fahndung",
-              "title": "Berner Polizei veröffentlicht Fotos von Palästina-Demo – Bevölkerung nutzt KI zur Identifikation",
-              "date": "2026-04-03",
-              "time": "18:00",
-              "category": "regional",
-              "icon": "🔍",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/9sqj37MQKrwABqaxGW_oQr.jpg",
-              "kurz": "Die Kantonspolizei Bern hat unverpixelte Fotos von 31 Tatverdächtigen der Palästina-Demo vom Oktober 2025 veröffentlicht. Aus der Bevölkerung werden Hinweise erbeten – teils unter Einsatz von KI-Gesichtserkennungstools.",
-              "summary": "Rund fünf Monate nach der eskalierten Pro-Palästina-Kundgebung vom 11. Oktober 2025 in Bern veröffentlichte die Kantonspolizei Bern am 30. März 2026 unverpixelte Fahndungsfotos von 31 noch unbekannten Tatverdächtigen. Bereits zuvor hatte die Polizei über 101 Personen identifiziert. Seit der Publikation ist eine weitere Person identifiziert worden. Die Aktion ist laut Polizei ohne Vergleich in ihrer Dimension – noch nie wurden so viele Bilder gleichzeitig zur öffentlichen Fahndung freigegeben.",
-              "gegenstimme": "Datenschützer und Bürgerrechtsorganisationen kritisieren die massenhafte Veröffentlichung unverpixelter Bilder. Es bestehe das Risiko von Verwechslungen und ungerechtfertigtem öffentlichem Druck auf Unschuldige. Auch der Einsatz privater KI-Gesichtserkennungstools durch die Bevölkerung ist rechtlich und ethisch umstritten.",
-              "sources": [
-                {
-                  "name": "Blick",
-                  "url": "https://www.blick.ch/schweiz/bern/eskalierte-pro-palaestina-demo-in-bern-unverpixelte-bilder-von-31-verdaechtigen-veroeffentlicht-id21828867.html"
-                },
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/pro-palaestina-demo-unverpixelte-bilder-von-berner-demo-hat-es-so-noch-nie-gegeben"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/pro-palaestina-demo-polizei-veroeffentlicht-bilder-unverpixelt-103537082"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/bern-kantonspolizei-fahndet-nach-31-palaestina-demo-teilnehmern-347191096177"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-gantrisch-lawine-karfreitag",
-              "slug": "gantrisch-lawine-karfreitag",
-              "title": "Lawine im Gantrischgebiet – Rega sucht Vermisste",
-              "date": "2026-04-03",
-              "time": "18:00",
-              "category": "regional",
-              "icon": "🏔️",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/8bNALnlk4xXBzkv6qFTdmC.jpg",
-              "kurz": "Am Karfreitag ist im Gantrischgebiet nahe der Bürgle eine Lawine niedergegangen. Die Rega ist im Einsatz, da vermisste Personen vermutet werden.",
-              "summary": "Am 3. April 2026 (Karfreitag) hat sich im Berner Voralpengebiet Gantrisch, in der Nähe des beliebten Skitourengipfels Bürgle, eine Lawine gelöst. Die Schweizerische Rettungsflugwacht Rega ist mit Helikoptern vor Ort im Einsatz. Es werden vermisste Personen vermutet. Der Karfreitag ist bekannt als ein stark frequentierter Skitourentag in der Region.",
-              "gegenstimme": "Die genaue Anzahl der vermissten Personen war zum Redaktionsschluss noch unklar. Lawinenexperten weisen regelmässig darauf hin, dass die Gefahren im Frühjahr – besonders an Karfreitag bei grossen Skitouren-Aufkommen – nicht unterschätzt werden dürfen.",
-              "sources": [
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/gantrischgebiet-lawine-am-karfreitag-bei-der-buergle-942995759894"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/gantrischgebiet-lawine-am-karfreitag-bei-der-buergle-942995759894"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-eli-lilly-abnehmpille-roche",
-              "slug": "eli-lilly-abnehmpille-roche",
-              "title": "Neue Abnehmpille zugelassen – 20-Milliarden-Markt und was das für Roche bedeutet",
-              "date": "2026-04-03",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "💉",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Die US-Gesundheitsbehörde FDA hat die Abnehmpille Foundayo von Eli Lilly in einem Rekordtempo zugelassen. Bis 2030 soll das Produkt über 20 Milliarden Dollar pro Jahr einbringen – davon profitiert auch der Schweizer Pharmakonzern Roche.",
-              "summary": "Die FDA hat Eli Lillys Abnehmpille Foundayo (Wirkstoff: Orforglipron) innerhalb von weniger als vier Monaten zugelassen – ein Rekord. Das Präparat ergänzt den Markt der oralen GLP-1-Arzneimittel neben Novo Nordisks Wegovy-Pille. Analysten der J.P. Morgan erwarten bis 2030 einen Umsatz von 21,5 Milliarden Dollar für das Produkt. Roche, deren Tochterfirma Chugai den Wirkstoff erfunden hat, dürfte durch Lizenzgebühren rund 1,5 Milliarden Dollar pro Jahr erhalten.",
-              "gegenstimme": "Der Markt ist mit Risiken behaftet: Viele US-Krankenversicherungen übernehmen die Kosten noch nicht. Nebenwirkungen wie Brechreiz, Verstopfung und Haarausfall sind verbreitet. Zudem gibt es Kritik daran, dass das US-Gesundheitssystem die Kostenexplosion durch millionenfache Dauerbehandlungen kaum wird stemmen können.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/neue-abnehmpille-auf-eli-lilly-und-roche-wartet-milliardengeschaeft-ld.1932201"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-03-us-arbeitsmarkt-iran-krieg",
-              "slug": "us-arbeitsmarkt-iran-krieg",
-              "title": "Trotz Iran-Krieg: US-Arbeitslosigkeit sinkt auf 4,3% – Fed unter Druck",
-              "date": "2026-04-03",
-              "time": "18:00",
-              "category": "wirtschaft",
-              "icon": "📊",
-              "edition": "evening",
-              "image": "",
-              "kurz": "Der US-Arbeitsmarkt zeigte sich im März 2026 überraschend robust: Die Arbeitslosenquote sank auf 4,3 Prozent, obwohl der Krieg gegen den Iran die Wirtschaft belastet. Die US-Notenbank Fed steht vor einem Dilemma.",
-              "summary": "Im März 2026 entstanden in den USA 178.000 neue Stellen ausserhalb der Landwirtschaft – fast dreimal so viele wie von Ökonomen erwartet. Die Arbeitslosenquote fiel von 4,4 auf 4,3 Prozent. Trotz des seit fünf Wochen laufenden Iran-Krieges und eines Ölpreisanstiegs von über 50 Prozent zeigt sich der Arbeitsmarkt widerstandsfähig. Für die Notenbank Fed wird der Spielraum für Zinssenkungen damit enger: Analysten sprechen bereits von einer drohenden 'Warflation'.",
-              "gegenstimme": "Kritische Stimmen sehen im starken Jobmarkt eine trügerische Stärke: Der Ölpreisschock könnte in den kommenden Monaten zu Stagflation führen. US-Ökonom Mohamed El-Erian warnte, es sei unklar, ob die aktuelle Konstellation aus robuster Wirtschaft und steigendem Inflationsdruck auf Dauer tragfähig sei.",
-              "sources": [
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-us-arbeitslosenquote-sinkt-trotz-iran-krieg-auf-43-prozent/100214326.html"
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/"
                 }
               ]
             }
