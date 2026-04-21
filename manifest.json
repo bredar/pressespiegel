@@ -1,739 +1,97 @@
 {
-  "updated": "16:53 UTC",
+  "updated": "14:48 UTC",
   "days": [
     {
-      "date": "2026-04-04",
+      "date": "2026-04-21",
       "editions": {
-        "morning": {
-          "time": "07:00",
-          "articles": [
-            {
-              "id": "2026-04-04-frankreich-frachter-hormuz",
-              "slug": "frankreich-frachter-hormuz",
-              "title": "Erster Frachter eines westlichen Eigners passiert die Strasse von Hormuz",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🚢",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/b37c6e4b-904d-4cea-954b-fe70019c46bc_w520_r2.08_fpx45.35_fpy50.jpg",
-              "kurz": "Ein Containerschiff des französischen Reederei-Konzerns CMA CGM hat als erstes westliches Schiff die Strasse von Hormuz seit Kriegsbeginn passiert – auf einer von Iran genehmigten Route mit offenbar bezahlten Gebühren.",
-              "summary": "Seit dem Beginn des Iran-Kriegs Ende Februar 2026 gilt die Strasse von Hormuz für westliche Schiffe als unpassierbar. Nun hat erstmals ein Containerschiff eines westlichen Eigners die blockierte Meerenge durchfahren: die CMA CGM Kribi, ein Schiff des französischen Logistikkonzerns CMA CGM unter maltesischer Flagge. Das Schiff nutzte eine neue Route nahe der iranischen Insel Larak, für die offenbar Gebühren an Iran bezahlt wurden. Auch drei weitere Tanker – darunter einer mit japanischer Beteiligung (Mitsui OSK Lines) – passierten die Meerenge. Rund 2000 Handelsschiffe stecken weiterhin im Persischen Golf fest.",
-              "gegenstimme": "Grossbritannien und andere westliche Länder lehnen das iranische 'Mautgebühren'-System kategorisch ab: Die britische Aussenministerin Yvette Cooper bezeichnete Gebührenzahlungen als inakzeptabel und forderte koordinierten internationalen Druck auf Iran. Kritiker warnen, dass jedes Schiff, das Gebühren zahlt, Irans Blockade-Strategie legitimiert und finanziell unterstützt – was wiederum den Druck auf den Westen verringert, militärisch oder diplomatisch zu handeln.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/iran-frachter-eines-franzoesischen-eigners-durchquert-strasse-von-hormus-a-00b35873-d254-4393-9897-77018e003ad4"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/apr/03/french-owned-ship-japanese-tanker-pass-through-strait-of-hormuz-iran-war"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-indien-lebensmittelkrise-iran-krieg",
-              "slug": "indien-lebensmittelkrise-iran-krieg",
-              "title": "Indien droht Lebensmittelkrise – Düngemittelengpässe wegen Iran-Krieg",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🌾",
-              "edition": "morning",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-520147094-384x216.jpg",
-              "kurz": "Die Hormuz-Blockade durch Iran bedroht Indiens Düngemittelversorgung. Experten warnen, dass Ernteausfälle hunderte Millionen Menschen treffen könnten – das Welternährungsprogramm rechnet mit 45 Millionen zusätzlichen Hungernden.",
-              "summary": "Irans Blockade der Strasse von Hormuz seit Ende Februar 2026 hat weitreichende Folgen für die globale Lebensmittelversorgung. Indien, der weltgrösste Düngemittelverbraucher nach China, bezieht einen Grossteil seiner Düngemittelimporte und Rohstoffe aus den Golfstaaten. Die Gaslieferungen an indische Düngemittelfabriken wurden bereits um 30 Prozent gekürzt. Landwirte in Punjab und Haryana berichten von Panik und Hamsterkäufen. Das Welternährungsprogramm warnt, dass bis zu 45 Millionen Menschen in akute Ernährungsunsicherheit getrieben werden könnten, wenn der Konflikt nicht bis Juni endet. Besonders betroffen sind auch Sri Lanka und andere südasiatische Länder.",
-              "gegenstimme": "Indische Regierungsbeamte betonen, die Düngemittellager seien aktuell höher als im Vorjahr und die Versorgung sei gesichert. Das Ministerium für Düngemittel erklärt, die Beschaffung werde aktiv diversifiziert, um die Abhängigkeit von Golflieferanten zu reduzieren. Kritiker halten diese Beruhigungsversuche für verfrüht: Die Kharif-Aussaat beginnt erst im Mai/Juni – bis dahin könnten sich die Engpässe noch deutlich verschärfen.",
-              "sources": [
-                {
-                  "name": "The Guardian – India food crisis",
-                  "url": "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-iran-schwere-angriffe-teheran-israel",
-              "slug": "iran-schwere-angriffe-teheran-israel",
-              "title": "Schwere Angriffe auf Teheran und Beirut – iranische Raketen treffen Israel",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "international",
-              "icon": "💥",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/57301487-ced7-4dc3-909a-f497f8e31070_w520_r2.08_fpx51.56_fpy54.99.jpg",
-              "kurz": "Teheran und Beirut wurden in der Nacht auf den 4. April von schweren Explosionen erschüttert. Gleichzeitig trafen iranische Raketen Israel, eine Person wurde verletzt.",
-              "summary": "In der Nacht auf den 4. April 2026 kam es an mehreren Fronten gleichzeitig zu schweren Angriffen. Israel startete nach eigenen Angaben eine Angriffswelle auf Ziele in Teheran sowie auf Hisbollah-Infrastruktur in Beirut. Bewohner im Norden und Westen Teherans berichteten von massiven Explosionen. Gleichzeitig feuerte Iran erneut Raketen auf Israel: Im zentral-israelischen Bnei Brak wurde ein 45-jähriger Mann durch Glassplitter verletzt. Israelische Streitkräfte beschossen zudem eine Brücke im Osten des Libanon, um Hisbollah-Verstärkungen zu blockieren. In Beiruts Südvorstadt Haret Hreik kollabierte ein Gebäude nach einem israelischen Luftangriff.",
-              "gegenstimme": "Iran stellt seine Raketenangriffe auf Israel als legitime Gegenwehr gegen die von USA und Israel begonnenen Angriffe auf iranisches Staatsgebiet dar. Aus iranischer Sicht handelt es sich um Selbstverteidigung, nicht um Aggression. Internationale Beobachter und Hilfsorganisationen hingegen warnen vor dem zunehmenden Leid der Zivilbevölkerung auf allen Seiten – in Teheran, Beirut und israelischen Städten – und fordern einen sofortigen Waffenstillstand.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/schwere-angriffe-auf-teheran-iranische-raketen-treffen-israel-a-43881aff-d7f7-4241-a076-487b1df34365"
-                },
-                {
-                  "name": "The Guardian (Live)",
-                  "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cew70wjvv9do"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-iran-us-jets-abgeschossen-rescue",
-              "slug": "iran-us-jets-abgeschossen-rescue",
-              "title": "Zwei US-Kampfjets über Iran abgeschossen – Pilot vermisst, Rescue-Mission läuft",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🪖",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/c4a42d6e-89eb-44ee-9535-89366666b874_w520_r2.08_fpx27.79_fpy50.98.jpg",
-              "kurz": "Eine F-15E wurde über Iran abgeschossen – erster US-Jet-Verlust durch Feindfeuer seit 2003. Ein Besatzungsmitglied ist vermisst, ein zweites US-Flugzeug (A-10) stürzte bei der Rettungsmission ab.",
-              "summary": "Am 3./4. April 2026 wurde eine US-amerikanische F-15E Strike Eagle bei einem Kampfeinsatz über Iran durch iranisches Feuer abgeschossen. Es ist der erste Verlust eines US-Kampfflugzeugs durch Feindfeuer seit dem Irakkrieg 2003. Ein Besatzungsmitglied konnte geborgen werden, ein weiterer Pilot blieb zunächst vermisst. Bei der anschliessenden Rettungsmission verlor die US-Luftwaffe ein zweites Flugzeug: Eine A-10 Thunderbolt II stürzte nahe der Strasse von Hormuz ab, wobei der Pilot Iran-Medienberichten zufolge ebenfalls von iranischen Kräften abgeschossen wurde – das US-Militär bestätigte nur den Absturz. Zudem wurden zwei an der Rettungsmission beteiligte Black-Hawk-Helikopter von iranischen Kräften getroffen, Soldaten wurden verletzt.",
-              "gegenstimme": "Trumps Berater und republikanische Unterstützer betonen, solche Verluste seien im Krieg unvermeidlich und zeigten keinen grundlegenden Strategiefehler. Trump selbst erklärte gegenüber NBC, der Abschuss ändere nichts an der Kriegsführung: 'No, not at all. No, it's war.' Kritiker hingegen weisen darauf hin, dass die US-Führung zuvor die vollständige Luftüberlegenheit über Iran behauptet hatte – was diese Ereignisse widerlegen.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/abgeschossener-us-kampfjet-setzt-trump-unter-druck-a-f3c2f4ea-f104-4cf0-8804-d722a1276929"
-                },
-                {
-                  "name": "The Guardian (Live)",
-                  "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut"
-                },
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-usa-bestaetigen-abschuss-eines-kampfjets-ueber-dem-iran"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-russland-ukraine-keine-gewinne",
-              "slug": "russland-ukraine-keine-gewinne",
-              "title": "Russland erzielt erstmals seit 2023 fast keine territorialen Gewinne in der Ukraine",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🇺🇦",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/3gjI12XPaByBVTPin10DbO.jpg",
-              "kurz": "Im März 2026 erzielte die russische Armee in der Ukraine kaum noch territoriale Gewinne – erstmals seit September 2023. Gleichzeitig attackierte Russland zu Ostern mit Hunderten Drohnen und Raketen.",
-              "summary": "Laut einer AFP-Analyse von Daten des Institute for the Study of War (ISW) hat die russische Armee im März 2026 nur noch 23 Quadratkilometer Territorium in der Ukraine gewonnen – der kleinste monatliche Fortschritt seit September 2023. Im Januar waren es noch 319 km², im Februar 123 km². Als Ursachen nennt das ISW ukrainische Gegenangriffe im Südosten sowie Russlands Massnahmen gegen Starlink und Telegram an der Front. Gleichzeitig eskalierte Russland die Angriffe: Am Karfreitag wurden mehr als 500 Drohnen und Dutzende Raketen auf die Ukraine abgefeuert, 14 Menschen starben. Die Ukraine steht ausserdem unter massivem Finanzdruck: Der Finanzierungsbedarf für 2026 beläuft sich auf 52 Milliarden US-Dollar.",
-              "gegenstimme": "Russische Staatsmedien und Militärkommentatoren relativieren die Zahlen und betonen, dass die Frontlinie insgesamt stabil zu Russlands Gunsten verlaufe. Sie argumentieren, dass territoriale Gewinne nicht der einzige Massstab für Kriegserfolg seien – Russland zermürbe die Ukraine durch anhaltenden Raketenbeschuss und wirtschaftliche Erschöpfung. Einige westliche Analysten warnen zudem davor, die ISW-Daten als zu optimistisch zu lesen: Russlands Kapazitäten zur Erneuerung seiner Streitkräfte seien nach wie vor erheblich.",
-              "sources": [
-                {
-                  "name": "The Guardian – Ukraine War Briefing",
-                  "url": "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cew70wjvv9do"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-lawine-grosser-mythen-toter",
-              "slug": "lawine-grosser-mythen-toter",
-              "title": "Lawine am Grossen Mythen – Bergsteiger stirbt, zweiter verletzt",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "schweiz",
-              "icon": "🏔️",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/04/03/5f0c9eb7-1a08-4d87-8fd7-48b3ada3bdac.jpg",
-              "kurz": "Am Karfreitag riss eine Gleitschneelawine am Grossen Mythen (SZ) einen jungen Bergsteiger in den Tod. Sein Begleiter überlebte knapp.",
-              "summary": "Zwei junge Männer wurden am Karfreitag, 3. April 2026, beim Abstieg vom Grossen Mythen im Kanton Schwyz von einer Gleitschneelawine erfasst. Einer der Berggänger wurde über eine Felswand gerissen und starb noch an der Unfallstelle. Der andere konnte sich an einem Baum festhalten und sich selbst befreien. Zwei Rettungshelikopter und die Alpine Rettung Schweiz waren im Einsatz. Die Identität des Verstorbenen war zunächst noch unklar.",
-              "gegenstimme": "Das Unglück wirft Fragen zur Einschätzung der Lawinengefahr durch Bergsportler auf. Die Lawinensituation war an jenem Tag erheblich, trotzdem befanden sich die beiden Männer mit Seilen ausgerüstet auf dem Normalweg Richtung Gipfel. Bergführer und Alpinexperten betonen regelmässig, dass auch vermeintlich einfache Wanderwege im Frühjahr durch Schnee und Lawinengefahr zur tödlichen Falle werden können – und dass das Umkehren, wie es die beiden taten, zwar richtig war, aber manchmal zu spät kommt.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/grosser-mythen-zwei-personen-von-lawine-erfasst-junger-mann-stirbt-103540439"
-                },
-                {
-                  "name": "SWI swissinfo.ch",
-                  "url": "https://www.swissinfo.ch/ger/bergg%c3%a4nger-stirbt-am-grossen-mythen-nach-lawinenniedergang/91207712"
-                },
-                {
-                  "name": "Polizeinews.ch",
-                  "url": "https://www.polizeinews.ch/2026/04/03/grosser-mythen-sz-tragoedie-am-berg-lawine-reisst-jungen-mann-in-den-tod/"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-salmonellen-kaese-rueckruf",
-              "slug": "salmonellen-kaese-rueckruf",
-              "title": "Salmonellen-Alarm: Coop und Migros rufen Weichkäse-Produkte zurück",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "schweiz",
-              "icon": "⚠️",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/04/03/f8cbafba-bebe-46dd-8f69-4bdee47d363c.jpg",
-              "kurz": "Wegen Salmonellenbelastung rufen Coop und Migros Weichkäse der Schüpfheimer Käserei Landbrügg zurück. Konsumenten sollen die Produkte nicht essen.",
-              "summary": "Die Käserei Landbrügg aus Schüpfheim LU hat ihr gesamtes Sortiment vorsorglich zurückgerufen, nachdem in einem Kräuterbrie-Weichkäse Salmonellen festgestellt wurden. Coop ruft neun Produkte zurück, Migros vier – darunter verschiedene Brie-Varianten, Humidor-Käse und Käseplatten. Die Produkte wurden zwischen März und April 2026 schweizweit sowie in ausgewählten Regionen verkauft. Konsumentinnen und Konsumenten erhalten den Kaufpreis zurückerstattet.",
-              "gegenstimme": "Die Käserei Landbrügg handelt mit dem Totalrückruf präventiv und geht damit über das gesetzlich vorgeschriebene Minimum hinaus. Lebensmittelsicherheitsexperten weisen darauf hin, dass Salmonellen in Weichkäse zwar ein ernstes Risiko darstellen, gesunde Erwachsene eine Infektion aber in der Regel ohne Komplikationen überstehen. Kritisch zu hinterfragen bleibt, wie es zur Kontamination kommen konnte und ob die Überwachungsstrukturen in der Weichkäseproduktion ausreichend sind.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/gesundheitsgefaehrdung-coop-und-migros-rufen-weichkaese-wegen-salmonellengefahr-zurueck"
-                },
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/bakterienbelastung-salmonellen-alarm-coop-ruft-diverse-kaeseprodukte-zurueck-103540399"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/schuepfheim-coop-ruft-kaese-wegen-salmonellen-zurueck-553055821808"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-bern-stadtrechnung-2025",
-              "slug": "bern-stadtrechnung-2025",
-              "title": "Bern schliesst 2025 mit Überschuss ab – Zollikofen meldet ebenfalls Plus",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "regional",
-              "icon": "🏦",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/5X2j6v3y4-tAFAjcjLL6lf.jpg",
-              "kurz": "Die Stadt Bern schliesst das Rechnungsjahr 2025 mit einem Gewinn von 1,7 Millionen Franken ab – trotz budgetiertem Defizit von 29,8 Millionen. Auch Zollikofen meldet 2,3 Millionen Plus.",
-              "summary": "Die Stadt Bern hat die Jahresrechnung 2025 mit einem Ertragsüberschuss von 1,7 Millionen Franken abgeschlossen, bei einem budgetierten Defizit von fast 30 Millionen Franken. Haupttreiber war ein Rekord-Fiskalertrag von 648 Millionen Franken – rund 37 Millionen über dem Budget. Allerdings sind zwei Drittel dieses Mehrertrag auf Einmaleffekte zurückzuführen. Die finanzpolitischen Reserven steigen auf 96,2 Millionen Franken, bleiben aber unterhalb des angestrebten Eigenkapitals von 120 bis 180 Millionen. Auch die Gemeinde Zollikofen meldet für 2025 einen Überschuss von 2,3 Millionen Franken.",
-              "gegenstimme": "Das positive Ergebnis ist zu einem wesentlichen Teil Einmaleffekten zu verdanken: 7,1 Millionen Franken aus Quellsteuer-Nachfakturierungen und 18,4 Millionen Franken ausserordentliche Gewinnsteuer einer einzelnen juristischen Person. Ohne diese Sondereffekte hätte die Stadt Bern ein deutliches Defizit geschrieben. Finanzexperten und bürgerliche Stimmen im Stadtrat warnen deshalb: Die strukturellen Ausgaben wachsen, insbesondere durch hohe Investitionen und steigende Betriebsfolgekosten. Die schwarze Null ist kein Zeichen struktureller Gesundheit.",
-              "sources": [
-                {
-                  "name": "Stadt Bern – Medienmitteilung Rechnung 2025",
-                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/rechnung-2025-schwarze-null-dank-steuerertraegen"
-                },
-                {
-                  "name": "Der Bund – Rechnung 2025 Stadt Bern",
-                  "url": "https://www.derbund.ch/rechnung-2026-stadt-bern-kleiner-ueberschuss-994802130526"
-                },
-                {
-                  "name": "Bernerzeitung – Zollikofen: Gemeinde erzielt 2,3 Millionen Franken Überschuss",
-                  "url": "https://www.bernerzeitung.ch/zollikofen-gemeinde-erzielt-2-3-millionen-franken-ueberschuss-206947883176"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-bern-svp-longchamp-analyse",
-              "slug": "bern-svp-longchamp-analyse",
-              "title": "SVP-Siegesserie in Bern: Longchamp rechnet mit Forderung nach drittem Bundesrat",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "regional",
-              "icon": "🗳️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/5k39sd0rK3b8Bl-6N9qmqg.jpg",
-              "kurz": "Die SVP gewinnt bei den Berner Grossratswahlen 2026 sieben Sitze dazu und stellt neu 51 von 160 Mandaten. Politologe Longchamp analysiert die Dynamik und warnt vor einer Forderung nach dem dritten Bundesratssitz.",
-              "summary": "Bei den Regierungs- und Grossratswahlen vom 29. März 2026 im Kanton Bern hat die SVP sieben Sitze gewonnen und ist mit 51 von 160 Sitzen klar stärkste Kraft im Grossen Rat. Politologe Claude Longchamp sieht darin eine Fortsetzung der kantonalen SVP-Erfolge schweizweit und erwartet, dass die Partei bald einen dritten Bundesratssitz einfordern wird. Die Bürgerlichen halten im Regierungsrat weiterhin 4 von 7 Sitzen, Rot-Grün konnte jedoch seine Positionen dort verteidigen.",
-              "gegenstimme": "Politologe Marc Bühlmann (Universität Bern) relativiert die Bedeutung des Rechtsrutschs: Es habe keine grosse Verschiebung gegeben, die einem Block die alleinige Mehrheit verschaffe. Die Vielparteienlandschaft Berns bleibe intakt und erfordere weiterhin Kompromisse. Zudem wäre eine SVP-Forderung nach einem dritten Bundesratssitz verfassungsrechtlich heikel und politisch kaum mehrheitsfähig – der aktuelle Proporz spiegelt die Kräfteverhältnisse im Nationalrat, nicht in einzelnen Kantonen.",
-              "sources": [
-                {
-                  "name": "SRF News – Berner Grossratswahlen",
-                  "url": "https://www.srf.ch/news/schweiz/berner-grossratswahlen-svp-ist-die-grosse-siegerin-mit-plus-sieben-sitzen"
-                },
-                {
-                  "name": "Blick – Wahlen Kanton Bern 2026",
-                  "url": "https://www.blick.ch/politik/wahlen-im-ticker-schafft-gruenen-trede-den-sprung-in-die-regierung-id21826264.html"
-                },
-                {
-                  "name": "Der Bund – Longchamp erklärt die SVP-Siegesserie",
-                  "url": "https://www.derbund.ch/claude-longchamp-erklaert-die-siegesserie-der-svp-399898108672"
-                },
-                {
-                  "name": "Nau.ch – Longchamp: 2026 wird kontroverser",
-                  "url": "https://www.nau.ch/politik/bundeshaus/longchamp-2026-wird-kontroverser-heftiger-und-interessanter-67079400"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-europa-kernenergie-energiekrise",
-              "slug": "europa-kernenergie-energiekrise",
-              "title": "Energiekrise treibt Europa zur Kernkraft – neue Debatte nach Iran-Schock",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "wirtschaft",
-              "icon": "⚛️",
-              "edition": "morning",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2232214770-384x216.jpg",
-              "kurz": "Der Energiepreisschock durch den Iran-Krieg beschleunigt Europas Rückkehr zur Kernkraft. Für die Schweiz könnten jährliche Mehrkosten von bis zu 5 Milliarden Franken entstehen.",
-              "summary": "Steigende Energiepreise infolge des Iran-Kriegs und der Blockade der Strasse von Hormus haben in Europa eine neue Debatte über Energieunabhängigkeit ausgelöst. Kernenergie erlebt eine Renaissance: Italien, Belgien, Griechenland und Schweden revidieren frühere Anti-Atomkurs-Entscheide. EU-Kommissionspräsidentin von der Leyen bezeichnet den europäischen Atomausstieg als 'strategischen Fehler'. Gleichzeitig warnen Experten, dass Kernkraft kein schneller Ausweg ist – neue Reaktoren brauchen Jahrzehnte.",
-              "gegenstimme": "Umweltschutzorganisationen warnen, Investitionen in Kernkraft könnten Mittel und politische Aufmerksamkeit von erneuerbaren Energien abziehen, die günstiger und schneller skalierbar sind. Chatham House-Forscher Chris Aylett betont: Europas Hauptproblem ist der Erhalt bestehender, alternder Anlagen – nicht der Bau neuer. Zudem bleiben Länder wie Ungarn und die Slowakei von russischer Nukleartechnologie abhängig, was eine neue geopolitische Verwundbarkeit schafft.",
-              "sources": [
-                {
-                  "name": "BBC News – Europe asks if reviving nuclear is the answer",
-                  "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno"
-                },
-                {
-                  "name": "NZZ – Benzinpreise an Osterfeiertagen",
-                  "url": "https://www.nzz.ch/wirtschaft/die-benzinpreise-schiessen-an-den-osterfeiertagen-in-die-hoehe-wegen-trump-und-iran-krieg-aber-nicht-nur-ld.1932344"
-                },
-                {
-                  "name": "Swissinfo – Energie in der Schweiz",
-                  "url": "https://www.swissinfo.ch/ger/klimaanpassung/energie-in-der-schweiz-die-milliardenschwere-rechnung-des-nahostkonflikts/91181834"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-opec-produktion-hochfahren",
-              "slug": "opec-produktion-hochfahren",
-              "title": "OPEC will Ölproduktion hochfahren – Irak droht die Staatspleite",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "wirtschaft",
-              "icon": "🛢️",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/a949ee83-d180-4e73-8975-d72186236448_w520_r2.08_fpx49.34_fpy50.jpg",
-              "kurz": "OPEC-Staaten wollen trotz gesperrter Strasse von Hormus die Ölförderung erhöhen – ein Signal an die Märkte. Für den Irak, der 90 Prozent seines Budgets aus Öleinnahmen bestreitet, könnte im Mai das Geld ausgehen.",
-              "summary": "Der Iran-Krieg hat die Strasse von Hormus weitgehend blockiert und trifft vor allem den Irak mit voller Wucht: Ölexporte stocken, Importgüter kommen nur noch halb so viel an, die Staatskasse ist bis Mitte Mai leer. OPEC-Mitglieder planen dennoch eine Produktionssteigerung – vorerst als Signal, praktisch wirkungslos solange Hormus blockiert bleibt. Brent-Öl steht bei rund 109 Dollar, Schweizer Autofahrer zahlen an Ostern über 2.20 Franken pro Liter Diesel.",
-              "gegenstimme": "Eine OPEC-Produktionssteigerung ist derzeit symbolischer Natur: Solange die Strasse von Hormus gesperrt ist, kann das zusätzliche Öl ohnehin nicht transportiert werden. Kritiker sehen darin ein Signal mangelnder Glaubwürdigkeit des Kartells. Gleichzeitig profitieren einige OPEC-Mitglieder ausserhalb des Golfraums – etwa Libyen oder Nigeria – von den hohen Preisen und haben wenig Anreiz, schnell zu liefern.",
-              "sources": [
-                {
-                  "name": "Handelsblatt – OPEC Produktion",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/iran-krieg-opec-laender-wollen-offenbar-produktion-hochfahren/100214067.html"
-                },
-                {
-                  "name": "Handelsblatt – Irak Ölfelder",
-                  "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/irakkrieg-stillstand-auf-iraks-oelfeldern/100214391.html"
-                },
-                {
-                  "name": "NZZ – Benzinpreise Osterfeiertage",
-                  "url": "https://www.nzz.ch/wirtschaft/die-benzinpreise-schiessen-an-den-osterfeiertagen-in-die-hoehe-wegen-trump-und-iran-krieg-aber-nicht-nur-ld.1932344"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-musk-spacex-grok-erpressung",
-              "slug": "musk-spacex-grok-erpressung",
-              "title": "Musk zwingt Banken für SpaceX-IPO zur Millionen-Investition in Grok",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "tech",
-              "icon": "🚀",
-              "edition": "morning",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/grok-icon-300x300-1775247969.jpg",
-              "kurz": "Elon Musk soll von Banken, die am SpaceX-Börsengang teilnehmen wollen, Millionen-Käufe von Grok-KI-Abonnements verlangen – ein beispielloser Interessenkonflikt.",
-              "summary": "Laut einem Bericht der New York Times verlangt Elon Musk von den fünf Investmentbanken, die den geplanten SpaceX-IPO begleiten sollen, den Kauf von Grok-Enterprise-Abonnements in Millionenhöhe. SpaceX strebt eine Bewertung von über 2 Billionen Dollar an, was ihn zum grössten Börsengang aller Zeiten machen würde. Die beteiligten Banken – Bank of America, Citigroup, Goldman Sachs, JPMorgan und Morgan Stanley – könnten Beratungsgebühren von über 500 Millionen Dollar verdienen, was den Druck erhöht, Musks Bedingungen zu akzeptieren.",
-              "gegenstimme": "Juristen und Governance-Experten weisen auf potenzielle Interessenkonflikte und regulatorische Risiken hin: Wer als Underwriter eines Börsengangs agiert, sollte frei von Abhängigkeiten gegenüber dem Emittenten sein. Aktionärsschützer sehen die Vermischung von SpaceX- und xAI-Interessen als Problem – Anleger könnten in einen Börsengang investieren, dessen Konditionen teilweise durch Nebengeschäfte beeinflusst wurden. SpaceX hat sich bisher nicht zu den Berichten geäussert.",
-              "sources": [
-                {
-                  "name": "Ars Technica – Musk insists banks must buy Grok subscriptions",
-                  "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/"
-                },
-                {
-                  "name": "Handelsblatt – Musk knüpft SpaceX-Börsengang an KI-Chatbot",
-                  "url": "https://www.handelsblatt.com/technik/it-internet/spacex-musk-knuepft-laut-bericht-teilnahme-an-spacex-boersengang-an-kauf-von-ki-chatbot/100214371.html"
-                },
-                {
-                  "name": "Handelsblatt – SpaceX peilt IPO mit 2 Billionen Dollar an",
-                  "url": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-peilt-offenbar-ipo-mit-zwei-billionen-dollar-bewertung-an/100214341.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-rowhammer-nvidia-gpu-sicherheit",
-              "slug": "rowhammer-nvidia-gpu-sicherheit",
-              "title": "Neue Rowhammer-Angriffe ermöglichen vollständige Kontrolle über Nvidia-GPU-Maschinen",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "tech",
-              "icon": "🔓",
-              "edition": "morning",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-768x432.jpg",
-              "kurz": "Drei unabhängige Forschungsteams haben neue Rowhammer-Angriffe auf Nvidia-GPUs entdeckt, die vollständige Systemkompromittierung ermöglichen – auch in Cloud-Umgebungen.",
-              "summary": "Sicherheitsforscher haben drei neue Rowhammer-Angriffsmethoden vorgestellt – GDDRHammer, GeForge und GPUBreach – die GDDR-Grafikspeicher manipulieren und über mehrere Stufen vollständige Root-Kontrolle über den Host-Rechner ermöglichen. Besonders beunruhigend: GPUBreach funktioniert auch bei aktiviertem IOMMU-Schutz, der bisher als wirksame Schutzmassnahme galt. Cloud-Umgebungen, in denen teure GPUs unter mehreren Nutzern geteilt werden, sind potenziell besonders exponiert.",
-              "gegenstimme": "Nvidia hat bisher nicht offiziell auf die Forschungsergebnisse reagiert. Sicherheitsexperten betonen, dass Rowhammer-Angriffe in der Praxis schwierig durchzuführen sind und in der Regel lokalen oder Cloud-Zugang zum Zielsystem erfordern. Dennoch sei das Muster besorgniserregend: Rowhammer-Resistenz auf CPU-Seite schützt nicht, wenn der Angriff via GPU erfolgt – alle bisherigen Schutzmechanismen müssen neu bewertet werden.",
-              "sources": [
-                {
-                  "name": "Ars Technica – New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-                  "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-trump-militaeretat-2027",
-              "slug": "trump-militaeretat-2027",
-              "title": "Trump will Militäretat 2027 massiv erhöhen – Kürzungen bei Bildung, Umwelt und Nasa",
-              "date": "2026-04-04",
-              "time": "06:00",
-              "category": "usa",
-              "icon": "🇺🇸",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/fb5f874d-3fd6-432d-a984-ce41966bb750_w520_r2.08_fpx30_fpy54.97.jpg",
-              "kurz": "Das Weisse Haus beantragt für 2027 ein Rekord-Verteidigungsbudget von 1,5 Billionen Dollar – begleitet von drastischen Kürzungen bei Bildung, Umwelt und der Nasa.",
-              "summary": "Die Trump-Administration legte dem Kongress ihren Haushaltsentwurf für 2027 vor. Das Verteidigungsbudget soll auf 1,5 Billionen Dollar steigen – die grösste Aufrüstung seit dem Zweiten Weltkrieg. Gleichzeitig werden zivile Programme um rund 73 Milliarden Dollar gekürzt, darunter Bildung, Wohnbau und Klimaschutz. Die Nasa verliert erheblich an Budget – ausgerechnet während Astronauten auf dem Weg zum Mond sind.",
-              "gegenstimme": "Demokraten nennen den Entwurf eine 'realitätsferne Forderung'. Haushaltexperten weisen darauf hin, dass das Golden-Dome-Raketenabwehrsystem allein über 20 Jahre mehr als 542 Milliarden Dollar kosten könnte – eine enorme Belastung selbst für das beantragte Rekordbudget. Auch innerhalb der Republikanischen Partei ist eine Verabschiedung in dieser Form unwahrscheinlich.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/usa-donald-trump-weisses-haus-fordert-massive-aufstockung-des-militaeretats-a-fadd97ba-fe09-4923-bee8-b18e7d410b82"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o"
-                },
-                {
-                  "name": "Ars Technica",
-                  "url": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/"
-                }
-              ]
-            }
-          ]
-        },
         "midday": {
           "time": "12:15",
           "articles": [
             {
-              "id": "2026-04-04-asien-oelpreis-massnahmen",
-              "slug": "asien-oelpreis-massnahmen",
-              "title": "Asiatische Regierungen schalten Leuchtreklamen ab und machen ÖV gratis – wegen Ölpreisschock",
-              "date": "2026-04-04",
-              "time": "11:30",
+              "id": "2026-04-21-international-blue-origin-artemis",
+              "slug": "international-blue-origin-artemis",
+              "title": "Blue Origin Raketenprobleme gefährden US-Artemis-Mondlandung",
+              "date": "2026-04-21",
+              "time": "13:30",
               "category": "international",
-              "icon": "🌏",
+              "icon": "🌕",
               "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/a949ee83-d180-4e73-8975-d72186236448_w520_r2.08_fpx49.34_fpy50.jpg",
-              "kurz": "Fünf Wochen nach Beginn des Iran-Kriegs ergreifen Staaten in Asien und Afrika drastische Notmassnahmen gegen den Ölpreisschock: Gratis-ÖV, Viertagewoche für Staatsangestellte, abgeschaltete Leuchtreklamen.",
-              "summary": "Der Iran-Krieg hat den globalen Ölpreis um über 60 Prozent steigen lassen. Die Strasse von Hormuz, durch die ein Fünftel des weltweiten Rohöls fliesst, ist weitgehend gesperrt. Besonders Länder in Asien und Afrika, die stark von Nahostöl abhängig sind, reagieren mit Notfallmassnahmen zur Nachfragereduktion. Laut Internationaler Energieagentur (IEA) haben 26 Länder bis Ende März solche Massnahmen ergriffen. Die Schweiz ist bislang weniger stark betroffen, dank starkem Franken und energieeffizienter Wirtschaft.",
-              "gegenstimme": "Ökonomen warnen vor den Nebenwirkungen staatlicher Eingriffe in den Energiemarkt: Subventionierter ÖV und administrative Beschränkungen verzerren Preissignale und hemmen langfristig den Umstieg auf erneuerbare Energien. Die tatsächliche Nachfragesenkung durch solche Massnahmen sei begrenzt, während die Kosten für die Staatshaushalte erheblich seien. Trump selbst argumentiert, die betroffenen Länder sollten die Strasse von Hormuz militärisch schützen, statt die Folgekosten zu sozialisieren.",
+              "image": "https://cdn.prod.www.spiegel.de/images/0c0f072b-a5e3-4f53-b7c0-63eb9d33f08a_w520_r2.08.jpg",
+              "kurz": "Technische Probleme bei Jeff Bezos' Blue Origin zwingen zu einer Raketenpause und gefährden den Zeitplan für die bemannte Mondlandung im Rahmen des Artemis-Programms.",
+              "summary": "Die Raumfahrtfirma Blue Origin von Jeff Bezos muss ihre Raketenentwicklung vorübergehend stoppen. Ein kritisches technisches Problem stellt ein erhebliches Risiko für die geplante Rückkehr von Menschen zum Mond dar. Die NASA sieht sich gezwungen, Alternativen zu prüfen.",
+              "gegenstimme": "Vertreter von Blue Origin und Teile der US-Raumfahrt-Community betonen, dass Rückschläge bei der Entwicklung neuer Trägerraketen normal seien. Sie argumentieren, dass eine sorgfältige Fehleranalyse langfristig zu sichereren und kostengünstigeren Systemen führen werde, im Gegensatz zu einer übereilten Fortsetzung mit erhöhtem Risiko.",
               "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/weltall/blue-origin-problem-mit-bezos-rakete-wird-zum-risiko-fuer-artemis-mondlandung-a-0c0f072b-a5e3-4f53-b7c0-63eb9d33f08a"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-21-politik-rente-basisabsicherung-merz-bas",
+              "slug": "politik-rente-basisabsicherung-merz-bas",
+              "title": "Renten-Debatte spitzt sich zu: Bärbel Bas stellt sich gegen Merz' Basisabsicherung",
+              "date": "2026-04-21",
+              "time": "13:00",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/681d414e-52c2-4342-8481-bdeb45fec72d_w520_r2.08_fpx54.59_fpy50.jpg",
+              "kurz": "SPD-Arbeitsministerin Bärbel Bas droht mit erbittertem Widerstand gegen Kanzler Merz' Pläne, die gesetzliche Rente auf eine reine Basisabsicherung zu reduzieren.",
+              "summary": "Die Debatte um die Zukunft der gesetzlichen Rente in Deutschland hat sich verschärft. Während Kanzler Friedrich Merz die Rente künftig auf eine Basisabsicherung beschränken will, kündigt die SPD massiven Widerstand an. Arbeitsministerin Bärbel Bas hat sich nun klar positioniert.",
+              "gegenstimme": "Befürworter einer Reform argumentieren, dass das aktuelle System bei der demografischen Entwicklung langfristig nicht tragbar sei. Eine Konzentration auf eine echte Basisabsicherung kombiniert mit stärkerer privater und betrieblicher Vorsorge könnte die Staatsfinanzen entlasten und mehr Eigenverantwortung fördern.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand-a-9bdee6cd-108a-4bc9-b669-8a9981a44895"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-21-wirtschaft-irankrise-wachstum-2026",
+              "slug": "wirtschaft-irankrise-wachstum-2026",
+              "title": "Wirtschaftsprognose 2026: Irankrise bremst Aufschwung in Deutschland und Schweiz",
+              "date": "2026-04-21",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/877925e7-c7fc-4675-998f-cbecae233004_w520_r2.08_fpx15_fpy34.jpg",
+              "kurz": "Die anhaltende Krise in der Strasse von Hormuz drückt die Wachstumsprognosen. Die Bundesregierung rechnet nur noch mit 0,5 Prozent Wachstum für 2026, die Inflation steigt.",
+              "summary": "Die Blockade der Strasse von Hormuz durch den Iran-Konflikt hat massive Auswirkungen auf die globale Energie- und Rohstoffversorgung. Dies bremst den erwarteten Aufschwung in Deutschland und wirkt sich auch auf die Schweizer Wirtschaft aus. Wirtschaftsministerin Katherina Reiche hat die Prognose deutlich nach unten korrigiert.",
+              "gegenstimme": "Optimisten in der Wirtschaft argumentieren, dass die Krise mittelfristig zu einer Diversifikation der Lieferketten und stärkerer heimischer Produktion führen könnte. Sie warnen davor, die negativen Prognosen zu übertreiben, da Anpassungsfähigkeit und technologische Innovation (z. B. in der Energiebranche) die Auswirkungen abfedern könnten.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/service/katherina-reiche-erwartet-2026-kaum-wirtschaftswachstum-a-dbf73f59-20d9-4d16-9a6a-50316e1274db"
+                },
                 {
                   "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/gratis-oev-und-abgeschaltete-leuchtreklamen-asiatische-regierungen-reagieren-auf-den-gestiegenen-oelpreis-ld.1932211"
+                  "url": "https://www.nzz.ch/wirtschaft/"
                 }
               ]
             },
             {
-              "id": "2026-04-04-ukraine-kampfroboter-front",
-              "slug": "ukraine-kampfroboter-front",
-              "title": "Ukraine setzt auf Kampfroboter – Krieg wird zum technologischen Wettrüsten",
-              "date": "2026-04-04",
-              "time": "11:30",
-              "category": "international",
-              "icon": "🤖",
+              "id": "2026-04-21-schweiz-ki-deepfake-influencerinnen",
+              "slug": "schweiz-ki-deepfake-influencerinnen",
+              "title": "Schweizer KI-Skandal: Influencerinnen erstatten Anzeige gegen Porno-Deepfakes",
+              "date": "2026-04-21",
+              "time": "12:00",
+              "category": "tech",
+              "icon": "🔬",
               "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/3gjI12XPaByBVTPin10DbO.jpg",
-              "kurz": "Unbemannte Bodenfahrzeuge prägen seit 2024 die ukrainische Frontlinie. Im Januar 2026 führte die ukrainische Armee über 7'000 Einsätze mit Kampfrobotern durch – der Krieg entwickelt sich zum technologischen Wettbewerb.",
-              "summary": "Die Ukraine hat unbemannte Bodenfahrzeuge (UGV) seit Frühjahr 2024 exponentiell skaliert. Im Januar 2026 verzeichnete die ukrainische Armee über 7'000 Einsätze mit Bodensystemen; diese übernehmen Logistik, Munitionsversorgung, Verwundetentransport und zunehmend auch Kampfaufgaben. 90 Prozent der Armelogistik wird mittlerweile durch Robotersysteme abgewickelt. Russland setzt ebenfalls auf Bodensysteme, liegt aber nach ukrainischer Einschätzung technologisch zurück. Der Konflikt gilt als Laboratorium für die Kriegsführung der Zukunft.",
-              "gegenstimme": "Menschenrechtsorganisationen und UNO-Experten warnen vor dem unkontrollierten Ausbau autonomer Waffensysteme. Zwar liegt die Entscheidung zum Schiessen aktuell noch beim Menschen (Human-in-the-loop), doch die Entwicklung von Algorithmen für autonome Zielerkennung schreitet rasch voran. Kritikerinnen fordern ein internationales Abkommen zur Regulierung von Lethal Autonomous Weapons Systems (LAWS), bevor deren Einsatz normalisiert wird. Zudem besteht das Risiko, dass günstige Kampfroboter die Hemmschwelle für künftige Konflikte senken – nicht erhöhen.",
+              "image": "https://cdn.unitycms.io/images/4WeFo13x4-rArbN7W09jpn.jpg",
+              "kurz": "Betroffene Influencerinnen zeigen Männer an, die mit KI intime Deepfakes von ihnen erstellt und verbreitet haben. Ein Netzwerk des Missbrauchs wird sichtbar.",
+              "summary": "In der Schweiz ist ein grosser Skandal um nicht-einvernehmliche KI-generierte Pornografie aufgeflogen. Mehrere bekannte Influencerinnen haben Strafanzeige gegen Männer erstattet, die mit künstlicher Intelligenz intime Bilder und Videos von ihnen hergestellt haben. Die Recherche von Der Bund und Tages-Anzeiger enthüllt ein System, in dem Männer sich gegenseitig anfeuern, Inhalte teilen und teilweise damit Geld verdienen.",
+              "gegenstimme": "Kritiker aus der Tech-Branche und von Plattformen argumentieren, dass ein vollständiges Verbot oder übermässige Regulierung von KI-Tools die technologische Innovation in der Schweiz behindern würde. Sie betonen, dass die primäre Verantwortung bei den Nutzern liege und dass bestehende Gesetze gegen Persönlichkeitsrechtsverletzungen und Cybermobbing ausreichen sollten, statt die gesamte KI-Entwicklung zu kriminalisieren.",
               "sources": [
                 {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/apr/04/fighting-robots-give-ukraine-hope-in-war-with-russia"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c62662gzlp8o"
-                },
-                {
-                  "name": "DroneXL",
-                  "url": "https://dronexl.co/2026/03/08/ukraine-armed-ground-robots/"
-                },
-                {
-                  "name": "UN News – LAWS",
-                  "url": "https://news.un.org/en/story/2025/06/1163891"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-lawine-isenfluh-35-jaehriger",
-              "slug": "lawine-isenfluh-35-jaehriger",
-              "title": "Zweite tödliche Lawine über Ostern: 35-Jähriger stirbt bei Variantenabfahrt in Isenfluh",
-              "date": "2026-04-04",
-              "time": "11:30",
-              "category": "schweiz",
-              "icon": "🏔️",
-              "edition": "midday",
-              "image": "https://image.20min.ch/2026/04/04/5497073c-c07b-475c-8e5f-9cb605530ad9.avif",
-              "kurz": "Am Karfreitag kam am Schwarzbirg bei Isenfluh BE ein 35-jähriger Schweizer bei einer Variantenabfahrt in einer Lawine ums Leben. Es ist bereits der zweite tödliche Lawinenunfall über Ostern 2026.",
-              "summary": "Ein 35-jähriger Schweizer aus dem Kanton Bern ist am Karfreitag bei einer Variantenabfahrt am Schwarzbirg oberhalb von Isenfluh (Gemeinde Lauterbrunnen) von einem Schneebrett erfasst und verschüttet worden. Drittpersonen gruben ihn aus und leisteten erste Hilfe, doch die alarmierten Rettungskräfte konnten nur noch den Tod feststellen. Es ist der zweite tödliche Lawinenunfall der Osterfeiertage 2026 – bereits am Gründonnerstag war ein junger Mann am Grossen Mythen im Kanton Schwyz ums Leben gekommen. Der Winter 2025/26 gilt in den Alpen als besonders lawinenreich.",
-              "gegenstimme": "Trotz des tragischen Unfalls betonen Lawinenpräventionsspezialisten, dass das Risiko für Variantenfahrerinnen und -fahrer an Ostern grundsätzlich erhöht ist: Frühjahrssonne erwärmt den Schnee tagsüber stark, was die Lawinengefahr am Nachmittag deutlich ansteigen lässt. Fachleute des SLF (Eidgenössisches Institut für Schnee- und Lawinenforschung) empfehlen, Variantenabfahrten im Frühjahr nur am frühen Morgen und nach sorgfältiger Lawinenlagebeurteilung zu unternehmen – viele Unfälle ereignen sich, weil diese Regeln missachtet werden.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/isenfluh-be-bei-variantenabfahrt-35-jaehriger-stirbt-in-lawine-103540507"
-                },
-                {
-                  "name": "Polizeinews.ch – Grosser Mythen",
-                  "url": "https://www.polizeinews.ch/2026/04/03/grosser-mythen-sz-tragoedie-am-berg-lawine-reisst-jungen-mann-in-den-tod/"
-                },
-                {
-                  "name": "RTN (franz.)",
-                  "url": "https://www.rtn.ch/rtn/Actualite/Suisse/Isenfluh-un-homme-decede-dans-une-avalanche-sur-le-Schwarzbirg.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-swisscom-kuendigung-tarife",
-              "slug": "swisscom-kuendigung-tarife",
-              "title": "Swisscom erhöht Preise und macht Kündigung absichtlich schwieriger",
-              "date": "2026-04-04",
-              "time": "11:30",
-              "category": "schweiz",
-              "icon": "📱",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/AE1g7SUGKi38zDSUxeZYEj.jpg",
-              "kurz": "Swisscom hat auf April die Tarife erhöht und gleichzeitig die Online-Kündigung abgeschafft. Wer kündigen will, muss nun telefonisch anrufen – Konsumentenschützer sprechen von einer bewussten Hürde.",
-              "summary": "Per April 2026 hat Swisscom die Preise für verschiedene Abo-Kategorien erhöht. Parallel dazu ist es nicht mehr möglich, das Abo online zu kündigen – stattdessen müssen Kunden die Kündigung mündlich am Telefon aussprechen. Konsumentenschutzorganisationen kritisieren diesen Schritt als gezielte Strategie, um abwanderungswillige Kunden durch zusätzliche Aufwände zu bremsen. Swisscom hat nach Schweizer Recht das Recht, als Reaktion auf die Preiserhöhung das Abo ausserordentlich zu kündigen.",
-              "gegenstimme": "Swisscom dürfte argumentieren, dass die telefonische Kündigung dem Kundendialog dient und Retentionsangebote ermöglicht – ein branchenübliches Vorgehen. Aus wirtschaftsliberaler Sicht schützt der Markt die Konsumenten: Wer unzufrieden ist, wechselt zu Salt oder Sunrise. Tatsächlich ist der Schweizer Mobilfunkmarkt mit drei grossen Anbietern vergleichsweise kompetitiv, auch wenn Swisscom als Ex-Monopolist eine dominante Marktstellung hat.",
-              "sources": [
-                {
-                  "name": "Berner Zeitung",
-                  "url": "https://www.bernerzeitung.ch/swisscom-kuendigung-tariferhoehung-zwingt-kunden-ans-telefon-557199792734"
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/porno-deepfake-schweizer-influencerinnen-erstatten-anzeige-171442505695"
                 },
                 {
                   "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/swisscom-kuendigung-tariferhoehung-zwingt-kunden-ans-telefon-557199792734"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-eu-uebergewinnsteuer-energie",
-              "slug": "eu-uebergewinnsteuer-energie",
-              "title": "Fünf EU-Länder fordern Übergewinnsteuer auf Energieprofite",
-              "date": "2026-04-04",
-              "time": "11:30",
-              "category": "wirtschaft",
-              "icon": "💰",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/780997ba-9c6f-4d67-b629-e984ad2b1477_w520_r2.08_fpx45.85_fpy50.jpg",
-              "kurz": "Deutschland, Spanien, Portugal, Österreich und Italien fordern per Brief an die EU-Kommission eine europaweite Steuer auf Krisenprofite von Energieunternehmen. Hintergrund sind Rekord-Spritpreise infolge des Iran-Kriegs.",
-              "summary": "Die Finanzminister von fünf EU-Ländern haben gemeinsam einen Brief an die EU-Kommission geschrieben und fordern die rasche Prüfung einer Übergewinnsteuer auf EU-Ebene. Seit Beginn des Iran-Kriegs sind die Treibstoffpreise in Europa massiv gestiegen: Diesel kostet in der Schweiz über 2.20 Franken, Benzin hat um 15 Prozent zugelegt. Die Initiative greift ein Instrument aus dem Jahr 2022 wieder auf, das damals im Kontext des Ukraine-Kriegs angewandt wurde. Als Begründung nennen die Unterzeichner die erhebliche wirtschaftliche Belastung der Bevölkerung und fordern eine gerechte Verteilung der Krisenlasten.",
-              "gegenstimme": "Wirtschaftsliberale Ökonomen und Energieverbände warnen vor negativen Investitionsanreizen: Eine Übergewinnsteuer treffe Unternehmen, die in stabile Energieversorgung investieren müssen, und könne mittelfristig das Angebot weiter verknappen. Zudem sei die Preisfindung an den Energiemärkten nicht primär durch Unternehmensgewinne getrieben, sondern durch Rohölknappheit und gesperrte Transportrouten – Faktoren, die eine Sondersteuer nicht beheben kann.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/hohe-spritpreise-lars-klingbeil-fordert-pruefung-von-uebergewinnsteuer-auf-eu-ebene-a-c1e459ca-7fbd-4799-993b-c8b90c28b3a0"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/die-benzinpreise-schiessen-an-den-osterfeiertagen-in-die-hoehe-wegen-trump-und-iran-krieg-aber-nicht-nur-ld.1932344"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-artemis-ii-bilder-erde",
-              "slug": "artemis-ii-bilder-erde",
-              "title": "Artemis II: Astronauten schicken spektakuläre Bilder der Erde mit Nordlichtern",
-              "date": "2026-04-04",
-              "time": "11:30",
-              "category": "tech",
-              "icon": "🌍",
-              "edition": "midday",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/earth1-300x300.jpg",
-              "kurz": "Die vierköpfige Artemis-II-Besatzung hat anderthalb Tage nach dem Start die ersten Bilder der Erde aus dem All übermittelt – darunter spektakuläre Aufnahmen mit sichtbaren Nordlichtern. Die Mission verläuft planmässig.",
-              "summary": "Die NASA-Mission Artemis II, der erste bemannte Mondflug seit Apollo 17 (1972), verläuft nach eigenen Angaben der Raumfahrtbehörde reibungslos. Die vier Astronauten – Kommandant Reid Wiseman, Pilotin Christina Koch, Victor Glover und der Kanadier Jeremy Hansen – haben die Hälfte der Distanz zwischen Erde und Mond bereits zurückgelegt und sollen am Montag ihren Mondvorbeiflug absolvieren. Die erste Bildserie zeigt die Erde mit deutlich sichtbaren Polarlichtern an beiden Polen. Wird die Mission erfolgreich abgeschlossen, stellen die Astronauten einen neuen Entfernungsrekord für Menschen im All auf.",
-              "gegenstimme": "Das Artemis-Programm steht seit Jahren unter erheblichem Kosten- und Zeitdruck: Massive Budgetüberschreitungen beim Space Launch System (SLS) und wiederholte Verschiebungen haben Kritiker dazu veranlasst, die Effizienz des Programms grundlegend infrage zu stellen. Zudem hängt das ambitionierte Ziel einer bemannten Mondlandung bis 2028 stark von privaten Partnern wie SpaceX ab, was Fragen zur Zuverlässigkeit und Zeitplanung aufwirft. Einige Raumfahrtexperten bezweifeln, dass der von Präsident Trump angestrebte Zeitplan realistisch ist.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/science/2026/apr/03/artemis-ii-astronauts-rocket-towards-the-moon-after-breaking-free-of-earths-orbit"
-                },
-                {
-                  "name": "Ars Technica",
-                  "url": "https://arstechnica.com/space/2026/apr/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-trump-dhs-gehaltsstopp",
-              "slug": "trump-dhs-gehaltsstopp",
-              "title": "Trump zahlt 35'000 Heimatschutz-Beamten per Dekret ausstehende Gehälter – am Kongress vorbei",
-              "date": "2026-04-04",
-              "time": "11:30",
-              "category": "usa",
-              "icon": "🏛️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/e23db17f-5c12-4468-99ba-88afbebc0247_w520_r2.08_fpx37.28_fpy49.99.jpg",
-              "kurz": "Über 35'000 Beamte des US-Heimatschutzministeriums erhielten seit fast sieben Wochen kein Gehalt. Trump umgeht den blockierten Kongress mit einer Präsidialanordnung.",
-              "summary": "Das US-Heimatschutzministerium (DHS) befindet sich seit rund sieben Wochen in einem Teil-Shutdown, nachdem der Kongress die Finanzierung nach tödlichen Schiessereien durch ICE-Beamte blockiert hatte. Mehr als 35'000 Beschäftigte erhielten seit 50 Tagen keinen Lohn. US-Präsident Trump unterzeichnete nun eine Anordnung, die den Heimatschutzminister anweist, verfügbare Mittel für die Gehaltszahlungen umzuwidmen – ohne Kongressbeschluss. Trump gibt die Schuld für den Shutdown den Demokraten.",
-              "gegenstimme": "Verfassungsrechtler und Demokraten im Kongress kritisieren die Präsidialanordnung als verfassungsrechtlich fragwürdig: Das Haushaltsbewilligungsrecht liegt beim Kongress, nicht beim Präsidenten. Durch die Umwidmung von Mitteln ohne Kongresszustimmung schaffe Trump einen Präzedenzfall, der die Gewaltenteilung aushöhle. Zudem sei der Shutdown ursprünglich durch tödliche Gewalt von ICE-Beamten ausgelöst worden – ein Problem, das Trump mit seiner Anordnung nicht adressiere.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/shutdown-beim-us-heimatschutzministerium-trump-ordnet-gehaltszahlungen-fuer-betroffene-beamte-an-a-25755ae6-706f-404c-ad47-80d1469a4b80"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-04-04-deutschland-wehrpflicht-auslandsreisen",
-              "slug": "deutschland-wehrpflicht-auslandsreisen",
-              "title": "Deutschland: Wehrpflichtige Männer bis 45 brauchen Genehmigung für längere Auslandsaufenthalte",
-              "date": "2026-04-04",
-              "time": "17:00",
-              "category": "international",
-              "icon": "🪖",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/466a4522-d6ae-4e96-b55d-75754f21e9fd_w520_r2.08_fpx57.43_fpy50.jpg",
-              "kurz": "Seit dem 1. Januar 2026 müssen Männer zwischen 17 und 45 Jahren Auslandsaufenthalte von mehr als drei Monaten bei der Bundeswehr genehmigen lassen – eine Änderung, die kaum öffentlich diskutiert wurde.",
-              "summary": "Das neue Wehrdienst-Modernisierungsgesetz ist am 1. Januar 2026 in Kraft getreten und betrifft mehrere Millionen deutsche Männer. Wer länger als drei Monate ins Ausland reisen will, muss dies vorab beim zuständigen Karrierecenter der Bundeswehr beantragen. Das Verteidigungsministerium relativiert: Solange der Wehrdienst freiwillig ist, gelte die Genehmigung als erteilt – Details sollen Verwaltungsvorschriften klären. Die Kernregel des Gesetzes ist jedoch die verpflichtende Musterung für Männer des Jahrgangs 2008.",
-              "gegenstimme": "Kritiker sehen in der Regelung einen unverhältnismässigen Eingriff in die Bewegungsfreiheit. Die FDP und Bürgerrechtsinitiativen kritisieren, dass eine derart weitreichende Einschränkung ohne öffentliche Debatte eingeführt wurde. Unklar bleibt auch, was gilt, solange die angekündigten Verwaltungsvorschriften noch ausstehen – betroffene Männer befinden sich derzeit in einer rechtlichen Grauzone.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/politik/deutschland/wehrpflicht-maenner-bis-45-muessen-laengere-auslandsaufenthalte-genehmigen-lassen-a-75dadcaa-967e-48be-abf9-bcd1000c0fd4"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/deutschland/bundeswehr-maenner-bis-45-muessen-auslandsaufenthalt-melden/100214458.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-iran-akw-buschehr-angriff",
-              "slug": "iran-akw-buschehr-angriff",
-              "title": "Angriff nahe iranischem Atomkraftwerk Buschehr – Rosatom evakuiert Personal",
-              "date": "2026-04-04",
-              "time": "17:00",
-              "category": "international",
-              "icon": "☢️",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/E_Viyf1IqxB8PNl25MGNdq.jpg",
-              "kurz": "Ein Geschoss schlug nahe dem Grenzzaun des AKW Buschehr ein – ein Sicherheitsmann starb. Russlands Rosatom evakuiert weiteres Personal aus der Anlage.",
-              "summary": "Bei einem Luftangriff nahe dem iranischen Atomkraftwerk Buschehr wurde ein Mitarbeiter des Sicherheitspersonals getötet und ein Nebengebäude beschädigt. Der Reaktorbetrieb selbst wurde laut iranischen Behörden nicht beeinträchtigt. Rosatom evakuierte daraufhin weiteres russisches Fachpersonal aus der Anlage. Die IAEA wurde vom Iran über den Vorfall informiert und kritisiert ihrerseits die Internationale Atomenergiebehörde als «parteiisch».",
-              "gegenstimme": "Die iranische Atomenergieorganisation (AEOI) wirft der IAEA Parteilichkeit vor und stellt deren Unabhängigkeit in Frage. Unabhängige Experten hingegen warnen: Jeder Angriff in der Nähe einer Nuklearanlage – auch ohne direkte Reaktorschäden – stellt ein inakzeptables Risiko dar und verstösst gegen das humanitäre Völkerrecht. Wer den Reaktor als strategische Infrastruktur ins Zielgebiet einbezieht, gefährdet die gesamte Region.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-iran-meldet-luftangriff-in-der-naehe-des-atomkraftwerks-buschehr"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-kritische-rettungsmission-im-iran-trump-in-erklaerungsnot/100214428.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-iran-teheran-verhandlungen-pakistan",
-              "slug": "iran-teheran-verhandlungen-pakistan",
-              "title": "Iran offen für Verhandlungen – Pakistan will zwischen USA und Teheran vermitteln",
-              "date": "2026-04-04",
-              "time": "17:00",
-              "category": "international",
-              "icon": "🤝",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/8d70a805-4760-4e4f-be71-b084ddee35a6_w520_r2.08_fpx34.86_fpy50.jpg",
-              "kurz": "Fünf Wochen nach Kriegsbeginn signalisiert Teheran Gesprächsbereitschaft – via Pakistan als Vermittler. Trump erneuert gleichzeitig sein 48-Stunden-Ultimatum zur Öffnung der Strasse von Hormus.",
-              "summary": "Der iranische Aussenminister Araghchi erklärt, Teheran habe nie eine Reise nach Islamabad verweigert und sei grundsätzlich zu Vermittlungsgesprächen bereit. Gleichzeitig läuft im Iran eine heikle US-Rettungsmission für ein abgeschossenes F-15E-Besatzungsmitglied. Trump drohte erneut via Truth Social mit massiven Angriffen, sollte Iran die Strasse von Hormus nicht bis Montag öffnen. Zwei am Rettungseinsatz beteiligte Black-Hawk-Hubschrauber wurden dabei vom Iran beschädigt.",
-              "gegenstimme": "Kritiker in Washington und bei westlichen Denkfabriken warnen, Teherans Gesprächsbereitschaft könne taktischer Natur sein – ein Mittel, um Zeit zu gewinnen und das Kopfgeld auf das vermisste US-Besatzungsmitglied (bis 100'000 Dollar) als Druckmittel zu nutzen. Trumps fortgesetzte Kriegsrhetorik erschwert zudem seriöse Diplomatie: Wer nach Verhandlungen ruft, muss auch bereit sein, Ultimaten zurückzuhalten.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/international/iran-krieg-kritische-rettungsmission-im-iran-trump-in-erklaerungsnot/100214428.html"
-                },
-                {
-                  "name": "The Guardian (Liveticker)",
-                  "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-ungarn-wahl-orban-finale",
-              "slug": "ungarn-wahl-orban-finale",
-              "title": "Ungarn-Wahl: Kann Orbán nach 16 Jahren gestürzt werden?",
-              "date": "2026-04-04",
-              "time": "17:00",
-              "category": "international",
-              "icon": "🗳️",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/3p3efY8zqMP8mLIOCWjj_z.jpg",
-              "kurz": "Am 12. April wählt Ungarn – und laut allen Umfragen liegt Oppositionsführer Péter Magyar mit rund 58 Prozent weit vor Orbáns Fidesz (35%). Nach 16 Jahren an der Macht kämpft der Ministerpräsident um sein politisches Überleben.",
-              "summary": "Ungarns Parlamentswahl am 12. April gilt als die unsicherste seit Orbáns Machtantritt 2010. Umfragen der Median-Agentur zeigen einen klaren Vorsprung der oppositionellen Tisza-Partei unter Péter Magyar. Besonders junge Wählerinnen und Wähler wenden sich massiv ab: Unter 30-Jährige unterstützen Fidesz laut aktuellen Erhebungen kaum noch. Orbán ist wieder persönlich auf Wahlkampfreise – etwas, das er in den letzten drei Wahlen kaum nötig hatte.",
-              "gegenstimme": "Fidesz-nahe Analysten wie Zoltan Kiszelly vom Regierungs-Thinktank Szazadveg zweifeln an den Umfragen und betonen Orbáns bewährtes Mobilisierungsnetzwerk in ländlichen Gebieten. Rund 4,5 Millionen der 8,2 Millionen Stimmberechtigten leben in kleinen Gemeinden – traditionell eine Fidesz-Hochburg. Kritische Berichte über mögliche Stimmenkäufe (Barzahlungen bis 120 Euro, Lebensmittelgutscheine) sind bisher unbewiesen, könnten aber das Ergebnis beeinflussen.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/apr/04/young-people-hungary-general-election-polls-viktor-orban"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/wahl-in-ungarn-der-machthaber-wankt-und-beschimpft-sein-volk-709214701030"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-zelenski-erdogan-istanbul",
-              "slug": "zelenski-erdogan-istanbul",
-              "title": "Zelenski in Istanbul – Gespräche mit Erdogan über Ukraine-Krieg und Waffenruhe",
-              "date": "2026-04-04",
-              "time": "17:00",
-              "category": "international",
-              "icon": "🕊️",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/7a4784eb-a139-4c5c-9043-4546aaa59772_w520_r2.08_fpx69.93_fpy54.99.jpg",
-              "kurz": "Ukrainischer Präsident Zelenski reist zu 'substanziellen' Gesprächen mit dem türkischen Präsidenten Erdogan nach Istanbul – während russische Drohnenangriffe weitergehen.",
-              "summary": "Wolodimir Zelenski ist am Samstag in Istanbul eingetroffen, um mit dem türkischen Präsidenten Recep Tayyip Erdogan über Sicherheitsfragen und Friedensbemühungen zu verhandeln. Die Türkei fungiert erneut als Vermittlerin. Gleichzeitig vermeldet die Ukraine mindestens fünf Tote nach einem russischen Drohnenangriff auf Nikopol im Gebiet Dnipropetrowsk sowie weitere Opfer nach Angriffen auf Sumi und Kramatorsk. Der Krieg dauert an – am Karfreitag war der 1500. Tag der russischen Grossinvasion.",
-              "gegenstimme": "Russland sieht die Türkei als Vermittler mit Interesse, hat aber eigene Forderungen klar formuliert: Moskau verlangt laut Berichten einen ukrainischen Rückzug aus dem Donbass innerhalb von zwei Monaten als Vorbedingung für ein Kriegsende. Kremlsprecher Peskow betonte zuletzt, Moskau strebe eine grundsätzliche Friedenslösung und keinen befristeten Waffenstillstand an – was Kiews Ostern-Waffenstillstandsangebot faktisch ablehnte.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-trifft-erdogan-fuer-gespraeche-in-istanbul"
-                },
-                {
-                  "name": "NZZ – Ukraine-Liveblog",
-                  "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-ld.1613540"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-lawinen-ostern-dritter-toter-gantrisch",
-              "slug": "lawinen-ostern-dritter-toter-gantrisch",
-              "title": "Dritter Lawinentod über Ostern: Snowboarder stirbt am Bürgle im Gantrisch",
-              "date": "2026-04-04",
-              "time": "17:00",
-              "category": "regional",
-              "icon": "🏂",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/3xW1BL1yKo68Ju7cdMngeR.jpg",
-              "kurz": "Drei Menschen sterben am Karfreitag unabhängig voneinander bei Lawinenunglücken in der Schweiz – in Schwyz, im Berner Oberland und im Gantrischgebiet.",
-              "summary": "Am Karfreitag 2026 sind in der Schweiz drei Wintersportler und Berggänger bei separaten Lawinenabgängen ums Leben gekommen. Ein 41-jähriger Snowboarder starb am Bürgle im Gantrischgebiet bei Rüschegg BE, ein 35-Jähriger auf einer Freeride-Abfahrt bei Isenfluh/Lauterbrunnen, und ein Berggänger unbekannter Identität am Grossen Mythen in Schwyz. Die drei Ereignisse ereigneten sich unabhängig voneinander innerhalb eines einzigen Tages. Experten hatten für das Osterwochenende erhebliche Lawinengefahren ausgewiesen.",
-              "gegenstimme": "Kritiker und Bergsportverbände weisen regelmässig darauf hin, dass viele Lawinenunfälle durch bessere Risikoeinschätzung vermeidbar wären. Die erhöhte Lawinengefahr war für das Osterwochenende öffentlich kommuniziert worden. Die Frage stellt sich, ob Absperrungen und Warnsysteme wirkungsvoller durchgesetzt werden sollten – oder ob das eigenverantwortliche Handeln im Bergsport stärker in die Pflicht genommen werden müsste.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/mythen-rueschegg-und-isenfluh-drei-wintersportler-von-lawinen-erfasst-und-verstorben"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/gantrischgebiet-snowboarder-stirbt-bei-lawinenunfall-429407980610"
-                },
-                {
-                  "name": "Der Bund (Übersicht)",
-                  "url": "https://www.derbund.ch/mehrere-tote-nach-lawinengaengen-in-bern-und-schwyz-408178305366"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-04-chip-krise-ki-preise",
-              "slug": "chip-krise-ki-preise",
-              "title": "KI-Boom löst Chip-Krise aus: Smartphones und Laptops werden bis zu 20% teurer",
-              "date": "2026-04-04",
-              "time": "17:00",
-              "category": "tech",
-              "icon": "💻",
-              "edition": "evening",
-              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2232214770-384x216.jpg",
-              "kurz": "Der KI-Boom hat eine globale Speicherchip-Knappheit ausgelöst: Smartphones werden 5–10%, Notebooks bis zu 20% teurer – besonders im Einstiegssegment.",
-              "summary": "Weil KI-Rechenzentren die Produktionskapazität der drei dominierenden Speicherchip-Hersteller (Micron, Samsung, SK Hynix) absorbieren, werden Konsumgeräte benachteiligt. Media Markt Schweiz, Digitec Galaxus und Swisscom rechnen mit schrittweisen Preiserhöhungen ab April – mit Spitzenwerten vor Weihnachten. Besonders günstige Geräte im Einstiegsbereich sind betroffen, weil Speicherchips dort 15–20% des Gesamtpreises ausmachen. Lieferausfälle drohen zusätzlich.",
-              "gegenstimme": "Kritiker aus der Konsumentenschutzbewegung warnen vor einer weiteren Spaltung zwischen technikaffinen Bevölkerungsgruppen, die sich teure Flaggschiffgeräte leisten können, und Haushalten mit tiefem Budget, die auf günstige Einstiegsgeräte angewiesen sind. Zudem wird gefragt, ob Kartellbehörden die Marktmacht der drei Chip-Oligopolisten – die zusammen über 90% des Speicherchipmarkts kontrollieren – stärker regulieren sollten.",
-              "sources": [
-                {
-                  "name": "SRF News Wirtschaft",
-                  "url": "https://www.srf.ch/news/wirtschaft/chip-krise-wegen-ki-handys-und-laptops-werden-bis-zu-20-prozent-teurer"
+                  "url": "https://www.tagesanzeiger.ch/deepfake-schweiz-recherche-enthuellt-missbrauch-netzwerk-9875032404"
                 }
               ]
             }
