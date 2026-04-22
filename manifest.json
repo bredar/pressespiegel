@@ -1,5 +1,5 @@
 {
-  "updated": "09:36 UTC",
+  "updated": "15:05 UTC",
   "days": [
     {
       "date": "2026-04-22",
@@ -493,6 +493,187 @@
                 {
                   "name": "Tages-Anzeiger",
                   "url": "https://www.tagesanzeiger.ch/bildungsbericht-schweiz-professoren-kritisieren-neuen-report-897406143126"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-04-22-iran-teheran-laengerer-hebel-analyse",
+              "slug": "iran-teheran-laengerer-hebel-analyse",
+              "title": "Iran-Analyse: «Teheran sitzt jetzt am längeren Hebel» – wie Trump seine Verhandlungsposition verspielte",
+              "date": "2026-04-22",
+              "time": "17:50",
+              "category": "international",
+              "icon": "🇮🇷",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images//320ws/986200.webp",
+              "kurz": "Iran-Kennerin Willinger analysiert: Nach Trumps Waffenruhe-Verlängerung ohne Frist fühlt sich Teheran gestärkt – und stoppt Schiffe in der Strasse von Hormuz.",
+              "summary": "Die Iran-Expertin Katharina Willinger erklärt, warum die Verlängerung der Waffenruhe ohne klare Deadline Teherans Position gestärkt hat. Das iranische Regime reagiert selbstbewusst: Es feiert den Schritt als Sieg, beschiesst weiterhin Frachter in der Strasse von Hormuz und blockiert Gespräche mit dem Verweis auf «US-Provokationen».",
+              "gegenstimme": "Trumps Berater verweisen auf die laufenden Diplomatie-Kanäle via Pakistan und betonen, die Waffenruhe verhindere eine direkte militärische Eskalation. Konservative US-Medien sehen in der Verlängerung taktisches Kalkül: Trump verhandelt, während er die Eskalation kontrolliert. Die NZZ mahnt, Teherans Stärke nicht zu überschätzen – die Wirtschaft liegt in Trümmern.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/krieg-im-iran-iran-kennerin-teheran-sitzt-jetzt-am-noch-laengeren-hebel"
+                },
+                {
+                  "name": "Tagesanzeiger",
+                  "url": "https://www.tagesanzeiger.ch/iran-mullahs-feiern-trumps-verlaengerte-waffenruhe-als-sieg-887421619912"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/iran-dem-regime-sind-die-menschen-in-seinem-land-egal-686152836692"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-japan-waffenexporte-pazifismus-ende",
+              "slug": "japan-waffenexporte-pazifismus-ende",
+              "title": "Historische Wende: Japan erlaubt erstmals seit dem Zweiten Weltkrieg Exporte tödlicher Waffen",
+              "date": "2026-04-22",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🗾",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images//320ws/b74a348.webp",
+              "kurz": "Premierministerin Takaichi gibt grünes Licht für Exporte von Kriegsschiffen, Kampfdrohnen und anderen Waffensystemen – ein Bruch mit Japans Nachkriegsidentität.",
+              "summary": "Das japanische Kabinett hat neue Leitlinien für Rüstungsexporte beschlossen und damit das letzte Hindernis für den Verkauf tödlicher Waffen ins Ausland beseitigt. Japan darf nun erstmals seit 1945 Kriegsschiffe, Kampfdrohnen und offensive Waffensysteme exportieren. Hintergrund ist der wachsende Druck durch Russland, Nordkorea und China in der Region.",
+              "gegenstimme": "Kritiker in Japan und der Region warnen vor einer Büchse der Pandora: Einmal geöffnet, sei der Weg zurück zum Pazifismus versperrt. Verfassungsrechtler zweifeln an der Kompatibilität mit Artikel 9 der Verfassung, der Japan für alle Zeiten auf Krieg verzichten lässt. China hat die Entscheidung offiziell verurteilt.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/abkehr-vom-pazifismus-japan-erlaubt-exporte-von-toedlichen-waffen"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/rss"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-blocher-nau-ch-medien-umbau",
+              "slug": "blocher-nau-ch-medien-umbau",
+              "title": "SVP-Doyen Blocher beteiligt sich an Nau.ch – und gibt Gratiszeitungen ab",
+              "date": "2026-04-22",
+              "time": "17:20",
+              "category": "schweiz",
+              "icon": "📰",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/BHcMWxjqabaB-N9N6KuMG6.jpg",
+              "kurz": "Medienpolitischer Umbau: Blocher verkauft die Zeitungshaus AG an Nau.ch und wird so indirekt Mitbesitzer des «Bärnerbär».",
+              "summary": "SVP-Altbundesrat und Medienmäzen Christoph Blocher reorganisiert sein Medienimperium: Seine Robinvest AG veräussert Teile der Zeitungshaus AG an das Schweizer Nachrichtenportal Nau.ch. Damit wird Blocher indirekt Mitbesitzer des Berner Gratisanzeigers «Bärnerbär». Die Transaktion verschiebt das Kräfteverhältnis auf dem ohnehin konzentrierten Schweizer Medienmarkt.",
+              "gegenstimme": "Medienbeobachter sehen den Deal mit gemischten Gefühlen: Einerseits könnte Nau.ch durch die Kombination von Reichweite und lokalem Print gestärkt werden. Andererseits festigt Blocher damit seinen politischen Einfluss auf regionale Gratismedien – in einer Zeit, in der unabhängiger lokaler Journalismus ohnehin unter Druck steht.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/baernerbaer-blocher-verkauft-zeitungshaus-ag-an-nau-ch-848487811007"
+                },
+                {
+                  "name": "Tagesanzeiger",
+                  "url": "https://www.tagesanzeiger.ch/trump-verlaengert-waffenruhe-iran-konflikt-bleibt-angespannt-900791937830"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-roesti-rueckenoperation",
+              "slug": "roesti-rueckenoperation",
+              "title": "Bundesrat Rösti muss operiert werden – Reisen und Termine abgesagt",
+              "date": "2026-04-22",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/04/22/69d7906a-4f79-40a0-9b72-d9249d63d90d.jpg",
+              "kurz": "SVP-Bundesrat Albert Rösti unterzieht sich einer Rückenoperation und wird danach mehrere Wochen von zu Hause aus arbeiten.",
+              "summary": "SVP-Bundesrat Albert Rösti muss sich einer Operation an der Wirbelsäule unterziehen. Laut Mitteilung des UVEK werden in den kommenden Wochen Reisen und Termine abgesagt oder delegiert. Rösti ist Vorsteher des Departements für Umwelt, Verkehr, Energie und Kommunikation – ein ressourcenintensives Amt mit laufenden Dossiers zu Energiewende, Strassenausbau und Telekommunikation.",
+              "gegenstimme": "Aus dem UVEK heisst es, die laufenden Geschäfte seien gesichert. Stellvertretung und Delegationen seien geregelt. In oppositionellen Kreisen wird die Frage gestellt, ob Röstis Abwesenheit bestimmte politisch sensible Entscheide verzögern könnte.",
+              "sources": [
+                {
+                  "name": "20min",
+                  "url": "https://www.20min.ch/story/rueckenoperation-reisen-und-termine-abgesagt-bundesrat-roesti-muss-unters-messer-103550566"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-trump-schweiz-cnbc-zollstreit",
+              "slug": "trump-schweiz-cnbc-zollstreit",
+              "title": "«Bezahlt nur ein bisschen»: Trump stichelt im CNBC-Interview erneut gegen die Schweiz",
+              "date": "2026-04-22",
+              "time": "17:10",
+              "category": "schweiz",
+              "icon": "🇺🇸",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/AX1BPW6I4KWBn-9UB-Eqxq.jpg",
+              "kurz": "Im TV-Interview beklagt Trump das Handelsdefizit mit der Schweiz und macht Druck auf höhere Zahlungen.",
+              "summary": "US-Präsident Donald Trump hat in einem CNBC-Interview die Schweiz direkt angegriffen und erklärt, das Land zahle «derzeit nur ein bisschen». Er forderte im Rahmen des Zollstreits deutlich höhere Zugeständnisse. Die Aussagen verschärfen den Druck auf Bern kurz vor möglichen Verhandlungen.",
+              "gegenstimme": "Aus Sicht der Schweizer Wirtschaft sind Trumps Vorwürfe schwer nachvollziehbar: Die Schweiz hat faktisch kaum Importzölle auf US-Waren, das Handelsdefizit ergibt sich strukturell aus der Pharmaindustrie. Cash.ch und NZZ weisen darauf hin, dass Trump den Unterschied zwischen Güter- und Dienstleistungsbilanzen regelmässig ignoriert.",
+              "sources": [
+                {
+                  "name": "20min",
+                  "url": "https://www.20min.ch/story/wir-sind-die-elite-donald-trump-fordert-die-schweiz-sollte-viel-mehr-zahlen-103550534"
+                },
+                {
+                  "name": "cash.ch",
+                  "url": "https://www.cash.ch/news/top-news/trump-die-schweiz-muss-viel-mehr-an-die-usa-bezahlen-929782"
+                },
+                {
+                  "name": "Tagesanzeiger",
+                  "url": "https://www.tagesanzeiger.ch/trump-fordert-von-schweiz-viel-mehr-geld-im-zollstreit-991698378350"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-ubs-lex-ubs-eigenkapital-entscheid",
+              "slug": "ubs-lex-ubs-eigenkapital-entscheid",
+              "title": "«Lex UBS»: Bundesrat verpflichtet Grossbank zu 20 Milliarden mehr Eigenkapital",
+              "date": "2026-04-22",
+              "time": "17:00",
+              "category": "schweiz",
+              "icon": "🏦",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/5ykKrsuDKchBXLxuPfBipp.jpg",
+              "kurz": "Zwei Jahre nach CS-Untergang: Karin Keller-Sutter stellt die neue Bankenregulierung vor. UBS muss massiv mehr Kapital aufbauen.",
+              "summary": "Der Schweizer Bundesrat hat am Mittwoch die neue Eigenmittelverordnung für systemrelevante Banken verabschiedet. Die UBS muss demnach rund 20 Milliarden Dollar mehr Eigenkapital für ihre Auslandtöchter aufbauen. Die Reaktionen von Parteien und Bankensektor fallen gemischt aus – die SP fordert noch härtere Regeln, die Grossbank spricht von Wettbewerbsverzerrung.",
+              "gegenstimme": "UBS-CEO Sergio Ermotti kritisiert die Vorlage seit Monaten als unverhältnismässig. Er warnte, die Vorgaben machten die Bank «völlig wettbewerbsunfähig» und könnten die Schweiz als Bankstandort gefährden. Die NZZ kommentiert, der Bundesrat überschiesse das Ziel – nun sei es am Parlament, die Vorlage zu entschärfen.",
+              "sources": [
+                {
+                  "name": "Tagesanzeiger",
+                  "url": "https://www.tagesanzeiger.ch/ubs-eigenkapitalregeln-bundesrat-verlangt-20-milliarden-dollar-761718070472"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/fuer-die-ubs-geht-es-ans-eingemachte-der-streit-um-das-kapital-der-bank-tritt-in-die-entscheidende-phase-ld.1933435"
+                },
+                {
+                  "name": "20min",
+                  "url": "https://www.20min.ch/story/eigenkapital-hammer-sp-banker-toben-harsche-reaktionen-auf-keller-sutters-lex-ubs-103550723"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-warsh-fed-anhoerung-trump-unabhaengigkeit",
+              "slug": "warsh-fed-anhoerung-trump-unabhaengigkeit",
+              "title": "Kevin Warsh vor dem US-Senat: Wird er Trumps Handpuppe an der Fed-Spitze?",
+              "date": "2026-04-22",
+              "time": "17:40",
+              "category": "wirtschaft",
+              "icon": "💵",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images//320ws/39c618.webp",
+              "kurz": "Anhörung für den Fed-Vorsitz: Kevin Warsh kämpft um den Eindruck der Unabhängigkeit – zentrale Frage bleibt unbeantwortet.",
+              "summary": "Kevin Warsh, Trumps Kandidat für den Vorsitz der US-Notenbank Federal Reserve, hat sich dem Bestätigungs-Hearing im Senat gestellt. Im Mittelpunkt stand die Frage, ob er die Unabhängigkeit der Notenbank gegenüber politischem Druck des Präsidenten wahren wird. Warsh betonte seine Eigenständigkeit, liess aber offen, wie er auf direkten Trump-Druck reagieren würde.",
+              "gegenstimme": "Ökonomen und Fed-Veteranen mahnen zur Vorsicht: Die Fed-Unabhängigkeit ist eine der wichtigsten institutionellen Sicherungen des Finanzsystems. Trump hat öffentlich mehrfach erklärt, er wolle die Notenbank kontrollieren und die Zinsen selbst bestimmen. Wenn Warsh dem nachgibt, droht ein Vertrauensverlust in die US-Geldpolitik mit globalen Folgen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/usa/anhoerung-fuer-fed-vorsitz-kevin-warsh-vor-senat-wird-er-trumps-handpuppe"
+                },
+                {
+                  "name": "Reuters",
+                  "url": "https://www.reuters.com"
                 }
               ]
             }
