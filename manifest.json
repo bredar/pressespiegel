@@ -1,5 +1,5 @@
 {
-  "updated": "04:09 UTC",
+  "updated": "09:36 UTC",
   "days": [
     {
       "date": "2026-04-22",
@@ -328,6 +328,171 @@
                 {
                   "name": "TechCrunch",
                   "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-04-22-bundeswehr-erste-militaerstrategie",
+              "slug": "bundeswehr-erste-militaerstrategie",
+              "title": "Pistorius stellt erste Militärstrategie der Bundeswehr-Geschichte vor",
+              "date": "2026-04-22",
+              "time": "10:45",
+              "category": "international",
+              "icon": "🪖",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/b73dc0cb-09da-4c7d-9489-9cbe98b2ab1f_w520_r2.08_fpx46.66_fpy50.jpg",
+              "kurz": "Deutschland bekommt erstmals eine offizielle Militärstrategie. Ziel: stärkste konventionelle Armee Europas. Hauptbedrohung: Russland.",
+              "summary": "Verteidigungsminister Boris Pistorius hat heute die erste Militärstrategie in der Geschichte der Bundeswehr präsentiert. Das Dokument definiert Russland als Hauptbedrohung und setzt das Ziel, die Bundeswehr zur konventionell stärksten Armee Europas zu entwickeln – mit 260'000 aktiven Soldaten. Die Strategie kommt vor dem Hintergrund des Ukraine-Kriegs und wachsender Sicherheitsbedenken in Europa.",
+              "gegenstimme": "Kritiker aus linken Parteien bezweifeln, ob 260'000 Soldaten realistisch rekrutierbar sind. Auch Fragen zur Finanzierung bleiben offen – das neue Sondervermögen für die Bundeswehr ist beschlossen, reicht aber nach Ansicht vieler Experten nicht für eine dauerhafte Aufrüstung auf diesem Niveau.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor-a-300162af-2910-4410-ac8f-f9f77c0e0b06"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-hormuz-eskalation-mittag",
+              "slug": "hormuz-eskalation-mittag",
+              "title": "Update Iran-Krieg: IRGC beschiesst Frachter in der Strasse von Hormuz",
+              "date": "2026-04-22",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🚢",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/5m_R5IMcKOb9uDd-03u3fL.jpg",
+              "kurz": "Trotz verlängerter Waffenruhe: Irans Revolutionsgarden beschossen einen Containerfrachter in der Strasse von Hormuz. Ölpreis zieht an.",
+              "summary": "Die Iranischen Revolutionsgarden (IRGC) haben in der Strasse von Hormuz einen Containerfrachter beschossen – trotz der kurz zuvor verlängerten Waffenruhe zwischen den USA und Iran. Die UKMTO bestätigte den Vorfall. Ein zweites Schiff wurde ebenfalls angegriffen. Der Ölpreis reagierte mit einem Anstieg. Trump hatte die Feuerpause am Dienstag auf unbestimmte Zeit verlängert, nachdem Pakistan als Vermittler darum gebeten hatte.",
+              "gegenstimme": "Iran-Vertreter bezeichnen US-Provokationen als Haupthindernis für echte Gespräche. Die IRGC könnte auf eigenem Befehl gehandelt haben – was Risse in der iranischen Führung signalisiert.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/live/cx297218m9vt"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/iran-und-usa-trump-verlaengert-erneut-waffenruhe-821605119508"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-isis-mitgliederlisten-deutschland",
+              "slug": "isis-mitgliederlisten-deutschland",
+              "title": "IS-Mitgliederlisten in deutschen Händen: Verdächtige leben möglicherweise noch in Deutschland",
+              "date": "2026-04-22",
+              "time": "10:46",
+              "category": "international",
+              "icon": "🔍",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/825679dc-4671-45a4-a6a3-f1b03e127e9c_w520_r2.08_fpx50_fpy50.jpg",
+              "kurz": "Deutsche Behörden haben detaillierte IS-Mitgliederlisten des Islamischen Staats erhalten. Einige mutmassliche Terroristen sollen noch in Deutschland leben.",
+              "summary": "Der Spiegel berichtet, dass deutschen Sicherheitsbehörden detaillierte Mitgliederlisten des Islamischen Staats (IS) vorliegen. Die Dokumente – erlangt aus Schlachtfeldbeweisen aus Irak und Syrien – enthalten Namen, Funktionen und Details zu tausenden IS-Mitgliedern. Einige der darin verzeichneten Personen sollen sich demnach noch in Deutschland aufhalten. Die Enthüllung stellt Behörden vor erhebliche juristische Fragen.",
+              "gegenstimme": "Sicherheitsexperten warnen vor vorschnellen Verhaftungen: Die Qualität und Vollständigkeit der IS-Bürokratie war bekannt für Fehler und Manipulationen. Falschidentifikationen könnten Unschuldige in Verdacht bringen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/international/world/terror-records-in-german-hands-isis-and-the-bureaucracy-of-evil-a-b4ce77d2-774b-4ad5-8c8c-8cb2943e6737"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-sonderflug-burundi-ausschaffung",
+              "slug": "sonderflug-burundi-ausschaffung",
+              "title": "Sonderflug nach Burundi: Mario Fehr bestätigt Ausschaffungsoperation",
+              "date": "2026-04-22",
+              "time": "10:40",
+              "category": "schweiz",
+              "icon": "✈️",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/04/21/809fcd42-f686-46c0-a334-c7a5e59fada4.jpg",
+              "kurz": "Ein mysteriöser Nachtflug am Flughafen Zürich hat sich als Ausschaffungsoperation herausgestellt. Regierungsrat Mario Fehr bestätigte den Sonderflug nach Burundi.",
+              "summary": "Eine Boeing 737-8 Max der tschechischen Smartwings landete am Dienstagmorgen kurz nach 4 Uhr trotz Nachtflugverbot am Flughafen Zürich. Die Webcams am Flughafen waren deaktiviert. Die Maschine flog weiter nach Hurghada und dann Burundi. Der Zürcher Regierungsrat Mario Fehr bestätigte am Mittwoch, es handle sich um einen autorisierten Ausschaffungsflug. Der Flug hatte eine Sondergenehmigung des Bazl als Staatsluftfahrzeug.",
+              "gegenstimme": "Menschenrechtsorganisationen kritisieren Ausschaffungen nach Burundi: Das Land steht seit dem gescheiterten Putschversuch von 2015 unter starker Kritik wegen Menschenrechtsverletzungen. Die UNO hat wiederholt auf willkürliche Verhaftungen und Verfolgung hingewiesen.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/flughafen-zuerich-mysterioese-boeing-aus-bratislava-sorgt-fuer-raetsel-103550383"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/flughafen-zuerich-nachtlandung-einer-boeing-737-um-4-uhr-wirft-fragen-auf-132298753631"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-oelhaendler-lausanne-warnung",
+              "slug": "oelhaendler-lausanne-warnung",
+              "title": "Lausanner Rohstoffkonferenz: «Irgendwann fehlt das Öl – dann tut es weh»",
+              "date": "2026-04-22",
+              "time": "08:50",
+              "category": "wirtschaft",
+              "icon": "🛢️",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/2uN12nVpaaS8f2I96zxgJX.jpg",
+              "kurz": "Führende Rohstoffhändler warnen in Lausanne vor globalen Ölengpässen. Der Iran-Krieg verschärft die Lage – doch der Ölpreis täuscht noch über die wahre Knappheit hinweg.",
+              "summary": "An der wichtigsten Jahreskonferenz der Öl- und Rohstoffbranche in Lausanne haben führende Händler eindringlich vor kommenden Versorgungsengpässen gewarnt. Der aktuelle Ölpreis widerspiegle die reale Lage nicht: Trumps Versprechen, die Schweizer Rohstoffhändler ärgerten sich über die täuschend tiefen Preise. Der Iran-Krieg und die Hormuz-Blockade würden mittel- bis langfristig zu ernsthaften Lieferproblemen führen.",
+              "gegenstimme": "Marktbeobachter merken an, dass Händler ein Eigeninteresse an höheren Preisen haben. Zudem haben neue Fördermengen in den USA und Saudi-Arabien den Markt stabilisiert. Kurzfristig gibt es keine Versorgungskrise.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/lausanne-oelhaendler-warnen-vor-globalen-engpaessen-wegen-iran-603739170928"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/iran-krieg-der-oelpreis-ist-taeuschend-tief-beklagen-grosse-rohstoffhaendler-ld.10003573"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-apple-ceo-wechsel-ternus",
+              "slug": "apple-ceo-wechsel-ternus",
+              "title": "Tim Cook gibt Apple-CEO-Posten ab – John Ternus übernimmt ab September",
+              "date": "2026-04-22",
+              "time": "11:00",
+              "category": "tech",
+              "icon": "🍎",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/2b2a46ad-d71a-4497-98c9-645505133340_w520_r2.08_fpx61.41_fpy49.88.jpg",
+              "kurz": "Apple-CEO Tim Cook tritt per 1. September 2026 zurück. Nachfolger wird Hardware-Chef John Ternus. Cook bleibt als Executive Chairman.",
+              "summary": "Tim Cook, CEO von Apple seit 2011, gibt seinen Posten per 1. September 2026 ab. Als Nachfolger hat Apple John Ternus bestimmt, bisher Senior Vice President für Hardware Engineering. Cook wird Executive Chairman des Apple-Verwaltungsrates. In seiner Abschiedsmail an Mitarbeiter betonte Cook, er sei gesund und plane, die neue Rolle «lange» auszuüben. Ternus gilt als Architekt zahlreicher Schlüsselprodukte wie iPad, AirPods und Apple Watch.",
+              "gegenstimme": "Kritiker merken an, dass Apple unter Cook zwar operativ hervorragende Ergebnisse lieferte, das KI-Geschäft aber verschlafen hat. Ternus hat als Hardware-Mann noch zu beweisen, dass er eine überzeugende KI-Strategie entwickeln kann.",
+              "sources": [
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus"
+                },
+                {
+                  "name": "Apple Newsroom",
+                  "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-bildungsbericht-schweiz-kritik",
+              "slug": "bildungsbericht-schweiz-kritik",
+              "title": "«Unhaltbar»: Professoren kritisieren den neuen Schweizer Bildungsbericht",
+              "date": "2026-04-22",
+              "time": "09:05",
+              "category": "bildung",
+              "icon": "📚",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/B_Y7vIblqAx8DNqK6284S5.jpg",
+              "kurz": "Schweizer Forschende werfen dem neuen nationalen Bildungsbericht vor, nicht unabhängig zu sein und blinde Flecken zu haben. Der Bund widerspricht.",
+              "summary": "Der neue Schweizer Bildungsbericht wird von einer Gruppe von Forschenden scharf kritisiert. Sie bezeichnen ihn als «unhaltbar» und werfen ihm fehlende Unabhängigkeit, Einseitigkeit und blinde Flecken vor. Der Bund, der den Bericht mitfinanziert, widerspricht der Kritik. Der Bildungsbericht gilt als wichtiges Steuerungsinstrument für die Schweizer Bildungspolitik und erscheint alle vier Jahre.",
+              "gegenstimme": "Die Autoren des Bildungsberichts sowie das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) weisen die Kritik zurück. Sie betonen die wissenschaftliche Methodik und die breite Datenbasis des Berichts.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/bildungsbericht-schweiz-professoren-kritisieren-neuen-report-897406143126"
                 }
               ]
             }
