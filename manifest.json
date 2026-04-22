@@ -1,262 +1,333 @@
 {
-  "updated": "16:27 UTC",
+  "updated": "04:09 UTC",
   "days": [
     {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "editions": {
-        "midday": {
-          "time": "12:15",
+        "morning": {
+          "time": "07:00",
           "articles": [
             {
-              "id": "2026-04-21-international-blue-origin-artemis",
-              "slug": "international-blue-origin-artemis",
-              "title": "Blue Origin Raketenprobleme gefährden US-Artemis-Mondlandung",
-              "date": "2026-04-21",
-              "time": "13:30",
+              "id": "2026-04-22-cia-mexiko-diplomatische-krise",
+              "slug": "cia-mexiko-diplomatische-krise",
+              "title": "CIA-Agenten in Mexiko getötet – diplomatische Krise zwischen USA und Mexiko",
+              "date": "2026-04-22",
+              "time": "07:00",
               "category": "international",
-              "icon": "🌕",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/0c0f072b-a5e3-4f53-b7c0-63eb9d33f08a_w520_r2.08.jpg",
-              "kurz": "Technische Probleme bei Jeff Bezos' Blue Origin zwingen zu einer Raketenpause und gefährden den Zeitplan für die bemannte Mondlandung im Rahmen des Artemis-Programms.",
-              "summary": "Die Raumfahrtfirma Blue Origin von Jeff Bezos muss ihre Raketenentwicklung vorübergehend stoppen. Ein kritisches technisches Problem stellt ein erhebliches Risiko für die geplante Rückkehr von Menschen zum Mond dar. Die NASA sieht sich gezwungen, Alternativen zu prüfen.",
-              "gegenstimme": "Vertreter von Blue Origin und Teile der US-Raumfahrt-Community betonen, dass Rückschläge bei der Entwicklung neuer Trägerraketen normal seien. Sie argumentieren, dass eine sorgfältige Fehleranalyse langfristig zu sichereren und kostengünstigeren Systemen führen werde, im Gegensatz zu einer übereilten Fortsetzung mit erhöhtem Risiko.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wissenschaft/weltall/blue-origin-problem-mit-bezos-rakete-wird-zum-risiko-fuer-artemis-mondlandung-a-0c0f072b-a5e3-4f53-b7c0-63eb9d33f08a"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-21-politik-rente-basisabsicherung-merz-bas",
-              "slug": "politik-rente-basisabsicherung-merz-bas",
-              "title": "Renten-Debatte spitzt sich zu: Bärbel Bas stellt sich gegen Merz' Basisabsicherung",
-              "date": "2026-04-21",
-              "time": "13:00",
-              "category": "schweiz",
-              "icon": "🏛️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/681d414e-52c2-4342-8481-bdeb45fec72d_w520_r2.08_fpx54.59_fpy50.jpg",
-              "kurz": "SPD-Arbeitsministerin Bärbel Bas droht mit erbittertem Widerstand gegen Kanzler Merz' Pläne, die gesetzliche Rente auf eine reine Basisabsicherung zu reduzieren.",
-              "summary": "Die Debatte um die Zukunft der gesetzlichen Rente in Deutschland hat sich verschärft. Während Kanzler Friedrich Merz die Rente künftig auf eine Basisabsicherung beschränken will, kündigt die SPD massiven Widerstand an. Arbeitsministerin Bärbel Bas hat sich nun klar positioniert.",
-              "gegenstimme": "Befürworter einer Reform argumentieren, dass das aktuelle System bei der demografischen Entwicklung langfristig nicht tragbar sei. Eine Konzentration auf eine echte Basisabsicherung kombiniert mit stärkerer privater und betrieblicher Vorsorge könnte die Staatsfinanzen entlasten und mehr Eigenverantwortung fördern.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-will-rente-auf-basisabsicherung-kuerzen-spd-droht-mit-erbittertem-widerstand-a-9bdee6cd-108a-4bc9-b669-8a9981a44895"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-21-wirtschaft-irankrise-wachstum-2026",
-              "slug": "wirtschaft-irankrise-wachstum-2026",
-              "title": "Wirtschaftsprognose 2026: Irankrise bremst Aufschwung in Deutschland und Schweiz",
-              "date": "2026-04-21",
-              "time": "12:30",
-              "category": "wirtschaft",
-              "icon": "📉",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/877925e7-c7fc-4675-998f-cbecae233004_w520_r2.08_fpx15_fpy34.jpg",
-              "kurz": "Die anhaltende Krise in der Strasse von Hormuz drückt die Wachstumsprognosen. Die Bundesregierung rechnet nur noch mit 0,5 Prozent Wachstum für 2026, die Inflation steigt.",
-              "summary": "Die Blockade der Strasse von Hormuz durch den Iran-Konflikt hat massive Auswirkungen auf die globale Energie- und Rohstoffversorgung. Dies bremst den erwarteten Aufschwung in Deutschland und wirkt sich auch auf die Schweizer Wirtschaft aus. Wirtschaftsministerin Katherina Reiche hat die Prognose deutlich nach unten korrigiert.",
-              "gegenstimme": "Optimisten in der Wirtschaft argumentieren, dass die Krise mittelfristig zu einer Diversifikation der Lieferketten und stärkerer heimischer Produktion führen könnte. Sie warnen davor, die negativen Prognosen zu übertreiben, da Anpassungsfähigkeit und technologische Innovation (z. B. in der Energiebranche) die Auswirkungen abfedern könnten.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/service/katherina-reiche-erwartet-2026-kaum-wirtschaftswachstum-a-dbf73f59-20d9-4d16-9a6a-50316e1274db"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-21-schweiz-ki-deepfake-influencerinnen",
-              "slug": "schweiz-ki-deepfake-influencerinnen",
-              "title": "Schweizer KI-Skandal: Influencerinnen erstatten Anzeige gegen Porno-Deepfakes",
-              "date": "2026-04-21",
-              "time": "12:00",
-              "category": "tech",
-              "icon": "🔬",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/4WeFo13x4-rArbN7W09jpn.jpg",
-              "kurz": "Betroffene Influencerinnen zeigen Männer an, die mit KI intime Deepfakes von ihnen erstellt und verbreitet haben. Ein Netzwerk des Missbrauchs wird sichtbar.",
-              "summary": "In der Schweiz ist ein grosser Skandal um nicht-einvernehmliche KI-generierte Pornografie aufgeflogen. Mehrere bekannte Influencerinnen haben Strafanzeige gegen Männer erstattet, die mit künstlicher Intelligenz intime Bilder und Videos von ihnen hergestellt haben. Die Recherche von Der Bund und Tages-Anzeiger enthüllt ein System, in dem Männer sich gegenseitig anfeuern, Inhalte teilen und teilweise damit Geld verdienen.",
-              "gegenstimme": "Kritiker aus der Tech-Branche und von Plattformen argumentieren, dass ein vollständiges Verbot oder übermässige Regulierung von KI-Tools die technologische Innovation in der Schweiz behindern würde. Sie betonen, dass die primäre Verantwortung bei den Nutzern liege und dass bestehende Gesetze gegen Persönlichkeitsrechtsverletzungen und Cybermobbing ausreichen sollten, statt die gesamte KI-Entwicklung zu kriminalisieren.",
+              "icon": "🌎",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/5H19AfNna16AtYx0L7cgS9.jpg",
+              "kurz": "Vier Personen starben bei einer US-Anti-Drogen-Operation in Mexiko. Mexikos Präsidentin Sheinbaum fordert Aufklärung über geheime US-Einsätze.",
+              "summary": "Im mexikanischen Bundesstaat Chihuahua kamen vier Personen – darunter CIA-Offiziere – bei einem Verkehrsunfall im Zusammenhang mit einer Anti-Drogen-Operation ums Leben. Die mexikanische Präsidentin Claudia Sheinbaum fordert Transparenz über geheime US-Operationen auf mexikanischem Boden und droht mit diplomatischen Konsequenzen.",
+              "gegenstimme": "Washingtons Reaktion ist zurückhaltend: Die USA betonen das Recht auf Selbstverteidigung und die Bekämpfung von Drogenkartellenals gemeinsames Interesse. Republikanische Hardliner im Kongress fordern dagegen eine noch aggressivere Gangart gegenüber Mexiko.",
               "sources": [
                 {
                   "name": "Der Bund",
-                  "url": "https://www.derbund.ch/porno-deepfake-schweizer-influencerinnen-erstatten-anzeige-171442505695"
-                },
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/deepfake-schweiz-recherche-enthuellt-missbrauch-netzwerk-9875032404"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-04-21-japan-ruestungsexporte-pazifismus-kehrtwende",
-              "slug": "japan-ruestungsexporte-pazifismus-kehrtwende",
-              "title": "Japan gibt Nachkriegs-Pazifismus auf: Waffenverkäufe in 17 Länder erlaubt",
-              "date": "2026-04-21",
-              "time": "18:30",
-              "category": "international",
-              "icon": "⚔️",
-              "edition": "evening",
-              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b0/live/2e1e3780-3d7b-11f1-ac78-2112837ce2aa.png",
-              "kurz": "Japan hebt seine seit dem Zweiten Weltkrieg geltenden Waffenexport-Beschränkungen auf – ein historischer Bruch mit dem Nachkriegs-Pazifismus, getrieben durch die China-Bedrohung.",
-              "summary": "Japan hat am Dienstag seine strikten Waffenexport-Regeln gelockert. Künftig darf das Land Waffen an alle 17 Länder verkaufen, mit denen es Verteidigungsabkommen hat – darunter USA und UK. Bisherige Beschränkungen auf fünf nicht-offensive Kategorien wurden aufgehoben. Premierministerin Sanae Takaichi betonte, die Friedensverfassung bleibe unverändert.",
-              "gegenstimme": "China reagierte mit scharfer Kritik und nannte Japans Schritt «rücksichtslose Militarisierung». Südkorea mahnte zur Vorsicht. Pazifistische Gruppen in Japan selbst warnen vor einem schleichenden Rüstungswettlauf in Asien.",
-              "sources": [
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo"
+                  "url": "https://www.derbund.ch/mexiko-cia-offiziere-sterben-bei-einsatz-gegen-drogenlabor-957315609517"
                 }
               ]
             },
             {
-              "id": "2026-04-21-ukraine-zelensky-us-diplomatie-respektlos",
-              "slug": "ukraine-zelensky-us-diplomatie-respektlos",
-              "title": "Zelensky: US-Unterhändler flogen achtmal nach Moskau – nie nach Kiew",
-              "date": "2026-04-21",
-              "time": "18:30",
+              "id": "2026-04-22-pakistan-iran-trump-vermittler",
+              "slug": "pakistan-iran-trump-vermittler",
+              "title": "Pakistan als stiller Vermittler zwischen Trump und Iran",
+              "date": "2026-04-22",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/AJlggs174eU9m5ng_XiI-e.jpg",
+              "kurz": "Pakistan hat sich im Iran-USA-Konflikt als unverzichtbarer Vermittler etabliert – eine neue aussenpolitische Rolle für das oft gebeutelte Land.",
+              "summary": "Im Konflikt zwischen dem Iran und den USA unter Präsident Trump hat sich Pakistan als diskreter diplomatischer Vermittler profiliert. Pakistans Regierung nutzt ihre historischen Beziehungen zum Iran sowie die Notwendigkeit, Washingtons Wohlwollen zu erhalten, um eine einzigartige Mittlerrolle einzunehmen.",
+              "gegenstimme": "Skeptiker in Washington und Teheran bezweifeln, dass Pakistan diese Rolle langfristig aufrechterhalten kann. Islamabad habe eigene strategische Interessen und stehe durch seinen Atomstatus und die komplizierte Beziehung zu Afghanistan unter anderem permanent unter US-Druck.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/irankrieg-pakistans-diplomatie-zwischen-trump-und-iran-wirkt-543177657134"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-taiwan-china-eswatini-druck",
+              "slug": "taiwan-china-eswatini-druck",
+              "title": "Taiwan: Chinas Druck verhindert Reise des Präsidenten nach Eswatini",
+              "date": "2026-04-22",
+              "time": "07:00",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "morning",
+              "image": "https://i.guim.co.uk/img/media/4919e5caf978920f4df4d3520cf9c6051a782fe7/819_0_4320_3456/master/4320.jpg?width=460&quality=85&auto=format&fit=max",
+              "kurz": "Taiwans Präsident Lai Ching-te musste seine Afrikareise absagen, weil mehrere Länder auf Pekings Druck die Überflugrechte entzogen.",
+              "summary": "Der taiwanesische Präsident Lai Ching-te wollte zum 40-jährigen Thronjubiläum von König Mswati III. nach Eswatini reisen – dem einzigen afrikanischen Staat, der diplomatische Beziehungen zu Taiwan unterhält. Seychellen, Mauritius und Madagaskar entzogen jedoch auf massiven chinesischen Druck die Überflugrechte und zwangen zur Absage.",
+              "gegenstimme": "Peking bezeichnet Eswatinis Beziehung zu Taiwan als «Überbleibsel des Kalten Krieges» und übt systematischen Druck aus, alle verbleibenden taiwanesischen Allianzen aufzulösen. Westliche Kommentatoren sehen darin Chinas wachsende Fähigkeit, selbst kleine Inselstaaten zu disziplinieren.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-trump-iran-waffenruhe-ukraine",
+              "slug": "trump-iran-waffenruhe-ukraine",
+              "title": "Trump verlängert Waffenruhe mit Iran – EU-Kredit für Ukraine freigegeben",
+              "date": "2026-04-22",
+              "time": "07:00",
               "category": "international",
               "icon": "🌍",
-              "edition": "evening",
-              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bab1/live/3d4c7e80-3d74-11f1-ac78-2112837ce2aa.jpg",
-              "kurz": "Zelensky nennt das Verhalten der US-Unterhändler «respektlos»: Witkoff und Kushner besuchten Moskau achtmal – Kiew nie. Der Ukraine-Krieg gerät diplomatisch ins Hintertreffen.",
-              "summary": "Der ukrainische Präsident Zelensky hat scharf kritisiert, dass US-Sondergesandter Steve Witkoff und Jared Kushner achtmal nach Moskau gereist sind, aber nie nach Kiew. Er bezeichnete das als «respektlos». Die beiden sind derzeit in Pakistan für Gespräche über einen Iran-Waffenstillstand – der Ukraine-Krieg rückt in den Hintergrund.",
-              "gegenstimme": "Aus amerikanischer Sicht sind die Logistik-Argumente nicht unvernünftig: Kyiv ist Kriegsgebiet, Moskau ist sicherer zu erreichen. Zudem sind Witkoff und Kushner formal primär für den Nahost-Konflikt zuständig. Kritiker in Washington sehen die Doppelbelastung als strukturelles Problem der Trump-Diplomatie.",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
+              "kurz": "Trump verlängert die Waffenruhe mit Iran. Gleichzeitig soll die EU der Ukraine einen dringend benötigten Kredit freigeben.",
+              "summary": "US-Präsident Donald Trump hat die Waffenruhe mit Iran erneut verlängert, ohne bisher ein dauerhaftes Abkommen zu erzielen. Unterdessen bereitet die EU die Freigabe eines weiteren Kredits für die Ukraine vor. Bundeskanzler Merz reiste zur Klimakonferenz, wo er über die Vereinbarkeit von Wirtschaftswachstum und Klimazielen sprach.",
+              "gegenstimme": "Kritiker in Washington und Teheran warnen, dass Waffenruhen ohne konkreten diplomatischen Fortschritt lediglich Zeitgewinn für beide Seiten sind. Iran-Hardliner lehnen eine Annäherung grundsätzlich ab, während Trumps Gegner die fehlende langfristige Strategie kritisieren.",
               "sources": [
                 {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/cd9v420y190o"
-                },
-                {
-                  "name": "NZZ Ukraine",
-                  "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-ld.1613540"
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/news-donald-trump-verlaengert-iran-waffenruhe-friedrich-merz-auf-klimakonferenz-eu-kredit-fuer-ukraine-a-130e1bc0-5992-4c3b-85fe-ac5d4ab2cd98"
                 }
               ]
             },
             {
-              "id": "2026-04-21-schweiz-akw-neubau-nationalrat",
-              "slug": "schweiz-akw-neubau-nationalrat",
-              "title": "Schweizer Nationalratskommission stimmt für neue Atomkraftwerke",
-              "date": "2026-04-21",
-              "time": "18:30",
+              "id": "2026-04-22-abstimmung-juni-2026-schweiz",
+              "slug": "abstimmung-juni-2026-schweiz",
+              "title": "Schweizer Volksabstimmung 14. Juni: 10-Millionen-Initiative und Zivildienstreform",
+              "date": "2026-04-22",
+              "time": "07:00",
               "category": "schweiz",
-              "icon": "⚛️",
-              "edition": "evening",
-              "image": "https://img-msp-prod.nzz.ch/2026/03/18/f3d7ee71-e3f8-451e-a18c-5ed70c41d9c3.jpg?width=800&fit=bounds&quality=75&auto=webp",
-              "kurz": "Die Nationalratskommission hat knapp für die Aufhebung des AKW-Neubauverbots gestimmt – ein weiterer Schritt in Richtung nuklearer Renaissance in der Schweiz.",
-              "summary": "Mit 13 zu 12 Stimmen hat die Umweltkommission des Nationalrates beschlossen, neue Atomkraftwerke grundsätzlich wieder zuzulassen. Dies folgt einem ähnlichen Entscheid des Ständerats. Die Vorlage stützt den indirekten Gegenvorschlag zur Blackout-Initiative und will das Kernenergiegesetz entsprechend anpassen.",
-              "gegenstimme": "Eine starke Minderheit warnt vor dem Verlust von Planungssicherheit beim Ausbau der Erneuerbaren Energien und befürchtet «beträchtliche finanzielle Risiken» durch neue AKW-Projekte. Erneuerbare-Verfechter betonen, dass Sonne und Wind inzwischen günstiger und schneller realisierbar seien.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/atomenergie-nationalratskommission-will-bau-neuer-akw-wieder-zulassen"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/schweiz-die-neusten-meldungen-ld.1930347"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-21-schweiz-eid-bundesgericht-definitiv",
-              "slug": "schweiz-eid-bundesgericht-definitiv",
-              "title": "E-ID ist definitiv: Bundesgericht weist alle Beschwerden ab",
-              "date": "2026-04-21",
-              "time": "18:30",
-              "category": "schweiz",
-              "icon": "🪪",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/4FrKd3Wc4amA_dBYnLwg-L.jpg",
-              "kurz": "Das Bundesgericht hat Beschwerden gegen die Volksabstimmung zur staatlichen E-ID abgewiesen. Die digitale Identitätskarte kommt – trotz Kritik an einer Swisscom-Spende.",
-              "summary": "Das Bundesgericht hat am Dienstag alle Beschwerden gegen die Volksabstimmung zur staatlichen E-ID abgewiesen. Die elektronische Identitätskarte der Schweiz kommt damit definitiv. Zwei von fünf Bundesrichtern kritisierten eine Spende der Swisscom an das Pro-Komitee als unzulässige Einmischung, zogen daraus aber keine rechtlichen Konsequenzen.",
-              "gegenstimme": "Kritiker aus der JSVP bezeichneten das Verfahren als «unprofessionell». Die Minderheitsmeinung zweier Richter, die die Swisscom-Spende als rechtswidrig einstuften, ohne Konsequenzen daraus zu ziehen, wirft Fragen zur Glaubwürdigkeit des Abstimmungsverfahrens auf.",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/BYD5rX9YaRpAFH6M8bQv9R.jpg",
+              "kurz": "Am 14. Juni 2026 stimmt die Schweiz über die Initiative zur Begrenzung auf 10 Millionen Einwohner und die Zivildienstreform ab.",
+              "summary": "Am 14. Juni 2026 stehen mehrere Volksabstimmungen auf der eidgenössischen Traktandenliste. Besonders im Fokus steht die Initiative zur Begrenzung der Bevölkerung auf 10 Millionen Einwohner sowie die Reform des Zivildienstes. Tamedia hat eine Umfrage gestartet, um die Meinung der Bevölkerung zu erfassen.",
+              "gegenstimme": "Die 10-Millionen-Initiative wird von Wirtschaftsverbänden und der politischen Mitte abgelehnt: Sie würde die Zuwanderung so stark einschränken, dass Fachkräftemangel und wirtschaftliche Einbussen die Folge wären. Befürworter aus dem SVP-Lager betonen hingegen Wohnungsdruck, Verkehr und Infrastrukturbelastung.",
               "sources": [
                 {
                   "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/e-id-beschwerde-vom-bundesgericht-abgewiesen-149438359374"
+                  "url": "https://www.tagesanzeiger.ch/abstimmung-14-juni-2026-was-steht-auf-ihrem-stimmzettel-585020751729"
                 },
                 {
                   "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/nach-e-id-entscheid-unprofessionell-jsvp-fiechter-greift-eigenen-bundesrichter-an-103550003"
+                  "url": "https://www.20min.ch/story/umfrage-10-millionen-initiative-zivildienstreform-wie-stimmst-du-ab-103546888"
                 }
               ]
             },
             {
-              "id": "2026-04-21-trump-schweiz-zoelle-mehr-zahlen",
-              "slug": "trump-schweiz-zoelle-mehr-zahlen",
-              "title": "Trump: Schweiz muss «viel mehr» an die USA bezahlen",
-              "date": "2026-04-21",
-              "time": "18:30",
+              "id": "2026-04-22-schweiz-krisenbereitschaft-infrastruktur",
+              "slug": "schweiz-krisenbereitschaft-infrastruktur",
+              "title": "«Auf komplexe Krisen ist die Schweiz schlecht vorbereitet»",
+              "date": "2026-04-22",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🛡️",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/04/20/08567ad8-4078-49f4-aac2-95f932cfc057.jpg",
+              "kurz": "Laut Accenture-Experte fehlt der Schweiz bei der kritischen Infrastruktur Redundanz und Interoperabilität zwischen Behörden.",
+              "summary": "Michel Schafer von der Unternehmensberatung Accenture kritisiert, dass die Schweiz bei kritischer Infrastruktur auf zwei entscheidende Komponenten verzichtet: systemische Redundanz und Interoperabilität zwischen Behörden und privaten Betreibern. Bei einem kombinierten Cyber- und Infrastrukturangriff könnte das fatale Folgen haben.",
+              "gegenstimme": "Das Bundesamt für Bevölkerungsschutz (BABS) und das Nationale Zentrum für Cybersicherheit (NCSC) widersprechen einer pauschalen Untätigkeit: Es existieren Notfallpläne und Koordinationsmechanismen. Kritiker halten diese aber für unzureichend angesichts moderner hybrider Bedrohungen.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/kritische-infrastruktur-schweiz-das-ist-die-achillesferse-103549490"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-schweizer-exporte-tiefstand-zoelle",
+              "slug": "schweizer-exporte-tiefstand-zoelle",
+              "title": "Schweizer Exporte auf tiefstem Stand seit Herbst 2021",
+              "date": "2026-04-22",
+              "time": "07:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images//320ws/ec1ca6.webp",
+              "kurz": "Die Schweizer Exporte sind im ersten Quartal 2026 auf den tiefsten Stand seit Herbst 2021 gesunken – besonders die USA-Ausfuhren sind eingebrochen.",
+              "summary": "Im ersten Quartal 2026 sanken die Schweizer Exporte um 4.2 Prozent auf 66.94 Milliarden Franken – der tiefste Wert seit Herbst 2021. Die Ausfuhren in die USA brachen um 15.6 Prozent ein. Am stärksten betroffen ist die Pharmabranche, die bereits den vierten Rückgang in Folge verzeichnet. Uhren und Fahrzeuge trotzten dem Trend.",
+              "gegenstimme": "Wirtschaftsverbände weisen darauf hin, dass die Schweizer Exportwirtschaft strukturell robust ist und temporäre Einbrüche durch Zölle historisch immer überstanden hat. Zudem bleibt die Kaufkraft im Inland hoch, was die Binnenwirtschaft stützt.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/schweiz/bilanz-erstes-quartal-2026-weniger-waren-ins-ausland-schweizer-exporte-fallen-auf-tiefstand"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/erstes-quartal-wegen-trump"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-kandersteg-asylunterkunft-widerstand",
+              "slug": "kandersteg-asylunterkunft-widerstand",
+              "title": "Kandersteg: Über 300 Unterschriften gegen Asylunterkunft für 200 Personen",
+              "date": "2026-04-22",
+              "time": "07:00",
+              "category": "regional",
+              "icon": "🏔️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/FpUVOk204999bay_BOtudP.jpg",
+              "kurz": "In Kandersteg sammeln Privatpersonen Unterschriften gegen eine geplante Asylunterkunft am Ortseingang. Der Kanton Bern soll 200 Personen unterbringen.",
+              "summary": "Der Kanton Bern plant eine Kollektivunterkunft für 200 Asylsuchende am Ortseingang von Kandersteg. Innert drei Wochen haben über 300 Privatpersonen eine Petition gegen das Projekt unterzeichnet. Der Widerstand kommt laut Der Bund von einer breiten Bevölkerungskoalition, nicht nur von einem politischen Lager.",
+              "gegenstimme": "Der Kanton Bern verweist auf die rechtliche Pflicht zur Unterbringung von Asylsuchenden und betont, Kandersteg sei nicht überproportional belastet. Hilfswerke erinnern daran, dass viele der untergebrachten Personen Schutzsuchende aus Krisengebieten sind und eine menschenwürdige Unterbringung verdienen.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/kandersteg-widerstand-gegen-geplante-kollektivunterkunft-141041631817"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-vini-airline-bern-belp-elektro",
+              "slug": "vini-airline-bern-belp-elektro",
+              "title": "Ex-Skywork-Chef gründet neue Mini-Airline «Vini» am Flughafen Bern-Belp",
+              "date": "2026-04-22",
+              "time": "07:00",
+              "category": "regional",
+              "icon": "🛩️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/AsHphx3h4eyBZJm6QSEJS3.jpg",
+              "kurz": "Tomislav Lang, ehemaliger Skywork-Chef, startet mit einer neuen Elektro-Fluggesellschaft in Bern-Belp. Das Ziel: ein «Uber der Lüfte» für Kurzstrecken.",
+              "summary": "Tomislav Lang, CEO der 2019 insolventen Skywork Airlines, kehrt mit einer neuen Idee zurück: Die Airline «Vini» soll elektrische Flugtaxis für Kurzstrecken anbieten und sich als «Uber der Lüfte» positionieren. Auch ein ehemaliger Skywork-Investor ist wieder mit dabei.",
+              "gegenstimme": "Branchenexperten stehen Elektro-Flugzeug-Startups skeptisch gegenüber: Die Batterietechnologie für kommerzielle Passagierflüge über mehr als 50 km ist noch nicht ausgereift, die Zertifizierungshürden sind hoch, und frühere Anbieter wie Lilium scheiterten trotz Milliarden-Investitionen.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/belp-ex-skywork-chef-ist-zurueck-mit-elektrofluegen-234705336277"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-credit-default-swaps-finanzkrise-warnung",
+              "slug": "credit-default-swaps-finanzkrise-warnung",
+              "title": "Credit Default Swaps zurück: US-Banken wetten gegen den Kreditmarkt",
+              "date": "2026-04-22",
+              "time": "07:00",
               "category": "wirtschaft",
-              "icon": "💰",
-              "edition": "evening",
-              "image": "https://img-msp-prod.nzz.ch/2026/04/21/8d91ff98-f3a9-4eea-9b79-bcd2200e540b.jpg?width=800&fit=bounds&quality=75&auto=webp",
-              "kurz": "Mitten in laufenden Handelsverhandlungen stichelt Trump erneut gegen die Schweiz – er will «viel mehr» Zahlungen. Gleichzeitig läuft die USA Rückzahlung unrechtmässig erhobener Zölle.",
-              "summary": "US-Präsident Donald Trump hat in einem CNBC-Interview die Schweiz direkt angegriffen: Sie zahle derzeit zu wenig und müsse künftig «viel mehr» entrichten. Die Äusserungen fallen mitten in laufende Handelsverhandlungen, die Bundespräsident Parmelin letzte Woche in Washington führte. Gleichzeitig erstattet die USA Milliarden an unrechtmässig erhobenen Zöllen zurück – Schweizer Firmen könnten rund 1,5 Milliarden Franken zurückfordern.",
-              "gegenstimme": "Wirtschaftsverbände und Handelsexperten warnen davor, Trumps spontane Medienäusserungen als offizielle Verhandlungsposition zu deuten. Bundespräsident Parmelin betonte in Washington, dass beide Seiten ein Interesse an einem stabilen Handelsrahmen hätten – Tempo sei weniger wichtig als Klarheit.",
+              "icon": "📉",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/FFyp48aO49KA_YQIRf0TM0.jpg",
+              "kurz": "US-Banken setzen wieder auf Credit Default Swaps gegen den boomenden Markt für private Kredite. Ökonomen sehen Parallelen zur Finanzkrise 2008.",
+              "summary": "Amerikanische Grossbanken beginnen, mit sogenannten Credit Default Swaps (CDS) gegen den boomenden Markt für private Kredite zu wetten – denselben Instrumenten, die 2008 zur Finanzkrise beigetragen haben. Der Markt für Private Credit beläuft sich mittlerweile auf mehrere Billionen Dollar und ist weitgehend unreguliert.",
+              "gegenstimme": "Bankenökonomen und Marktbeobachter, die der Kreditbranche nahestehen, widersprechen dem Vergleich mit 2008: Die damaligen Subprime-Strukturen seien grundlegend anders gewesen. CDS könnten auch risikomindernde Hedging-Instrumente sein. Eine Parallele zur Finanzkrise sei voreilig.",
               "sources": [
                 {
-                  "name": "cash.ch",
-                  "url": "https://www.cash.ch/news/top-news/trump-die-schweiz-muss-viel-mehr-an-die-usa-bezahlen-929782"
-                },
-                {
-                  "name": "cash.ch Fed",
-                  "url": "https://www.cash.ch/news/top-news/trumps-kandidat-fur-fed-spitze-verspricht-strikt-unabhangige-zinsentscheidungen-929735"
+                  "name": "Tages-Anzeiger/Süddeutsche Zeitung",
+                  "url": "https://www.tagesanzeiger.ch/private-credit-us-banken-wetten-gegen-billionen-markt-723498530322"
                 }
               ]
             },
             {
-              "id": "2026-04-21-apple-ceo-john-ternus-tim-cook-nachfolge",
-              "slug": "apple-ceo-john-ternus-tim-cook-nachfolge",
-              "title": "John Ternus wird Apple-CEO: Hardware-Mann nach dem Management-Giganten",
-              "date": "2026-04-21",
-              "time": "18:30",
-              "category": "tech",
-              "icon": "🍎",
-              "edition": "evening",
-              "image": "https://img-msp-prod.nzz.ch/2026/04/21/567bf94f-2143-416f-aa18-af61aa443eaa.jpg?width=800&fit=bounds&quality=75&auto=webp",
-              "kurz": "Tim Cook übergibt das Steuer an John Ternus, Apples Hardware-Chef. Ein bescheidener Ingenieur übernimmt einen Weltkonzern – in einer kritischen Phase.",
-              "summary": "Apple hat den Wechsel an der Spitze angekündigt: Tim Cook, seit 2011 CEO, übergibt das Amt am 1. September 2026 an John Ternus, den bisherigen Hardware-Chef. Ternus gilt als kollegialer Ingenieur, der beim Wechsel zum hauseigenen M-Chip-Design eine Schlüsselrolle spielte. Kritiker zweifeln, ob er Apple aus dem KI-Rückstand und dem Innovationsstillstand herausführen kann.",
-              "gegenstimme": "Apple-Beobachter sind gespalten: Die einen sehen in Ternus den richtigen Mann, um das Gerätebusiness zu revitalisieren. Die anderen warnen, dass Apple vor allem ein KI- und Software-Problem hat – und genau dort Ternus' Schwäche liegt. Google, Microsoft und Meta investieren Milliarden in eigene KI-Modelle; Apple hinkt hinterher.",
+              "id": "2026-04-22-lufthansa-kerosinknappheit-streichungen",
+              "slug": "lufthansa-kerosinknappheit-streichungen",
+              "title": "Kerosinknappheit: Lufthansa streicht 20'000 Kurzstreckenflüge",
+              "date": "2026-04-22",
+              "time": "07:00",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/04/19/5d2782a6-582b-417f-b37b-408e03047fab.jpg",
+              "kurz": "Der Irankrieg hat den Kerosinpreis verdoppelt. Die Lufthansa Group streicht 20'000 Kurzstreckenflüge bis Oktober – mit Auswirkungen auf die Schweiz.",
+              "summary": "Die Lufthansa Group streicht aufgrund der Kerosinknappheit bis Oktober 2026 rund 20'000 Kurzstreckenflüge aus dem Programm, was eine Einsparung von 40'000 Tonnen Treibstoff bringen soll. Der Kerosinpreis hat sich seit Beginn des Irankrieges verdoppelt. Für die Schweiz bedeutet das: Mehr Verbindungen werden über Zürich als Drehkreuz geführt statt via Frankfurt/München.",
+              "gegenstimme": "Branchenanalysten sehen darin auch eine strategische Chance für Schweizer Airports: Eine höhere Frequenz über Zürich stärkt die Hub-Position. Kleinere Flughäfen wie Basel werden jedoch weiter geschwächt. Umweltorganisationen fordern angesichts der Krise einen beschleunigten Umstieg auf emissionsärmere Technologien.",
               "sources": [
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/apples-neuer-chef-john-ternus-gilt-als-nice-guy-kritiker-zweifeln-dass-der-ingenieur-den-konzern-vor-dem-stillstand-bewahren-kann-ld.10003498"
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/kerosinknappheit-lufthansa-group-streicht-20-000-kurzstreckenfluege-103550323"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/lausanne-oelhaendler-warnen-vor-globalen-engpaessen-wegen-iran-603739170928"
                 }
               ]
             },
             {
-              "id": "2026-04-21-ki-anthropic-pentagon-trump-ruestung",
-              "slug": "ki-anthropic-pentagon-trump-ruestung",
-              "title": "KI und Rüstung: Trump hebt Pentagon-Sperre für Anthropic auf",
-              "date": "2026-04-21",
-              "time": "18:30",
+              "id": "2026-04-22-anthropic-claude-mythos-zugang",
+              "slug": "anthropic-claude-mythos-zugang",
+              "title": "Anthropics KI-Hacking-Tool «Mythos»: Unbefugter Zugang gemeldet",
+              "date": "2026-04-22",
+              "time": "07:00",
               "category": "tech",
-              "icon": "🤖",
-              "edition": "evening",
-              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd4a/live/df3e79e0-3d8e-11f1-ac78-2112837ce2aa.jpg",
-              "kurz": "Trump signalisiert die Aufhebung der Pentagon-Sperre für Anthropic. Gleichzeitig weitet YouTube KI-Schutz gegen Deepfakes auf Prominente aus.",
-              "summary": "US-Präsident Trump hat in einem CNBC-Interview angedeutet, die Pentagon-Sperre für die KI-Firma Anthropic aufzuheben. Das Unternehmen war gesperrt worden, weil es sich weigerte, Sicherheitsvorkehrungen seiner KI für autonome Waffen zu entfernen. Parallel dazu weitet YouTube seine KI-Erkennungstechnologie gegen Deepfakes auf Prominente aus – ein weiteres Zeichen, wie KI-Regulierung weltweit an Fahrt gewinnt.",
-              "gegenstimme": "Kritiker warnen vor einer zu schnellen Reintegration von Anthropic ins Militär-Ökosystem: Die Firma hatte aus gutem Grund rote Linien gezogen. Eine Aufhebung ohne klare Bedingungen würde den ethischen KI-Ansatz untergraben. OpenAI, das vom Pentagon bereits genutzt wird, steht seinerseits unter Beschuss wegen fehlender Transparenz.",
+              "icon": "🔓",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/a0e4ae38-9e73-4c57-0000-000000000000_w520_r2.08.jpg",
+              "kurz": "Anthropic hält «Claude Mythos» unter Verschluss – die KI kann Sicherheitslücken in Software erkennen. Nun haben Unbefugte offenbar Zugang erlangt.",
+              "summary": "«Claude Mythos» ist ein internes KI-System von Anthropic, das in der Lage ist, Sicherheitslücken in Software selbständig zu erkennen und Cyberangriffe zu ermöglichen. Das Unternehmen hat es deshalb nicht veröffentlicht. Laut übereinstimmenden Berichten von Spiegel und TechCrunch haben sich unbekannte Akteure nun Zugang zum System verschafft.",
+              "gegenstimme": "Anthropic bestreitet, dass ihre Kernsysteme kompromittiert wurden, und untersucht die Vorfälle. Sicherheitsexperten betonen, dass solche Leaks auch zeigen, warum gefährliche KI-Systeme besser unter internationaler Aufsicht als in privaten Unternehmenshänden sein sollten.",
               "sources": [
-                {
-                  "name": "cash.ch",
-                  "url": "https://www.cash.ch/news/top-news/trump-deutet-ende-der-pentagon-sperre-fur-anthropic-an-929726"
-                },
                 {
                   "name": "TechCrunch",
-                  "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/"
+                  "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/netzwelt/maechtige-anthropic-ki-unbefugte-sollen-zugang-zu-claude-mythos-erlangt-haben-a-60d91f79-5e2e-4907-ab81-2afc044b3180"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-meta-keystrokes-ki-training",
+              "slug": "meta-keystrokes-ki-training",
+              "title": "Meta zeichnet Mitarbeiter-Tastatureingaben auf – für KI-Training",
+              "date": "2026-04-22",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c11/live/cvglyklz49jo.jpg",
+              "kurz": "Meta nutzt ein internes Tool, das Mausbewegungen, Klicks und Tastatureingaben von Mitarbeitern erfasst, um KI-Modelle zu trainieren.",
+              "summary": "Meta hat ein internes Überwachungssystem eingeführt, das die Arbeitsweise seiner Mitarbeiter – Mausbewegungen, Tastaturanschläge, Klicks – in Echtzeit aufzeichnet und daraus Trainingsdaten für KI-Modelle generiert. Das Unternehmen sieht darin einen legitimen Weg, an Daten aus der realen Arbeitswelt zu kommen.",
+              "gegenstimme": "Arbeitnehmerrechtsorganisationen und Datenschützer kritisieren das Vorgehen scharf. Die Grenze zwischen Produktivitätsmonitoring und Überwachung sei hier klar überschritten. In der EU könnten solche Praktiken gegen die DSGVO verstossen.",
+              "sources": [
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/"
+                },
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cvglyklz49jo"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-palantir-manifest-tech-republik",
+              "slug": "palantir-manifest-tech-republik",
+              "title": "Palantir-Chef Karp: «Wir wollen eine militarisierte Techrepublik»",
+              "date": "2026-04-22",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "🏭",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/8ms1rQ9tq4H8_oH6r02pzx.jpg",
+              "kurz": "Palantir-CEO Alex Karp publiziert ein 22-Punkte-Manifest: Die Firma will aktiv an einer militarisierten Neuordnung der USA mitwirken.",
+              "summary": "Der CEO des umstrittenen Datana-lyse-Konzerns Palantir, Alex Karp, hat ein 22-Punkte-Manifest veröffentlicht, in dem er eine neue politische Ordnung der USA mit technologischer und militärischer Vorherrschaft beschreibt. Palantir stellt Software für Polizei, Geheimdienste und Militär her und versteht sich nun explizit als politischer Akteur.",
+              "gegenstimme": "Bürgerrechtler und Tech-Kritiker in den USA und Europa warnen vor der Normalisierung von Überwachungssoftware und dem Verschwimmen von Unternehmens- und Staatsinteressen. Europäische Datenschützer sehen in Palantirs Expansionsplänen eine direkte Bedrohung für demokratische Grundwerte.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/palantir-will-militarisierte-tech-republik-schaffen-872828070491"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/palantir-will-militarisierte-tech-republik-schaffen-872828070491"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-22-spacex-cursor-kaufoption",
+              "slug": "spacex-cursor-kaufoption",
+              "title": "SpaceX will KI-Coding-Tool Cursor für 60 Milliarden Dollar kaufen",
+              "date": "2026-04-22",
+              "time": "07:00",
+              "category": "tech",
+              "icon": "🚀",
+              "edition": "morning",
+              "image": "",
+              "kurz": "SpaceX hat eine Partnerschaft mit dem KI-Codeeditor Cursor geschlossen und sich eine Kaufoption für 60 Milliarden Dollar gesichert.",
+              "summary": "SpaceX hat eine strategische Partnerschaft mit Anysphere (Entwickler von Cursor) vereinbart und sich gleichzeitig eine Option gesichert, den Startup später im Jahr für 60 Milliarden Dollar zu übernehmen. Cursor ist der derzeit führende KI-gestützte Codeeditor und wird von Hunderttausenden Entwicklern weltweit genutzt.",
+              "gegenstimme": "Kritiker sehen in der Transaktion weniger einen strategischen Coup als eine Notlösung: Weder SpaceX/xAI noch Cursor verfügt über eigene KI-Modelle, die mit Anthropic oder OpenAI mithalten können. Die Zusammenarbeit kaschiere strukturelle Schwächen beider Unternehmen.",
+              "sources": [
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/"
                 }
               ]
             }
