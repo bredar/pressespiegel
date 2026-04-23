@@ -1,5 +1,5 @@
 {
-  "updated": "09:37 UTC",
+  "updated": "15:07 UTC",
   "days": [
     {
       "date": "2026-04-23",
@@ -493,6 +493,191 @@
                 {
                   "name": "NZZ",
                   "url": "https://www.nzz.ch/wirtschaft/wirtschaft-wto-scheitert-vorerst-an-einigung-zu-digitalzoellen-ld.1931622"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "18:00",
+          "articles": [
+            {
+              "id": "2026-04-23-arctic-metagaz-mittelmeer-havariert",
+              "slug": "arctic-metagaz-mittelmeer-havariert",
+              "title": "Russischer LNG-Tanker «Arctic Metagaz» führerlos im Mittelmeer – Bergung erneut gescheitert",
+              "date": "2026-04-23",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🚢",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/c809da55-e7a5-4c29-934e-9e247ec39797_w520_r2.08_fpx33.43_fpy50.jpg",
+              "kurz": "Der russische Flüssiggas-Tanker treibt seit über einem Monat herrenlos im Mittelmeer. Eine weitere Abschleppmission ist soeben gescheitert.",
+              "summary": "Der russische LNG-Tanker «Arctic Metagaz» treibt seit mehr als einem Monat ohne Besatzung und ohne Steuerung im Mittelmeer. Laut libyschen Behörden ist das Schiff «komplett ausser Kontrolle». Eine neue Abschleppmission ist am 23. April gescheitert. Umweltschützer und Schifffahrtsbehörden sind alarmiert.",
+              "gegenstimme": "Russland schweigt über den Verbleib der Besatzung und die Ursache der Havarie. Westliche Experten vermuten, dass die Umgehung von Sanktionen und die schlechte Wartung der russischen Schattenflotte ursächlich sind – Moskau bestreitet dies.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle-a-a4048811-709e-477c-8ef7-8e8c06db82ff"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-iran-hormus-trump-schuss-minenleger",
+              "slug": "iran-hormus-trump-schuss-minenleger",
+              "title": "Update Iran: Trump befiehlt US-Navy, Minenleger in der Strasse von Hormus zu beschiessen",
+              "date": "2026-04-23",
+              "time": "17:00",
+              "category": "international",
+              "icon": "⚔️",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images//320ws/d071bab.webp",
+              "kurz": "Trump eskaliert: US-Navy soll Boote die Minen legen sofort versenken. Gleichzeitig beschlagnahmt Amerika einen iranischen Öltanker.",
+              "summary": "US-Präsident Trump hat die Marine angewiesen, jedes Boot das in der Strasse von Hormus Minen verlegt unverzüglich zu beschiessen und zu zerstören. Parallel betritt die US-Navy einen iranischen Öltanker. Die Waffenruhe wackelt, während Trump Teheran nur wenige Tage für ein Friedensangebot gibt.",
+              "gegenstimme": "Kritiker warnen, eine solche Schiessbefugnis ohne klares Mandat riskiere unbeabsichtigte Eskalation. Iran bezeichnet die US-Massnahmen als Seeraub und kündigt Gegenmassnahmen an.",
+              "sources": [
+                {
+                  "name": "SRF News",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-trump-befiehlt-beschuss-von-minenlegern-in-strasse-von-hormus"
+                },
+                {
+                  "name": "BBC World",
+                  "url": "https://www.bbc.com/news/live/c0mjev4kn9jt"
+                },
+                {
+                  "name": "NZZ Live-Ticker",
+                  "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-iran-pahlavi-berlin-exil",
+              "slug": "iran-pahlavi-berlin-exil",
+              "title": "Schahs Sohn Reza Pahlavi in Berlin: «Es ist an der Zeit, dass ihr handelt»",
+              "date": "2026-04-23",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2026/04/23/22846fda-cd98-4ca7-825b-68cd59a19c2d.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3674,3674,x916,y0",
+              "kurz": "Irans Exil-Kronprinz Reza Pahlavi fordert Europa auf, das Mullah-Regime nicht mehr zu beschwichtigen. Berlin meidet ihn offiziell.",
+              "summary": "Reza Pahlavi – Sohn des letzten Schahs und Hoffnungsträger der iranischen Opposition – besuchte Berlin und appellierte an Europa, den Druck auf Teheran zu erhöhen. Die Bundesregierung lehnte offizielle Gespräche ab und bezeichnete ihn als 'Privatmann'. Nur einzelne Abgeordnete wie CDU-Mann Armin Laschet empfingen ihn.",
+              "gegenstimme": "Kritiker im Westen warnen, dass Pahlavi als Symbol der alten Monarchie für viele Iraner keine legitime Alternative darstellt. Die Bundesregierung betont, das iranische Volk müsse selbst über seine Führung entscheiden.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/es-ist-an-der-zeit-dass-ihr-handelt-reza-pahlavi-der-sohn-des-letzten-iranischen-schahs-besucht-berlin-ld.10003697"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-trump-befiehlt-beschuss-von-minenlegern-in-strasse-von-hormus"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-rumaenien-koalition-sparpolitik",
+              "slug": "rumaenien-koalition-sparpolitik",
+              "title": "Rumänien: Regierungskoalition zerbricht am Sparstreit",
+              "date": "2026-04-23",
+              "time": "17:00",
+              "category": "international",
+              "icon": "🇪🇺",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/b548cd17-1db0-4a19-9e4e-e5790fc2c90c_w520_r2.08_fpx68.66_fpy45.jpg",
+              "kurz": "Rumäniens Sozialdemokraten verlassen die Koalition. Premier Bolojan will sparen, die PSD lehnt ab – Sorgen um prowestliche Stabilität wachsen.",
+              "summary": "Rumäniens Regierungskoalition ist an einem Streit über Austeritätsmassnahmen zerbrochen. Premier Ilie Bolojan will die Staatsfinanzen sanieren, doch die Sozialdemokraten (PSD) stiegen aus der Koalition aus. Beobachter in Brüssel befürchten, dass das politische Vakuum antiwestlichen Kräften Auftrieb geben könnte.",
+              "gegenstimme": "Die Sozialdemokraten argumentieren, die Sparmassnahmen träfen vor allem die Bevölkerung und gefährdeten den sozialen Zusammenhalt. Premier Bolojan und die proeuropäischen Kräfte halten dagegen, ohne Konsolidierung drohe Rumänien eine Schuldenkrise.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/rumaenien-koalition-zerbricht-an-sparpolitik-a-e0a521da-28e2-42a8-83c4-018841b8daa7"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-roche-trump-us-haelfte-jobs",
+              "slug": "roche-trump-us-haelfte-jobs",
+              "title": "Roche-Chef warnt: Hälfte der Konzern-Jobs hängt am US-Geschäft – Trump bedroht es",
+              "date": "2026-04-23",
+              "time": "17:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/4c1T8JFSaG19Na4MtsorKg.jpg",
+              "kurz": "Roche-CEO Schinecker schlägt Alarm: Trumps Preispolitik für Medikamente gefährdet das US-Geschäft, das 50% der weltweiten Konzernstellen trägt.",
+              "summary": "Roche-Chef Thomas Schinecker warnt öffentlich, dass Trumps politische Eingriffe in die US-Medikamentenpreise das Geschäftsmodell des Basler Pharmakonzerns gefährden. Rund die Hälfte aller Roche-Stellen weltweit hängt direkt oder indirekt am US-Markt. Der CEO sagt: «Wir arbeiten sehr hart an Lösungen.»",
+              "gegenstimme": "Befürworter von Trumps Preisregulierung halten dagegen, dass die überhöhten US-Arzneimittelpreise auf Kosten der amerikanischen Bevölkerung gehen. Für Pharmafirmen wie Roche sei der US-Markt überdurchschnittlich profitabel.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/roche-haelfte-der-jobs-haengt-von-usa-ab-trump-droht-schweiz-476746916947"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-swiss-lufthansa-billigtarif-kabine",
+              "slug": "swiss-lufthansa-billigtarif-kabine",
+              "title": "Swiss und Lufthansa Group führen neuen Ultrabillitarif ein – Kabinenkoffer werden kostenpflichtig",
+              "date": "2026-04-23",
+              "time": "17:00",
+              "category": "schweiz",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/04/23/3552fdbb-a31e-402e-9eb0-c30701d23bb7.jpg?s=7ff41d11b8b4ad49adb7581af40dcbc4",
+              "kurz": "Lufthansa führt bei Swiss und anderen Töchtern einen neuen Billigtarif ein: Nur eine Laptoptasche ist kostenlos. Wer einen Trolley mitbringt, zahlt extra.",
+              "summary": "Die Lufthansa Group – zu der auch die Swiss gehört – führt einen neuen Günstigtarif ein, der nur noch eine kleine Laptoptasche als kostenloses Handgepäck erlaubt. Kabinenkoffer werden extra verrechnet. Der Schritt soll Konkurrenz zu Billigairlines wie Easyjet und Ryanair ermöglichen.",
+              "gegenstimme": "Konsumentenschützer kritisieren das Modell als Täuschung: Der günstige Grundtarif werde durch zahlreiche Zusatzgebühren aufgebläht. Passagiere die mit Handgepäck reisen zahlen am Ende oft mehr als beim bisherigen Tarif.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/lufthansa-group-neuer-billigtarif-bei-swiss-ohne-gratis-handgepaeck-103551360"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/pascal-schmitz-srf-setzt-schweiz-aktuell-moderator-aus-868077591264"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-bern-kunstmuseum-kredit-abstimmung",
+              "slug": "bern-kunstmuseum-kredit-abstimmung",
+              "title": "Bern: Kunstmuseum droht Teilschliessung – Abstimmungskampf um 15-Millionen-Kredit ist lanciert",
+              "date": "2026-04-23",
+              "time": "17:00",
+              "category": "regional",
+              "icon": "📍",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/3kJmNwR5qLhB5u4hnx9PB9.jpg",
+              "kurz": "Das Kunstmuseum Bern braucht 15 Millionen für dringende Sanierungsarbeiten. Ein Komitee warnt: Ohne Kredit droht spätestens 2031 die Totalschliessung.",
+              "summary": "Ein Abstimmungskomitee hat heute den Kampf für den 15-Millionen-Projektkredit zur Sanierung des Kunstmuseums Bern eröffnet. Ohne die Mittel drohe zunächst eine Teilschliessung und ab 2031 eine Totalschliessung des traditionsreichen Hauses. Die Volksabstimmung steht kurz bevor.",
+              "gegenstimme": "Kritiker der Vorlage bezweifeln die Dringlichkeit und fragen, ob 15 Millionen ausreichen oder ob in einigen Jahren weitere Kredite folgen werden. In Zeiten knapper Stadtkassen stehe der Kulturbereich im Wettbewerb mit sozialen Ausgaben.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/kunstmuseum-bern-komitee-wirbt-fuer-15-millionen-kredit-854463670059"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-eu-china-wechselrichter-foerderverbot",
+              "slug": "eu-china-wechselrichter-foerderverbot",
+              "title": "EU stoppt Förderung von chinesischen Solar-Wechselrichtern – Hacking-Risiko als Begründung",
+              "date": "2026-04-23",
+              "time": "17:00",
+              "category": "wirtschaft",
+              "icon": "💡",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/a5e2cc95-c422-4e5e-9d01-76b078b3f989_w520_r2.08_fpx65.06_fpy49.99.jpg",
+              "kurz": "Brüssel streicht diskret und sofort die Förderung für chinesische Solar- und Batterie-Wechselrichter. Begründung: Gefahr durch Hacker.",
+              "summary": "Die EU-Kommission hat ohne öffentliche Ankündigung die Förderung für alle Solar- und Batterie-Wechselrichter aus China gestrichen. Die Massnahme gilt ab sofort. Als Grund nennt Brüssel das Risiko, dass chinesische Wechselrichter als Einfallstor für Hacker auf die europäische Energieinfrastruktur missbraucht werden könnten.",
+              "gegenstimme": "Kritiker in der Solarbranche warnen, dass das Förderverbot kurzfristig die Energiewende verzögert, da chinesische Wechselrichter oft deutlich günstiger sind als europäische Alternativen. Zudem fehle ein klares Kompensationsangebot für betroffene Haushalte und Unternehmen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/soziales/eu-kommission-stoppt-foerderung-von-chinesischen-wechselrichtern-a-02b04614-9c1a-492e-ac05-235082b37827"
                 }
               ]
             }
