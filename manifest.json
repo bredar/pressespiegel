@@ -1,5 +1,5 @@
 {
-  "updated": "04:13 UTC",
+  "updated": "09:37 UTC",
   "days": [
     {
       "date": "2026-04-23",
@@ -316,6 +316,183 @@
                 {
                   "name": "Google Cloud Blog",
                   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-04-23-daenemark-zugunfall",
+              "slug": "daenemark-zugunfall",
+              "title": "Zugunglück in Dänemark: 17 Verletzte, vier in Lebensgefahr",
+              "date": "2026-04-23",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🚂",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2026/04/23/29eca6ab-38f9-4148-ab55-a91ff73df17c.jpg",
+              "kurz": "Zwei Züge kollidierten am Donnerstagmorgen in Nordseeland – 17 Verletzte, vier davon in Lebensgefahr.",
+              "summary": "In Dänemark kollidierten am frühen Donnerstagmorgen zwei Züge auf der Strecke zwischen Hilleröd und Kagerup in Nordseeland. Laut Reuters wurden 17 Personen verletzt, vier davon schweben in Lebensgefahr. Der Einsatzleiter sprach von einem Aufprall mit «relativ hoher Geschwindigkeit». Niemand sei eingeklemmt gewesen. Die Ursache des Unglücks ist noch unklar.",
+              "gegenstimme": "Die dänische Transportsicherheitsbehörde hat Ermittlungen eingeleitet. Bis die Ursache geklärt ist, bleiben Spekulationen über menschliches Versagen oder technische Defekte verfrüht.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/panorama/in-daenemark-sind-zwei-zuege-kollidiert-vier-personen-schweben-in-lebensgefahr-ld.10004096"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/world-europe"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-israel-libanon-journalist-luftangriff",
+              "slug": "israel-libanon-journalist-luftangriff",
+              "title": "Israel tötet Journalistin im Libanon – Ambulanz blockiert",
+              "date": "2026-04-23",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🎙️",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1474/live/4d6990d0-3eb6-11f1-bd52-e755d604ece4.jpg",
+              "kurz": "Israelische Luftangriffe töteten die Journalistin Amal Khalil in Südlibanon. Libanons PM wirft Israel Kriegsverbrechen vor.",
+              "summary": "Israelische Luftangriffe haben in Südlibanon die Journalistin Amal Khalil (43) von der Zeitung Al-Akhbar getötet und eine freischaffende Fotografin verletzt. Libanesische Behörden werfen Israel vor, die beiden Frauen gezielt angegriffen zu haben – auch als sie in einem Haus Schutz suchten. Eine Rotkreuz-Ambulanz wurde laut Berichten durch israelisches Feuer blockiert. Die IDF bestreitet das gezielte Targeting von Journalistinnen.",
+              "gegenstimme": "Die IDF erklärte, die Fahrzeuge hätten von einem militärischen Hezbollah-Stützpunkt aus eine Sicherheitslinie überschritten und eine Bedrohung für israelische Truppen dargestellt. Das Umfeld der Journalisten sei nicht bekannt gewesen.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c5yvn036evlo"
+                },
+                {
+                  "name": "Reporters Without Borders",
+                  "url": "https://rsf.org"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-slowakei-druschba-oel-russland",
+              "slug": "slowakei-druschba-oel-russland",
+              "title": "Slowakei gibt EU-Sanktionsblockade auf – Russisches Öl fliesst wieder",
+              "date": "2026-04-23",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/e6103209-3c24-4a3b-939c-1870f76fc682_w520_r2.08_fpx33.32_fpy49.98.jpg",
+              "kurz": "Russisches Erdöl fliesst wieder durch die Druschba-Pipeline in die Slowakei – im Tausch hebt Bratislava die Blockade gegen EU-Sanktionen auf.",
+              "summary": "Nach einer rund dreimonatigen Unterbrechung fliesst wieder russisches Rohöl über die Druschba-Pipeline durch die Ukraine in die Slowakei. Gleichzeitig kündigt die Regierung von Premier Robert Fico an, die Blockade gegen das EU-Sanktionspaket gegen Russland aufzuheben. Der Deal hat grosse politische Symbolwirkung: Die Slowakei war bisher der hartnäckigste EU-Bremser bei Russland-Sanktionen.",
+              "gegenstimme": "Kritiker in der EU und in der Ukraine werfen Fico vor, wirtschaftliche Interessen über gemeinsame Sicherheitspolitik zu stellen. Das Zugeständnis könnte andere EU-Mitglieder ermutigen, ebenfalls Ausnahmen zu fordern.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/slowakei-wieder-oel-aus-russland-blockade-gegen-eu-sanktionen-endet-a-bb00cd80-b553-4b88-81d3-dc772308955c"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-uk-starmer-krise-kommunalwahl",
+              "slug": "uk-starmer-krise-kommunalwahl",
+              "title": "Starmer in der Krise: Skandale trüben Labour-Bilanz vor Kommunalwahlen",
+              "date": "2026-04-23",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🇬🇧",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/be10def7-2fe9-410e-b20e-448be1aa7114_w520_r2.08_fpx46_fpy45.jpg",
+              "kurz": "Labour-Premier Keir Starmer steckt in mehreren Skandalen und verliert Rückhalt – ausgerechnet vor den britischen Kommunalwahlen.",
+              "summary": "Weniger als ein Jahr nach dem triumphalen Wahlsieg von Labour kämpft Premier Keir Starmer mit Skandalen, Entlassungen und Vertrauensverlust. Grossbritannien fragt sich, ob Labour tatsächlich anders regiert als die konservativen Tories. Mit den Kommunalwahlen steht Starmer vor einem frühen Realitätscheck seiner Regierungsfähigkeit.",
+              "gegenstimme": "Labour-Anhänger verweisen darauf, dass Starmer in wenigen Monaten ein massives Erbe übernommen hat und systemische Probleme nicht über Nacht zu lösen sind. Umfragen zeigen Labour weiterhin vor den Tories, auch wenn der Vorsprung geschrumpft ist.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/grossbritannien-keir-starmer-wollte-das-britische-chaos-beenden-jetzt-steckt-er-selbst-drin-a-22bd3502-36f2-4b37-8120-915a50391cc5"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-oecd-mindeststeuer-schweiz-enttaeuschend",
+              "slug": "oecd-mindeststeuer-schweiz-enttaeuschend",
+              "title": "OECD-Mindeststeuer: Schweiz verdient weit weniger als erwartet",
+              "date": "2026-04-23",
+              "time": "11:30",
+              "category": "schweiz",
+              "icon": "💼",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2024/11/08/4fa6d648-820d-41da-8080-b22330318020.jpeg",
+              "kurz": "Deloitte-Studie: Die OECD-Mindeststeuer bringt der Schweiz viel weniger ein als erhofft – und setzt falsche Anreize.",
+              "summary": "Eine neue Deloitte-Studie zeigt, dass die 2024 eingeführte OECD-Mindeststeuer (15% für Grosskonzerne) der Schweiz bisher weit weniger Steuereinnahmen bringt als erwartet. Nur wenige Konzerne zahlen tatsächlich die Ergänzungssteuer. Der Bund hatte 1.5 bis 3.5 Mrd CHF pro Jahr prognostiziert – Deloitte kommt auf deutlich tiefere Werte. Dazu kommen systemische Schwächen, da USA, China und andere Länder Ausnahmen durchgesetzt haben.",
+              "gegenstimme": "Der Bund argumentiert, die Einführungsphase laufe noch und erste Erfahrungswerte seien nicht repräsentativ. Langfristig soll das System faire Bedingungen schaffen und Doppelbesteuerung verhindern.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/die-oecd-mindeststeuer-bringt-der-schweiz-bisher-weniger-als-erwartet-ld.10004008"
+                },
+                {
+                  "name": "Deloitte CH",
+                  "url": "https://www2.deloitte.com/ch"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-schweiz-corona-debatte-unaufgearbeitet",
+              "slug": "schweiz-corona-debatte-unaufgearbeitet",
+              "title": "Corona-Debatte reloaded: Wie der Fall Fischer zeigt, wie gespalten die Schweiz noch ist",
+              "date": "2026-04-23",
+              "time": "11:30",
+              "category": "schweiz",
+              "icon": "🦠",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/5B66oo1saNDBidSrufNBYJ.jpg",
+              "kurz": "Der Fall des entlassenen Eishockey-Trainers Patrick Fischer entfacht eine hochemotionale Corona-Debatte – und zeigt: Die Pandemie ist in der Schweiz gesellschaftlich nicht aufgearbeitet.",
+              "summary": "Die Entlassung von Eishockey-Nationaltrainer Patrick Fischer, der sich öffentlich gegen Covid-Impfungen positioniert hatte, hat eine intensive Debatte über Pandemie-Aufarbeitung in der Schweiz ausgelöst. TagesAnzeiger-Kolumnist Philipp Loser schreibt: Die Reaktionen zeigen, dass Corona eine tiefe gesellschaftliche Wunde hinterlassen hat, die noch nicht verheilt ist.",
+              "gegenstimme": "Andere Kommentatoren betonen, Fischer sei nicht wegen seiner Meinung entlassen worden, sondern wegen mangelnder Ergebnisse als Trainer. Corona als Erklärung zu benutzen sei eine Ablenkung von legitimen sportlichen Leistungsfragen.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/patrick-fischer-corona-pandemie-spaltet-schweiz-noch-immer-826055357472"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-bern-velostationen-kameras-sp",
+              "slug": "bern-velostationen-kameras-sp",
+              "title": "Bern: SP stimmt Kameras in Velostationen zu – zähneknirschend",
+              "date": "2026-04-23",
+              "time": "11:30",
+              "category": "regional",
+              "icon": "🚲",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/34qwjoqoqxE8xp-7-GKSX5.jpg",
+              "kurz": "Der Berner Stadtrat entscheidet heute über Videoüberwachung in Veloabstellanlagen. Die SP stimmt unter Vorbehalt zu.",
+              "summary": "Der Berner Stadtrat debattiert am Donnerstag über Kameras in städtischen Velostationen. Die SP, sonst Datenschutzverfechter, stimmt unter Vorbehalt zu – das Dilemma zwischen Datenschutz und Schutz vor massivem Velodiebstahl hat die Partei gezwungen, pragmatisch zu sein. Der Bund berichtete über den SP-internen Richtungsstreit.",
+              "gegenstimme": "Datenschutzorganisationen und ein Teil der SP sehen Videoüberwachung als unverhältnismässig an. Weniger invasive Massnahmen wie bessere Schliesssysteme oder erhöhte Polizeipräsenz seien zu wenig ausgeschöpft worden.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/kameras-in-berner-velostationen-sp-stimmt-zaehneknirschend-zu-853368659080"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-snb-verlust-nestle-quartal",
+              "slug": "snb-verlust-nestle-quartal",
+              "title": "SNB startet mit 500-Mio-Verlust ins Jahr – Nestlé wächst langsamer",
+              "date": "2026-04-23",
+              "time": "11:30",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2025/12/10/a10bd48b-db37-4477-8f06-1f58f906c999.jpg",
+              "kurz": "Die SNB verzeichnet im Q1 2026 einen Verlust von 500 Millionen Franken. Nestlé wächst mit 3.5% ebenfalls langsamer als erwartet.",
+              "summary": "Die Schweizerische Nationalbank (SNB) hat im ersten Quartal 2026 einen Verlust von 500 Millionen Franken erlitten – nach einem Gewinn von 6.7 Mrd CHF im gleichen Vorjahresquartal. Haupttreiber waren negative Devisen- und Kapitalmarktentwicklungen. Gleichentags meldete Nestlé ein verlangsamtes organisches Wachstum von 3.5% bei 21.3 Mrd CHF Umsatz – teils bedingt durch Babynahrungsrückruf und Währungseffekte.",
+              "gegenstimme": "Die SNB betonte, starke Quartalsschwankungen seien normal. UBS-Ökonomen hatten sogar einen Verlust von 1 Mrd CHF prognostiziert – insofern ist das Ergebnis besser als befürchtet.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/wirtschaft-wto-scheitert-vorerst-an-einigung-zu-digitalzoellen-ld.1931622"
                 }
               ]
             }
