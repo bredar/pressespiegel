@@ -1,679 +1,321 @@
 {
-  "updated": "15:05 UTC",
+  "updated": "04:13 UTC",
   "days": [
     {
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-04-22-cia-mexiko-diplomatische-krise",
-              "slug": "cia-mexiko-diplomatische-krise",
-              "title": "CIA-Agenten in Mexiko getötet – diplomatische Krise zwischen USA und Mexiko",
-              "date": "2026-04-22",
-              "time": "07:00",
+              "id": "2026-04-23-eu-ukraine-kredit-orban-gibt-auf",
+              "slug": "eu-ukraine-kredit-orban-gibt-auf",
+              "title": "Orban gibt nach: Alle EU-Staaten bewilligen 90-Mrd-Kredit für Ukraine",
+              "date": "2026-04-23",
+              "time": "06:00",
               "category": "international",
-              "icon": "🌎",
+              "icon": "🇺🇦",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/5H19AfNna16AtYx0L7cgS9.jpg",
-              "kurz": "Vier Personen starben bei einer US-Anti-Drogen-Operation in Mexiko. Mexikos Präsidentin Sheinbaum fordert Aufklärung über geheime US-Einsätze.",
-              "summary": "Im mexikanischen Bundesstaat Chihuahua kamen vier Personen – darunter CIA-Offiziere – bei einem Verkehrsunfall im Zusammenhang mit einer Anti-Drogen-Operation ums Leben. Die mexikanische Präsidentin Claudia Sheinbaum fordert Transparenz über geheime US-Operationen auf mexikanischem Boden und droht mit diplomatischen Konsequenzen.",
-              "gegenstimme": "Washingtons Reaktion ist zurückhaltend: Die USA betonen das Recht auf Selbstverteidigung und die Bekämpfung von Drogenkartellenals gemeinsames Interesse. Republikanische Hardliner im Kongress fordern dagegen eine noch aggressivere Gangart gegenüber Mexiko.",
+              "image": "https://cdn.unitycms.io/images/2OuJfeJ4aBA9XbdazyeMvA.jpg",
+              "kurz": "Ungarns Viktor Orban hebt seine Blockade des Ukraine-Hilfspakets auf. Alle EU-Staaten stimmen dem 90-Milliarden-Kredit zu. Gleichzeitig fliesst russisches Öl wieder durch die Druschba-Pipeline.",
+              "summary": "Kurz vor seinem Abgang als ungarischer Ministerpräsident hat Viktor Orban seinen Widerstand gegen den EU-Kredit für die Ukraine aufgegeben. Damit können alle 27 EU-Mitgliedstaaten das dringend benötigte Darlehen von 90 Milliarden Euro bewilligen. Zeitgleich fliesst russisches Öl nach monatelanger Unterbrechung wieder durch die Druschba-Pipeline nach Ungarn.",
+              "gegenstimme": "Kritiker sehen Orbans Nachgeben als Akt politischer Pragmatik: Er verlässt das Amt und will keine verbrannten Brücken hinterlassen. Einige osteuropäische Länder warnen, der Kredit reiche nicht aus, um Ukraines Verteidigungsfähigkeit langfristig zu sichern. Andere EU-Staaten fordern strengere Konditionen für die Kreditvergabe.",
               "sources": [
                 {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/mexiko-cia-offiziere-sterben-bei-einsatz-gegen-drogenlabor-957315609517"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-pakistan-iran-trump-vermittler",
-              "slug": "pakistan-iran-trump-vermittler",
-              "title": "Pakistan als stiller Vermittler zwischen Trump und Iran",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🕊️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/AJlggs174eU9m5ng_XiI-e.jpg",
-              "kurz": "Pakistan hat sich im Iran-USA-Konflikt als unverzichtbarer Vermittler etabliert – eine neue aussenpolitische Rolle für das oft gebeutelte Land.",
-              "summary": "Im Konflikt zwischen dem Iran und den USA unter Präsident Trump hat sich Pakistan als diskreter diplomatischer Vermittler profiliert. Pakistans Regierung nutzt ihre historischen Beziehungen zum Iran sowie die Notwendigkeit, Washingtons Wohlwollen zu erhalten, um eine einzigartige Mittlerrolle einzunehmen.",
-              "gegenstimme": "Skeptiker in Washington und Teheran bezweifeln, dass Pakistan diese Rolle langfristig aufrechterhalten kann. Islamabad habe eigene strategische Interessen und stehe durch seinen Atomstatus und die komplizierte Beziehung zu Afghanistan unter anderem permanent unter US-Druck.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/irankrieg-pakistans-diplomatie-zwischen-trump-und-iran-wirkt-543177657134"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-taiwan-china-eswatini-druck",
-              "slug": "taiwan-china-eswatini-druck",
-              "title": "Taiwan: Chinas Druck verhindert Reise des Präsidenten nach Eswatini",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🌏",
-              "edition": "morning",
-              "image": "https://i.guim.co.uk/img/media/4919e5caf978920f4df4d3520cf9c6051a782fe7/819_0_4320_3456/master/4320.jpg?width=460&quality=85&auto=format&fit=max",
-              "kurz": "Taiwans Präsident Lai Ching-te musste seine Afrikareise absagen, weil mehrere Länder auf Pekings Druck die Überflugrechte entzogen.",
-              "summary": "Der taiwanesische Präsident Lai Ching-te wollte zum 40-jährigen Thronjubiläum von König Mswati III. nach Eswatini reisen – dem einzigen afrikanischen Staat, der diplomatische Beziehungen zu Taiwan unterhält. Seychellen, Mauritius und Madagaskar entzogen jedoch auf massiven chinesischen Druck die Überflugrechte und zwangen zur Absage.",
-              "gegenstimme": "Peking bezeichnet Eswatinis Beziehung zu Taiwan als «Überbleibsel des Kalten Krieges» und übt systematischen Druck aus, alle verbleibenden taiwanesischen Allianzen aufzulösen. Westliche Kommentatoren sehen darin Chinas wachsende Fähigkeit, selbst kleine Inselstaaten zu disziplinieren.",
-              "sources": [
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-trump-iran-waffenruhe-ukraine",
-              "slug": "trump-iran-waffenruhe-ukraine",
-              "title": "Trump verlängert Waffenruhe mit Iran – EU-Kredit für Ukraine freigegeben",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
-              "kurz": "Trump verlängert die Waffenruhe mit Iran. Gleichzeitig soll die EU der Ukraine einen dringend benötigten Kredit freigeben.",
-              "summary": "US-Präsident Donald Trump hat die Waffenruhe mit Iran erneut verlängert, ohne bisher ein dauerhaftes Abkommen zu erzielen. Unterdessen bereitet die EU die Freigabe eines weiteren Kredits für die Ukraine vor. Bundeskanzler Merz reiste zur Klimakonferenz, wo er über die Vereinbarkeit von Wirtschaftswachstum und Klimazielen sprach.",
-              "gegenstimme": "Kritiker in Washington und Teheran warnen, dass Waffenruhen ohne konkreten diplomatischen Fortschritt lediglich Zeitgewinn für beide Seiten sind. Iran-Hardliner lehnen eine Annäherung grundsätzlich ab, während Trumps Gegner die fehlende langfristige Strategie kritisieren.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/politik/deutschland/news-donald-trump-verlaengert-iran-waffenruhe-friedrich-merz-auf-klimakonferenz-eu-kredit-fuer-ukraine-a-130e1bc0-5992-4c3b-85fe-ac5d4ab2cd98"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-abstimmung-juni-2026-schweiz",
-              "slug": "abstimmung-juni-2026-schweiz",
-              "title": "Schweizer Volksabstimmung 14. Juni: 10-Millionen-Initiative und Zivildienstreform",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🗳️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/BYD5rX9YaRpAFH6M8bQv9R.jpg",
-              "kurz": "Am 14. Juni 2026 stimmt die Schweiz über die Initiative zur Begrenzung auf 10 Millionen Einwohner und die Zivildienstreform ab.",
-              "summary": "Am 14. Juni 2026 stehen mehrere Volksabstimmungen auf der eidgenössischen Traktandenliste. Besonders im Fokus steht die Initiative zur Begrenzung der Bevölkerung auf 10 Millionen Einwohner sowie die Reform des Zivildienstes. Tamedia hat eine Umfrage gestartet, um die Meinung der Bevölkerung zu erfassen.",
-              "gegenstimme": "Die 10-Millionen-Initiative wird von Wirtschaftsverbänden und der politischen Mitte abgelehnt: Sie würde die Zuwanderung so stark einschränken, dass Fachkräftemangel und wirtschaftliche Einbussen die Folge wären. Befürworter aus dem SVP-Lager betonen hingegen Wohnungsdruck, Verkehr und Infrastrukturbelastung.",
-              "sources": [
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/abstimmung-14-juni-2026-was-steht-auf-ihrem-stimmzettel-585020751729"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/orban-setzt-versoehnliches-zeichen-alle-eu-staaten-heissen-riesen-kredit-an-die-ukraine-gut-ld.10003942"
                 },
                 {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/umfrage-10-millionen-initiative-zivildienstreform-wie-stimmst-du-ab-103546888"
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo"
+                },
+                {
+                  "name": "SRF Ukraine-Ticker",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russisches-oel-fliesst-wieder-nach-ungarn"
                 }
               ]
             },
             {
-              "id": "2026-04-22-schweiz-krisenbereitschaft-infrastruktur",
-              "slug": "schweiz-krisenbereitschaft-infrastruktur",
-              "title": "«Auf komplexe Krisen ist die Schweiz schlecht vorbereitet»",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🛡️",
+              "id": "2026-04-23-frankreich-praesidentschaft-2027-rennen",
+              "slug": "frankreich-praesidentschaft-2027-rennen",
+              "title": "Frankreich 2027: Der Machtkampf um Macrons Nachfolge beginnt",
+              "date": "2026-04-23",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🇫🇷",
               "edition": "morning",
-              "image": "https://image.20min.ch/2026/04/20/08567ad8-4078-49f4-aac2-95f932cfc057.jpg",
-              "kurz": "Laut Accenture-Experte fehlt der Schweiz bei der kritischen Infrastruktur Redundanz und Interoperabilität zwischen Behörden.",
-              "summary": "Michel Schafer von der Unternehmensberatung Accenture kritisiert, dass die Schweiz bei kritischer Infrastruktur auf zwei entscheidende Komponenten verzichtet: systemische Redundanz und Interoperabilität zwischen Behörden und privaten Betreibern. Bei einem kombinierten Cyber- und Infrastrukturangriff könnte das fatale Folgen haben.",
-              "gegenstimme": "Das Bundesamt für Bevölkerungsschutz (BABS) und das Nationale Zentrum für Cybersicherheit (NCSC) widersprechen einer pauschalen Untätigkeit: Es existieren Notfallpläne und Koordinationsmechanismen. Kritiker halten diese aber für unzureichend angesichts moderner hybrider Bedrohungen.",
+              "image": "",
+              "kurz": "Ein Jahr vor der Präsidentschaftswahl sortiert sich Frankreichs Politik neu. Macron darf nicht mehr antreten. Das Rennen ist offen – sechs Namen stehen im Fokus.",
+              "summary": "Im April 2027 wählt Frankreich einen neuen Präsidenten. Emmanuel Macron ist verfassungsrechtlich ausgeschlossen. Das Handelsblatt analysiert den aufkeimenden Machtkampf: Die politische Mitte ist geschwächt, links wie rechts gibt es starke Kandidaten. Sechs Namen prägen bereits die Diskussion.",
+              "gegenstimme": "Politologen warnen: Prognosen ein Jahr vor der Wahl haben historisch wenig Aussagekraft – Frankreichs Präsidentschaftsrennen dreht sich oft erst in den letzten drei Monaten. Zudem ist das Wahlsystem (zwei Runden) oft überraschend: Wer in der ersten Runde vorne liegt, gewinnt nicht zwingend.",
               "sources": [
                 {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/kritische-infrastruktur-schweiz-das-ist-die-achillesferse-103549490"
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/international/frankreich-der-machtkampf-um-macrons-nachfolge-hat-begonnen/100213171.html"
                 }
               ]
             },
             {
-              "id": "2026-04-22-schweizer-exporte-tiefstand-zoelle",
-              "slug": "schweizer-exporte-tiefstand-zoelle",
-              "title": "Schweizer Exporte auf tiefstem Stand seit Herbst 2021",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
+              "id": "2026-04-23-iran-hormus-schiffe-beschlagnahmt",
+              "slug": "iran-hormus-schiffe-beschlagnahmt",
+              "title": "Iran beschlagnahmt Schiffe – Hormus bleibt gesperrt",
+              "date": "2026-04-23",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🚢",
               "edition": "morning",
-              "image": "https://www.srf.ch/static/cms/images//320ws/ec1ca6.webp",
-              "kurz": "Die Schweizer Exporte sind im ersten Quartal 2026 auf den tiefsten Stand seit Herbst 2021 gesunken – besonders die USA-Ausfuhren sind eingebrochen.",
-              "summary": "Im ersten Quartal 2026 sanken die Schweizer Exporte um 4.2 Prozent auf 66.94 Milliarden Franken – der tiefste Wert seit Herbst 2021. Die Ausfuhren in die USA brachen um 15.6 Prozent ein. Am stärksten betroffen ist die Pharmabranche, die bereits den vierten Rückgang in Folge verzeichnet. Uhren und Fahrzeuge trotzten dem Trend.",
-              "gegenstimme": "Wirtschaftsverbände weisen darauf hin, dass die Schweizer Exportwirtschaft strukturell robust ist und temporäre Einbrüche durch Zölle historisch immer überstanden hat. Zudem bleibt die Kaufkraft im Inland hoch, was die Binnenwirtschaft stützt.",
+              "image": "https://cdn.prod.www.spiegel.de/images/31e98933-60a4-4081-ac68-0563f01bdc2c_w520_r2.08_fpx53_fpy53.jpg",
+              "kurz": "Iran beschlagnahmte zwei Frachtschiffe in der Strasse von Hormus. Teheran erklärt Wiedereröffnung als unmöglich – Trump verlängert Waffenruhe ohne neues Ultimatum.",
+              "summary": "Iran hat am Mittwoch zwei Frachtschiffe (MSC Francesca und Epaminondas) in der Strasse von Hormus beschlagnahmt. Teherans Chefunterhändler sagt, eine Wiedereröffnung der Wasserstrasse sei wegen 'flagranter Waffenstillstandsverletzungen' durch USA und Israel unmöglich. Trump verlängerte die Waffenruhe auf unbestimmte Zeit – das zweite Mal in zwei Wochen. Gleichzeitig trat Marine-Staatssekretär John Phelan zurück.",
+              "gegenstimme": "Das Weisse Haus betont: Trump ist mit der laufenden Seeblockade 'zufrieden' und sieht Iran in einer schwachen Position. Konservative US-Analysten warnen, die offene Verlängerung ohne Deadline sende ein Zeichen der Schwäche. Hardliner in Teheran nutzen die Situation, um moderate Unterhändler unter Druck zu setzen.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/c3w3vqv0edpo"
+                },
+                {
+                  "name": "BBC – Trump buys time",
+                  "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/iran-usa-konflikt-waffenruhe-verlaengert-aber-keine-entspannung-ld.10003955"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-will-waffenruhe-offenbar-nur-um-wenige-tage-verlaengern-john-phelan-verlaesst-us-regierung-a-9699ad41-ee1e-4130-b2e1-af7f54cd31f4"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-uk-aermelkanal-frankreich-760-millionen",
+              "slug": "uk-aermelkanal-frankreich-760-millionen",
+              "title": "UK zahlt Frankreich 760 Mio für Ärmelkanal-Schutz",
+              "date": "2026-04-23",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🚤",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/6a315fc7-070c-48b6-876b-c0a7ed8fee2f_w520_r2.08_fpx60_fpy50.jpg",
+              "kurz": "Grossbritannien und Frankreich einigen sich auf ein neues Dreijahresabkommen: 760 Millionen Euro für verstärkte Grenzkontrollen im Ärmelkanal gegen illegale Migrationsüberfahrten.",
+              "summary": "UK zahlt Frankreich im Rahmen eines neuen Dreijahresabkommens bis zu 762 Millionen Euro (£662 Mio) für Massnahmen gegen illegale Bootsüberfahrten im Ärmelkanal. Geplant sind Drohnen, Hubschrauber und fast 1100 Sicherheitskräfte. Ein Teil der Zahlungen ist an konkrete Ergebnisse geknüpft.",
+              "gegenstimme": "Migrationsorganisationen kritisieren den Ansatz als kurzfristig und inhumane Abschreckungspolitik. Frankreichs linke Opposition sieht darin eine Unterwerfung unter britischen Druck. Experten bezweifeln, ob Geldtransfers allein die Überfahrten dauerhaft reduzieren können – bisherige Abkommen hatten gemischten Erfolg.",
+              "sources": [
+                {
+                  "name": "BBC News",
+                  "url": "https://www.bbc.com/news/articles/cz0ev7enk2lo"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/migrationsroute-aermelkanal-grossbritannien-zahlt-frankreich-bis-zu-760-millionen-euro-fuer-kontrollen-a-5d5a36b0-fb25-41c3-bc47-134de1946ea4"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-schweiz-kerosin-72-tage-vorrat",
+              "slug": "schweiz-kerosin-72-tage-vorrat",
+              "title": "Schweiz hat noch 72 Tage Kerosin – EU sucht Antwort",
+              "date": "2026-04-23",
+              "time": "06:00",
+              "category": "schweiz",
+              "icon": "✈️",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/a1837363-fc95-40df-8900-57d6a8d9ea01_w520_r2.08_fpx47.5_fpy49.99.jpg",
+              "kurz": "Die Schweiz schlittert auf eine Kerosinknappheit zu: Vorräte reichen noch für 72 Tage, das Minimum sind 90. Die EU findet keine gemeinsame Antwort.",
+              "summary": "Die Kerosinvorräte der Schweiz sind auf kritisch tiefe 72 Tage gesunken – das vorgeschriebene Minimum liegt bei 90 Tagen. Der Grund: die anhaltende Blockade der Strasse von Hormuz treibt die Ölpreise und schränkt die Versorgung ein. Während die EU keine klare Antwort findet, werben Mitgliedstaaten für Sommerflugreisen und gewähren Tankrabatte.",
+              "gegenstimme": "Die Flugbranche betont, kurzfristig keine Kapazitäten drastisch reduzieren zu können. Energiepolitische Experten warnen vor staatlichen Eingriffen in den Marktmechanismus. Andere Staaten wie Deutschland setzen auf Tankrabatte, was die Nachfrage eher ansteigen lässt.",
+              "sources": [
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/swiss-abroad/heute-in-der-schweiz/91296435"
+                },
+                {
+                  "name": "Spiegel Wirtschaft",
+                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-warnungen-vor-kerosinmangel-zugleich-werbung-fuer-sommerfluege-a-230aeef0-3db8-48ba-9703-4d5cb1f9a588"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-ubs-eigenkapital-reaktion-nzz-kritik",
+              "slug": "ubs-eigenkapital-reaktion-nzz-kritik",
+              "title": "Update: UBS lehnt Eigenkapital-Auflagen ab – NZZ kritisiert Bundesrat",
+              "date": "2026-04-23",
+              "time": "06:00",
+              "category": "schweiz",
+              "icon": "🏦",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/8Z2pT18CKJHBIi3YWBxSQZ.jpg",
+              "kurz": "UBS kritisiert die Eigenkapitalvorschläge des Bundesrats scharf. NZZ urteilt: Der Bundesrat handelt mutlos und gefährdet die Stabilität der letzten Schweizer Grossbank.",
+              "summary": "Nachdem der Bundesrat gestern seine Eigenkapitalvorschriften für die UBS präsentiert hat, reagiert die Bank heute mit scharfer Kritik. Laut SRF-Experte Aymo Brunetti werde die UBS das 'ohne weiteres wegstecken können'. Die NZZ schiesst trotzdem gegen den Bundesrat: Die Regulierung gefährde die Stabilität der letzten Grossbank, das Parlament müsse nachbessern.",
+              "gegenstimme": "Finanzministerin Karin Keller-Sutter verteidigt den Vorschlag: Der Bund sei der UBS 'ein Stück weit entgegengekommen', stelle aber eine Bedingung. Die UBS argumentiert, zusätzliche Eigenkapitalpflichten schadeten der internationalen Wettbewerbsfähigkeit und würden Kapital binden, das besser investiert wäre.",
               "sources": [
                 {
                   "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/bilanz-erstes-quartal-2026-weniger-waren-ins-ausland-schweizer-exporte-fallen-auf-tiefstand"
+                  "url": "https://www.srf.ch/news/schweiz/lex-ubs-die-ubs-wehrt-sich-weiter"
                 },
                 {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/erstes-quartal-wegen-trump"
+                  "name": "SRF – Experte Brunetti",
+                  "url": "https://www.srf.ch/news/wirtschaft/eigenkapitalvorschriften-die-ubs-wird-das-ohne-weiteres-wegstecken-koennen"
+                },
+                {
+                  "name": "NZZ Kommentar",
+                  "url": "https://www.nzz.ch/meinung/der-bundesrat-handelt-mutlos-im-umgang-mit-der-ubs-ld.10004024"
                 }
               ]
             },
             {
-              "id": "2026-04-22-kandersteg-asylunterkunft-widerstand",
-              "slug": "kandersteg-asylunterkunft-widerstand",
-              "title": "Kandersteg: Über 300 Unterschriften gegen Asylunterkunft für 200 Personen",
-              "date": "2026-04-22",
-              "time": "07:00",
+              "id": "2026-04-23-us-botschafterin-bern-gingrich",
+              "slug": "us-botschafterin-bern-gingrich",
+              "title": "Wer vertritt Trump in Bern? Callista oder Newt Gingrich?",
+              "date": "2026-04-23",
+              "time": "06:00",
+              "category": "schweiz",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/8Z2pT18CKJHBIi3YWBxSQZ.jpg",
+              "kurz": "Tagesanzeiger: US-Botschafterin Callista Gingrich gilt als wenig dossierfest. Ihr Mann Newt gibt den Ton an. Das diplomatische Bern ist irritiert.",
+              "summary": "Laut Tagesanzeiger ist die offizielle US-Botschafterin in der Schweiz, Callista Gingrich, vor Ort als wenig dossierfest bekannt. Ihr Mann – der frühere US-Sprecher des Repräsentantenhauses Newt Gingrich – mische sich aktiv in die Botschaftspolitik ein und gebe de facto den Ton an. Im diplomatischen Umfeld Berns habe das für Irritationen gesorgt.",
+              "gegenstimme": "Das Weisse Haus sieht in der Praxis keine Probleme: Die USA haben diplomatisch immer mit dem gearbeitet, der am Tisch sitzt. Historisch ist es nicht ungewöhnlich, dass politische Botschafter – ohne Karrierediplomaten-Erfahrung – auf das Netzwerk ihres Umfelds setzen.",
+              "sources": [
+                {
+                  "name": "Tagesanzeiger",
+                  "url": "https://www.tagesanzeiger.ch/us-botschafterin-in-bern-newt-redet-callista-gingrich-drein-559057344272"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-velounfaelle-schweiz-helmpflicht",
+              "slug": "velounfaelle-schweiz-helmpflicht",
+              "title": "Mehr tödliche Velounfälle in der Schweiz – Debatte um Helmpflicht",
+              "date": "2026-04-23",
+              "time": "06:00",
+              "category": "schweiz",
+              "icon": "🚲",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/FfqomSs-KTGAt4owgZt7VQ.jpg",
+              "kurz": "Die Schweiz verzeichnet mehr tödliche Velounfälle als europäische Länder, obwohl es dort weniger Frostnächte gibt. Ein neuer Bericht entfacht Debatte über Helmpflicht und getrennte Velowege.",
+              "summary": "Ein neuer internationaler Vergleich zeigt: In der Schweiz steigt die Zahl tödlicher Velounfälle – während sie in den meisten europäischen Ländern sinkt. Ein Bericht liefert nun politischen Zündstoff: Braucht die Schweiz eine Helmpflicht? Oder sind getrennte Velowege die bessere Antwort?",
+              "gegenstimme": "Veloverbände wehren sich gegen Helmpflicht: Sie schrecke Menschen vom Velofahren ab und verlagere die Verantwortung zu Unrecht auf die Opfer. Stadtplaner betonen, strukturelle Massnahmen (Velostrassen, Begegnungszonen) seien wirksamer als gesetzliche Pflichten.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/velounfaelle-schweiz-zahl-der-toten-steigt-kommt-die-helmpflicht-923804667195"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-bern-kita-missbrauch-schwarze-liste",
+              "slug": "bern-kita-missbrauch-schwarze-liste",
+              "title": "Bern: Mutmassliche Kita-Missbrauchsfälle – Ruf nach schwarzer Liste",
+              "date": "2026-04-23",
+              "time": "06:00",
               "category": "regional",
-              "icon": "🏔️",
+              "icon": "🔴",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/FpUVOk204999bay_BOtudP.jpg",
-              "kurz": "In Kandersteg sammeln Privatpersonen Unterschriften gegen eine geplante Asylunterkunft am Ortseingang. Der Kanton Bern soll 200 Personen unterbringen.",
-              "summary": "Der Kanton Bern plant eine Kollektivunterkunft für 200 Asylsuchende am Ortseingang von Kandersteg. Innert drei Wochen haben über 300 Privatpersonen eine Petition gegen das Projekt unterzeichnet. Der Widerstand kommt laut Der Bund von einer breiten Bevölkerungskoalition, nicht nur von einem politischen Lager.",
-              "gegenstimme": "Der Kanton Bern verweist auf die rechtliche Pflicht zur Unterbringung von Asylsuchenden und betont, Kandersteg sei nicht überproportional belastet. Hilfswerke erinnern daran, dass viele der untergebrachten Personen Schutzsuchende aus Krisengebieten sind und eine menschenwürdige Unterbringung verdienen.",
+              "image": "https://cdn.unitycms.io/images/4qh_C7GGKDK8BGj77CcuiA.jpg",
+              "kurz": "Mutmassliche Missbrauchsfälle in Berner Kitas. Kanton prüft 10'000 Angestellte per Strafregister – doch die Frage bleibt: Braucht es eine schwarze Liste wie bei Lehrpersonen?",
+              "summary": "Mutmassliche Missbrauchsfälle in Berner Kitas haben eine politische Debatte ausgelöst. Der Kanton Bern überprüft bereits jährlich 10'000 Kita-Angestellte über das Strafregister. Experten sagen jedoch: Das reicht nicht. Die Forderung nach einer schwarzen Liste – wie sie für Lehrpersonen existiert – gewinnt Unterstützung.",
+              "gegenstimme": "Datenschützer warnen vor Überregulierung und dem Risiko von Datenmissbrauch bei zentralen Sperrlisten. Kita-Verbände betonen, dass die grosse Mehrheit ihrer Mitarbeitenden integer ist und pauschale Massnahmen das Vertrauen in die Branche untergraben.",
               "sources": [
                 {
                   "name": "Der Bund",
-                  "url": "https://www.derbund.ch/kandersteg-widerstand-gegen-geplante-kollektivunterkunft-141041631817"
+                  "url": "https://www.derbund.ch/kita-missbrauch-kanton-bern-ueberprueft-10000-angestellte-326098802996"
                 }
               ]
             },
             {
-              "id": "2026-04-22-vini-airline-bern-belp-elektro",
-              "slug": "vini-airline-bern-belp-elektro",
-              "title": "Ex-Skywork-Chef gründet neue Mini-Airline «Vini» am Flughafen Bern-Belp",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "regional",
-              "icon": "🛩️",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/AsHphx3h4eyBZJm6QSEJS3.jpg",
-              "kurz": "Tomislav Lang, ehemaliger Skywork-Chef, startet mit einer neuen Elektro-Fluggesellschaft in Bern-Belp. Das Ziel: ein «Uber der Lüfte» für Kurzstrecken.",
-              "summary": "Tomislav Lang, CEO der 2019 insolventen Skywork Airlines, kehrt mit einer neuen Idee zurück: Die Airline «Vini» soll elektrische Flugtaxis für Kurzstrecken anbieten und sich als «Uber der Lüfte» positionieren. Auch ein ehemaliger Skywork-Investor ist wieder mit dabei.",
-              "gegenstimme": "Branchenexperten stehen Elektro-Flugzeug-Startups skeptisch gegenüber: Die Batterietechnologie für kommerzielle Passagierflüge über mehr als 50 km ist noch nicht ausgereift, die Zertifizierungshürden sind hoch, und frühere Anbieter wie Lilium scheiterten trotz Milliarden-Investitionen.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/belp-ex-skywork-chef-ist-zurueck-mit-elektrofluegen-234705336277"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-credit-default-swaps-finanzkrise-warnung",
-              "slug": "credit-default-swaps-finanzkrise-warnung",
-              "title": "Credit Default Swaps zurück: US-Banken wetten gegen den Kreditmarkt",
-              "date": "2026-04-22",
-              "time": "07:00",
+              "id": "2026-04-23-e-autos-europa-boom-78-prozent",
+              "slug": "e-autos-europa-boom-78-prozent",
+              "title": "E-Auto-Boom in Europa: +78% Zulassungen – China bricht ein",
+              "date": "2026-04-23",
+              "time": "06:00",
               "category": "wirtschaft",
-              "icon": "📉",
+              "icon": "⚡",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/FFyp48aO49KA_YQIRf0TM0.jpg",
-              "kurz": "US-Banken setzen wieder auf Credit Default Swaps gegen den boomenden Markt für private Kredite. Ökonomen sehen Parallelen zur Finanzkrise 2008.",
-              "summary": "Amerikanische Grossbanken beginnen, mit sogenannten Credit Default Swaps (CDS) gegen den boomenden Markt für private Kredite zu wetten – denselben Instrumenten, die 2008 zur Finanzkrise beigetragen haben. Der Markt für Private Credit beläuft sich mittlerweile auf mehrere Billionen Dollar und ist weitgehend unreguliert.",
-              "gegenstimme": "Bankenökonomen und Marktbeobachter, die der Kreditbranche nahestehen, widersprechen dem Vergleich mit 2008: Die damaligen Subprime-Strukturen seien grundlegend anders gewesen. CDS könnten auch risikomindernde Hedging-Instrumente sein. Eine Parallele zur Finanzkrise sei voreilig.",
+              "image": "",
+              "kurz": "In Europa stiegen E-Auto-Zulassungen um 78% – angetrieben von hohen Spritpreisen. In China brechen sie um 55% ein. Marktanteil deutscher Hersteller auf Rekordtief.",
+              "summary": "Der Iran-Krieg und die daraus resultierenden hohen Treibstoffpreise befeuern die E-Auto-Nachfrage in Europa: Plus 78% Zulassungen im Vergleich zum Vorjahr. China erlebt das Gegenteil – nach dem Ende von Steuerrabatten brachen Neuzulassungen um 55% ein. Für deutsche Autobauer sinkt der Marktanteil in China auf ein Rekordtief.",
+              "gegenstimme": "Automobilexperten warnen: Der Boom in Europa ist konjunkturell getrieben (Spritpreise) und nicht strukturell. Fällt der Ölpreis nach einem Friedensschluss, könnten die Verkaufszahlen wieder einbrechen. Ladeinfrastruktur und Reichweitenangst bleiben strukturelle Hemmnisse.",
               "sources": [
                 {
-                  "name": "Tages-Anzeiger/Süddeutsche Zeitung",
-                  "url": "https://www.tagesanzeiger.ch/private-credit-us-banken-wetten-gegen-billionen-markt-723498530322"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-lufthansa-kerosinknappheit-streichungen",
-              "slug": "lufthansa-kerosinknappheit-streichungen",
-              "title": "Kerosinknappheit: Lufthansa streicht 20'000 Kurzstreckenflüge",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "wirtschaft",
-              "icon": "✈️",
-              "edition": "morning",
-              "image": "https://image.20min.ch/2026/04/19/5d2782a6-582b-417f-b37b-408e03047fab.jpg",
-              "kurz": "Der Irankrieg hat den Kerosinpreis verdoppelt. Die Lufthansa Group streicht 20'000 Kurzstreckenflüge bis Oktober – mit Auswirkungen auf die Schweiz.",
-              "summary": "Die Lufthansa Group streicht aufgrund der Kerosinknappheit bis Oktober 2026 rund 20'000 Kurzstreckenflüge aus dem Programm, was eine Einsparung von 40'000 Tonnen Treibstoff bringen soll. Der Kerosinpreis hat sich seit Beginn des Irankrieges verdoppelt. Für die Schweiz bedeutet das: Mehr Verbindungen werden über Zürich als Drehkreuz geführt statt via Frankfurt/München.",
-              "gegenstimme": "Branchenanalysten sehen darin auch eine strategische Chance für Schweizer Airports: Eine höhere Frequenz über Zürich stärkt die Hub-Position. Kleinere Flughäfen wie Basel werden jedoch weiter geschwächt. Umweltorganisationen fordern angesichts der Krise einen beschleunigten Umstieg auf emissionsärmere Technologien.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/kerosinknappheit-lufthansa-group-streicht-20-000-kurzstreckenfluege-103550323"
+                  "name": "Handelsblatt – E-Auto Europa",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/elektromobilitaet-ein-plus-von-78-prozent-darum-boomen-die-stromer-in-europa/100216743.html"
                 },
                 {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/lausanne-oelhaendler-warnen-vor-globalen-engpaessen-wegen-iran-603739170928"
+                  "name": "Handelsblatt – China",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/elektroautos-marktanteil-deutscher-hersteller-in-china-faellt-auf-rekordtief/100217441.html"
                 }
               ]
             },
             {
-              "id": "2026-04-22-anthropic-claude-mythos-zugang",
-              "slug": "anthropic-claude-mythos-zugang",
-              "title": "Anthropics KI-Hacking-Tool «Mythos»: Unbefugter Zugang gemeldet",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🔓",
+              "id": "2026-04-23-elon-musk-ein-jahr-nach-weissem-haus",
+              "slug": "elon-musk-ein-jahr-nach-weissem-haus",
+              "title": "Elon Musk – ein Jahr nach dem Weissen Haus: SpaceX glänzt, Tesla harzt",
+              "date": "2026-04-23",
+              "time": "06:00",
+              "category": "wirtschaft",
+              "icon": "🚀",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/a0e4ae38-9e73-4c57-0000-000000000000_w520_r2.08.jpg",
-              "kurz": "Anthropic hält «Claude Mythos» unter Verschluss – die KI kann Sicherheitslücken in Software erkennen. Nun haben Unbefugte offenbar Zugang erlangt.",
-              "summary": "«Claude Mythos» ist ein internes KI-System von Anthropic, das in der Lage ist, Sicherheitslücken in Software selbständig zu erkennen und Cyberangriffe zu ermöglichen. Das Unternehmen hat es deshalb nicht veröffentlicht. Laut übereinstimmenden Berichten von Spiegel und TechCrunch haben sich unbekannte Akteure nun Zugang zum System verschafft.",
-              "gegenstimme": "Anthropic bestreitet, dass ihre Kernsysteme kompromittiert wurden, und untersucht die Vorfälle. Sicherheitsexperten betonen, dass solche Leaks auch zeigen, warum gefährliche KI-Systeme besser unter internationaler Aufsicht als in privaten Unternehmenshänden sein sollten.",
+              "image": "https://cdn.prod.www.spiegel.de/images/453e7e80-d26e-416b-b9f3-17902561e73c_w520_r2.08_fpx29.99_fpy55.jpg",
+              "kurz": "NZZ-Analyse: Ein Jahr nach Musks Rückzug aus der US-Politik zieht er eine zwiespältige Bilanz. SpaceX vor grösstem Erfolg, bei Tesla und xAI harzt es aber.",
+              "summary": "Ein Jahr nachdem Elon Musk das Weisse Haus verlassen hat, analysiert die NZZ seine unternehmerische Bilanz: SpaceX steht kurz vor dem grössten Erfolg in der Firmengeschichte – doch Tesla kämpft mit Absatzschwäche und Reputationsschäden aus der Politik-Ära. xAI, Musks KI-Firma, hinkt den Konkurrenten Anthropic und OpenAI hinterher.",
+              "gegenstimme": "Tesla-Bullen argumentieren, die Q1-Erholung zeige, dass Musk ohne politische Ablenkung wieder liefert. Kritiker sehen strukturelle Probleme: China-Verluste, FSD-Enttäuschungen und ein verprelltes liberales Kundensegment. Bei xAI ist Grok gegenüber Claude und GPT-4 klar im Nachteil.",
               "sources": [
                 {
-                  "name": "TechCrunch",
-                  "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/netzwelt/maechtige-anthropic-ki-unbefugte-sollen-zugang-zu-claude-mythos-erlangt-haben-a-60d91f79-5e2e-4907-ab81-2afc044b3180"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/seit-einem-jahr-kuemmert-sich-elon-musk-wieder-um-seine-firmen-statt-die-politik-doch-seine-bilanz-ist-zwiespaeltig-ld.10004003"
                 }
               ]
             },
             {
-              "id": "2026-04-22-meta-keystrokes-ki-training",
-              "slug": "meta-keystrokes-ki-training",
-              "title": "Meta zeichnet Mitarbeiter-Tastatureingaben auf – für KI-Training",
-              "date": "2026-04-22",
-              "time": "07:00",
+              "id": "2026-04-23-tesla-q1-2026-erholung",
+              "slug": "tesla-q1-2026-erholung",
+              "title": "Tesla erholt sich: Umsatz und Gewinn steigen wieder deutlich",
+              "date": "2026-04-23",
+              "time": "06:00",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/453e7e80-d26e-416b-b9f3-17902561e73c_w520_r2.08_fpx29.99_fpy55.jpg",
+              "kurz": "Tesla meldet deutlich bessere Q1-Zahlen 2026. Umsatz und Gewinn erholen sich nach dem Absatzeinbruch 2025. Doch Musk dämpft Erwartungen – FSD für ältere Fahrzeuge bleibt aus.",
+              "summary": "Nach einem schwierigen Jahr 2025 präsentiert Tesla starke Q1-Zahlen 2026: Umsatz und Gewinn legten im Jahresvergleich deutlich zu. Tesla-CEO Elon Musk dämpfte jedoch Zukunftserwartungen: Fahrzeuge der Hardware-Generation HW3 erhalten kein unsupervised Full Self-Driving (FSD). Gleichzeitig kündigte er die Vorbereitung der ersten Optimus-Roboter-Grossfabrik an.",
+              "gegenstimme": "Kritiker weisen darauf hin, dass Tesla von höheren Autopreisen aufgrund des Iran-Kriegs profitiert – höhere Spritkosten steigern die Nachfrage nach E-Autos. Der Marktanteil in China sinkt weiter auf ein Rekordtief. Ausserdem enttäuschte Musk bei der Guidance für FSD, was Anleger belastete.",
+              "sources": [
+                {
+                  "name": "Spiegel Wirtschaft",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-umsatz-und-gewinn-steigen-nach-absatzeinbruch-wieder-deutlich-a-df70543b-5cc3-4073-9709-b16ff776f56d"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/elektroautos-musk-hat-wieder-mehr-geld-in-der-kasse-und-daempft-die-erwartungen/100218639.html"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-23-google-ki-code-75-prozent",
+              "slug": "google-ki-code-75-prozent",
+              "title": "75% von Googles neuem Code ist KI-generiert",
+              "date": "2026-04-23",
+              "time": "06:00",
               "category": "tech",
               "icon": "🤖",
               "edition": "morning",
-              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c11/live/cvglyklz49jo.jpg",
-              "kurz": "Meta nutzt ein internes Tool, das Mausbewegungen, Klicks und Tastatureingaben von Mitarbeitern erfasst, um KI-Modelle zu trainieren.",
-              "summary": "Meta hat ein internes Überwachungssystem eingeführt, das die Arbeitsweise seiner Mitarbeiter – Mausbewegungen, Tastaturanschläge, Klicks – in Echtzeit aufzeichnet und daraus Trainingsdaten für KI-Modelle generiert. Das Unternehmen sieht darin einen legitimen Weg, an Daten aus der realen Arbeitswelt zu kommen.",
-              "gegenstimme": "Arbeitnehmerrechtsorganisationen und Datenschützer kritisieren das Vorgehen scharf. Die Grenze zwischen Produktivitätsmonitoring und Überwachung sei hier klar überschritten. In der EU könnten solche Praktiken gegen die DSGVO verstossen.",
-              "sources": [
-                {
-                  "name": "TechCrunch",
-                  "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/"
-                },
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cvglyklz49jo"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-palantir-manifest-tech-republik",
-              "slug": "palantir-manifest-tech-republik",
-              "title": "Palantir-Chef Karp: «Wir wollen eine militarisierte Techrepublik»",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🏭",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/8ms1rQ9tq4H8_oH6r02pzx.jpg",
-              "kurz": "Palantir-CEO Alex Karp publiziert ein 22-Punkte-Manifest: Die Firma will aktiv an einer militarisierten Neuordnung der USA mitwirken.",
-              "summary": "Der CEO des umstrittenen Datana-lyse-Konzerns Palantir, Alex Karp, hat ein 22-Punkte-Manifest veröffentlicht, in dem er eine neue politische Ordnung der USA mit technologischer und militärischer Vorherrschaft beschreibt. Palantir stellt Software für Polizei, Geheimdienste und Militär her und versteht sich nun explizit als politischer Akteur.",
-              "gegenstimme": "Bürgerrechtler und Tech-Kritiker in den USA und Europa warnen vor der Normalisierung von Überwachungssoftware und dem Verschwimmen von Unternehmens- und Staatsinteressen. Europäische Datenschützer sehen in Palantirs Expansionsplänen eine direkte Bedrohung für demokratische Grundwerte.",
-              "sources": [
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/palantir-will-militarisierte-tech-republik-schaffen-872828070491"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/palantir-will-militarisierte-tech-republik-schaffen-872828070491"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-spacex-cursor-kaufoption",
-              "slug": "spacex-cursor-kaufoption",
-              "title": "SpaceX will KI-Coding-Tool Cursor für 60 Milliarden Dollar kaufen",
-              "date": "2026-04-22",
-              "time": "07:00",
-              "category": "tech",
-              "icon": "🚀",
-              "edition": "morning",
               "image": "",
-              "kurz": "SpaceX hat eine Partnerschaft mit dem KI-Codeeditor Cursor geschlossen und sich eine Kaufoption für 60 Milliarden Dollar gesichert.",
-              "summary": "SpaceX hat eine strategische Partnerschaft mit Anysphere (Entwickler von Cursor) vereinbart und sich gleichzeitig eine Option gesichert, den Startup später im Jahr für 60 Milliarden Dollar zu übernehmen. Cursor ist der derzeit führende KI-gestützte Codeeditor und wird von Hunderttausenden Entwicklern weltweit genutzt.",
-              "gegenstimme": "Kritiker sehen in der Transaktion weniger einen strategischen Coup als eine Notlösung: Weder SpaceX/xAI noch Cursor verfügt über eigene KI-Modelle, die mit Anthropic oder OpenAI mithalten können. Die Zusammenarbeit kaschiere strukturelle Schwächen beider Unternehmen.",
-              "sources": [
-                {
-                  "name": "TechCrunch",
-                  "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-04-22-bundeswehr-erste-militaerstrategie",
-              "slug": "bundeswehr-erste-militaerstrategie",
-              "title": "Pistorius stellt erste Militärstrategie der Bundeswehr-Geschichte vor",
-              "date": "2026-04-22",
-              "time": "10:45",
-              "category": "international",
-              "icon": "🪖",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/b73dc0cb-09da-4c7d-9489-9cbe98b2ab1f_w520_r2.08_fpx46.66_fpy50.jpg",
-              "kurz": "Deutschland bekommt erstmals eine offizielle Militärstrategie. Ziel: stärkste konventionelle Armee Europas. Hauptbedrohung: Russland.",
-              "summary": "Verteidigungsminister Boris Pistorius hat heute die erste Militärstrategie in der Geschichte der Bundeswehr präsentiert. Das Dokument definiert Russland als Hauptbedrohung und setzt das Ziel, die Bundeswehr zur konventionell stärksten Armee Europas zu entwickeln – mit 260'000 aktiven Soldaten. Die Strategie kommt vor dem Hintergrund des Ukraine-Kriegs und wachsender Sicherheitsbedenken in Europa.",
-              "gegenstimme": "Kritiker aus linken Parteien bezweifeln, ob 260'000 Soldaten realistisch rekrutierbar sind. Auch Fragen zur Finanzierung bleiben offen – das neue Sondervermögen für die Bundeswehr ist beschlossen, reicht aber nach Ansicht vieler Experten nicht für eine dauerhafte Aufrüstung auf diesem Niveau.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsminister-boris-pistorius-stellt-militaerstrategie-vor-a-300162af-2910-4410-ac8f-f9f77c0e0b06"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-hormuz-eskalation-mittag",
-              "slug": "hormuz-eskalation-mittag",
-              "title": "Update Iran-Krieg: IRGC beschiesst Frachter in der Strasse von Hormuz",
-              "date": "2026-04-22",
-              "time": "11:30",
-              "category": "international",
-              "icon": "🚢",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/5m_R5IMcKOb9uDd-03u3fL.jpg",
-              "kurz": "Trotz verlängerter Waffenruhe: Irans Revolutionsgarden beschossen einen Containerfrachter in der Strasse von Hormuz. Ölpreis zieht an.",
-              "summary": "Die Iranischen Revolutionsgarden (IRGC) haben in der Strasse von Hormuz einen Containerfrachter beschossen – trotz der kurz zuvor verlängerten Waffenruhe zwischen den USA und Iran. Die UKMTO bestätigte den Vorfall. Ein zweites Schiff wurde ebenfalls angegriffen. Der Ölpreis reagierte mit einem Anstieg. Trump hatte die Feuerpause am Dienstag auf unbestimmte Zeit verlängert, nachdem Pakistan als Vermittler darum gebeten hatte.",
-              "gegenstimme": "Iran-Vertreter bezeichnen US-Provokationen als Haupthindernis für echte Gespräche. Die IRGC könnte auf eigenem Befehl gehandelt haben – was Risse in der iranischen Führung signalisiert.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/live/cx297218m9vt"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292"
-                },
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/iran-und-usa-trump-verlaengert-erneut-waffenruhe-821605119508"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-isis-mitgliederlisten-deutschland",
-              "slug": "isis-mitgliederlisten-deutschland",
-              "title": "IS-Mitgliederlisten in deutschen Händen: Verdächtige leben möglicherweise noch in Deutschland",
-              "date": "2026-04-22",
-              "time": "10:46",
-              "category": "international",
-              "icon": "🔍",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/825679dc-4671-45a4-a6a3-f1b03e127e9c_w520_r2.08_fpx50_fpy50.jpg",
-              "kurz": "Deutsche Behörden haben detaillierte IS-Mitgliederlisten des Islamischen Staats erhalten. Einige mutmassliche Terroristen sollen noch in Deutschland leben.",
-              "summary": "Der Spiegel berichtet, dass deutschen Sicherheitsbehörden detaillierte Mitgliederlisten des Islamischen Staats (IS) vorliegen. Die Dokumente – erlangt aus Schlachtfeldbeweisen aus Irak und Syrien – enthalten Namen, Funktionen und Details zu tausenden IS-Mitgliedern. Einige der darin verzeichneten Personen sollen sich demnach noch in Deutschland aufhalten. Die Enthüllung stellt Behörden vor erhebliche juristische Fragen.",
-              "gegenstimme": "Sicherheitsexperten warnen vor vorschnellen Verhaftungen: Die Qualität und Vollständigkeit der IS-Bürokratie war bekannt für Fehler und Manipulationen. Falschidentifikationen könnten Unschuldige in Verdacht bringen.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/international/world/terror-records-in-german-hands-isis-and-the-bureaucracy-of-evil-a-b4ce77d2-774b-4ad5-8c8c-8cb2943e6737"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-sonderflug-burundi-ausschaffung",
-              "slug": "sonderflug-burundi-ausschaffung",
-              "title": "Sonderflug nach Burundi: Mario Fehr bestätigt Ausschaffungsoperation",
-              "date": "2026-04-22",
-              "time": "10:40",
-              "category": "schweiz",
-              "icon": "✈️",
-              "edition": "midday",
-              "image": "https://image.20min.ch/2026/04/21/809fcd42-f686-46c0-a334-c7a5e59fada4.jpg",
-              "kurz": "Ein mysteriöser Nachtflug am Flughafen Zürich hat sich als Ausschaffungsoperation herausgestellt. Regierungsrat Mario Fehr bestätigte den Sonderflug nach Burundi.",
-              "summary": "Eine Boeing 737-8 Max der tschechischen Smartwings landete am Dienstagmorgen kurz nach 4 Uhr trotz Nachtflugverbot am Flughafen Zürich. Die Webcams am Flughafen waren deaktiviert. Die Maschine flog weiter nach Hurghada und dann Burundi. Der Zürcher Regierungsrat Mario Fehr bestätigte am Mittwoch, es handle sich um einen autorisierten Ausschaffungsflug. Der Flug hatte eine Sondergenehmigung des Bazl als Staatsluftfahrzeug.",
-              "gegenstimme": "Menschenrechtsorganisationen kritisieren Ausschaffungen nach Burundi: Das Land steht seit dem gescheiterten Putschversuch von 2015 unter starker Kritik wegen Menschenrechtsverletzungen. Die UNO hat wiederholt auf willkürliche Verhaftungen und Verfolgung hingewiesen.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/flughafen-zuerich-mysterioese-boeing-aus-bratislava-sorgt-fuer-raetsel-103550383"
-                },
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/flughafen-zuerich-nachtlandung-einer-boeing-737-um-4-uhr-wirft-fragen-auf-132298753631"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-oelhaendler-lausanne-warnung",
-              "slug": "oelhaendler-lausanne-warnung",
-              "title": "Lausanner Rohstoffkonferenz: «Irgendwann fehlt das Öl – dann tut es weh»",
-              "date": "2026-04-22",
-              "time": "08:50",
-              "category": "wirtschaft",
-              "icon": "🛢️",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/2uN12nVpaaS8f2I96zxgJX.jpg",
-              "kurz": "Führende Rohstoffhändler warnen in Lausanne vor globalen Ölengpässen. Der Iran-Krieg verschärft die Lage – doch der Ölpreis täuscht noch über die wahre Knappheit hinweg.",
-              "summary": "An der wichtigsten Jahreskonferenz der Öl- und Rohstoffbranche in Lausanne haben führende Händler eindringlich vor kommenden Versorgungsengpässen gewarnt. Der aktuelle Ölpreis widerspiegle die reale Lage nicht: Trumps Versprechen, die Schweizer Rohstoffhändler ärgerten sich über die täuschend tiefen Preise. Der Iran-Krieg und die Hormuz-Blockade würden mittel- bis langfristig zu ernsthaften Lieferproblemen führen.",
-              "gegenstimme": "Marktbeobachter merken an, dass Händler ein Eigeninteresse an höheren Preisen haben. Zudem haben neue Fördermengen in den USA und Saudi-Arabien den Markt stabilisiert. Kurzfristig gibt es keine Versorgungskrise.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/lausanne-oelhaendler-warnen-vor-globalen-engpaessen-wegen-iran-603739170928"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/iran-krieg-der-oelpreis-ist-taeuschend-tief-beklagen-grosse-rohstoffhaendler-ld.10003573"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-apple-ceo-wechsel-ternus",
-              "slug": "apple-ceo-wechsel-ternus",
-              "title": "Tim Cook gibt Apple-CEO-Posten ab – John Ternus übernimmt ab September",
-              "date": "2026-04-22",
-              "time": "11:00",
-              "category": "tech",
-              "icon": "🍎",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/2b2a46ad-d71a-4497-98c9-645505133340_w520_r2.08_fpx61.41_fpy49.88.jpg",
-              "kurz": "Apple-CEO Tim Cook tritt per 1. September 2026 zurück. Nachfolger wird Hardware-Chef John Ternus. Cook bleibt als Executive Chairman.",
-              "summary": "Tim Cook, CEO von Apple seit 2011, gibt seinen Posten per 1. September 2026 ab. Als Nachfolger hat Apple John Ternus bestimmt, bisher Senior Vice President für Hardware Engineering. Cook wird Executive Chairman des Apple-Verwaltungsrates. In seiner Abschiedsmail an Mitarbeiter betonte Cook, er sei gesund und plane, die neue Rolle «lange» auszuüben. Ternus gilt als Architekt zahlreicher Schlüsselprodukte wie iPad, AirPods und Apple Watch.",
-              "gegenstimme": "Kritiker merken an, dass Apple unter Cook zwar operativ hervorragende Ergebnisse lieferte, das KI-Geschäft aber verschlafen hat. Ternus hat als Hardware-Mann noch zu beweisen, dass er eine überzeugende KI-Strategie entwickeln kann.",
+              "kurz": "Google-CEO Sundar Pichai: 75% des gesamten neuen Codes wird von KI generiert. Gleichzeitig: Gemini-Integration in Apple Siri bestätigt.",
+              "summary": "Google-CEO Sundar Pichai hat anlässlich der Cloud Next-Konferenz enthüllt, dass 75 Prozent des neuen Google-Codes von KI generiert wird – hoch von 50% im Herbst 2025. Zudem bestätigte Google eine Gemini-Integration in Apples Siri, die noch 'später dieses Jahr' kommt. Anthropic schreibt nach eigenen Angaben 70-90% des Codes mit Claude Code.",
+              "gegenstimme": "Kritiker warnen vor übertriebener KI-Abhängigkeit in der Softwareentwicklung: KI-generierter Code enthält mehr unerkannte Bugs und Sicherheitslücken. Erfahrene Ingenieure betonen, dass 'Code generieren' und 'Code verstehen' verschiedene Dinge sind. Die Qualitätsfrage wird erst in Jahren sichtbar.",
               "sources": [
                 {
                   "name": "The Verge",
-                  "url": "https://www.theverge.com/tech/915213/tim-cook-apple-ceo-stepping-down-john-ternus"
+                  "url": "https://www.theverge.com"
                 },
                 {
-                  "name": "Apple Newsroom",
-                  "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-bildungsbericht-schweiz-kritik",
-              "slug": "bildungsbericht-schweiz-kritik",
-              "title": "«Unhaltbar»: Professoren kritisieren den neuen Schweizer Bildungsbericht",
-              "date": "2026-04-22",
-              "time": "09:05",
-              "category": "bildung",
-              "icon": "📚",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/B_Y7vIblqAx8DNqK6284S5.jpg",
-              "kurz": "Schweizer Forschende werfen dem neuen nationalen Bildungsbericht vor, nicht unabhängig zu sein und blinde Flecken zu haben. Der Bund widerspricht.",
-              "summary": "Der neue Schweizer Bildungsbericht wird von einer Gruppe von Forschenden scharf kritisiert. Sie bezeichnen ihn als «unhaltbar» und werfen ihm fehlende Unabhängigkeit, Einseitigkeit und blinde Flecken vor. Der Bund, der den Bericht mitfinanziert, widerspricht der Kritik. Der Bildungsbericht gilt als wichtiges Steuerungsinstrument für die Schweizer Bildungspolitik und erscheint alle vier Jahre.",
-              "gegenstimme": "Die Autoren des Bildungsberichts sowie das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) weisen die Kritik zurück. Sie betonen die wissenschaftliche Methodik und die breite Datenbasis des Berichts.",
-              "sources": [
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/bildungsbericht-schweiz-professoren-kritisieren-neuen-report-897406143126"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-04-22-iran-teheran-laengerer-hebel-analyse",
-              "slug": "iran-teheran-laengerer-hebel-analyse",
-              "title": "Iran-Analyse: «Teheran sitzt jetzt am längeren Hebel» – wie Trump seine Verhandlungsposition verspielte",
-              "date": "2026-04-22",
-              "time": "17:50",
-              "category": "international",
-              "icon": "🇮🇷",
-              "edition": "evening",
-              "image": "https://www.srf.ch/static/cms/images//320ws/986200.webp",
-              "kurz": "Iran-Kennerin Willinger analysiert: Nach Trumps Waffenruhe-Verlängerung ohne Frist fühlt sich Teheran gestärkt – und stoppt Schiffe in der Strasse von Hormuz.",
-              "summary": "Die Iran-Expertin Katharina Willinger erklärt, warum die Verlängerung der Waffenruhe ohne klare Deadline Teherans Position gestärkt hat. Das iranische Regime reagiert selbstbewusst: Es feiert den Schritt als Sieg, beschiesst weiterhin Frachter in der Strasse von Hormuz und blockiert Gespräche mit dem Verweis auf «US-Provokationen».",
-              "gegenstimme": "Trumps Berater verweisen auf die laufenden Diplomatie-Kanäle via Pakistan und betonen, die Waffenruhe verhindere eine direkte militärische Eskalation. Konservative US-Medien sehen in der Verlängerung taktisches Kalkül: Trump verhandelt, während er die Eskalation kontrolliert. Die NZZ mahnt, Teherans Stärke nicht zu überschätzen – die Wirtschaft liegt in Trümmern.",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/krieg-im-iran-iran-kennerin-teheran-sitzt-jetzt-am-noch-laengeren-hebel"
-                },
-                {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/iran-mullahs-feiern-trumps-verlaengerte-waffenruhe-als-sieg-887421619912"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/iran-dem-regime-sind-die-menschen-in-seinem-land-egal-686152836692"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-japan-waffenexporte-pazifismus-ende",
-              "slug": "japan-waffenexporte-pazifismus-ende",
-              "title": "Historische Wende: Japan erlaubt erstmals seit dem Zweiten Weltkrieg Exporte tödlicher Waffen",
-              "date": "2026-04-22",
-              "time": "17:30",
-              "category": "international",
-              "icon": "🗾",
-              "edition": "evening",
-              "image": "https://www.srf.ch/static/cms/images//320ws/b74a348.webp",
-              "kurz": "Premierministerin Takaichi gibt grünes Licht für Exporte von Kriegsschiffen, Kampfdrohnen und anderen Waffensystemen – ein Bruch mit Japans Nachkriegsidentität.",
-              "summary": "Das japanische Kabinett hat neue Leitlinien für Rüstungsexporte beschlossen und damit das letzte Hindernis für den Verkauf tödlicher Waffen ins Ausland beseitigt. Japan darf nun erstmals seit 1945 Kriegsschiffe, Kampfdrohnen und offensive Waffensysteme exportieren. Hintergrund ist der wachsende Druck durch Russland, Nordkorea und China in der Region.",
-              "gegenstimme": "Kritiker in Japan und der Region warnen vor einer Büchse der Pandora: Einmal geöffnet, sei der Weg zurück zum Pazifismus versperrt. Verfassungsrechtler zweifeln an der Kompatibilität mit Artikel 9 der Verfassung, der Japan für alle Zeiten auf Krieg verzichten lässt. China hat die Entscheidung offiziell verurteilt.",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/abkehr-vom-pazifismus-japan-erlaubt-exporte-von-toedlichen-waffen"
-                },
-                {
-                  "name": "The Guardian",
-                  "url": "https://www.theguardian.com/world/rss"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-blocher-nau-ch-medien-umbau",
-              "slug": "blocher-nau-ch-medien-umbau",
-              "title": "SVP-Doyen Blocher beteiligt sich an Nau.ch – und gibt Gratiszeitungen ab",
-              "date": "2026-04-22",
-              "time": "17:20",
-              "category": "schweiz",
-              "icon": "📰",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/BHcMWxjqabaB-N9N6KuMG6.jpg",
-              "kurz": "Medienpolitischer Umbau: Blocher verkauft die Zeitungshaus AG an Nau.ch und wird so indirekt Mitbesitzer des «Bärnerbär».",
-              "summary": "SVP-Altbundesrat und Medienmäzen Christoph Blocher reorganisiert sein Medienimperium: Seine Robinvest AG veräussert Teile der Zeitungshaus AG an das Schweizer Nachrichtenportal Nau.ch. Damit wird Blocher indirekt Mitbesitzer des Berner Gratisanzeigers «Bärnerbär». Die Transaktion verschiebt das Kräfteverhältnis auf dem ohnehin konzentrierten Schweizer Medienmarkt.",
-              "gegenstimme": "Medienbeobachter sehen den Deal mit gemischten Gefühlen: Einerseits könnte Nau.ch durch die Kombination von Reichweite und lokalem Print gestärkt werden. Andererseits festigt Blocher damit seinen politischen Einfluss auf regionale Gratismedien – in einer Zeit, in der unabhängiger lokaler Journalismus ohnehin unter Druck steht.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/baernerbaer-blocher-verkauft-zeitungshaus-ag-an-nau-ch-848487811007"
-                },
-                {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/trump-verlaengert-waffenruhe-iran-konflikt-bleibt-angespannt-900791937830"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-roesti-rueckenoperation",
-              "slug": "roesti-rueckenoperation",
-              "title": "Bundesrat Rösti muss operiert werden – Reisen und Termine abgesagt",
-              "date": "2026-04-22",
-              "time": "18:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "evening",
-              "image": "https://image.20min.ch/2026/04/22/69d7906a-4f79-40a0-9b72-d9249d63d90d.jpg",
-              "kurz": "SVP-Bundesrat Albert Rösti unterzieht sich einer Rückenoperation und wird danach mehrere Wochen von zu Hause aus arbeiten.",
-              "summary": "SVP-Bundesrat Albert Rösti muss sich einer Operation an der Wirbelsäule unterziehen. Laut Mitteilung des UVEK werden in den kommenden Wochen Reisen und Termine abgesagt oder delegiert. Rösti ist Vorsteher des Departements für Umwelt, Verkehr, Energie und Kommunikation – ein ressourcenintensives Amt mit laufenden Dossiers zu Energiewende, Strassenausbau und Telekommunikation.",
-              "gegenstimme": "Aus dem UVEK heisst es, die laufenden Geschäfte seien gesichert. Stellvertretung und Delegationen seien geregelt. In oppositionellen Kreisen wird die Frage gestellt, ob Röstis Abwesenheit bestimmte politisch sensible Entscheide verzögern könnte.",
-              "sources": [
-                {
-                  "name": "20min",
-                  "url": "https://www.20min.ch/story/rueckenoperation-reisen-und-termine-abgesagt-bundesrat-roesti-muss-unters-messer-103550566"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-trump-schweiz-cnbc-zollstreit",
-              "slug": "trump-schweiz-cnbc-zollstreit",
-              "title": "«Bezahlt nur ein bisschen»: Trump stichelt im CNBC-Interview erneut gegen die Schweiz",
-              "date": "2026-04-22",
-              "time": "17:10",
-              "category": "schweiz",
-              "icon": "🇺🇸",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/AX1BPW6I4KWBn-9UB-Eqxq.jpg",
-              "kurz": "Im TV-Interview beklagt Trump das Handelsdefizit mit der Schweiz und macht Druck auf höhere Zahlungen.",
-              "summary": "US-Präsident Donald Trump hat in einem CNBC-Interview die Schweiz direkt angegriffen und erklärt, das Land zahle «derzeit nur ein bisschen». Er forderte im Rahmen des Zollstreits deutlich höhere Zugeständnisse. Die Aussagen verschärfen den Druck auf Bern kurz vor möglichen Verhandlungen.",
-              "gegenstimme": "Aus Sicht der Schweizer Wirtschaft sind Trumps Vorwürfe schwer nachvollziehbar: Die Schweiz hat faktisch kaum Importzölle auf US-Waren, das Handelsdefizit ergibt sich strukturell aus der Pharmaindustrie. Cash.ch und NZZ weisen darauf hin, dass Trump den Unterschied zwischen Güter- und Dienstleistungsbilanzen regelmässig ignoriert.",
-              "sources": [
-                {
-                  "name": "20min",
-                  "url": "https://www.20min.ch/story/wir-sind-die-elite-donald-trump-fordert-die-schweiz-sollte-viel-mehr-zahlen-103550534"
-                },
-                {
-                  "name": "cash.ch",
-                  "url": "https://www.cash.ch/news/top-news/trump-die-schweiz-muss-viel-mehr-an-die-usa-bezahlen-929782"
-                },
-                {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/trump-fordert-von-schweiz-viel-mehr-geld-im-zollstreit-991698378350"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-ubs-lex-ubs-eigenkapital-entscheid",
-              "slug": "ubs-lex-ubs-eigenkapital-entscheid",
-              "title": "«Lex UBS»: Bundesrat verpflichtet Grossbank zu 20 Milliarden mehr Eigenkapital",
-              "date": "2026-04-22",
-              "time": "17:00",
-              "category": "schweiz",
-              "icon": "🏦",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/5ykKrsuDKchBXLxuPfBipp.jpg",
-              "kurz": "Zwei Jahre nach CS-Untergang: Karin Keller-Sutter stellt die neue Bankenregulierung vor. UBS muss massiv mehr Kapital aufbauen.",
-              "summary": "Der Schweizer Bundesrat hat am Mittwoch die neue Eigenmittelverordnung für systemrelevante Banken verabschiedet. Die UBS muss demnach rund 20 Milliarden Dollar mehr Eigenkapital für ihre Auslandtöchter aufbauen. Die Reaktionen von Parteien und Bankensektor fallen gemischt aus – die SP fordert noch härtere Regeln, die Grossbank spricht von Wettbewerbsverzerrung.",
-              "gegenstimme": "UBS-CEO Sergio Ermotti kritisiert die Vorlage seit Monaten als unverhältnismässig. Er warnte, die Vorgaben machten die Bank «völlig wettbewerbsunfähig» und könnten die Schweiz als Bankstandort gefährden. Die NZZ kommentiert, der Bundesrat überschiesse das Ziel – nun sei es am Parlament, die Vorlage zu entschärfen.",
-              "sources": [
-                {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/ubs-eigenkapitalregeln-bundesrat-verlangt-20-milliarden-dollar-761718070472"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/fuer-die-ubs-geht-es-ans-eingemachte-der-streit-um-das-kapital-der-bank-tritt-in-die-entscheidende-phase-ld.1933435"
-                },
-                {
-                  "name": "20min",
-                  "url": "https://www.20min.ch/story/eigenkapital-hammer-sp-banker-toben-harsche-reaktionen-auf-keller-sutters-lex-ubs-103550723"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-22-warsh-fed-anhoerung-trump-unabhaengigkeit",
-              "slug": "warsh-fed-anhoerung-trump-unabhaengigkeit",
-              "title": "Kevin Warsh vor dem US-Senat: Wird er Trumps Handpuppe an der Fed-Spitze?",
-              "date": "2026-04-22",
-              "time": "17:40",
-              "category": "wirtschaft",
-              "icon": "💵",
-              "edition": "evening",
-              "image": "https://www.srf.ch/static/cms/images//320ws/39c618.webp",
-              "kurz": "Anhörung für den Fed-Vorsitz: Kevin Warsh kämpft um den Eindruck der Unabhängigkeit – zentrale Frage bleibt unbeantwortet.",
-              "summary": "Kevin Warsh, Trumps Kandidat für den Vorsitz der US-Notenbank Federal Reserve, hat sich dem Bestätigungs-Hearing im Senat gestellt. Im Mittelpunkt stand die Frage, ob er die Unabhängigkeit der Notenbank gegenüber politischem Druck des Präsidenten wahren wird. Warsh betonte seine Eigenständigkeit, liess aber offen, wie er auf direkten Trump-Druck reagieren würde.",
-              "gegenstimme": "Ökonomen und Fed-Veteranen mahnen zur Vorsicht: Die Fed-Unabhängigkeit ist eine der wichtigsten institutionellen Sicherungen des Finanzsystems. Trump hat öffentlich mehrfach erklärt, er wolle die Notenbank kontrollieren und die Zinsen selbst bestimmen. Wenn Warsh dem nachgibt, droht ein Vertrauensverlust in die US-Geldpolitik mit globalen Folgen.",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/usa/anhoerung-fuer-fed-vorsitz-kevin-warsh-vor-senat-wird-er-trumps-handpuppe"
-                },
-                {
-                  "name": "Reuters",
-                  "url": "https://www.reuters.com"
+                  "name": "Google Cloud Blog",
+                  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/"
                 }
               ]
             }
