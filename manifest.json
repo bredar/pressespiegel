@@ -1,659 +1,245 @@
 {
-  "updated": "15:07 UTC",
+  "updated": "04:11 UTC",
   "days": [
     {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "editions": {
         "morning": {
           "time": "07:00",
           "articles": [
             {
-              "id": "2026-04-23-eu-ukraine-kredit-orban-gibt-auf",
-              "slug": "eu-ukraine-kredit-orban-gibt-auf",
-              "title": "Orban gibt nach: Alle EU-Staaten bewilligen 90-Mrd-Kredit für Ukraine",
-              "date": "2026-04-23",
+              "id": "2026-04-24-eu-ohne-orban-kampfjet-debakel",
+              "slug": "eu-ohne-orban-kampfjet-debakel",
+              "title": "EU tagt ohne Orbán – Merz und Macron im Kampfjet-Streit",
+              "date": "2026-04-24",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🇪🇺",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w520_r2.08_fpx28.09_fpy49.93.png",
+              "kurz": "Europa tagt ohne Ungarn. Gleichzeitig belastet das deutsch-französische Kampfjet-Debakel FCAS die Beziehungen zwischen Berlin und Paris. Deutschland debattiert einen Tankrabatt.",
+              "summary": "Beim jüngsten EU-Gipfel fehlte Viktor Orbán – ein seltenes Signal der Isolation Ungarns. Parallel dazu gerät das gemeinsame Rüstungsprojekt FCAS (Future Combat Air System) von Deutschland und Frankreich in eine neue Krise, die Merz und Macron zu Gesprächen zwingt. In Berlin streitet die Koalition über einen Tankrabatt.",
+              "gegenstimme": "Kritiker sehen im Ausschluss Ungarns eine Überreaktion: Orbán bleibt EU-Mitglied und kann Entscheide blockieren. Der FCAS-Streit zeigt strukturell, wie schwer europäische Rüstungskooperationen sind – wegen nationaler Industrieinteressen und gegensätzlicher strategischer Kulturen.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/news-eu-abschied-von-viktor-orban-deutsch-franzoesisches-kampfjet-debakel-tankrabatt-im-bundestag-a-2cbd28c6-5adc-4c73-9b49-063264d1055c"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-iran-hormuz-pentagon-streit",
+              "slug": "iran-hormuz-pentagon-streit",
+              "title": "Iran-Krieg: US blockiert Hormuz – Pentagon-Streit eskaliert",
+              "date": "2026-04-24",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/04/23/4575a3be-ffc9-4468-8904-2621cffff326.jpg?width=700&height=400&fit=bounds&quality=75&auto=webp",
+              "kurz": "Inmitten der US-Seeblockade der Strasse von Hormuz verliert Marine-Staatssekretär John Phelan seinen Posten. Pentagon-Chef Hegseth entlässt ihn nach Machtkampf.",
+              "summary": "Die USA blockieren die Strasse von Hormuz im Rahmen des Iran-Kriegs. Mitten in dieser kritischen Phase entlässt Verteidigungsminister Hegseth den Marine-Staatssekretär John Phelan nach einem internen Machtkampf. Phelan, ein Trump-Grossspender, hatte dem Präsidenten eine 'goldene Flotte' versprochen – gegen Hegseths Strategie. Der Abgang gefährdet nun die Nachschubversorgung der Marine mit Tomahawk-Raketen.",
+              "gegenstimme": "Kritiker im Kongress warnen, dass die innenpolitischen Machtkämpfe im Pentagon die operative Führung des Krieges gefährden. Hegseth setzt auf kleinere, unbemannte Schiffe – ein Paradigmenwechsel, der nach Ansicht konservativer Militärexperten riskant ist.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/pete-hegseth-entlaesst-den-marineminister-waehrend-der-amerikanischen-blockade-der-strasse-von-hormuz-eskaliert-ein-streit-im-pentagon-ld.10004162"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/john-phlean-donald-trump-schwaermte-von-ihm-dennoch-muss-er-nun-gehen-a-5650f5a6-db24-40db-9c41-a9da628f5eb3"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/spektakulaere-schiffsenterung-hollywood-meets-hormus-wie-der-iran-die-sozialen-medien-kapert"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-iran-msc-schiffe-gekapert",
+              "slug": "iran-msc-schiffe-gekapert",
+              "title": "Iran kaperte MSC-Schiffe: Schweizer Reederei direkt betroffen",
+              "date": "2026-04-24",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🚢",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/04/23/10d3505a-b0d7-4304-bead-e169304acb99.jpg?width=700&height=400&fit=bounds&quality=75&auto=webp",
+              "kurz": "Iran hat erstmals seit Kriegsbeginn zwei Containerschiffe geentert – eines davon der weltgrössten Reederei MSC mit Sitz in Genf. Eine Brücke wurde durch Beschuss schwer beschädigt.",
+              "summary": "Iranische Revolutionswächter haben erstmals seit Kriegsbeginn Containerschiffe in der Strasse von Hormuz geentert. Betroffen: die 'MSC Francesca' und die 'Epaminondas', beide mit Verbindung zur Genfer Reederei MSC – weltgrösster Containerreederei. Iran wirft den Schiffen vor, ohne Genehmigung und mit deaktivierten Sendern versucht zu haben, die Meerenge zu durchqueren. Die Brücke der 'Epaminondas' wurde durch Beschuss schwer beschädigt.",
+              "gegenstimme": "Westliche Schifffahrtsexperten kritisieren, dass die US-Seeblockade Schiffsführer in eine Zwickmühle treibt: Wer in der Meerenge bleibt, riskiert Verluste durch den Krieg. Wer flieht, riskiert die iranische Marine. Lloyd's of London hat die Hormuz-Route bereits als Hochrisikozone eingestuft.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/krieg-am-golf-iran-kapert-msc-schiffe-bei-der-flucht-durch-strasse-von-hormuz-ld.10004131"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/schweiz-als-sicherer-hafen-die-golfstaaten-glaenzen-doch-das-geld-zieht-in-die-schweiz"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-trump-g20-putin-miami",
+              "slug": "trump-g20-putin-miami",
+              "title": "Trump will Putin zum G20 nach Miami einladen",
+              "date": "2026-04-24",
+              "time": "06:00",
+              "category": "international",
+              "icon": "🤝",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/4b9dd635-4a7b-4c03-a059-6188172d3fe7_w520_r2.08_fpx65.32_fpy49.98.jpg",
+              "kurz": "US-Präsident Trump hält Putins Teilnahme am G20-Gipfel in Miami für 'ziemlich hilfreich'. Dabei liegt ein internationaler Haftbefehl des IStGH gegen Putin vor.",
+              "summary": "Donald Trump hat signalisiert, Wladimir Putin zu einer möglichen Teilnahme am G20-Gipfel in Miami einzuladen und bezeichnete dies als 'ziemlich hilfreich'. Der internationale Strafgerichtshof hat Putin 2023 einen Haftbefehl ausgestellt. Eine Einladung würde westliche Verbündete und die Rechtsordnung des Völkerrechts vor grosse Fragen stellen. Ob Putin tatsächlich reisen würde, ist unklar.",
+              "gegenstimme": "Europäische Regierungen und internationale Juristen warnen: Eine Einladung an Putin trotz IStGH-Haftbefehl würde das internationale Rechtssystem untergraben. Die USA sind zwar kein IStGH-Mitglied, aber Gastgeber des Gipfels hätten formelle Pflichten. Ukrainische Vertreter reagierten empört.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/g20-donald-trump-begruesst-moegliche-teilnahme-wladimir-putins-in-miami-a-6d297725-1d6f-4048-9c3e-badbd6a38cf0"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-ukraine-eu-kredit-kriegswende",
+              "slug": "ukraine-eu-kredit-kriegswende",
+              "title": "Ukraine: EU-Kredit von 90 Mrd. – dreht sich die Kriegswende?",
+              "date": "2026-04-24",
               "time": "06:00",
               "category": "international",
               "icon": "🇺🇦",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/2OuJfeJ4aBA9XbdazyeMvA.jpg",
-              "kurz": "Ungarns Viktor Orban hebt seine Blockade des Ukraine-Hilfspakets auf. Alle EU-Staaten stimmen dem 90-Milliarden-Kredit zu. Gleichzeitig fliesst russisches Öl wieder durch die Druschba-Pipeline.",
-              "summary": "Kurz vor seinem Abgang als ungarischer Ministerpräsident hat Viktor Orban seinen Widerstand gegen den EU-Kredit für die Ukraine aufgegeben. Damit können alle 27 EU-Mitgliedstaaten das dringend benötigte Darlehen von 90 Milliarden Euro bewilligen. Zeitgleich fliesst russisches Öl nach monatelanger Unterbrechung wieder durch die Druschba-Pipeline nach Ungarn.",
-              "gegenstimme": "Kritiker sehen Orbans Nachgeben als Akt politischer Pragmatik: Er verlässt das Amt und will keine verbrannten Brücken hinterlassen. Einige osteuropäische Länder warnen, der Kredit reiche nicht aus, um Ukraines Verteidigungsfähigkeit langfristig zu sichern. Andere EU-Staaten fordern strengere Konditionen für die Kreditvergabe.",
+              "image": "https://i.guim.co.uk/img/media/90db7a77bd390b130ff72651751c65ff0ce1187a/0_0_1350_1080/master/1350.jpg?width=460&quality=85&auto=format&fit=max",
+              "kurz": "Die EU genehmigt einen 90-Mrd.-Euro-Kredit für die Ukraine. Daten zeigen: Russland machte im März kaum Geländegewinne. Dreht sich die Kriegslage?",
+              "summary": "Die Europäische Union hat einen Kredit von 90 Milliarden Euro für die Ukraine verabschiedet. Gleichzeitig zeigen Frontanalysedaten, dass russische Truppen im März 2026 fast keine Geländegewinne erzielten. Kommt die Ukraine gestärkt aus dieser Phase heraus?",
+              "gegenstimme": "Skeptiker warnen: Ein Kredit ist kein Sieg. Die Ukraine kämpft weiterhin mit Munitionsengpässen und Personalmangel. Russland hat trotz geringem Fortschritt weiter grosse Reserven. Friedensgespräche unter Trump-Vermittlung könnten die Dynamik jederzeit verändern.",
               "sources": [
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/orban-setzt-versoehnliches-zeichen-alle-eu-staaten-heissen-riesen-kredit-an-die-ukraine-gut-ld.10003942"
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/news/video/2026/apr/23/is-the-tide-turning-for-ukraine-in-war-with-russia-the-latest"
                 },
                 {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo"
-                },
-                {
-                  "name": "SRF Ukraine-Ticker",
-                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russisches-oel-fliesst-wieder-nach-ungarn"
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cgk0vz5e2zxo"
                 }
               ]
             },
             {
-              "id": "2026-04-23-frankreich-praesidentschaft-2027-rennen",
-              "slug": "frankreich-praesidentschaft-2027-rennen",
-              "title": "Frankreich 2027: Der Machtkampf um Macrons Nachfolge beginnt",
-              "date": "2026-04-23",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🇫🇷",
-              "edition": "morning",
-              "image": "",
-              "kurz": "Ein Jahr vor der Präsidentschaftswahl sortiert sich Frankreichs Politik neu. Macron darf nicht mehr antreten. Das Rennen ist offen – sechs Namen stehen im Fokus.",
-              "summary": "Im April 2027 wählt Frankreich einen neuen Präsidenten. Emmanuel Macron ist verfassungsrechtlich ausgeschlossen. Das Handelsblatt analysiert den aufkeimenden Machtkampf: Die politische Mitte ist geschwächt, links wie rechts gibt es starke Kandidaten. Sechs Namen prägen bereits die Diskussion.",
-              "gegenstimme": "Politologen warnen: Prognosen ein Jahr vor der Wahl haben historisch wenig Aussagekraft – Frankreichs Präsidentschaftsrennen dreht sich oft erst in den letzten drei Monaten. Zudem ist das Wahlsystem (zwei Runden) oft überraschend: Wer in der ersten Runde vorne liegt, gewinnt nicht zwingend.",
-              "sources": [
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/international/frankreich-der-machtkampf-um-macrons-nachfolge-hat-begonnen/100213171.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-iran-hormus-schiffe-beschlagnahmt",
-              "slug": "iran-hormus-schiffe-beschlagnahmt",
-              "title": "Iran beschlagnahmt Schiffe – Hormus bleibt gesperrt",
-              "date": "2026-04-23",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🚢",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/31e98933-60a4-4081-ac68-0563f01bdc2c_w520_r2.08_fpx53_fpy53.jpg",
-              "kurz": "Iran beschlagnahmte zwei Frachtschiffe in der Strasse von Hormus. Teheran erklärt Wiedereröffnung als unmöglich – Trump verlängert Waffenruhe ohne neues Ultimatum.",
-              "summary": "Iran hat am Mittwoch zwei Frachtschiffe (MSC Francesca und Epaminondas) in der Strasse von Hormus beschlagnahmt. Teherans Chefunterhändler sagt, eine Wiedereröffnung der Wasserstrasse sei wegen 'flagranter Waffenstillstandsverletzungen' durch USA und Israel unmöglich. Trump verlängerte die Waffenruhe auf unbestimmte Zeit – das zweite Mal in zwei Wochen. Gleichzeitig trat Marine-Staatssekretär John Phelan zurück.",
-              "gegenstimme": "Das Weisse Haus betont: Trump ist mit der laufenden Seeblockade 'zufrieden' und sieht Iran in einer schwachen Position. Konservative US-Analysten warnen, die offene Verlängerung ohne Deadline sende ein Zeichen der Schwäche. Hardliner in Teheran nutzen die Situation, um moderate Unterhändler unter Druck zu setzen.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/c3w3vqv0edpo"
-                },
-                {
-                  "name": "BBC – Trump buys time",
-                  "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/iran-usa-konflikt-waffenruhe-verlaengert-aber-keine-entspannung-ld.10003955"
-                },
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-will-waffenruhe-offenbar-nur-um-wenige-tage-verlaengern-john-phelan-verlaesst-us-regierung-a-9699ad41-ee1e-4130-b2e1-af7f54cd31f4"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-uk-aermelkanal-frankreich-760-millionen",
-              "slug": "uk-aermelkanal-frankreich-760-millionen",
-              "title": "UK zahlt Frankreich 760 Mio für Ärmelkanal-Schutz",
-              "date": "2026-04-23",
-              "time": "06:00",
-              "category": "international",
-              "icon": "🚤",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/6a315fc7-070c-48b6-876b-c0a7ed8fee2f_w520_r2.08_fpx60_fpy50.jpg",
-              "kurz": "Grossbritannien und Frankreich einigen sich auf ein neues Dreijahresabkommen: 760 Millionen Euro für verstärkte Grenzkontrollen im Ärmelkanal gegen illegale Migrationsüberfahrten.",
-              "summary": "UK zahlt Frankreich im Rahmen eines neuen Dreijahresabkommens bis zu 762 Millionen Euro (£662 Mio) für Massnahmen gegen illegale Bootsüberfahrten im Ärmelkanal. Geplant sind Drohnen, Hubschrauber und fast 1100 Sicherheitskräfte. Ein Teil der Zahlungen ist an konkrete Ergebnisse geknüpft.",
-              "gegenstimme": "Migrationsorganisationen kritisieren den Ansatz als kurzfristig und inhumane Abschreckungspolitik. Frankreichs linke Opposition sieht darin eine Unterwerfung unter britischen Druck. Experten bezweifeln, ob Geldtransfers allein die Überfahrten dauerhaft reduzieren können – bisherige Abkommen hatten gemischten Erfolg.",
-              "sources": [
-                {
-                  "name": "BBC News",
-                  "url": "https://www.bbc.com/news/articles/cz0ev7enk2lo"
-                },
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/ausland/migrationsroute-aermelkanal-grossbritannien-zahlt-frankreich-bis-zu-760-millionen-euro-fuer-kontrollen-a-5d5a36b0-fb25-41c3-bc47-134de1946ea4"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-schweiz-kerosin-72-tage-vorrat",
-              "slug": "schweiz-kerosin-72-tage-vorrat",
-              "title": "Schweiz hat noch 72 Tage Kerosin – EU sucht Antwort",
-              "date": "2026-04-23",
+              "id": "2026-04-24-covid-kredit-betrug-schweiz",
+              "slug": "covid-kredit-betrug-schweiz",
+              "title": "Covid-Kredit-Betrug: 3300 Anzeigen, 400 Mio. Franken Schaden",
+              "date": "2026-04-24",
               "time": "06:00",
               "category": "schweiz",
-              "icon": "✈️",
+              "icon": "⚖️",
               "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/a1837363-fc95-40df-8900-57d6a8d9ea01_w520_r2.08_fpx47.5_fpy49.99.jpg",
-              "kurz": "Die Schweiz schlittert auf eine Kerosinknappheit zu: Vorräte reichen noch für 72 Tage, das Minimum sind 90. Die EU findet keine gemeinsame Antwort.",
-              "summary": "Die Kerosinvorräte der Schweiz sind auf kritisch tiefe 72 Tage gesunken – das vorgeschriebene Minimum liegt bei 90 Tagen. Der Grund: die anhaltende Blockade der Strasse von Hormuz treibt die Ölpreise und schränkt die Versorgung ein. Während die EU keine klare Antwort findet, werben Mitgliedstaaten für Sommerflugreisen und gewähren Tankrabatte.",
-              "gegenstimme": "Die Flugbranche betont, kurzfristig keine Kapazitäten drastisch reduzieren zu können. Energiepolitische Experten warnen vor staatlichen Eingriffen in den Marktmechanismus. Andere Staaten wie Deutschland setzen auf Tankrabatte, was die Nachfrage eher ansteigen lässt.",
+              "image": "https://cdn.unitycms.io/images/236398099635.jpg",
+              "kurz": "Das Bundesgericht hat einen Wirt verurteilt, der sich einen Covid-Kredit erschlichen hat. Tausende ähnliche Fälle belasten die Schweizer Justiz bis heute.",
+              "summary": "Ein Grundsatzurteil des Bundesgerichts hat einen Gastronomen verurteilt, der sich unberechtigt einen Covid-Kredit von 50'000 Franken erschlichen hatte. In der Schweiz laufen derzeit 3300 Anzeigen wegen Covid-Kredit-Betrugs – die Deliktsumme beläuft sich auf über 400 Millionen Franken. Die Fälle belasten die Justiz erheblich.",
+              "gegenstimme": "Einige Rechtsexperten relativieren: Viele Betrugsfälle seien nicht klar abgegrenzt von echter Not. Die schnelle Auszahlung der Covid-Kredite war politisch gewollt, Missbrauch war systemimmanent. Strafverfolgung bei Kleinstbeträgen könnte unverhältnismässig sein.",
               "sources": [
                 {
-                  "name": "Swissinfo",
-                  "url": "https://www.swissinfo.ch/ger/swiss-abroad/heute-in-der-schweiz/91296435"
-                },
-                {
-                  "name": "Spiegel Wirtschaft",
-                  "url": "https://www.spiegel.de/wirtschaft/iran-krieg-warnungen-vor-kerosinmangel-zugleich-werbung-fuer-sommerfluege-a-230aeef0-3db8-48ba-9703-4d5cb1f9a588"
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/covid-kredite-3300-betrugsanzeigen-ueber-400-millionen-franken-236398099635"
                 }
               ]
             },
             {
-              "id": "2026-04-23-ubs-eigenkapital-reaktion-nzz-kritik",
-              "slug": "ubs-eigenkapital-reaktion-nzz-kritik",
-              "title": "Update: UBS lehnt Eigenkapital-Auflagen ab – NZZ kritisiert Bundesrat",
-              "date": "2026-04-23",
+              "id": "2026-04-24-schweiz-nachrichtendienst-spionage",
+              "slug": "schweiz-nachrichtendienst-spionage",
+              "title": "Parlament will PC-Spionage ohne Bundesratsgenehmigung erlauben",
+              "date": "2026-04-24",
+              "time": "06:00",
+              "category": "schweiz",
+              "icon": "🔍",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/04/23/c783ae99-df65-4deb-8015-77a2dea2d22b.jpg?s=ea4762425eaceb04518c4529f5963f87",
+              "kurz": "Die sicherheitspolitische Kommission des Nationalrats will den Nachrichtendienst stärken – Angriffe auf ausländische Computersysteme sollen ohne Bundesratsgenehmigung möglich werden.",
+              "summary": "Der Bundesrat hat eine Reform des Nachrichtendienstgesetzes (NDG) vorgeschlagen, um den schweizerischen Geheimdienst zu stärken. Die zuständige Nationalratskommission geht nun noch weiter: Sie will Cyberangriffe auf ausländische Computersysteme ohne explizite Bundesratsermächtigung erlauben – ein erheblicher Schritt für einen Staat, der auf Neutralität setzt.",
+              "gegenstimme": "Datenschützer und linke Parlamentarierinnen warnen vor einer Aushöhlung rechtsstaatlicher Kontrolle. Die Genehmigungspflicht durch den Bundesrat sei eine wichtige demokratische Schranke, die nicht ausgehebelt werden dürfe. Zudem könnte ein aktiver Schweizer Cybergeheimdienst die Neutralität des Landes gefährden.",
+              "sources": [
+                {
+                  "name": "20min",
+                  "url": "https://www.20min.ch/story/auslaendische-pc-systeme-politiker-wollen-pc-spionage-ohne-bundesratssegen-erlauben-103550544"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-schweiz-sicherer-hafen-golfgeld",
+              "slug": "schweiz-sicherer-hafen-golfgeld",
+              "title": "Golfstaaten-Kapital fliesst in die Schweiz: Sicherer Hafen profitiert",
+              "date": "2026-04-24",
+              "time": "06:00",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images//320ws/5793f4.webp",
+              "kurz": "Angesichts des Iran-Kriegs verlagern Investoren aus den Golfstaaten Vermögen in sichere Häfen wie die Schweiz. Genf und Zürich profitieren vom geopolitischen Stress.",
+              "summary": "Der Iran-Krieg treibt Kapital aus den Golfstaaten in Richtung sicherer Häfen. Die Schweiz profitiert: Schweizer Banken und Vermögensverwalter verzeichnen erhöhten Zufluss aus Dubai, Abu Dhabi und Katar. Die traditionelle Rolle der Schweiz als neutraler, stabiler Finanzplatz kommt ihr in Krisenzeiten zugute.",
+              "gegenstimme": "Kritische Stimmen weisen darauf hin, dass ein Teil des Kapitalzuflusses aus politisch heiklen Quellen stammt. Die Schweiz steht in der Pflicht, Geldwäschereigesetze konsequent durchzusetzen – auch wenn kurzfristig viel Geld ins Land fliesst.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/schweiz-als-sicherer-hafen-die-golfstaaten-glaenzen-doch-das-geld-zieht-in-die-schweiz"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-snb-schlegel-ubs-eigenkapital",
+              "slug": "snb-schlegel-ubs-eigenkapital",
+              "title": "SNB-Chef Schlegel widerspricht UBS: Eigenkapitalregeln sind zumutbar",
+              "date": "2026-04-24",
               "time": "06:00",
               "category": "schweiz",
               "icon": "🏦",
               "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/8Z2pT18CKJHBIi3YWBxSQZ.jpg",
-              "kurz": "UBS kritisiert die Eigenkapitalvorschläge des Bundesrats scharf. NZZ urteilt: Der Bundesrat handelt mutlos und gefährdet die Stabilität der letzten Schweizer Grossbank.",
-              "summary": "Nachdem der Bundesrat gestern seine Eigenkapitalvorschriften für die UBS präsentiert hat, reagiert die Bank heute mit scharfer Kritik. Laut SRF-Experte Aymo Brunetti werde die UBS das 'ohne weiteres wegstecken können'. Die NZZ schiesst trotzdem gegen den Bundesrat: Die Regulierung gefährde die Stabilität der letzten Grossbank, das Parlament müsse nachbessern.",
-              "gegenstimme": "Finanzministerin Karin Keller-Sutter verteidigt den Vorschlag: Der Bund sei der UBS 'ein Stück weit entgegengekommen', stelle aber eine Bedingung. Die UBS argumentiert, zusätzliche Eigenkapitalpflichten schadeten der internationalen Wettbewerbsfähigkeit und würden Kapital binden, das besser investiert wäre.",
+              "image": "https://img-msp-prod.nzz.ch/2026/04/23/b7352c64-6d28-45a7-b0f2-0fbcdd0de246.jpg?width=700&height=400&fit=bounds&quality=75&auto=webp",
+              "kurz": "SNB-Präsident Schlegel stellt sich klar hinter die Bundesratsforderungen für mehr UBS-Eigenkapital. Die Bank habe genug Reserven, um alle Vorschriften zu erfüllen, ohne den Sitz zu verlegen.",
+              "summary": "Martin Schlegel, Präsident der Schweizerischen Nationalbank, verteidigt im NZZ-Interview die Eigenkapitalforderungen des Bundesrats gegenüber der UBS. Die geplanten Vorschriften – volle Eigenkapitalunterlegung ausländischer Beteiligungen, beschleunigte Software-Abschreibungen – seien 'verhältnismässig, gezielt und effektiv'. Die UBS hatte gedroht, den Sitz ins Ausland zu verlagern.",
+              "gegenstimme": "Die UBS-Führung warnt vor Wettbewerbsnachteilen gegenüber ausländischen Grossbanken. International tätige Finanzexperten teilen diese Sorge teilweise: Ein 'Swiss Finish' könnte Kapital aus der Schweiz verdrängen. Die Frage ist, ob die Risikominimierung die Kosten rechtfertigt.",
               "sources": [
                 {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/schweiz/lex-ubs-die-ubs-wehrt-sich-weiter"
-                },
-                {
-                  "name": "SRF – Experte Brunetti",
-                  "url": "https://www.srf.ch/news/wirtschaft/eigenkapitalvorschriften-die-ubs-wird-das-ohne-weiteres-wegstecken-koennen"
-                },
-                {
-                  "name": "NZZ Kommentar",
-                  "url": "https://www.nzz.ch/meinung/der-bundesrat-handelt-mutlos-im-umgang-mit-der-ubs-ld.10004024"
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/snb-praesident-schlegel-widerspricht-der-ubs-die-vorgeschlagenen-massnahmen-sind-nicht-extrem-ld.10004144"
                 }
               ]
             },
             {
-              "id": "2026-04-23-us-botschafterin-bern-gingrich",
-              "slug": "us-botschafterin-bern-gingrich",
-              "title": "Wer vertritt Trump in Bern? Callista oder Newt Gingrich?",
-              "date": "2026-04-23",
-              "time": "06:00",
-              "category": "schweiz",
-              "icon": "🇺🇸",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/8Z2pT18CKJHBIi3YWBxSQZ.jpg",
-              "kurz": "Tagesanzeiger: US-Botschafterin Callista Gingrich gilt als wenig dossierfest. Ihr Mann Newt gibt den Ton an. Das diplomatische Bern ist irritiert.",
-              "summary": "Laut Tagesanzeiger ist die offizielle US-Botschafterin in der Schweiz, Callista Gingrich, vor Ort als wenig dossierfest bekannt. Ihr Mann – der frühere US-Sprecher des Repräsentantenhauses Newt Gingrich – mische sich aktiv in die Botschaftspolitik ein und gebe de facto den Ton an. Im diplomatischen Umfeld Berns habe das für Irritationen gesorgt.",
-              "gegenstimme": "Das Weisse Haus sieht in der Praxis keine Probleme: Die USA haben diplomatisch immer mit dem gearbeitet, der am Tisch sitzt. Historisch ist es nicht ungewöhnlich, dass politische Botschafter – ohne Karrierediplomaten-Erfahrung – auf das Netzwerk ihres Umfelds setzen.",
-              "sources": [
-                {
-                  "name": "Tagesanzeiger",
-                  "url": "https://www.tagesanzeiger.ch/us-botschafterin-in-bern-newt-redet-callista-gingrich-drein-559057344272"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-velounfaelle-schweiz-helmpflicht",
-              "slug": "velounfaelle-schweiz-helmpflicht",
-              "title": "Mehr tödliche Velounfälle in der Schweiz – Debatte um Helmpflicht",
-              "date": "2026-04-23",
-              "time": "06:00",
-              "category": "schweiz",
-              "icon": "🚲",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/FfqomSs-KTGAt4owgZt7VQ.jpg",
-              "kurz": "Die Schweiz verzeichnet mehr tödliche Velounfälle als europäische Länder, obwohl es dort weniger Frostnächte gibt. Ein neuer Bericht entfacht Debatte über Helmpflicht und getrennte Velowege.",
-              "summary": "Ein neuer internationaler Vergleich zeigt: In der Schweiz steigt die Zahl tödlicher Velounfälle – während sie in den meisten europäischen Ländern sinkt. Ein Bericht liefert nun politischen Zündstoff: Braucht die Schweiz eine Helmpflicht? Oder sind getrennte Velowege die bessere Antwort?",
-              "gegenstimme": "Veloverbände wehren sich gegen Helmpflicht: Sie schrecke Menschen vom Velofahren ab und verlagere die Verantwortung zu Unrecht auf die Opfer. Stadtplaner betonen, strukturelle Massnahmen (Velostrassen, Begegnungszonen) seien wirksamer als gesetzliche Pflichten.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/velounfaelle-schweiz-zahl-der-toten-steigt-kommt-die-helmpflicht-923804667195"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-bern-kita-missbrauch-schwarze-liste",
-              "slug": "bern-kita-missbrauch-schwarze-liste",
-              "title": "Bern: Mutmassliche Kita-Missbrauchsfälle – Ruf nach schwarzer Liste",
-              "date": "2026-04-23",
+              "id": "2026-04-24-bern-insel-rettungsdienst",
+              "slug": "bern-insel-rettungsdienst",
+              "title": "Bern übernimmt Insel-Rettungsdienst – Gemeinderat stimmt zu",
+              "date": "2026-04-24",
               "time": "06:00",
               "category": "regional",
-              "icon": "🔴",
-              "edition": "morning",
-              "image": "https://cdn.unitycms.io/images/4qh_C7GGKDK8BGj77CcuiA.jpg",
-              "kurz": "Mutmassliche Missbrauchsfälle in Berner Kitas. Kanton prüft 10'000 Angestellte per Strafregister – doch die Frage bleibt: Braucht es eine schwarze Liste wie bei Lehrpersonen?",
-              "summary": "Mutmassliche Missbrauchsfälle in Berner Kitas haben eine politische Debatte ausgelöst. Der Kanton Bern überprüft bereits jährlich 10'000 Kita-Angestellte über das Strafregister. Experten sagen jedoch: Das reicht nicht. Die Forderung nach einer schwarzen Liste – wie sie für Lehrpersonen existiert – gewinnt Unterstützung.",
-              "gegenstimme": "Datenschützer warnen vor Überregulierung und dem Risiko von Datenmissbrauch bei zentralen Sperrlisten. Kita-Verbände betonen, dass die grosse Mehrheit ihrer Mitarbeitenden integer ist und pauschale Massnahmen das Vertrauen in die Branche untergraben.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/kita-missbrauch-kanton-bern-ueberprueft-10000-angestellte-326098802996"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-e-autos-europa-boom-78-prozent",
-              "slug": "e-autos-europa-boom-78-prozent",
-              "title": "E-Auto-Boom in Europa: +78% Zulassungen – China bricht ein",
-              "date": "2026-04-23",
-              "time": "06:00",
-              "category": "wirtschaft",
-              "icon": "⚡",
+              "icon": "🚑",
               "edition": "morning",
               "image": "",
-              "kurz": "In Europa stiegen E-Auto-Zulassungen um 78% – angetrieben von hohen Spritpreisen. In China brechen sie um 55% ein. Marktanteil deutscher Hersteller auf Rekordtief.",
-              "summary": "Der Iran-Krieg und die daraus resultierenden hohen Treibstoffpreise befeuern die E-Auto-Nachfrage in Europa: Plus 78% Zulassungen im Vergleich zum Vorjahr. China erlebt das Gegenteil – nach dem Ende von Steuerrabatten brachen Neuzulassungen um 55% ein. Für deutsche Autobauer sinkt der Marktanteil in China auf ein Rekordtief.",
-              "gegenstimme": "Automobilexperten warnen: Der Boom in Europa ist konjunkturell getrieben (Spritpreise) und nicht strukturell. Fällt der Ölpreis nach einem Friedensschluss, könnten die Verkaufszahlen wieder einbrechen. Ladeinfrastruktur und Reichweitenangst bleiben strukturelle Hemmnisse.",
+              "kurz": "Der Berner Gemeinderat befürwortet die Übernahme des Rettungsdienstes der Insel Gruppe durch die Stadt. Ziel: langfristige Sicherung der Notfallversorgung.",
+              "summary": "Der Berner Gemeinderat hat beschlossen, den Rettungsdienst der Insel Gruppe (Unispital Bern) zu übernehmen. Damit soll die Notfallversorgung der Bevölkerung langfristig und unabhängig von einem privaten Spitalträger sichergestellt werden. Details zur finanziellen Ausgestaltung folgen.",
+              "gegenstimme": "Skeptiker fragen, ob eine Kommunalisierung des Rettungsdienstes wirklich effizienter ist als der Status quo. Betriebswirtschaftlich können private oder universitäre Träger oft flexibler agieren als städtische Verwaltungen.",
               "sources": [
                 {
-                  "name": "Handelsblatt – E-Auto Europa",
-                  "url": "https://www.handelsblatt.com/unternehmen/industrie/elektromobilitaet-ein-plus-von-78-prozent-darum-boomen-die-stromer-in-europa/100216743.html"
-                },
-                {
-                  "name": "Handelsblatt – China",
-                  "url": "https://www.handelsblatt.com/unternehmen/industrie/elektroautos-marktanteil-deutscher-hersteller-in-china-faellt-auf-rekordtief/100217441.html"
+                  "name": "Stadt Bern",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/gemeinderat-befuerwortet-uebernahme-des-insel-rettungsdienstes"
                 }
               ]
             },
             {
-              "id": "2026-04-23-elon-musk-ein-jahr-nach-weissem-haus",
-              "slug": "elon-musk-ein-jahr-nach-weissem-haus",
-              "title": "Elon Musk – ein Jahr nach dem Weissen Haus: SpaceX glänzt, Tesla harzt",
-              "date": "2026-04-23",
+              "id": "2026-04-24-bern-kunstmuseum-abstimmung",
+              "slug": "bern-kunstmuseum-abstimmung",
+              "title": "Bern: Kunstmuseum droht Teilschliessung ohne 15-Mio.-Kredit",
+              "date": "2026-04-24",
               "time": "06:00",
-              "category": "wirtschaft",
-              "icon": "🚀",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/453e7e80-d26e-416b-b9f3-17902561e73c_w520_r2.08_fpx29.99_fpy55.jpg",
-              "kurz": "NZZ-Analyse: Ein Jahr nach Musks Rückzug aus der US-Politik zieht er eine zwiespältige Bilanz. SpaceX vor grösstem Erfolg, bei Tesla und xAI harzt es aber.",
-              "summary": "Ein Jahr nachdem Elon Musk das Weisse Haus verlassen hat, analysiert die NZZ seine unternehmerische Bilanz: SpaceX steht kurz vor dem grössten Erfolg in der Firmengeschichte – doch Tesla kämpft mit Absatzschwäche und Reputationsschäden aus der Politik-Ära. xAI, Musks KI-Firma, hinkt den Konkurrenten Anthropic und OpenAI hinterher.",
-              "gegenstimme": "Tesla-Bullen argumentieren, die Q1-Erholung zeige, dass Musk ohne politische Ablenkung wieder liefert. Kritiker sehen strukturelle Probleme: China-Verluste, FSD-Enttäuschungen und ein verprelltes liberales Kundensegment. Bei xAI ist Grok gegenüber Claude und GPT-4 klar im Nachteil.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/seit-einem-jahr-kuemmert-sich-elon-musk-wieder-um-seine-firmen-statt-die-politik-doch-seine-bilanz-ist-zwiespaeltig-ld.10004003"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-tesla-q1-2026-erholung",
-              "slug": "tesla-q1-2026-erholung",
-              "title": "Tesla erholt sich: Umsatz und Gewinn steigen wieder deutlich",
-              "date": "2026-04-23",
-              "time": "06:00",
-              "category": "wirtschaft",
-              "icon": "🚗",
-              "edition": "morning",
-              "image": "https://cdn.prod.www.spiegel.de/images/453e7e80-d26e-416b-b9f3-17902561e73c_w520_r2.08_fpx29.99_fpy55.jpg",
-              "kurz": "Tesla meldet deutlich bessere Q1-Zahlen 2026. Umsatz und Gewinn erholen sich nach dem Absatzeinbruch 2025. Doch Musk dämpft Erwartungen – FSD für ältere Fahrzeuge bleibt aus.",
-              "summary": "Nach einem schwierigen Jahr 2025 präsentiert Tesla starke Q1-Zahlen 2026: Umsatz und Gewinn legten im Jahresvergleich deutlich zu. Tesla-CEO Elon Musk dämpfte jedoch Zukunftserwartungen: Fahrzeuge der Hardware-Generation HW3 erhalten kein unsupervised Full Self-Driving (FSD). Gleichzeitig kündigte er die Vorbereitung der ersten Optimus-Roboter-Grossfabrik an.",
-              "gegenstimme": "Kritiker weisen darauf hin, dass Tesla von höheren Autopreisen aufgrund des Iran-Kriegs profitiert – höhere Spritkosten steigern die Nachfrage nach E-Autos. Der Marktanteil in China sinkt weiter auf ein Rekordtief. Ausserdem enttäuschte Musk bei der Guidance für FSD, was Anleger belastete.",
-              "sources": [
-                {
-                  "name": "Spiegel Wirtschaft",
-                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-umsatz-und-gewinn-steigen-nach-absatzeinbruch-wieder-deutlich-a-df70543b-5cc3-4073-9709-b16ff776f56d"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/unternehmen/industrie/elektroautos-musk-hat-wieder-mehr-geld-in-der-kasse-und-daempft-die-erwartungen/100218639.html"
-                },
-                {
-                  "name": "The Verge",
-                  "url": "https://www.theverge.com"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-google-ki-code-75-prozent",
-              "slug": "google-ki-code-75-prozent",
-              "title": "75% von Googles neuem Code ist KI-generiert",
-              "date": "2026-04-23",
-              "time": "06:00",
-              "category": "tech",
-              "icon": "🤖",
-              "edition": "morning",
-              "image": "",
-              "kurz": "Google-CEO Sundar Pichai: 75% des gesamten neuen Codes wird von KI generiert. Gleichzeitig: Gemini-Integration in Apple Siri bestätigt.",
-              "summary": "Google-CEO Sundar Pichai hat anlässlich der Cloud Next-Konferenz enthüllt, dass 75 Prozent des neuen Google-Codes von KI generiert wird – hoch von 50% im Herbst 2025. Zudem bestätigte Google eine Gemini-Integration in Apples Siri, die noch 'später dieses Jahr' kommt. Anthropic schreibt nach eigenen Angaben 70-90% des Codes mit Claude Code.",
-              "gegenstimme": "Kritiker warnen vor übertriebener KI-Abhängigkeit in der Softwareentwicklung: KI-generierter Code enthält mehr unerkannte Bugs und Sicherheitslücken. Erfahrene Ingenieure betonen, dass 'Code generieren' und 'Code verstehen' verschiedene Dinge sind. Die Qualitätsfrage wird erst in Jahren sichtbar.",
-              "sources": [
-                {
-                  "name": "The Verge",
-                  "url": "https://www.theverge.com"
-                },
-                {
-                  "name": "Google Cloud Blog",
-                  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/"
-                }
-              ]
-            }
-          ]
-        },
-        "midday": {
-          "time": "12:15",
-          "articles": [
-            {
-              "id": "2026-04-23-daenemark-zugunfall",
-              "slug": "daenemark-zugunfall",
-              "title": "Zugunglück in Dänemark: 17 Verletzte, vier in Lebensgefahr",
-              "date": "2026-04-23",
-              "time": "11:30",
-              "category": "international",
-              "icon": "🚂",
-              "edition": "midday",
-              "image": "https://img-msp-prod.nzz.ch/2026/04/23/29eca6ab-38f9-4148-ab55-a91ff73df17c.jpg",
-              "kurz": "Zwei Züge kollidierten am Donnerstagmorgen in Nordseeland – 17 Verletzte, vier davon in Lebensgefahr.",
-              "summary": "In Dänemark kollidierten am frühen Donnerstagmorgen zwei Züge auf der Strecke zwischen Hilleröd und Kagerup in Nordseeland. Laut Reuters wurden 17 Personen verletzt, vier davon schweben in Lebensgefahr. Der Einsatzleiter sprach von einem Aufprall mit «relativ hoher Geschwindigkeit». Niemand sei eingeklemmt gewesen. Die Ursache des Unglücks ist noch unklar.",
-              "gegenstimme": "Die dänische Transportsicherheitsbehörde hat Ermittlungen eingeleitet. Bis die Ursache geklärt ist, bleiben Spekulationen über menschliches Versagen oder technische Defekte verfrüht.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/panorama/in-daenemark-sind-zwei-zuege-kollidiert-vier-personen-schweben-in-lebensgefahr-ld.10004096"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/world-europe"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-israel-libanon-journalist-luftangriff",
-              "slug": "israel-libanon-journalist-luftangriff",
-              "title": "Israel tötet Journalistin im Libanon – Ambulanz blockiert",
-              "date": "2026-04-23",
-              "time": "11:30",
-              "category": "international",
-              "icon": "🎙️",
-              "edition": "midday",
-              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1474/live/4d6990d0-3eb6-11f1-bd52-e755d604ece4.jpg",
-              "kurz": "Israelische Luftangriffe töteten die Journalistin Amal Khalil in Südlibanon. Libanons PM wirft Israel Kriegsverbrechen vor.",
-              "summary": "Israelische Luftangriffe haben in Südlibanon die Journalistin Amal Khalil (43) von der Zeitung Al-Akhbar getötet und eine freischaffende Fotografin verletzt. Libanesische Behörden werfen Israel vor, die beiden Frauen gezielt angegriffen zu haben – auch als sie in einem Haus Schutz suchten. Eine Rotkreuz-Ambulanz wurde laut Berichten durch israelisches Feuer blockiert. Die IDF bestreitet das gezielte Targeting von Journalistinnen.",
-              "gegenstimme": "Die IDF erklärte, die Fahrzeuge hätten von einem militärischen Hezbollah-Stützpunkt aus eine Sicherheitslinie überschritten und eine Bedrohung für israelische Truppen dargestellt. Das Umfeld der Journalisten sei nicht bekannt gewesen.",
-              "sources": [
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/c5yvn036evlo"
-                },
-                {
-                  "name": "Reporters Without Borders",
-                  "url": "https://rsf.org"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-slowakei-druschba-oel-russland",
-              "slug": "slowakei-druschba-oel-russland",
-              "title": "Slowakei gibt EU-Sanktionsblockade auf – Russisches Öl fliesst wieder",
-              "date": "2026-04-23",
-              "time": "11:30",
-              "category": "international",
-              "icon": "🛢️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/e6103209-3c24-4a3b-939c-1870f76fc682_w520_r2.08_fpx33.32_fpy49.98.jpg",
-              "kurz": "Russisches Erdöl fliesst wieder durch die Druschba-Pipeline in die Slowakei – im Tausch hebt Bratislava die Blockade gegen EU-Sanktionen auf.",
-              "summary": "Nach einer rund dreimonatigen Unterbrechung fliesst wieder russisches Rohöl über die Druschba-Pipeline durch die Ukraine in die Slowakei. Gleichzeitig kündigt die Regierung von Premier Robert Fico an, die Blockade gegen das EU-Sanktionspaket gegen Russland aufzuheben. Der Deal hat grosse politische Symbolwirkung: Die Slowakei war bisher der hartnäckigste EU-Bremser bei Russland-Sanktionen.",
-              "gegenstimme": "Kritiker in der EU und in der Ukraine werfen Fico vor, wirtschaftliche Interessen über gemeinsame Sicherheitspolitik zu stellen. Das Zugeständnis könnte andere EU-Mitglieder ermutigen, ebenfalls Ausnahmen zu fordern.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/slowakei-wieder-oel-aus-russland-blockade-gegen-eu-sanktionen-endet-a-bb00cd80-b553-4b88-81d3-dc772308955c"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-uk-starmer-krise-kommunalwahl",
-              "slug": "uk-starmer-krise-kommunalwahl",
-              "title": "Starmer in der Krise: Skandale trüben Labour-Bilanz vor Kommunalwahlen",
-              "date": "2026-04-23",
-              "time": "11:30",
-              "category": "international",
-              "icon": "🇬🇧",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/be10def7-2fe9-410e-b20e-448be1aa7114_w520_r2.08_fpx46_fpy45.jpg",
-              "kurz": "Labour-Premier Keir Starmer steckt in mehreren Skandalen und verliert Rückhalt – ausgerechnet vor den britischen Kommunalwahlen.",
-              "summary": "Weniger als ein Jahr nach dem triumphalen Wahlsieg von Labour kämpft Premier Keir Starmer mit Skandalen, Entlassungen und Vertrauensverlust. Grossbritannien fragt sich, ob Labour tatsächlich anders regiert als die konservativen Tories. Mit den Kommunalwahlen steht Starmer vor einem frühen Realitätscheck seiner Regierungsfähigkeit.",
-              "gegenstimme": "Labour-Anhänger verweisen darauf, dass Starmer in wenigen Monaten ein massives Erbe übernommen hat und systemische Probleme nicht über Nacht zu lösen sind. Umfragen zeigen Labour weiterhin vor den Tories, auch wenn der Vorsprung geschrumpft ist.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/grossbritannien-keir-starmer-wollte-das-britische-chaos-beenden-jetzt-steckt-er-selbst-drin-a-22bd3502-36f2-4b37-8120-915a50391cc5"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-oecd-mindeststeuer-schweiz-enttaeuschend",
-              "slug": "oecd-mindeststeuer-schweiz-enttaeuschend",
-              "title": "OECD-Mindeststeuer: Schweiz verdient weit weniger als erwartet",
-              "date": "2026-04-23",
-              "time": "11:30",
-              "category": "schweiz",
-              "icon": "💼",
-              "edition": "midday",
-              "image": "https://img-msp-prod.nzz.ch/2024/11/08/4fa6d648-820d-41da-8080-b22330318020.jpeg",
-              "kurz": "Deloitte-Studie: Die OECD-Mindeststeuer bringt der Schweiz viel weniger ein als erhofft – und setzt falsche Anreize.",
-              "summary": "Eine neue Deloitte-Studie zeigt, dass die 2024 eingeführte OECD-Mindeststeuer (15% für Grosskonzerne) der Schweiz bisher weit weniger Steuereinnahmen bringt als erwartet. Nur wenige Konzerne zahlen tatsächlich die Ergänzungssteuer. Der Bund hatte 1.5 bis 3.5 Mrd CHF pro Jahr prognostiziert – Deloitte kommt auf deutlich tiefere Werte. Dazu kommen systemische Schwächen, da USA, China und andere Länder Ausnahmen durchgesetzt haben.",
-              "gegenstimme": "Der Bund argumentiert, die Einführungsphase laufe noch und erste Erfahrungswerte seien nicht repräsentativ. Langfristig soll das System faire Bedingungen schaffen und Doppelbesteuerung verhindern.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/die-oecd-mindeststeuer-bringt-der-schweiz-bisher-weniger-als-erwartet-ld.10004008"
-                },
-                {
-                  "name": "Deloitte CH",
-                  "url": "https://www2.deloitte.com/ch"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-schweiz-corona-debatte-unaufgearbeitet",
-              "slug": "schweiz-corona-debatte-unaufgearbeitet",
-              "title": "Corona-Debatte reloaded: Wie der Fall Fischer zeigt, wie gespalten die Schweiz noch ist",
-              "date": "2026-04-23",
-              "time": "11:30",
-              "category": "schweiz",
-              "icon": "🦠",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/5B66oo1saNDBidSrufNBYJ.jpg",
-              "kurz": "Der Fall des entlassenen Eishockey-Trainers Patrick Fischer entfacht eine hochemotionale Corona-Debatte – und zeigt: Die Pandemie ist in der Schweiz gesellschaftlich nicht aufgearbeitet.",
-              "summary": "Die Entlassung von Eishockey-Nationaltrainer Patrick Fischer, der sich öffentlich gegen Covid-Impfungen positioniert hatte, hat eine intensive Debatte über Pandemie-Aufarbeitung in der Schweiz ausgelöst. TagesAnzeiger-Kolumnist Philipp Loser schreibt: Die Reaktionen zeigen, dass Corona eine tiefe gesellschaftliche Wunde hinterlassen hat, die noch nicht verheilt ist.",
-              "gegenstimme": "Andere Kommentatoren betonen, Fischer sei nicht wegen seiner Meinung entlassen worden, sondern wegen mangelnder Ergebnisse als Trainer. Corona als Erklärung zu benutzen sei eine Ablenkung von legitimen sportlichen Leistungsfragen.",
-              "sources": [
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/patrick-fischer-corona-pandemie-spaltet-schweiz-noch-immer-826055357472"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-bern-velostationen-kameras-sp",
-              "slug": "bern-velostationen-kameras-sp",
-              "title": "Bern: SP stimmt Kameras in Velostationen zu – zähneknirschend",
-              "date": "2026-04-23",
-              "time": "11:30",
               "category": "regional",
-              "icon": "🚲",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/34qwjoqoqxE8xp-7-GKSX5.jpg",
-              "kurz": "Der Berner Stadtrat entscheidet heute über Videoüberwachung in Veloabstellanlagen. Die SP stimmt unter Vorbehalt zu.",
-              "summary": "Der Berner Stadtrat debattiert am Donnerstag über Kameras in städtischen Velostationen. Die SP, sonst Datenschutzverfechter, stimmt unter Vorbehalt zu – das Dilemma zwischen Datenschutz und Schutz vor massivem Velodiebstahl hat die Partei gezwungen, pragmatisch zu sein. Der Bund berichtete über den SP-internen Richtungsstreit.",
-              "gegenstimme": "Datenschutzorganisationen und ein Teil der SP sehen Videoüberwachung als unverhältnismässig an. Weniger invasive Massnahmen wie bessere Schliesssysteme oder erhöhte Polizeipräsenz seien zu wenig ausgeschöpft worden.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/kameras-in-berner-velostationen-sp-stimmt-zaehneknirschend-zu-853368659080"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-snb-verlust-nestle-quartal",
-              "slug": "snb-verlust-nestle-quartal",
-              "title": "SNB startet mit 500-Mio-Verlust ins Jahr – Nestlé wächst langsamer",
-              "date": "2026-04-23",
-              "time": "11:30",
-              "category": "wirtschaft",
-              "icon": "📉",
-              "edition": "midday",
-              "image": "https://img-msp-prod.nzz.ch/2025/12/10/a10bd48b-db37-4477-8f06-1f58f906c999.jpg",
-              "kurz": "Die SNB verzeichnet im Q1 2026 einen Verlust von 500 Millionen Franken. Nestlé wächst mit 3.5% ebenfalls langsamer als erwartet.",
-              "summary": "Die Schweizerische Nationalbank (SNB) hat im ersten Quartal 2026 einen Verlust von 500 Millionen Franken erlitten – nach einem Gewinn von 6.7 Mrd CHF im gleichen Vorjahresquartal. Haupttreiber waren negative Devisen- und Kapitalmarktentwicklungen. Gleichentags meldete Nestlé ein verlangsamtes organisches Wachstum von 3.5% bei 21.3 Mrd CHF Umsatz – teils bedingt durch Babynahrungsrückruf und Währungseffekte.",
-              "gegenstimme": "Die SNB betonte, starke Quartalsschwankungen seien normal. UBS-Ökonomen hatten sogar einen Verlust von 1 Mrd CHF prognostiziert – insofern ist das Ergebnis besser als befürchtet.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/wirtschaft-wto-scheitert-vorerst-an-einigung-zu-digitalzoellen-ld.1931622"
-                }
-              ]
-            }
-          ]
-        },
-        "evening": {
-          "time": "18:00",
-          "articles": [
-            {
-              "id": "2026-04-23-arctic-metagaz-mittelmeer-havariert",
-              "slug": "arctic-metagaz-mittelmeer-havariert",
-              "title": "Russischer LNG-Tanker «Arctic Metagaz» führerlos im Mittelmeer – Bergung erneut gescheitert",
-              "date": "2026-04-23",
-              "time": "17:00",
-              "category": "international",
-              "icon": "🚢",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/c809da55-e7a5-4c29-934e-9e247ec39797_w520_r2.08_fpx33.43_fpy50.jpg",
-              "kurz": "Der russische Flüssiggas-Tanker treibt seit über einem Monat herrenlos im Mittelmeer. Eine weitere Abschleppmission ist soeben gescheitert.",
-              "summary": "Der russische LNG-Tanker «Arctic Metagaz» treibt seit mehr als einem Monat ohne Besatzung und ohne Steuerung im Mittelmeer. Laut libyschen Behörden ist das Schiff «komplett ausser Kontrolle». Eine neue Abschleppmission ist am 23. April gescheitert. Umweltschützer und Schifffahrtsbehörden sind alarmiert.",
-              "gegenstimme": "Russland schweigt über den Verbleib der Besatzung und die Ursache der Havarie. Westliche Experten vermuten, dass die Umgehung von Sanktionen und die schlechte Wartung der russischen Schattenflotte ursächlich sind – Moskau bestreitet dies.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/libyen-russland-tanker-arctic-metagaz-im-mittelmeer-komplett-ausser-kontrolle-a-a4048811-709e-477c-8ef7-8e8c06db82ff"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-iran-hormus-trump-schuss-minenleger",
-              "slug": "iran-hormus-trump-schuss-minenleger",
-              "title": "Update Iran: Trump befiehlt US-Navy, Minenleger in der Strasse von Hormus zu beschiessen",
-              "date": "2026-04-23",
-              "time": "17:00",
-              "category": "international",
-              "icon": "⚔️",
-              "edition": "evening",
-              "image": "https://www.srf.ch/static/cms/images//320ws/d071bab.webp",
-              "kurz": "Trump eskaliert: US-Navy soll Boote die Minen legen sofort versenken. Gleichzeitig beschlagnahmt Amerika einen iranischen Öltanker.",
-              "summary": "US-Präsident Trump hat die Marine angewiesen, jedes Boot das in der Strasse von Hormus Minen verlegt unverzüglich zu beschiessen und zu zerstören. Parallel betritt die US-Navy einen iranischen Öltanker. Die Waffenruhe wackelt, während Trump Teheran nur wenige Tage für ein Friedensangebot gibt.",
-              "gegenstimme": "Kritiker warnen, eine solche Schiessbefugnis ohne klares Mandat riskiere unbeabsichtigte Eskalation. Iran bezeichnet die US-Massnahmen als Seeraub und kündigt Gegenmassnahmen an.",
-              "sources": [
-                {
-                  "name": "SRF News",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-trump-befiehlt-beschuss-von-minenlegern-in-strasse-von-hormus"
-                },
-                {
-                  "name": "BBC World",
-                  "url": "https://www.bbc.com/news/live/c0mjev4kn9jt"
-                },
-                {
-                  "name": "NZZ Live-Ticker",
-                  "url": "https://www.nzz.ch/international/israel-startet-angriff-gegen-iran-die-neuesten-entwicklungen-ld.1920292"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-iran-pahlavi-berlin-exil",
-              "slug": "iran-pahlavi-berlin-exil",
-              "title": "Schahs Sohn Reza Pahlavi in Berlin: «Es ist an der Zeit, dass ihr handelt»",
-              "date": "2026-04-23",
-              "time": "17:00",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "evening",
-              "image": "https://img-msp-prod.nzz.ch/2026/04/23/22846fda-cd98-4ca7-825b-68cd59a19c2d.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3674,3674,x916,y0",
-              "kurz": "Irans Exil-Kronprinz Reza Pahlavi fordert Europa auf, das Mullah-Regime nicht mehr zu beschwichtigen. Berlin meidet ihn offiziell.",
-              "summary": "Reza Pahlavi – Sohn des letzten Schahs und Hoffnungsträger der iranischen Opposition – besuchte Berlin und appellierte an Europa, den Druck auf Teheran zu erhöhen. Die Bundesregierung lehnte offizielle Gespräche ab und bezeichnete ihn als 'Privatmann'. Nur einzelne Abgeordnete wie CDU-Mann Armin Laschet empfingen ihn.",
-              "gegenstimme": "Kritiker im Westen warnen, dass Pahlavi als Symbol der alten Monarchie für viele Iraner keine legitime Alternative darstellt. Die Bundesregierung betont, das iranische Volk müsse selbst über seine Führung entscheiden.",
-              "sources": [
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/international/es-ist-an-der-zeit-dass-ihr-handelt-reza-pahlavi-der-sohn-des-letzten-iranischen-schahs-besucht-berlin-ld.10003697"
-                },
-                {
-                  "name": "Spiegel",
-                  "url": "https://www.spiegel.de/politik/deutschland/iran-schah-sohn-reza-pahlavi-in-berlin-bundesregierung-haelt-distanz-a-c3ac23eb-d9a3-4f06-bda3-e7a880deaa5a"
-                },
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/international/nahost/krieg-in-nahost-trump-befiehlt-beschuss-von-minenlegern-in-strasse-von-hormus"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-rumaenien-koalition-sparpolitik",
-              "slug": "rumaenien-koalition-sparpolitik",
-              "title": "Rumänien: Regierungskoalition zerbricht am Sparstreit",
-              "date": "2026-04-23",
-              "time": "17:00",
-              "category": "international",
-              "icon": "🇪🇺",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/b548cd17-1db0-4a19-9e4e-e5790fc2c90c_w520_r2.08_fpx68.66_fpy45.jpg",
-              "kurz": "Rumäniens Sozialdemokraten verlassen die Koalition. Premier Bolojan will sparen, die PSD lehnt ab – Sorgen um prowestliche Stabilität wachsen.",
-              "summary": "Rumäniens Regierungskoalition ist an einem Streit über Austeritätsmassnahmen zerbrochen. Premier Ilie Bolojan will die Staatsfinanzen sanieren, doch die Sozialdemokraten (PSD) stiegen aus der Koalition aus. Beobachter in Brüssel befürchten, dass das politische Vakuum antiwestlichen Kräften Auftrieb geben könnte.",
-              "gegenstimme": "Die Sozialdemokraten argumentieren, die Sparmassnahmen träfen vor allem die Bevölkerung und gefährdeten den sozialen Zusammenhalt. Premier Bolojan und die proeuropäischen Kräfte halten dagegen, ohne Konsolidierung drohe Rumänien eine Schuldenkrise.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/rumaenien-koalition-zerbricht-an-sparpolitik-a-e0a521da-28e2-42a8-83c4-018841b8daa7"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-roche-trump-us-haelfte-jobs",
-              "slug": "roche-trump-us-haelfte-jobs",
-              "title": "Roche-Chef warnt: Hälfte der Konzern-Jobs hängt am US-Geschäft – Trump bedroht es",
-              "date": "2026-04-23",
-              "time": "17:00",
-              "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "evening",
-              "image": "https://cdn.unitycms.io/images/4c1T8JFSaG19Na4MtsorKg.jpg",
-              "kurz": "Roche-CEO Schinecker schlägt Alarm: Trumps Preispolitik für Medikamente gefährdet das US-Geschäft, das 50% der weltweiten Konzernstellen trägt.",
-              "summary": "Roche-Chef Thomas Schinecker warnt öffentlich, dass Trumps politische Eingriffe in die US-Medikamentenpreise das Geschäftsmodell des Basler Pharmakonzerns gefährden. Rund die Hälfte aller Roche-Stellen weltweit hängt direkt oder indirekt am US-Markt. Der CEO sagt: «Wir arbeiten sehr hart an Lösungen.»",
-              "gegenstimme": "Befürworter von Trumps Preisregulierung halten dagegen, dass die überhöhten US-Arzneimittelpreise auf Kosten der amerikanischen Bevölkerung gehen. Für Pharmafirmen wie Roche sei der US-Markt überdurchschnittlich profitabel.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/roche-haelfte-der-jobs-haengt-von-usa-ab-trump-droht-schweiz-476746916947"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-swiss-lufthansa-billigtarif-kabine",
-              "slug": "swiss-lufthansa-billigtarif-kabine",
-              "title": "Swiss und Lufthansa Group führen neuen Ultrabillitarif ein – Kabinenkoffer werden kostenpflichtig",
-              "date": "2026-04-23",
-              "time": "17:00",
-              "category": "schweiz",
-              "icon": "✈️",
-              "edition": "evening",
-              "image": "https://image.20min.ch/2026/04/23/3552fdbb-a31e-402e-9eb0-c30701d23bb7.jpg?s=7ff41d11b8b4ad49adb7581af40dcbc4",
-              "kurz": "Lufthansa führt bei Swiss und anderen Töchtern einen neuen Billigtarif ein: Nur eine Laptoptasche ist kostenlos. Wer einen Trolley mitbringt, zahlt extra.",
-              "summary": "Die Lufthansa Group – zu der auch die Swiss gehört – führt einen neuen Günstigtarif ein, der nur noch eine kleine Laptoptasche als kostenloses Handgepäck erlaubt. Kabinenkoffer werden extra verrechnet. Der Schritt soll Konkurrenz zu Billigairlines wie Easyjet und Ryanair ermöglichen.",
-              "gegenstimme": "Konsumentenschützer kritisieren das Modell als Täuschung: Der günstige Grundtarif werde durch zahlreiche Zusatzgebühren aufgebläht. Passagiere die mit Handgepäck reisen zahlen am Ende oft mehr als beim bisherigen Tarif.",
-              "sources": [
-                {
-                  "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/lufthansa-group-neuer-billigtarif-bei-swiss-ohne-gratis-handgepaeck-103551360"
-                },
-                {
-                  "name": "Tages-Anzeiger",
-                  "url": "https://www.tagesanzeiger.ch/pascal-schmitz-srf-setzt-schweiz-aktuell-moderator-aus-868077591264"
-                }
-              ]
-            },
-            {
-              "id": "2026-04-23-bern-kunstmuseum-kredit-abstimmung",
-              "slug": "bern-kunstmuseum-kredit-abstimmung",
-              "title": "Bern: Kunstmuseum droht Teilschliessung – Abstimmungskampf um 15-Millionen-Kredit ist lanciert",
-              "date": "2026-04-23",
-              "time": "17:00",
-              "category": "regional",
-              "icon": "📍",
-              "edition": "evening",
+              "icon": "🎨",
+              "edition": "morning",
               "image": "https://cdn.unitycms.io/images/3kJmNwR5qLhB5u4hnx9PB9.jpg",
-              "kurz": "Das Kunstmuseum Bern braucht 15 Millionen für dringende Sanierungsarbeiten. Ein Komitee warnt: Ohne Kredit droht spätestens 2031 die Totalschliessung.",
-              "summary": "Ein Abstimmungskomitee hat heute den Kampf für den 15-Millionen-Projektkredit zur Sanierung des Kunstmuseums Bern eröffnet. Ohne die Mittel drohe zunächst eine Teilschliessung und ab 2031 eine Totalschliessung des traditionsreichen Hauses. Die Volksabstimmung steht kurz bevor.",
-              "gegenstimme": "Kritiker der Vorlage bezweifeln die Dringlichkeit und fragen, ob 15 Millionen ausreichen oder ob in einigen Jahren weitere Kredite folgen werden. In Zeiten knapper Stadtkassen stehe der Kulturbereich im Wettbewerb mit sozialen Ausgaben.",
+              "kurz": "Ein Ja-Komitee warnt: Lehnt Bern den 15-Millionen-Kredit ab, muss das Kunstmuseum ab 2031 Teile schliessen. Der Abstimmungskampf ist lanciert.",
+              "summary": "Das Berner Kunstmuseum – eine der bedeutendsten Schweizer Kunstinstitutionen – braucht 15 Millionen Franken für Sanierungsarbeiten und Modernisierung. Ein Pro-Komitee hat den Abstimmungskampf eröffnet und warnt vor dramatischen Folgen bei einem Nein: ab 2031 müssten Teile des Museums geschlossen werden. Die Abstimmung findet voraussichtlich im Sommer statt.",
+              "gegenstimme": "Kritische Stimmen fragen, warum ein Museum in Zeiten angespannter öffentlicher Finanzen so viel Geld erhält. Steuergelder für Kunsthäuser seien in einer Zeit mit grossen Sozial- und Infrastrukturausgaben schwer zu rechtfertigen. Andere Optionen wie private Fundraising-Kampagnen seien noch nicht ausgeschöpft.",
               "sources": [
                 {
                   "name": "Der Bund",
@@ -662,22 +248,90 @@
               ]
             },
             {
-              "id": "2026-04-23-eu-china-wechselrichter-foerderverbot",
-              "slug": "eu-china-wechselrichter-foerderverbot",
-              "title": "EU stoppt Förderung von chinesischen Solar-Wechselrichtern – Hacking-Risiko als Begründung",
-              "date": "2026-04-23",
-              "time": "17:00",
+              "id": "2026-04-24-meta-8000-entlassungen-ki",
+              "slug": "meta-8000-entlassungen-ki",
+              "title": "Meta entlässt 8000 Mitarbeitende – Sparen für KI-Investitionen",
+              "date": "2026-04-24",
+              "time": "06:00",
               "category": "wirtschaft",
-              "icon": "💡",
-              "edition": "evening",
-              "image": "https://cdn.prod.www.spiegel.de/images/a5e2cc95-c422-4e5e-9d01-76b078b3f989_w520_r2.08_fpx65.06_fpy49.99.jpg",
-              "kurz": "Brüssel streicht diskret und sofort die Förderung für chinesische Solar- und Batterie-Wechselrichter. Begründung: Gefahr durch Hacker.",
-              "summary": "Die EU-Kommission hat ohne öffentliche Ankündigung die Förderung für alle Solar- und Batterie-Wechselrichter aus China gestrichen. Die Massnahme gilt ab sofort. Als Grund nennt Brüssel das Risiko, dass chinesische Wechselrichter als Einfallstor für Hacker auf die europäische Energieinfrastruktur missbraucht werden könnten.",
-              "gegenstimme": "Kritiker in der Solarbranche warnen, dass das Förderverbot kurzfristig die Energiewende verzögert, da chinesische Wechselrichter oft deutlich günstiger sind als europäische Alternativen. Zudem fehle ein klares Kompensationsangebot für betroffene Haushalte und Unternehmen.",
+              "icon": "💼",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/396e5ead-5c22-47e5-88d4-c0aed01c233b_w520_r2.08_fpx59.51_fpy44.99.jpg",
+              "kurz": "Facebook-Mutterkonzern Meta baut fast 10% der Belegschaft ab – rund 8000 Stellen. Gleichzeitig investiert Zuckerberg über 100 Milliarden Dollar in KI.",
+              "summary": "Meta Platforms kündigt den Abbau von rund 8000 Stellen an – das entspricht knapp 10% der Gesamtbelegschaft. Laut einem internen Schreiben, das dem Spiegel vorliegt, sollen Einsparungen beim Personal die massiven KI-Investitionen querfinanzieren. CEO Mark Zuckerberg hat 100 Milliarden Dollar für KI-Infrastruktur angekündigt.",
+              "gegenstimme": "Gewerkschaften und Beschäftigtenvertreter in Europa kritisieren die Kündigungen als sozial unverantwortlich, insbesondere in einer Phase hoher Unternehmensgewinne. Technologieskeptiker warnen zudem, dass die Konzentration auf KI auf Kosten menschlicher Kontrolle und Qualität gehen könnte.",
               "sources": [
                 {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/soziales/eu-kommission-stoppt-foerderung-von-chinesischen-wechselrichtern-a-02b04614-9c1a-492e-ac05-235082b37827"
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-mutterkonzern-will-etwa-jeden-zehnten-job-kappen-a-35d2fc2b-c821-42f9-b826-85fb3d7bcf09"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/grossentlassung-facebook-mutterkonzern-meta-streicht-tausende-stellen"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-mini-akw-kernkraft-comeback",
+              "slug": "mini-akw-kernkraft-comeback",
+              "title": "Mini-AKW: Kleine Reaktoren bereiten das Comeback der Kernkraft vor",
+              "date": "2026-04-24",
+              "time": "06:00",
+              "category": "tech",
+              "icon": "⚛️",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/04/23/7a3d7ee8-0f23-4cda-91a2-8c8bda7e0dd9.jpg?width=700&height=400&fit=bounds&quality=75&auto=webp",
+              "kurz": "40 Jahre nach Tschernobyl erlebt die Kernkraft eine Renaissance. Kleine modulare Reaktoren (SMR) von Bill Gates und anderen versprechen sichere, günstige, CO2-freie Energie.",
+              "summary": "Kleine Modulare Reaktoren (SMR) stehen kurz vor der kommerziellen Reife. Investoren wie Bill Gates (TerraPower) und staatliche Energieprogramme in den USA, UK und Kanada schiessen Milliarden in die neue Technologie. Sie sollen kleiner, sicherer und günstiger sein als klassische AKW – und könnten die Energiewende beschleunigen, ohne auf erneuerbare Quellen allein angewiesen zu sein.",
+              "gegenstimme": "Umweltorganisationen und Anti-AKW-Aktivisten bleiben skeptisch: SMR-Technologie ist unbewiesen im Grossmassstab, der Atommüll bleibt ein ungelöstes Problem, und die Kosten sind schwer abzuschätzen. Einige Experten warnen vor übertriebenen Versprechen der Branche.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/podcast/mini-akw-kleine-modulare-reaktoren-und-neue-technologien-bereiten-ein-comeback-der-kernenergie-vor-ld.10004172"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-social-media-verbot-kinder",
+              "slug": "social-media-verbot-kinder",
+              "title": "Soziale Medien für Kinder: Welche Länder verhängen Verbote?",
+              "date": "2026-04-24",
+              "time": "06:00",
+              "category": "tech",
+              "icon": "📵",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/04/23/8f651ad4-2e79-43ef-8d9a-afaf416788b3.jpg?s=1e4432f56b7099237533ba1a3e1e058f",
+              "kurz": "Australien war 2025 Pionier mit dem ersten Social-Media-Verbot für Kinder unter 16. Immer mehr Länder folgen – ein Überblick über den globalen Regulierungstrend.",
+              "summary": "Australien hat Ende 2025 als erstes Land der Welt soziale Medien für Kinder unter 16 Jahren verboten. Seitdem haben mehrere weitere Länder ähnliche Gesetze beschlossen oder angekündigt. Die Massnahmen sollen Cybermobbing, Sucht und Exposition gegenüber schädlichen Inhalten reduzieren. Tech-Konzerne kämpfen juristisch dagegen.",
+              "gegenstimme": "Digitalrechtler und Jugendschutzexperten sind gespalten: Verbote allein adressieren nicht das eigentliche Problem, kritisieren manche. Jugendliche können Altersverifikation umgehen. Bessere Medienkompetenz und Elternbeteiligung seien effektiver. Andere sehen Verbote als notwendige Notbremse.",
+              "sources": [
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/"
+                },
+                {
+                  "name": "20min",
+                  "url": "https://www.20min.ch/story/ist-klimaschutz-tot-noch-nie-bezahlten-bei-galaxus-so-wenige-den-klima-beitrag-103551463"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-usa-china-ki-diebstahl",
+              "slug": "usa-china-ki-diebstahl",
+              "title": "USA beschuldigen China des massenhaften KI-Diebstahls",
+              "date": "2026-04-24",
+              "time": "06:00",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/news-042226a-lg-1152x648.jpg",
+              "kurz": "Washington wirft Peking vor, in 'industriellem Massstab' KI-Technologie und Trainingsdaten zu stehlen. China nennt die Anschuldigungen 'Verleumdung'.",
+              "summary": "Die US-Regierung hat China formell beschuldigt, in industriellem Ausmasss KI-Technologie, Algorithmen und Trainingsdaten zu stehlen. Das FBI und das Justizministerium haben mehrere chinesische Staatsbürger angeklagt. China weist alle Vorwürfe zurück. Der Fall verschärft den technologischen Kalten Krieg zwischen den USA und China.",
+              "gegenstimme": "Chinesische Staatsmedien und einige westliche Technologieforscher relativieren: Auch US-Firmen und westliche Geheimdienste betreiben Industriespionage. Zudem sei ein Teil des angeblichen 'Diebstahls' legaler Reverse Engineering oder der Nutzung öffentlich verfügbarer Open-Source-Modelle wie Metas Llama.",
+              "sources": [
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/feed/"
                 }
               ]
             }
