@@ -1,5 +1,5 @@
 {
-  "updated": "04:11 UTC",
+  "updated": "09:36 UTC",
   "days": [
     {
       "date": "2026-04-24",
@@ -332,6 +332,163 @@
                 {
                   "name": "Ars Technica",
                   "url": "https://arstechnica.com/feed/"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-04-24-orban-abwahl-ukraine-eu-beitritt",
+              "slug": "orban-abwahl-ukraine-eu-beitritt",
+              "title": "Nach Orbáns Abwahl: EU öffnet Tür für Ukraine-Beitritt",
+              "date": "2026-04-24",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🇪🇺",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2026/04/23/9ada4f28-1a1c-4871-9738-5994578e4f1f.jpg?width=520",
+              "kurz": "Mit Orbáns Abwahl fällt Ungarns Veto: EU-Ratspräsident Costa kündigt den Start der ersten Ukraine-Beitrittsverhandlungen an. Russland greift gleichzeitig Odessa an.",
+              "summary": "Nach dem Ende der Ära Viktor Orbán in Ungarn ist der Weg für die EU-Beitrittsverhandlungen mit der Ukraine frei. EU-Ratspräsident António Costa erklärte beim informellen Gipfel in Zypern, die ersten Verhandlungskapitel würden nun unverzüglich eröffnet. Bisher hatte Ungarn mit seinem Veto blockiert. Selenski bekräftigte: Die Ukraine will bis 2028 beitreten.",
+              "gegenstimme": "Skeptiker – darunter mehrere EU-Mitglieder – weisen darauf hin, dass die Beitrittsverhandlungen noch Jahre dauern und der Zeitplan bis 2028 unrealistisch ist. Zudem ist die Reform der EU-Institutionen für eine Erweiterung noch nicht abgeschlossen.",
+              "sources": [
+                {
+                  "name": "NZZ – Ukraine-Liveblog",
+                  "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-ld.1613540"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-russland-kreml-internet-kontrolle",
+              "slug": "russland-kreml-internet-kontrolle",
+              "title": "Russland: Kreml testet totale Internet-Kontrolle – Unmut in der Bevölkerung wächst",
+              "date": "2026-04-24",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🌐",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images//320ws/731f43.webp",
+              "kurz": "Der Kreml schaltet das Internet immer öfter ab – auch bei regimetreuen Bürgern sorgt das für Unmut. Expertin: Putin baut systematisch eine digitale Kontrollarchitektur auf.",
+              "summary": "Russland kappt der Bevölkerung zunehmend den Internetzugang – selbst in Regionen, die weit von der Frontlinie entfernt sind. Digitalpolitik-Expertin Alena Epifanova erklärt: Der Kreml testet die technologische Infrastruktur für vollständige Informationskontrolle. Staatliche Dienste wie der Messenger 'Max' sollen westliche Plattformen ersetzen. Putins Zustimmungsraten sinken.",
+              "gegenstimme": "Kreml-Sprecher begründen die Abschaltungen mit Drohnenabwehr und nationaler Sicherheit – in den direkten Kriegsregionen ist dieses Argument teilweise plausibel. Kritiker halten es für einen Vorwand zur totalen Zensur.",
+              "sources": [
+                {
+                  "name": "SRF News – Interview Alena Epifanova",
+                  "url": "https://www.srf.ch/news/international/mobilfunk-ausser-betrieb-expertin-der-kreml-testet-die-totale-kontrolle-des-internets"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-spanien-nato-ausschluss-irankrieg",
+              "slug": "spanien-nato-ausschluss-irankrieg",
+              "title": "USA prüfen NATO-Ausschluss Spaniens wegen Iran-Kriegsverweigerung",
+              "date": "2026-04-24",
+              "time": "11:30",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/f74b5a1a-7b7d-4496-b307-7c2ca0a99d26_w520_r2.08_fpx54.06_fpy54.98.jpg",
+              "kurz": "Madrid sperrt Luftraum und US-Stützpunkte für den Irankrieg. Washington skizziert intern einen NATO-Rauswurf Spaniens – ein Tabubruch.",
+              "summary": "Spanien verbietet der US-Armee, ihre zwei Stützpunkte auf spanischem Boden für Operationen im Irankrieg zu nutzen – und sperrt zusätzlich den Luftraum. Das Weisse Haus soll in einer internen Mail nun die Möglichkeit eines NATO-Ausschlusses Madrids durchgespielt haben. Ein solcher Schritt wäre ein historischer Bruch im Bündnis.",
+              "gegenstimme": "Völkerrechtler betonen, dass ein NATO-Ausschluss faktisch nicht vorgesehen ist – das Bündnis kennt keinen Ausschlussmechanismus. Madrid beruft sich auf seine Verfassung und Souveränität.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/spanien-und-iran-krieg-usa-pruefen-angeblich-nato-ausschluss-madrids-a-aee864e9-59dc-4b79-908b-78f5e5bcf565"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-trump-libanon-israel-waffenruhe",
+              "slug": "trump-libanon-israel-waffenruhe",
+              "title": "Trump verlängert Libanon-Waffenruhe – EU ringt mit Beistandsklausel",
+              "date": "2026-04-24",
+              "time": "11:30",
+              "category": "international",
+              "icon": "✊",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images//320ws/dd7b16.webp",
+              "kurz": "Trump verlängert die Israel-Libanon-Waffenruhe erneut. Gleichzeitig debattiert die EU, wie sie ihre Beistandsklausel für den Ernstfall stärken kann.",
+              "summary": "US-Präsident Trump hat die fragile Waffenruhe zwischen Israel und dem Libanon erneut verlängert. Wie lange sie hält, ist unklar. Parallel dazu diskutiert die EU in Zypern die Beistandsklausel (Artikel 42.7): Wie funktioniert gegenseitige Verteidigung, wenn die USA nicht mehr verlässlich sind? Der Ukraine-Krieg hat gezeigt, dass die EU-Staaten im Ernstfall auf sich gestellt sein könnten.",
+              "gegenstimme": "Israelische Regierungskreise zeigen sich ungeduldig mit der Verlängerungspolitik: Solange die Hisbollah nicht entwaffnet wird, sei jede Waffenruhe nur eine Atempause, keine Lösung.",
+              "sources": [
+                {
+                  "name": "SRF News – Libanon-Waffenruhe",
+                  "url": "https://www.srf.ch/news/international/libanon-und-israel-trump-verlaengert-wieder-eine-waffenruhe"
+                },
+                {
+                  "name": "SRF News – EU Beistandsklausel",
+                  "url": "https://www.srf.ch/news/international/europaeische-verteidigung-beistandsklausel-eu-muss-sich-fuer-den-buendnisfall-wappnen"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-eu-grenzgaenger-arbeitslosenversicherung-schweiz",
+              "slug": "eu-grenzgaenger-arbeitslosenversicherung-schweiz",
+              "title": "EU-Grenzgänger-Reform: Bis zu eine Milliarde Franken Mehrkosten für die Schweiz",
+              "date": "2026-04-24",
+              "time": "11:30",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/04/24/6e1b1b6a-34b9-4a21-85dd-8b60a8e75b05.jpg",
+              "kurz": "Neue EU-Regelung: Arbeitslose Grenzgänger sollen Arbeitslosengeld künftig in der Schweiz beziehen – Mehrkosten von bis zu 1 Mrd. CHF/Jahr.",
+              "summary": "Die EU plant eine Reform der Grenzgänger-Arbeitslosenversicherung: Wer seinen Job verliert, soll künftig Leistungen im Arbeitsland beziehen – nicht mehr im Wohnland. Für die Schweiz mit über 410'000 Grenzgängern bedeutet das Mehrkosten von bis zu einer Milliarde Franken jährlich. Die SVP droht, das Thema im Abstimmungskampf zur 10-Millionen-Initiative zu instrumentalisieren.",
+              "gegenstimme": "Befürworter der Regelung argumentieren, dass es logisch ist: Wer in der Schweiz einzahlt, soll auch in der Schweiz Leistungen beziehen können – und nicht im Wohnland doppelt profitieren.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/grenzgaenger-neue-eu-regel-koennte-schweiz-hunderte-millionen-im-jahr-kosten-103551714"
+                },
+                {
+                  "name": "Aargauer Zeitung",
+                  "url": "https://www.aargauerzeitung.ch/schweiz/arbeitslose-grenzgaenger-eu-reform-wird-schweiz-hunderte-millionen-kosten-ld.4156569"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-bern-schnegg-gesundheitsdirektion-gpk",
+              "slug": "bern-schnegg-gesundheitsdirektion-gpk",
+              "title": "Berner GPK rügt Schneggs Gesundheitsdirektion: Vier Forderungen",
+              "date": "2026-04-24",
+              "time": "11:30",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/5_hFdnGLqqcADMIoMd27Ba.jpg",
+              "kurz": "Die Berner Geschäftsprüfungskommission rügt Regierungsrat Schnegg: Zu wenig Kooperation, Infos nur unter Druck – vier konkrete Forderungen.",
+              "summary": "Die Geschäftsprüfungskommission (GPK) des Berner Grossen Rates hat die Gesundheitsdirektion von Regierungsrat Pierre Alain Schnegg (SVP) scharf gerügt. Sie arbeite zu wenig mit externen Partnern zusammen und informiere den Grossen Rat nur, wenn sie dazu gedrängt wird. Die GPK stellt vier konkrete Forderungen, darunter mehr Transparenz und bessere Zusammenarbeit.",
+              "gegenstimme": "Schnegg und die Gesundheitsdirektion haben die Kritik bisher nicht öffentlich kommentiert. SVP-Kreise dürften die GPK-Rüge als politisch motiviert einordnen.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-gpk-kritisiert-gesundheitsdirektion-wegen-zusammenarbeit-981312486264"
+                }
+              ]
+            },
+            {
+              "id": "2026-04-24-ifo-index-deutsche-wirtschaft-irankrieg",
+              "slug": "ifo-index-deutsche-wirtschaft-irankrieg",
+              "title": "Ifo-Index auf Sechsjahrestief: Irankrieg vergiftet deutsche Wirtschaft",
+              "date": "2026-04-24",
+              "time": "11:30",
+              "category": "wirtschaft",
+              "icon": "📊",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/08bd8cf8-1521-4136-9e53-d4fedb216d5b_w520_r2.08_fpx66.67_fpy50.jpg",
+              "kurz": "Der Ifo-Geschäftsklimaindex ist auf den tiefsten Stand seit 2020 gefallen. Der Irankrieg vernichtet Aufschwungshoffnungen – und treibt Baukosten um 5% hoch.",
+              "summary": "Der monatliche Ifo-Geschäftsklimaindex ist im April 2026 auf den schlechtesten Wert seit sechs Jahren gefallen. Ifo-Präsident Clemens Fuest macht den Irankrieg als Haupttreiber aus: Lieferketten sind gestört, Energiepreise steigen, die Hoffnung auf wirtschaftliche Erholung ist vorerst begraben. Auch der Hausbau wird teurer: Unternehmen melden Kostensteigerungen von bis zu 5%.",
+              "gegenstimme": "Einige Ökonomen warnen vor Überinterpretation des Stimmungsindikators – Unternehmen reagieren oft sensitiver auf geopolitische Ereignisse als die tatsächliche Produktionsleistung dies rechtfertigt.",
+              "sources": [
+                {
+                  "name": "Der Spiegel – Wirtschaft",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-stimmung-in-deutschen-unternehmen-so-schlecht-wie-seit-sechs-jahren-nicht-mehr-a-5b6d77bf-0c90-453f-96e2-1fedb11d792c"
+                },
+                {
+                  "name": "Der Spiegel – Baukosten",
+                  "url": "https://www.spiegel.de/wirtschaft/irankrieg-baukosten-fuer-hausbau-steigen-um-bis-zu-fuenf-prozent-a-33d8914d-252b-4353-a1fd-9fcf8797c6df"
                 }
               ]
             }
