@@ -1,345 +1,229 @@
 {
-  "updated": "10:10 UTC",
+  "updated": "15:10 UTC",
   "days": [
     {
-      "date": "2026-08-21",
+      "date": "2026-08-26",
       "editions": {
-        "midday": {
-          "time": "12:15",
+        "evening": {
+          "time": "18:00",
           "articles": [
             {
-              "id": "2026-08-21-el-nino-hitze-waldbraende",
-              "slug": "el-nino-hitze-waldbraende",
-              "title": "El Niño: 2027 droht rekordheiss, Feuer in Europa als Vorgeschmack",
-              "date": "2026-08-21",
-              "time": "12:15",
+              "id": "2026-08-26-cia-ratcliffe-moskau",
+              "slug": "cia-ratcliffe-moskau",
+              "title": "CIA-Chef Ratcliffe in Moskau: Kreml bestätigt Geheimdienstkontakte",
+              "date": "2026-08-26",
+              "time": "18:00",
               "category": "international",
-              "icon": "🌡️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/4b8867d4-f5f4-45f8-a193-fb08c5baaccf_w520_r2.08_fpx45.34_fpy50.jpg",
-              "kurz": "Das britische Met Office erwartet das stärkste El Niño seit Menschengedenken. 2027 könnte das heisseste Jahr werden. Waldbrände von Belgien bis Griechenland gelten als Vorgeschmack.",
-              "summary": "Wissenschaftler des Met Office nennen das wachsende El Niño ein beispielloses Ereignis. 2027 werde wahrscheinlich das heisseste Jahr seit Messbeginn. Eine Spiegel-Studie beschreibt, wie sich das Feuerrisiko in Europa je nach Klimapolitik entwickeln könnte. Der Panama-Kanal drosselt bereits den Schiffsverkehr wegen fehlenden Regens.",
-              "gegenstimme": "Einzelne Feuer und ein nasser Freitag in Bern beweisen weder das Ende noch die Irrelevanz der Klimapolitik. El Niño ist ein natürliches Ozeanmuster, das auf einer bereits wärmeren Welt aufsetzt. Wer jedes Unwetter zur Parteipolitik macht, schwächt die Sachdebatte. Wer umgekehrt 2027 schon als Apokalypse verkauft, ebenfalls.",
-              "sources": [
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/weather/articles/c3ekg93vjz9o"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wissenschaft/hohes-venn-frankreich-spanien-griechenland-warum-die-heutigen-feuer-nur-ein-vorgeschmack-sein-koennten-a-cf2b1d62-1c02-460d-9e73-2739b39aa635"
-                }
-              ]
-            },
-            {
-              "id": "2026-08-21-hongkong-tiananmen-urteil",
-              "slug": "hongkong-tiananmen-urteil",
-              "title": "Hongkong: Tiananmen-Organisatoren wegen Subversion schuldig",
-              "date": "2026-08-21",
-              "time": "12:15",
-              "category": "international",
-              "icon": "⚖️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/82470b71-0001-0004-0000-000001436640_w520_r2.08_fpx66.67_fpy50.jpg",
-              "kurz": "Ein Gericht in Hongkong hat Organisatoren der Tiananmen-Mahnwachen der Anstiftung zur Subversion für schuldig befunden. Peking löscht die Erinnerung an 1989 weiter.",
-              "summary": "Drei Aktivisten, die in Hongkong Mahnwachen zum Tiananmen-Massaker organisiert hatten, sind nach dem von Peking eingeführten Sicherheitsgesetz schuldig gesprochen worden. Der Vorwurf lautet auf Anstiftung zur Subversion. China versucht seit Jahren, das Massaker von 1989 aus dem öffentlichen Gedächtnis zu tilgen.",
-              "gegenstimme": "Peking sieht in den Mahnwachen keine Erinnerungskultur, sondern eine politische Kampagne gegen die Staatsordnung. Das Sicherheitsgesetz wurde nach den Protesten 2019 bewusst scharf formuliert. Wer nur den Schuldspruch als Beweis für Willkür nimmt, unterschätzt, dass Peking das Gesetz genau so meint, wie es geschrieben steht.",
-              "sources": [
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/c1l10mdrld5o"
-                },
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/china-organisatoren-von-tiananmen-mahnwachen-in-hongkong-schuldig-gesprochen-a-15f51aec-5273-41e0-bde5-9f9bd1a70fb8"
-                }
-              ]
-            },
-            {
-              "id": "2026-08-21-iran-oel-flugzeugtraeger",
-              "slug": "iran-oel-flugzeugtraeger",
-              "title": "Iran-Krise: zweiter US-Träger im Arabischen Meer, Öl vor der Küste",
-              "date": "2026-08-21",
-              "time": "12:15",
-              "category": "international",
-              "icon": "⚓",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/a44de20a-9726-4d2d-8de9-87de0064b679_w520_r2.08_fpx46_fpy55.01.jpg",
-              "kurz": "Die USS George Washington erreicht das Arabische Meer. An den Küsten der Arabischen Halbinsel treibt Öl aus beschädigten Tankern. Trumps Sanktionsdruck auf den Iran steigt.",
-              "summary": "Ein weiterer US-Flugzeugträger ist in der Krisenregion eingetroffen. Die USS Abraham Lincoln liegt seit Monaten dort, nun kommt die George Washington dazu. Die NZZ dokumentiert gleichzeitig eine Ölpest vor der Arabischen Halbinsel: aus beschädigten Tankern und einer alternden Schattenflotte. Die BBC fragt, wie sehr Trumps «economic D-Day» den Iran wirklich trifft.",
-              "gegenstimme": "Mehr Träger bedeuten nicht automatisch eine Eskalationsabsicht. Die US Navy rotiert Verbände, und ein Teil der Berichterstattung über «Endloskrieg» überzeichnet die Lage. Der Iran hat Sanktionen jahrelang umgangen. Ölverschmutzung ist real, die militärische Deutung jedes Tankerschadens aber oft spekulativ.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/ausland/iran-weiterer-us-flugzeugtraeger-erreicht-den-nahen-osten-a-6b7dcbf4-f931-43e4-80cf-1c95a4f66d5c"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/visuals/die-arabische-halbinsel-schwimmt-im-oel-ld.10020015"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/cre4gdvlj9ro"
-                }
-              ]
-            },
-            {
-              "id": "2026-08-21-israel-e1-westjordanland",
-              "slug": "israel-e1-westjordanland",
-              "title": "Israel treibt E1-Siedlungen voran, Europa droht Bauunternehmern",
-              "date": "2026-08-21",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🕊️",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/c750dcc2-3319-4a03-a518-2447f28519fd_w520_r2.08_fpx30.01_fpy44.99.jpg",
-              "kurz": "Deutschland, Frankreich, Grossbritannien und Italien verurteilen Israels E1-Pläne im Westjordanland. Israel richtet zugleich eine zuvor geschlossene Siedlung wieder ein.",
-              "summary": "Mit dem E1-Plan will Israel zwischen Jerusalem und Maale Adumim neue Siedlungen bauen. Berlin, Paris, London und Rom haben Ausschreibungen verurteilt und drohen auch Bauunternehmern. Die BBC berichtet, Israel habe eine geräumte Siedlung mit «Pionierfamilien» wiederbesetzt, trotz internationaler Proteste.",
-              "gegenstimme": "Die israelische Regierung sieht in E1 keine Annexion, sondern die Sicherung von Jerusalem und bestehenden Siedlungsblöcken. Siedlungsgegner im Westen übergehen oft, dass die palästinensische Autonomiebehörde und bewaffnete Gruppen im Westjordanland selbst Gewalt ausüben. Europäische Drohungen gegen Firmen ändern selten Fakten vor Ort.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/politik/deutschland/israel-westjordanland-deutschland-frankreich-grossbritannien-und-italien-verurteilen-e1-plaene-a-36bd066b-9780-44e6-8b48-ac8371ed93ff"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/cn7n0l4p0kzo"
-                }
-              ]
-            },
-            {
-              "id": "2026-08-21-waffendepot-berlin-russland",
-              "slug": "waffendepot-berlin-russland",
-              "title": "Waffendepot bei Berlin: Verdacht auf russische Dienste",
-              "date": "2026-08-21",
-              "time": "12:15",
-              "category": "international",
-              "icon": "🌍",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/556c356b-e1f3-4d23-874b-27d4ea33b391_w520_r2.08_fpx46_fpy54.jpg",
-              "kurz": "Deutsche Behörden haben bei Berlin ein Erdversteck mit Schusswaffen und Munition gefunden. Der Verdacht richtet sich auf russische Geheimdienste. Parallel prüft Finnland einen Luftraumverstoss.",
-              "summary": "Bei Berlin ist ein geheimes Erddepot mit Waffen und Munition entdeckt worden. Sicherheitsbehörden prüfen, ob russische Agenten damit Anschläge vorbereiten wollten. Deutschland erwägt zugleich Massnahmen gegen das Russische Haus in Berlin, nach dem Drohnenvorfall in Leipzig. Finnland vermutet ausserdem die Verletzung seines Luftraums durch ein russisches Flugzeug.",
-              "gegenstimme": "Ein Waffenfund ist noch kein nachgewiesener Anschlagsplan. Die Verbindung zu russischen Diensten muss vor Gericht oder durch nachrichtendienstliche Belege stehen, nicht nur durch den politischen Kontext des Ukraine-Kriegs. Auch der finnische Luftraumvorfall ist vorerst eine Vermutung.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/panorama/justiz/mutmasslich-russisches-waffendepot-bei-berlin-entdeckt-a-a6692948-7293-44c3-85f8-eb75b323b42e"
-                },
-                {
-                  "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-behoerden-finden-mutmasslich-russisches-waffendepot-bei-berlin/27982126.html"
-                }
-              ]
-            },
-            {
-              "id": "2026-08-21-akw-neubau-kosten",
-              "slug": "akw-neubau-kosten",
-              "title": "Neues AKW: 14 bis 43 Milliarden, frühestens 2050",
-              "date": "2026-08-21",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "⚛️",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/4ug27VUAKBHAIV47CbZX5W.jpg",
-              "kurz": "Die Akademien der Wissenschaften rechnen für ein neues Schweizer AKW mit 14 bis 43 Milliarden Franken. Am Netz wäre es frühestens 2050.",
-              "summary": "Bundesrat und Parlament wollen das Neubauverbot für Atomkraftwerke kippen. Eine Studie der Akademien der Wissenschaften zeigt nun die finanzielle Bandbreite: mindestens 14 Milliarden Franken, im ungünstigsten Fall bis 43 Milliarden. Entscheidend ist, ob sich die Kostenexplosionen jüngster europäischer Projekte vermeiden lassen.",
-              "gegenstimme": "Befürworter halten dagegen, dass Kernkraft die Versorgungssicherheit absichern kann und die Studie bewusst das teuerste Ende der Bandbreite betont. Ohne neue Grundlast, so das Argument, bleibt die Schweiz bei Dunkelflauten und Importengpässen verwundbar. Die Frage ist weniger, ob Atomstrom teuer ist, sondern teuer im Vergleich wozu.",
+              "icon": "🕵️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/988daa90-6896-4dae-b232-9941a6818e8f_w520_r2.08_fpx71.44_fpy47.jpg",
+              "kurz": "John Ratcliffe war unangekündigt in Moskau. Der Kreml bestätigt Nachrichtendienstkontakte, ein Treffen mit Putin nicht. Trump nennt die Reise «halb Routine».",
+              "summary": "CIA-Direktor John Ratcliffe hat Russland überraschend besucht, der erste solche Besuch seit Kriegsbeginn. Kremlsprecher Peskow bestätigt Kontakte zwischen Geheimdiensten, kein Treffen mit Putin. Trump spricht von einer «halb routinemässigen» Reise. Offen bleibt, ob es um Eskalationsmanagement in der Ukraine oder Sabotage im Westen ging.",
+              "gegenstimme": "Ein Geheimdienstchef fliegt nicht acht Stunden nach Moskau, um Smalltalk zu halten. Wer die Reise als Routine verkauft, verharmlost sie. Umgekehrt ist jede Deutung als «Deal hinter dem Rücken Kiews» Spekulation, solange weder Washington noch Moskau den Inhalt nennen.",
               "sources": [
                 {
                   "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/das-akw-dilemma-niemand-weiss-wie-teuer-es-wirklich-wird-ld.10020367"
+                  "url": "https://www.nzz.ch/international/ominoese-reise-des-cia-chefs-warum-war-john-ratcliffe-in-moskau-ld.10021055"
                 },
                 {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/akw-neubau-schweiz-kosten-bis-zu-45-milliarden-franken-445111045131"
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/article6a8eef3d692b2e9e3efcbcf8/russland-raetselhafte-reise-des-cia-chefs-nach-moskau-jetzt-aeussert-sich-der-kreml.html"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/international"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c0klj7ykp81o"
                 }
               ]
             },
             {
-              "id": "2026-08-21-jans-extremismus-charta",
-              "slug": "jans-extremismus-charta",
-              "title": "Jans und Kantone: neue Charta gegen Radikalisierung",
-              "date": "2026-08-21",
-              "time": "12:15",
+              "id": "2026-08-26-nepal-sturzflut",
+              "slug": "nepal-sturzflut",
+              "title": "Sturzflut an der Nepal-Tibet-Grenze: mindestens 95 Tote, Hunderte vermisst",
+              "date": "2026-08-26",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🌊",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/2fa73acf-1152-4fc7-a6dc-f7f3e2956e16_w520_r2.08_fpx45_fpy25.32.jpg",
+              "kurz": "Eine Sturzflut hat im Norden Nepals Dörfer, Strassen und Kraftwerke weggerissen. Die Opferzahl steigt, darunter Hunderte Touristen.",
+              "summary": "An der Grenze zwischen Nepal und Tibet hat eine Sturzflut mindestens 95 Menschen getötet. Hunderte gelten als vermisst, darunter viele Touristen aus Indien, den USA und Grossbritannien. Auslöser war offenbar ein Erdrutsch nach einem Beben. Das EDA kennt bisher keine Schweizer Opfer.",
+              "gegenstimme": "Frühe Opferzahlen bei Bergkatastrophen schwanken stark. Nicht jede Vermisstenmeldung ist ein Todesfall, und Satellitenbilder allein belegen die genaue Ursache noch nicht. Gleichzeitig wäre es falsch, das Ereignis nur als «Naturgewalt» zu lesen: Siedlungen an Flussläufen und Wasserkraftwerke im Himalaja erhöhen das Risiko.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/grenzregion-zu-tibet-sturzflut-in-nepal-mindestens-72-tote-hunderte-vermisste"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/live/c6y8mjmnpxv0t"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/panorama/tote-nach-sturzflut-an-grenze-zwischen-china-und-nepal-ld.10021136"
+                },
+                {
+                  "name": "SPIEGEL",
+                  "url": "https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya-a-415d0bde-7d43-4c36-acc9-d4b7b60110bd"
+                }
+              ]
+            },
+            {
+              "id": "2026-08-26-unrwa-kalandia",
+              "slug": "unrwa-kalandia",
+              "title": "Israel räumt UNRWA-Berufsschule in Kalandia",
+              "date": "2026-08-26",
+              "time": "18:00",
+              "category": "international",
+              "icon": "🏫",
+              "edition": "evening",
+              "image": "",
+              "kurz": "Israelische Kräfte haben die letzte UNRWA-Berufsschule im Westjordanland geräumt. Rund 340 Jugendliche verlieren ihre Ausbildung.",
+              "summary": "Sicherheitskräfte haben die UNRWA-Berufsschule in Kalandia geräumt. Minister Ben-Gvir war vor Ort, eine israelische Flagge wurde gehisst. Israel beruft sich auf ein Gesetz, das der Organisation jede Tätigkeit untersagt. Die UNO spricht von einem Verstoss gegen das Völkerrecht.",
+              "gegenstimme": "Israel sieht UNRWA nicht als neutrale Hilfsorganisation, sondern als Teil des Problems nach dem 7. Oktober. Diese Vorwürfe sind schwer, aber nicht gerichtsfest für die gesamte Organisation. Wer Bildungsstätten schliesst, ohne eine Alternative zu schaffen, bestraft Jugendliche, nicht die Hamas.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/israel-und-die-palaestinenser-israel-schliesst-eine-unwra-ausbildungsstaette-im-westjordanland"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c5yl89yrldpo"
+                }
+              ]
+            },
+            {
+              "id": "2026-08-26-armee-ruestungsfonds",
+              "slug": "armee-ruestungsfonds",
+              "title": "Armee-Kompromiss: 0,2 Prozent MwSt und sechs Milliarden Schulden",
+              "date": "2026-08-26",
+              "time": "18:00",
               "category": "schweiz",
               "icon": "🛡️",
-              "edition": "midday",
-              "image": "https://image.20min.ch/2026/08/21/3a0e6d98-beec-4d9d-a896-ac6683c1b8d3.jpg?s=fa37a2ceb6a0374d96b74087fee1f9af",
-              "kurz": "Bundesrat Beat Jans und die Kantone stellen eine neue Charta gegen Extremismus vor. Jugendliche sollen früher vor Radikalisierung geschützt werden.",
-              "summary": "Justizminister Beat Jans und die Kantone wollen mit einer gemeinsamen Charta gegen Radikalisierung vorgehen. Im Zentrum stehen Prävention, Schulen und die Zusammenarbeit zwischen Bund und Kantonen. 20 Minuten berichtet, die Pläne richteten sich an Jugendliche, die online und offline in extremistische Milieus abrutschen.",
-              "gegenstimme": "Chartas ohne Geld, Personal und klare Zuständigkeit bleiben Papiere. Prävention klingt gut, misst sich aber schlecht. Kritiker auf der einen Seite fürchten Überwachung von Jugendlichen, auf der anderen Seite eine Verharmlosung islamistischer und rechtsextremer Gewalt, wenn alles unter denselben weichen Begriff «Extremismus» fällt.",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/08/26/f93d8622-de5e-42f8-b164-bde41a31d061.jpg?s=b7324dc4465bae64a98191fe10203f62",
+              "kurz": "Statt einer saftigen Mehrwertsteuer will die Ständerats-Finanzkommission die Aufrüstung über einen verschuldungsfähigen Rüstungsfonds finanzieren.",
+              "summary": "Verteidigungsminister Martin Pfister wollte die Armee mit plus 0,5 Mehrwertsteuerpunkten finanzieren. Die Finanzkommission des Ständerats schlägt nun 0,2 Punkte plus einen Fonds vor, der sich bis sechs Milliarden verschulden darf. FDP und SVP lehnen auch den kleineren Steuerzuschlag ab.",
+              "gegenstimme": "Schulden statt Steuern verschieben die Last, sie senken sie nicht. Ein Fonds, der auch ohne Volks-Ja weiterlebt, umgeht die Urne. Umgekehrt ist eine halbe Mehrwertsteuer politisch tot, solange Umfragen sie klar ablehnen. Wer aufrüsten will, muss sagen, wer zahlt.",
               "sources": [
                 {
                   "name": "20 Minuten",
-                  "url": "https://www.20min.ch/story/radikalisierung-jans-und-kantone-stellen-ihre-neuen-plaene-gegen-extremismus-vor-103620163"
+                  "url": "https://www.20min.ch/story/kommissionskompromiss-armee-soll-sich-bis-6-milliarden-franken-verschulden-duerfen-103622673"
                 }
               ]
             },
             {
-              "id": "2026-08-21-neutralitaetsinitiative-umfrage",
-              "slug": "neutralitaetsinitiative-umfrage",
-              "title": "Neutralitätsinitiative im Gegenwind: 54 Prozent Nein",
-              "date": "2026-08-21",
-              "time": "12:15",
+              "id": "2026-08-26-roesti-hitzesommer-70-mio",
+              "slug": "roesti-hitzesommer-70-mio",
+              "title": "Hitzesommer: Bundesrat stellt 70 Millionen für Wald und Bauern bereit",
+              "date": "2026-08-26",
+              "time": "18:00",
               "category": "schweiz",
-              "icon": "🇨🇭",
-              "edition": "midday",
+              "icon": "🌡️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/03VaTbPf4q79F1W8c88mOJ.jpg",
+              "kurz": "Nach dem heissesten Sommer seit Messbeginn will der Bund Wald und Landwirtschaft mit über 70 Millionen Franken stützen. Rösti spricht von Anpassung, nicht von Panik.",
+              "summary": "Der Bundesrat reagiert auf Hitze und Trockenheit mit über 70 Millionen Franken für Waldanpassung und Landwirtschaft. Umweltminister Albert Rösti stellte die Massnahmen vor. Bis Ende Oktober soll eine Lageanalyse folgen. Die NZZ warnt vor politischem Hyperventilieren, Grüne fordern mehr Klimaschutz statt nur Schadensgeld.",
+              "gegenstimme": "70 Millionen sind für einen ExtremSommer klein. Wer nur Bäume giesst und Bauern entschädigt, behandelt Symptome. Umgekehrt ist jede Forderung nach Sofort-Systemwechsel nach drei heissen Monaten Politik mit dem Wetter. Anpassung und CO2-Gesetz sind zwei verschiedene Instrumente.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/wegen-trockenheit-und-hitze-70-millionen-fuer-wald-und-landwirtschaft-gegen-klimafolgen"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/meinung/kuehler-kopf-trotz-hitzesommer-die-schweiz-sollte-handeln-aber-nicht-hyperventilieren-ld.10021093"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/medienkonferenz-im-liveticker-so-reagiert-der-bundesrat-auf-den-hitzesommer-307143742074"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/medienkonferenz-hitzesommer-roesti-will-mehr-gelder-fuer-waelder-und-landwirtschaft-103622801"
+                }
+              ]
+            },
+            {
+              "id": "2026-08-26-taser-oev",
+              "slug": "taser-oev",
+              "title": "Bundesrat will Taser und Bodycams im öffentlichen Verkehr",
+              "date": "2026-08-26",
+              "time": "18:00",
+              "category": "schweiz",
+              "icon": "🚆",
+              "edition": "evening",
               "image": "",
-              "kurz": "Erste SRG-Umfrage vor dem 27. September: 54 Prozent würden die Neutralitätsinitiative ablehnen. Aussenminister Cassis nennt sie einen Irrtum.",
-              "summary": "Die Neutralitätsinitiative startet schwach in den Abstimmungskampf. Laut erster SRG-Umfrage von GFS Bern würden 54 Prozent Nein stimmen. Bundesrat Ignazio Cassis hält wirtschaftliche Sanktionen bei schweren Völkerrechtsverletzungen für unproblematisch. Die parallele Ernährungsinitiative liegt hingegen praktisch im Patt.",
-              "gegenstimme": "Befürworter sehen in der Umfrage keinen Grund zur Entwarnung: Die Kampagne läuft erst an, und ein Teil des Ja-Lagers argumentiert, die Schweiz habe ihre Neutralität in den letzten Jahren selbst ausgehöhlt. Die NZZ zeigt zudem, dass Putin-nahe Netzwerke die Initiative als Plattform nutzen – das kann das Ja-Lager ebenso mobilisieren wie abstossen.",
+              "kurz": "Die Transportpolizei soll Taser einsetzen dürfen. Gleichzeitig plant der Bund Bodycams und präzisere Live-Überwachung in Zügen und Bussen.",
+              "summary": "Der Bundesrat schickt eine Verordnungsänderung in die Vernehmlassung: Taser für die Transportpolizei, Bodycams auch für Fahrpersonal, klarere Regeln für Echtzeit-Video. Anlass sind steigende Tätlichkeiten im ÖV. Der Datenschutzbeauftragte verlangt eine gesetzliche Grundlage statt nur Verordnungen.",
+              "gegenstimme": "35 Vorfälle pro Monat sind real, rechtfertigen aber nicht jede Überwachung. Taser können deeskalieren oder Eskalationen verschärfen. Der Edöb hat recht: Millionen Reisende per Verordnung zu filmen, umgeht das Parlament. Sicherheit ohne Gesetz ist bequem, nicht legitim.",
               "sources": [
                 {
                   "name": "SRF",
-                  "url": "https://www.srf.ch/news/schweiz/erste-srg-umfrage-54-prozent-nein-neutralitaetsinitiative-im-gegenwind"
-                },
-                {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/schweiz/bundesrat-cassis-zur-neutralitaet-der-druck-aus-dem-ausland-beeinflusst-wie-sich-ein-land-verhaelt-ld.10019804"
-                },
-                {
-                  "name": "swissinfo",
-                  "url": "https://www.swissinfo.ch/ger/abstimmungen/abstimmungen-vom-27-september-schlechter-start-f%c3%bcr-die-neutralit%c3%a4tsinitiative/91928222"
+                  "url": "https://www.srf.ch/news/schweiz/oeffentlicher-verkehr-bundesrat-will-taser-einsaetze-in-bussen-trams-und-zuegen-zulassen"
                 }
               ]
             },
             {
-              "id": "2026-08-21-thusis-grossbrand",
-              "slug": "thusis-grossbrand",
-              "title": "Grossbrand in Thusis: fünf Vermisste, acht Verletzte",
-              "date": "2026-08-21",
-              "time": "12:15",
-              "category": "schweiz",
-              "icon": "🔥",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/7_dSwwZRK7o9W6Z0TF554W.jpg",
-              "kurz": "In Thusis GR ist in der Nacht auf Freitag ein Restaurant mit Wohnungen vollständig ausgebrannt. Fünf Personen werden vermisst, acht sind verletzt, zwei schwer.",
-              "summary": "Ein Grossbrand hat in Thusis ein Gebäude mit Restaurant und Wohnungen vollständig zerstört. Die Polizei spricht von acht Verletzten, zwei davon schwer. Fünf Menschen gelten als vermisst. Rund 100 Feuerwehrleute waren im Einsatz. Die Ursache ist noch unklar. Die BBC berichtet international über den Fall.",
-              "gegenstimme": "Solange die Brandursache offen ist, bleiben Spekulationen unangebracht. Weder bauliche Mängel noch Fahrlässigkeit sind belegt. Die Zahl der Vermissten kann sich im Lauf des Tages noch ändern, wenn Personen gefunden oder zugeordnet werden.",
-              "sources": [
-                {
-                  "name": "SRF",
-                  "url": "https://www.srf.ch/news/schweiz/grossbrand-in-thusis-gr-wohnhaus-brennt-komplett-aus-fuenf-personen-weiterhin-vermisst"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/cy8e6g13497o"
-                },
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/brand-in-thusis-fuenf-vermisste-zwei-schwerstverletzte-622451573719"
-                }
-              ]
-            },
-            {
-              "id": "2026-08-21-bern-spital-rettungsschirm",
-              "slug": "bern-spital-rettungsschirm",
-              "title": "Berner Spital-Rettungsschirm: Kommission will strengere Regeln",
-              "date": "2026-08-21",
-              "time": "12:15",
+              "id": "2026-08-26-bern-herbstsession",
+              "slug": "bern-herbstsession",
+              "title": "Berner Herbstsession: Kirchensteuer, Baupfusch und Fan-Gewalt",
+              "date": "2026-08-26",
+              "time": "18:00",
               "category": "regional",
-              "icon": "🏥",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/AYQGJcVQa2P9ImzOamciY9.jpg",
-              "kurz": "Die Gesundheitskommission des Berner Grossen Rats will einen gesetzlichen Rettungsschirm für Spitäler, aber mit härteren Bedingungen als die Regierung.",
-              "summary": "Der Kanton Bern soll Spitäler in Schieflage künftig gesetzlich stützen können. Die zuständige Kommission sagt Ja zum Rettungsschirm, fordert aber strengere Regeln als der Regierungsrat. Damit bleibt die Spitalfinanzierung im Kanton ein politisches Dauerthema, auch nach der Debatte um die Insel Gruppe.",
-              "gegenstimme": "Ein Rettungsschirm kann Fehlanreize setzen: Häuser wirtschaften riskanter, wenn der Kanton am Ende einspringt. Strengere Regeln mindern das, ersetzen aber keine Strukturreform. Wer jedes Defizit politisch auffängt, verschiebt das Problem nur in die nächste Legislatur.",
+              "icon": "🏛️",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/AUitMIdP4oxB13JyZvMfsE.jpg",
+              "kurz": "Der Grosse Rat startet am Montag mit 117 Geschäften. Besonders umstritten ist die Kirchensteuerpflicht für Unternehmen.",
+              "summary": "In Bern beginnt die Herbstsession des kantonalen Parlaments. 117 Geschäfte stehen an, darunter Kirchensteuern für Firmen, Baupfusch und Fan-Gewalt. Lokal relevant sind zudem weniger Velokinder, ein Wohnprojekt in Ostermundigen und ein Parking-Kompromiss in Biel.",
+              "gegenstimme": "Sessionen produzieren oft mehr Ankündigung als Wirkung. Die Kirchensteuerdebatte polarisiert, ändert aber wenig am Alltag der meisten Berner. Dringender sind Wohnungsbau, Schulwege und Naturgefahren, die weniger laut daherkommen.",
               "sources": [
                 {
                   "name": "Der Bund",
-                  "url": "https://www.derbund.ch/berner-spital-rettungsschirm-kommission-fordert-strengere-regeln-599702268324"
-                }
-              ]
-            },
-            {
-              "id": "2026-08-21-bern-velo-a1-stau",
-              "slug": "bern-velo-a1-stau",
-              "title": "Bern: Velodiebstähle nach Kameraabbau, A1 stundenlang blockiert",
-              "date": "2026-08-21",
-              "time": "12:15",
-              "category": "regional",
-              "icon": "🚲",
-              "edition": "midday",
-              "image": "https://cdn.unitycms.io/images/1T-qHpsMqRdB_DLJYYuz9q.jpg",
-              "kurz": "Aus Berner Velostationen werden wieder Räder geklaut, weil die Videokameras abgebaut wurden. Auf der A1 bei Wangen an der Aare staut es wegen Hochwasser bis zu einer Stunde.",
-              "summary": "In Bern sind Velos aus überwachten Stationen gestohlen worden, nachdem die Kameras entfernt worden waren. Eine neue Videolösung soll erst 2027 kommen. Gleichzeitig sorgt Hochwasser auf der A1 zwischen Zürich und Bern für Zeitverluste von bis zu einer Stunde. Für Pendler in der Region ist das der Alltag an einem nassen Augustfreitag.",
-              "gegenstimme": "Videokameras sind kein Allheilmittel gegen Diebstahl, und der Datenschutzgrund für den Abbau ist nicht erfunden. Wer sofort wieder flächendeckend filmen will, muss die rechtliche Grundlage liefern. Beim A1-Stau gilt dasselbe: Hochwasser lässt sich nicht wegregulieren.",
-              "sources": [
-                {
-                  "name": "Der Bund",
-                  "url": "https://www.derbund.ch/bern-velo-aus-velostation-geklaut-videoueberwachung-ab-2027-698604573814"
+                  "url": "https://www.derbund.ch/bern-herbstsession-im-grossen-rat-339995309024"
                 },
                 {
                   "name": "Der Bund",
-                  "url": "https://www.derbund.ch/stau-auf-a1-zeitverlust-bis-zu-einer-stunde-bei-wangen-an-der-aare-183454629137"
-                }
-              ]
-            },
-            {
-              "id": "2026-08-21-us-schulden-iwf",
-              "slug": "us-schulden-iwf",
-              "title": "US-Schulden über 40 Billionen: IWF warnt vor der Kombination mit schwachem Wachstum",
-              "date": "2026-08-21",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "📉",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/e135edec-46c5-444e-8077-1f36ffa69fc8_w520_r2.08_fpx40.66_fpy44.99.jpg",
-              "kurz": "Die US-Staatsverschuldung hat erstmals 40 Billionen Dollar überschritten. Der IWF warnt: Die Schuldenquote steigt, während das globale Wachstum sinkt.",
-              "summary": "Die USA haben die Marke von 40 Billionen Dollar Staatsschulden durchbrochen. Der Finanzmarktchef des IWF nennt die Kombination aus steigender Schuldenquote und sinkendem Weltwachstum gefährlich. Für Europa und die Schweiz heisst das: höhere Zinsen, unsichere Dollar-Märkte und weniger Spielraum, falls die nächste Krise kommt.",
-              "gegenstimme": "Die USA finanzieren sich in der eigenen Währung. Eine Schuldenmarke ist keine Insolvenz. Japan lebt seit Jahrzehnten mit deutlich höheren Quoten. Die eigentliche Gefahr ist nicht die Zahl 40, sondern ob Investoren irgendwann höhere Risikoprämien verlangen, während Washington politisch blockiert bleibt.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/usa-staatsverschuldung-springt-erstmals-ueber-40-billionen-us-dollar-a-d0e8ff8b-8e8e-47aa-81cd-8a14aef423f1"
+                  "url": "https://www.derbund.ch/velofahren-warum-immer-weniger-schulkinder-radeln-170270822934"
                 },
                 {
-                  "name": "NZZ",
-                  "url": "https://www.nzz.ch/wirtschaft/der-finanzmarktchef-des-iwf-sagt-die-schuldenquote-steigt-waehrend-die-globale-wachstumsrate-sinkt-das-ist-sehr-gefaehrlich-ld.10019820"
-                },
-                {
-                  "name": "BBC",
-                  "url": "https://www.bbc.com/news/articles/c9d8z72nn02o"
+                  "name": "TeleBärn",
+                  "url": "https://www.telebaern.tv/telebaern-news/kompromiss-beendet-parking-knatsch-in-biel-165252327"
                 }
               ]
             },
             {
-              "id": "2026-08-21-us-zoelle-rueckzahlung",
-              "slug": "us-zoelle-rueckzahlung",
-              "title": "US-Zölle gekippt: deutsche Firmen bekommen Geld zurück",
-              "date": "2026-08-21",
-              "time": "12:15",
-              "category": "wirtschaft",
-              "icon": "💶",
-              "edition": "midday",
-              "image": "https://cdn.prod.www.spiegel.de/images/9930af23-687e-4f35-a645-99ad384ad54e_w520_r2.08_fpx35.32_fpy54.99.jpg",
-              "kurz": "Nach dem Supreme-Court-Urteil gegen Trumps Zollregelung fliessen Hunderte Millionen Euro an deutsche Konzerne zurück. DHL weiss bereits, wohin das Geld soll.",
-              "summary": "Der US-Supreme Court hat Donald Trumps Zollregelung gekippt. Nun erhalten auch deutsche Unternehmen Rückzahlungen in dreistelliger Millionenhöhe. Der Logistiker DHL hat bereits Pläne für die Verwendung. Parallel mahnen Wirtschaftsverbände in Deutschland rasche Reformen an.",
-              "gegenstimme": "Rückzahlungen heilen nicht den Schaden, den erratische Zölle in Lieferketten und Investitionsplanung angerichtet haben. Wer Monate oder Jahre umgeleitet, eingelagert oder verteuert hat, bekommt das Geld später, nicht die verlorene Zeit. Ausserdem bleibt unklar, welche Zollinstrumente Washington als Nächstes nutzt.",
-              "sources": [
-                {
-                  "name": "Der Spiegel",
-                  "url": "https://www.spiegel.de/wirtschaft/rechtswidrige-us-zoelle-deutsche-konzerne-erhalten-hunderte-millionen-euro-zurueck-a-7ec38632-78f4-46a8-a149-983ff226ad7e"
-                }
-              ]
-            },
-            {
-              "id": "2026-08-21-bosch-humanoide-roboter",
-              "slug": "bosch-humanoide-roboter",
-              "title": "Bosch will humanoide Roboter in Serie bauen",
-              "date": "2026-08-21",
-              "time": "12:15",
+              "id": "2026-08-26-meta-vergleich-jugendschutz",
+              "slug": "meta-vergleich-jugendschutz",
+              "title": "Meta zahlt bis 16,8 Milliarden und beschränkt Instagram für Jugendliche",
+              "date": "2026-08-26",
+              "time": "18:00",
               "category": "tech",
-              "icon": "🤖",
-              "edition": "midday",
+              "icon": "📱",
+              "edition": "evening",
               "image": "",
-              "kurz": "Bosch plant mit dem Start-up Humanoid im Schwarzwald die Serienproduktion menschenähnlicher Roboter. Der Konzern zielt auf einen Markt, den er in Milliardenhöhe sieht.",
-              "summary": "Der Zulieferer Bosch will humanoide Roboter nicht nur entwickeln, sondern in Serie fertigen. Partner ist das Start-up Humanoid. Das Handelsblatt spricht von einem Milliardenmarkt. Die Ankündigung kommt in einer Phase, in der Industriekonzerne Automatisierung als Antwort auf Fachkräftemangel verkaufen.",
-              "gegenstimme": "Humanoide Roboter sind seit Jahren eine Demo-Technologie. Greifen, Gehen, Sicherheit und Kosten sind ungelöste Probleme. Wer «Serie» sagt, meint oft Pilotlinien. Der Milliardenmarkt existiert in Folien, noch nicht in Fabrikhallen. Fachkräftemangel löst man nicht mit einem Prototypen, der Treppen steigt.",
+              "kurz": "US-Bundesstaaten werfen Meta vor, Kinder süchtig gemacht zu haben. Der Konzern schliesst einen Vergleich und führt Nachtsperren sowie Zeitlimits ein.",
+              "summary": "Meta einigt sich mit US-Bundesstaaten auf einen Vergleich von bis zu 16,68 Milliarden Dollar. Jugendliche unter 18 sollen nachts gesperrt werden und höchstens zwei Stunden täglich nutzen dürfen. Der Konzern bestreitet Fehlverhalten, verpflichtet sich aber zu weitreichenden Änderungen auf Facebook und Instagram.",
+              "gegenstimme": "Ein Vergleich ist kein Schuldeingeständnis. Meta kauft Rechtsfrieden und behält die Plattformen. Zeitlimits lassen sich umgehen, und die Summe verteilt sich über Jahre. Gleichzeitig ist die Höhe so gross, dass selbst ein Konzern dieser Grösse merkt: Jugendschutz ist kein PR-Thema mehr, sondern ein Bilanzrisiko.",
               "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/technologie/der-tabak-moment-von-social-media-junge-erwachsene-beschuldigen-instagram-tiktok-und-co-sie-suechtig-gemacht-zu-haben-ld.1923401"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/prozess-um-soziale-medien-einigung-erzielt-meta-zahlt-us-bundesstaaten-milliarden"
+                },
                 {
                   "name": "Handelsblatt",
-                  "url": "https://www.handelsblatt.com/technik/robotik-bosch-plant-serienproduktion-fuer-humanoide-roboter/100248781.html"
+                  "url": "https://www.handelsblatt.com/technik/it-internet/social-media-meta-schliesst-milliarden-vergleich-mit-us-staaten/100249824.html"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/live/cy5v0vrlp4xt"
                 }
               ]
             }
