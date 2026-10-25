@@ -1,6 +1,183 @@
 {
-  "updated": "15:10 UTC",
+  "updated": "18:53 UTC",
   "days": [
+    {
+      "date": "2026-10-25",
+      "editions": {
+        "evening": {
+          "time": "19:53",
+          "articles": [
+            {
+              "id": "2026-10-25-frankreich-proteste-festnahmen",
+              "slug": "frankreich-proteste-festnahmen",
+              "title": "Frankreich: Neue Massenproteste, 1314 Festnahmen",
+              "date": "2026-10-25",
+              "time": "19:53",
+              "category": "international",
+              "icon": "📣",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg",
+              "kurz": "Rund 410 000 Menschen demonstrierten laut Innenministerium gegen hohe Lebenshaltungskosten und Schulmängel. Es gab 1314 Festnahmen, die Gewerkschaft CGT nennt fast doppelt so viele Teilnehmende.",
+              "summary": "Am Samstag gingen in Frankreich laut Innenministerium rund 410 000 Menschen auf die Strasse, laut Gewerkschaften etwa 800 000. Die Märsche verliefen grösstenteils friedlich, danach kam es in Paris, Marseille, Bordeaux, Lyon und anderen Städten zu Zusammenstössen. Landesweit gab es 1314 Festnahmen, 53 Einsatzkräfte wurden verletzt. Das Innenministerium spricht von weniger Schäden als in der Vorwoche.",
+              "gegenstimme": "Innenminister Nuñez macht vor allem die «radikale extreme Linke» für die Ausschreitungen verantwortlich und sagt, die Demonstrationen seien reibungslos verlaufen. LFI-Kandidat Mélenchon sagt dagegen, die Polizei habe «ein Setup geschaffen, das gezielt Chaos provozieren soll». Ein Demonstrant verweist auf Armut und Polizeigewalt. Macron hatte zudem nur gewerkschaftlich organisierte Demonstrationen zugelassen.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c95ynd587ynzo"
+                },
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3446099/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-25-svp-bundesratsrennen-parmelin",
+              "slug": "svp-bundesratsrennen-parmelin",
+              "title": "SVP-Bundesratsrennen: Acht Kandidaturen, Aeschi zögert",
+              "date": "2026-10-25",
+              "time": "19:53",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "evening",
+              "kurz": "Für die Nachfolge von Guy Parmelin haben sich bei der SVP acht Personen gemeldet, darunter der Berner Regierungspräsident Schnegg. Thomas Aeschi ist nominiert, hat aber noch nicht zugesagt.",
+              "summary": "Nach Ablauf der Frist am Freitag haben sich laut Keystone-SDA sieben Männer und eine Frau für die Ersatzwahl vom 9. Dezember gemeldet. Die Findungskommission unter Caspar Baader führt Hearings, die Fraktion beschliesst am 20. November den Antrag an die Bundesversammlung. Aeschi will in den nächsten Wochen entscheiden. Der Berner Politologe Adrian Vatter kritisiert den SVP-Anspruch auf das Justizdepartement als «politischen Übergriff».",
+              "gegenstimme": "Die SVP-Findungskommission betont Führungserfahrung und -kompetenz mit Blick auf EJPD und VBS, die Partei will im Asylbereich durchgreifen. Vatter hält dagegen, die Departementsverteilung sei verfassungsmässig allein Sache des Gesamtbundesrats, und niemand im Feld vereine Exekutiverfahrung und strikte Parteitreue. Ob das EJPD überhaupt frei wird, steht nicht fest.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-frist-abgelaufen-diese-svp-kandidaten-gehen-ins-bundesratsrennen"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/sieben-m%C3%A4nner-und-eine-frau-der-svp-f%C3%BCr-bundesratsamt-nominiert/92263012"
+                },
+                {
+                  "name": "SRF (Echo der Zeit, Vatter)",
+                  "url": "https://www.srf.ch/news/schweiz/schielen-auf-justizdepartement-politischer-uebergriff-politologe-kritisiert-svp-strategie"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-25-serbien-parlamentswahl",
+              "slug": "serbien-parlamentswahl",
+              "title": "Serbien wählt: Rekordbeteiligung, Ergebnis offen",
+              "date": "2026-10-25",
+              "time": "19:53",
+              "category": "international",
+              "icon": "🇷🇸",
+              "edition": "evening",
+              "kurz": "Bei der vorgezogenen Parlamentswahl lag die Beteiligung um 18 Uhr bei 64,9 Prozent, so hoch wie seit dem Zerfall Jugoslawiens nicht mehr. Vučić tritt gegen die studentische Liste an, ein Ergebnis liegt zum Redaktionsschluss nicht vor.",
+              "summary": "Die Wahllokale schliessen um 20 Uhr. Laut Wahlkommission lag die Beteiligung um 18 Uhr bei 64,9 Prozent. Umfragen sehen ein enges Rennen zwischen Vučićs SNS und der Studentenliste. Beobachter melden Zwischenfälle, der EU-Botschafter in Serbien zeigt sich «zutiefst besorgt» über gemeldete Gewaltvorfälle. Erste Projektionen werden gegen 21:30 bis 22 Uhr erwartet.",
+              "gegenstimme": "Vučić verweist auf Modernisierung (Autobahnen, Bahn, Schulen, Spitäler) und sagt, die Studenten würden von Agenten aus Kroatien und Montenegro finanziert, was diese zurückweisen. Die Umfragen widersprechen sich stark, ein Wahlsieg der Studenten ist daher nicht gesichert. Das Regierungslager weist Vorwürfe der Repression und Korruption zurück.",
+              "sources": [
+                {
+                  "name": "Reuters (via StreetInsider)",
+                  "url": "https://www.streetinsider.com/Reuters/Serbia+votes+in+historic+election+as+students+seek+to+end+Vucics+long+grip+on+power/27229197.html"
+                },
+                {
+                  "name": "The Guardian (Liveblog)",
+                  "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-25-php2shell-sicherheitsluecken",
+              "slug": "php2shell-sicherheitsluecken",
+              "title": "php2shell: Kritische Lücken in sämtlichen PHP-Versionen",
+              "date": "2026-10-25",
+              "time": "19:53",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "evening",
+              "kurz": "Zwei Schwachstellen mit CVSS 9.2 erlauben Codeausführung aus der Ferne ohne Anmeldung. Patches gibt es seit dem 21. Oktober, Angriffsversuche werden gemeldet.",
+              "summary": "Die Lücken CVE-2026-109618 und CVE-2026-109619 betreffen laut heise sämtliche PHP-Versionen der letzten 20 Jahre. Fixes sind in PHP 8.5.12, 8.4.27, 8.3.36 und 8.2.35 enthalten. Laut BSI ist eine erfolgreiche Ausnutzung in der Breite bisher nicht bekannt. Datadog zitiert AWS mit Angriffsversuchen schon ab dem 17. Oktober.",
+              "gegenstimme": "Calif, Datadog und BSI nennen Konfigurationsänderungen nur eine teilweise, vorübergehende Abhilfe. Heise weist darauf hin, dass die Ausnutzung bestimmte Vorbedingungen hat und mitunter mehrere Tausend Anfragen braucht. Das BSI erwartete eine breite Ausnutzung, hat aber bisher keine bestätigten erfolgreichen Kompromittierungen in der regulierten Wirtschaft oder der Bundesverwaltung gemeldet. Der Alarm ist also begründet, das Ausmass tatsächlicher Schäden ist offen.",
+              "sources": [
+                {
+                  "name": "heise online (Handlungsanleitung)",
+                  "url": "https://www.heise.de/news/php2shell-Luecke-Was-jetzt-zu-tun-ist-11497046.html"
+                },
+                {
+                  "name": "heise online (Details)",
+                  "url": "https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html"
+                },
+                {
+                  "name": "BSI",
+                  "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032.pdf?__blob=publicationFile&v=3"
+                },
+                {
+                  "name": "Datadog Security Labs",
+                  "url": "https://securitylabs.datadoghq.com/articles/php2shell-critical-vulnerabilities-in-php/"
+                },
+                {
+                  "name": "Calif",
+                  "url": "https://calif.io/php2shell/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-25-ebola-schweizerin-nigeria",
+              "slug": "ebola-schweizerin-nigeria",
+              "title": "Ebola: Schweizerin in Nigeria erkrankt, Ansteckungsort umstritten",
+              "date": "2026-10-25",
+              "time": "19:53",
+              "category": "schweiz",
+              "icon": "🦠",
+              "edition": "evening",
+              "kurz": "Eine 42-jährige Schweizerin, Ehefrau eines Botschaftsmitarbeiters, ist in Abuja an Ebola erkrankt. Wo sie sich ansteckte, ist umstritten.",
+              "summary": "Bei der Frau wurde am 20. Oktober Ebola diagnostiziert, sie wird in einer Privatklinik in Abuja behandelt, ihr Ehemann ist in Isolation ohne Symptome. Das EDA sagt, sie habe sich mutmasslich auf einer Reise nach Uganda angesteckt und sei nicht im Kongo gewesen. Ugandische Behörden sagen laut Guardian (zitiert von SRF), sie sei zuerst im Kongo gewesen. Laut WHO ist die Ansteckungsquelle weiter unbekannt. Eine Rückführung in die Schweiz wird abgeklärt.",
+              "gegenstimme": "EDA und WHO nennen Uganda ohne Kongo, Uganda meldet aber seit August offiziell keine Fälle. Entweder gab es dort unentdeckte Infektionen, oder die Reiseangaben stimmen nicht, wie ugandische Behörden andeuten. Die NZZ fragt, ob Uganda Infektionen verschleiere, ohne einen Beleg zu nennen. Die SRF-Wissenschaftsredaktion sieht das eigentliche Risiko weiterhin im Kongo und hält eine Rückführung mit richtigen Schutzmassnahmen für möglich, ohne andere zu gefährden.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/behandlung-in-nigeria-schweizerin-mit-ebola-angesteckt"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/panorama/ebola-erreicht-nigeria-schweizerin-erkrankt-ld.10042293"
+                },
+                {
+                  "name": "SRF Wissen",
+                  "url": "https://www.srf.ch/wissen/gesundheit/schweizerin-mit-ebola-was-bedeuten-die-neuen-ebola-faelle-in-nigeria-und-kenia"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cmwy4wlzqz3zo"
+                },
+                {
+                  "name": "WHO",
+                  "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-25-ukraine-gespraeche-abu-dhabi",
+              "slug": "ukraine-gespraeche-abu-dhabi",
+              "title": "Ukraine: Technische Gespräche in Abu Dhabi, Streit um Dreiergipfel",
+              "date": "2026-10-25",
+              "time": "19:53",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "evening",
+              "kurz": "Kiew, Moskau und Washington haben technische Gespräche in Abu Dhabi für die erste Novemberhälfte bestätigt. Offen ist, ob die Ukraine an einem Treffen von Trump, Putin und Xi teilnehmen darf.",
+              "summary": "Selenskyj und der Kreml bestätigten am Freitag Gespräche in Abu Dhabi, genannt wird ein Termin ab 10. November. Russland und die Ukraine einigten sich zudem auf eine lokale Feuerpause für Oleschky und tauschten je 270 Kriegsgefangene aus. Ein Treffen von Trump, Putin und Xi am APEC-Gipfel (18./19. November) ist nicht vereinbart. Selenskyj verlangt eine Beteiligung Kiews.",
+              "gegenstimme": "Kiews Aussenminister Sybiha warnt, ein Dreiertreffen würde Putin lediglich «ermutigen, diesen Krieg fortzusetzen». Selenskyj sagt, Gespräche über die Ukraine seien «nur akzeptabel, wenn wir am Verhandlungstisch sitzen». Der Kreml sagt, Hauptthema sei die Sicherheit beider Länder nach einem Übergang zu einer Friedenslösung. Die tagesschau schreibt in ihrer Berichterstattung, Putin habe bisher jede Zustimmung zu einem Frieden oder zu einer Waffenruhe verweigert. Das ist die Einordnung der Redaktion.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html"
+                },
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3446002/"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-08-26",
       "editions": {
