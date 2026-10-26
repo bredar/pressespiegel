@@ -23,6 +23,3 @@ Der Ausbruch durch das Bundibugyo-Virus wurde am 15. Mai in Kongo-Kinshasa erkl�
 ## Einordnung
 
 Gesichert: Diagnose am 20. Oktober, Identität laut EDA, Zahlen der WHO zum Ausbruch. Unklar: der Ansteckungsort. EDA und WHO nennen eine Reise aus Uganda ohne Kongo, ugandische Behörden sprechen laut Guardian von einem Kongo-Aufenthalt, die WHO sagt, die Quelle sei unbekannt und die Reisegeschichte werde noch rekonstruiert. Die Zeitangaben sind im Kern konsistent: Rückkehr nach Nigeria am 3. Oktober, Symptombeginn 7. Oktober, Behandlung ab 11. Oktober, Diagnose 20. Oktober (BBC, WHO). Die EDA-Angaben («seit rund einer Woche mit Symptomen») weichen davon leicht ab.
-
----
-**Quellen:** SRF, NZZ, SRF Wissen, BBC, WHO

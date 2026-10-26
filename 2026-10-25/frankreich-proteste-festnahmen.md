@@ -26,6 +26,3 @@ Am 17. Oktober gab es laut BBC mehr als 2500 Festnahmen, über 2000 Geschäfte w
 ## Einordnung
 
 Gesichert sind die Eckdaten des Innenministeriums (Festnahmen, verletzte Polizisten, 70 000 Einsatzkräfte), die BBC und ORF übereinstimmend wiedergeben. Umstritten ist die Teilnehmerzahl: 410 000 gegen rund 800 000. Wer die Gewalt ausübte, beruht auf Aussagen des Innenministers und ist nicht unabhängig geprüft.
-
----
-**Quellen:** BBC, ORF

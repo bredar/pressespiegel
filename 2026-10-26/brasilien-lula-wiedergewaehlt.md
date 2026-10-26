@@ -24,6 +24,3 @@ Richter Cristiano Zanin vom Obersten Gericht hatte die Wahl um zwei Stunden verl
 ## Einordnung
 
 Das Resultat ist amtlich und von mehreren Agenturen bestätigt. Der Anfechtungsgrund ist real, ob er rechtlich trägt, ist offen und nach Einschätzung von Fachleuten zweifelhaft. Politisch bleibt Lula geschwächt: Bolsonaros Partei PL hat im Parlament zugelegt.
-
----
-**Quellen:** SRF, Reuters via UOL, BBC News Brasil, WELT

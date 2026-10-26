@@ -24,6 +24,3 @@ Im Januar nahm das US-Militär Präsident Nicolás Maduro in Caracas fest. Die T
 ## Einordnung
 
 Die Rückkehr ist durch mehrere Quellen und Machados eigene Mitteilung belegt. Wie die Übergangsregierung und Washington reagieren, ist noch offen, ebenso, ob und wann es freie Wahlen gibt.
-
----
-**Quellen:** BBC, SRF

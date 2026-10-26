@@ -23,6 +23,3 @@ Die Findungskommission legt dem Fraktionsvorstand bis 13. November ihren Favorit
 ## Einordnung
 
 Gesichert: Kandidatenliste, Fristen und Termine, übereinstimmend bei SRF und Keystone-SDA. Der SRF-Untertitel nennt «sechs Männer und eine Frau» mit definitiver Absicht, dazu kommt Aeschi als achte Person, dessen Zusage noch aussteht. Das passt zu den acht Namen bei Keystone-SDA. Die Einschätzungen zur Strategie sind Meinung eines Politologen, keine Fakten.
-
----
-**Quellen:** SRF, Swissinfo (Keystone-SDA), SRF (Echo der Zeit, Vatter)

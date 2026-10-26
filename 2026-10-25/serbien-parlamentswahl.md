@@ -25,6 +25,3 @@ Der Leiter der Wahlkommission sagte laut Reuters, die Abstimmung verlaufe bisher
 ## Einordnung
 
 Gesichert: die Rekordbeteiligung (Wahlkommission laut Guardian, CeSID/Ipsos laut Reuters, beide mit klar höherem Wert als 2023). Die Zahlen stammen aus verschiedenen Stichproben und Zeitpunkten und sind nicht direkt vergleichbar. Teilweise belegt: Unregelmässigkeiten und Gewaltvorfälle, die von Beobachtern und der EU genannt werden, aber im Einzelnen nicht unabhängig bestätigt sind. Unklar: der Wahlausgang, die Umfragen widersprechen sich. Der Eintrag entstand kurz vor Schliessung der Wahllokale um 20 Uhr und enthält kein Ergebnis.
-
----
-**Quellen:** Reuters (via StreetInsider), The Guardian (Liveblog)

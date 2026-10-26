@@ -24,6 +24,3 @@ Laut Kommissionsvorschlag vom Mai soll ein Drittel des Bands für Sicherheits- u
 ## Einordnung
 
 Der Inhalt des Vorschlags ist durch das Kommissionsdokument belegt, die Drohungen der USA durch übereinstimmende Berichte. Ob europäische Anbieter technisch rechtzeitig mithalten können, ist offen. Für die Schweiz ist der Entscheid indirekt relevant, weil sie Frequenzen eng mit der EU abstimmt.
-
----
-**Quellen:** NZZ, Der Spiegel, EU-Kommission

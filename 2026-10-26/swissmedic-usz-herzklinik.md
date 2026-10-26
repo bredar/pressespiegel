@@ -26,6 +26,3 @@ Laut NZZ spricht Swissmedic selbst von «underreporting» bei Meldungen zu Mediz
 ## Einordnung
 
 Die zentralen Belege stammen aus Behördenakten, die SRF publiziert und zitiert; eine zweite unabhängige Recherche zu genau diesen Mails gibt es noch nicht. Swissmedic war nicht Ursache des Skandals, aber die einzige externe Kontrollstelle. Wie viel Prüfung bei Ausnahmebewilligungen unter Zeitdruck realistisch ist, bleibt die offene Frage.
-
----
-**Quellen:** SRF Investigativ, SRF, NZZ

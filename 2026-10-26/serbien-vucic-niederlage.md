@@ -26,6 +26,3 @@ Vučić war Ende September als Staatspräsident zurückgetreten, um nach einem W
 ## Einordnung
 
 Belegt sind das Eingeständnis Vučićs und der klare Vorsprung im RIK-Zwischenstand. Die genaue Sitzverteilung steht noch aus. Ob der Wechsel zu tieferen Reformen führt, hängt davon ab, ob ein Protestbündnis ohne Regierungserfahrung stabil regieren kann.
-
----
-**Quellen:** SRF, BBC, Telegraf (RIK-Zwischenstand), The Guardian

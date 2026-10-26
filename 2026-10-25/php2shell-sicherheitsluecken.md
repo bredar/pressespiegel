@@ -23,6 +23,3 @@ Datadog zitiert AWS mit Ausnutzungsversuchen seit dem 17. Oktober, vier Tage vor
 ## Einordnung
 
 Gesichert: Schweregrad, betroffene Versionen und Patches (BSI, heise, Datadog, Calif übereinstimmend). Unklar: das tatsächliche Ausmass erfolgreicher Angriffe, hier gehen nur Versuche aus den Quellen hervor. Die Zahl «Millionen» stammt aus zweiter Hand (heise zitiert Reuters, dieses Cloudflare) und wurde nicht im Original geprüft. Das BSI bezeichnete frühe Meldungen über Angriffe in sozialen Medien zunächst als nicht verifizierbar, Datadog nennt AWS als Quelle der frühen Versuche.
-
----
-**Quellen:** heise online (Handlungsanleitung), heise online (Details), BSI, Datadog Security Labs, Calif

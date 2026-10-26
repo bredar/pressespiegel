@@ -23,6 +23,3 @@ In Oslo sprach Selenskyj am 20. Oktober mit Witkoff, Norwegens Regierungschef St
 ## Einordnung
 
 Gesichert: Termin der Gespräche (von beiden Seiten bestätigt), Feuerpause und Gefangenenaustausch (ORF), die Aussagen von Selenskyj und Trump (tagesschau). Unklar: Inhalt der Gespräche und ob der Dreiergipfel zustande kommt. Der Bericht über Putins Gipfelplan stützt sich auf eine nicht namentlich genannte US-Zeitung.
-
----
-**Quellen:** tagesschau, ORF
