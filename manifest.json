@@ -1,5 +1,5 @@
 {
-  "updated": "11:30 UTC",
+  "updated": "16:30 UTC",
   "days": [
     {
       "date": "2026-10-26",
@@ -818,6 +818,312 @@
                 {
                   "name": "watson",
                   "url": "https://www.watson.ch/digital/apple/460112739-apple-crackgate-iphone-duo-user-klagen-ueber-gebrochene-displays"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-10-26-amaudruz-kritik-bundesratskandidatur",
+              "slug": "amaudruz-kritik-bundesratskandidatur",
+              "title": "Bundesratswahl: Amaudruz hält trotz Kritik an Kandidatur fest",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "evening",
+              "kurz": "Die Genfer SVP-Nationalrätin Céline Amaudruz reagiert kämpferisch auf Angriffe aus der Deutschschweiz. Romands und Alliance F stellen sich hinter sie.",
+              "summary": "Die SVP-Bundesratskandidatin Céline Amaudruz (GE) hat am Montag gegenüber RTS schriftlich auf die Kritik der Deutschschweizer Sonntagspresse reagiert: Die Angriffe stärkten ihre Entschlossenheit, sie rechne mit einem Platz auf dem Ticket. Kritisiert werden unter anderem ihre bezahlten Mandate und ihr Führungsstil als frühere Präsidentin der SVP Genf. Die SVP legt ihr Ticket mit zwei oder drei Namen am 20. November fest.",
+              "gegenstimme": "Die Kritiker halten die Vorwürfe für sachlich: Die NZZ am Sonntag berichtete von drei Burnouts und fünf Abgängen in vier Jahren auf dem Genfer Parteisekretariat unter ihrer Führung, die Stiftung Ethos empfahl wegen zu vieler Mandate mehrfach ihren Rücktritt. Dass sie nie einer Exekutive angehörte, ist ein Einwand, der nicht mit Herkunft oder Geschlecht zu tun hat.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/dialog/svp-kandidatin-fuer-bundesrat-celine-amaudruz-zeigt-sich-unbeeindruckt-von-der-kritik"
+                },
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/613390385-svp-bundesratskandidatin-celine-amaudruz-reagiert-auf-kritik"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/bundesratskandidatin-celine-amaudruz-in-der-kritik-ld.10035690"
+                },
+                {
+                  "name": "SRF (Vatter zum EJPD-Anspruch)",
+                  "url": "https://www.srf.ch/news/schweiz/schielen-auf-justizdepartement-politischer-uebergriff-politologe-kritisiert-svp-strategie"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-runder-tisch-gesundheitskosten-sechs-massnahmen",
+              "slug": "runder-tisch-gesundheitskosten-sechs-massnahmen",
+              "title": "Gesundheitskosten: Runder Tisch beschliesst sechs neue Massnahmen",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🩺",
+              "edition": "evening",
+              "kurz": "Spitäler, Ärzte, Kassen und Kantone wollen unter anderem Notfallstationen entlasten und mehr Behandlungen zu Hause ermöglichen. Einige Ideen stammen aus der Bevölkerung.",
+              "summary": "Der von Gesundheitsministerin Elisabeth Baume-Schneider geleitete «Runde Tisch Kostendämpfung» hat am Montag in Bern sechs neue Massnahmen beschlossen. Dazu gehören die Entlastung der Notfallaufnahmen, Programme für chronisch Kranke, mehr ambulante Behandlungen und «Hospital at Home», weniger Polymedikation in Heimen und transparentere Rechnungen bei Medizinprodukten. Die Massnahmen sollen ab 2027 umgesetzt werden; ein Teil stützt sich auf rund 7400 Eingaben aus der Bevölkerung.",
+              "gegenstimme": "Kritiker bezweifeln, dass freiwillige Abmachungen der Akteure die Prämienentwicklung spürbar bremsen: Die Prämien steigen 2027 laut NZZ erneut um rund fünf Prozent, und das erste Paket zielte mit rund 300 Millionen Franken auf einen kleinen Bruchteil der Gesundheitskosten. Eine bezifferte Sparwirkung für das neue Paket fehlt bisher.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/die-hohen-krankenkassenpraemien-schmerzen-jetzt-macht-die-bevoelkerung-selbst-sparvorschlaege-ld.10044819"
+                },
+                {
+                  "name": "EDI (Medienmitteilungen)",
+                  "url": "https://www.edi.admin.ch/de/medienmitteilungen-des-edi"
+                },
+                {
+                  "name": "Ticinonline",
+                  "url": "https://www.tio.ch/svizzera/politica/1959147/sanita-sei-nuove-misure-per-frenare-i-costi"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-zuerich-zahlt-jura-moutier-finanzausgleich",
+              "slug": "zuerich-zahlt-jura-moutier-finanzausgleich",
+              "title": "Moutier-Wechsel: Zürich zahlt widerwillig 16 Millionen an den Jura",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "💸",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/7b57a385cb18974fceb8642b48c2cc4dad32025c-92274401.jpg?ver=3d9edd03&fit=1200,900",
+              "kurz": "Der Zürcher Kantonsrat bewilligt 16,3 Millionen Franken für den Kanton Jura. Sonst hätte der Bund Zürich den soziodemografischen Ausgleich gekürzt.",
+              "summary": "Der Zürcher Kantonsrat hat am Montag mit 125 Stimmen einen Kredit von 16,3 Millionen Franken an den Kanton Jura bewilligt; SVP und GLP stimmten dagegen. Das Geld deckt einen Teil der Lücke von 65 Millionen Franken, die dem Jura durch den Kantonswechsel von Moutier entsteht, bis der Finanzausgleich ihn ab 2032 voll abbildet. Der Bund hatte den Geberkantonen sonst eine Kürzung des soziodemografischen Ausgleichs angedroht, für Zürich rund 150 Millionen Franken über fünf Jahre.",
+              "gegenstimme": "Die SVP sprach im Rat von «Lösegeld»: Zürich werde für einen Konflikt zur Kasse gebeten, an dem es nicht beteiligt war. Die GLP kritisiert den Verteilschlüssel: Weil er sich am soziodemografischen Ausgleich orientiert, beteiligen sich finanzstarke Kantone wie Schwyz oder Nidwalden gar nicht.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA via swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/z%c3%bcrcher-kantonsrat-genehmigt-16-millionen-f%c3%bcr-den-kanton-jura/92274414"
+                },
+                {
+                  "name": "Kantonsrat Zürich (Geschäft)",
+                  "url": "https://www.kantonsrat.zh.ch/geschaefte/geschaeft/?id=b7ea39c8a14b441988d115a59265c179"
+                },
+                {
+                  "name": "Kanton Zürich (Antrag Regierungsrat)",
+                  "url": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2026/04/kantonswechsel-von-moutier-regierungsrat-beantragt-kredit-zugunsten-des-kantons-jura.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-bern-kornhausbruecke-autofrei-2030",
+              "slug": "bern-kornhausbruecke-autofrei-2030",
+              "title": "Stadt Bern: Autofreie Kornhausbrücke frühestens 2030",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🌉",
+              "edition": "evening",
+              "kurz": "Der Berner Gemeinderat legt den Pilotversuch für eine Kornhausbrücke ohne Autoverkehr auf Eis. Grund sind andere Grossbaustellen.",
+              "summary": "Der Berner Gemeinderat will einen Pilotversuch mit einer für den motorisierten Individualverkehr gesperrten Kornhausbrücke frühestens 2030 durchführen. Er beantragt dem Stadtrat, die Frist für die Umsetzung einer 2024 überwiesenen Motion von Nora Joos (GB/JA) und Michael Ruefer (GLP) bis Mitte 2030 zu verlängern. Noch im Mai 2026 hatte er einen Pilotversuch in Aussicht gestellt.",
+              "gegenstimme": "Befürworter der Sperrung dürften die Verschiebung als Verzögerung eines klaren Stadtratsauftrags sehen, zumal die neunmonatige Sperrung während der Sanierung 2025 gezeigt hat, dass es ohne Autos auf der Brücke geht. Aus Sicht von Gewerbe und Autofahrenden spricht dagegen viel dafür, während mehrerer Grossbaustellen nicht zusätzlich eine wichtige Achse zu sperren.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA via swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/berner-gemeinderat-will-autofreie-kornhausbr%c3%bccke-erst-2030-testen/92275792"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-autofreie-kornhausbruecke-fruehestens-2030-767674893987"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-tuggen-todesfall-neonazi-verdacht",
+              "slug": "tuggen-todesfall-neonazi-verdacht",
+              "title": "Tuggen SZ: Verdächtiger nach tödlicher Schlägerei soll Neonazi sein",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "kurz": "Nach dem Tod eines 27-jährigen Deutschen in Tuggen soll der verhaftete 42-jährige Schweizer seit Jahren dem Neonazi-Netzwerk Blood and Honour angehören.",
+              "summary": "Nach einer Schlägerei an einer Afterparty im Lokal «Bandits» in Tuggen SZ in der Nacht auf den 18. Oktober ist ein 27-jähriger Deutscher gestorben. Ein 42-jähriger Schweizer sitzt in Untersuchungshaft, die Staatsanwaltschaft ermittelt wegen vorsätzlicher Tötung. Laut SonntagsBlick ist er seit Jahren Mitglied des in Deutschland verbotenen Neonazi-Netzwerks Blood and Honour; die Staatsanwaltschaft nennt gezeigte Hitlergrüsse als mutmasslichen Auslöser der Auseinandersetzung.",
+              "gegenstimme": "Die Staatsanwaltschaft hat die Zugehörigkeit des Verdächtigen zu Blood and Honour bisher nicht bestätigt und betont, die politischen Hintergründe aller Beteiligten seien Teil der Ermittlungen. Wer genau zugeschlagen hat und ob die Gesinnung tatursächlich war, ist gerichtlich nicht geklärt; es gilt die Unschuldsvermutung.",
+              "sources": [
+                {
+                  "name": "watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/schweiz/polizeirapport/909797473-hitler-gruesse-wohl-ausloeser-von-toedlicher-schlaegerei-in-tuggen-sz"
+                },
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/schweiz/verbrechen/899443555-toter-nach-schlaegerei-in-tuggen-verhafteter-ist-teil-von-neonazi-szene"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/toter-in-tuggen-sz-verdaechtiger-soll-neonazi-netzwerk-blood-and-honour-angehoeren-103655707"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/totschlaeger-von-tuggen-ist-ein-blood-and-honour-nazi/tlk6xpd"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-tcs-camping-datenleck-php",
+              "slug": "tcs-camping-datenleck-php",
+              "title": "PHP-Lücke: TCS Camping warnt 15'000 Gäste vor Betrug",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "evening",
+              "kurz": "Über das Buchungssystem Camping.Care sind Kundendaten von TCS-Campinggästen abgeflossen. Betrüger nutzen sie bereits für WhatsApp-Nachrichten.",
+              "summary": "TCS Camping hat rund 15'000 Kundinnen und Kunden gewarnt, weil beim externen Buchungssystem Camping.Care im Zusammenhang mit der weltweiten PHP-Sicherheitslücke Kunden- und Buchungsdaten gestohlen wurden. Betrüger verschickten bereits WhatsApp-Nachrichten mit echten Namen, Telefonnummern und Reservationsnummern. Kontoangaben, IBAN und Kreditkartendaten sind laut TCS nicht betroffen.",
+              "gegenstimme": "Dass «nur» Namen, Telefonnummern und Buchungsnummern abflossen, ist kein Entwarnungssignal: Gerade echte Buchungsdaten machen Phishing glaubwürdig, wie Datenschützer in Deutschland bei ähnlichen Fällen warnen. Offen ist auch, warum der Dienstleister die seit einer Woche bekannte Lücke nicht rechtzeitig geschlossen hatte.",
+              "sources": [
+                {
+                  "name": "SRF Espresso",
+                  "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/php-sicherheitsluecke-betrugsversuche-nach-datenleck-im-buchungssystem-von-tcs-camping"
+                },
+                {
+                  "name": "watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/schweiz/digital/154077128-tcs-camping-meldet-datenleck-nach-php-sicherheitsluecke"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/tcs-camping-warnt-vor-datenleck-nach-sicherheitslucke-67193576"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-anthropic-boersenprospekt",
+              "slug": "anthropic-boersenprospekt",
+              "title": "Anthropic legt Börsenprospekt vor: 16 Milliarden Umsatz, 81 Milliarden Verlust",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "📈",
+              "edition": "evening",
+              "kurz": "Der KI-Entwickler Anthropic will unter dem Kürzel ANT an die Nasdaq. Der Prospekt zeigt rasantes Wachstum und einen riesigen Buchverlust.",
+              "summary": "Der Claude-Entwickler Anthropic hat am Montag bei der US-Börsenaufsicht SEC seinen Börsenprospekt eingereicht und strebt eine Notierung an der Nasdaq unter dem Kürzel ANT an. Im ersten Halbjahr 2026 stieg der Umsatz auf 16,3 Milliarden Dollar, nach 1,2 Milliarden im Vorjahreszeitraum; der Nettoverlust betrug 80,7 Milliarden Dollar. Bewertung, Preisspanne und Datum nennt der Prospekt nicht.",
+              "gegenstimme": "Skeptiker verweisen auf die Risiken, die Anthropic selbst nennt: Die Firma warnt, nachhaltige Profitabilität werde womöglich nie erreicht, und hat laut Prospekt-Auswertungen Zahlungsverpflichtungen für Rechenkapazitäten von rund 245 Milliarden Dollar.",
+              "sources": [
+                {
+                  "name": "SEC (S-1-Prospekt)",
+                  "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/ki/anthropic-anthropic-leitet-mega-boersengang-ein/100264987.html"
+                },
+                {
+                  "name": "Investing.com",
+                  "url": "https://de.investing.com/news/stock-market-news/anthropic-beantragt-borsengang-an-der-nasdaq--umsatz-springt-auf-163-milliarden-3723279"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-temu-eu-aktionsplan-dsa",
+              "slug": "temu-eu-aktionsplan-dsa",
+              "title": "EU akzeptiert Temus Plan gegen illegale Produkte",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🛍️",
+              "edition": "evening",
+              "kurz": "Nach einer Busse von 200 Millionen Euro muss Temu prüfen, ob seine Empfehlungsalgorithmen illegale Waren verbreiten. Die EU-Kommission hat den Aktionsplan gebilligt.",
+              "summary": "Die EU-Kommission hat am Montag den Aktionsplan der chinesischen Handelsplattform Temu nach dem Gesetz über digitale Dienste (DSA) akzeptiert. Temu verpflichtet sich zu fünf Korrekturmassnahmen, unter anderem zu prüfen, ob Empfehlungssysteme illegale Produkte sichtbarer machen, und wie Händler die Plattform gezielt missbrauchen. Die Kommission hatte Temu im Mai mit 200 Millionen Euro gebüsst; die Busse bleibt bestehen.",
+              "gegenstimme": "Die nationalen Aufsichtsbehörden im EU-Gremium der Digitaldienste-Koordinatoren hatten im September bemängelt, der Plan sei nicht ausreichend detailliert. Kritisch ist auch, dass Temu vor allem prüfen und bewerten muss; konkrete Ergebnisse auf der Plattform sind damit noch nicht belegt. Temu begrüsste den Entscheid.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Gegen-illegale-Waren-Temu-muss-Empfehlungs-Algorithmen-transparent-machen-11500701.html"
+                },
+                {
+                  "name": "El País",
+                  "url": "https://elpais.com/economia/2026-10-26/bruselas-acepta-el-plan-de-temu-para-frenar-la-venta-productos-ilegales-en-su-plataforma.html"
+                },
+                {
+                  "name": "Rapporteur",
+                  "url": "https://www.rapporteur.com/news/commission-accepts-temus-plan-to-curb-illegal-products/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-jemen-koalition-angriffe-huthi-raketen",
+              "slug": "jemen-koalition-angriffe-huthi-raketen",
+              "title": "Jemen: Saudisch geführte Koalition greift Raketenstellungen der Huthi an",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261024__D4BH8NQ__v1__HighRes__YemenIranSaudiIsraelUsWar-1793008051.jpg?resize=1920%2C1440",
+              "kurz": "Die Koalition meldet zerstörte Raketenwerfer, Tunnel und ein Depot. Die Huthi feuern weiter Raketen und Drohnen auf Saudi-Arabien.",
+              "summary": "Die von Saudi-Arabien geführte Militärkoalition im Jemen hat nach eigenen Angaben am Montag vier ballistische Raketenwerfer, fünf Lagertunnel und ein Raketendepot der Huthi zerstört, darunter zwei Werfer in Sanaa. Zuvor hatte die saudische Luftabwehr laut Koalition eine Rakete auf Riad abgefangen. Die Huthi beanspruchen ihrerseits neue Angriffe auf den Flughafen Riad und auf Ölpumpstationen.",
+              "gegenstimme": "Die Angaben beider Seiten sind Kriegspropaganda ausgesetzt und unabhängig kaum überprüfbar; die Huthi stellen ihre Angriffe als Antwort auf saudische Luftschläge dar. Hilfsorganisationen und Beobachter warnen seit Jahren, dass Luftangriffe im dicht besiedelten Sanaa auch Zivilisten treffen; zu Opfern der jüngsten Schläge gibt es keine unabhängigen Angaben.",
+              "sources": [
+                {
+                  "name": "Al Jazeera (AFP/Reuters)",
+                  "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities"
+                },
+                {
+                  "name": "Arab News",
+                  "url": "https://www.arabnews.com/saudi-arabia/coalition-destroys-houthi-missile-launchers-in-sanaa-after-foiled-attack-on-riyadh-3008280"
+                },
+                {
+                  "name": "Saudi Press Agency",
+                  "url": "https://www.spa.gov.sa/en/N2710316"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-guterres-kairo-iran-usa-zurueckhaltung",
+              "slug": "guterres-kairo-iran-usa-zurueckhaltung",
+              "title": "Guterres warnt in Kairo vor Eskalation zwischen USA und Iran",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "evening",
+              "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/26-10-2026_SG_Egypt_presser1.jpeg/image770x420cropped.jpg",
+              "kurz": "UNO-Generalsekretär Guterres fordert «maximale Zurückhaltung» und freie Schifffahrt in Hormus und Bab al-Mandab. Er lobt Ägyptens Vermittlung.",
+              "summary": "UNO-Generalsekretär António Guterres hat am Montag in Kairo die USA und Iran zu «maximaler Zurückhaltung» und diplomatischen Lösungen aufgerufen. Wenn das aktuelle Säbelrasseln in eine grosse gegenseitige Eskalation münde, könne die Lage in der Region ausser Kontrolle geraten. Zudem forderte er, die Schifffahrt in der Strasse von Hormus und im Bab al-Mandab wieder voll zu ermöglichen.",
+              "gegenstimme": "Aus Sicht Israels und der USA verkennt der Appell, dass Iran mit Verbündeten wie den Huthi die Schifffahrt selbst blockiert und Nachbarstaaten angreift; Guterres' gleichzeitige scharfe Kritik an Israel im Westjordanland bestärkt dort den Vorwurf der Einseitigkeit. Zudem hat die UNO in diesem Konflikt kaum Druckmittel.",
+              "sources": [
+                {
+                  "name": "UN News",
+                  "url": "https://news.un.org/en/story/2026/10/1168669"
+                },
+                {
+                  "name": "Dawn",
+                  "url": "https://www.dawn.com/news/2039976"
+                },
+                {
+                  "name": "Al Jazeera (Liveblog)",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-frankreich-le-pen-wahlkampfstart",
+              "slug": "frankreich-le-pen-wahlkampfstart",
+              "title": "Frankreich: Le Pen startet als Favoritin in den Präsidentschaftswahlkampf",
+              "date": "2026-10-26",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "evening",
+              "image": "https://static.dw.com/image/79757107_6.jpg",
+              "kurz": "Marine Le Pen eröffnet in Orléans ihre vierte Präsidentschaftskandidatur mit Sicherheit und Migration als Schwerpunkten. Bardella soll Premier werden.",
+              "summary": "Marine Le Pen hat am Sonntag in Orléans vor rund 8500 Anhängern ihren Wahlkampf für die Präsidentschaftswahl im Frühling 2027 eröffnet. Unter dem Motto «Renaissance» versprach sie hartes Durchgreifen nach den Ausschreitungen der letzten Wochen, eine strengere Migrationspolitik und die Ausweisung krimineller Ausländer. Jordan Bardella wurde mit fast 99 Prozent als Parteichef des Rassemblement National bestätigt und soll im Fall eines Siegs Premierminister werden.",
+              "gegenstimme": "Gegner wie die Linke und Gewerkschaften werfen dem RN vor, die Gewalt bei den Sozialprotesten politisch auszuschlachten; in Orléans demonstrierten am Samstag laut Präfektur 13'000 Menschen gegen den Parteitag. Die jüdische Studentenvereinigung UEJF meldete, Aktivisten seien im Saal malträtiert worden, nachdem sie Bardella mit Antisemitismusvorwürfen konfrontierten; Bardella weist diese zurück.",
+              "sources": [
+                {
+                  "name": "DW",
+                  "url": "https://www.dw.com/de/frankreich-rechtspopulistin-marine-le-pen-startet-wahlkampf/a-79759731"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://fr.euronews.com/2026/10/25/orleans-marine-le-pen-lance-sa-campagne-au-lendemain-de-lacte-ii-de-la-mobilisation-social"
                 }
               ]
             }
