@@ -1,5 +1,5 @@
 {
-  "updated": "06:05 UTC",
+  "updated": "06:40 UTC",
   "days": [
     {
       "date": "2026-10-26",
@@ -148,6 +148,302 @@
                 {
                   "name": "EU-Kommission",
                   "url": "https://digital-strategy.ec.europa.eu/de/news/commission-proposes-new-authorisation-mobile-satellite-services-eus-resilience-and-competitiveness"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-israel-wahl-netanyahu-eisenkot",
+              "slug": "israel-wahl-netanyahu-eisenkot",
+              "title": "Israel wählt am Dienstag: Netanyahu und Eisenkot Kopf an Kopf",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "kurz": "Vor der Knesset-Wahl am Dienstag liegen Regierungs- und Oppositionslager gleichauf; eine klare Mehrheit ist laut Umfragen für keine Seite in Sicht.",
+              "summary": "Israel wählt am Dienstag, 27. Oktober, ein neues Parlament. Die letzte Umfrage von Zman Yisrael/Times of Israel sieht die beiden jüdisch geführten Blöcke bei je 51 von 120 Sitzen, nötig sind 61. Eisenkots Partei Yashar liegt mit 23 Sitzen knapp vor Netanyahus Likud mit 21.",
+              "gegenstimme": "Umfragen sind keine Prognose: Die ToI-Umfrage umfasst 500 Befragte bei 4,4 Prozent Fehlermarge, und laut BBC hat Eisenkots Yashar den Likud in Umfragen zwar regelmässig knapp überholt. Je nach Umfrage kommt der Likud auf 19 bis 26 Sitzen. Netanyahu warnt zudem, eine Opposition könne nur mit arabischen Parteien regieren; Eisenkot und die meisten Oppositionsparteien schliessen das aus.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/ckpdgy6pl7xlo"
+                },
+                {
+                  "name": "The Times of Israel",
+                  "url": "https://www.timesofisrael.com/netanyahu-and-eisenkot-in-dead-heat-five-days-before-election-final-toi-poll-shows/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-jordanien-kirchenanschlag-festnahmen",
+              "slug": "jordanien-kirchenanschlag-festnahmen",
+              "title": "Jordanien: Drei Verdächtige nach Angriff auf Trauerfeier in Kirche festgenommen",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "international",
+              "icon": "⛪",
+              "edition": "morning",
+              "kurz": "Nach dem Angriff auf eine Trauerfeier in Karak hat Jordanien am Montag drei Verdächtige festgenommen; neun Menschen starben.",
+              "summary": "Jordaniens Sicherheitskräfte haben am Montagmorgen drei Verdächtige in einem verlassenen Haus in Karak festgenommen. Sie schossen laut Behörde zuerst auf die Einsatzkräfte und wurden verletzt, Sicherheitskräfte kamen nicht zu Schaden. Beim Angriff auf eine Beerdigung in der griechisch-orthodoxen St.-Georgs-Kirche in Hamoud waren am Freitag neun Menschen getötet und 40 verletzt worden.",
+              "gegenstimme": "Alle Angaben zur Festnahme stammen bisher von der jordanischen Sicherheitsbehörde, eine unabhängige Bestätigung fehlt. Die Behörde sagte, die Verdächtigen hätten ihr «gerechtes Schicksal» ereilt; wie die Festnahme genau ablief, bleibt damit offen. Beide hier genutzten Quellen stützen sich im Kern auf Reuters.",
+              "sources": [
+                {
+                  "name": "CNA (Reuters)",
+                  "url": "https://www.channelnewsasia.com/world/jordan-arrests-three-suspects-deadly-church-attack-6492146"
+                },
+                {
+                  "name": "The Guardian (Reuters)",
+                  "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-deza-aerzte-ohne-grenzen-tranche",
+              "slug": "deza-aerzte-ohne-grenzen-tranche",
+              "title": "Bund hält 1,25 Millionen an Ärzte ohne Grenzen zurück",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "schweiz",
+              "icon": "🏥",
+              "edition": "morning",
+              "kurz": "Wegen mangelhafter Meldung von Missbrauchsfällen im Tschad hält der Bund einen Teil des Beitrags für Ärzte ohne Grenzen zurück.",
+              "summary": "Der Bund hält laut EDA 1,25 Millionen Franken des für 2026 zugesagten Beitrags von 6,25 Millionen an Ärzte ohne Grenzen (MSF) zurück. Grund: MSF habe die vertragliche Pflicht zur umfassenden und zeitnahen Meldung von Missbrauchsfällen im Tschad nicht erfüllt. MSF bestreitet die Vorfälle nicht und räumt ein, das Ausmass «nicht proaktiv und früh genug» offengelegt zu haben.",
+              "gegenstimme": "Die «NZZ am Sonntag» wirft auch der Deza mangelnde Kontrolle vor, gestützt auf interne E-Mails. Das EDA bestätigte diese Darstellung gegenüber Keystone-SDA nicht; es bestätigte nur die Zahlen zur zurückgehaltenen Tranche. Damit steht die Kritik an der Deza bisher auf einer einzelnen Quelle.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/schweiz/-dass-wir-nicht-von-partnern-absichtlich-getaeuscht-werden-koennen-so-versagte-die-deza-im-missbrauchsskandal-ld.10041206"
+                },
+                {
+                  "name": "Nau.ch (Keystone-SDA)",
+                  "url": "https://www.nau.ch/news/schweiz/bundesgelder-an-arzte-ohne-grenzen-wegen-missbrauchen-ausgesetzt-67193226"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-diesel-pflichtlager-tempo-80",
+              "slug": "diesel-pflichtlager-tempo-80",
+              "title": "Treibstoff knapp: Bund gibt Diesel frei und prüft Tempo 80",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "schweiz",
+              "icon": "⛽",
+              "edition": "morning",
+              "kurz": "Der Bund öffnet die Diesel-Pflichtlager und konsultiert intern zu Tempo 80 auf Autobahnen, entschieden ist nichts.",
+              "summary": "Der Bund erlaubt bis zu 45 Millionen Liter Diesel aus den Pflichtlagern, das sind knapp vier Prozent der Reserven. Der Bezug ist vom 23. Oktober bis 22. November möglich. Zudem bestätigte das Bundesamt für wirtschaftliche Landesversorgung (BWL) eine verwaltungsinterne Konsultation zu Geschwindigkeitsreduktionen auf Autobahnen.",
+              "gegenstimme": "Ein Entscheid liegt nicht vor: Laut Nau.ch setzt der Bund zuerst auf freiwilliges Sparen, erst danach könnte der Bundesrat Reduktionen anordnen. Die Medien nennen zudem unterschiedliche Erstquellen für den Bericht über Tempo 80, Nau.ch «Schweiz heute», Blick die «Schweiz am Wochenende».",
+              "sources": [
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/sprit-wird-knapp-bund-pruft-tempo-80-auf-schweizer-autobahnen-67192892"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/tempo-80-auf-schweizer-autobahnen-bund-bereitet-massnahme-vor/73rk9nt"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-migros-einheitsgenossenschaft",
+              "slug": "migros-einheitsgenossenschaft",
+              "title": "Migros plant laut Bericht eine Einheitsgenossenschaft",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "wirtschaft",
+              "icon": "🛒",
+              "edition": "morning",
+              "kurz": "Die zehn Regionalgenossenschaften sollen laut «SonntagsZeitung» in einer einzigen Genossenschaft aufgehen, bis zu 3000 Stellen könnten wegfallen.",
+              "summary": "Die «SonntagsZeitung» berichtet, Migros-Chef Mario Irminger und VR-Präsidentin Ursula Nold wollten Anfang dieser Woche einen Umbau vorstellen: Die zehn Regionalgenossenschaften, die Supermarkt AG und der MGB sollen zu einer Einheitsgenossenschaft werden. Genannt werden Einsparungen von 300 bis 400 Millionen Franken und rund 3000 mögliche Stellen. Eine offizielle Bestätigung von Migros liegt bisher nicht vor.",
+              "gegenstimme": "Migros selbst bestätigte laut den Berichten weder Plan noch Zahlen; eine Sprecherin sagte nur, bei einer allfälligen Fusion müssten die Delegiertenversammlung und die Genossenschaften in Urabstimmungen zustimmen. Ein früherer Reformversuch scheiterte laut watson vor rund 30 Jahren.",
+              "sources": [
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/361109819-migros-vor-mega-umbau-zehn-genossenschaften-sollen-fusionieren"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/neue-strukturen-migros-plant-grossen-umbau-fallen-3000-stellen-weg-103655731"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-lindt-praesident-tanner-preise",
+              "slug": "lindt-praesident-tanner-preise",
+              "title": "Lindt-Präsident Tanner: «Es tut mir weh, unsere Produkte im Ausverkauf zu sehen»",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "wirtschaft",
+              "icon": "🍫",
+              "edition": "morning",
+              "kurz": "Lindt-Präsident Ernst Tanner spricht erstmals über die Krise des Schokoladenkonzerns und schliesst seinen Rücktritt aus.",
+              "summary": "Verwaltungsratspräsident Ernst Tanner räumt in der «NZZ am Sonntag» Fehler bei den Preisen ein. Die Aktie hat seit Februar rund 40 Prozent verloren. CEO Adalbert Lechner musste am 19. Oktober gehen, Dieter Weisskopf übernimmt interimistisch. Tanner (80) lehnt einen Rücktritt ab.",
+              "gegenstimme": "Tanner sieht die Probleme vor allem in der DACH-Region, besonders in Deutschland, und verweist auf ein Wachstum von 6 bis 8 Prozent in Amerika und Fernost. Reuters berichtet dagegen von schwachen europäischen Ergebnissen und von Senkungen der Jahresprognose als Hintergrund des CEO-Wechsels.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/wirtschaft/der-schokoladenkoenig-ernst-tanner-spricht-erstmals-ueber-die-krise-von-lindt-es-tut-mir-weh-unsere-produkte-im-ausverkauf-zu-sehen-ld.10040266"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/krise-bei-schoggi-gigant-lindt-praesident-tut-weh-die-produkte-im-ausverkauf-zu-sehen-103655717"
+                },
+                {
+                  "name": "Reuters (via US News)",
+                  "url": "https://money.usnews.com/investing/news/articles/2026-10-19/chocolate-maker-lindt-says-ceo-lechner-to-leave-taps-former-boss-for-interim-role"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-wasserkraft-ausbau-winterstrom-bericht",
+              "slug": "wasserkraft-ausbau-winterstrom-bericht",
+              "title": "Wasserkraft: Ausbau liefert laut internem Bericht deutlich weniger Winterstrom",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "schweiz",
+              "icon": "⚡",
+              "edition": "morning",
+              "kurz": "Die 16 priorisierten Wasserkraftprojekte sollen bis 2040 nur 1248 statt 2031 GWh Winterstrom bringen, Rösti wirkt unentschlossen.",
+              "summary": "Ein interner Bericht der «technischen Begleitgruppe» von Bundesrat Albert Rösti rechnet für die 16 priorisierten Wasserkraftprojekte bis 2040 nur noch mit 1248 statt 2031 GWh zusätzlichem Winterstrom. Das berichtet watson. Schon im September hatte die NZZ gemeldet, das Bundesamt für Energie erwarte nur gut die Hälfte der erwarteten Winterproduktion.",
+              "gegenstimme": "Die Stiftung Landschaftsschutz widerspricht dem Eindruck, es gehe nicht vorwärts: «Das Narrativ, dass es nicht vorwärtsgehe, ist falsch.» Der Präsident der Bau-, Planungs- und Umweltdirektorenkonferenz, Steiert, mahnt, nicht «das Handtuch zu werfen». Röstis Sprecherin sagt, das Departement wolle sich «genügend Zeit» nehmen.",
+              "sources": [
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/schweiz/energie/430160366-roesti-wirkt-wegen-stockendem-ausbau-der-wasserkraft-unentschlossen"
+                },
+                {
+                  "name": "NZZ (7.9.2026)",
+                  "url": "https://www.nzz.ch/schweiz/die-16-wasserkraftprojekte-reichen-nicht-nun-sucht-albert-roesti-einen-plan-b-ld.10022498"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-f35-bundesrat-stellungnahme-gpk",
+              "slug": "f35-bundesrat-stellungnahme-gpk",
+              "title": "F-35: Bundesrat will Lehren ziehen, SP und Grüne fordern Stopp",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "politik",
+              "icon": "✈️",
+              "edition": "morning",
+              "kurz": "Der Bundesrat nimmt sechs von sieben GPK-Empfehlungen zur F-35-Beschaffung an, SP und Grüne verlangen den Abbruch.",
+              "summary": "Der Bundesrat nimmt in seiner Stellungnahme sechs von sieben Empfehlungen der Geschäftsprüfungskommission des Nationalrats (GPK-N) zur F-35-Beschaffung an. Er weist aber die Kritik zurück, die Verträge seien kaum gelesen worden. SP und Grüne fordern den Stopp des Kaufs und eine PUK. Die Stellungnahme wurde am 23. Oktober bekannt.",
+              "gegenstimme": "Die Grünen nennen das Papier laut Nationalrat Weichelt «eine Frechheit», die SP-Vertretung Molina «schlicht nicht seriös». Der Bundesrat hält dagegen, die Vorwürfe zur Vertragsprüfung träfen nicht zu, und lehnt nachträgliche Sanktionen gegen ehemalige Mitarbeitende ab.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/kampfjet-beschaffung-bundesrat-will-lehren-aus-f-35-fixpreis-debakel-ziehen"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/bundesrat-will-lehren-aus-f-35-fixpreis-chaos-ziehen/92261532"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-rueckzuege-dittli-sauter-fdp",
+              "slug": "rueckzuege-dittli-sauter-fdp",
+              "title": "Dittli und Sauter treten 2027 nicht mehr an",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "morning",
+              "kurz": "Zwei FDP-Parlamentarier kündigen innert zwei Tagen ihren Rückzug aus Bundesbern an.",
+              "summary": "Der Urner FDP-Ständerat Josef Dittli kandidiert 2027 nicht mehr, wie er am Samstag auf X mitteilte. Schon am Freitag hatte die Zürcher FDP-Nationalrätin Regine Sauter ihren Rückzug aus der Politik angekündigt. Dittli sitzt seit 2015 im Ständerat, Sauter seit 2015 im Nationalrat.",
+              "gegenstimme": "Zwei Rückzüge sind noch kein Trend: Dittli sagt, es sei Zeit, die Interessen Uris einer jüngeren Kraft zu überlassen, Sauter will Platz für die nächste Politikergeneration machen. Zu möglichen Nachfolgekandidaturen liegen bisher keine Angaben vor.",
+              "sources": [
+                {
+                  "name": "Nau.ch (Keystone-SDA)",
+                  "url": "https://www.nau.ch/politik/bundeshaus/urner-standerat-josef-dittli-tritt-2027-nicht-mehr-an-67192911"
+                },
+                {
+                  "name": "watson (SDA)",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/479858824-urner-staenderat-josef-dittli-tritt-2027-nicht-mehr-an"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/z%C3%BCrcher-fdp-nationalr%C3%A4tin-regine-sauter-tritt-2027-nicht-mehr-an/92262109"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/fdp-nationalraetin-regine-sauter-beendet-ihre-politische-karriere-ld.10042269"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-audi-us-werk-georgia",
+              "slug": "audi-us-werk-georgia",
+              "title": "Audi kündigt erstes US-Werk an, der Beschluss ist noch offen",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "morning",
+              "kurz": "Audi will in Georgia ein Werk für rund vier Milliarden bauen, doch Betriebsräte sprechen von einem noch fehlenden Beschluss.",
+              "summary": "Audi hat am Samstagabend bei einer Wahlkampfveranstaltung von Donald Trump den Bau eines ersten US-Werks in Macon (Georgia) angekündigt. Geplant sind 200'000 Fahrzeuge pro Jahr und 4500 Arbeitsplätze, die Investition beträgt rund vier Milliarden, laut Guardian in Dollar, laut tagesschau in Euro. Betriebsräte sagen, ein finaler Beschluss fehle noch.",
+              "gegenstimme": "Der VW-Betriebsrat und der Audi-Gesamtbetriebsrat betonen, es gebe keine abschliessenden Beschlüsse, die Entscheidung liege beim VW-Aufsichtsrat. Audi-Chef Gernot Döllner sagt, bisher sei nur eine Vereinbarung mit dem Bundesstaat unterzeichnet. Der Guardian verweist zudem darauf, dass VW gleichzeitig in Deutschland bis zu 100'000 Stellen abbaut.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
+                },
+                {
+                  "name": "tagesschau (SWR)",
+                  "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-audi-baut-eigenes-werk-in-den-usa-102.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-mistral-deepl-frontier-ki-europa",
+              "slug": "mistral-deepl-frontier-ki-europa",
+              "title": "KI-Streit: Mistral- und DeepL-Chefs gegen Verzicht auf eigene Spitzenmodelle",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "kurz": "Europas KI-Unternehmer widersprechen der Idee, auf eigene Frontier-Modelle zu verzichten und sich auf Anwendungen zu konzentrieren.",
+              "summary": "Mistral-Chef Arthur Mensch und DeepL-Chef Jarek Kutylowski warnen davor, dass Europa die Spitzen-KI den USA und China überlässt. Auslöser ist die Haltung von EU-Kommissionspräsidentin Ursula von der Leyen, Europa müsse die Spitzentechnologie nicht selbst entwickeln, um den grössten Nutzen daraus zu ziehen. Mensch schrieb dazu auf LinkedIn «Build or surrender».",
+              "gegenstimme": "Die Warner sind selbst Anbieter eigener KI-Modelle. Die Gegenseite, darunter Legora-Chef Max Junestrand, hält den Aufbau eines Frontier-Labors in Europa für «Wunschdenken» (wishful thinking) und will die Mittel in Anwendungen stecken. Von der Leyen sagte in ihrer September-Rede, Europa brauche die Spitzentechnologie nicht selbst zu entwickeln, um den grössten Wert daraus zu ziehen.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/KI-Streit-in-Europa-EU-Tech-Chefs-wehren-sich-gegen-Kapitulation-11499445.html"
+                },
+                {
+                  "name": "Politico Europe",
+                  "url": "https://www.politico.eu/article/european-ceos-warn-against-surrendering-frontier-ai-to-us-and-china/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-google-datenschutz-gmail-fotos-werbung",
+              "slug": "google-datenschutz-gmail-fotos-werbung",
+              "title": "Google lockert Werbeversprechen: Gmail- und Fotos-Daten können Anzeigen mitprägen",
+              "date": "2026-10-26",
+              "time": "07:40",
+              "category": "tech",
+              "icon": "📧",
+              "edition": "morning",
+              "kurz": "Googles Datenschutzerklärung erlaubt Werbung auf Basis verknüpfter Gmail- und Fotos-Inhalte, wenn Nutzer «Personal Intelligence» aktivieren.",
+              "summary": "Seit dem 16. Oktober enthält Googles Datenschutzerklärung eine Ausnahme vom Versprechen, keine personalisierte Werbung auf Basis von Drive, Gmail oder Fotos zu zeigen. Wer diese Dienste über «Personal Intelligence» mit Diensten wie der Suche verbindet, kann personalisierte Anzeigen sehen. Google sagt, Anzeigen beruhten nicht «direkt» auf dem Posteingang oder der Fotomediathek.",
+              "gegenstimme": "Google betont, die Verknüpfung sei freiwillig, Werbekunden hätten keinen Zugriff auf Gmail oder Fotos, sensible Informationen würden nicht für Werbung genutzt, und es werde weder der ganze Posteingang gescannt noch Daten an Dritte weitergegeben. Ars Technica wertet die Formulierung dagegen als Bestätigung, dass Daten aus Workspace und Fotos Werbung in der KI-Suche mitbeeinflussen können.",
+              "sources": [
+                {
+                  "name": "Notebookcheck",
+                  "url": "https://www.notebookcheck.com/Google-Gmail-und-Fotos-duerfen-jetzt-Werbung-mitbestimmen.1432923.0.html"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+                },
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+                },
+                {
+                  "name": "Search Engine Land",
+                  "url": "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990"
                 }
               ]
             }
