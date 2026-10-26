@@ -1,6 +1,160 @@
 {
-  "updated": "18:53 UTC",
+  "updated": "06:05 UTC",
   "days": [
+    {
+      "date": "2026-10-26",
+      "editions": {
+        "morning": {
+          "time": "07:05",
+          "articles": [
+            {
+              "id": "2026-10-26-serbien-vucic-niederlage",
+              "slug": "serbien-vucic-niederlage",
+              "title": "Serbien: Vučić gesteht Niederlage ein, Studentenliste vorne",
+              "date": "2026-10-26",
+              "time": "07:05",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg",
+              "kurz": "Nach über einem Jahrzehnt an der Macht hat Aleksandar Vučić die Parlamentswahl verloren. Laut Wahlkommission liegt die Studentenliste bei knapp 52 Prozent.",
+              "summary": "Vučić räumte am Sonntagabend die Niederlage seiner Partei ein, obwohl noch kein Endergebnis vorliegt. Nach dem Stand der Wahlkommission RIK von 5.19 Uhr (7807 von 8392 Wahllokalen) kommt die Studentenliste auf 51,89 Prozent, Vučićs Liste «Vereinigtes Serbien» auf 39,73 Prozent. Vučić selbst rechnet mit 135 bis 140 Sitzen für die Studentenliste und 105 für seine Partei. Die Beteiligung lag bei fast 70 Prozent.",
+              "gegenstimme": "Die Sitzzahlen stammen bisher von Vučić selbst, nicht aus einem amtlichen Endergebnis. Die Studentenliste ist ein junges Bündnis ohne Regierungserfahrung, das sich vor allem über den Protest gegen Korruption definiert. Offen ist, wie es mit Institutionen, Justiz und Medien umgeht, die lange von der SNS geprägt waren, und wie sich Vučić, der seit 2012 die Politik dominiert, als Oppositionsführer verhält.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/parlamentswahl-in-serbien-studentenbewegung-triumphiert-vucic-gesteht-niederlage-ein"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
+                },
+                {
+                  "name": "Telegraf (RIK-Zwischenstand)",
+                  "url": "https://politika.telegraf.rs/izbori-2026/4421121-rikna-osnovu-7807-obradjenih-birackih-mesta-studentska-lista-5189-ujedinjena-srbija-3973"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-brasilien-lula-wiedergewaehlt",
+              "slug": "brasilien-lula-wiedergewaehlt",
+              "title": "Brasilien: Lula gewinnt Stichwahl, Bolsonaro will Annullierung",
+              "date": "2026-10-26",
+              "time": "07:05",
+              "category": "international",
+              "icon": "🇧🇷",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/5a3d15.jpg",
+              "kurz": "Lula holt mit 51,79 Prozent eine vierte Amtszeit. Herausforderer Flávio Bolsonaro anerkennt das Ergebnis nicht und will die Wahl annullieren lassen.",
+              "summary": "Laut Wahlgericht TSE gewann Präsident Luiz Inácio Lula da Silva die Stichwahl mit 51,79 zu 48,21 Prozent, rund 4,4 Millionen Stimmen Vorsprung. Im ersten Wahlgang hatte er noch hinter Flávio Bolsonaro gelegen. Bolsonaro will das Ergebnis anfechten, weil ein Richter des Obersten Gerichts die Wahl kurzfristig um zwei Stunden verlängert hatte.",
+              "gegenstimme": "Das Bolsonaro-Lager spricht von einem Bruch der Gleichbehandlung, weil die Verlängerung nicht überall umgesetzt wurde. Allerdings hatte auch seine eigene Kampagne in 17 Gemeinden eine Verlängerung beantragt, und der TSE-Präsident sagt, die Sicherheit der Wahl sei nicht beeinträchtigt. Ein Wahlrechtler sagt zu BBC Brasil, für eine Annullierung müsse nachgewiesen werden, dass der Fehler das Resultat hätte kippen können.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/stichwahl-in-brasilien-lula-gewinnt-der-streit-um-die-wahl-geht-weiter"
+                },
+                {
+                  "name": "Reuters via UOL",
+                  "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/25/lula-conquista-historico-4-mandato-presidencial-com-virada-inedita.htm"
+                },
+                {
+                  "name": "BBC News Brasil",
+                  "url": "https://www.bbc.com/portuguese/articles/crkg7ywjj8l0o"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6adea308ba080c37bf6d1671/brasilien-bolsonaro-erkennt-lulas-sieg-nicht-an-und-will-wahl-annullieren-lassen.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-machado-rueckkehr-venezuela",
+              "slug": "machado-rueckkehr-venezuela",
+              "title": "Venezuela: Oppositionsführerin Machado ist zurück",
+              "date": "2026-10-26",
+              "time": "07:05",
+              "category": "international",
+              "icon": "🇻🇪",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg",
+              "kurz": "Friedensnobelpreisträgerin María Corina Machado ist nach rund zehn Monaten im Exil nach Venezuela zurückgekehrt. Wie sie sich zur von den USA gestützten Übergangsregierung stellt, ist offen.",
+              "summary": "Machado meldete sich am Sonntag auf X mit «Ich bin hier. Bei euch» zurück und wurde laut BBC bei einer Messe im Bundesstaat Lara fotografiert. Sie hatte das Land im Dezember heimlich verlassen. Seit die USA im Januar Präsident Maduro festgenommen haben, regiert die frühere Vizepräsidentin Delcy Rodríguez mit Rückendeckung Washingtons.",
+              "gegenstimme": "Washington setzt bislang auf Rodríguez, nicht auf Machado; laut SRF könnte ihre Rückkehr Spannungen auslösen. US-Aussenminister Rubio verbucht die Rückkehr dagegen als Erfolg der von den USA unterstützten Versöhnungsgespräche. Kritisch bleibt, dass ihre Einreise laut BBC von der Zustimmung der Trump-Regierung abhing, und dass der Öl-Deal der Übergangsregierung den USA sehr günstige Bedingungen gewährt.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/anfuehrerin-der-opposition-ich-bin-hier-bei-euch-machado-kehrt-nach-venezuela-zurueck"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-swissmedic-usz-herzklinik",
+              "slug": "swissmedic-usz-herzklinik",
+              "title": "USZ-Herzklinik: Swissmedic wollte «nicht zu penetrant» sein",
+              "date": "2026-10-26",
+              "time": "07:05",
+              "category": "schweiz",
+              "icon": "🏥",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/ee23eb.jpg",
+              "kurz": "Akten zeigen laut SRF Investigativ, dass Swissmedic den Einsatz des umstrittenen Cardiobands am USZ ohne Sicherheitsfragen bewilligte und nach einer schweren Komplikation bewusst nicht nachhakte.",
+              "summary": "Für das 2016 nicht zertifizierte Implantat brauchte das Universitätsspital Zürich Ausnahmebewilligungen. Laut Akten, die SRF über das Öffentlichkeitsgesetz erhielt, stellte Swissmedic dabei keine Fragen zur Sicherheit und forderte nach einem Drahtbruch keinen Ursachenbericht ein. Zwei weitere Bewilligungen folgten kurz darauf.",
+              "gegenstimme": "Swissmedic weist den Vorwurf zurück, die Aufsicht vernachlässigt zu haben: Sie habe nach damaligem Recht risikobasiert gehandelt, und die Verantwortung für den Einsatz im Notfall liege beim Arzt. ETH-Professor Jörg Goldhahn hält dagegen, dann wäre die Bewilligungspflicht sinnlos. Herzchirurg André Plass sagt, undichte Herzklappen seien meist chronisch, die Behörde hätte also Zeit für Abklärungen gehabt.",
+              "sources": [
+                {
+                  "name": "SRF Investigativ",
+                  "url": "https://www.srf.ch/news/schweiz/debakel-um-chirurg-maisano-usz-herzklinik-skandal-behoerde-wollte-nicht-zu-penetrant-sein"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/skandal-an-usz-herzklinik-wer-kontrolliert-eigentlich-medizinprodukte"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/herzklinik-skandal-bundesrat-plant-haertere-regeln-fuer-aerzte-ld.10006427"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-26-eu-spacex-satellitenfrequenzen",
+              "slug": "eu-spacex-satellitenfrequenzen",
+              "title": "EU gegen SpaceX: Streit um Satellitenfrequenzen",
+              "date": "2026-10-26",
+              "time": "07:05",
+              "category": "tech",
+              "icon": "🛰️",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/10/22/7d3dc942-83b7-4554-b057-ccbd3dfe3b5a.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=9000,5062,x0,y0&wmark=nzz",
+              "kurz": "Die EU will das 2-GHz-Band für Satelliten-Handydienste ab 2027 teilweise für europäische Anbieter reservieren. Die USA drohen mit Vergeltung, SpaceX warnt vor Folgen für die Ukraine.",
+              "summary": "Die heutigen Lizenzen von Viasat und Echostar laufen im Frühjahr 2027 aus. Die EU-Kommission schlägt vor, das Band zu dritteln: ein Drittel für kritische Kommunikation mit EU-Betreiber, eines für EU-Anbieter, eines für alle mit Auflagen wie Bodenstationen in der EU. Rat und Parlament müssen noch entscheiden.",
+              "gegenstimme": "Der US-Botschafter bei der EU, Andrew Puzder, droht laut Spiegel europäischen Firmen mit «verheerenden» Folgen, ohne konkret zu werden. SpaceX warnt, die Pläne könnten die Starlink-Versorgung der Ukraine beeinträchtigen. Befürworter halten dagegen, die Abhängigkeit von einem einzigen US-Konzern sei gerade sicherheitspolitisch das grössere Risiko.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/die-eu-will-spacex-aus-strategischen-gruenden-ausbremsen-die-usa-reagieren-mit-drohungen-ld.10039293"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/satellitenfrequenzen-usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984"
+                },
+                {
+                  "name": "EU-Kommission",
+                  "url": "https://digital-strategy.ec.europa.eu/de/news/commission-proposes-new-authorisation-mobile-satellite-services-eus-resilience-and-competitiveness"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-10-25",
       "editions": {
