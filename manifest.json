@@ -1,5 +1,5 @@
 {
-  "updated": "11:30 UTC",
+  "updated": "16:30 UTC",
   "days": [
     {
       "date": "2026-10-27",
@@ -757,6 +757,332 @@
                 {
                   "name": "Riviera Radio",
                   "url": "https://www.rivieraradio.mc/article/nice-demonstration-59-taken-into-police-custody-as-investigation-opens-into-far-5HjdkRQ_2/"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-10-27-sozialhilfe-2025-alleinerziehende",
+              "slug": "sozialhilfe-2025-alleinerziehende",
+              "title": "Sozialhilfe: 267'300 Bezüger, Alleinerziehende besonders betroffen",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "evening",
+              "kurz": "2025 bezogen 2,9 Prozent der Bevölkerung Sozialhilfe. In den Städten hängt ein wachsender Teil der Kinder in der Sozialhilfe an Einelternfamilien.",
+              "summary": "Laut Bundesamt für Statistik bezogen 2025 rund 267'300 Menschen Sozialhilfe, 4,5 Prozent mehr als im Vorjahr; die Quote liegt bei 2,9 Prozent. Am höchsten ist sie bei Kindern (4,8 Prozent) und bei Ausländern (5,4 gegenüber 1,9 Prozent bei Schweizern). Ein Bericht der Städteinitiative Sozialpolitik zeigt, dass 59 Prozent der Minderjährigen in der städtischen Sozialhilfe in Einelternfamilien leben, 2010 waren es 52 Prozent.",
+              "gegenstimme": "Der Anstieg ist mit Vorsicht zu lesen: Das BFS hat die Erhebungsmethode geändert, ein direkter Vergleich mit früheren Jahren ist nur eingeschränkt möglich. Zudem entfällt ein Teil des Wachstums auf Geflüchtete und Personen mit Status S, deren Quote über 80 Prozent liegt; über die Gründe, warum diese Gruppe so selten von der Sozialhilfe loskommt, gehen die politischen Einschätzungen weit auseinander.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/bericht-der-staedteinitiative-immer-mehr-alleinerziehende-auf-staedtische-sozialhilfe-angewiesen"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/sozialhilfe-statistik-267-300-menschen-beziehen-sozialhilfe-5-kantone-fallen-auf-103657231"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-swiss-beendet-air-baltic-wetlease",
+              "slug": "swiss-beendet-air-baltic-wetlease",
+              "title": "Swiss verzichtet ab April 2027 auf Air-Baltic-Flugzeuge",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/71a64b.jpg",
+              "kurz": "Swiss reduziert ihre gemieteten Flugzeuge mit Crew von 26 auf rund 18. Air Baltic fliegt nach dem Winterflugplan 2026/27 nicht mehr für Swiss, Helvetic bleibt.",
+              "summary": "Swiss verkleinert ihre Mietflotte samt Besatzung (Wetlease) von 26 auf rund 18 Flugzeuge. Die lettische Air Baltic, die seit 2022 für Swiss fliegt, wird nach dem Winterflugplan 2026/27, also Ende März 2027, nicht mehr eingesetzt. Helvetic bleibt Partnerin, zudem sollen Edelweiss-Flugzeuge stärker genutzt werden.",
+              "gegenstimme": "Die Gewerkschaft Kapers kritisiert den Einsatz der Air-Baltic-Crews; ihre Klage gegen den Einsatz von Air Baltic wegen tieferer Löhne ist am Verwaltungsgericht Zürich hängig. Aus Sicht der Airline dagegen war das Mieten von Flugzeugen eine Notlösung, um trotz Triebwerks- und Personalengpässen den Flugplan zu halten.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/airline-im-umschwung-swiss-reduziert-mietflotte-air-baltic-geht-helvetic-bleibt"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/ab-april-2027-swiss-setzt-keine-air-baltic-flieger-mehr-ein-103657267"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-svp-marty-strafanzeigen-stadtpolizei",
+              "slug": "svp-marty-strafanzeigen-stadtpolizei",
+              "title": "Stadtpolizei Zürich zeigt SVP-Kantonsrat Marty an",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://www.watson.ch/imgdb/b9ff/Z1200,675,584,396,141,141/6682711473086097",
+              "kurz": "Nach einem Facebook-Post über Polizistinnen und Homosexuelle prüft die Staatsanwaltschaft mehrere Anzeigen gegen SVP-Kantonsrat Christoph Marty.",
+              "summary": "Die Stadtpolizei Zürich hat gegen den SVP-Kantonsrat Christoph Marty Strafanzeige wegen möglicher Diskriminierung und Aufrufs zu Hass eingereicht. Marty hatte nach den Krawallen am Hardplatz die Polizei als nicht mehr durchsetzungsfähig bezeichnet, weil sie mehrheitlich aus Frauen und Homosexuellen bestehe, und für Letztere ein Schimpfwort verwendet. Die Oberstaatsanwaltschaft bestätigt, dass mehrere Anzeigen eingegangen sind.",
+              "gegenstimme": "Marty sieht sich laut Keystone-SDA keiner Schuld bewusst, steht zu seinem Post und betont, er habe als Privatperson geschrieben. Hinter seiner Kritik steht ein Vorwurf, den auch andere teilen: Nach den Ausschreitungen vom 11. Oktober, bei denen Polizisten mit Steinen und Feuerwerk angegriffen wurden, wurde niemand verhaftet.",
+              "sources": [
+                {
+                  "name": "watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/schweiz/zuerich/346795061-kommentar-zu-illegaler-party-zuercher-polizei-zeigt-svp-politiker-an"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/svp-kantonsrat-marty-mehrere-strafanzeigen-wegen-facebook-post-895007312883"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-xhaka-embolo-rueckkehr-nati",
+              "slug": "xhaka-embolo-rueckkehr-nati",
+              "title": "Xhaka und Embolo kehren in die Nati zurück",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "⚽",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_sport/596c49.jpg",
+              "kurz": "Nach der Affäre um gefälschte Covid-Zertifikate berücksichtigt der SFV Xhaka und Embolo ab November wieder. Xhaka bleibt Captain.",
+              "summary": "Der Schweizerische Fussballverband nimmt Granit Xhaka und Breel Embolo ab den Nations-League-Spielen im November wieder ins Nationalteam auf. Beide waren wegen gefälschter Covid-Zertifikate aus den Jahren 2021 und 2022 verurteilt worden und verpassten die vier Länderspiele im September und Oktober. Xhaka bleibt Captain, der SFV hat zugleich neue Leitlinien für strafrechtlich relevante Fälle beschlossen.",
+              "gegenstimme": "Kritiker sehen in der Rückkehr ein Signal, dass für Leistungsträger andere Massstäbe gelten: Zwei Länderspielpausen sind für eine strafrechtliche Verurteilung eine milde Sanktion. Der Verband argumentiert, die Verfahren seien abgeschlossen und die sportlichen Konsequenzen bereits gezogen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/sfv-hat-entschieden-xhaka-und-embolo-kehren-zum-nationalteam-zurueck"
+                },
+                {
+                  "name": "NZZ / SDA",
+                  "url": "https://www.nzz.ch/sport/sfv-entscheid-granit-xhaka-und-breel-embolo-kehren-im-november-in-die-schweizer-fussballnati-zurueck-ld.10046107"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-bern-ersetzt-170-baeume",
+              "slug": "bern-ersetzt-170-baeume",
+              "title": "Stadt Bern ersetzt rund 170 Bäume",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🌳",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/B0DiohUpqhRAvFKVi9Olou.jpg?op=ocroped&val=1200,600,1000,750,0,0&sum=kNIEouMRMOc",
+              "kurz": "Bis Februar 2027 fällt Stadtgrün Bern rund 170 Bäume, die nicht mehr vital oder sicher sind, darunter 22 Jungbäume.",
+              "summary": "Die Stadt Bern ersetzt bis Februar 2027 rund 170 Bäume im öffentlichen Raum, weil sie nicht mehr ausreichend vital oder sicher sind. Als Gründe nennt Stadtgrün Bern Wetterextreme, Schädlinge und Krankheiten. Darunter sind 22 Jungbäume, die in den letzten fünf Jahren gepflanzt wurden.",
+              "gegenstimme": "Die Stadt betont, der Umfang liege im Rahmen der Vorjahre. Dass aber schon junge Bäume nach wenigen Jahren wieder ersetzt werden müssen, wirft Fragen zur Artenwahl und Pflege auf.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-ersetzt-170-baeume-wegen-trockenheit-788113733684"
+                },
+                {
+                  "name": "watson / SDA",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/809704885-stadtgruen-bern-ersetzt-voraussichtlich-ende-februar-2027-rund-170-baeume"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-frontex-ausbau-30000-eu-kommission",
+              "slug": "frontex-ausbau-30000-eu-kommission",
+              "title": "EU-Kommission will Frontex verdreifachen",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🇪🇺",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/0ac74528-caba-439e-994a-0f57fdbc33aa/AAABoX2SSIc/AAABnSSvrFg/16x9-big/magnus-brunner-108.jpg?width=1280",
+              "kurz": "Die ständige Reserve von Frontex soll auf 30'000 Kräfte wachsen. Dazu kommen mehr Befugnisse bei Abschiebungen und eine Überwachung von Social Media.",
+              "summary": "Die EU-Kommission schlägt vor, die ständige Reserve der Grenzschutzagentur Frontex auf 30'000 Kräfte auszubauen; bisher waren für 2027 10'000 vorgesehen. Frontex soll ein eigenes Koordinationszentrum für Abschiebungen erhalten, auch Abschiebungen zwischen Drittstaaten durchführen dürfen und öffentlich zugängliche Social-Media-Inhalte auf Migrationsbewegungen hin beobachten. Das Budget soll im nächsten EU-Haushalt von sechs auf rund zwölf Milliarden Euro steigen.",
+              "gegenstimme": "Grüne, Linke und Teile der SPD in Deutschland kritisieren den Plan scharf. Der Grünen-Politiker Marcel Emmerich nennt es «beschämend», dass die EU ihre «Abschottungspolitik» vorantreibe. Innenkommissar Magnus Brunner und Befürworter wie Bundesinnenminister Alexander Dobrindt wollen damit schneller auf Krisen an den Aussengrenzen reagieren können.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/eu-will-fuer-frontex-mehr-befugnisse-und-personal-100.html"
+                },
+                {
+                  "name": "Welt",
+                  "url": "https://www.welt.de/politik/ausland/article6ae091d4f74d161423bdffd7/nach-ceuta-eu-kommission-will-frontex-personal-verdreifachen-und-inhalte-auf-social-media-ueberwachen.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-israel-wahl-rekordbeteiligung-netanyahu-vorwurf",
+              "slug": "israel-wahl-rekordbeteiligung-netanyahu-vorwurf",
+              "title": "Israel wählt mit Rekordbeteiligung, Netanyahu erhebt Betrugsvorwurf",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/504b27ab-2073-4114-8545-3032b6d8e0dd/AAABoX2hWts/AAABnSSvrFg/16x9-big/wahllokal-tel-aviv-100.jpg?width=1280",
+              "kurz": "Bis 16 Uhr hatten fast 56 Prozent gewählt, so viele wie nie zu diesem Zeitpunkt. Netanyahu wirft arabischen Parteien vor, die Wahl «stehlen» zu wollen.",
+              "summary": "Bei der Knesset-Wahl hatten bis 16 Uhr Ortszeit fast 56 Prozent der rund 7,3 Millionen Stimmberechtigten gewählt, laut Wahlkommission 8,2 Prozentpunkte mehr als 2022. Premier Benjamin Netanyahu warf den Parteien arabischer Israelis vor, die Wahl «stehlen» zu wollen, und verwies auf drei Raam-Vertreter, die mit Bargeld festgenommen worden seien. Die zentrale Wahlkommission sprach von einem Einzelfall ohne landesweit ähnliche Vorkommnisse.",
+              "gegenstimme": "Netanyahu und Polizeiminister Itamar Ben-Gvir warnten vor einer hohen Beteiligung arabischer Wähler und werten die Festnahmen als Beleg für Manipulationsversuche. Die Opposition und die Wahlbehörde widersprechen: Die Festgenommenen hätten die Wahllokale nie erreicht, und die Wahl verlaufe ordnungsgemäss.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html"
+                },
+                {
+                  "name": "Welt",
+                  "url": "https://www.welt.de/politik/ausland/article6ae09240dcd605c8d4cea561/israel-parteien-arabischer-israelis-versuchen-wahl-zu-stehlen-behauptet-netanjahu.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-epstein-bericht-trump-schweizerin-keul",
+              "slug": "epstein-bericht-trump-schweizerin-keul",
+              "title": "Epstein-Bericht: Schweizerin wirft Trump Vergewaltigung vor",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/d23e1d.jpg",
+              "kurz": "Ein Bericht der Demokraten im US-Justizausschuss enthält Aussagen von elf Frauen, darunter der Schweizerin Béatrice Keul. Trump bestreitet alle Vorwürfe.",
+              "summary": "Die Demokraten im Justizausschuss des US-Repräsentantenhauses haben einen Bericht zu Donald Trumps Verbindungen zu Jeffrey Epstein veröffentlicht und fordern einen Sonderermittler. Darin kommen elf Frauen zu Wort, unter ihnen die 56-jährige Schweizerin Béatrice Keul, die Trump erstmals öffentlich und explizit Vergewaltigung im Jahr 1993 am Rand eines Schönheitswettbewerbs in New York vorwirft. Das Weisse Haus bestreitet sämtliche Anschuldigungen.",
+              "gegenstimme": "Laut einer Sprecherin des Weissen Hauses ist keine der Anschuldigungen wahr, Trump sei in allem, was Epstein betrifft, «vollständig entlastet» worden. Der Bericht stammt von der Oppositionspartei und erscheint gut eine Woche vor den Zwischenwahlen; Der Zeitpunkt nährt den Vorwurf eines Wahlkampfmanövers.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/usa/bericht-zu-trump-und-epstein-vergewaltigungsvorwurf-aussagen-einer-schweizerin-belasten-trump"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/fall-jeffrey-epstein-demokraten-fordern-ermittler-zu-trumps-epstein-verbindungen-a-6c79abfa-88c7-42e4-b7cc-7e0c281ce197"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-aegypten-mada-masr-schliessung-attalah",
+              "slug": "aegypten-mada-masr-schliessung-attalah",
+              "title": "Ägypten: Gericht schliesst «Mada Masr», Chefredaktorin in Haft",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "international",
+              "icon": "📰",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/f3c0c900-cc07-43b4-8deb-e3d68dca2b35_w1200_r1.778_fpx48_fpy45.jpg",
+              "kurz": "Ein Gericht in Kairo hat die unabhängige Nachrichtenseite «Mada Masr» geschlossen. Chefredaktorin Lina Attalah wurde nach dem Urteil in Gewahrsam genommen.",
+              "summary": "Ein Gericht in Neu-Kairo hat die Schliessung der unabhängigen Nachrichtenseite «Mada Masr» angeordnet und Chefredaktorin Lina Attalah wegen Betreibens einer nicht registrierten Website verurteilt. Es verhängte die Höchstbusse von drei Millionen ägyptischen Pfund, rund 44'000 Franken, und ordnete die Beschlagnahmung des Besitzes an. Attalah kam nach dem Urteil in Gewahrsam der Sicherheitskräfte.",
+              "gegenstimme": "Formal stützt sich das Urteil auf das ägyptische Medienrecht, das eine Registrierung beim Rat für Medienregulierung verlangt; die Behörden hatten der Redaktion früher auch Falschnachrichten und Gefährdung der nationalen Sicherheit vorgeworfen. Die Redaktion hält dagegen, sie habe die Lizenz mehrfach vergeblich beantragt, Amnesty spricht von einem «erschütternden Rückschlag für die Pressefreiheit».",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/aegypten-unabhaengige-nachrichtenseite-mada-masr-muss-nach-gerichtsbeschluss-schliessen-a-c486b5ba-739f-487f-ac4f-ee44a232d9b2"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/mada-masr-aegypten-ordnet-schliessung-der-newsseite-an-603891478048"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-nigeria-taraba-binnari-angriff-62-tote",
+              "slug": "nigeria-taraba-binnari-angriff-62-tote",
+              "title": "Nigeria: Mindestens 62 Tote bei Überfall auf Dorf in Taraba",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇳🇬",
+              "edition": "evening",
+              "kurz": "Bewaffnete überfielen am Freitag das Dorf Binnari im Nordosten Nigerias während des Markttags. Die Zahl der Toten stieg auf mindestens 62.",
+              "summary": "Bei einem Angriff Bewaffneter auf das Dorf Binnari im Bezirk Karim-Lamido im nordostnigerianischen Bundesstaat Taraba sind mindestens 62 Menschen getötet worden, wie die nationale Katastrophenschutzbehörde am Dienstag mitteilte. 52 Menschen wurden verletzt, Tausende sind auf der Flucht. Die Angreifer kamen am Freitag auf Motorrädern während des Wochenmarkts und setzten Häuser, Läden und Vorräte in Brand.",
+              "gegenstimme": "Nigerias Behörden verweisen auf laufende Such- und Sicherheitseinsätze. Amnesty International Nigeria wirft ihnen dagegen vor, die Straflosigkeit bewaffneter Gruppen zuzulassen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62"
+                },
+                {
+                  "name": "AP News",
+                  "url": "https://apnews.com/article/nigeria-gunmen-attack-ecc5e9432b73275371b8490c775320dc"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-ebola-kongo-ueber-10000-faelle",
+              "slug": "ebola-kongo-ueber-10000-faelle",
+              "title": "Ebola: Kongo meldet über 10'000 Fälle",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🦠",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/46130094-89ff-42d7-aa19-f6b44c784ce6_w1200_r1.778_fpx51_fpy52.jpg",
+              "kurz": "Der Ebola-Ausbruch in der Demokratischen Republik Kongo hat 10'060 bestätigte Fälle und 4887 Tote erreicht. Er gilt als der am schnellsten wachsende der Geschichte.",
+              "summary": "In der Demokratischen Republik Kongo ist die Zahl der Ebola-Fälle seit Mitte Mai auf 10'060 gestiegen, 4887 Menschen starben. Die afrikanische Gesundheitsbehörde Africa CDC spricht vom am schnellsten wachsenden Ausbruch der Geschichte. Ein grosser Teil der Neuansteckungen tritt bei Menschen auf, die nicht als Kontakte bekannter Patienten erfasst waren.",
+              "gegenstimme": "Die Behörden verweisen auf Impf- und Isolationsmassnahmen in den bekannten Herden. Fachleute warnen dagegen, dass die tatsächliche Zahl der Infizierten deutlich höher liegen dürfte, weil viele Übertragungen ausserhalb der bekannten Ketten stattfinden. Gegen den hier zirkulierenden Bundibugyo-Stamm gibt es laut Al Jazeera keinen zugelassenen Impfstoff.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/medizin/dr-kongo-zahl-der-ebolafaelle-steigt-auf-mehr-als-10-000-a-c37483a2-b347-45e1-b76d-7271b3f00ba8"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/rega-erklaert-so-lief-die-rettungsaktion-der-schweizer-ebola-patientin-ab-103657320"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-apple-macbook-pro-imac-m6",
+              "slug": "apple-macbook-pro-imac-m6",
+              "title": "Apple bringt MacBook Pro und iMac mit M6-Chip",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/8/4/1/Apple-iMac-with-M6-lifestyle-261027-9245865e075cbaa0.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Apple rüstet das 14-Zoll-MacBook-Pro und den iMac mit dem 2-Nanometer-Chip M6 auf. Am Design ändert sich nichts, Vorbestellungen starten am Mittwoch.",
+              "summary": "Apple hat das 14-Zoll-MacBook-Pro und den 24-Zoll-iMac mit dem M6-Chip vorgestellt, Apples erstem Prozessor im 2-Nanometer-Verfahren mit bis zu zwölf CPU-Kernen. Neu ist auch der hauseigene Funkchip N1 mit Wi-Fi 7 und Bluetooth 6, das Design bleibt unverändert. Vorbestellungen sind ab 28. Oktober möglich, ausgeliefert wird ab 6. November.",
+              "gegenstimme": "Apple bewirbt die Geräte als grossen Sprung für lokale KI-Anwendungen. Einschränkend: Der Arbeitsspeicher ist auf 32 Gigabyte begrenzt, was lokale KI-Modelle einschränkt, und Pro- oder Max-Varianten fehlen noch. Im Kern ist es ein Chip-Update ohne neues Design.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/MacBook-Pro-und-iMac-2026-jetzt-mit-Apple-M6-11501941.html"
+                },
+                {
+                  "name": "Apple Newsroom",
+                  "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+                },
+                {
+                  "name": "Tom's Hardware",
+                  "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-infineon-gan-fabrik-villach",
+              "slug": "infineon-gan-fabrik-villach",
+              "title": "Infineon baut in Villach erste 300-mm-GaN-Grossfertigung",
+              "date": "2026-10-27",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🔌",
+              "edition": "evening",
+              "kurz": "Infineon investiert bis 2034 rund 1,1 Milliarden Euro in Villach für die weltweit erste Serienfertigung von Galliumnitrid-Chips auf 300-mm-Wafern.",
+              "summary": "Der Chiphersteller Infineon investiert bis 2034 rund 1,1 Milliarden Euro in seinen österreichischen Standort Villach, um dort die weltweit erste Hochvolumenfertigung von Galliumnitrid-Leistungshalbleitern (GaN) auf 300-Millimeter-Wafern aufzubauen. Die Produktion soll Ende 2027 starten. Österreich unterstützt das Projekt mit 319 Millionen Euro, die EU-Kommission hat die Beihilfe im Rahmen des EU Chips Act genehmigt.",
+              "gegenstimme": "Infineon und die EU sehen darin einen Schritt zu technologischer Souveränität Europas. Kritisch ist, dass fast ein Drittel der Investitionssumme aus Steuergeld stammt und der Hochlauf laut Infineon «im Einklang mit der Marktnachfrage» erfolgt, also nicht verbindlich zugesagt ist.",
+              "sources": [
+                {
+                  "name": "Infineon (Medienmitteilung)",
+                  "url": "https://www.infineon.com/de/press-release/2026/infpr202610-021"
+                },
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3446263/"
+                },
+                {
+                  "name": "Reuters via Euronext",
+                  "url": "https://live.euronext.com/en/financial-news/infineon-invest-eu11-billion-austria-chip-site"
                 }
               ]
             }
