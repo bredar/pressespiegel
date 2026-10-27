@@ -1,6 +1,432 @@
 {
-  "updated": "16:30 UTC",
+  "updated": "05:20 UTC",
   "days": [
+    {
+      "date": "2026-10-27",
+      "editions": {
+        "morning": {
+          "time": "06:20",
+          "articles": [
+            {
+              "id": "2026-10-27-cassis-nordkorea-reise",
+              "slug": "cassis-nordkorea-reise",
+              "title": "Cassis reist nach Nordkorea und eröffnet Büro in Pjöngjang",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "politik",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "kurz": "Aussenminister Cassis besucht vom 29. bis 31. Oktober Nordkorea – als erstes Bundesratsmitglied seit 2003 – und eröffnet dort offiziell ein Schweizer Diplomatenbüro.",
+              "summary": "Bundesrat Ignazio Cassis reist vom 29. bis 31. Oktober nach Nordkorea und anschliessend nach Seoul. Am 30. Oktober eröffnet er offiziell das Schweizer Büro in Pjöngjang, das seit dem 19. Oktober arbeitet und der Botschaft in Peking unterstellt ist. Es ist der erste Besuch eines Bundesratsmitglieds seit Micheline Calmy-Rey 2003; ein Treffen mit Kim Jong-un ist nicht angekündigt.",
+              "gegenstimme": "Die Schweiz geht damit einen anderen Weg als die EU, die laut Reuters den direkten Dialog mit Nordkorea weitgehend eingefroren hat. Wer Pjöngjang Gesprächskanäle öffnet, verschafft dem Regime auch diplomatische Aufwertung. Der Bund betont dagegen, dass die Schweiz die Uno-Sanktionen weiter vollständig umsetzt und keine Lockerung anbietet.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/bundesbern-ticker-bundesrat-cassis-reist-nach-nordkorea-103051526"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/nordkorea-ignazio-cassis-eroeffnet-diplomatenbuero-in-pjoengjang-411007103099"
+                },
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/421577329-cassis-reist-nach-nordkorea-und-eroeffnet-schweizer-diplomatenbuero"
+                },
+                {
+                  "name": "Reuters via Internazionale",
+                  "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/26/swiss-foreign-minister-to-hold-talks-in-north-korea-this-week"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-efk-zemis-kosten-193-millionen",
+              "slug": "efk-zemis-kosten-193-millionen",
+              "title": "Migrationssystem Zemis: Kosten fast verdreifacht",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "schweiz",
+              "icon": "💻",
+              "edition": "morning",
+              "image": "https://c.nau.ch/i/BQqNv/1360/680/staatssekretariat-fur-migration.jpg",
+              "kurz": "Die Erneuerung des Migrationsinformationssystems Zemis kostet laut Finanzkontrolle 193 statt 66 Millionen Franken; der Termin 2032 sei nicht haltbar.",
+              "summary": "Die Eidgenössische Finanzkontrolle (EFK) schätzt die Kosten für die Erneuerung des Zentralen Migrationsinformationssystems Zemis auf 193 Millionen Franken, 127 Millionen mehr als geplant. Den Abschlusstermin 2032 hält sie für unrealistisch, jedes Jahr Verzögerung kostet rund 25 Millionen. Das Staatssekretariat für Migration (SEM) akzeptiert die Empfehlungen.",
+              "gegenstimme": "Das SEM hält im Bericht fest, die EFK schenke dem Grundanliegen «deutlich zu wenig Beachtung»: Das alte System sei nicht zukunftsfähig, und zur teuren Ablösung gebe es keine Alternative. Teile der Mehrkosten gehen zudem auf Vorgaben zurück, die das SEM nicht selbst gesetzt hat, etwa die Anforderungen aus dem EU-Paket.",
+              "sources": [
+                {
+                  "name": "EFK",
+                  "url": "https://www.efk.admin.ch/prufung/erneuerung-des-zentrales-migrationsinformationssystem/"
+                },
+                {
+                  "name": "EFK-Bericht (PDF)",
+                  "url": "https://www.efk.admin.ch/wp-content/uploads/publikationen/berichte/wirtschaft_und_verwaltung/informatikprojekte/26272/26272be-prufung-des-schlusselprojektes-erneuerung-zemis.pdf"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/finanzkontrolle-alarmiert-193-millionen-statt-66-naechstes-it-projekt-des-bundes-kritisch-103656712"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/bundeshaus/kostenexplosion-bei-neuem-migrationssystem-alarmiert-finanzaufsicht-67193583"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-vpod-nein-mwst-13-ahv",
+              "slug": "vpod-nein-mwst-13-ahv",
+              "title": "13. AHV-Rente: VPOD kämpft gegen die Mehrwertsteuer-Finanzierung",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "morning",
+              "kurz": "Die Gewerkschaft VPOD lanciert heute ihre Nein-Kampagne zur Mehrwertsteuer-Erhöhung für die 13. AHV-Rente und stellt sich gegen den Gewerkschaftsbund.",
+              "summary": "Der VPOD stellt heute seine Nein-Kampagne zur Mehrwertsteuer-Finanzierung der 13. AHV-Rente vor, über die am 29. November abgestimmt wird. Die Delegierten hatten schon im September mit 22 zu 6 Stimmen die Nein-Parole beschlossen. Der Gewerkschaftsbund (SGB) und die Unia sagen Ja.",
+              "gegenstimme": "Der SGB hat mit 81 zu 19 Stimmen die Ja-Parole gefasst. SGB-Chefökonom Daniel Lampart hält dem VPOD entgegen, nur rund 60 Prozent der Mehrwertsteuer würden direkt von den Konsumentinnen und Konsumenten bezahlt. Ohne Zusatzfinanzierung drohten der AHV mittelfristig Defizite, weil die 13. Rente jährlich mehrere Milliarden kostet.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/13-ahv-rente-vpod-sagt-nein-zur-finanzierung-und-spaltet-die-gewerkschaften-103654662"
+                },
+                {
+                  "name": "VPOD",
+                  "url": "https://vpod.ch/news/2026/neinmehrwertsteuer/"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/vpod-lehnt-mehrwertsteuererhohung-fur-ahv-ab-67181555"
+                },
+                {
+                  "name": "Workzeitung",
+                  "url": "https://www.workzeitung.ch/2026/10/mehrwertsteuer-fuer-13-ahv-vpod-ueberrascht-mit-deutlicher-nein-parole/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-bern-gruene-staenderat-filipovic",
+              "slug": "bern-gruene-staenderat-filipovic",
+              "title": "Bern: Filipovic will für die Grünen in den Ständerat",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "regional",
+              "icon": "🐻",
+              "edition": "morning",
+              "image": "https://journal-b.ch/wp-content/uploads/2026/09/jelena_-3-aspect-ratio-816-612-1-1632x1224.jpg",
+              "kurz": "Stadtratspräsidentin Jelena Filipovic (GB) will 2027 für die Grünen in den Ständerat; laut «Bund» interessiert sich auch Nationalrätin Christine Badertscher.",
+              "summary": "Die Berner Stadtratspräsidentin und VCS-Co-Präsidentin Jelena Filipovic will 2027 für die Grünen um den Berner Ständeratssitz von Werner Salzmann (SVP) kämpfen. Laut «Bund» bewirbt sich auch Nationalrätin Christine Badertscher um die Nomination. Die Grünen Kanton Bern entscheiden an der Delegiertenversammlung im Januar.",
+              "gegenstimme": "Journal B stellt die Frage, ob ein Stadt-Land-Ticket nicht bessere Chancen hätte, denn mit Flavia Wasserfallen (SP) steht bereits eine Stadtbernerin auf dem linken Ticket. Filipovic widerspricht: Jemand vom Land vertrete die Landbevölkerung nicht zwingend besser. Bisher hat es keine Kandidatin des Grünen Bündnisses in den Ständerat geschafft.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/staenderatswahlen-bern-badertscher-kandidiert-fuer-gruene-814858091136"
+                },
+                {
+                  "name": "Journal B",
+                  "url": "https://journal-b.ch/artikel/stadtpraesidentin-filipovic-will-in-den-staenderat/"
+                },
+                {
+                  "name": "Grünes Bündnis Bern",
+                  "url": "https://gbbern.ch/blog/news/medienmitteilungen/medienmitteilung-ausschuss-empfiehlt-jelena-filipovic-einstimmig-als-gb-spitzenkandidatin"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-haute-capital-biel-finma-verlust",
+              "slug": "haute-capital-biel-finma-verlust",
+              "title": "Biel: Haute Capital meldet Verlust und Zweifel an der Zukunft",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "morning",
+              "kurz": "Die Bieler Haute Capital Partners, gegen die die Finma wegen Verdachts auf Marktmanipulation ermittelt, schreibt Verlust und warnt vor erheblichen Zweifeln an ihrer Fortführung.",
+              "summary": "Die Finma hat am 7. Oktober ein Enforcementverfahren gegen die Bieler Haute Capital Partners und CEO Thibault Leroy Bürki eröffnet, wegen Verdachts auf Marktmanipulation. Im Halbjahresbericht vom 26. Oktober weist die Firma einen Verlust von 1,76 Millionen Franken aus und spricht von «erheblichen Zweifeln» an ihrer Zukunftsfähigkeit. Das Unternehmen bestreitet ein Fehlverhalten.",
+              "gegenstimme": "Haute Capital weist die Vorwürfe zurück und hat für das Verfahren keine Rückstellung gebildet. Ein Enforcementverfahren ist keine Verurteilung; ob es zu Massnahmen kommt, entscheidet die Finma erst nach Abschluss der Untersuchung.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/finma-verfahren-bei-firma-haute-capital-partners-in-biel-956841119666"
+                },
+                {
+                  "name": "Swissinfo (SDA)",
+                  "url": "https://www.swissinfo.ch/ger/finma-untersuchung-gegen-haute-capital-partners/92278397"
+                },
+                {
+                  "name": "Le Temps",
+                  "url": "https://www.letemps.ch/en/economy/finance/finma-opens-enforcement-proceedings-against-haute-capital-over-suspected-market-manipulation"
+                },
+                {
+                  "name": "Haute Capital Partners",
+                  "url": "https://www.haute.com/newsroom/haute-capital-partners-sa-%E2%80%93-finma-enforcement-proceedings"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-microsoft-abfindungen-60000",
+              "slug": "microsoft-abfindungen-60000",
+              "title": "Microsoft bietet 60'000 Angestellten Abfindungen an",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "tech",
+              "icon": "💼",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/3/7/0/Microsoft_Stop-6eed2f69be03390e.jpeg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Microsoft bietet rund einem Viertel der Belegschaft Geld für den freiwilligen Abgang an, um Kosten für den KI-Ausbau einzusparen.",
+              "summary": "Microsoft bietet rund 60'000 Angestellten in den USA, Kanada, Grossbritannien und Indien eine Abfindung an, wenn sie freiwillig gehen. Das ist mehr als ein Viertel der rund 223'000 Vollzeitstellen. Der Konzern will Fixkosten senken, um die steigenden Investitionen in KI-Rechenzentren zu finanzieren.",
+              "gegenstimme": "Microsoft betont, das Angebot sei freiwillig, und erwartet laut Berichten, dass weniger als ein Drittel es annimmt. Gleichzeitig stellt der Konzern in anderen Bereichen ein. Personalchefin Amy Coleman nennt das Programm einen festen Teil der Veränderung, keinen einmaligen Schnitt.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/kostendruck-wegen-ki-ausbau-microsoft-bietet-60-000-mitarbeitern-abgangsentschaedigung-an"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Microsoft-bietet-60-000-Mitarbeitern-Goldenen-Handschlag-11501027.html"
+                },
+                {
+                  "name": "Golem",
+                  "url": "https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/wirtschaft/article6adf972d8915e790b469e30a/ki-boom-microsoft-bietet-rund-einem-viertel-der-weltweiten-belegschaft-abfindungen-an.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-israel-wahl-netanyahu-eisenkot-wahltag",
+              "slug": "israel-wahl-netanyahu-eisenkot-wahltag",
+              "title": "Israel wählt: Netanyahu gegen Eisenkot",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732795",
+              "kurz": "Israel wählt heute ein neues Parlament. Eisenkots Yashar liegt in Umfragen vor Netanyahus Likud, aber keinem Block wird eine Mehrheit zugetraut.",
+              "summary": "In Israel sind seit 7 Uhr Ortszeit die Wahllokale für die Wahl zur 26. Knesset offen, erste Prognosen gibt es um 22 Uhr. In der letzten Umfrage von Channel 12 kommt Netanyahus Block auf 50 Sitze, die Opposition auf 56 und die arabischen Parteien auf 16. Gadi Eisenkots Partei Yashar liegt mit 22 Sitzen vor dem Likud mit 19.",
+              "gegenstimme": "Netanyahu stellt die Wahl als Existenzfrage dar und warnt vor einem Bündnis «der Linken und des Islam». Seine Anhänger sehen in ihm den Garanten gegen Iran. Da die meisten Oppositionsführer eine Regierung mit arabischen Parteien ausschliessen, sind laut Guardian auch eine Minderheitsregierung oder Neuwahlen und damit ein Comeback Netanyahus möglich.",
+              "sources": [
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/israel-election-2026/article-912973"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/parlamentswahl-in-israel-wir-hoffen-auf-eine-neue-eine-friedliche-regierung"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-uno-kommission-israel-westjordanland-gaza",
+              "slug": "uno-kommission-israel-westjordanland-gaza",
+              "title": "Uno-Kommission wirft Israel Verbrechen gegen die Menschlichkeit vor",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ade0192c04a-1792934290.jpg?resize=1920%2C1440",
+              "kurz": "Eine Uno-Untersuchungskommission wirft Israel Auslöschung, Folter und Vergewaltigung im Westjordanland und fortgesetzten Völkermord in Gaza vor. Israel verlangt ihre Auflösung.",
+              "summary": "Die vom Uno-Menschenrechtsrat eingesetzte Untersuchungskommission wirft Israel in einem Bericht vom Montag Verbrechen gegen die Menschlichkeit im Westjordanland vor, darunter Auslöschung, Folter und sexuelle Gewalt. In Gaza begehe Israel trotz Waffenruhe weiter «Völkermordakte». Israels Mission in Genf spricht von einer Desinformationskampagne.",
+              "gegenstimme": "Israel weist den Bericht zurück: Er solle den Staat dämonisieren und seine Existenz als kriminell darstellen, die Kommission sei aufzulösen. Die Kommission spricht nicht für die Uno als Ganzes, und der Bericht erschien einen Tag vor der israelischen Wahl. Israel verweist auf Terrorangriffe aus dem Westjordanland, zuletzt auf Soldaten, die den laufenden Militäreinsatz ausgelöst haben.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/uno-kommission-erneuert-vorwuerfe-gegen-israel-wegen-vorgehen-im-westjordanland-und-im-gazastreifen-100.html"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/un-sponsored-probe-accuses-israel-of-ongoing-gaza-genocide-west-bank-crimes-against-humanity/"
+                },
+                {
+                  "name": "OHCHR",
+                  "url": "https://www.ohchr.org/en/press-releases/2026/10/israel-has-committed-war-crimes-and-crimes-against-humanity-occupied"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-jordanien-luftangriffe-syrien-kirchenanschlag",
+              "slug": "jordanien-luftangriffe-syrien-kirchenanschlag",
+              "title": "Jordanien bombardiert Ziele in Syrien nach Anschlag auf Kirche",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "international",
+              "icon": "✈️",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae020c4-1793073348.jpg?resize=1920%2C1440",
+              "kurz": "Nach dem Anschlag auf eine Trauerfeier in einer Kirche in Karak hat Jordanien Ziele in Südsyrien bombardiert. Syrien meldet sieben Tote, darunter drei Kinder.",
+              "summary": "Jordanien hat am Montag als Vergeltung für den Anschlag auf eine griechisch-orthodoxe Kirche in Karak Luftangriffe auf «Verstecke» bewaffneter Gruppen in Südsyrien geflogen. Laut syrischem Zivilschutz starben in Deraa und Suweida sieben Menschen, darunter drei Kinder und eine Frau. Syrien schloss den Grenzübergang Nassib.",
+              "gegenstimme": "Jordanien sagt, die Angriffe seien mit Damaskus abgesprochen gewesen und hätten Terroristen getroffen. Syrien bestreitet jede Koordination, nennt die Angriffe «verräterisch» und untersucht sie. Die zivilen Opfer, darunter eine fünfköpfige Familie in einem Zelt, werfen die Frage auf, wen die Angriffe tatsächlich trafen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/jordanien-fliegt-nach-anschlag-auf-kirche-luftangriffe-in-syrien-a-e691de2e-57a3-46e7-abc3-174f9a4c9bda"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-iran-mekka-pakt-gespraeche-teheran",
+              "slug": "iran-mekka-pakt-gespraeche-teheran",
+              "title": "Saudiarabien, Pakistan und Türkei verhandeln in Teheran",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-26T233433Z_1081693071_RC22BOALWLCL_RTRMADP_3_IRAN-CRISIS-MEETING-1793076559.jpg?resize=1920%2C1440",
+              "kurz": "Die Staaten des Mekka-Pakts wollen mit Iran weiterverhandeln, um einen neuen Golfkrieg zu verhindern. Gleichzeitig schossen die Huthi erneut Raketen auf Saudiarabien.",
+              "summary": "Saudiarabiens Verteidigungsminister, Pakistans Armeechef Asim Munir und der türkische Geheimdienstchef Ibrahim Kalin haben am Montag in Teheran mit der iranischen Führung gesprochen. In einer gemeinsamen Erklärung vereinbarten die vier Staaten, den Dialog über Frieden und Sicherheit fortzusetzen. Kurz darauf fing die saudisch geführte Koalition drei Huthi-Raketen und mehrere Drohnen ab.",
+              "gegenstimme": "Iran deutet das Treffen als Zeichen, dass «amerikanische Drohungen wenig bewirken». Experten in der NZZ sehen dagegen Abschreckung als Hauptmotiv: Riad wolle zeigen, dass Pakistan und die Türkei es im Ernstfall verteidigen. Bei den Huthi-Angriffen standen beide Länder Saudiarabien allerdings nur zögerlich bei.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/iran-der-mekka-pakt-verhandelt-mit-teheran-ld.10044774"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-brasilien-pl-anerkennt-lula-flavio-paesse",
+              "slug": "brasilien-pl-anerkennt-lula-flavio-paesse",
+              "title": "Brasilien: Bolsonaro-Partei anerkennt Lulas Sieg",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "international",
+              "icon": "🇧🇷",
+              "edition": "morning",
+              "kurz": "Die Partei von Flávio Bolsonaro anerkennt Lulas Wahlsieg, er selbst nicht. Ein Richter zieht seine Pässe ein, wegen Ermittlungen zu Geldwäsche.",
+              "summary": "Die Liberale Partei (PL) des unterlegenen Kandidaten Flávio Bolsonaro anerkennt den Sieg von Präsident Lula, der die Stichwahl mit 51,8 Prozent gewann. Bolsonaro selbst hat die Niederlage nicht eingestanden und will nun Lulas Kandidatur wegen Machtmissbrauchs anfechten. Bundesrichter Alexandre de Moraes verhängte gegen ihn eine Ausreisesperre und liess seine Pässe einziehen.",
+              "gegenstimme": "Bolsonaro spricht von «Lulas Bundespolizei» und sieht politische Verfolgung. Er bestreitet, eine Flucht geplant zu haben, wie sie sein Bruder Eduardo öffentlich empfohlen hatte. US-Präsident Trump nannte die Wahl ohne Belege «manipuliert», und die PL verlangt, offene Fragen zu Staatsausgaben vor der Wahl zu klären.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nach-der-praesidentschaftswahl-bolsonaro-partei-erkennt-lulas-wahlsieg-an-flavio-unter-druck"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6adfff4316ed143d64a1d97e/brasilien-bolsonaros-partei-erkennt-lulas-sieg-an-und-stellt-sich-gegen-eigenen-kandidaten.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-oleschky-waffenruhe-kiew-angriff",
+              "slug": "oleschky-waffenruhe-kiew-angriff",
+              "title": "Waffenruhe für Oleschky, Raketen auf Kiew",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-08T063013Z_1043452219_RC2RXNA0V8LS_RTRMADP_3_UKRAINE-CRISIS-OLESHKY-1793066900.jpg?resize=1920%2C1440",
+              "kurz": "In der besetzten Stadt Oleschky gilt seit der Nacht eine lokale Waffenruhe für einen Hilfseinsatz. Kiew wurde in derselben Nacht mit Raketen angegriffen.",
+              "summary": "Im russisch besetzten Oleschky im Gebiet Cherson gilt seit Dienstag, 2 Uhr Schweizer Zeit, eine lokale Waffenruhe. Sie soll Hilfslieferungen und Evakuierungen ermöglichen und wurde unter Vermittlung von Melania Trump und unter Beteiligung von Papst Leo vereinbart. In derselben Nacht griff Russland Kiew mit ballistischen Raketen an, mindestens ein Mensch starb.",
+              "gegenstimme": "Russland stellt die Feuerpause als humanitäre Geste dar. Selenskyj betont, dass in der Nähe der Einschläge in Kiew keine einzige militärische Einrichtung gewesen sei. Frühere Feuerpausen scheiterten am tiefen Misstrauen beider Seiten.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-waffenruhe-fuer-besetzte-ukrainische-frontstadt-oleschky-laeuft-a-e3b0a15b-20b4-4216-900d-32ce52bd3051"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-rumaenien-sabotagenetz-russland-brasov",
+              "slug": "rumaenien-sabotagenetz-russland-brasov",
+              "title": "Rumänien: Russisch gesteuertes Netz legte Brand bei Rüstungsfirma",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-05-29T153503Z_1337820633_RC22JLAC0W4U_RTRMADP_3_UKRAINE-CRISIS-ROMANIA-DRONES-1793052920.jpg?resize=1920%2C1440",
+              "kurz": "Rumäniens Geheimdienst führt einen Brand bei einer Romarm-Tochter in Brasov auf ein von Russland gesteuertes Sabotagenetz zurück. Zwei Verdächtige sitzen in Deutschland in Haft.",
+              "summary": "Der rumänische Geheimdienst SRI und die Antiterror-Staatsanwaltschaft DIICOT führen den Brand vom 14. September auf dem Industriegelände Carfil in Brasov, neben einer Tochter des Staatskonzerns Romarm, auf ein von Russland koordiniertes Sabotagenetz zurück. Beschuldigt sind zwei Belarussen und ein Ukrainer mit Wohnsitz in der EU. Zwei wurden in Deutschland bei der Vorbereitung ähnlicher Taten gefasst, der dritte wurde in Polen lokalisiert.",
+              "gegenstimme": "Russland äusserte sich zunächst nicht und hat ähnliche Vorwürfe bisher stets bestritten. Die Herkunft der Beschuldigten zeigt zudem, dass solche Netze Ausführende über soziale Medien anwerben, die selbst keine Russen sind; die Steuerung aus Russland ist bisher eine Aussage der Behörden, nicht gerichtlich festgestellt.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory"
+                },
+                {
+                  "name": "Agerpres",
+                  "url": "https://agerpres.ro/english/2026/10/26/carfil-brasov-fire-caused-by-sabotage-network-coordinated-from-russia-diicot-and-sri--1607064"
+                },
+                {
+                  "name": "SRI",
+                  "url": "https://www.sri.ro/articole/comunicat-de-presa-26-10-2026.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-comey-dritte-anklage",
+              "slug": "comey-dritte-anklage",
+              "title": "USA: Ex-FBI-Chef Comey zum dritten Mal beschuldigt",
+              "date": "2026-10-27",
+              "time": "06:20",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adfce5982-1793052249.jpg?resize=1920%2C1440",
+              "kurz": "Das US-Justizministerium wirft Ex-FBI-Chef James Comey vor, 2016 geheime Informationen an die New York Times weitergegeben zu haben. Comey spricht von Rache.",
+              "summary": "Das US-Justizministerium beschuldigt den früheren FBI-Direktor James Comey, am 5. Oktober 2016 über Mitarbeitende geheime Informationen an einen Reporter der «New York Times» weitergegeben zu haben. Die bereits vor Wochen eingereichten Unterlagen wurden erst am Montag öffentlich. Es ist der dritte Versuch der Trump-Regierung, Comey strafrechtlich zu verfolgen.",
+              "gegenstimme": "Comey nennt das Vorgehen einen «entsetzlichen Missbrauch» der Justiz und sagt: «Ich bin immer noch unschuldig.» Sein Anwalt Pat Fitzgerald betont, die Regierung habe den Fall schon zweimal geprüft und keine Anklage erhoben. Befürworter sehen dagegen die Pflicht, Geheimnisverrat auch bei prominenten Kritikern zu verfolgen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/usa-unter-donald-trump-ex-fbi-chef-james-comey-zum-dritten-mal-angeklagt-a-16e626c6-2982-491e-9e29-2f9f5c2d7f0b"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6adffd297846c6ec50e70d37/nationale-sicherheit-us-regierung-geht-erneut-gegen-ex-fbi-chef-comey-vor.html"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-10-26",
       "editions": {
