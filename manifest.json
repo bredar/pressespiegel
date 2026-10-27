@@ -1,5 +1,5 @@
 {
-  "updated": "05:20 UTC",
+  "updated": "11:30 UTC",
   "days": [
     {
       "date": "2026-10-27",
@@ -420,6 +420,343 @@
                 {
                   "name": "WELT",
                   "url": "https://www.welt.de/politik/ausland/article6adffd297846c6ec50e70d37/nationale-sicherheit-us-regierung-geht-erneut-gegen-ex-fbi-chef-comey-vor.html"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:30",
+          "articles": [
+            {
+              "id": "2026-10-27-insolvenzen-rekord-15000",
+              "slug": "insolvenzen-rekord-15000",
+              "title": "Firmenpleiten: Schweiz steuert auf Rekord zu",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/a1ac257f4bcbdb34562dc21826d8b66474286c37-92279926.jpg?ver=4b369a24&fit=1200,900",
+              "kurz": "Der Kreditversicherer Allianz Trade erwartet 2026 rund 15'000 Firmeninsolvenzen in der Schweiz, so viele wie nie zuvor.",
+              "summary": "Allianz Trade rechnet in seinem am Dienstag veröffentlichten Insolvenz-Report für 2026 mit rund 15'000 Firmenpleiten in der Schweiz, einem historischen Höchststand. Das wären doppelt so viele wie 2022 und dreimal so viele wie im Schnitt vor Corona; es ist der sechste Anstieg in Folge. Als Hauptgrund nennt der Versicherer das seit 2025 geltende neue Insolvenzrecht.",
+              "gegenstimme": "Die hohe Zahl sagt wenig über die Konjunktur: Die Schweizer Wirtschaft wächst stärker als erwartet, der Bund hat seine Prognose angehoben. Der Anstieg ist laut Allianz Trade zu einem grossen Teil «mechanisch», weil bisher verschleppte Fälle nun sichtbar werden. Wer daraus eine Wirtschaftskrise ableitet, überzeichnet das Bild.",
+              "sources": [
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/schweizer-firmenpleiten-d%c3%bcrften-2026-auf-rekordniveau-steigen/92279940"
+                },
+                {
+                  "name": "Finews",
+                  "url": "https://www.finews.ch/news/finanzplatz/74164-insolvenzen-allianz-trade-studie-hoechststand-schweiz"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/15-000-insolvenzen-firmenpleiten-schweiz-verzeichnet-historischen-negativrekord-103657141"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-novartis-q3-gewinneinbruch-del-desiran",
+              "slug": "novartis-q3-gewinneinbruch-del-desiran",
+              "title": "Novartis: Gewinn bricht wegen Abschreibung ein",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "💊",
+              "edition": "midday",
+              "kurz": "Novartis steigert den Umsatz, doch eine Abschreibung von 1,9 Milliarden Dollar auf ein Muskelmedikament drückt den Reingewinn um 70 Prozent.",
+              "summary": "Novartis hat im dritten Quartal 14,5 Milliarden Dollar umgesetzt, 4 Prozent mehr als im Vorjahr. Der Reingewinn fiel aber um 70 Prozent auf 1,2 Milliarden Dollar, vor allem wegen einer Teilabschreibung von 1,9 Milliarden auf den Wirkstoffkandidaten Del-Desiran. Der Kerngewinn pro Aktie stieg dagegen um 9 Prozent, und der Konzern hebt seine Jahresprognose für das operative Kernergebnis an.",
+              "gegenstimme": "Novartis betont die bereinigten Kernzahlen und die angehobene Prognose; die Abschreibung sei ein einmaliger Effekt. Kritisch bleibt, dass der Konzern im Februar rund 12 Milliarden Dollar für Avidity bezahlt hat und das wichtigste Produkt daraus nun in der entscheidenden Studie gescheitert ist. Zudem verfehlte im selben Quartal auch der Herzwirkstoff Pelacarsen sein Hauptziel.",
+              "sources": [
+                {
+                  "name": "Novartis (Quartalszahlen)",
+                  "url": "https://www.novartis.com/investors/financial-data/quarterly-results"
+                },
+                {
+                  "name": "Novartis via GlobeNewswire",
+                  "url": "https://www.globenewswire.com/news-release/2026/10/27/3388691/0/en/novartis-delivered-sales-growth-and-core-margin-expansion-in-q3-raised-fy-core-operating-income-guidance.html"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/pharma-riese-duesteres-3-quartal-fuer-novartis-reingewinn-sinkt-um-71-prozent-103657067"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-swiss-ice-hockey-datenleck",
+              "slug": "swiss-ice-hockey-datenleck",
+              "title": "Hacker verkaufen Daten des Eishockeyverbands",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "midday",
+              "kurz": "In einem Hackerforum werden Daten von angeblich über 87'000 Personen aus dem Umfeld von Swiss Ice Hockey angeboten, darunter Adressen von Kindern.",
+              "summary": "Daten der Swiss Ice Hockey Federation stehen in einem Hackerforum zum Verkauf. Der Verkäufer spricht von über 87'000 Personen, 9000 Trainern und knapp 5000 Schiedsrichtern; die Beispieldaten enthalten Adressen und Notfallkontakte von Kindern ab neun Jahren sowie IBAN-Nummern von Schiedsrichtern. Der Verband bestätigt den Datenabfluss und kündigt eine Strafanzeige an.",
+              "gegenstimme": "Der Verband betont, seine Systeme seien nach heutigem Stand nicht direkt angegriffen worden, die Daten seien vermutlich über ein einzelnes kompromittiertes Benutzerkonto abgeflossen. Passwörter im Klartext und Kreditkartendaten sind laut NZZ nicht enthalten. Kritiker fragen trotzdem, warum ein einziges Konto Zugriff auf so viele sensible Daten, auch von Minderjährigen, hatte.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/sport/hacker-verkaufen-spielerdaten-des-schweizer-eishockeyverbands-ld.10045150"
+                },
+                {
+                  "name": "SwissHabs",
+                  "url": "https://www.swisshabs.ch/de/artikel/massives-datenleck-sensibler-daten-beim-schweizer-eishockeyverband"
+                },
+                {
+                  "name": "Frenchbreaches",
+                  "url": "https://frenchbreaches.com/alertes/fuite-donnees-federation-suisse-hockey-glace-sihf-87000-personnes-mvovz4lyan9qc7wovbi"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-sbb-kadermann-prozess-betrug",
+              "slug": "sbb-kadermann-prozess-betrug",
+              "title": "Ex-SBB-Kadermann wegen Millionenbetrugs vor Gericht",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://c.nau.ch/i/BJBdx8/1360/680/sbb.jpg",
+              "kurz": "Ein früherer SBB-Abteilungsleiter soll die Bahn mit fiktiven Rechnungen um 8,7 Millionen Franken betrogen haben. Seit heute steht er in Bellinzona vor Gericht.",
+              "summary": "Vor dem Bundesstrafgericht in Bellinzona hat am Dienstag der Prozess gegen einen ehemaligen SBB-Abteilungsleiter und vier mutmassliche Gehilfen begonnen. Der 54-Jährige soll die SBB von 2007 bis 2024 mit fiktiven Rechnungen über Firmen von Bekannten um rund 8,7 Millionen Franken geschädigt haben. Wegen Verjährung sind strafrechtlich nur noch Taten ab April 2011 mit rund 5 Millionen Franken Schaden verfolgbar.",
+              "gegenstimme": "Für den Hauptangeklagten und die Mitangeklagten gilt die Unschuldsvermutung, bis das Gericht entschieden hat. Der Fall wirft zudem die Frage auf, wie ein Betrug über 17 Jahre in einem Bundesbetrieb unentdeckt bleiben konnte; zu den internen Kontrollen haben sich die SBB in den Berichten nicht im Detail geäussert.",
+              "sources": [
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/entlassener-sbb-kadermann-steht-wegen-millionenbetrugs-vor-gericht/92280394"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/ex-sbb-mann-vor-gericht-er-soll-bahn-um-87-mio-betrogen-haben-67193798"
+                },
+                {
+                  "name": "NZZ (Meldungen Schweiz)",
+                  "url": "https://www.nzz.ch/schweiz/schweiz-die-neusten-meldungen-ld.10026748"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-ta-swiss-studie-neue-akw",
+              "slug": "ta-swiss-studie-neue-akw",
+              "title": "Studie: Neue AKW nur unter klaren Bedingungen sinnvoll",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "⚛️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/d2245e0988eb7266dcd230371a88cc1aadcbea50-92280558.jpg?ver=4bc9a264&fit=1200,900",
+              "kurz": "Laut einer TA-Swiss-Studie könnten neue Kernkraftwerke die Winterstromlücke verkleinern, aber nur bei früher Verfügbarkeit, tragbaren Kosten und staatlicher Hilfe.",
+              "summary": "Die Stiftung für Technologiefolgen-Abschätzung TA-Swiss hat am Dienstag in Bern eine Studie zu neuen Nukleartechnologien vorgestellt. Neue Kernkraftwerke könnten die Abhängigkeit von Stromimporten verringern und vor allem im Winter helfen, wenn sie idealerweise vor 2050 ans Netz gingen. Ohne staatliche Förderung wäre ein Neubau laut Studie aber kaum finanzierbar, und den Ausbau der Erneuerbaren ersetzt Kernkraft nicht.",
+              "gegenstimme": "AKW-Gegner sehen sich bestätigt: Die Studie nennt hohe Kosten, lange Bauzeiten, ungelöste Entsorgungsfragen und staatliche Subventionen als Voraussetzung. Befürworter verweisen dagegen auf den Befund, dass Kernkraft die Winterlücke mildern und CO2-armen Strom liefern kann, und darauf, dass der Weiterbetrieb bestehender Anlagen laut Studie die kostengünstigste Brücke ist.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/studie-zu-atomenergie-wichtig-fuer-die-transformation-aber-kein-ersatz-fuer-erneuerbare-energien-ld.10044918"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/neue-nukleartechnologien-k%c3%b6nnten-laut-studie-stroml%c3%bccke-verringern/92280571"
+                },
+                {
+                  "name": "Studie (vdf/DOI)",
+                  "url": "https://doi.org/10.3218/4248-1"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-bern-werbefrei-initiative-eingereicht",
+              "slug": "bern-werbefrei-initiative-eingereicht",
+              "title": "Stadt Bern: Initiative gegen Plakatwerbung eingereicht",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🪧",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/DpgbQeQqazIBBUWHPK3Bf7.jpg?op=ocroped&val=1200,600,1000,750,42,0&sum=sQ6QQ2WcwtI",
+              "kurz": "Ein linkes Komitee hat 6300 Unterschriften für ein Verbot kommerzieller Plakat- und Bildschirmwerbung im öffentlichen Raum der Stadt Bern eingereicht.",
+              "summary": "Das Komitee «Bern werbefrei» hat am Dienstag nach eigenen Angaben 6300 Unterschriften bei der Stadtkanzlei eingereicht; nötig sind 5000 gültige. Die Initiative will in der Gemeindeordnung verankern, dass Plakatwerbung und kommerzielle Bildschirme ohne örtlichen Bezug nicht mehr bewilligt werden. Hinter dem Begehren stehen AL, PdA, Juso Stadt Bern, Grün Alternative Partei, Tier im Fokus und Transition Bern.",
+              "gegenstimme": "Die Stadt würde laut Berechnungen rund fünf Millionen Franken Einnahmen pro Jahr verlieren. Genau deshalb hat der Stadtrat, trotz linker Mehrheit, einen ähnlichen Vorstoss bei der Budgetberatung 2026 fallen gelassen und im Mai abgeschrieben. Gewerbe und Werbebranche dürften zudem auf Arbeitsplätze und die Finanzierung von Stadtmobiliar verweisen.",
+              "sources": [
+                {
+                  "name": "Der Bund (SDA)",
+                  "url": "https://www.derbund.ch/werbeverbot-bern-6300-haben-initiative-unterschrieben-943835506777"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/komitee-f%C3%BCr-werbefreies-bern-reicht-6300-unterschriften-ein/92280291"
+                },
+                {
+                  "name": "Persönlich.com",
+                  "url": "https://www.persoenlich.com/kategorie-werbung/werbegegner-reichen-6300-unterschriften-ein"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-stubb-stoere-telefonat-putin",
+              "slug": "stubb-stoere-telefonat-putin",
+              "title": "Finnland und Norwegen telefonieren mit Putin",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "international",
+              "icon": "☎️",
+              "edition": "midday",
+              "image": "https://images.welt.de/6ae078eb41a652332eb6d587/d90d4eef62d8ebcd8513ca64e5522f6a-master/ci16x9-w1200/dpa-com-261020-99-07900-jpg",
+              "kurz": "Finnlands Präsident Stubb und Norwegens Premier Støre haben erstmals direkt mit Putin über den Ukraine-Krieg gesprochen, im Vorfeld der Gespräche in Abu Dhabi.",
+              "summary": "Finnlands Präsident Alexander Stubb und Norwegens Regierungschef Jonas Gahr Støre haben am Dienstag erstmals gemeinsam mit Wladimir Putin telefoniert. Ziel sei gewesen, ihm direkt Botschaften zu künftigen Verhandlungen über ein Kriegsende zu übermitteln; der Kreml bestätigte das zuvor nicht angekündigte Gespräch. Die Ukraine wurde nach finnischen Angaben vorab konsultiert, Selenskyj danach informiert.",
+              "gegenstimme": "Kritiker direkter Kontakte zu Putin warnen, solche Gespräche werteten den Kreml diplomatisch auf, ohne dass Russland seine Angriffe einstelle. Stubb und Støre betonen dagegen, sie hätten nicht für Europa gesprochen, sondern als Nachbarn Russlands, und ohne direkte Gespräche lasse sich der Krieg nicht beenden.",
+              "sources": [
+                {
+                  "name": "WELT (dpa)",
+                  "url": "https://www.welt.de/politik/ausland/article6ae078eb41a652332eb6d587/ukraine-krieg-putin-telefoniert-mit-finnlands-praesidenten-und-norwegens-regierungschef.html"
+                },
+                {
+                  "name": "Guardian",
+                  "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-krieg-alexander-stubb-und-jonas-gahr-store-haben-mit-wladimir-putin-telefoniert-a-b010a674-df72-45ae-9ea2-f47966797946"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-putin-telefoniert-mit-finnland-und-norwegen-ueber-ukraine"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-raf-fairford-anklage-iran",
+              "slug": "raf-fairford-anklage-iran",
+              "title": "RAF Fairford: Zwei Männer wegen Hilfe für Iran angeklagt",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🇬🇧",
+              "edition": "midday",
+              "kurz": "Nach dem Vorfall an der von US-Bombern genutzten Basis Fairford klagt Grossbritannien zwei 24-Jährige an, einer soll dem iranischen Geheimdienst geholfen haben.",
+              "summary": "Die britische Staatsanwaltschaft hat zwei 24-jährige Männer aus London nach dem Vorfall an der Luftwaffenbasis RAF Fairford im September angeklagt. Mohmed Abdulkarim wird beschuldigt, einem ausländischen Geheimdienst geholfen zu haben, laut Anti-Terror-Polizei dem iranischen; Nouman Essghir soll ein Sperrgebiet mit schädigender Absicht betreten haben. Beide erscheinen am Dienstag vor Gericht.",
+              "gegenstimme": "Irans Botschafter in London bestreitet jede Beteiligung Teherans. Zudem ist die Anklage enger als die ursprünglichen Verdachtsmomente: Wegen Terrorvorbereitung ist bisher niemand angeklagt, mehrere Festgenommene sind ohne Anklage auf Kaution frei. Was genau am 27. September geplant war, haben die Behörden öffentlich nicht dargelegt.",
+              "sources": [
+                {
+                  "name": "Guardian",
+                  "url": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/27/uk-prosecutors-charge-two-after-raf-fairford-incident"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/grossbritannien-britische-behoerden-klagen-zwei-maenner-nach-vorfall-am-militaerstuetzpunkt-fairford-an-a-ea6a3cb7-6de5-4a9d-a6f5-23c7607a4e94"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-aethiopien-oromia-christen-getoetet",
+              "slug": "aethiopien-oromia-christen-getoetet",
+              "title": "Äthiopien: Mindestens 60 orthodoxe Christen getötet",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🇪🇹",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ea02/live/3f6f54a0-d147-11f1-9eb5-811878e0f07d.jpg",
+              "kurz": "Bei zwei Angriffen in der Region Oromia wurden laut der Äthiopisch-Orthodoxen Kirche mindestens 60 ihrer Gläubigen getötet. Die Täter sind nicht bestätigt.",
+              "summary": "Bewaffnete haben in der Zone Arsi in der äthiopischen Region Oromia bei zwei Angriffen am 20. und 24. Oktober mindestens 60 orthodoxe Christen getötet, wie der Heilige Synod der Äthiopisch-Orthodoxen Tewahedo-Kirche mitteilte. 14 Menschen starben in Merti, 46 in Dörfern im Bezirk Shirka; über 20 wurden schwer verletzt, 20 Häuser niedergebrannt. Die Kirche spricht von gezielten Angriffen auf ihre Gläubigen.",
+              "gegenstimme": "Die Regionalregierung kündigte an, die Verantwortlichen zu verfolgen, hat aber bisher niemanden benannt. Ein lokaler Beamter beschuldigt die neue Rebellenallianz «Alliance for Survival» mit der Oromo-Befreiungsarmee OLA; die OLA hat sich nicht geäussert und weist frühere Vorwürfe zurück. Frühere Berichte dokumentieren auch Angriffe auf Muslime in der Gegend, Anwohner beschreiben die Gewalt als ethnisch und religiös zugleich.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cm4g175dgdx2o"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region"
+                },
+                {
+                  "name": "APAnews",
+                  "url": "https://apanews.net/ethiopian-church-confirms-60-members-killed-in-attacks/"
+                },
+                {
+                  "name": "The Abay Times",
+                  "url": "https://abaytimes.com/society/orthodox-holy-synod-says-60-faithful-killed-in-two-arsi-attacks"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-sudan-nyala-drohnenangriff-markt",
+              "slug": "sudan-nyala-drohnenangriff-markt",
+              "title": "Sudan: 21 Tote bei Drohnenangriff auf Markt in Nyala",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🇸🇩",
+              "edition": "midday",
+              "kurz": "Ein Drohnenangriff auf einen Markt in der RSF-Hochburg Nyala in Darfur hat mindestens 21 Menschen getötet. Die RSF griff zugleich Kraftwerke an.",
+              "summary": "Bei einem Drohnenangriff auf einen Markt im Norden von Nyala in Darfur sind am Montagabend mindestens 21 Menschen getötet und 40 verletzt worden, wie ein Spitalvertreter der AFP sagte. Nyala gilt als Machtzentrum der paramilitärischen Rapid Support Forces (RSF). Gleichzeitig legten RSF-Drohnen Umspannwerke lahm und unterbrachen den Strom für Millionen Menschen in Khartum und Gezira.",
+              "gegenstimme": "Wer die Drohne steuerte, ist offiziell nicht bestätigt; die Armee greift Nyala regelmässig an, äussert sich aber selten zu Einzelangriffen. Laut einem Anwohner verkehren auf dem Markt viele RSF-Kämpfer, wie viele Opfer Kämpfer waren, ist unbekannt. Beiden Kriegsparteien werden Kriegsverbrechen vorgeworfen, der RSF zusätzlich Massaker an nicht-arabischen Volksgruppen in Darfur.",
+              "sources": [
+                {
+                  "name": "Al Jazeera (AFP)",
+                  "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala"
+                },
+                {
+                  "name": "Spiegel (AFP)",
+                  "url": "https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-php2shell-angriffe-bestaetigt",
+              "slug": "php2shell-angriffe-bestaetigt",
+              "title": "PHP-Lücke «php2shell»: Erste erfolgreiche Angriffe",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "midday",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/4/4/1/2026-10-27-php2shell-Aufmacher-e7472540eda12833.png?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Die US-Behörde CISA bestätigt aktive Angriffe auf die kritischen PHP-Lücken «php2shell». Allein in Deutschland melden sich noch über 4 Millionen Dienste mit anfälligen Versionen.",
+              "summary": "Die US-Cybersicherheitsbehörde CISA hat die beiden kritischen PHP-Schwachstellen CVE-2026-109618 und CVE-2026-109619, bekannt als «php2shell», am Montag in ihren Katalog aktiv ausgenutzter Lücken aufgenommen. Ein Sicherheitsforscher dokumentierte am Wochenende erstmals ausgeführten Schadcode auf Honeypots mit PHP 8.4.26. Die Lücken erlauben Angreifern ohne Anmeldung, Code auf ungepatchten Servern auszuführen.",
+              "gegenstimme": "Die Zahl von über 4 Millionen verwundbaren Diensten ist laut dem Scanner-Betreiber Censys selbst nur ein Indiz, weil viele Linux-Distributionen Patches in ältere Versionsnummern zurückportieren. Die Angriffe gelten zudem als technisch anspruchsvoll, und lange blieben Millionen Versuche erfolglos. Für die Schweiz liegen keine eigenen Zahlen vor.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html"
+                },
+                {
+                  "name": "Bleepingcomputer",
+                  "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-frankreich-proteste-zugestaendnisse-ultrarechte",
+              "slug": "frankreich-proteste-zugestaendnisse-ultrarechte",
+              "title": "Frankreich: Regierung macht Zugeständnisse, Streit um Rechtsextreme",
+              "date": "2026-10-27",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "🇫🇷",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/579347.jpg",
+              "kurz": "Nach wochenlangen Schüler- und Studentenprotesten verspricht Paris Milliarden für Schulen und das Ende von Parcoursup. Gleichzeitig gibt es Vorwürfe, die Polizei habe Rechtsextreme geschützt.",
+              "summary": "Die französische Regierung reagiert auf wochenlange Proteste von Schülern und Studierenden: Das Hochschulzulassungssystem Parcoursup soll im Herbst 2028 ersetzt werden, Gemeinden erhalten bis 2030 vergünstigte Kredite von vier Milliarden Euro für Gymnasien, die Universitäten eine Milliarde, und geplante Stellenstreichungen bei Lehrkräften werden zurückgenommen. In Nizza wurden am Samstag elf mutmassliche Rechtsextreme festgenommen, die mit Masken, Pfefferspray und Schlagstöcken gegen Demonstrierende vorgegangen sein sollen.",
+              "gegenstimme": "Studentenorganisationen nennen die Massnahmen zwar «konkret», halten sie aber für ungenügend und rufen zu weiteren Protesten auf. Innenminister Laurent Nuñez weist zurück, dass die Polizei Rechtsextreme geschützt habe; die Linke um Manuel Bompard (LFI) wirft ihm genau das vor. Laut SRF zeigen die Videos aus Nancy auch, dass die angegriffenen linken Demonstrierenden ihrerseits gewaltbereit waren.",
+              "sources": [
+                {
+                  "name": "SRF (Zugeständnisse)",
+                  "url": "https://www.srf.ch/news/international/weitreichende-zugestaendnisse-das-stellt-frankreichs-regierung-den-demonstrierenden-in-aussicht"
+                },
+                {
+                  "name": "SRF (Rechtsextreme)",
+                  "url": "https://www.srf.ch/news/international/massenproteste-in-frankreich-vorwuerfe-gegen-polizei-nach-rechten-aufmaerschen"
+                },
+                {
+                  "name": "Riviera Radio",
+                  "url": "https://www.rivieraradio.mc/article/nice-demonstration-59-taken-into-police-custody-as-investigation-opens-into-far-5HjdkRQ_2/"
                 }
               ]
             }
