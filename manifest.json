@@ -1,5 +1,5 @@
 {
-  "updated": "05:18 UTC",
+  "updated": "11:21 UTC",
   "days": [
     {
       "date": "2026-10-28",
@@ -308,6 +308,344 @@
                 {
                   "name": "watson (SDA)",
                   "url": "https://www.watson.ch/schweiz/sport/771749820-stan-wawrinka-beendet-karriere-mit-niederlage-in-basel"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:30",
+          "articles": [
+            {
+              "id": "2026-10-28-spanien-zugunglueck-toledo",
+              "slug": "spanien-zugunglueck-toledo",
+              "title": "Spanien: Mindestens 50 Tote bei Kollision zweier Schnellzüge",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🚆",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/27f854b.jpg",
+              "kurz": "Bei Urda (Toledo) ist ein AVE der Renfe auf einen stehenden Iryo-Zug geprallt; laut Zivilschutz gibt es mindestens 50 Tote.",
+              "summary": "Um 8.54 Uhr ist ein AVE der Renfe mit 397 Fahrgästen auf der Strecke Madrid–Sevilla bei Urda in der Provinz Toledo auf einen stehenden Iryo-Zug mit 147 Fahrgästen aufgefahren. Zwei Iryo-Wagen stürzten die Böschung hinunter. Der Zivilschutz von Kastilien-La Mancha meldet mindestens 50 Tote und über 179 Verletzte, die Zahlen sind provisorisch.",
+              "gegenstimme": "Die Regierung warnt vor vorschnellen Schuldzuweisungen und verweist auf die offizielle Untersuchung. Die Lokführergewerkschaft Semaf sieht dagegen ein strukturelles Sicherheitsproblem und hatte schon vor dem Unglück für Donnerstag einen 24-Stunden-Streik angekündigt.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/zugunglueck-suedlich-von-madrid-spanien-hochgeschwindigkeitszuege-kollidieren-mindestens-30-tote"
+                },
+                {
+                  "name": "El Español",
+                  "url": "https://www.elespanol.com/invertia/observatorios/movilidad/20261028/sabemos-desconoce-accidente-tren-toledo-victimas-causas-trenes-implicados/1003744437749_0.html"
+                },
+                {
+                  "name": "ABC",
+                  "url": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/vermischtes/article6ae1bd1ed1f524f7ccaa8fd3/spanien-mindestens-30-tote-bei-zugunglueck-leute-wurden-aus-dem-zug-geschleudert.html"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/train-accident-spain-4f65471a0e36f448d7ee9efe0768cd77"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-ubs-q3-ermotti-eigenkapital",
+              "slug": "ubs-q3-ermotti-eigenkapital",
+              "title": "UBS verdient 2,7 Milliarden und warnt erneut vor Kapitalregeln",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/e62434.jpg",
+              "kurz": "Die UBS steigert den Quartalsgewinn auf 2,69 Milliarden Dollar; Ermotti nennt den Ständeratsentscheid zum Eigenkapital «sehr besorgniserregend».",
+              "summary": "Die UBS hat im dritten Quartal 2,69 Milliarden Dollar verdient, 8 Prozent mehr als im Vorjahr; vor Steuern waren es 3,6 Milliarden. Die globale Vermögensverwaltung zog 55,1 Milliarden Dollar Neugeld an. Die Integration der Credit Suisse soll 2026 abgeschlossen sein, das Sparziel steigt auf 13,7 Milliarden Dollar.",
+              "gegenstimme": "Befürworter strenger Regeln, allen voran der Bundesrat, halten dagegen, dass der CS-Kollaps genau wegen zu dünner Kapitalpolster bei Auslandstöchtern den Staat in die Pflicht nahm. Ein Rekordgewinn schwächt zudem das Argument, die Bank werde durch die Vorgaben existenziell belastet.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/drittes-quartal-ubs-2-7-milliarden-dollar-gewinn-cs-integration-2026-beendet"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/die-ubs-erzielt-einen-vorsteuergewinn-von-36-milliarden-dollar-und-wirbt-weiter-fuer-guenstige-eigenkapitalvorschriften-ld.10044810"
+                },
+                {
+                  "name": "watson/SDA",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/981996034-ubs-chef-ermotti-befinden-uns-wieder-an-einem-wendepunkt"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-crans-montana-jessica-moretti-befragung",
+              "slug": "crans-montana-jessica-moretti-befragung",
+              "title": "Crans-Montana: Staatsanwaltschaft verzichtet auf Befragung von Jessica Moretti",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/1116d6.jpg",
+              "kurz": "Die Walliser Staatsanwältinnen sagen die Befragung von Jessica Moretti vom 2. November ab; befragt wird nur Jacques Moretti.",
+              "summary": "Im Verfahren zur Brandkatastrophe von Crans-Montana haben die Staatsanwältinnen die für den 2. November geplante Befragung von Jessica Moretti abgesagt. Ein psychologisches Attest beschreibt eine akute posttraumatische Belastung seit dem Brand vom 1. Januar. Befragt wird nur ihr Mann Jacques Moretti.",
+              "gegenstimme": "Der Verzicht hebt die Befragung nur auf, das Verfahren läuft weiter; für die Angehörigen der Opfer verzögert sich damit die Aufklärung erneut. Für Jacques Moretti gilt beim Gewaltvorwurf die Unschuldsvermutung, eine Anklage oder ein Urteil gibt es nicht.",
+              "sources": [
+                {
+                  "name": "SRF/RTS",
+                  "url": "https://www.srf.ch/news/dialog/brandkatastrophe-crans-montana-staatsanwaeltinnen-verzichten-auf-befragung-von-jessica-moretti"
+                },
+                {
+                  "name": "watson/Blick",
+                  "url": "https://www.watson.ch/schweiz/justiz/166545973-jessica-moretti-ist-nicht-mehr-vernehmungsfaehig-wegen-haeuslicher-gewalt"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-belgrad-messerangriff-israelische-botschaft",
+              "slug": "belgrad-messerangriff-israelische-botschaft",
+              "title": "Belgrad: Polizist erschiesst Messerangreifer vor Israels Botschaft",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🚨",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2026/10/28/da0634e7-b0f6-472c-939f-3cace6f3a5b0.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4449,2503,x0,y0&wmark=nzz",
+              "kurz": "Ein Minderjähriger griff mit «Allahu Akbar»-Rufen einen Wächter der israelischen Botschaft an; Serbiens Innenminister spricht von Terror.",
+              "summary": "Kurz nach Mitternacht hat ein Minderjähriger vor der israelischen Botschaft in Belgrad einen Gendarmen mit zwei Messern angegriffen und dabei «Allahu Akbar» gerufen. Ein geworfenes Messer verletzte den Polizisten an der Wange, er erschoss den Angreifer. Innenminister Ivica Dačić spricht von einem Terroranschlag und hat die höchste Warnstufe ausgerufen.",
+              "gegenstimme": "Die Angaben zum Täterprofil stammen bisher allein vom Innenminister einer geschäftsführenden Regierung; eine unabhängige Bestätigung gibt es nicht. Dass ein Minderjähriger erschossen wurde, wird bisher nur von der Staatsanwaltschaft als Notwehr eingestuft, eine unabhängige Prüfung steht aus.",
+              "sources": [
+                {
+                  "name": "NZZ/Reuters",
+                  "url": "https://www.nzz.ch/international/polizei-toetet-taeter-nach-messerangriff-vor-israelischer-botschaft-in-belgrad-ld.10046882"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/serbia-knife-attack-belgrade-5b6d28dc67b691d73b4ee6e4eae760e1"
+                },
+                {
+                  "name": "Regierung Serbiens",
+                  "url": "https://www.srbija.gov.rs/vest/en/290679/terrorist-attack-in-front-of-israeli-embassy-in-belgrade.php"
+                },
+                {
+                  "name": "Al-Monitor",
+                  "url": "https://www.al-monitor.com/originals/2026/10/policeman-kills-knife-attacker-outside-israeli-embassy-serbia"
+                },
+                {
+                  "name": "RTRS",
+                  "url": "https://www.rtrs.tv/vijesti/vijest.php?id=665639"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-leuthard-strombedarf-unterschaetzt",
+              "slug": "leuthard-strombedarf-unterschaetzt",
+              "title": "Leuthard: Strombedarf beim Atomausstieg zu tief geschätzt",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "⚡",
+              "edition": "midday",
+              "image": "https://www.watson.ch/imgdb/a5b6/Z1200,675,715,147,53,53/8108212315676272",
+              "kurz": "Alt-Bundesrätin Doris Leuthard räumt ein, die Stromprognosen ab 2035 seien wegen der Rechenzentren «viel zu bescheiden» gewesen.",
+              "summary": "In Stephan Klapproths Gesprächssendung «Weiss der Teufel» sagt Doris Leuthard, die Prognosen zum Strombedarf ab 2035 seien «viel zu bescheiden» gewesen. Grosse Rechenzentren habe damals niemand vorausgesehen. Den Verzicht auf neue AKW verteidigt sie trotzdem, er sei «kein Technologieverbot».",
+              "gegenstimme": "AKW-Befürworter sehen in Leuthards Eingeständnis die Bestätigung, dass die Energiestrategie 2050 auf falschen Annahmen beruht. Gegner des Neubaus verweisen darauf, dass Leuthard am Entscheid festhält und neue AKW frühestens in den 2040er-Jahren Strom liefern könnten.",
+              "sources": [
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/schweiz/energie/618061326-doris-leuthard-strombedarf-ist-viel-groesser-als-damals-berechnet"
+                },
+                {
+                  "name": "Schweiz heute",
+                  "url": "https://www.schweizheute.ch/schweiz/akw-ausstieg-doris-leuthard-zieht-bilanz-zur-energiepolitik-ld.4256773"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/leuthard-stromverbrauch-beim-atomausstieg-unterschaetzt-722981809294"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-danger-dan-konzert-neonazi-aufruf",
+              "slug": "danger-dan-konzert-neonazi-aufruf",
+              "title": "Zürich: Neonazis mobilisieren gegen Danger-Dan-Konzert",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🎤",
+              "edition": "midday",
+              "image": "https://media-flimmer.wepublish.cloud/93afc513-3a23-47db-9a63-985405fcd96c?resize=%7B%22width%22:1200,%22withoutEnlargement%22:true,%22fit%22:%22cover%22%7D&quality=80&sig=IyzeTycrFt_bsjxBxKXCnWZjPcet3s-w0VXNxROZjW_2EOdAxxWVPNizBYINZ9zGDxkDqEfY28V0nBGy_t6TCg",
+              "kurz": "Die Nationale Aktionsfront ruft auf Telegram auf, sich heute Abend vor dem Zürcher Volkshaus zu versammeln; Blood and Honour droht mit Störung.",
+              "summary": "Vor dem Konzert des deutschen Rappers Danger Dan heute Abend im Zürcher Volkshaus ruft die rechtsextreme Nationale Aktionsfront auf Telegram dazu auf, sich vor dem Lokal zu versammeln. Die Neonazi-Gruppe Blood and Honour kündigt an, den Auftritt zu stören. Die Stadtpolizei sagt, sie beurteile die Lage fortlaufend.",
+              "gegenstimme": "Danger Dan selbst ruft in seinem Lied «Keine Angst» zur Gewalt gegen Rechtsextreme auf und grüsst verurteilte Mitglieder der linksextremen «Hammerbande»; das ZDF lud ihn deshalb aus. Kritiker sehen darum zwei Seiten, die Gewalt legitimieren, und nicht nur eine Bedrohung von rechts.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/neonazis-provozieren-an-einem-konzert-in-tuggen-ein-mann-stirbt-nun-nehmen-rechtsextreme-das-naechste-konzert-ins-visier-ld.10041443"
+                },
+                {
+                  "name": "Flimmer",
+                  "url": "https://flimmer.media/a/die-neofaschist-innen-der-nationalen-aktionsfront-sind-wieder-da"
+                },
+                {
+                  "name": "Infosperber",
+                  "url": "https://www.infosperber.ch/gesellschaft/me-ne-frego-ich-pfeif-drauf/"
+                },
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/schweiz/zuerich/684766911-blood-and-honour-spricht-drohung-gegen-danger-dan-konzert-in-zuerich-aus"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-juli-zeh-verfassungsrichterin-ruecktritt",
+              "slug": "juli-zeh-verfassungsrichterin-ruecktritt",
+              "title": "Juli Zeh gibt Amt als Verfassungsrichterin in Brandenburg ab",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "midday",
+              "kurz": "Die Schriftstellerin hat ihre Entlassung als ehrenamtliche Verfassungsrichterin beantragt; ihre Amtszeit wäre bis 2029 gelaufen.",
+              "summary": "Die Schriftstellerin Juli Zeh hat bei Landtagspräsidentin Ulrike Liedtke ihre Entlassung als ehrenamtliche Richterin am Brandenburger Verfassungsgericht beantragt. Die Landtagsverwaltung hat dies am Mittwochmorgen bestätigt. Zeh nennt ihre Arbeitsbelastung als Autorin als Grund.",
+              "gegenstimme": "Dass eine bekannte politische Kommentatorin zugleich Verfassungsrichterin war, sahen manche immer als heikel; Zeh selbst betont, sie habe das Amt als besondere Ehre empfunden. Hinweise auf andere Gründe als die Arbeitslast gibt es nicht.",
+              "sources": [
+                {
+                  "name": "rbb24",
+                  "url": "https://www.rbb24.de/politik/beitrag/2026/10/verfassungsrichterin-juli-zeh-entlassung-.html"
+                },
+                {
+                  "name": "Tagesspiegel/AFP",
+                  "url": "https://www.tagesspiegel.de/potsdam/brandenburg/brandenburgs-verfassungsgericht-autorin-juli-zeh-hort-laut-medienbericht-vorfristig-auf-16207553.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/kultur/literatur/juli-zeh-schriftstellerin-hoert-offenbar-als-verfassungsrichterin-auf-a-25226669-4514-4274-8612-ae76e44d62b1"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-iran-panahi-fuenf-jahre-haft",
+              "slug": "iran-panahi-fuenf-jahre-haft",
+              "title": "Iran: Neue Haftstrafe von fünf Jahren für Regisseur Jafar Panahi",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🎬",
+              "edition": "midday",
+              "image": "https://i.iranintl.com/images/rdk9umy0/production/8bb544b6ca3802d8aa14b5bcd8f85d5f654b38aa-7659x5212.jpg?rect=872,908,6468,3396&w=1200&h=630&q=66&fit=max&auto=format",
+              "kurz": "Ein Teheraner Revolutionsgericht hat Palme-d'Or-Gewinner Jafar Panahi in Abwesenheit zu fünf Jahren und einem Monat Haft verurteilt.",
+              "summary": "Das Revolutionsgericht in Teheran hat den Filmemacher Jafar Panahi in Abwesenheit zu fünf Jahren und einem Monat Haft verurteilt. Zudem ordnete es die Beschlagnahmung seines gesamten Vermögens sowie zweijährige Reise- und Social-Media-Verbote an. Panahi erfuhr davon laut seinem Anwalt erst, als seine Bankkonten gesperrt wurden.",
+              "gegenstimme": "Die iranische Justiz hat sich nicht geäussert, die Anklagepunkte sind nicht öffentlich. Alle Angaben stammen vom Anwalt; Iran International, das die Nachricht verbreitete, ist ein oppositionsnaher Exilsender.",
+              "sources": [
+                {
+                  "name": "Iran International",
+                  "url": "https://www.iranintl.com/en/202610275892"
+                },
+                {
+                  "name": "HRANA",
+                  "url": "https://www.en-hrana.org/film-director-jafar-panahi-sentenced-to-prison-asset-confiscation-and-additional-penalties/"
+                },
+                {
+                  "name": "The Hindu",
+                  "url": "https://www.thehindu.com/entertainment/movies/jafar-panahi-sentenced-to-five-years-in-prison-in-iran-faces-new-ruling-on-top-of-previous-one-year-conviction/article71634343.ece"
+                },
+                {
+                  "name": "Deadline",
+                  "url": "https://deadline.com/2026/10/jafar-panahi-crosshairs-iranian-authorities-five-year-sentence-1237206414/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-hitzetote-europa-sommer-2026",
+              "slug": "hitzetote-europa-sommer-2026",
+              "title": "Studie: 50'000 Hitzetote in Europas Städten, 219 in Zürich",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🌡️",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/8fc7b2c3-0dea-4ad2-9b2e-1583d0eb4cdc/AAABoWefZXY/AAABnSSvrFg/16x9-big/thermometer-103.jpg?width=1280",
+              "kurz": "Forscher aus London schätzen über 50'000 Hitzetote im Sommer 2026 in 854 europäischen Städten, darunter 219 in Zürich.",
+              "summary": "Forscher des Imperial College und der London School of Hygiene & Tropical Medicine schätzen für den Sommer 2026 über 50'000 hitzebedingte Todesfälle in 854 europäischen Städten. Rund zwei Drittel schreiben sie dem menschengemachten Klimawandel zu. Für Zürich nennt die Auswertung 219 Hitzetote, danach folgen Genf, Basel und Bern.",
+              "gegenstimme": "Es handelt sich um Modellschätzungen, nicht um gezählte Todesursachen. Kritiker solcher Zuordnungsstudien wenden ein, dass in Europa weiterhin mehr Menschen an Kälte als an Hitze sterben und die Anpassung von Städten mehr bewirkt als die Zuschreibung von Opfern.",
+              "sources": [
+                {
+                  "name": "LSHTM",
+                  "url": "https://www.lshtm.ac.uk/newsevents/news/2026/more-50000-heat-related-deaths-estimated-european-urban-areas-during-summer"
+                },
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/killer-heat-climate-change-europe-deaths-d57dac06335203107caba8ae6ef67185"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/hitzetote-in-europa-219-tote-in-zuerich-im-hitzesommer-540715803106"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-sulzer-pdvsa-allianz-venezuela",
+              "slug": "sulzer-pdvsa-allianz-venezuela",
+              "title": "Sulzer schliesst Fünfjahresallianz mit Venezuelas Ölkonzern PDVSA",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🏭",
+              "edition": "midday",
+              "kurz": "Der Winterthurer Industriekonzern Sulzer hat mit dem staatlichen Ölkonzern PDVSA eine strategische Allianz für fünf Jahre unterzeichnet.",
+              "summary": "Sulzer und der venezolanische Staatskonzern PDVSA haben eine langfristige strategische Allianz für die nächsten fünf Jahre unterzeichnet. Sie bildet den Rahmen für mögliche Aufträge in Förderung, Pipelines, Raffinerien und Treibstoffverteilung. Einen Vertragswert oder feste Aufträge nennt Sulzer nicht.",
+              "gegenstimme": "Der Tages-Anzeiger hält fest, dass Fragen zu Sanktionsrisiken und zum Klimaschutz ungeklärt bleiben. Sulzer betont dagegen, die Vereinbarung sei im Einklang mit den regulatorischen Vorgaben geschlossen worden.",
+              "sources": [
+                {
+                  "name": "Sulzer",
+                  "url": "https://www.sulzer.com/en/shared/news/261027_mediareleasepdvsa"
+                },
+                {
+                  "name": "cash",
+                  "url": "https://www.cash.ch/news/top-news/sulzer-schliesst-strategische-allianz-mit-pdvsa-im-ol-und-gassektor-979874"
+                },
+                {
+                  "name": "Radio Nacional de Venezuela",
+                  "url": "https://rnv.gob.ve/pdvsa-y-sulzer-firman-acuerdo-estrategico-cinco-anos/"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/industrie-in-winterthur-sulzer-schliesst-abkommen-mit-venezuelas-oelkonzern-397501321673"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-uefi-luecke-edk2-pxe",
+              "slug": "uefi-luecke-edk2-pxe",
+              "title": "Kritische UEFI-Lücke betrifft die meisten Server weltweit",
+              "date": "2026-10-28",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "midday",
+              "kurz": "Eine 16 Jahre alte Lücke im Firmware-Baukasten EDK II erlaubt Code vor dem Betriebssystemstart; ein stabiles Update fehlt noch.",
+              "summary": "Im quelloffenen Firmware-Baukasten TianoCore EDK II, auf dem fast alle UEFI-Firmwares von Servern beruhen, steckt eine kritische Lücke mit Schweregrad 9,5 von 10. Präparierte ICMP-Fehlermeldungen beim Netzwerkstart per PXE können Code ausführen, bevor Schutzmechanismen wie Secure Boot greifen. Die Korrektur ist im Quellcode, aber noch in keiner stabilen Version.",
+              "gegenstimme": "Angreifbar sind nur Systeme, die per PXE übers Netz starten und dabei manipulierte ICMP-Pakete empfangen können, was in gut getrennten Rechenzentren selten ist. Ein eingeschleuster Code überlebt zudem keinen Neustart.",
+              "sources": [
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+                },
+                {
+                  "name": "Severity Daily",
+                  "url": "https://severitydaily.com/edk2-cve-2026-97631-9-5-pxe-icmp-pre-boot-rce-merged-october-15-no-stable-tag-not-patched-currently/"
+                },
+                {
+                  "name": "OpenCVE",
+                  "url": "https://app.opencve.io/cve/CVE-2026-97631"
                 }
               ]
             }
