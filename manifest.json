@@ -1,5 +1,5 @@
 {
-  "updated": "11:21 UTC",
+  "updated": "16:24 UTC",
   "days": [
     {
       "date": "2026-10-28",
@@ -646,6 +646,304 @@
                 {
                   "name": "OpenCVE",
                   "url": "https://app.opencve.io/cve/CVE-2026-97631"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-10-28-luftabwehr-barak-mx-samp-t-ng",
+              "slug": "luftabwehr-barak-mx-samp-t-ng",
+              "title": "Luftabwehr: Bundesrat lässt nur noch Israel und Frankreich im Rennen",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🛡️",
+              "edition": "evening",
+              "kurz": "Für das zweite Luftabwehrsystem grösserer Reichweite bleiben Barak MX aus Israel und SAMP/T NG aus Frankreich/Italien im Rennen; an Patriot hält der Bundesrat fest.",
+              "summary": "Der Bundesrat hat die Evaluation für ein zweites bodengestütztes Luftabwehrsystem grösserer Reichweite auf Barak MX (Israel Aerospace Industries) und SAMP/T NG (Eurosam) eingeengt; das südkoreanische Angebot ist ausgeschieden. Am Kauf der fünf Patriot-Systeme hält er fest, obwohl die USA keinen Liefertermin nennen. Rund 6 Milliarden Franken dafür stecken in der 24-Milliarden-Armeefinanzierung, über die das Parlament in der Wintersession berät.",
+              "gegenstimme": "Ein Kauf in Israel gilt angesichts des Gaza-Kriegs als politisch heikel, und die Finanzierung ist vom Parlament noch nicht beschlossen. Befürworter verweisen auf die Lücke in der Luftabwehr und die Patriot-Verzögerungen, die eine zweite, rascher verfügbare Lösung nötig machten.",
+              "sources": [
+                {
+                  "name": "nau.ch / SDA",
+                  "url": "https://www.nau.ch/news/schweiz/bundesrat-engt-rennen-um-luftabwehr-ein-und-halt-an-patriot-fest-67194493"
+                },
+                {
+                  "name": "swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/anbieter-aus-israel-und-frankreich-f%c3%bcr-luftabwehrsystem-im-rennen/92289177"
+                },
+                {
+                  "name": "Aviation Week",
+                  "url": "https://aviationweek.com/defense/missile-defense-weapons/switzerland-shortlists-barak-mx-sampt-ng-air-defense-contest"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/bundesbern-ticker-bundesrat-cassis-reist-nach-nordkorea-103051526"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-abstimmung-28-februar-2027-fuenf-vorlagen",
+              "slug": "abstimmung-28-februar-2027-fuenf-vorlagen",
+              "title": "Abstimmung vom 28. Februar 2027: Fünf Vorlagen, darunter das AKW-Verbot",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/7f8d320.jpg",
+              "kurz": "Am 28. Februar 2027 stimmt die Schweiz über fünf Vorlagen ab, darunter die Aufhebung des AKW-Neubauverbots und die Demokratie-Initiative.",
+              "summary": "Der Bundesrat hat für den 28. Februar 2027 fünf eidgenössische Vorlagen angesetzt: die Stopfleber-Initiative, die Demokratie-Initiative für erleichterte Einbürgerung, das Freihandelsabkommen mit Malaysia, die Aufhebung des AKW-Neubauverbots sowie die Vorlage zur Allgemeinverbindlicherklärung von GAV gegenüber kantonalen Mindestlöhnen. Im Wahljahr 2027 gibt es danach nur noch den Termin vom 6. Juni.",
+              "gegenstimme": "Ein früher Termin schafft rasch Klarheit in der Energiepolitik. Umgekehrt müssen Stimmberechtigte an einem Sonntag über fünf sehr unterschiedliche und teils komplexe Fragen entscheiden, von der Kernenergie bis zur Einbürgerung; das kann die Debatte über einzelne Vorlagen verkürzen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/eidgenoessische-abstimmungen-schweiz-stimmt-ende-februar-gleich-ueber-fuenf-vorlagen-ab"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/bundesbern-ticker-bundesrat-cassis-reist-nach-nordkorea-103051526"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-klimaanpassung-56-massnahmen-hitze",
+              "slug": "klimaanpassung-56-massnahmen-hitze",
+              "title": "Nach dem Hitzesommer: Bundesrat beschliesst 56 Massnahmen zur Klimaanpassung",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🌡️",
+              "edition": "evening",
+              "image": "https://www.watson.ch/imgdb/4b2c/Z1200,675,3383,-198,520,520/8681281364099744",
+              "kurz": "Der Bundesrat hat eine Klimaanpassungsstrategie mit 56 Massnahmen bis 2031 verabschiedet; das BAG soll ein Kompetenzzentrum für Hitzeschutz aufbauen.",
+              "summary": "Der Bundesrat hat eine Strategie und einen Aktionsplan zur Anpassung an den Klimawandel für 2026 bis 2031 verabschiedet: 30 Handlungsfelder, 56 Massnahmen, Schwerpunkt Hitze und Trockenheit. Das BAG soll ein Kompetenzzentrum gegen hitzebedingte Gesundheitsrisiken aufbauen und Hitzetote sowie Spitaleintritte besser erfassen. Zudem lädt der Bund die Sozialpartner zu einer Aussprache über Hitzeschutz auf Baustellen.",
+              "gegenstimme": "Der Plan setzt vor allem auf Koordination, Monitoring und Grundlagen; eine Gesamtsumme und neue verbindliche Vorgaben fehlen. Ob das reicht, ist offen. Beim Hitzeschutz auf dem Bau sind sich die Sozialpartner bisher nicht einig, Mindestanforderungen würden Bauunternehmen zusätzliche Kosten verursachen.",
+              "sources": [
+                {
+                  "name": "watson / SDA",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/255701991-nach-hitzesommer-der-bundesrat-will-mit-56-massnahmen-reagieren"
+                },
+                {
+                  "name": "BAFU",
+                  "url": "https://www.bafu.admin.ch/de/klima-anpassungsstrategie"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-foeg-verschwoerungsnarrative-juedische-netzwerke",
+              "slug": "foeg-verschwoerungsnarrative-juedische-netzwerke",
+              "title": "Studie: 36 Prozent halten antisemitisches Verschwörungsnarrativ für plausibel",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "📊",
+              "edition": "evening",
+              "kurz": "Laut einer FÖG-Umfrage halten 36 Prozent für plausibel, dass «jüdische Netzwerke» die westliche Politik kontrollieren; die Methode ist umstritten.",
+              "summary": "Im Jahrbuch Qualität der Medien 2026 der Universität Zürich halten 36 Prozent der 1222 Befragten die Aussage für eher oder sehr plausibel, dass jüdische Netzwerke im Hintergrund grosse Teile der westlichen Politik kontrollieren. 40,5 Prozent finden plausibel, dass Eliten Einwanderung fördern, um die Bevölkerung zu verändern, 37 Prozent, dass der Klimawandel als Vorwand zur Kontrolle dient. Wer vor allem Social Media nutzt, ist laut Studie anfälliger.",
+              "gegenstimme": "Die NZZ zweifelt an der Aussagekraft: Es handle sich um eine Online-Befragung ohne Vergleichswerte, und manche hätten wohl eher Unmut über Migrationspolitik oder Israel-Berichterstattung ausgedrückt. Studienleiter Mark Eisenegger hält dagegen, entscheidend sei das Antwortmuster über alle Aussagen hinweg.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/feuilleton/ueber-ein-drittel-der-bevoelkerung-glaubt-dass-juedische-netzwerke-grosse-teile-der-politik-kontrollieren-ld.10045925"
+                },
+                {
+                  "name": "FÖG / UZH (Studie)",
+                  "url": "https://www.foeg.uzh.ch/dam/jcr:ee927970-a679-403e-8390-9182fb75c956/JB_2026_Studie_I_20261015.pdf"
+                },
+                {
+                  "name": "FÖG / UZH (Mitteilung)",
+                  "url": "https://www.foeg.uzh.ch/de/news/2026/Jahrbuch-Qualit%C3%A4t-der-Medien-2026-ver%C3%B6ffentlicht.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-kartengebuehren-twint-transparenz-uwg",
+              "slug": "kartengebuehren-twint-transparenz-uwg",
+              "title": "Karten und Twint: Händler sollen sehen, welche Gebühren sie zahlen",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "💳",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/29cef21.jpg",
+              "kurz": "Der Bundesrat schickt eine UWG-Änderung in die Vernehmlassung: Zahlungsanbieter sollen Händlern Kommission, Interchange und Systemgebühr offenlegen.",
+              "summary": "Der Bundesrat hat eine Änderung des Gesetzes gegen den unlauteren Wettbewerb in die Vernehmlassung geschickt. Acquirer sollen Händlern bei Debit- und Kreditkarten von Visa und Mastercard sowie bei Twint die Händlerkommission, die Interchange-Gebühr und die Lizenzgebühr des Systembetreibers offenlegen, vor Vertragsschluss und während der Laufzeit. Er setzt damit eine Motion der Wirtschaftskommission des Ständerats um.",
+              "gegenstimme": "Der Bundesrat selbst bezweifelt den Nutzen und lehnt weitergehende Pflichten wegen des Verwaltungsaufwands ab. Ob Transparenz allein die Gebühren senkt, ist offen; die Vorlage greift nicht direkt in die Höhe der Gebühren ein.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/vernehmlassung-eroeffnet-vorlage-fuer-transparenz-bei-bargeldlosgebuehr-geht-in-konsultation"
+                },
+                {
+                  "name": "20 minutes",
+                  "url": "https://www.20min.ch/fr/story/frais-et-commissions-paiements-sans-especes-berne-veut-plus-de-transparence-103657744"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-spanien-zugunglueck-leitstelle-fehlentscheid",
+              "slug": "spanien-zugunglueck-leitstelle-fehlentscheid",
+              "title": "Spanien: Zahl der Toten steigt auf 68, Minister spricht von «falschem Entscheid» der Leitstelle",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🚆",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/613bba.jpg",
+              "kurz": "Nach der Schnellzug-Kollision bei Toledo ist die Zahl der Toten auf mindestens 68 gestiegen; laut Verkehrsminister liess die Leitstelle den Renfe-Zug trotz Rotsignal weiterfahren.",
+              "summary": "Beim Zusammenstoss zweier Hochgeschwindigkeitszüge bei Urda in der Provinz Toledo sind laut Regionalregierung mindestens 68 Menschen gestorben, 58 Verletzte liegen im Spital. Verkehrsminister Óscar Puente sagt, ein Kommunikationsfehler habe automatisch ein Rotsignal ausgelöst; die Bahnleitstelle habe dem Renfe-Zug dann trotzdem die Weiterfahrt erlaubt, worauf er auf den stehenden Iryo-Zug auffuhr.",
+              "gegenstimme": "Die Regierung betont, es handle sich um einen menschlichen Fehlentscheid und nicht um ein Systemversagen der Infrastruktur. Die Lokführergewerkschaft Semaf sieht dagegen ein strukturelles Sicherheitsproblem; es ist bereits das zweite tödliche Unglück mit Zügen von Renfe und Iryo in diesem Jahr.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/zugunglueck-suedlich-von-madrid-minister-falsche-entscheidung-fuehrte-zu-zug-kollision"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/panorama/zwei-hochgeschwindigkeitszuege-prallen-in-spanien-aufeinander-ld.10046944"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-israel-herzog-neuwahl-arabische-listen",
+              "slug": "israel-herzog-neuwahl-arabische-listen",
+              "title": "Israel: Herzog will Neuwahl verhindern, arabische Listen werden zum Zünglein an der Waage",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "evening",
+              "kurz": "Präsident Herzog ruft nach der Patt-Wahl zu offenen Koalitionsgesprächen auf; die arabischen Listen legen auf 19 Sitze zu.",
+              "summary": "Nach Auszählung von über 85 Prozent der Stimmen liegt Netanyahus Block bei 53, der Oppositionsblock von Gadi Eisenkot bei 48 der 120 Sitze; nötig sind 61. Die arabischen Listen kommen auf 19 Sitze. Präsident Isaac Herzog sagte, man müsse «alles tun, um eine weitere Wahl zu vermeiden», und verlangte von den Parteien «offene Köpfe».",
+              "gegenstimme": "Netanyahu spricht von einer «entscheidenden Mehrheit» im zionistischen Lager und will eine rechte Regierung bilden. Der Linkspolitiker Yair Golan fordert dagegen erstmals ein Bündnis mit den arabischen Listen; Eisenkot und die Rechten in seinem Lager lehnen das bisher ab.",
+              "sources": [
+                {
+                  "name": "Al-Monitor / AFP",
+                  "url": "https://www.al-monitor.com/originals/2026/10/israel-president-urges-against-new-vote-despite-inconclusive-result"
+                },
+                {
+                  "name": "i24NEWS",
+                  "url": "https://www.i24news.tv/en/news/israel/politics/artc-we-must-do-everything-to-avoid-new-elections-israeli-president-herzog-declares"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/israels-araber-wollen-benjamin-netanyahu-stuerzen-doch-die-opposition-zoegert-ld.10047060"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-jemen-huthi-raketen-flughafen-aden",
+              "slug": "jemen-huthi-raketen-flughafen-aden",
+              "title": "Jemen: Huthi greifen Flughafen Aden mit ballistischen Raketen an",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "evening",
+              "image": "https://www.rte.ie/images/00253ee6-1600.jpg",
+              "kurz": "Die Huthi haben den Flughafen von Aden zweimal mit Raketen angegriffen; der Flugverkehr ist eingestellt. Bei Saudi-Angriffen im Norden starben laut Huthi 14 Menschen.",
+              "summary": "Die vom Iran unterstützten Huthi haben den Flughafen von Aden, Sitz der international anerkannten Regierung, laut Verkehrsministerium zweimal mit ballistischen Raketen beschossen. Eine Rakete schlug im Flughafenperimeter ein, während dort ein saudisches Militärflugzeug stand, das unbeschädigt abflog; Opfer am Flughafen wurden nicht gemeldet. Der Flugverkehr wurde eingestellt.",
+              "gegenstimme": "Huthi-Sprecher Yahya Saree rechtfertigt den Angriff mit einem saudischen Frachtflugzeug, das Waffen geliefert habe, und hatte zuvor zur Evakuierung aufgerufen. Die jemenitische Regierung verurteilt den Angriff auf eine zivile Infrastruktur; Hilfswerke wie MSF warnen, dass Aden der wichtigste Zugang für humanitäre Hilfe im Süden ist.",
+              "sources": [
+                {
+                  "name": "Al-Monitor / Reuters",
+                  "url": "https://www.al-monitor.com/originals/2026/10/houthis-strike-yemens-aden-airport-after-evacuation-warning"
+                },
+                {
+                  "name": "RTÉ / AFP",
+                  "url": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-uk-budget-healey-energie-bankensteuer",
+              "slug": "uk-budget-healey-energie-bankensteuer",
+              "title": "Grossbritannien: Budget mit Energiebonus, finanziert über höhere Bankensteuer",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "international",
+              "icon": "💷",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+              "kurz": "Schatzkanzler John Healey verdoppelt die Sonderabgabe der Banken auf 6 Prozent, um 20 Millionen Haushalten je 100 Pfund an die Energiekosten zu zahlen.",
+              "summary": "Im ersten Budget unter Premier Andy Burnham hat Schatzkanzler John Healey eine einmalige Energiezahlung von 100 Pfund für bis zu 20 Millionen Haushalte angekündigt und die tiefere Mehrwertsteuer auf Strom bis Juli 2027 verlängert. Finanziert wird das mit einer Verdoppelung der Gewinnsonderabgabe der Banken von 3 auf 6 Prozent für 15 Monate. Die Grundgebühren auf Gasrechnungen sollen abgeschafft werden.",
+              "gegenstimme": "Die Entlastung wird über eine Sondersteuer auf Bankgewinne bezahlt, was den Finanzplatz zusätzlich belastet. Das Budgetamt OBR warnt, die realen verfügbaren Haushaltseinkommen pro Kopf lägen Ende des Jahrzehnts nur 1 Prozent über dem Niveau vor Corona, die Entlastungen änderten an der Stagnation wenig.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c6x2zrjl7kjno"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics"
+                },
+                {
+                  "name": "GOV.UK",
+                  "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-sk-hynix-speicher-ausverkauft-2029",
+              "slug": "sk-hynix-speicher-ausverkauft-2029",
+              "title": "Speicherkrise: SK Hynix ist bis 2029 praktisch ausverkauft",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "💾",
+              "edition": "evening",
+              "image": "https://image.koreajoongangdaily.com/12943676.jpg?imageId=12943676&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+              "kurz": "SK Hynix meldet einen Rekordbetriebsgewinn von 83 Billionen Won und sieht DRAM und HBM bis 2029 praktisch ausverkauft; PC-Käufer müssen mit hohen Preisen rechnen.",
+              "summary": "Der südkoreanische Speicherhersteller SK Hynix hat im dritten Quartal den Betriebsgewinn auf einen Rekord von 83,3 Billionen Won (rund 62 Milliarden Dollar) versiebenfacht, bei 104,6 Billionen Won Umsatz. Laut Firma sind DRAM und HBM wegen Langzeitverträgen mit 14 Grosskunden bis 2029 praktisch ausverkauft. Der Kospi stieg um 6,6 Prozent.",
+              "gegenstimme": "Die Börse feiert die Zahlen als Entwarnung vor einer KI-Blase. Für Konsumenten und PC-Hersteller bedeutet die Knappheit aber steigende Preise; Samsung soll laut Berichten bereits bei der günstigen Galaxy-A-Serie sparen.",
+              "sources": [
+                {
+                  "name": "Korea JoongAng Daily",
+                  "url": "https://www.koreajoongangdaily.com/business/sk-hynix-says-dram-hbm-booked-through-2029-as-profit-soars-to-62b/12942008"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/SK-Hynix-Mehr-als-die-Haelfte-der-Speicherproduktion-bis-2028-schon-vergeben-11503056.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-microsoft-authenticator-android-token-luecke",
+              "slug": "microsoft-authenticator-android-token-luecke",
+              "title": "Microsoft Authenticator: Fremde Apps konnten Firmen-Zugangstoken abgreifen",
+              "date": "2026-10-28",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🔐",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/0/5/4/5/2026-05-18-MS-Authenticator-Sicherheit-Problem-703f67bfee2b6f64.png?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Eine Lücke im Microsoft Authenticator für Android liess Apps ohne Berechtigungen Tokens für Mail, Dateien und Kalender abgreifen; Version 6.2606.4246 behebt sie.",
+              "summary": "Forscher der Firma Enclave haben gezeigt, dass eine Android-App ohne jede Berechtigung sich gegenüber dem Microsoft Authenticator als Teams ausgeben und Zugangstoken des angemeldeten Firmenkontos erhalten konnte. In Tests gab das vollen Zugriff auf Postfach, Dateien und Kalender. Microsoft hat die Lücke CVE-2026-80097 (CVSS 8,6) im September geschlossen.",
+              "gegenstimme": "Microsoft stuft das Risiko als hoch, aber nicht kritisch ein, verlangt laut eigener Beschreibung eine Freigabe durch das Opfer und kennt keine Ausnutzung. Enclave widerspricht: Nötig sei nur ein angemeldetes Arbeitskonto gewesen, keine Nutzerinteraktion.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Microsoft-Authenticator-Boesartige-Apps-konnten-Zugangstoken-abgreifen-11503334.html"
+                },
+                {
+                  "name": "Enclave",
+                  "url": "https://enclave.ai/blog/authmask-we-made-microsoft-authenticator-hand-over-tokens"
                 }
               ]
             }
