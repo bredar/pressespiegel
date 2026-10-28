@@ -1,6 +1,320 @@
 {
-  "updated": "16:30 UTC",
+  "updated": "05:18 UTC",
   "days": [
+    {
+      "date": "2026-10-28",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-10-28-stromabkommen-urek-s-knappes-ja",
+              "slug": "stromabkommen-urek-s-knappes-ja",
+              "title": "Stromabkommen: Ständeratskommission sagt knapp Ja – und will das Ständemehr",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "⚡",
+              "edition": "morning",
+              "image": "https://c.nau.ch/i/30Mggg/1360/680/energieminister-albert-rosti-setzt-sich-fur-ein-neues-stromabkommen-mit-der-eu-ein-die-zustandige-standeratskommission-ist-dem-bundesrat-knapp-gefolgt-archivbild.jpg",
+              "kurz": "Die Energiekommission des Ständerats stimmt dem Stromabkommen mit der EU nur mit 6 zu 5 Stimmen zu und will es zwingend Volk und Ständen vorlegen.",
+              "summary": "Die Urek-S beantragt dem Ständerat mit 6 zu 5 Stimmen bei einer Enthaltung, das Stromabkommen mit der EU zu genehmigen. Mit 8 zu 4 Stimmen verlangt sie wegen der dynamischen Rechtsübernahme ein obligatorisches Referendum mit Volks- und Ständemehr. Zweimal entschied Präsident Thierry Burkart (FDP/AG) per Stichentscheid: Die Mindestvergütung für Solarstrom aus Kleinanlagen fällt weg, und die Elcom soll Tarife nur noch auf Missbräuchlichkeit prüfen.",
+              "gegenstimme": "Eine Minderheit beantragt Nichteintreten: Die dynamische Rechtsübernahme schwäche die Hoheit über Strommarkt und Wasserkraft. Eine weitere Minderheit wollte die Grundversorgung bis 100 statt 50 MWh Verbrauch offenhalten und Mindestpreise für Solarstrom retten. Befürworter argumentieren mit der Versorgungssicherheit im Winter und dem Zugang zum EU-Binnenmarkt für Strom.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/neue-eu-vertraege-staenderaete-knapp-fuer-stromabkommen-103657417"
+                },
+                {
+                  "name": "watson (SDA)",
+                  "url": "https://www.watson.ch/schweiz/energie/594448814-knappes-ja-der-staenderatskommission-zu-stromabkommen-mit-der-eu"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/st%c3%a4nderatskommission-sagt-knapp-ja-zu-stromabkommen-mit-der-eu/92284224"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-fk-n-armeefonds-ohne-mwst",
+              "slug": "fk-n-armeefonds-ohne-mwst",
+              "title": "Nationalratskommission will Armee ohne höhere Mehrwertsteuer finanzieren",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🛡️",
+              "edition": "morning",
+              "image": "https://www.watson.ch/imgdb/f25a/Z1200,675,541,376,64,64/4142117368035867",
+              "kurz": "Die Finanzkommission des Nationalrats lehnt eine MWST-Erhöhung für die Armee ab und will den 24-Milliarden-Fonds aus Bundeskasse und Kantonsanteilen speisen.",
+              "summary": "Die Finanzkommission des Nationalrats (FK-N) befürwortet einen auf 18 Jahre befristeten Sicherheits- und Verteidigungsfonds von 24 Milliarden Franken, lehnt aber eine Erhöhung der Mehrwertsteuer ab. Die jährlich rund 1,3 Milliarden sollen aus 400 Millionen bestehender, neu zweckgebundener MWST, 330 Millionen nicht ausgeschöpften Krediten, 200 Millionen Einsparungen und 400 Millionen aus einem tieferen Kantonsanteil an der direkten Bundessteuer kommen. Das Modell kam mit 15 zu 8 Stimmen bei einer Enthaltung durch.",
+              "gegenstimme": "Die Minderheit kritisiert, das Modell verschiebe die Last auf die Kantone, und der Fonds könne sich bis zu 9 Milliarden Franken verschulden – das untergrabe die Schuldenbremse. Bundesrat und Ständerat halten eine befristete Mehrwertsteuererhöhung für den transparenteren Weg, weil sie die Aufrüstung nicht zulasten anderer Aufgaben finanziert.",
+              "sources": [
+                {
+                  "name": "watson (SDA)",
+                  "url": "https://www.watson.ch/schweiz/armee/510217109-kommission-ist-gegen-hoehere-mehrwertsteuer-fuer-armee"
+                },
+                {
+                  "name": "Nau.ch (SDA)",
+                  "url": "https://www.nau.ch/politik/bundeshaus/kommission-lehnt-hohere-mehrwertsteuer-fur-die-armee-ab-67194045"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/kommission-lehnt-h%c3%b6here-mehrwertsteuer-f%c3%bcr-die-armee-ab/92284640"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-armasuisse-direktkauf-statt-fms",
+              "slug": "armasuisse-direktkauf-statt-fms",
+              "title": "Rüstungschef will an US-Behörden vorbei direkt bei Herstellern kaufen",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "image": "https://c.nau.ch/i/AedLaJ/1360/680/wir-streben-kunftig-an-nach-moglichkeit-direkt-bei-den-herstellern-zu-kaufen-anstatt-beschaffungen-uber-das-us-regierungsprogramm-foreign-military-sales-abzuwickeln-sagte-arma.jpg",
+              "kurz": "Armasuisse-Chef Urs Loher zieht Lehren aus dem F-35-Debakel: möglichst Direktkäufe statt US-Regierungsprogramm. Patriot verzögert sich um fünf bis sieben Jahre.",
+              "summary": "Armasuisse will Rüstungsgüter künftig nach Möglichkeit direkt bei den Herstellern statt über das US-Regierungsprogramm Foreign Military Sales beschaffen, sagt Direktor Urs Loher im NZZ-Interview. Die Patriot-Lieferung verzögert sich um fünf bis sieben Jahre, für die Schweiz vorgesehene Systeme gehen nach Deutschland. Von gut einer Milliarde Franken Anzahlungen erhält die Schweiz einen Teil zurück, wann, ist offen.",
+              "gegenstimme": "Die Geschäftsprüfungskommission sieht das F-35-Problem nicht primär in Washington, sondern im VBS: Bern hätte nie von einem pauschalen Fixpreis ausgehen dürfen. Zudem lösen Direktkäufe die Abhängigkeit nicht – auch sie brauchen die Zustimmung der US-Behörden. Loher hält dagegen, im Nachhinein zu behaupten, alles sei sonnenklar gewesen, «stimmt einfach nicht».",
+              "sources": [
+                {
+                  "name": "NZZ (Interview)",
+                  "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/ruestungschef-urs-loher-zum-fixpreis-debakel-beim-f-35-im-nachhinein-zu-behaupten-es-sei-doch-alles-sonnenklar-gewesen-das-stimmt-einfach-nicht-ld.10042727"
+                },
+                {
+                  "name": "bluewin (Keystone-SDA)",
+                  "url": "https://www.bluewin.ch/de/news/schweiz/armasuisse-strebt-kaeufe-ueber-hersteller-statt-us-behoerden-an-li.3651440"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-bern-velostationen-nachts-zu",
+              "slug": "bern-velostationen-nachts-zu",
+              "title": "Stadt Bern schliesst Velostationen nachts und verschickt Code per SMS",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🚲",
+              "edition": "morning",
+              "image": "https://c.nau.ch/i/AedL4G/1360/680/ein-helm-klemmt-auf-dem-gepacktraeger-eines-abgestellten-velos-in-der-velostation-postparc-die-stadt-bern-will-mit-mehreren-massnahmen-die-sicherheit-in-den-velostationen-verbessern.jpg",
+              "kurz": "Ab 2. November sind die städtischen Velostationen nachts zu, der Zugangscode kommt per SMS, Ende 2026 folgen Videokameras.",
+              "summary": "Ab dem 2. November schliessen die städtischen Velostationen in Bern unter der Woche von 01.45 bis 05.00 Uhr und am Wochenende von 02.30 bis 05.00 Uhr; nur die Station Welle 7 bleibt durchgehend offen. Den Zugangscode gibt es neu über QR-Code und SMS, in den Stationen Postparc, Schanzenbrücke und Bollwerk gilt die Codepflicht ab 21.15 Uhr. Ende 2026 sollen Videokameras in Betrieb gehen.",
+              "gegenstimme": "Wer nach Mitternacht mit einem späten Zug ankommt, steht unter Umständen vor geschlossener Tür, und Videoüberwachung bleibt ein Eingriff in die Privatsphäre – auch mit verpixelten Gesichtern. Die Stadt hält dagegen, die Schliesszeiten seien auf den SBB-Fahrplan abgestimmt und die Aufnahmen auf unbediente Zeiten beschränkt.",
+              "sources": [
+                {
+                  "name": "Stadt Bern",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/massnahmen-zur-verbesserung-der-sicherheit-in-den-velostationen"
+                },
+                {
+                  "name": "Nau.ch (SDA)",
+                  "url": "https://www.nau.ch/politik/regional/bern-fuhrt-neue-sicherheitsmassnahmen-fur-velostationen-ein-67193825"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/bern-f%C3%BChrt-neue-sicherheitsmassnahmen-f%C3%BCr-velostationen-ein/92280939"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-schmidheiny-eternit-neapel-verjaehrt",
+              "slug": "schmidheiny-eternit-neapel-verjaehrt",
+              "title": "Eternit-Verfahren gegen Stephan Schmidheiny in Neapel verjährt",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://c.nau.ch/i/G5J8X16alpDb3ngyNELnGWRj4R0wxmQVdkoMezWK/1360/680/stephan-schmidheiny.jpg",
+              "kurz": "Das Berufungsgericht Neapel stellt das Verfahren wegen fahrlässiger Tötung eines Asbest-Arbeiters ein, weil es verjährt ist. Die Entschädigung an die Familie bleibt.",
+              "summary": "Das Schwurgericht zweiter Instanz in Neapel hat das Verfahren gegen den Schweizer Industriellen Stephan Schmidheiny wegen fahrlässiger Tötung eines Arbeiters der Eternit-Fabrik in Bagnoli wegen Verjährung eingestellt. Die zivilrechtlichen Entscheide, darunter die Entschädigung der Angehörigen, bestätigte es. Der Arbeiter war 2009 an einem Mesotheliom gestorben.",
+              "gegenstimme": "Opferanwalt Ezio Bonanni vom Asbest-Observatorium ONA: «Die Zeit hat die Straftat getilgt, aber nicht die Verantwortung.» Die Verteidigung sieht das anders und will vor dem Kassationsgericht einen Freispruch in der Sache erreichen; eine strafrechtliche Schuld ist mit der Verjährung nicht festgestellt.",
+              "sources": [
+                {
+                  "name": "Nau.ch (SDA)",
+                  "url": "https://www.nau.ch/news/europa/verfahren-gegen-stephan-schmidheiny-in-neapel-eingestellt-67194054"
+                },
+                {
+                  "name": "Il Sud 24",
+                  "url": "https://www.ilsud24.it/2026/10/27/eternit-bis-schmidheiny-evita-la-condanna-penale-la-prescrizione-chiude-il-processo/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-israel-wahl-patt-arabische-parteien",
+              "slug": "israel-wahl-patt-arabische-parteien",
+              "title": "Israel nach der Wahl: Patt der Lager, Rekord für arabische Parteien",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/fa165ea7-425e-4035-9790-a0fbe36afb8c/AAABoYAiS_o/AAABnSSvrFg/16x9-big/eisenkot-110.jpg?width=1280",
+              "kurz": "Laut Prognosen liegen die Lager von Netanyahu und Eisenkot gleichauf, beide beanspruchen die Regierung. Über 650'000 Stimmen werden noch gezählt.",
+              "summary": "Nach Prognosen der Sender Kanal 13 und Kan kommen das Lager von Premier Benjamin Netanyahu und jenes von Herausforderer Gadi Eisenkot auf je 51 der 120 Sitze; Likud bleibt mit 24 bis 27 Sitzen stärkste Partei vor Eisenkots Jaschar mit 21 bis 22. Die arabischen Parteien erreichen mit 17 bis 19 Sitzen einen Rekord. Die Wahlbeteiligung lag bei 77,7 Prozent, so hoch wie seit über 20 Jahren nicht.",
+              "gegenstimme": "Netanyahu verweist auf die Stärke des rechten Lagers, will eine «starke national-rechte Regierung» und nennt jede Regierung mit Unterstützung arabischer Parteien «schändlich». Aus Sicht vieler arabischer Wähler, die gezielt gegen Netanyahu und seine teils rechtsextremen Partner stimmten, ist dagegen gerade der Ausschluss ihrer Abgeordneten das Problem – ohne sie hat auch die Opposition keine Mehrheit.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/wahl-in-israel-die-arabischen-parteien-gewinnen-eisenkot-ist-in-der-zwickmuehle"
+                },
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-flavio-bolsonaro-flucht-usa",
+              "slug": "flavio-bolsonaro-flucht-usa",
+              "title": "Flávio Bolsonaro setzt sich nach Wahlniederlage in die USA ab",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇧🇷",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/a0e897.jpg",
+              "kurz": "Der unterlegene Präsidentschaftskandidat verlässt Brasilien trotz annulliertem Pass, Washington stellt ihm Visa aus. Lula nennt die Ausreise «schändlich».",
+              "summary": "Der rechte Senator Flávio Bolsonaro hat Brasilien nach seiner Wahlniederlage gegen Präsident Lula verlassen und ist laut einem US-Regierungsvertreter auf dem Weg in die USA; das US-Aussenministerium will ihm und seiner Familie Visa erteilen. Zuvor hatte er die Frist verstreichen lassen, seinen vom Obersten Gericht annullierten Pass abzugeben. Gegen ihn läuft ein Geldwäscherei-Verfahren rund um Wettfirmen, das er bestreitet.",
+              "gegenstimme": "Flávio Bolsonaro weist die Vorwürfe zurück; sein Wahlkampfchef Rogério Marinho verglich eine Oppositionsführung aus dem Ausland mit jener der Venezolanerin María Corina Machado. Lula und die Arbeiterpartei sehen darin eine Flucht vor der Justiz und verlangen Haftbefehl und eine Interpol-Fahndung.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nach-wahlniederlage-flavio-bolsonaro-soll-in-die-usa-geflohen-sein"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-cherson-waffenruhe-ausgeweitet",
+              "slug": "cherson-waffenruhe-ausgeweitet",
+              "title": "Waffenruhe um Oleschky auf ganze Region Cherson ausgeweitet",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
+              "kurz": "Die von Melania Trump vermittelte Feuerpause gilt nun in der ganzen Region Cherson bis 1. November. Hilfskonvois und Evakuierungen sollen folgen.",
+              "summary": "Die humanitäre Waffenruhe für die russisch besetzte Stadt Oleschky gilt laut US-First-Lady Melania Trump neu in der ganzen Region Cherson, um Hilfskonvois sichere Passage zu ermöglichen. Ukrainische Behörden bestätigten, dass auch der Beschuss von Cherson-Stadt aufgehört habe; Verstösse wurden bisher nicht gemeldet. Die Feuerpause dauert bis 1. November, 21.59 Uhr Schweizer Zeit.",
+              "gegenstimme": "Präsident Selenskyj warnt, die von russischen Truppen entminten Routen führten nach Russland, nicht in ukrainisch kontrolliertes Gebiet. Der Kreml und Kiews Aussenminister Andrij Sybiha sehen in der Feuerpause dagegen ein mögliches Modell für weitere Schritte; Kiews Unterhändler David Arachamija spricht von der grössten Deeskalation seit 2022.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-waffenruhe-laut-melania-trump-ueber-oleschky-hinaus-ausgeweitet-a-c1483e83-6ddc-435f-9578-f2c7e0349f9f"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-orban-uno-generalsekretaer",
+              "slug": "orban-uno-generalsekretaer",
+              "title": "Trump-Regierung bringt Orbán als Uno-Generalsekretär ins Spiel",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇳",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/10/27/f9895e75-d348-4f7c-9ef5-99698df57aa7.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3201,1801,x0,y167&wmark=nzz",
+              "kurz": "Laut «Wall Street Journal» wirbt Washington für den abgewählten Viktor Orbán als Uno-Generalsekretär – als gemeinsamen Kandidaten von USA, Russland und China.",
+              "summary": "Vertreter der Trump-Regierung unterstützen laut «Wall Street Journal» eine Kandidatur des abgewählten ungarischen Ex-Premiers Viktor Orbán für die Nachfolge von Uno-Generalsekretär António Guterres; Quellen in den USA, Russland und China hätten dies bestätigt. Ein endgültiger Entscheid ist laut Bericht nicht gefallen. Weisses Haus und Peking haben nichts bestätigt.",
+              "gegenstimme": "Ein Beamter des US-Aussenministeriums räumt laut WSJ ein, die Idee klinge zunächst verrückt, doch wenn USA, Russland und China im Sicherheitsrat dasselbe wollten, setzten sie es meist durch. Polens Aussenminister Radosław Sikorski sieht keine Unterstützung Polens, der ukrainische Aussenminister Sybiha spottet über Orbáns «meisterhafte Veto- und Erpressungsfähigkeiten».",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/trump-erwaegt-orban-als-uno-generalsekretaer-ld.10046186"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-zschaepe-mindesthaft-24-jahre",
+              "slug": "zschaepe-mindesthaft-24-jahre",
+              "title": "NSU-Terroristin Zschäpe muss mindestens 24 Jahre in Haft bleiben",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/24a6e470-f85c-4803-b95a-c64fff5b9586/AAABle8YRMc/AAABnSSvrFg/16x9-big/beate-zschaepe-103.jpg?width=1280",
+              "kurz": "Das OLG München lehnt die vorzeitige Entlassung der NSU-Rechtsterroristin ab: wegen aussergewöhnlich hoher Tatschuld frühestens 2035.",
+              "summary": "Das Oberlandesgericht München hat die Mindestverbüssungsdauer der lebenslangen Haftstrafe von Beate Zschäpe auf 24 Jahre festgelegt und eine Entlassung auf Bewährung abgelehnt; frei käme sie damit frühestens 2035. Die heute 51-Jährige sitzt seit November 2011 in Haft. Der Beschluss ist noch nicht rechtskräftig.",
+              "gegenstimme": "Die Verteidigung hatte höchstens 20 Jahre gefordert: Zschäpe habe ihre Beteiligung an den Morden eingeräumt, Scham bekundet, sich vom nationalsozialistischen Gedankengut distanziert und an einem Aussteigerprogramm teilgenommen – das Gericht erkennt dies ausdrücklich an. Es hält aber fest, diese Umstände wögen die «aussergewöhnlich hohe Tatschuld» nicht auf.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/inland/zschaepe-gericht-gegen-vorzeitige-haftentlassung-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6ae0ebe9f74d161423be0940/rechtsterroristin-aussergewoehnlich-hohe-tatschuld-so-lange-soll-beate-zschaepe-in-haft-bleiben.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-anthropic-boersenprospekt",
+              "slug": "anthropic-boersenprospekt",
+              "title": "Anthropic legt Börsenprospekt vor: Milliardenverluste, Gründer behalten Kontrolle",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/f60a01.jpg",
+              "kurz": "Der Claude-Entwickler strebt an der New Yorker Börse eine Bewertung von bis zu 2000 Milliarden Dollar an – trotz hoher Verluste. Die UBS ist im Konsortium.",
+              "summary": "Anthropic, Entwickler der KI-Modelle Claude, hat den Prospekt für seinen Börsengang an der New York Stock Exchange veröffentlicht; ein Datum steht noch nicht fest. Laut SRF weist das Unternehmen für das erste Halbjahr 2026 über 16 Milliarden Dollar Umsatz und mehr als 80 Milliarden Dollar Verlust aus und strebt eine Bewertung von bis zu 2000 Milliarden Dollar an. Über fünf Aktienklassen sichern sich die sieben Gründer 50,1 Prozent der Stimmrechte.",
+              "gegenstimme": "Kritiker sehen in der Mehrklassenstruktur eine Schwächung der Aktionärsrechte und in der Kombination aus Rekordbewertung und Milliardenverlusten ein Blasenrisiko. Befürworter verweisen auf das Umsatzwachstum von 41 Millionen Dollar vor drei Jahren auf über 16 Milliarden in einem Halbjahr; eine Analyse der «Financial Times» nennt den Prospekt «gewagt, aber vernünftig».",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/anthropic-vor-boersengang-anthropic-boersengang-macht-firmengruender-zu-milliardaeren"
+                },
+                {
+                  "name": "Golem (Financial Times)",
+                  "url": "https://www.golem.de/news/ki-gewagt-aber-vernuenftig-was-anthropics-boersenprospekt-verraet-2610-214563.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-28-wawrinka-karriereende-basel",
+              "slug": "wawrinka-karriereende-basel",
+              "title": "Stan Wawrinka beendet Karriere in Basel",
+              "date": "2026-10-28",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🎾",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_sport/c55823.jpg",
+              "kurz": "Mit 5:7, 6:7 gegen Jiri Lehecka endet an den Swiss Indoors die Karriere des dreifachen Grand-Slam-Siegers nach 985 Matches.",
+              "summary": "Stan Wawrinka hat am Dienstagabend an den Swiss Indoors in Basel sein letztes Profispiel bestritten und in der ersten Runde gegen den Tschechen Jiri Lehecka (ATP 21) 5:7, 6:7 (2:7) verloren. Der 41-jährige Waadtländer beendet damit seine Karriere mit 985 Matches, 16 Turniersiegen, drei Grand-Slam-Titeln, Olympiagold und dem Davis-Cup-Sieg.",
+              "gegenstimme": "Nüchtern betrachtet liegen Wawrinkas grösste Erfolge rund ein Jahrzehnt zurück, und zuletzt war er seinen Gegnern auf der Tour meist klar unterlegen. Gerade das Durchhalten bis 41, trotz Verletzungen und Rückschlägen, macht für viele Fans seine Karriere aus.",
+              "sources": [
+                {
+                  "name": "SRF Sport",
+                  "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-in-basel-ende-einer-eindruecklichen-karriere-wawrinka-unterliegt-lehecka"
+                },
+                {
+                  "name": "watson (SDA)",
+                  "url": "https://www.watson.ch/schweiz/sport/771749820-stan-wawrinka-beendet-karriere-mit-niederlage-in-basel"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-10-27",
       "editions": {
