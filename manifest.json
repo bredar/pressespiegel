@@ -1,6 +1,438 @@
 {
-  "updated": "16:24 UTC",
+  "updated": "05:19 UTC",
   "days": [
+    {
+      "date": "2026-10-29",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-10-29-cassis-nordkorea-raketentest",
+              "slug": "cassis-nordkorea-raketentest",
+              "title": "Cassis in Nordkorea – Pjöngjang feuert am selben Tag Raketen ab",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🇰🇵",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/9b4ff8.jpg",
+              "kurz": "Bundesrat Ignazio Cassis besucht als erster Bundesrat seit 2003 Nordkorea und eröffnet dort ein Schweizer Büro; Nordkorea testet gleichzeitig ballistische Kurzstreckenraketen.",
+              "summary": "Aussenminister Ignazio Cassis reist am 29. und 30. Oktober nach Nordkorea und danach bis 31. Oktober nach Südkorea. Am 30. Oktober eröffnet er offiziell ein diplomatisches Büro in Pjöngjang, das der Botschaft in Peking unterstellt ist; das frühere DEZA-Büro war im März 2020 geschlossen worden. Geplant sind Treffen mit Aussenministerin Choe Son-hui und einem Vertreter des Zentralkomitees der Partei. Laut südkoreanischem Generalstab feuerte Nordkorea am 29. Oktober aus der Region Wonsan mehrere ballistische Kurzstreckenraketen ab.",
+              "gegenstimme": "Einwand: Ein Ministerbesuch verschafft dem Regime Kim Jong Uns Legitimität, während es Raketen testet und UNO-Resolutionen verletzt, und der konkrete Nutzen für die Schweiz ist offen. Befürworter verweisen auf die Tradition der Guten Dienste und die Schweizer Rolle in der Waffenstillstandskommission NNSC in Panmunjom.",
+              "sources": [
+                {
+                  "name": "swissinfo",
+                  "url": "https://www.swissinfo.ch/eng/foreign-affairs/cassis-visits-north-korea-as-swiss-mission-reopens/92289729"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/cassis-besucht-nordkorea-was-bringt-der-schweiz-ein-buero-in-nordkorea"
+                },
+                {
+                  "name": "EDA (Medienmitteilung)",
+                  "url": "https://www.pubt.io/view/4F0D500AFCB3B07402AF773012052403BB38D8EA"
+                },
+                {
+                  "name": "Yonhap",
+                  "url": "https://en.yna.co.kr/view/AEN20261019003551315"
+                },
+                {
+                  "name": "The Independent/Reuters",
+                  "url": "https://www.independent.co.uk/asia/east-asia/north-korea-projectile-ballistic-missile-south-korea-b3075333.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-serbischer-botschafter-bern-strafanzeige",
+              "slug": "serbischer-botschafter-bern-strafanzeige",
+              "title": "Serbiens Botschafter in Bern im Visier der Staatsanwaltschaft",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/0056e1.jpg",
+              "kurz": "Nach den Wahlen vom 25. Oktober prüft Serbiens Staatsanwaltschaft Strafanzeigen gegen zehn Botschafter, darunter jenen in Bern, wegen Behinderung von Auslandwählern.",
+              "summary": "Die serbische Staatsanwaltschaft für organisierte Kriminalität prüft Anzeigen gegen Aussenminister Marko Đurić und zehn Botschafter, darunter Ivan Trifunović in Bern. Vorgeworfen werden Amtsmissbrauch und die Verletzung des Wahlrechts. In der Schweiz konnte nur in Bern und Zürich gewählt werden; Wählende standen teils acht Stunden an, registrierte Personen wurden laut SRF abgewiesen. Trifunović spricht von einer «Hexenjagd».",
+              "gegenstimme": "Botschafter Trifunović weist die Vorwürfe zurück und sprach zuvor von «Fake News». Aus seiner Sicht lässt sich argumentieren: Logistische Engpässe bei einem unerwartet grossen Andrang seien kein Beweis für gezielte Behinderung. Wer genau welche Entscheide zu den Wahllokalen traf, ist öffentlich nicht dokumentiert.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/serbische-wahlen-botschafter-in-bern-unter-verdacht-806383606395"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/riesige-wahlbeteiligung-wahl-in-serbien-aufregung-in-der-schweizer-diaspora"
+                },
+                {
+                  "name": "Insajderi",
+                  "url": "https://insajderi.org/de/Strafanzeigen-gegen-Djuric-und-neun-serbische-Botschafter--darunter-den-Botschafter-in-den-USA/"
+                },
+                {
+                  "name": "RTS (Serbien)",
+                  "url": "https://www.rts.rs/vesti/hronika/6070648/krivicne-prijave-protiv-djurica-sutanovca-i-jos-devet-ambasadora-zbog-sumnje-na-krsenje-izbornih-prava.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-svp-findungskommission-hearings-schnegg",
+              "slug": "svp-findungskommission-hearings-schnegg",
+              "title": "SVP prüft acht Bundesratsanwärter – Berner Regierungspräsident Schnegg im Feld",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "morning",
+              "kurz": "Die Findungskommission der SVP durchleuchtet bis 13. November acht Kandidierende für die Nachfolge von Guy Parmelin, darunter den Berner Regierungspräsidenten Pierre-Alain Schnegg.",
+              "summary": "Die SVP-Findungskommission unter Caspar Baader lädt die acht Kandidierenden zu Hearings und prüft Betreibungsregister, Strafregister und persönliche Fragen. Im Rennen sind Céline Amaudruz, Marco Chiesa, Pierre-Alain Schnegg, Rémy Wyssmann, Franz Ruppen, Thomas Aeschi, Pascal Gallati und Jean-Luc Graber. Die Fraktion bestimmt das Ticket am 20. November, die Wahl ist am 9. Dezember.",
+              "gegenstimme": "Gegen Schnegg lässt sich einwenden, dass Bern mit Albert Rösti bereits einen SVP-Bundesrat stellt. Zudem ist die Bundesversammlung nicht an das SVP-Ticket gebunden, und die strengen Hearings können auch als Versuch gelesen werden, unbequeme Kandidaturen früh auszusortieren.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/svp-bundesratskandidaten-baader-laedt-gallati-graber-und-co-zum-hearing-103657735"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-bundesratswahl-marco-chiesa-und-pierre-alain-schnegg-kandidieren"
+                },
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/pierre-alain-schnegg-stellt-sich-f%c3%bcr-bundesratswahl-zur-verf%c3%bcgung/92259216"
+                },
+                {
+                  "name": "Schweiz heute",
+                  "url": "https://www.schweizheute.ch/schweiz/svp-nachfolge-von-guy-parmelin-kandidaten-draengen-ins-rennen-ld.4255251"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-tessin-polizisten-entlassen-fall-gobbi",
+              "slug": "tessin-polizisten-entlassen-fall-gobbi",
+              "title": "Tessin entlässt zwei Kantonspolizisten – Spur führt zum Fall Gobbi",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "👮",
+              "edition": "morning",
+              "image": "https://cleaver.cue.rsi.ch/public/info/ticino-grigioni-e-insubria/4031716-yaram-Ti_Press_SA_TPR169069-2-1-1.jpg/alternates/r16x9_1000/4031716-yaram-Ti_Press_SA_TPR169069-2-1-1.jpg",
+              "kurz": "Der Tessiner Staatsrat hat zwei Polizisten fristlos entlassen, gegen die wegen Verletzung des Amtsgeheimnisses ermittelt wird; es geht um Lecks zum Unfall von Staatsrat Norman Gobbi.",
+              "summary": "Die Tessiner Regierung hat zwei Angehörige der Kantonspolizei mit sofortiger Wirkung entlassen; die Entscheide sind noch nicht rechtskräftig. Gegen den einen wird wegen Verletzung des Amtsgeheimnisses, Sachbeschädigung, Hinderung einer Amtshandlung und Verstössen gegen das Waffengesetz ermittelt, er soll auf einen Radar in Monteggio geschossen haben. Gegen den anderen laufen Ermittlungen wegen Verletzung des Amtsgeheimnisses und Begünstigung. Laut RSI geht es um weitergegebene Informationen zum Verkehrsunfall von Lega-Staatsrat Norman Gobbi im November 2023 in der Leventina.",
+              "gegenstimme": "Die Anwälte der beiden prüfen eine Anfechtung. Verteidiger Andrea Bersani kritisiert, dass die Kündigung vor Abschluss des Strafverfahrens erfolgte und sein Mandant davon gleichzeitig mit der Medienmitteilung erfuhr. Es gilt die Unschuldsvermutung. Offen ist zudem, wie unabhängig eine Untersuchung sein kann, wenn Gobbi als Sicherheitsdirektor selbst der Polizei vorsteht.",
+              "sources": [
+                {
+                  "name": "RSI",
+                  "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Licenziati-due-agenti-della-polizia-cantonale--4200861.html"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/kanton-tessin-zwei-polizisten-per-sofort-entlassen-spur-fuehrt-zum-fall-gobbi-103658071"
+                },
+                {
+                  "name": "Nau.ch/Keystone-SDA",
+                  "url": "https://www.nau.ch/news/schweiz/schwere-vorwurfe-verfahren-gegen-zwei-tessiner-polizisten-eroffnet-67194577"
+                },
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/schwere-vorw%C3%BCrfe:-verfahren-gegen-zwei-tessiner-polizisten-er%C3%B6ffnet/92291112"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-bvg-mehrere-jobs-vernehmlassung",
+              "slug": "bvg-mehrere-jobs-vernehmlassung",
+              "title": "Pensionskasse für alle Jobs: Bundesrat schickt Reform in die Vernehmlassung",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "👛",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/f56575d.jpg",
+              "kurz": "Wer mehrere Stellen hat, soll künftig für jeden Lohn über der Eintrittsschwelle obligatorisch in der Pensionskasse versichert sein.",
+              "summary": "Der Bundesrat hat am 28. Oktober eine Vernehmlassung zu Verordnungsänderungen in der beruflichen Vorsorge eröffnet, sie dauert bis 17. Februar 2027. Die Unterscheidung zwischen Haupt- und Nebenerwerb soll für Angestellte wegfallen: Jeder Lohn über der Eintrittsschwelle von 22'680 Franken wäre obligatorisch versichert. Betroffen wären gut 100'000 Personen, rund 1,2 Milliarden Franken Lohn kämen neu in die zweite Säule.",
+              "gegenstimme": "Einwand aus Arbeitgebersicht: Mehr Obligatorium heisst höhere Lohnnebenkosten und mehr Aufwand bei Kleinpensen. Zudem schmälern Pensionskassenbeiträge den Nettolohn gerade bei tiefen Einkommen. Dafür spricht, dass Menschen mit mehreren Teilzeitjobs heute Vorsorgelücken haben.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/teilzeit-und-nebeneinkuenfte-bundesrat-will-vorsorge-fuer-menschen-mit-mehreren-jobs-verbessern"
+                },
+                {
+                  "name": "BSV (Medienmitteilungen)",
+                  "url": "https://www.bsv.admin.ch/de/medienmitteilungen"
+                },
+                {
+                  "name": "Fedlex (Vernehmlassungsentwurf)",
+                  "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/dl/proj/2026/68/cons_1/doc_6/de/pdf-a/fedlex-data-admin-ch-eli-dl-proj-2026-68-cons_1-doc_6-de-pdf-a.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-suhrental-trinkwasser-knapp",
+              "slug": "suhrental-trinkwasser-knapp",
+              "title": "Suhrental: Trinkwasser so knapp wie nie – Verbote und Bussen",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "💧",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/0b91641.jpg",
+              "kurz": "Im Aargauer Suhrental hat der Grundwasserverband den «Krisenfall Wasser» ausgerufen; rund 15 Gemeinden sollen Wassersparen verfügen und Verstösse büssen.",
+              "summary": "Der Grundwasserpegel im Suhrental sinkt seit 2024, der trockene Sommer 2026 hat die Lage verschärft. Der Grundwasserverband hat Eskalationsstufe 2 von 5 ausgerufen und empfiehlt «drastische Massnahmen». Betroffen sind vor allem die Gemeinden zwischen Kölliken und Reitnau: Autowaschen und das Abspritzen von Plätzen und Dächern sollen verboten werden, Firmen müssen Wasser sparen.",
+              "gegenstimme": "Kritisch lässt sich fragen, ob sich die Region zu lange auf das Wasser aus dem Sempachersee verlassen hat. Für Betriebe, die auf Wasser angewiesen sind, sind Sparvorgaben ein Kostenfaktor. Der Verband selbst sagt, er sei von der Geschwindigkeit der Entwicklung überrascht worden.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/grundwasser-fehlt-im-aargau-suhrental-schlaegt-alarm-trinkwasser-so-knapp-wie-noch-nie"
+                },
+                {
+                  "name": "Aargauer Zeitung",
+                  "url": "https://www.aargauerzeitung.ch/aargau/wyna-suhre/suhrental-grundwasserverband-warnt-vor-wasserknappheit-ld.4256830"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/trinkwasser-knapp-aargauer-verbieten-autowaschen-hohe-bussen-67195038"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-israel-likud-wahlbetrug-vorwurf",
+              "slug": "israel-likud-wahlbetrug-vorwurf",
+              "title": "Israel: Likud wirft arabischen Parteien Wahlbetrug vor",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "image": "https://images.welt.de/6ae2269421fd087fed7edbf4/426ddb4a15df31d04805bac0f89235bb-master/ci16x9-w1200/dpa-com-261028-99-85120-jpg",
+              "kurz": "Netanyahus Likud behauptet, die Wahl sei von arabischen Parteien «gestohlen» worden; die Wahlkommission sieht keine Hinweise auf systematische Manipulation.",
+              "summary": "Der Likud wirft den arabischen Parteien Ra'am und Vereinte Liste Stimmenkauf, Drohungen, Fälschungen und doppelte Stimmabgabe vor und hat Polizei, Inlandgeheimdienst Shin Bet und Wahlkommission Material übergeben. Die beiden Parteien kommen laut Hochrechnungen auf rekordhohe 19 Sitze. Nach rund 90 Prozent ausgezählter Stimmen liegt Netanyahus Block bei 53, das Lager von Gadi Eisenkot bei 48 Sitzen; niemand erreicht die Mehrheit von 61.",
+              "gegenstimme": "Die Wahlkommission prüft die Beschwerde nach Standardverfahren, sieht aber keine Belege für systematische Manipulation. Arabische Parteien und die Opposition werten die Vorwürfe als Versuch, das Resultat zu delegitimieren. Israelische Medien berichten, die Erzählung der «gestohlenen Wahl» sei schon vor dem Wahltag vorbereitet worden.",
+              "sources": [
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/likud-claims-election-stolen-by-arab-parties-demands-investigation-into-alleged-fraud/"
+                },
+                {
+                  "name": "Tagesspiegel/dpa",
+                  "url": "https://www.tagesspiegel.de/internationales/liveblog/wahl-gestohlen-netanjahus-likud-partei-wirft-arabischen-parteien-wahlbetrug-vor-16206146.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae2269421fd087fed7edbf4/israel-netanjahus-likud-wirft-arabischen-parteien-wahlbetrug-vor-und-kuendigt-beweise-an.html"
+                },
+                {
+                  "name": "TRT World",
+                  "url": "https://www.trtworld.com/article/aa57516f9e69"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-iran-diplomatie-midterms-angriffe",
+              "slug": "iran-diplomatie-midterms-angriffe",
+              "title": "Iran-Krieg: Diplomatie-Signale und Angriffsdrohung nach den Midterms",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇷",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/80010373-4c1f-4e0d-9a8c-5d0a23ba1edf_w1200_r1.778_fpx49.36_fpy50.jpg",
+              "kurz": "Die USA sondieren laut Medien Gespräche mit Teheran, warnen aber Verbündete vor möglichen neuen Schlägen nach den Zwischenwahlen; Hegseth entlässt den obersten Militärplaner.",
+              "summary": "Laut «Wall Street Journal» schrieb Vizepräsident JD Vance an Mohsen Resaei, Sekretär im iranischen Sicherheitsrat, um einen Rahmen für Gespräche auszuloten. Präsident Trump bestreitet Friedensgespräche. Gleichzeitig haben die USA laut AP Verbündete gewarnt, sich nach den Midterms vom 3. November auf mögliche Angriffe vorzubereiten. Verteidigungsminister Pete Hegseth hat den obersten Militärplaner des Pentagons entlassen, ohne öffentliche Begründung.",
+              "gegenstimme": "Teheran präsentiert sich gesprächsbereit: Aussenminister Araghchi sagt, Iran stehe wegen seines 7-Tage-Plans für die Strasse von Hormus in engem Kontakt mit Vermittlern. Einwand: Wenn Angriffe erst nach den Wahlen erwogen werden, folgen Kriegsentscheide dem Wahlkalender. Umgekehrt argumentieren Befürworter harter Linie, nur militärischer Druck bringe Iran zu Zugeständnissen.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-konflikt-usa-versuchen-es-mit-diplomatie-doch-nach-midterms-drohen-neue-angriffe-a-8c382815-bfe1-452d-939e-7c837e13805d"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/hegseth-general-firing-iran-war-strikes-6726895f0c7fe93c7cbc94cae0ff7621"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae28f6d2b12699033dfd8b3/iran-krieg-frieden-oder-angriff-vance-schreibt-irans-sicherheitsratschef-resaei.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-eu-kanada-assoziierte-mitgliedschaft-gestrichen",
+              "slug": "eu-kanada-assoziierte-mitgliedschaft-gestrichen",
+              "title": "EU streicht «assoziierte Mitgliedschaft» für Kanada aus Gipfelerklärung",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇪🇺",
+              "edition": "morning",
+              "image": "https://images.euronews.com/articles/stories/09/92/17/93/1200x675_cmsv2_589af327-2f1c-5cd2-bc7d-8cbed3f46155-9921793.jpg",
+              "kurz": "Auf Druck Deutschlands verschwindet von der Leyens Idee einer assoziierten EU-Mitgliedschaft Kanadas aus der Erklärung zum Gipfel in Montreal.",
+              "summary": "Im Entwurf der Abschlusserklärung zum EU-Kanada-Gipfel in Montreal ist statt von «assoziierter Mitgliedschaft» nur noch von einer «immer engeren Anbindung» die Rede. Bis zum Gipfel 2027 soll ein Konzept dafür entstehen. Auch Zusagen zur Finanzmarktintegration wurden abgeschwächt. Bundeskanzler Friedrich Merz und weitere Regierungschefs setzten die Streichung durch; neben Deutschland hatten auch Frankreich, Italien und Griechenland Einwände.",
+              "gegenstimme": "Berlin argumentiert, der Begriff komme in den EU-Verträgen nicht vor und habe unklare rechtliche Folgen; zuerst müsse man klären, was die Zusammenarbeit konkret bedeute. Befürworter sehen eine verpasste Chance, ein enges Bündnis demokratischer Staaten jenseits des Beitritts zu schaffen. Kanadas Premier Mark Carney sagt, die Begrifflichkeit sei Sache der EU.",
+              "sources": [
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/10/28/eu-removes-mention-of-associate-membership-from-canada-declaration"
+                },
+                {
+                  "name": "Spiegel/dpa",
+                  "url": "https://www.spiegel.de/ausland/kanada-und-eu-plan-von-ursula-von-der-leyen-fuer-sonderstatus-offenbar-gescheitert-a-0e1cfa00-bd6e-4961-8526-ebb68bab3638"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae2826b2b12699033dfd888/erst-konzept-entwickeln-niederlage-fuer-von-der-leyen-assoziierte-eu-mitgliedschaft-kanadas-auf-eis-gelegt.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-grossbritannien-ukraine-10-milliarden",
+              "slug": "grossbritannien-ukraine-10-milliarden",
+              "title": "Grossbritannien sagt der Ukraine 10 Milliarden Pfund zu",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/bc17db.jpg",
+              "kurz": "London schnürt mit 10 Milliarden Pfund das grösste britische Finanzpaket für die Ukraine seit Kriegsbeginn.",
+              "summary": "Premierminister Andy Burnham und Schatzkanzler John Healey kündigten das Paket im Budget an. Es umfasst 7 Milliarden Pfund Wirtschaftshilfe über drei Jahre, 3 Milliarden Pfund Exportfinanzierung und 500 Millionen Pfund für die Luftabwehr in diesem Winter. Präsident Selenski nannte den Schritt «stark und sehr rechtzeitig».",
+              "gegenstimme": "Ein grosser Teil sind Kredite und Garantien, nicht Zuschüsse, was die Schuldenlast der Ukraine erhöht. Angesichts knapper britischer Staatsfinanzen stellt sich die Frage nach den Prioritäten. Moskau bezeichnet westliche Hilfe regelmässig als Verlängerung des Krieges; Befürworter sehen darin eine Voraussetzung für Verhandlungen aus einer Position der Stärke.",
+              "sources": [
+                {
+                  "name": "GOV.UK",
+                  "url": "https://www.gov.uk/government/news/uk-boosts-support-to-ukraine-with-10-billion-package"
+                },
+                {
+                  "name": "The Independent",
+                  "url": "https://www.the-independent.com/news/uk/home-news/zelensky-ukraine-andy-burnham-budget-b3075023.html"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-grossbritannien-sagt-der-ukraine-zehn-milliarden-pfund-zu"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-sudan-nyala-markt-drohnenangriff",
+              "slug": "sudan-nyala-markt-drohnenangriff",
+              "title": "Sudan: Drohnenangriff der Armee auf Markt in Nyala fordert Dutzende Tote",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇸🇩",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2017-09-19T191311Z_1409883857_RC1118FA56E0_RTRMADP_3_SUDAN-USA-SANCTIONS-1793235374.jpg?resize=1920%2C1440",
+              "kurz": "Bei einem Drohnenangriff der sudanesischen Armee auf einen Markt in Nyala sind laut Ärzte ohne Grenzen mindestens 36 Menschen getötet worden, eine Menschenrechtsgruppe spricht von über 100 Toten.",
+              "summary": "Am Montagabend, 26. Oktober, traf ein Drohnenangriff der sudanesischen Streitkräfte einen belebten Markt in Nyala, der Hauptstadt von Süd-Darfur und faktischen Machtzentrale der RSF-Miliz. Ein zweiter Angriff traf ein Wohnviertel. Das von MSF unterstützte Spital erhielt 36 Leichen, 21 davon in Zivilkleidung, und über 150 Verletzte. Die Gruppe Emergency Lawyers zählt mehr als 100 Tote.",
+              "gegenstimme": "In den geprüften Quellen findet sich keine Stellungnahme der Armee; Nyala ist das Machtzentrum der RSF. Augenzeugen berichten, dass sich auch RSF-Kämpfer auf dem Markt aufhielten. MSF hält fest, dass beide Kriegsparteien zivile Ziele angreifen; die RSF beschoss in den letzten Tagen Strominfrastruktur in mehreren Bundesstaaten.",
+              "sources": [
+                {
+                  "name": "Ärzte ohne Grenzen (MSF)",
+                  "url": "https://www.doctorswithoutborders.org/latest/sudan-drone-strike-nyala-market-causes-mass-casualties"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/sudan-darfur-nyala-market-attack-012abd09b3cd9ca20a733f5eb114d588"
+                },
+                {
+                  "name": "NBC News",
+                  "url": "https://www.nbcnews.com/world/africa/100-people-killed-sudanese-army-drone-attack-market-says-sudanese-righ-rcna606044"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-fed-leitzins-unveraendert-midterms",
+              "slug": "fed-leitzins-unveraendert-midterms",
+              "title": "US-Notenbank lässt Leitzins trotz Trumps Druck unverändert",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "💵",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/04a5db.jpg",
+              "kurz": "Die Fed belässt den Leitzins bei 3,75 bis 4 Prozent; zwei Mitglieder hätten lieber erhöht, Präsident Trump wollte eine Senkung.",
+              "summary": "Der Offenmarktausschuss der Fed entschied mit 10 zu 2 Stimmen, den Leitzins unverändert zu lassen. Die beiden Abweichler signalisierten Bereitschaft zu einer Erhöhung. Fed-Chef Kevin Warsh will mehr Daten abwarten. Die Teuerung stieg im September auf 3,7 Prozent, getrieben von Energiepreisen.",
+              "gegenstimme": "Trump fordert seit Monaten tiefere Zinsen, um Wirtschaft und Märkte vor den Midterms zu stützen. Dagegen spricht, dass eine Senkung bei steigender Inflation die Glaubwürdigkeit der Notenbank beschädigen würde. Die zwei Stimmen für eine Erhöhung zeigen, dass ein Teil des Gremiums die Teuerungsgefahr höher gewichtet.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/zinsen-in-den-usa-fed-laesst-leitzins-vor-us-zwischenwahlen-unveraendert"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-alphabet-q3-suchwerbung-aktie",
+              "slug": "alphabet-q3-suchwerbung-aktie",
+              "title": "Alphabet enttäuscht bei der Werbung – Aktie fällt fast 10 Prozent",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🔍",
+              "edition": "morning",
+              "kurz": "Googles Mutterkonzern verfehlt im dritten Quartal die Erwartungen im Werbegeschäft; Anleger fürchten, dass KI-Chatbots die Suche verdrängen.",
+              "summary": "Alphabet erzielte im dritten Quartal einen Umsatz von 127,6 Milliarden Dollar, knapp unter den Erwartungen. Die Sparte Services, vor allem Werbung, brachte 96,3 Milliarden Dollar und lag über 2 Milliarden unter den Prognosen. Die Aktie verlor nachbörslich fast 10 Prozent. Gleichzeitig stiegen die Investitionen in KI-Rechenzentren auf über 51 Milliarden Dollar im Quartal.",
+              "gegenstimme": "Für Alphabet spricht das starke Cloud-Geschäft mit über 30 Milliarden Dollar Umsatz; die Investitionen sollen sich langfristig auszahlen, und ein Quartal macht noch keinen Trend. Skeptiker wie D.A. Davidson sagen, Google müsse nun beweisen, dass die Suche nicht dauerhaft an Chatbots verliert.",
+              "sources": [
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/10/28/alphabet-q3-earnings-search-ai.html"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/google-earnings-q3-revenue-profit-ai-alphabet-1acf6aff00d4dc084c5243d613307388"
+                },
+                {
+                  "name": "Investing.com",
+                  "url": "https://de.investing.com/news/stock-market-news/alphabetaktie-bricht-nachborslich-ein-schwache-q3zahlen-und-explodierende-investitionsausgaben-belasten-93CH-3730303"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-apple-macbook-pro-touchscreen",
+              "slug": "apple-macbook-pro-touchscreen",
+              "title": "Apple bringt das erste MacBook mit Touchscreen",
+              "date": "2026-10-29",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/af31f398-dd1b-443d-b485-cf251e33dfc3_w1200_r1.778_fpx44_fpy41.jpg",
+              "kurz": "Apple bricht mit einer jahrelangen Linie und lanciert ein MacBook Pro mit berührungsempfindlichem OLED-Bildschirm – zu höheren Preisen.",
+              "summary": "Apple hat am Mittwoch ein neu gestaltetes MacBook Pro mit OLED-Touchscreen vorgestellt. Das 14-Zoll-Modell kostet in den USA ab 2899 Dollar, das 16-Zoll-Modell ab 3399 Dollar; in Deutschland beginnt der Preis bei 3299 Euro. Tastatur und Trackpad bleiben, neu sind eine Dynamic Island und ein wieder leuchtendes Apple-Logo. Vorbestellungen laufen, ausgeliefert wird ab 6. November.",
+              "gegenstimme": "Apple hatte Touchscreens bei Laptops jahrelang als unergonomisch abgelehnt; Man kann darin eine späte Anpassung an Windows-Geräte sehen, und die Preise sind gestiegen. Für das Gerät sprechen die OLED-Technik und die Annäherung an das iPad.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/netzwelt/gadgets/macbook-apple-bringt-seinen-ersten-laptop-mit-touchscreen-heraus-a-1ec3b0eb-77ff-4ca5-8ae1-1e96e6c99bba"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell"
+                },
+                {
+                  "name": "Fox Business",
+                  "url": "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-10-28",
       "editions": {
