@@ -1,5 +1,5 @@
 {
-  "updated": "05:19 UTC",
+  "updated": "11:18 UTC",
   "days": [
     {
       "date": "2026-10-29",
@@ -426,6 +426,414 @@
                 {
                   "name": "Fox Business",
                   "url": "https://www.foxbusiness.com/technology/apple-breaks-longtime-macbook-policy-introduces-touchscreen-laptops-higher-prices"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:30",
+          "articles": [
+            {
+              "id": "2026-10-29-maghreb-intensivtaeter-polizei-thurgau",
+              "slug": "maghreb-intensivtaeter-polizei-thurgau",
+              "title": "Junge Asylsuchende aus dem Maghreb: Polizei spricht von Dauerbelastung",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🚔",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/b60bce.jpg",
+              "kurz": "Die Thurgauer Kantonspolizei zählt 2026 bereits knapp 900 Delikte, mehrheitlich von jungen Männern aus Algerien, Marokko und Tunesien; die Taskforce des Bundes greift nur begrenzt.",
+              "summary": "Laut einer Recherche der SRF-«Rundschau» registrierte die Kantonspolizei Thurgau 2025 rund 1000 Delikte, mehrheitlich begangen von jungen Männern aus Marokko, Tunesien und Algerien; 2026 sind es bereits knapp 900. Von den 15'667 Asylgesuchen bis Ende September 2026 stammen 17 Prozent von Personen aus dem Maghreb, fast alle werden abgelehnt. Gemäss vom «Blick» publizierten Bundeszahlen wurden 2024 rund 80 Prozent der Nordafrikaner mit Asylstatus einer Straftat beschuldigt.",
+              "gegenstimme": "Asylorganisationen wie asile.ch kritisieren die 80-Prozent-Zahl als methodisch fragwürdig: «beschuldigt» heisst nicht verurteilt, und es würden unterschiedliche Personengruppen und Zeiträume vermischt. Von der Gegenseite kommt der Vorwurf, Bund und Kantone handelten seit Jahren zu zögerlich, weil Rückführungen nach Algerien kaum durchsetzbar seien.",
+              "sources": [
+                {
+                  "name": "SRF Rundschau",
+                  "url": "https://www.srf.ch/news/schweiz/kriminelle-asylsuchende-junge-nordafrikaner-fordern-polizei-und-behoerden"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/so-viele-nordafrikaner-in-schweiz-sind-kriminell/8gg3fkk"
+                },
+                {
+                  "name": "asile.ch (Kritik)",
+                  "url": "https://asile.ch/2026/09/21/car-statistique-sur-la-criminalite-faux-calculs-et-raccourcis-mediatiques/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-thun-grossbrand-waffengeschaeft",
+              "slug": "thun-grossbrand-waffengeschaeft",
+              "title": "Grossbrand bei Thuner Waffenhersteller – keine Verletzten",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🔥",
+              "edition": "midday",
+              "kurz": "In Thun-Allmendingen brannte in der Nacht ein Hersteller und Händler von Waffen und Schalldämpfern an der Tempelstrasse; der Brand ist unter Kontrolle.",
+              "summary": "Die Kantonspolizei Bern wurde am Donnerstag um 03.10 Uhr über einen Brand bei einem Hersteller und Händler von Waffen, Schalldämpfern und Zubehör an der Tempelstrasse in Thun-Allmendingen informiert. Der Brand ist unter Kontrolle, verletzt wurde nach ersten Erkenntnissen niemand. Die Löscharbeiten dauern bis in den Nachmittag, es gibt Strassensperrungen und eine Umleitung.",
+              "gegenstimme": "Offene Frage: Wie sicher werden Waffen und Zubehör in einem Gewerbequartier nahe militärischen Anlagen gelagert? Dagegen spricht, dass der Betrieb bewilligungspflichtig ist und der Brand ohne Verletzte unter Kontrolle gebracht wurde; voreilige Schlüsse verbietet die ungeklärte Ursache.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA/swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/grossbrand-in-thuner-waffengesch%C3%A4ft-unter-kontrolle/92292842"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/thun-riesige-rauchsaeule-ueber-thun-waffengeschaeft-brannte-103658234"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/brand-in-thun-waffengeschaeft-an-der-tempelstrasse-in-flammen-590788306106"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-bern-praemienverbilligung-19000",
+              "slug": "bern-praemienverbilligung-19000",
+              "title": "Kanton Bern: 19'000 Personen erhalten neu Prämienverbilligung",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🏥",
+              "edition": "midday",
+              "kurz": "Der Berner Regierungsrat hebt die Einkommensobergrenze an; ab 2027 erhalten rund 9200 zusätzliche Haushalte Hilfe bei den Krankenkassenprämien.",
+              "summary": "Der Berner Regierungsrat hat die Einkommensobergrenze für die Prämienverbilligung angehoben. Ab 1. Januar 2027 erhalten rund 19'000 Personen in etwa 9200 Haushalten neu eine Verbilligung, darunter rund 5200 Familien mit Kindern. Der Kanton rechnet mit Mehrkosten von rund 16,5 Millionen Franken.",
+              "gegenstimme": "Linke Kreise halten die Erhöhung für das gesetzliche Minimum: Mit 25,35 Prozent liegt die Bezugsquote knapp über der Untergrenze von 25 Prozent. Bürgerliche verweisen auf die stark steigenden Kosten, denn ab 2028 kommen wegen Bundesvorgaben rund 200 Millionen Franken jährlich dazu.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/bern-19000-personen-erhalten-neu-praemienverbilligung-528800143850"
+                },
+                {
+                  "name": "Keystone-SDA/BärnerBär",
+                  "url": "https://baernerbaer.ch/politik/regional/19000-personen-erhalten-im-kanton-bern-neu-pramienverbilligung-67195313"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-berner-rathaus-lift-kredit",
+              "slug": "berner-rathaus-lift-kredit",
+              "title": "Berner Rathaus soll für 1,72 Millionen Franken barrierefrei werden",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "midday",
+              "kurz": "Der Regierungsrat beantragt dem Grossen Rat einen Kredit von 1,72 Millionen Franken für einen Personenlift und weitere Anpassungen im Rathaus.",
+              "summary": "Der Berner Regierungsrat beantragt dem Grossen Rat einen Kredit von 1,72 Millionen Franken für einen Personenlift im Rathaus. Der Lift soll die öffentlichen Haupträume wie Rathaushalle, Wandelhalle und Publikumstribüne hindernisfrei erschliessen. Dazu kommen eine hindernisfreie Toilette, statische Verstärkungen sowie Anpassungen an Haustechnik und Fluchtwegen.",
+              "gegenstimme": "Einwand: 1,72 Millionen Franken für einen Lift sind viel Geld in Zeiten knapper Kantonsfinanzen. Behindertenorganisationen halten dagegen, dass das Kantonsparlament seit Jahren nicht für alle zugänglich ist und das Behindertengleichstellungsgesetz die Anpassung ohnehin verlangt.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA/swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/personenlift-im-berner-rathaus-wird-konkreter/92294276"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/ort/bern/bern-lift-furs-rathaus-regierungsrat-will-172-millionen-67195217"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/rathaus-bern-1-72-mio-franken-fuer-personenlift-144092657673"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-lagarde-ezb-ruecktritt-februar",
+              "slug": "lagarde-ezb-ruecktritt-februar",
+              "title": "EZB-Präsidentin Lagarde tritt neun Monate früher ab",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/a63bae2.jpg",
+              "kurz": "Christine Lagarde verlässt die Europäische Zentralbank am 7. Februar 2027; der Europäische Rat startet sofort die Nachfolgesuche.",
+              "summary": "Die EZB hat am Donnerstag mitgeteilt, dass Präsidentin Christine Lagarde ihr Amt am 7. Februar 2027 niederlegt, neun Monate vor Ende ihrer achtjährigen Amtszeit im Oktober 2027. Ratspräsident António Costa kündigte an, das Verfahren für die Nachfolge noch am selben Tag einzuleiten. Als Kandidaten gelten unter anderen Klaas Knot, Pablo Hernández de Cos, Joachim Nagel und Nadia Calviño.",
+              "gegenstimme": "Kritiker sehen im frühen Abgang ein politisches Manöver: Die Nachfolge soll vor der französischen Präsidentschaftswahl im Frühling 2027 geregelt werden, um einem möglichen Wahlsieg des Rassemblement National zuvorzukommen. Das stellt die Unabhängigkeit der Notenbank in Frage, auch wenn die Personalwahl formal ohnehin bei den Regierungen liegt.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/europaeischen-zentralbank-ezb-praesidentin-christine-lagarde-tritt-vorzeitig-ab"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/ezb-praesidentin-christine-lagarde-tritt-zurueck-ld.10048282"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/wirtschaft/article6ae31aa94a674ddd4ba2368d/ezb-chefin-lagarde-tritt-vorzeitig-zurueck.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-volkswagen-quartalsverlust-porsche",
+              "slug": "volkswagen-quartalsverlust-porsche",
+              "title": "Volkswagen schreibt 5,82 Milliarden Euro Verlust",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "midday",
+              "image": "https://www.zdfheute.de/assets/volkswagen-150~1280x720?cb=1793258281037",
+              "kurz": "Eine Abschreibung auf Porsche von rund 6,4 Milliarden Euro, das schwache China-Geschäft und Umbaukosten drücken VW im dritten Quartal tief ins Minus.",
+              "summary": "Volkswagen hat im dritten Quartal 2026 nach Steuern rund 5,82 Milliarden Euro Verlust gemacht, nach gut 1,07 Milliarden Euro Verlust im Vorjahresquartal. Hauptgrund sind Sondereffekte von 7,8 Milliarden Euro, vor allem eine nicht zahlungswirksame Abschreibung auf den Firmenwert von Porsche von rund 6,4 Milliarden Euro. Der Umsatz sank um 6,3 Prozent auf rund 75,3 Milliarden Euro.",
+              "gegenstimme": "Einwand: Die Porsche-Abschreibung kostet kein Geld, das operative Geschäft steht weniger schlecht da, als die Schlagzeile nahelegt. Aus Sicht der Belegschaft liefern die Zahlen dagegen den Vorwand für weitere Einschnitte, nachdem VW einen Grossteil der Tarifverträge auf Jahresende gekündigt hat.",
+              "sources": [
+                {
+                  "name": "ZDFheute",
+                  "url": "https://www.zdfheute.de/wirtschaft/unternehmen/vw-volkswagen-quartalszahlen-verlust-100.html"
+                },
+                {
+                  "name": "Volkswagen Group (Mitteilung)",
+                  "url": "https://www.volkswagen-group.com/de/pressemitteilungen/volkswagen-group-neunmonats-ergebnis-unterstreicht-sofortigen-handlungsdruck-20799"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/im-dritten-quartal-volkswagen-meldet-582-milliarden-euro-verlust/100265814.html"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/autoindustrie-in-der-krise-volkswagen-meldet-fast-6-milliarden-euro-verlust"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-shell-gewinn-verdoppelt-iran-krieg",
+              "slug": "shell-gewinn-verdoppelt-iran-krieg",
+              "title": "Shell verdoppelt Gewinn dank Iran-Krieg",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🛢️",
+              "edition": "midday",
+              "kurz": "Der Ölkonzern meldet 10,8 Milliarden Dollar bereinigten Quartalsgewinn, den höchsten seit 2022, und erhöht den Aktienrückkauf auf 5 Milliarden Dollar.",
+              "summary": "Shell hat im dritten Quartal 2026 einen bereinigten Gewinn von 10,8 Milliarden Dollar erzielt, nach 5,43 Milliarden ein Jahr zuvor. Treiber waren rekordhohe Raffineriemargen wegen der Versorgungsstörungen im Nahen Osten. Der Konzern erhöht den Aktienrückkauf für die nächsten drei Monate von 3 auf 5 Milliarden Dollar.",
+              "gegenstimme": "Kritiker sehen in den Kriegsgewinnen ein Argument für eine höhere Übergewinnsteuer, weil Haushalte und Firmen zugleich hohe Energiepreise zahlen. Die Branche entgegnet, dass Rekordgewinne in Krisenzeiten Investitionen in die Versorgungssicherheit finanzieren.",
+              "sources": [
+                {
+                  "name": "Shell (Mitteilung)",
+                  "url": "https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2026/third-quarter-2026-results-announcement.html"
+                },
+                {
+                  "name": "Reuters/Investing.com",
+                  "url": "https://www.investing.com/news/stock-market-news/shell-beats-expectations-with-108-billion-thirdquarter-profit-4981606"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-hormus-drei-tanker-minen",
+              "slug": "hormus-drei-tanker-minen",
+              "title": "Hormus: Iran meldet drei Tanker auf Minen gelaufen",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "international",
+              "icon": "⚓",
+              "edition": "midday",
+              "kurz": "Laut Irans Revolutionsgarden sind drei Tanker auf einer von Iran nicht erlaubten Route in der Strasse von Hormus auf Minen gelaufen und in Brand geraten.",
+              "summary": "Irans Revolutionsgarden erklärten am Donnerstag über Staatsmedien, drei Tanker seien in den letzten 24 Stunden auf einer «nicht autorisierten» südlichen Route in der Strasse von Hormus auf Seeminen gelaufen, explodiert und in Brand geraten. Die Schiffe hätten Radar und Navigation abgeschaltet und Warnungen ignoriert. Die britische Seefahrtsbehörde UKMTO bestätigte ein brennendes Schiff neun Seemeilen nördlich von Khasab (Oman).",
+              "gegenstimme": "Iran stellt die Minen als Folge eigenmächtiger Routenwahl dar. Aus Sicht der USA und westlicher Reedereien ist bereits das Verminen und Kontrollieren einer internationalen Wasserstrasse völkerrechtswidrig; das US-Zentralkommando hatte zuvor erklärt, die Hauptrouten seien geräumt.",
+              "sources": [
+                {
+                  "name": "Arab News (Reuters/AFP)",
+                  "url": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-three-oil-tankers-hit-mines-in-strait-of-hormuz-3008795"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/3-oil-tankers-caught-fire-after-hitting-mines-in-strait-of-hormuz-irans-revolutionary-guard-says/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-behoerde-meldet-brennendes-schiff-in-strasse-von-hormus"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-usa-weisen-kubanischen-diplomaten-aus",
+              "slug": "usa-weisen-kubanischen-diplomaten-aus",
+              "title": "Eklat bei der UNO: USA weisen kubanischen Diplomaten aus",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🇨🇺",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/0bd41b.jpg",
+              "kurz": "Nach einem Tumult bei der UNO-Abstimmung über das US-Embargo gegen Kuba hat Washington ein Mitglied der kubanischen UNO-Delegation ausgewiesen.",
+              "summary": "Während der Rede von US-UNO-Botschafter Mike Waltz in der Generalversammlung schlugen kubanische Delegierte auf die Tische, Aussenminister Bruno Rodríguez ging zum Rednerpult und warf Waltz Lügen vor. Danach wiesen die USA ein Mitglied der kubanischen Delegation aus; laut Waltz hat Aussenminister Marco Rubio die Ausweisung unterschrieben, weil der Mann einen US-Diplomaten geschubst und anzugreifen versucht habe. Die jährliche Resolution gegen das Embargo wurde angenommen, aber mit so wenig Unterstützung wie seit 1995 nicht mehr.",
+              "gegenstimme": "Kuba schildert den Vorfall in einem Brief an UNO-Generalsekretär Guterres umgekehrt: Der Diplomat sei von einem US-Vertreter bedrängt worden. Kritiker der US-Politik nennen das verschärfte Embargo samt Ölblockade völker- und menschenrechtswidrig, Washington verweist auf die Repression des kubanischen Regimes.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/delegationen-mit-wortgefecht-eklat-bei-der-uno-usa-und-kuba-geraten-heftig-aneinander"
+                },
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3446455/"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/streit-bei-uno-sitzung-usa-weisen-kubanischen-diplomaten-aus-a-bf683684-5f17-4d56-8bd9-99754621e3d2"
+                },
+                {
+                  "name": "CNN en Español",
+                  "url": "https://cnnespanol.cnn.com/2026/10/28/eeuu/gobierno-trump-expulsa-diplomatico-cubano-trax"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-berlin-eralp-angst-hamas-umfeld",
+              "slug": "berlin-eralp-angst-hamas-umfeld",
+              "title": "Berlin: Linken-Spitzenfrau Eralp fürchtet Islamisten-Umfeld – CDU will Koalitionsstopp",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "midday",
+              "kurz": "Eine versehentlich weitergeleitete Notiz zeigt, dass Elif Eralp Angst vor einem Aktivisten aus dem Umfeld der Terrororganisation PFLP hat; die CDU fordert SPD und Grüne zum Abbruch der Gespräche auf.",
+              "summary": "Die Berliner Linken-Spitzenkandidatin Elif Eralp, die mit SPD und Grünen Regierende Bürgermeisterin werden will, strich in einem SPIEGEL-Interview eine Passage über den Palästina-Aktivisten Ibrahim Ibrahim. In einer versehentlich mitgeschickten internen Notiz schrieb sie: «Ich kann mich und meine Familie für den Spiegel nicht in Gefahr bringen.» Der Verfassungsschutz ordnet Ibrahim dem Umfeld der Terrororganisation PFLP zu; er hatte laut SPIEGEL den Chefplaner des Hamas-Überfalls vom 7. Oktober 2023 als «Märtyrerhelden» bezeichnet.",
+              "gegenstimme": "Die Linke nennt die Veröffentlichung interner Notizen eine Unverschämtheit und prüft rechtliche Schritte; sie verweist darauf, dass Eralp bedroht und beleidigt worden sei. SPD-Chef Steffen Krach hält an Koalitionsgesprächen fest, betont aber, das Vertrauen müsse sich erst zeigen.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/elif-eralp-cdu-fordert-ende-rot-gruen-roter-gespraeche-a-b72c1135-7016-4f43-86b4-00cf22fafa1a"
+                },
+                {
+                  "name": "Berliner Zeitung",
+                  "url": "https://www.berliner-zeitung.de/article/elif-eralp-angst-vor-hamas-sympathisanten-10542212"
+                },
+                {
+                  "name": "Tagesspiegel",
+                  "url": "https://www.tagesspiegel.de/berlin/elif-eralp-furchtet-sich-vor-terrorsympathisanten-ich-kann-mich-und-meine-familie-nicht-in-gefahr-bringen-16213620.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-microsoft-quartal-azure-48-prozent",
+              "slug": "microsoft-quartal-azure-48-prozent",
+              "title": "Microsoft wächst mit Azure um 48 Prozent",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "☁️",
+              "edition": "midday",
+              "kurz": "Microsoft steigert den Quartalsumsatz um 19 Prozent auf 92,3 Milliarden Dollar; die Cloud-Sparte Azure wächst dank KI-Nachfrage um 48 Prozent.",
+              "summary": "Microsoft hat im Quartal bis Ende September 2026 einen Umsatz von 92,3 Milliarden Dollar erzielt, 19 Prozent mehr als im Vorjahr. Azure wuchs um 48 Prozent, der gesamte Cloud-Umsatz um 30 Prozent auf 63,9 Milliarden Dollar. Für das laufende Quartal stellt Microsoft ein Azure-Wachstum von 49 bis 50 Prozent in Aussicht, weil die Nachfrage das Angebot an Rechenzentrumskapazität übersteige.",
+              "gegenstimme": "Skeptiker verweisen auf die enormen Investitionen in KI-Rechenzentren und fragen, wann sie sich auszahlen; bei Alphabet hatte die Suchwerbung am Vortag Fragen aufgeworfen. Microsoft selbst nennt Kapazitätsengpässe als Bremse, was auch heisst, dass Kunden auf Ressourcen warten.",
+              "sources": [
+                {
+                  "name": "Microsoft (Mitteilung)",
+                  "url": "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Microsoft-mit-erneut-deutlich-gesteigerten-Einnahmen-Aktie-macht-kleinen-Sprung-11503905.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-samsung-rekordgewinn-ki-speicher",
+              "slug": "samsung-rekordgewinn-ki-speicher",
+              "title": "Samsung knackt als erster Tech-Konzern 100 Billionen Won Quartalsgewinn",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "💾",
+              "edition": "midday",
+              "kurz": "Dank KI-Speicherchips steigt Samsungs Betriebsgewinn im dritten Quartal um 783 Prozent auf 107,44 Billionen Won; die Aktie fällt trotzdem.",
+              "summary": "Samsung Electronics hat im dritten Quartal 2026 einen Betriebsgewinn von 107,44 Billionen Won erzielt, 783 Prozent mehr als im Vorjahr und so viel wie noch kein Tech-Konzern in einem Quartal. Der Umsatz lag bei 195,25 Billionen Won. Die Halbleitersparte lieferte mit 106,5 Billionen Won rund 99 Prozent des Gewinns, getrieben von HBM4-Speicher und Server-SSDs für KI-Rechenzentren.",
+              "gegenstimme": "Die Aktie fiel trotz Rekord, weil Samsung offenliess, wie viel davon an die Aktionäre geht. Zudem zeigt die Abhängigkeit von einer einzigen Sparte, wie stark das Ergebnis am KI-Investitionszyklus hängt: Kühlt dieser ab, schrumpft der Gewinn ebenso schnell.",
+              "sources": [
+                {
+                  "name": "Samsung Newsroom",
+                  "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+                },
+                {
+                  "name": "Yonhap",
+                  "url": "https://en.yna.co.kr/view/AEN20261029002653320"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Samsung-erzielt-Rekordgewinn-dank-KI-Boom-11503953.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-dhs-datenleck-41000-ice-agenten",
+              "slug": "dhs-datenleck-41000-ice-agenten",
+              "title": "Hack beim US-Heimatschutz: Daten von 41'000 Angestellten veröffentlicht",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg",
+              "kurz": "Eine Gruppe namens «Department of Peace» hat Namen, Dienstorte und Aufgaben von über 41'000 DHS-Mitarbeitenden, darunter Tausende ICE- und Grenzschutzagenten, öffentlich gemacht.",
+              "summary": "Die Daten von mehr als 41'000 Angestellten und Auftragnehmern des US-Heimatschutzministeriums (DHS) sind online veröffentlicht worden, darunter über 21'000 vom Grenzschutz CBP und fast 6600 von der Einwanderungsbehörde ICE. Die Gruppe «Department of Peace» gibt an, über das Single-Sign-on-System von Okta eingedrungen zu sein; die Plattform Distributed Denial of Secrets stellte die Datenbank «Icepick» online. Das DHS spricht von einem «möglichen Datenleck», Okta sieht keine Hinweise auf eine Kompromittierung eigener Systeme.",
+              "gegenstimme": "Die Täter rechtfertigen die Veröffentlichung damit, die Anonymität von Agenten bei Abschiebungen aufzuheben. Sicherheitsfachleute und die Regierung warnen, dass Namen und Dienstorte Beamte und ihre Familien gefährden und laufende, teils verdeckte Operationen kompromittieren könnten.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo"
+                },
+                {
+                  "name": "NPR",
+                  "url": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice"
+                },
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/"
+                },
+                {
+                  "name": "Le Temps",
+                  "url": "https://www.letemps.ch/articles/aux-etats-unis-les-noms-de-41-000-employes-de-la-securite-interieure-dont-les-services-d-ice-ont-ete-divulgues"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-npm-wurm-testmetest-42-repos",
+              "slug": "npm-wurm-testmetest-42-repos",
+              "title": "npm-Wurm «testmetest»: 42 GitHub-Repositories mit Schadcode präpariert",
+              "date": "2026-10-29",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🪱",
+              "edition": "midday",
+              "kurz": "Angreifer haben 42 Repositories von 11 legitimen Eigentümern mit versteckten Hooks versehen, die beim Öffnen in KI-Coding-Tools oder VS Code Schadcode ausführen können.",
+              "summary": "Sicherheitsforscher von JFrog haben 42 GitHub-Repositories von 11 legitimen Eigentümern gefunden, die im Rahmen der npm-Wurm-Kampagne «testmetest» mit Schadcode präpariert wurden. Versteckte Ausführungshooks können Code starten, wenn Entwickler ein Projekt in Claude Code, Gemini, Cursor oder VS Code öffnen. Die Schaddatei `.github/init.js` ist mit rund 13 MB so gross, dass GitHubs Codesuche sie nicht indexiert.",
+              "gegenstimme": "Ein Teil der Forscher wertet die Kampagne noch als öffentlichen Testlauf mit begrenztem Schaden. Andere warnen, dass gerade die Kombination aus Wurm, angehängtem Datenlöscher und der Ausführung durch KI-Assistenten ein neues Risiko schafft, das Plattformen bisher unterschätzen.",
+              "sources": [
+                {
+                  "name": "JFrog Security Research",
+                  "url": "https://research.jfrog.com/post/beyond-testmetest-42-hijacked-github-repos/"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Angreifer-kapern-42-GitHub-Repositories-fuer-npm-Wurm-Kampagne-testmetest-11503164.html"
+                },
+                {
+                  "name": "The Register",
+                  "url": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570"
                 }
               ]
             }
