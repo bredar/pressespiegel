@@ -1,5 +1,5 @@
 {
-  "updated": "11:18 UTC",
+  "updated": "16:18 UTC",
   "days": [
     {
       "date": "2026-10-29",
@@ -834,6 +834,373 @@
                 {
                   "name": "The Register",
                   "url": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:15",
+          "articles": [
+            {
+              "id": "2026-10-29-bund-prueft-tempo-80-treibstoff",
+              "slug": "bund-prueft-tempo-80-treibstoff",
+              "title": "Treibstoff knapp: Bund prüft Tempo 80 auf Autobahnen",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "⛽",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/259cca9d.jpg",
+              "kurz": "Das Bundesamt für wirtschaftliche Landesversorgung prüft Tempo 80 als Sparmassnahme bei einer schweren Treibstoff-Mangellage; umgesetzt ist nichts.",
+              "summary": "Das Bundesamt für wirtschaftliche Landesversorgung (BWL) hat diesen Herbst intern geprüft, ob eine Temporeduktion auf Autobahnen, etwa auf 80 km/h, bei einem Treibstoffengpass helfen würde. Das BWL bestätigte die Abklärungen gegenüber SRF, Keystone-SDA berichtete ebenfalls. Grund sind der tiefe Rheinpegel, der die Schiffstransporte via Basel stark einschränkt, und der Krieg im Nahen Osten; seit September gibt der Bund zeitweise Pflichtlager frei.",
+              "gegenstimme": "Transportunternehmer und SVP-Nationalrat Benjamin Giezendanner zeigt sich gegenüber SRF wenig begeistert von der Idee. Kritiker einer frühen Debatte weisen zudem darauf hin, dass die Freigaben aus den Pflichtlagern bisher gering sind; beim Diesel waren es letzte Woche rund 4 Prozent.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/engpass-beim-treibstoff-tempo-80-auf-autobahnen-bund-prueft-massnahme"
+                },
+                {
+                  "name": "Keystone-SDA/watson",
+                  "url": "https://www.watson.ch/schweiz/auto/644104319-bund-prueft-tempo-reduktion-auf-strassen-bei-drohendem-treibstoffmangel"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/stillstand-auf-der-ueberholspur-der-bund-denkt-ueber-tempo-80-auf-autobahnen-nach-ld.10045806"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-sbb-betrug-urteil-55-monate",
+              "slug": "sbb-betrug-urteil-55-monate",
+              "title": "SBB-Millionenbetrug: Ex-Kadermann erhält 4 Jahre und 7 Monate",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "kurz": "Das Bundesstrafgericht verurteilt einen früheren SBB-Abteilungsleiter wegen gewerbsmässigen Betrugs; die Anklage hatte 77 Monate gefordert.",
+              "summary": "Das Bundesstrafgericht in Bellinzona hat am Donnerstag einen 54-jährigen ehemaligen SBB-Abteilungsleiter zu 4 Jahren und 7 Monaten Freiheitsstrafe verurteilt. Er wurde unter anderem wegen gewerbsmässigen Betrugs, mehrfacher ungetreuer Amtsführung, Geldwäscherei und Urkundenfälschung schuldig gesprochen. Drei mitangeklagte Geschäftsleute erhielten als Gehilfen 19 bis 26 Monate, seine Schwester wurde freigesprochen.",
+              "gegenstimme": "Die Bundesanwaltschaft hatte 77 Monate unbedingt gefordert, das Gericht blieb deutlich darunter. Die mitangeklagten Geschäftspartner beteuerten, nichts vom Betrug gewusst zu haben. Offen bleibt zudem, warum die internen Kontrollen der SBB das System so lange nicht entdeckten.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/bundesgerichtsurteil-freiheitsstrafe-von-4-jahren-und-7-monaten-fuer-ex-sbb-kadermann"
+                },
+                {
+                  "name": "Schweiz heute",
+                  "url": "https://www.schweizheute.ch/wirtschaft/so-lautet-das-urteil-zum-sbb-millionenbetrug-ld.4258633"
+                },
+                {
+                  "name": "blue News",
+                  "url": "https://www.bluewin.ch/de/news/schweiz/sbb-millionenbetrug-urteil-ex-kadermann-vier-mitangeklagte-li.3652676"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-bundesgericht-donzallaz-pilotverfahren",
+              "slug": "bundesgericht-donzallaz-pilotverfahren",
+              "title": "Liebesaffäre am Bundesgericht: Öffentliches Pilotverfahren am 5. November",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "evening",
+              "image": "https://c.nau.ch/i/arwBZKyMDQpdqk1RzY5mxKYA409nG826bPJ5mWLg/1360/680/schweizerisches-bundesgericht.jpg",
+              "kurz": "Das Bundesgericht entscheidet erstmals inhaltlich, ob die Beziehung der Richter Donzallaz und van de Graaf frühere Urteile befangen machte.",
+              "summary": "Das Bundesgericht entscheidet in der Affäre um die Beziehung zwischen den Bundesrichtern Yves Donzallaz (parteilos) und Beatrice van de Graaf (SVP) erstmals materiell über ein Revisionsgesuch. Am 5. November führt es in Lausanne eine öffentliche Parteiverhandlung und Urteilsberatung durch. Ein Bürger verlangt die Aufhebung eines Entscheids vom 29. Mai 2026, an dem van de Graaf mitgewirkt hatte.",
+              "gegenstimme": "Kritiker sehen im öffentlichen Verfahren einen späten Versuch, verlorenes Vertrauen zurückzugewinnen, nachdem die Affäre seit dem Frühjahr bekannt ist. Andere halten dagegen, dass eine Liebesbeziehung nicht automatisch eine gesetzlich verbotene «dauernde Lebensgemeinschaft» sei und Revisionen nur bei konkreter Befangenheit gerechtfertigt wären.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA/Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/bundesgericht-verhandelt-revisionsfall-nach-liebesaffare-offentlich-67195495"
+                },
+                {
+                  "name": "Keystone-SDA/Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/revision-nach-liebesaff%c3%a4re%3a-kein-eintreten-auf-ersten-fall/92227162"
+                },
+                {
+                  "name": "Ticinonline",
+                  "url": "https://www.tio.ch/svizzera/cronaca/1959898/giudici-udienza-corte-due-svizzera-relazione-tribunale-federale"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-bern-schutz-rettung-it-vertrag",
+              "slug": "bern-schutz-rettung-it-vertrag",
+              "title": "Stadt Bern: 3,4 Millionen für die IT von Schutz und Rettung",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🚑",
+              "edition": "evening",
+              "kurz": "Der Berner Gemeinderat beantragt dem Stadtrat einen Kredit für den erneuerten IT-Vertrag mit der Kantonspolizei für 2027 bis 2030.",
+              "summary": "Der Berner Gemeinderat beantragt dem Stadtrat einen Verpflichtungskredit von rund 3,4 Millionen Franken für die Informatikinfrastruktur von Schutz und Rettung Bern. Der erneuerte Vertrag mit der Kantonspolizei gilt von 2027 bis 2030 und kostet jährlich 846'500 Franken. Er regelt Betrieb und Wartung der mobilen Informatik der Einsatzorganisation.",
+              "gegenstimme": "Die Stadt betont, die Kosten seien bereits im Budget enthalten und ab 2028 seien Einsparungen zu erwarten. Kritisch lässt sich fragen, ob die Abhängigkeit von der Kantonspolizei bei der Einsatz-IT langfristig sinnvoll ist; eine Ausschreibung oder Alternativen nennt die Mitteilung nicht.",
+              "sources": [
+                {
+                  "name": "Stadt Bern",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/informatikinfrastruktur-schutz-und-rettung-vertrag-mit-kanton-wird-erneuert"
+                },
+                {
+                  "name": "Keystone-SDA/inside-it.ch",
+                  "url": "https://www.inside-it.ch/bern-beantragt-3%2C4-millionen-franken-fuer-rettungs-it-20261029"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/stadt-bern-3-4-millionen-fuer-it-vertrag-mit-kantonspolizei-427643148396"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-ezb-zinsen-unveraendert-2-5",
+              "slug": "ezb-zinsen-unveraendert-2-5",
+              "title": "EZB lässt Zinsen trotz 3,8 Prozent Inflation unverändert",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "💶",
+              "edition": "evening",
+              "kurz": "Die Europäische Zentralbank belässt den Einlagensatz bei 2,5 Prozent und verweist auf den anhaltenden Energieschock.",
+              "summary": "Der EZB-Rat hat am Donnerstag die drei Leitzinsen unverändert gelassen: Der Einlagensatz bleibt bei 2,50 Prozent, die Hauptrefinanzierung bei 2,65 und die Spitzenrefinanzierung bei 2,90 Prozent. Die Inflation im Euroraum lag im September bei 3,8 Prozent, fast doppelt so hoch wie das Ziel von 2 Prozent. Der Entscheid fiel am selben Tag, an dem Präsidentin Christine Lagarde ihren vorzeitigen Rücktritt auf Februar ankündigte.",
+              "gegenstimme": "Ökonomen erwarten laut Tagesschau bereits eine weitere Zinserhöhung im Dezember; für sie kommt die Pause angesichts der hohen Teuerung zu zögerlich. Die EZB selbst argumentiert, die Kerninflation sei stabil und die Löhne reagierten kaum, eine weitere Straffung würde das ohnehin gedämpfte Wachstum zusätzlich belasten.",
+              "sources": [
+                {
+                  "name": "EZB",
+                  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.de.html"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/10/29/ezb-halt-zins-bei-25-lagarde-kundigt-fruhen-abschied-bei-fast-doppelt-so-hoher-inflation-a"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/europaeische-zentralbank-nach-ruecktrittsankuendigung-lagarde-belaesst-leitzins"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-dnipro-drohne-bahnhof-14-tote",
+              "slug": "dnipro-drohne-bahnhof-14-tote",
+              "title": "Dnipro: 14 Tote bei russischem Drohnenangriff auf vollen Bahnsteig",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🚉",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3903/live/021d2cc0-d3af-11f1-8d02-39b68eca6add.png",
+              "kurz": "Eine russische Jet-Drohne traf den Hauptbahnhof von Dnipro, als ein Zug nach Saporischschja bereitstand; mindestens 14 Menschen starben.",
+              "summary": "Eine russische Drohne mit Strahlantrieb hat am Donnerstag einen vollen Bahnsteig am Hauptbahnhof der ukrainischen Stadt Dnipro getroffen. Mindestens 14 Menschen wurden getötet und mindestens 14 verletzt, darunter ein 11-jähriger Junge. Am Bahnsteig standen ein Pendlerzug und ein Zug nach Saporischschja.",
+              "gegenstimme": "Russland hat sich zum Angriff laut BBC nicht geäussert und bestreitet generell, gezielt Zivilisten anzugreifen. Die ukrainische Bahn räumt ein, dass trotz erhöhter Warnstufe viele Menschen auf dem Bahnsteig standen.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko"
+                },
+                {
+                  "name": "DW",
+                  "url": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076"
+                },
+                {
+                  "name": "Kyiv Post",
+                  "url": "https://www.kyivpost.com/post/88526"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-israel-wahl-99-prozent-katar",
+              "slug": "israel-wahl-99-prozent-katar",
+              "title": "Israel: Netanyahu-Block knapp vorn, Streit um angebliche Katar-Einmischung",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "evening",
+              "kurz": "Nach 99 Prozent der Stimmen kommt Netanyahus Lager auf 53 Sitze, Eisenkots auf 48; Likud-nahe Kreise beschuldigen Katar, Katar weist das zurück.",
+              "summary": "Nach Auszählung von 99 Prozent der Stimmen kommen Benjamin Netanyahus Likud und seine rechten und ultraorthodoxen Partner auf 53 der 120 Knesset-Sitze, das Lager von Herausforderer Gadi Eisenkot auf 48. Die arabischen Listen erreichen mit 19 Sitzen einen Rekord. Likud und ihm nahe Medien werfen Katar ohne vorgelegte Belege vor, Geld für die Wählermobilisierung arabischer Parteien geschickt zu haben; Katar nennt das «lächerlich und gefährlich».",
+              "gegenstimme": "Der amtierende Direktor der Zentralen Wahlkommission, Dean Livine, hält fest, die Wahl sei rechtmässig abgelaufen und die Integrität an den Urnen gewahrt worden. Likud hält an seiner Darstellung fest, legt aber keine Belege vor. Al Jazeera, das die Katar-Position ausführlich wiedergibt, wird selbst vom Staat Katar finanziert.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections"
+                },
+                {
+                  "name": "Guardian",
+                  "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-yoon-todesstrafe-berufung",
+              "slug": "yoon-todesstrafe-berufung",
+              "title": "Südkorea: Sonderstaatsanwalt fordert erneut Todesstrafe für Ex-Präsident Yoon",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🇰🇷",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260612__B6U68ZQ__v1__MidRes__FilesSkoreaNkoreaPolitics-1781234427.jpg?resize=1200%2C630",
+              "kurz": "Im Berufungsprozess um das Kriegsrecht von 2024 hält die Anklage die lebenslange Haftstrafe für Yoon Suk Yeol für zu mild.",
+              "summary": "Das Team von Sonderstaatsanwalt Cho Eun-suk hat am Donnerstag vor dem Obersten Gericht in Seoul erneut die Todesstrafe für Südkoreas früheren Präsidenten Yoon Suk Yeol gefordert. Yoon war im Februar wegen Anführens eines Aufstands zu lebenslanger Haft verurteilt worden, nachdem er am 3. Dezember 2024 das Kriegsrecht ausgerufen hatte. Es gebe «keinen Grund zu zögern», sagte ein Ankläger.",
+              "gegenstimme": "Yoons Anwälte sagen, er habe ein von der Opposition kontrolliertes Parlament nur vor Blockaden seiner Regierung warnen und keine autoritäre Herrschaft errichten wollen. Die Vorinstanz hatte strafmildernd gewertet, dass das Kriegsrecht nach etwa sechs Stunden endete und die Gewalt begrenzt blieb.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case"
+                },
+                {
+                  "name": "Korea Herald",
+                  "url": "https://www.koreaherald.com/article/10919240"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/korea-yoon-martial-law-death-penalty-4fdf9f5ef8876a04c340dd9ae764c226"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-usa-sanktionen-ruanda-verteidigungsministerium",
+              "slug": "usa-sanktionen-ruanda-verteidigungsministerium",
+              "title": "USA sanktionieren Ruandas Verteidigungsministerium wegen M23",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b44/live/af8c7ae0-d35b-11f1-bf17-db0635e21017.jpg",
+              "kurz": "Washington wirft Kigali vor, Tausende Soldaten an der Seite der M23-Rebellen im Osten Kongos einzusetzen; Ruanda bestreitet das.",
+              "summary": "Das US-Finanzministerium hat Sanktionen gegen Ruandas Verteidigungsministerium und das Finanzinstitut Zigama Credit and Savings Society verhängt. Washington wirft ihnen vor, die Rebellengruppe M23 im Osten der Demokratischen Republik Kongo mit Truppen, Waffen, Logistik und Geld zu unterstützen. Finanzminister Scott Bessent forderte, Ruanda müsse seine Truppen abziehen.",
+              "gegenstimme": "Ruanda bestreitet, M23 zu unterstützen. Die Regierung in Kigali verweist darauf, dass die in den Washingtoner Abkommen zugesagte Neutralisierung der Hutu-Miliz FDLR, die sie als vom Kongo unterstützte «Völkermord-Miliz» bezeichnet, nicht umgesetzt sei.",
+              "sources": [
+                {
+                  "name": "US Treasury",
+                  "url": "https://home.treasury.gov/news/press-releases/sb0668/"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-starlink-saboteure-terror-anklage",
+              "slug": "starlink-saboteure-terror-anklage",
+              "title": "Starlink-Brandanschläge: Litauen wirft zwei Männern aus Deutschland Terror vor",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🛰️",
+              "edition": "evening",
+              "kurz": "Zwei rund 20-jährige Doppelbürger, in Deutschland in Haft, sollen Starlink-Anlagen in Litauen, Bulgarien und Polen angegriffen haben.",
+              "summary": "Die litauische Staatsanwaltschaft beschuldigt zwei in Deutschland lebende Männer, am 18. Oktober in Vilnius Starlink-Bodenanlagen in Brand gesetzt zu haben. Einer ist deutsch-türkischer, der andere deutsch-serbischer Doppelbürger, beide rund 20 Jahre alt. Ihnen werden unter anderem Bildung einer terroristischen Vereinigung und ein Terrorakt vorgeworfen; sie sitzen bereits auf bulgarischen Haftbefehl in Deutschland in Haft.",
+              "gegenstimme": "Litauische Politiker und Behörden vermuten Russland hinter den Anschlägen, um die Ukraine zu schwächen, deren Armee Starlink nutzt. Moskau weist solche Vorwürfe als haltlos zurück. Einen öffentlich belegten Auftrag oder eine Zahlung aus Russland haben die Ermittler bisher nicht vorgelegt.",
+              "sources": [
+                {
+                  "name": "Staatsanwaltschaft Litauen",
+                  "url": "https://www.prokuraturos.lt/lt/ikiteisminiai-tyrimai-ir-viesojo-intereso-gynimas/isaiskinti-ir-sulaikyti-asmenys-itariami-starlink-antenu-padegimu/12948"
+                },
+                {
+                  "name": "LRT",
+                  "url": "https://www.lrt.lt/en/news-in-english/19/3097187/two-german-citizens-arrested-over-suspected-starlink-equipment-arson-attempt-in-vilnius"
+                },
+                {
+                  "name": "heise",
+                  "url": "https://www.heise.de/news/Litauen-Mutmassliche-Starlink-Saboteure-in-Deutschland-in-Haft-11505027.html"
+                },
+                {
+                  "name": "News.bg",
+                  "url": "https://news.bg/konflikti/litva-sashto-obvini-zadarzhanite-v-germaniya-za-palezha-na-antenite-na-starlink-v-balgariya.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-nvidia-huang-chinesische-spionin",
+              "slug": "nvidia-huang-chinesische-spionin",
+              "title": "Bericht: US-Dienste halten Kontaktfrau von Nvidia-Chef für chinesische Agentin",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🕵️",
+              "edition": "evening",
+              "kurz": "Laut New York Times überwachten US-Geheimdienste eine Megaspeed-Managerin mit engem Kontakt zu Jensen Huang; Nvidia widerspricht.",
+              "summary": "US-Geheimdienste halten laut einem Bericht der «New York Times» Alice Huang (Huang Le), Managerin des Rechenzentrumsbetreibers Megaspeed in Singapur, für eine chinesische Geheimdienstquelle. Sie soll eine enge Beziehung zu Nvidia-Chef Jensen Huang aufgebaut haben; Präsident Trump soll vor rund einem Jahr informiert worden sein. Die Zeitung stützt sich auf anonyme Quellen.",
+              "gegenstimme": "Nvidia spricht von gewöhnlichen Kundentreffen; Geschäftsgeheimnisse seien nicht weitergegeben worden. Die Vorwürfe zum Chip-Schmuggel seien «untersucht und widerlegt» worden. Die chinesische Botschaft in Washington spricht von haltlosen Verleumdungen.",
+              "sources": [
+                {
+                  "name": "Guardian",
+                  "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/tech/1022060/jensen-huang-and-the-ai-spies"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-finnland-polizei-google-rechenzentrum",
+              "slug": "finnland-polizei-google-rechenzentrum",
+              "title": "Finnland: Polizei ermittelt gegen Google-Tochter wegen Rechenzentrums-Baustelle",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🌲",
+              "edition": "evening",
+              "image": "https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3161_2531/master/3161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abcdf88aad69088fe1c8797f4583803d",
+              "kurz": "Die Polizei Oulu prüft mögliche Umweltdelikte in Muhos, wo Google vor der vorgeschriebenen Umweltprüfung 330 Hektaren Wald rodete.",
+              "summary": "Die Polizei in Oulu hat ein Vorermittlungsverfahren wegen mutmasslicher Umweltschädigung gegen die Google-Tochter Tuike Finland eröffnet. Die Firma soll auf dem geplanten Rechenzentrumsgelände in Muhos rund 330 Hektaren Wald gerodet und entwässert haben, bevor die gesetzlich nötige Umweltverträglichkeitsprüfung abgeschlossen war. Es geht um Mängel bei Entwässerung und Wassermanagement.",
+              "gegenstimme": "Googles Finnland-Chef Antti Järvinen hat sich für die Rodungen entschuldigt, sagt aber, man habe nach bestem damaligem Verständnis des Gesetzes gehandelt. Die finnische Regierung unter Petteri Orpo hatte die Investition von 13 Milliarden Euro als «oberste Priorität» begrüsst und auf langfristigen Nutzen verwiesen.",
+              "sources": [
+                {
+                  "name": "Yle",
+                  "url": "https://yle.fi/a/74-20254086"
+                },
+                {
+                  "name": "Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre"
+                },
+                {
+                  "name": "heise",
+                  "url": "https://www.heise.de/news/Finnische-Polizei-ermittelt-jetzt-wegen-Bauarbeiten-fuer-Google-Rechenzentrum-11505106.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-29-mistral-large-4-open-weights",
+              "slug": "mistral-large-4-open-weights",
+              "title": "Mistral gibt Gewichte von Large 4 frei",
+              "date": "2026-10-29",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/3/7/6/shutterstock_2450169659-003dd96b6f7604f2.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Das französische KI-Unternehmen veröffentlicht sein Billionen-Parameter-Modell zum Herunterladen und verspricht bessere Programmierleistung.",
+              "summary": "Das französische KI-Unternehmen Mistral hat am Donnerstag die Modellgewichte seines Spitzenmodells Mistral Large 4 veröffentlicht. Das multimodale Modell hat rund eine Billion Parameter, von denen pro Anfrage etwa 52 Milliarden aktiv sind, und ist auf Hugging Face verfügbar. Nach drei Wochen Nachtraining soll es vor allem beim Programmieren und in der Cyberabwehr besser sein.",
+              "gegenstimme": "heise weist darauf hin, dass Mistrals Spitzenwerte zum Zeitpunkt der Recherche nicht unabhängig überprüfbar waren und das Modell in unabhängigen Tests deutlich hinter Kimi K3.1 Pro und geschlossenen Modellen wie Gemini 4 Carbon liegt. Zudem ist die Lizenz nicht völlig frei: Anbieter, die das Modell als Dienst verkaufen, brauchen eine separate kommerzielle Lizenz.",
+              "sources": [
+                {
+                  "name": "Mistral AI",
+                  "url": "https://mistral.ai/news/mistral-large-4-oss/"
+                },
+                {
+                  "name": "heise",
+                  "url": "https://www.heise.de/news/Mistral-Large-4-Modellgewichte-veroeffentlicht-Coding-Leistung-verbessert-11504965.html"
+                },
+                {
+                  "name": "Hugging Face",
+                  "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
                 }
               ]
             }
