@@ -1,5 +1,5 @@
 {
-  "updated": "11:23 UTC",
+  "updated": "16:21 UTC",
   "days": [
     {
       "date": "2026-10-30",
@@ -787,6 +787,305 @@
                 {
                   "name": "Golem",
                   "url": "https://www.golem.de/news/onlineforen-reddit-will-kontozwang-einfuehren-2610-214674.html"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-10-30-ruag-bericht-schwere-verfehlungen",
+              "slug": "ruag-bericht-schwere-verfehlungen",
+              "title": "Ruag-Bericht: Schaden in Millionenhöhe, «Business First»-Kultur",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🛡️",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/7ab5d9.jpg",
+              "kurz": "Untersuchung zu Ruag MRO deckt schwere Compliance-Verstösse auf; Ruag fordert 51 Mio. Euro von zehn Personen.",
+              "summary": "Ruag MRO hat einen externen Untersuchungsbericht zu Geschäften seit 2002 veröffentlicht. Er nennt schwere Compliance-Verstösse, schwache Kontrollen und eine «Business First»-Kultur; Ruag hat mehrere Strafanzeigen eingereicht und fordert von zehn Personen 51 Mio. Euro Schadenersatz. Bundesrat Pfister spricht von schwerwiegenden Verfehlungen.",
+              "gegenstimme": "Ruag-Präsident Jürg Rötheli betont, die womöglich nachgebauten Leopard-2-Teile seien nach heutigem Wissen nicht sicherheitsrelevant, und die Missstände stammten grossteils aus der Zeit vor der Aufspaltung 2020. Für die Beschuldigten gilt die Unschuldsvermutung.",
+              "sources": [
+                {
+                  "name": "VBS (Medienmitteilung)",
+                  "url": "https://www.vbs.admin.ch/de/newnsb/hc68DehU0UCu"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/millionenbetrug-bei-ruag-pfister-spricht-von-schwerwiegenden-verfehlungen-bei-der-ruag"
+                },
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/schweiz/liveticker/711405578-bericht-deckt-ungereimtheiten-bei-der-ruag-auf-alle-news-im-liveticker"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/ruag-skandal-untersuchung-deckt-schwere-verfehlungen-auf-103658506"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-cassis-nordkorea-buero-eroeffnet",
+              "slug": "cassis-nordkorea-buero-eroeffnet",
+              "title": "Cassis eröffnet Büro in Pjöngjang und reist nach Seoul weiter",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🇰🇵",
+              "edition": "evening",
+              "kurz": "Aussenminister Cassis beendet Nordkorea-Besuch; das Schweizer Büro in Pjöngjang ist offiziell wiedereröffnet.",
+              "summary": "Bundesrat Ignazio Cassis hat seinen zweitägigen Besuch in Nordkorea beendet und ist nach Südkorea weitergereist. In Pjöngjang nahm er an der offiziellen Wiedereröffnung des Schweizer Büros teil, das seit dem 19. Oktober wieder arbeitet und der Botschaft in Peking unterstellt ist.",
+              "gegenstimme": "Nordkorea testete während der Reise Raketen, der praktische Nutzen des Dialogs ist damit fraglich. Das Büro ersetzt zudem nicht die frühere humanitäre Arbeit vor Ort.",
+              "sources": [
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/eng/foreign-affairs/ignazio-cassis-in-pyongyang-to-re-establish-a-diplomatic-presence/92302732"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea"
+                },
+                {
+                  "name": "Yonhap",
+                  "url": "https://www.yna.co.kr/view/AKR20261030025900504?section=international%2Feurope"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/cassis-besucht-nordkorea-was-bringt-der-schweiz-ein-buero-in-nordkorea"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-kosiah-bundesgericht-20-jahre",
+              "slug": "kosiah-bundesgericht-20-jahre",
+              "title": "Bundesgericht bestätigt 20 Jahre Haft für Liberia-Kommandanten Kosiah",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "kurz": "20 Jahre Haft wegen Kriegsverbrechen bestätigt, Freispruch vom Vorwurf der Verbrechen gegen die Menschlichkeit.",
+              "summary": "Das Bundesgericht hat die 20-jährige Freiheitsstrafe gegen den früheren liberianischen Rebellenkommandanten Alieu Kosiah bestätigt. Er ist wegen Kriegsverbrechen verurteilt, darunter Rekrutierung von Kindersoldaten, Mord und Vergewaltigung. Vom Vorwurf der Verbrechen gegen die Menschlichkeit spricht ihn das Gericht frei.",
+              "gegenstimme": "Mit dem Teilfreispruch korrigiert das Bundesgericht die Vorinstanz: Das Rückwirkungsverbot geht der Symbolwirkung einer Verurteilung wegen Verbrechen gegen die Menschlichkeit vor. Für Kosiah ändert das am Strafmass nichts.",
+              "sources": [
+                {
+                  "name": "Swissinfo/SDA",
+                  "url": "https://www.swissinfo.ch/ger/bundesgericht-best%c3%a4tigt-20-jahre-haft-f%c3%bcr-gr%c3%a4ueltaten-in-liberia/92302015"
+                },
+                {
+                  "name": "Le Temps",
+                  "url": "https://www.letemps.ch/suisse/le-tribunal-federal-confirme-la-peine-de-20-ans-infligee-au-chef-rebelle-alieu-kosiah-mais-pas-la-condamnation-pour-crimes-contre-l-humanite"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-kriegsmaterialgesetz-kampagnenbudgets",
+              "slug": "kriegsmaterialgesetz-kampagnenbudgets",
+              "title": "Kriegsmaterialgesetz: Ja-Lager budgetiert fünfmal mehr als Gegner",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "💰",
+              "edition": "evening",
+              "kurz": "Befürworter der KMG-Lockerung melden rund 3 Mio. Franken, Gegner 580'000 Franken.",
+              "summary": "Für die Abstimmung vom 29. November haben die Befürworter gelockerter Kriegsmaterialexporte rund drei Millionen Franken Kampagnenbudget gemeldet, die Gegner 580'000 Franken. Das zeigen die von der Eidgenössischen Finanzkontrolle veröffentlichten Zahlen; insgesamt sind 6,56 Mio. Franken offengelegt.",
+              "gegenstimme": "Die Befürworter argumentieren, die Lockerung sichere die Rüstungsindustrie und die Verteidigungsfähigkeit in einer veränderten Sicherheitslage. Die Gegner sehen die Neutralität gefährdet; ihr Geldnachteil ist bei Referenden gegen Wirtschaftsvorlagen allerdings nicht ungewöhnlich.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/abstimmung-vom-29-november-ja-kampagne-zum-kriegsmaterialgesetz-mit-drei-millionen-budget"
+                },
+                {
+                  "name": "Nau/SDA",
+                  "url": "https://www.nau.ch/politik/international/ja-kampagne-zum-kriegsmaterialgesetz-mit-3-millionen-franken-budget-67195793"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-kapo-bern-virtueller-polizeischalter",
+              "slug": "kapo-bern-virtueller-polizeischalter",
+              "title": "Kapo Bern: Polizeischalter per Video ab Montag im ganzen Kanton",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🚓",
+              "edition": "evening",
+              "kurz": "Ab 2. November bietet die Kantonspolizei Bern den virtuellen Schalter auf Deutsch und Französisch an.",
+              "summary": "Die Kantonspolizei Bern bietet ab dem 2. November ihren virtuellen Polizeischalter im ganzen Kanton auf Deutsch und Französisch an. Per Videoanruf lassen sich Auskünfte, Verlustmeldungen von Ausweisen und Anzeigen bei einfachen Delikten erledigen; Termine werden mindestens 24 Stunden im Voraus über Suisse ePolice gebucht.",
+              "gegenstimme": "Das Angebot ist mit zwei Terminen pro Tag und Sprache klein; wer rasch Hilfe braucht oder ein komplexes Anliegen hat, muss weiterhin auf einen Posten oder die Notrufnummer ausweichen. Kritische Stimmen zum Projekt waren bis Redaktionsschluss nicht zu finden.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern (Medienmitteilung)",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=c512ec26-9883-4e25-92ef-a52a3f5fbb36"
+                },
+                {
+                  "name": "Swissinfo/SDA",
+                  "url": "https://www.swissinfo.ch/ger/virtueller-polizeischalter-steht-ganzem-kanton-bern-zur-verf%c3%bcgung/92302086"
+                },
+                {
+                  "name": "Nau",
+                  "url": "https://www.nau.ch/ort/bern/kanton-bern-polizeischalter-per-videoanruf-nun-auch-auf-deutsch-67195830"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-italien-proteste-gegen-meloni",
+              "slug": "italien-proteste-gegen-meloni",
+              "title": "Italien: Über 100'000 protestieren gegen Meloni-Regierung",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇮🇹",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/a82583bc-7d56-47a2-b7b3-5f24582ee034/AAABoYxf0ec/AAABnSSvrFg/16x9-big/rom-demo-104.jpg?width=1280",
+              "kurz": "Kundgebungen in über 50 Städten gegen Teuerung und Rüstungsausgaben, weitgehend friedlich unter grossem Polizeiaufgebot.",
+              "summary": "In Italien haben mehr als 100'000 Menschen in über 50 Städten gegen die Regierung Meloni protestiert, vor allem gegen hohe Lebenshaltungskosten, tiefe Löhne und steigende Rüstungsausgaben. Aufgerufen hatte die Basisgewerkschaft USB. Die Kundgebungen blieben bis Mittag weitgehend friedlich, in Turin und Genua gab es Zusammenstösse mit der Polizei.",
+              "gegenstimme": "Die Regierung verweist auf ihren Haushalt 2027 mit Steuererleichterungen für mittlere Einkommen, mehr Geld fürs Gesundheitswesen und 2500 Euro Einmalzahlung für Arbeitnehmende unter 30. Meloni liegt in Umfragen weiter vorne; der angekündigte Generalstreik blieb weitgehend aus.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html"
+                },
+                {
+                  "name": "ZDFheute",
+                  "url": "https://www.zdfheute.de/politik/ausland/italien-meloni-protest-schueler-studenten-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-frankreich-gesetz-casseurs-payeurs",
+              "slug": "frankreich-gesetz-casseurs-payeurs",
+              "title": "Frankreich: Senat verschärft Gesetz gegen Randalierer",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "evening",
+              "kurz": "Teilnehmende an gewalttätigen Demos sollen solidarisch für Schäden haften, bis 10'000 Euro pro Person.",
+              "summary": "Der französische Senat hat das Gesetz «casseurs-payeurs» mit 229 zu 105 Stimmen angenommen und deutlich verschärft. Wer bewusst an einer gewalttätigen Zusammenrottung teilnimmt oder nach zwei Aufforderungen bleibt, haftet solidarisch für Schäden bis 10'000 Euro; neu sind zudem individuelle Demonstrationsverbote für bekannte Gewalttäter.",
+              "gegenstimme": "Linke Parteien und Gewerkschaften sprechen von einem Angriff auf die Demonstrationsfreiheit, der friedliche Teilnehmende zu Ersatzzahlern mache. Innenminister Nuñez hält dagegen, wer zerstöre, solle zahlen; der Staatsrat habe den Entwurf als ausgewogen beurteilt.",
+              "sources": [
+                {
+                  "name": "Public Sénat",
+                  "url": "https://www.publicsenat.fr/actualites/parlementaire/projet-de-loi-casseurs-payeurs-le-senat-adopte-le-nouveau-regime-de-responsabilite-civile-solidaire-pour-les-participants-a-une-manifestation-violente"
+                },
+                {
+                  "name": "Les Echos",
+                  "url": "https://www.lesechos.fr/politique-societe/societe/violence-pillages-le-senat-approuve-et-elargit-le-projet-de-loi-casseurs-payeurs-2259487"
+                },
+                {
+                  "name": "Sénat",
+                  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-relatif-a-la-reparation-des-dommages-resultant-de-violences-ou-de-degradations-commises-dans-lespace-public-et-au-recouvrement-des-dommages-et-interets.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-irland-gremium-wiedervereinigung",
+              "slug": "irland-gremium-wiedervereinigung",
+              "title": "Irland lässt erstmals Szenarien einer Wiedervereinigung prüfen",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🇮🇪",
+              "edition": "evening",
+              "kurz": "Taoiseach Martin will ein Regierungsgremium für die «verfassungsmässige Zukunft» der Insel schaffen.",
+              "summary": "Der irische Regierungschef Micheál Martin will ein staatliches Gremium schaffen, das drei Zukunftsszenarien für die Insel untersucht: ein vereintes Irland, den Status quo mit Nordirland im Vereinigten Königreich und ein vereintes Irland mit einem eigenständigen Nordirland. Ein Antrag ans Kabinett soll vor Weihnachten folgen.",
+              "gegenstimme": "Martin selbst kritisiert die Kampagnen für eine baldige Grenzabstimmung als einseitig und will deshalb die Union mit Grossbritannien ausdrücklich als Option prüfen. Reaktionen unionistischer Parteien waren bis Redaktionsschluss nicht auffindbar.",
+              "sources": [
+                {
+                  "name": "The Irish Times",
+                  "url": "https://www.irishtimes.com/ireland/2026/10/30/new-body-to-examine-options-for-island-of-irelands-constitutional-futures-taoiseach/"
+                },
+                {
+                  "name": "Straits Times/Reuters",
+                  "url": "https://www.straitstimes.com/world/europe/irish-government-to-scope-out-possibility-of-unity-with-northern-ireland-for-first-time"
+                },
+                {
+                  "name": "Newstalk",
+                  "url": "https://www.newstalk.com/news/irish-unity-2320738"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-eu-stoppt-nationale-social-media-verbote",
+              "slug": "eu-stoppt-nationale-social-media-verbote",
+              "title": "EU-Kommission bremst nationale Social-Media-Verbote für Kinder",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "📵",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/8/2/1/shutterstock_2822799529-bb141f9e452da721.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Österreichs Altersgrenze 14 muss ein Jahr warten; Brüssel will eine EU-weite Regel.",
+              "summary": "Die EU-Kommission hat Österreichs geplantes Social-Media-Verbot für unter 14-Jährige mit einer einjährigen Stillhaltefrist belegt. Brüssel will eine EU-weite Lösung – Zugang ab 13, eigene Konten ab 15 – und warnt vor Zersplitterung. Italien, Frankreich und Griechenland dürfen ihre früher gemeldeten Verbote dagegen einführen.",
+              "gegenstimme": "Österreich und die deutsche Familienministerin Karin Prien wollten nicht auf die EU warten, da die Verhandlungen Jahre dauern könnten. Die Kommission argumentiert, unterschiedliche Altersgrenzen liessen sich kaum durchsetzen.",
+              "sources": [
+                {
+                  "name": "heise/dpa",
+                  "url": "https://www.heise.de/news/Social-Media-Verbot-Bruessel-bremst-nationale-Vorhaben-aus-11505859.html"
+                },
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3446486/"
+                },
+                {
+                  "name": "Politico",
+                  "url": "https://www.politico.eu/article/eu-will-nationale-social-media-verbote-stoppen/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-cursor-marktplatz-claude-code-malware",
+              "slug": "cursor-marktplatz-claude-code-malware",
+              "title": "Manipulierte Claude-Code-Erweiterung im Cursor-Marktplatz",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🐛",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/2/0/7/9/shutterstock_2550518111-4bdc30bba5d5c439.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Version 2.1.313 enthielt eine SSH-Hintertür; bis zu 5000 Entwickler betroffen.",
+              "summary": "Im Erweiterungsmarktplatz der Programmierumgebung Cursor war am Donnerstag rund elf Stunden lang eine manipulierte Version 2.1.313 der Claude-Code-Erweiterung erhältlich. Sie versuchte, eine SSH-Hintertür einzurichten, und schickte Rechnerdaten an die Angreifer. Laut Cursor sind höchstens 5000 Nutzer betroffen.",
+              "gegenstimme": "Cursor betont, wegen Fehlern im Schadcode habe die Hintertür auf den meisten Rechnern nicht funktioniert und der Angreiferserver sei abgeschaltet. Sicherheitsforscher warnen dennoch: Deinstallieren allein reicht nicht, Schlüssel und Zugangsdaten müssen bereinigt werden.",
+              "sources": [
+                {
+                  "name": "Cursor (Sicherheitshinweis)",
+                  "url": "https://cursor.com/blog/claude-code-extension-security-notice"
+                },
+                {
+                  "name": "heise",
+                  "url": "https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-doordash-kauft-instacart",
+              "slug": "doordash-kauft-instacart",
+              "title": "DoorDash übernimmt Instacart für 17 Milliarden Dollar",
+              "date": "2026-10-30",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "🛒",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bde4/live/a139f9d0-d3a2-11f1-a5cd-49637fcbd4e4.jpg",
+              "kurz": "Grösste Übernahme der Firmengeschichte: 65 Dollar je Aktie, Abschluss frühestens Ende 2027.",
+              "summary": "Der US-Lieferdienst DoorDash kauft den Einkaufsdienst Instacart für rund 17 Mrd. Dollar, 65 Dollar je Aktie und mindestens zu 75 Prozent in bar. Das entspricht 26 Prozent Aufschlag auf den Kurs vor Bekanntwerden der Gespräche. Der Abschluss ist Ende 2027 oder im ersten Halbjahr 2028 geplant.",
+              "gegenstimme": "Die New Yorker Behörde für Konsumenten- und Arbeitnehmerschutz kritisiert einen «besorgniserregenden Trend» zur Konzentration, Kartellprobleme gelten als möglich. Analysten wie Morningstar sehen dagegen eine logische Wachstumsstrategie.",
+              "sources": [
+                {
+                  "name": "Instacart (Mitteilung)",
+                  "url": "https://company.instacart.com/pressreleases/doordash-to-acquire-instacart-to-help-local-stores-win"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cm79pjg2l57yo"
+                },
+                {
+                  "name": "heise",
+                  "url": "https://www.heise.de/news/Fuer-17-Milliarden-US-Dollar-DoorDash-uebernimmt-Shopping-Lieferdienst-Instacart-11505960.html"
                 }
               ]
             }
