@@ -1,6 +1,400 @@
 {
-  "updated": "16:18 UTC",
+  "updated": "05:18 UTC",
   "days": [
+    {
+      "date": "2026-10-30",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-10-30-schweizer-bauteile-russische-drohnen-hur",
+              "slug": "schweizer-bauteile-russische-drohnen-hur",
+              "title": "Ukraine findet Teile von elf Schweizer Firmen in neuen russischen Waffen",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🛩️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/147dc3.jpg",
+              "kurz": "Der ukrainische Militärgeheimdienst listet Bauteile von elf Schweizer Herstellern in neuen russischen Drohnen, Raketen und Marschflugkörpern.",
+              "summary": "Der ukrainische Militärgeheimdienst HUR hat in Trümmern neuer oder weiterentwickelter russischer Drohnen, Raketen und Marschflugkörper aus Funden vom Frühjahr, September und Oktober 2026 Elektronik von elf Herstellern mit Sitz in der Schweiz dokumentiert. Es handelt sich um zivile Massenprodukte wie Mikrocontroller, Navigationsmodule, Spannungswandler, Sensoren und Speicherchips. In der neuen Strahldrohne Geran-4 fand der HUR 74 ausländische Bauteile, davon 10 aus der Schweiz, 36 aus den USA und 12 aus China.",
+              "gegenstimme": "Die betroffenen Firmen, etwa STMicroelectronics (Plan-les-Ouates) und u-blox (Thalwil), betonen, sie lieferten seit Kriegsbeginn nicht mehr nach Russland und hätten Compliance-Programme; die Teile gelangten über Zwischenhändler in Drittstaaten dorthin und würden oft gar nicht in der Schweiz produziert. Zudem stammt der weitaus grösste Anteil der Fremdteile aus den USA, nicht aus der Schweiz. Die Ukraine hat ein Interesse daran, politischen Druck auf Herkunftsländer aufzubauen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/drohnen-krieg-in-der-ukraine-schweizer-teile-auch-in-neuen-russischen-waffen-entdeckt"
+                },
+                {
+                  "name": "Frontliner (Ukraine)",
+                  "url": "https://frontliner.ua/en/what-russian-jet-powered-drones-are-made-of-seven-countries-and-one-supply-chain/"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/eng/foreign-affairs/switzerland-leads-europe-in-technology-found-in-russias-weapons/90988122"
+                },
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/nzz-am-sonntag/report-und-debatte/die-lieferungen-des-todes-wie-zehntausende-kriegswichtige-produkte-von-schweizer-firmen-nach-russland-gelangen-ld.10006164"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-sp-beschwerde-abstimmungsbuechlein-kmg",
+              "slug": "sp-beschwerde-abstimmungsbuechlein-kmg",
+              "title": "Kriegsmaterialgesetz: SP reicht Beschwerde gegen das Abstimmungsbüchlein ein",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/c23048.jpg",
+              "kurz": "Die SP wirft dem Bundesrat vor, beim Kriegsmaterialgesetz den Eindruck zu erwecken, die Ukraine profitiere von der Lockerung.",
+              "summary": "Die SP hat am 29. Oktober Beschwerde gegen die Abstimmungserläuterungen zur Revision des Kriegsmaterialgesetzes eingereicht, über die am 29. November abgestimmt wird. Sie kritisiert, das Büchlein nenne den russischen Angriffskrieg mehrfach als Grund für die Revision, verschweige aber, dass die Ukraine auch künftig kein Schweizer Kriegsmaterial erhalten darf. Ein vorgängiges Korrekturgesuch hatte die Bundeskanzlei abgelehnt.",
+              "gegenstimme": "Die Bundeskanzlei hält fest: «Das Büchlein verspricht an keiner Stelle, dass die Ukraine künftig direkt oder indirekt Schweizer Kriegsmaterial bekommt», und es weise ausdrücklich auf das fortgeltende Neutralitätsrecht hin. Bundesrat Guy Parmelin hatte öffentlich gesagt, bezüglich der Ukraine werde sich «nichts ändern». Befürworter der Revision sehen in der Beschwerde ein taktisches Manöver kurz vor der Abstimmung.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/kriegsmaterialgesetz-sp-reicht-beschwerde-gegen-abstimmungsbuechlein-ein"
+                },
+                {
+                  "name": "Nau.ch / Keystone-SDA",
+                  "url": "https://www.nau.ch/politik/bundeshaus/kontroverse-um-abstimmungserlauterungen-zum-kriegsmaterialgesetz-67194392"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/329544667-kriegsmaterialgesetz-sp-kritisiert-informationen-des-bundesrates"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/kriegsmaterialgesetz-sp-kritisiert-abstimmungsbuechlein-116246214250"
+                },
+                {
+                  "name": "The Intelligent",
+                  "url": "https://theintelligent.ch/politik/2026/sp-erhebt-beschwerde-gegen-abstimmungsbuechlein-zum-kriegsmaterialgesetz"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-armee-uebungen-ausserhalb-waffenplaetze",
+              "slug": "armee-uebungen-ausserhalb-waffenplaetze",
+              "title": "Armee soll wieder ausserhalb der Waffenplätze üben – Ständeratskommission sagt Ja",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🪖",
+              "edition": "morning",
+              "image": "https://media.20min.ch/6/image/2026/06/04/f13c673d-92b5-4ebc-adf6-98b49b74c86e.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C4000%2C2667&s=efe85789c4bd2e3ced28c8ba8be16fa4",
+              "kurz": "Die Sicherheitskommission des Ständerats unterstützt mit 9 zu 3 Stimmen die Motion von SVP-Nationalrat Thomas Burgherr für Gefechtsübungen im ganzen Land.",
+              "summary": "Die Sicherheitspolitische Kommission des Ständerats (SiK-S) beantragt mit 9 zu 3 Stimmen, die Motion 25.3790 von SVP-Nationalrat Thomas Burgherr anzunehmen. Sie verlangt, dass die Armee zur Stärkung der Verteidigungsfähigkeit auch ausserhalb der bestehenden Waffenplätze in geeignetem Gelände üben kann. Der Nationalrat hat die Motion bereits im Sommer angenommen.",
+              "gegenstimme": "SP-Nationalrat Hasan Candan lehnt den Vorstoss ab: Übungen ausserhalb der festen Plätze könnten Wildtiere und Ökosysteme massiv stören, deshalb sei das Üben auf festgelegten Flächen klar vorzuziehen. Es gebe genügend Waffen- und Gefechtsübungsplätze, diese sollten an heutige Bedürfnisse angepasst werden.",
+              "sources": [
+                {
+                  "name": "Parlament.ch (SiK-S)",
+                  "url": "https://www.parlament.ch/press-releases/Pages/mm-sik-s-2026-10-27.aspx?lang=1031"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/armee-svp-nationalrat-burgherr-will-uebungen-im-ganzen-land-erlauben-103658462"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-nahtstellenbarometer-lehrstellen-2026",
+              "slug": "nahtstellenbarometer-lehrstellen-2026",
+              "title": "Lehrstellenmarkt stabil: 49 Prozent der Schulabgänger starten eine Lehre",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🎓",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/a0a5ad.jpg",
+              "kurz": "Laut Nahtstellenbarometer boten Betriebe 2026 rund 86'000 Lehrstellen an; 88 Prozent waren bis August besetzt.",
+              "summary": "Von über 91'000 Jugendlichen, die im Sommer 2026 die obligatorische Schule abschlossen, begannen 49 Prozent eine berufliche Grundbildung, 34 Prozent wählten einen allgemeinbildenden Weg und 17 Prozent eine Zwischenlösung. Die Unternehmen boten rund 86'000 Lehrstellen an, bis August waren über 75'000 besetzt. Das zeigt das Nahtstellenbarometer, das gfs.bern im Auftrag des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) erstellt.",
+              "gegenstimme": "Stabil heisst nicht problemlos: Rund jede achte angebotene Lehrstelle blieb bis August unbesetzt, und die Betriebe nennen als Hauptgrund ungeeignete oder fehlende Bewerbungen, etwa wegen schwacher Schulleistungen, Sprachdefiziten oder fehlender Motivation.",
+              "sources": [
+                {
+                  "name": "SBFI",
+                  "url": "https://www.sbfi.admin.ch/de/newnsb/ReR-lJGp9h5y"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/49-prozent-machen-lehre-schweizer-unternehmen-halten-ihr-lehrstellenangebot-konstant"
+                },
+                {
+                  "name": "Nau.ch / Keystone-SDA",
+                  "url": "https://www.nau.ch/news/schweiz/schweizer-unternehmen-halten-ihr-lehrstellenangebot-konstant-67195418"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-bern-stadtrat-video-uebertragung",
+              "slug": "bern-stadtrat-video-uebertragung",
+              "title": "Berner Stadtrat überträgt seine Sitzungen künftig per Video",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "📹",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/2a045d23e9e9f207cba74c7be2b0f8fadf88cdc0-92298411.jpg?ver=07843a5f&fit=1200,900",
+              "kurz": "Mit 58 zu 0 Stimmen beschliesst das Stadtberner Parlament, seine Debatten nicht nur als Ton, sondern auch als Bild ins Internet zu übertragen.",
+              "summary": "Der Berner Stadtrat hat am Donnerstag mit 58 zu 0 Stimmen eine Teilrevision seines Geschäftsreglements genehmigt: Seine Sitzungen werden künftig mit Bild statt nur mit Ton im Internet übertragen. Genutzt wird die bestehende Videoanlage des Kantons im Rathaus; für die Stadt fallen einmalig rund 3000 und jährlich rund 8500 Franken an. Ratsmitglieder können verlangen, dass bei eigenen Voten die Kamera ausgeschaltet wird.",
+              "gegenstimme": "FDP- und SVP-Mitglieder kritisierten die Ausschalt-Möglichkeit. Alexander Feuz (SVP) warnte vor einem Verstoss gegen die Transparenz, Nik Eugster (FDP) sagte: «Wir sind in ein öffentliches Amt gewählt worden.» Wer im Fernsehen auftrete, liefere ohnehin Material für Deepfakes.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/berner-stadtrat-sitzungen-neu-per-video-im-internet-892488932081"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/berner-stadtrat-f%c3%bchrt-video-%c3%9cbertragungen-seiner-sitzungen-ein/92298424"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-binance-hack-6-milliarden",
+              "slug": "binance-hack-6-milliarden",
+              "title": "Binance meldet Angriff mit 6,3 Milliarden Dollar Schaden – womöglich grösster Krypto-Diebstahl",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "🪙",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+              "kurz": "Die grösste Kryptobörse der Welt hat Ein- und Auszahlungen gestoppt; rund die Hälfte der betroffenen Mittel ist eingefroren.",
+              "summary": "Die Kryptobörse Binance hat einen «Sicherheitsvorfall» gemeldet, der Vermögenswerte von rund 6,3 Milliarden Dollar betrifft. Erste Abklärungen deuten laut Binance auf den kompromittierten Laptop eines Ingenieurs, über den ein Angreifer unautorisierte Auszahlungen auslöste. Rund 3 Milliarden Dollar sind mit Hilfe anderer Plattformen eingefroren, Ein- und Auszahlungen sind vorerst gestoppt.",
+              "gegenstimme": "Binance betont, die Kundengelder seien sicher, ein vollständig in Bitcoin gehaltener Sicherheitsfonds decke Verluste, und Co-Chefin Yi He verspricht, «alle» Verluste zu übernehmen. Kritiker sehen erneut bestätigt, dass zentrale Kryptobörsen ein Klumpenrisiko sind: Ein einziger kompromittierter Rechner reichte offenbar für einen Milliardenabfluss.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/milliarden-abgeflossen-hackerangriff-auf-kryptoboerse-binance-kryptohandel-gestoppt"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue"
+                },
+                {
+                  "name": "Guardian",
+                  "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-linux-tcp-luecke-cve-2026-98432",
+              "slug": "linux-tcp-luecke-cve-2026-98432",
+              "title": "Kritische Linux-Lücke: KI schrieb Root-Exploit, Ubuntu und RHEL noch ohne Patch",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🐧",
+              "edition": "morning",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCJ0ttE8v4hkDjJRqbTvxlxFcoNtFJhbYCQ-o8NtaiyFLImEyA8aSO967eeZG9fRebhc8oVA-OloE9X9KVVAxM-H3wKvUlh8XmN6bGlEz2IJwMgcssmA7yIRi7YNOwVQYD6nhQCaWUg6fPy-QXVjfw6rV55LueKlLvZLazjKjTL94KJMMUZ2uZ3R019Km/s1600/linux-flaw.jpg",
+              "kurz": "Für die TCP-Lücke CVE-2026-98432 gibt es einen Fernzugriffs-Exploit; Debian, SUSE, Oracle und Amazon Linux haben gepatcht, Ubuntu und Red Hat noch nicht.",
+              "summary": "Eine Lücke im IPv4-TCP-Code des Linux-Kernels (CVE-2026-98432) erlaubt laut Anthropic Angreifern ohne Zugangsdaten, auf Servern mit Multipath-TCP-Listener Befehle als root auszuführen; das KI-Modell Claude habe den Exploit geschrieben. Das Kernel-Team bewertet die Lücke mit 9,8 von 10 Punkten. Stand 29. Oktober hatten Ubuntu und Red Hat Enterprise Linux noch keine korrigierten Kernel-Pakete veröffentlicht.",
+              "gegenstimme": "Red Hat, Amazon, Oracle und SUSE stufen die Lücke mit 5,9 bis 8,1 Punkten deutlich tiefer ein, Red Hat nur als «Moderate», und schiebt die Korrektur auf ein späteres Update. Ausnutzbar ist sie laut Anthropic nur auf Servern, auf denen eine Anwendung ausdrücklich Multipath-TCP anfordert, was eher selten ist.",
+              "sources": [
+                {
+                  "name": "Golem",
+                  "url": "https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html"
+                },
+                {
+                  "name": "The Hacker News",
+                  "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html"
+                },
+                {
+                  "name": "ctxsec",
+                  "url": "https://ctxsec.com/items/linux-tcp-ipv4-uaf-cve-2026-98432-ubuntu-rhel-no-fixed-kernel"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-amazon-q3-aws-cashflow",
+              "slug": "amazon-q3-aws-cashflow",
+              "title": "Amazon: AWS wächst so stark wie seit fünf Jahren nicht – KI-Ausgaben drücken Cashflow",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "📦",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/6/8/4/shutterstock_1833742939-e351f647c06c4f7a.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Die Cloud-Sparte wächst um 39 Prozent, doch die Investitionen in KI-Rechenzentren drücken den freien Cashflow auf minus 42 Milliarden Dollar.",
+              "summary": "Amazon hat im dritten Quartal den Umsatz der Cloud-Sparte AWS um 39,3 Prozent auf 46 Milliarden Dollar gesteigert, das stärkste Wachstum seit fast fünf Jahren. Der Betriebsgewinn des Konzerns stieg auf 28,1 Milliarden Dollar, die operative Marge von 13,9 Prozent ist ein Rekord. Wegen der hohen KI-Investitionen fiel der freie Cashflow über zwölf Monate aber auf minus 42,4 Milliarden Dollar, und die Aktie gab nach.",
+              "gegenstimme": "Konzernchef Andy Jassy sagt, die Investitionen zahlten sich aus, und stellt für AWS in den Jahren 2027 und 2028 jeweils über 40 Prozent Wachstum in Aussicht. Skeptiker an der Börse fragen, wann die Milliarden für KI-Rechenzentren entsprechende Gewinne abwerfen, nachdem am Vortag schon Alphabet rund eine halbe Billion Dollar Börsenwert verloren hatte.",
+              "sources": [
+                {
+                  "name": "Amazon (Quartalsbericht)",
+                  "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"
+                },
+                {
+                  "name": "heise",
+                  "url": "https://www.heise.de/news/Amazon-waechst-weniger-stark-als-erwartet-hohe-KI-Investitionen-daempfen-Aktie-11505585.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-israel-endergebnis-53-48-19",
+              "slug": "israel-endergebnis-53-48-19",
+              "title": "Israel: Endergebnis bestätigt Patt – arabische Parteien mit Rekord",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "image": "https://images.welt.de/6ae423cf981b80c0b7986611/3495367bf9212ae7c317d11eba687b7a-master/ci16x9-w1200/dpa-com-261029-935-1707667-jpg",
+              "kurz": "Netanyahus Block kommt auf 53, das Lager von Gadi Eisenkot auf 48 und die arabischen Parteien auf 19 der 120 Sitze.",
+              "summary": "Nach Auszählung aller Stimmen hat die Zentrale Wahlkommission das Ergebnis der israelischen Parlamentswahl vom Dienstag veröffentlicht: Der rechtsreligiöse Block von Ministerpräsident Benjamin Netanyahu erhält 53 Sitze, das Oppositionsbündnis des Mitte-rechts-Politikers Gadi Eisenkot 48 und die arabischen Parteien 19. Für eine Mehrheit in der Knesset sind 61 Sitze nötig. Die neue Knesset soll am 10. November vereidigt werden.",
+              "gegenstimme": "Netanyahus Lager wirft arabischen Parteien Wahlbetrug vor und verweist auf angebliche Einmischung aus Katar; Katar nennt die Vorwürfe «lächerlich und gefährlich». Eisenkot und die Opposition werfen Netanyahu vor, das Wahlergebnis «delegitimieren» zu wollen; Kritiker sehen darin eine Kampagne gegen arabische Wähler.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae423cf981b80c0b7986611/parlamentswahl-endergebnis-steht-fest-israel-vor-schwieriger-regierungsbildung.html"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/"
+                },
+                {
+                  "name": "Times of Israel (Wahlkommission)",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/central-elections-committee-publishes-final-election-results-knesset-to-be-sworn-in-nov-10/"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/israel-geheimdienst-soll-auslaendische-einfluesse-pruefen-804056487247"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-china-plenum-rekord-ausschluesse",
+              "slug": "china-plenum-rekord-ausschluesse",
+              "title": "China: Rekordzahl an Parteiausschlüssen am Plenum – mehr als ein Viertel der Sitze leer",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇨🇳",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg",
+              "kurz": "Die Kommunistische Partei schliesst 33 Mitglieder des Zentralkomitees aus, darunter Ex-Militärvize Zhang Youxia; 16 der Ausgeschlossenen stammen aus dem Militär.",
+              "summary": "Am fünften Plenum des Zentralkomitees der Kommunistischen Partei Chinas sind 33 Mitglieder ausgeschlossen worden, so viele wie nie zuvor. Nur 279 Voll- und Ersatzmitglieder nahmen teil, verglichen mit 376 ursprünglich 2022 ernannten; laut BBC fiel die Teilnahme erstmals in Xi Jinpings Amtszeit unter 300. Unter den Ausgeschlossenen sind Zhang Youxia, früherer Vizevorsitzender der Zentralen Militärkommission, und Ma Xingrui.",
+              "gegenstimme": "Die Partei stellt die Säuberungen als Kampf gegen Korruption und für Disziplin dar; laut Disziplinarkommission wurden seit 2012 über zwei Millionen Personen belangt. Analysten wie Chong Ja Ian (Carnegie China) sehen darin vor allem ein Instrument, Macht zu sichern und Illoyalität zu bestrafen, abhängig davon, wie sicher sich Xi fühlt.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo"
+                },
+                {
+                  "name": "Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum"
+                },
+                {
+                  "name": "NPR",
+                  "url": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-hegseth-entlaesst-general-sylvia",
+              "slug": "hegseth-entlaesst-general-sylvia",
+              "title": "Pentagon: Hegseth entlässt Spitzengeneral wegen mutmasslicher Leaks zum Iran-Krieg",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "image": "https://images.welt.de/6ae3876d981b80c0b7986109/5f2b25e1533405514ee6f184d94f5788-master/ci16x9-w1200/apdpa-607a375033c24295a7cc45eac473e30b-jpg",
+              "kurz": "Generalleutnant Brett Sylvia soll geheime Informationen zum Iran- und zum Ukraine-Krieg an Medien weitergegeben haben; der Fall liegt beim Justizministerium.",
+              "summary": "US-Verteidigungsminister Pete Hegseth hat Generalleutnant Brett Sylvia entlassen, der im Vereinigten Generalstab für Strategie, Planung und Politik zuständig war. Laut Pentagon soll er unter anderem geheime Informationen über den Iran-Krieg und den Krieg in der Ukraine an Journalisten weitergegeben haben. Das Ministerium hat den Fall nach einer Untersuchung der Air-Force-Ermittlungsbehörde OSI dem Justizministerium zur möglichen Strafverfolgung übergeben.",
+              "gegenstimme": "Sylvia selbst hat sich öffentlich nicht geäussert, und das Pentagon nannte keine Belege. Kritiker sehen die Entlassung als Teil von Hegseths breiter Kampagne gegen Informanten, zu der laut WELT auch Lügendetektortests und drastisch eingeschränkter Medienzugang zum Ministerium gehören, während der unpopuläre Iran-Krieg in den neunten Monat geht.",
+              "sources": [
+                {
+                  "name": "Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae3876d981b80c0b7986109/pentagon-schwerwiegendes-fehlverhalten-hegseth-feuert-topgeneral-nach-luegendetektortests.html"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/pentagon-accuses-fired-general-of-leaking-classified-intel-on-iran-war-to-media/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-trappes-anschlag-rassistisches-motiv",
+              "slug": "trappes-anschlag-rassistisches-motiv",
+              "title": "Anschlag bei Paris: Täter gesteht, gezielt Muslime und Schwarze angegriffen zu haben",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/e58fde7e-c267-4c14-8cab-4ddeacd3988d_w1200_r1.778_fpx38_fpy52.jpg",
+              "kurz": "Der 39-jährige Kévin T. ist wegen terroristischen Mordes mit rassistischem Motiv angeklagt; er wählte Trappes als angebliche «Hochburg von Islamisten».",
+              "summary": "Der mutmassliche Täter des Anschlags vom 23. Oktober in Trappes und La Verrière westlich von Paris hat laut der Anti-Terror-Staatsanwaltschaft gestanden, gezielt Menschen «vom muslimischen, afrikanischen oder nordafrikanischen Typ» angegriffen zu haben. Der 39-jährige Franzose Kévin T. tötete den 26-jährigen Pengo Bossio Wangi, einen schwarzen Franzosen mit Wurzeln in der DR Kongo, und verletzte sieben Menschen, darunter ein elfjähriges Mädchen. Am 29. Oktober wurde er wegen Mordes und versuchten Mordes im Zusammenhang mit einem terroristischen Vorhaben, verschärft durch ein rassistisches Motiv, in Untersuchung gezogen.",
+              "gegenstimme": "Kévin T. bestreitet eine terroristische Absicht, nennt seine Tat «legitim» und machte psychische Probleme geltend. Er gibt an, keiner Partei anzugehören oder nahezustehen, obwohl bei ihm selbst entworfene Aufkleber mit «Vive la France, RN» gefunden wurden. Eine Verbindung zum Rassemblement National ist damit nicht belegt und sollte nicht unterstellt werden.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/frankreich-taeter-bekennt-sich-zu-rassistischem-motiv-nach-anschlag-bei-paris-a-79b23965-fd5d-478b-9eca-776624757965"
+                },
+                {
+                  "name": "franceinfo",
+                  "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/mobile-raciste-autocollants-glorifiant-le-rn-premeditation-ce-qu-il-faut-retenir-de-la-conference-de-presse-du-procureur-antiterroriste-sur-kevin-t-suspect-de-l-attentat-dans-les-yvelines_8258618.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://fr.euronews.com/2026/10/29/attentat-de-trappes-le-suspect-reconnait-avoir-cible-des-musulmans-et-des-personnes-dorigi"
+                },
+                {
+                  "name": "Le Monde",
+                  "url": "https://www.lemonde.fr/societe/article/2026/10/29/attentat-raciste-de-trappes-kevin-t-mis-en-examen-pour-assassinat-et-tentatives-d-assassinat-terroriste-a-reconnu-avoir-cible-des-personnes-de-type-musulman-ou-africain_6802354_3224.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-huthi-angriffe-saudi-arabien-oel",
+              "slug": "huthi-angriffe-saudi-arabien-oel",
+              "title": "Huthi melden sechs Angriffe auf saudische Ölanlagen und Flughäfen",
+              "date": "2026-10-30",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a613e7ed9b96-1784757886.jpg?resize=1920%2C1440",
+              "kurz": "Die vom Iran unterstützte Miliz will Ras Tanura, Abqaiq, Rabigh und Flughäfen in Riad und Dammam angegriffen haben; Riad meldet abgefangene Raketen.",
+              "summary": "Die vom Iran unterstützten Huthi im Jemen haben am Donnerstag sechs Raketen- und Drohnenangriffe auf Saudi-Arabien für sich reklamiert, darunter auf die Raffinerien Ras Tanura und Rabigh, die Aramco-Anlage Abqaiq, die Flughäfen von Riad und Dammam sowie einen Militärstützpunkt in Najran. Die saudisch geführte Koalition meldete, sie habe ballistische Raketen Richtung Riad und die Ostprovinz abgefangen. Treffer an Ölanlagen oder Flughäfen hat Saudi-Arabien nicht bestätigt.",
+              "gegenstimme": "Die Huthi stellen die Angriffe als Antwort auf saudische Luftschläge auf von ihnen gehaltene Gebiete im Jemen dar; laut Times of Israel wurden im Jemen zwölf Tote gemeldet. Die Eskalation kommt nur Tage nach einem Treffen Irans mit Saudi-Arabien, der Türkei und Pakistan in Teheran, bei dem alle Seiten Dialog versprachen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities"
+                },
+                {
+                  "name": "Xinhua",
+                  "url": "https://english.news.cn/20261030/32e3259aff474a9b9d4e7a6e776095e1/c.html"
+                },
+                {
+                  "name": "Saudi Press Agency",
+                  "url": "https://www.spa.gov.sa/en/N2713655"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/saudis-intercept-houthi-missiles-blasts-heard-in-riyadh-12-reported-killed-in-yemen/"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-10-29",
       "editions": {
