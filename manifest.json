@@ -1,5 +1,5 @@
 {
-  "updated": "05:18 UTC",
+  "updated": "11:23 UTC",
   "days": [
     {
       "date": "2026-10-30",
@@ -388,6 +388,405 @@
                 {
                   "name": "Times of Israel",
                   "url": "https://www.timesofisrael.com/saudis-intercept-houthi-missiles-blasts-heard-in-riyadh-12-reported-killed-in-yemen/"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:30",
+          "articles": [
+            {
+              "id": "2026-10-30-schweiz-china-freihandelsabkommen-unterzeichnet",
+              "slug": "schweiz-china-freihandelsabkommen-unterzeichnet",
+              "title": "Parmelin unterzeichnet in Peking das erneuerte Freihandelsabkommen mit China",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🇨🇳",
+              "edition": "midday",
+              "kurz": "Bundespräsident Parmelin und Xi Jinping haben in Peking das modernisierte Freihandelsabkommen von 2014 unterzeichnet.",
+              "summary": "Bundespräsident Guy Parmelin hat am 30. Oktober in Peking mit Staatschef Xi Jinping das optimierte Freihandelsabkommen von 2014 unterzeichnet, dazu Abkommen zu Arbeit und Beschäftigung sowie zur Forschungszusammenarbeit. Laut WBF werden künftig 99,8 Prozent der Schweizer Exporte nach China zollfrei. Erstmals enthält ein chinesisches Freihandelsabkommen ein rechtsverbindliches Nachhaltigkeitskapitel.",
+              "gegenstimme": "Amnesty Schweiz, Public Eye und Voices kritisieren, das Abkommen enthalte nur einen symbolischen Verweis auf die Menschenrechte in der Präambel, aber weder ein Importverbot für Produkte aus Zwangsarbeit noch Sanktionsmöglichkeiten. Sie drohen mit dem Referendum. Der Präsident der tibetischen Exilregierung warf der Schweiz in der NZZ vor, sich zur «Komplizin» Chinas zu machen.",
+              "sources": [
+                {
+                  "name": "WBF (Medienmitteilung)",
+                  "url": "https://www.wbf.admin.ch/de/newnsb/Nb4J2LzVCEaA"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/parmelin-in-china-schweiz-und-china-erneuern-freihandelsabkommen"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/schweiz-china-parmelin-erneuert-freihandelsabkommen-962747309418"
+                },
+                {
+                  "name": "Public Eye (Kritik, Aug. 2026)",
+                  "url": "https://www.publiceye.ch/de/mediencorner/medienmitteilungen/detail/ungenuegende-absicherung-der-menschenrechte"
+                },
+                {
+                  "name": "NZZ (Tibet-Exilregierung)",
+                  "url": "https://www.nzz.ch/schweiz/die-schweiz-macht-sich-zur-komplizin-von-china-der-praesident-der-tibetischen-exilregierung-wirft-der-schweiz-vor-wirtschaftliche-interessen-ueber-menschenrechte-zu-stellen-ld.10027380"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-snb-gewinn-neun-monate-44-milliarden",
+              "slug": "snb-gewinn-neun-monate-44-milliarden",
+              "title": "SNB erzielt nach neun Monaten 44,2 Milliarden Franken Gewinn",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/3723f5.jpg",
+              "kurz": "Die Nationalbank weist für Januar bis September einen Gewinn von 44,2 Milliarden Franken aus, getragen von Fremdwährungen und Aktien.",
+              "summary": "Die Schweizerische Nationalbank (SNB) hat in den ersten neun Monaten 2026 einen Gewinn von 44,2 Milliarden Franken erzielt, davon 19,1 Milliarden im dritten Quartal. Treiber waren die Fremdwährungspositionen mit plus 43,3 Milliarden, vor allem dank Wechselkursen und Aktien. Auf dem Gold resultierte ein Plus von 1,2 Milliarden.",
+              "gegenstimme": "Ein Zwischenergebnis ist kein Jahresergebnis: Die SNB betont selbst, dass ihr Resultat stark von Gold-, Devisen- und Kapitalmärkten abhängt und sich bis Jahresende drehen kann. Der Oktober verlief laut SRF bereits schwieriger. Kritiker der hohen Devisenbestände sehen in den Schwankungen eher ein Risiko für die Bilanz als einen Erfolg.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/gewinnausschuettung-offen-snb-erzielt-nach-9-monaten-hohen-milliardengewinn"
+                },
+                {
+                  "name": "Watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/690460165-snb-erzielt-nach-9-monaten-hohen-milliardengewinn"
+                },
+                {
+                  "name": "NZZ (Meldungen)",
+                  "url": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-junge-tat-anfuehrer-verurteilt",
+              "slug": "junge-tat-anfuehrer-verurteilt",
+              "title": "Bezirksgericht Zürich verurteilt Anführer der «Jungen Tat»",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/03a4c5.jpg",
+              "kurz": "Die Anführer der rechtsextremen Gruppe Junge Tat erhalten je 12 Monate bedingt, deutlich weniger als beantragt.",
+              "summary": "Das Bezirksgericht Zürich hat die Anführer der rechtsextremen Gruppierung «Junge Tat», Tobias Lingg (23) und Manuel Corchia (25), zu je 12 Monaten bedingt und unbedingten Geldstrafen verurteilt, unter anderem wegen Diskriminierung und Aufrufs zu Hass, Nötigung und Landfriedensbruchs. Die Staatsanwaltschaft hatte 15 Monate, davon 6 unbedingt, gefordert. Drei weitere Mitglieder erhielten bedingte Geldstrafen, die einzige angeklagte Frau wurde freigesprochen.",
+              "gegenstimme": "Die Angeklagten beriefen sich auf die Meinungsfreiheit, und das Gericht gab ihnen teilweise recht: Der Slogan «Familie statt Gender-Ideologie» bei der gestörten Drag-Lesung sei nicht klar auf die sexuelle Orientierung bezogen und daher keine Diskriminierung. Strafbar war vor allem die Störung des Pride-Gottesdienstes 2022. Die NZZ weist darauf hin, dass die Gruppe das Verfahren gezielt als Bühne für Propaganda nutzt.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/drag-lesung-gestoert-mitglieder-der-jungen-tat-verurteilt"
+                },
+                {
+                  "name": "Watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/schweiz/zuerich/358014922-bezirksgericht-zuerich-verurteilt-anfuehrer-der-jungen-tat"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/anfuehrer-der-jungen-tat-verurteilt-aber-sie-suchen-vorher-die-grosse-buehne-ld.10046959"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-gallati-svp-bundesratskandidat",
+              "slug": "gallati-svp-bundesratskandidat",
+              "title": "SVP Aargau schickt Regierungsrat Gallati ins Bundesratsrennen",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "midday",
+              "image": "https://www.watson.ch/imgdb/71e7/Z1200,675,430,6,77,77/54798554589339",
+              "kurz": "Mit Jean-Pierre Gallati sind nun acht SVP-Politiker im Rennen um die Nachfolge von Bundesrat Guy Parmelin.",
+              "summary": "Die SVP Aargau hat Regierungsrat Jean-Pierre Gallati einstimmig für die Bundesratswahl vom 9. Dezember nominiert. Gallati stehe für eine unabhängige Schweiz, begrenzte Zuwanderung und eine starke Armee, schreibt die Kantonalpartei. Damit sind acht Personen im Rennen um die Nachfolge von Guy Parmelin.",
+              "gegenstimme": "Der «Bund» beschreibt ihn als einstigen «Linkenschreck», der heute bei der SP-Fraktion gut ankommt. Genau das kann ihm in der eigenen Partei schaden: Dass er als Gesundheitsdirektor die Corona-Massnahmen des Bundes umsetzte, wird ihm an der Basis teils angekreidet. Er ist national zudem weniger bekannt als Aeschi oder Chiesa.",
+              "sources": [
+                {
+                  "name": "SVP Aargau (Medienmitteilung)",
+                  "url": "https://www.svpag.ch/medienmitteilungen/nachfolge-bundesrat-guy-parmelin-svp-aargau-nominiert-jean-pierre-gallati/"
+                },
+                {
+                  "name": "Watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/schweiz/svp/511295901-kandidatur-aus-dem-aargau-jean-pierre-gallati-will-bundesrat-werden"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/jean-pierre-gallati-aargauer-will-fuer-svp-in-den-bundesrat-227128684297"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/bundeshaus/acht-svpler-treten-fur-bundesrat-an-wer-hat-die-besten-chancen-67192492"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-reto-nause-staenderat-kandidatur",
+              "slug": "reto-nause-staenderat-kandidatur",
+              "title": "Mitte nominiert Reto Nause für den Berner Ständerat",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🗳️",
+              "edition": "midday",
+              "kurz": "Der frühere Berner Sicherheitsdirektor und heutige Nationalrat Reto Nause will für die Mitte in den Ständerat.",
+              "summary": "Die Mitte Kanton Bern hat Nationalrat Reto Nause am Donnerstagabend als Ständeratskandidaten nominiert. Der 55-Jährige sitzt seit 2023 im Nationalrat, in der Sicherheits- und der Finanzkommission, und war von 2009 bis 2024 Sicherheitsdirektor der Stadt Bern. Parteipräsident Philipp Bregy kommentierte die Nomination auf X mit «Go for it».",
+              "gegenstimme": "Nauses Zeit als Sicherheitsdirektor war nicht unumstritten: Als langjähriger Exekutivpolitiker der Stadt ist er für die Probleme rund um die Reitschule und Demonstrationen mitverantwortlich gemacht worden, je nach Lager als zu hart oder zu nachgiebig. Für die Mitte ist ein Ständeratssitz in Bern ohne Allianz mit anderen bürgerlichen Parteien schwer zu holen.",
+              "sources": [
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/berner-mitte-nationalrat-reto-nause-will-in-den-st%c3%a4nderat/92299452"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/reto-nause-mitte-nationalrat-kandidiert-fuer-berner-staenderat-114550777168"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-pieterlen-bahndamm-s20-faellt-aus",
+              "slug": "pieterlen-bahndamm-s20-faellt-aus",
+              "title": "Bahndamm bei Pieterlen sinkt ab: S20 fällt monatelang aus",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🚆",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/10/29/b9c9da6b-30dd-4ec9-bba4-0ef896adf122.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C6000%2C4002&s=4794c620eb9491c171ff9c9bf2e94c48",
+              "kurz": "Weil der Bahndamm bei Pieterlen absackt, sperrt die SBB ein Gleis; die S20 zwischen Biel und Grenchen Süd fällt aus.",
+              "summary": "Bei Pieterlen im Berner Seeland senkt sich der Bahndamm nach dem trockenen Sommer schneller als erwartet. Die SBB hat seit der Nacht auf Freitag das nördliche Gleis gesperrt, das südliche wird nur langsam befahren. Die S20 zwischen Biel/Bienne und Grenchen Süd fällt für mehrere Monate aus und wird durch Busse ersetzt.",
+              "gegenstimme": "Die Sanierung war erst für Sommer 2027 geplant. Man kann fragen, ob die Sanierung früher hätte erfolgen müssen; die SBB verweist darauf, dass sich der Damm erst nach dem trockenen Sommer schneller als erwartet gesenkt habe, und reagiert mit Sperre und Tempolimit.",
+              "sources": [
+                {
+                  "name": "SBB (Medienmitteilung)",
+                  "url": "https://news.sbb.ch/de/01a1893c-0b8c-745d-b946-31560244b9f8/bahndamm-senkt-sich-nach-trockenem-sommer-bahnverkehr-am-jurasuedfuss-fuer-mehrere-monate-eingeschraenkt"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/s20-faellt-aus-bahndamm-sinkt-ab-zugverkehr-bei-pieterlen-be-eingeschraenkt-103658622"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/sbb-bahndamm-bei-pieterlen-senkt-sich-ab-zuege-fallen-aus-380583164058"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-bern-kranunfall-fellerstrasse",
+              "slug": "bern-kranunfall-fellerstrasse",
+              "title": "Bauarbeiter stirbt bei Unfall mit Kran in Bern",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🏗️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/a3d13c42c5db57f87c314ff55999cd123626c23c-92297930.jpg?ver=2b2d1625&fit=1200,900",
+              "kurz": "Auf einer Baustelle an der Fellerstrasse in Bern ist ein Bauarbeiter bei Arbeiten an einem Kran tödlich verletzt worden.",
+              "summary": "Auf einer Baustelle an der Fellerstrasse in Bern ist am Donnerstag gegen 11.40 Uhr ein Bauarbeiter bei Arbeiten an einem Kran tödlich verletzt worden. Wie es zum Unfall kam, ist laut Kantonspolizei Bern noch unklar. Die formelle Identifikation des Verstorbenen steht aus.",
+              "gegenstimme": "Ob ein technischer Defekt, ein Bedienungsfehler oder mangelnde Sicherung vorlag, ist nicht bekannt. Vorschnelle Schuldzuweisungen an Baufirma oder Arbeiter sind nicht gedeckt; die Gewerkschaften weisen bei solchen Fällen regelmässig auf Termindruck auf Baustellen hin, eine Aussage zu diesem Fall gibt es aber nicht.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=9c2339c3-df9d-4fd9-a132-c9da11dc5849"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/t%c3%b6dlicher-kranunfall-in-der-stadt-bern/92297943"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/bauarbeiter-in-bern-bei-kran-unfall-toedlich-verletzt-polizei-ermittelt-103658471"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-zuerich-verbot-konversionstherapien-sistiert",
+              "slug": "zuerich-verbot-konversionstherapien-sistiert",
+              "title": "Zürich legt Verbot von Konversionstherapien auf Eis",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🏳️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/e0aff472de67906885c580ec99b7289ec4c81e1f-92301323.jpg?ver=ba3b8c85&fit=1200,900",
+              "kurz": "Die Geschäftsleitung des Zürcher Kantonsrats hat das fertig ausgearbeitete Verbot von Konversionstherapien sistiert.",
+              "summary": "Die Geschäftsleitung des Zürcher Kantonsrats hat das bereits ausgearbeitete kantonale Verbot von Konversionstherapien sistiert. Die bürgerlichen Mitglieder setzten durch, zuerst das nationale Verbot abzuwarten. Die Sistierung dauert höchstens ein Jahr, kann aber verlängert werden; bis dahin bleiben solche Angebote im Kanton erlaubt.",
+              "gegenstimme": "Die bürgerliche Mehrheit argumentiert, ein kantonales Sonderrecht sei unnötig, wenn der Bund ohnehin ein schweizweites Verbot vorbereitet; doppelte Regelungen schaffen Rechtsunsicherheit. Grüne, SP und AL sind empört über die Verzögerung vor den Kantonswahlen im April 2027 und kritisieren, der Entscheid sei «hinter verschlossener Tür» gefallen.",
+              "sources": [
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/im-kanton-z%c3%bcrich-bleiben-konversionstherapien-erlaubt/92301336"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/verbot-von-konversionstherapien-vorlaeufiges-aus-fuer-vorlage-in-zuerich-ld.10049296"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/regional/zurcher-verbot-von-konversionstherapien-ist-auf-eis-gelegt-67195801"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-selenskyj-sicherheitsgarantien-russland",
+              "slug": "selenskyj-sicherheitsgarantien-russland",
+              "title": "Selenskyj zeigt sich offen für Sicherheitsgarantien an Russland",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "midday",
+              "image": "https://images.welt.de/6ae45a83e6383048f41d3b78/a6d9b8b847fbf1468ce7f272a8b23327-master/ci16x9-w1200/apdpa-fd29ed7dfa74442f92f5d7741d8f59ce-jpg",
+              "kurz": "Selenskyj will nach Kriegsende auch über russische Sicherheitsforderungen reden, verlangt aber Europas Beteiligung.",
+              "summary": "Der ukrainische Präsident Wolodymyr Selenskyj hat sich erstmals offen gezeigt, im Rahmen einer Friedensregelung über russische Forderungen nach Sicherheitsgarantien zu sprechen, allerdings erst nach Kriegsende und gesicherter Sicherheit der Ukraine. Die «Financial Times» spricht von einer bedeutenden Kehrtwende. Bei Garantien mit europäischer Beteiligung müsse Europa mit am Tisch sitzen.",
+              "gegenstimme": "Der Kreml liest das anders: Sprecher Peskow verlangte bereits am 28. Oktober «gegenseitige» Garantien, und Berater Uschakow schloss Europäer von den Gesprächen in Abu Dhabi aus. Kritiker in Kiew und Osteuropa sehen in russischen «Sicherheitsgarantien» den Versuch, eine Einflusssphäre und einen Rückzug der NATO durchzusetzen. Selenskyj selbst warnte vor einer «wirtschaftlichen Ehe» zwischen den USA und Russland.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae45a83e6383048f41d3b78/ukraine-krieg-bedeutende-kehrtwende-selenskyj-spricht-jetzt-ueber-sicherheitsgarantien-fuer-russland.html"
+                },
+                {
+                  "name": "Financial Times",
+                  "url": "https://www.ft.com/content/8ec7d6f2-403a-4f80-89fc-5ed5e75fed63"
+                },
+                {
+                  "name": "RIA Nowosti (russische Staatsagentur)",
+                  "url": "https://ria.ru/20261028/peskov-2127631350.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-nowaja-gaseta-stellt-betrieb-ein",
+              "slug": "nowaja-gaseta-stellt-betrieb-ein",
+              "title": "Kremlkritische «Nowaja Gaseta» stellt den Betrieb ein",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "international",
+              "icon": "📰",
+              "edition": "midday",
+              "image": "https://images.welt.de/6ae45754981b80c0b7986907/b62a0a7646658c1aa8aa941c6807154b-master/ci16x9-w1200/285752629-jpg",
+              "kurz": "Die russische Zeitung von Nobelpreisträger Muratow schliesst am 9. November, nach eigenen Angaben auf Druck der Geheimdienste.",
+              "summary": "Die unabhängige russische Zeitung «Nowaja Gaseta» stellt nach über 30 Jahren ihren Betrieb ein. «Man hat uns getötet», heisst es in einer Erklärung; Chefredakteur Sergej Sokolow sagte, die Behörden und Geheimdienste hätten die Redaktion zur Aufgabe gezwungen. Am 9. November will die Redaktion die Server abschalten und das Haus verlassen.",
+              "gegenstimme": "Die russischen Behörden haben die Schliessung nicht kommentiert; offiziell stützen sie sich auf das Gesetz über «ausländische Agenten» und laufende Strafverfahren, etwa gegen den im April verhafteten Journalisten Oleg Roldugin. Eine offizielle Begründung für die Abschaltung des Spendensystems liegt nicht vor.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae45754981b80c0b7986907/moskauer-redaktion-schliesst-man-hat-uns-getoetet-kremlkritische-zeitung-nowaja-gaseta-stellt-betrieb-ein.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/russland-zeitung-nowaja-gaseta-stellt-den-betrieb-ein-a-c364cb28-4c29-423f-ad32-cba54f308ae1"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-oleschky-evakuierung-laeuft",
+              "slug": "oleschky-evakuierung-laeuft",
+              "title": "Evakuierung aus dem besetzten Oleschky hat begonnen",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🚌",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e60e/live/1b89e490-d450-11f1-8780-edcbf4859104.jpg",
+              "kurz": "Unter einer von Melania Trump vermittelten Waffenruhe können Bewohner der zerstörten Stadt Oleschky ausreisen.",
+              "summary": "Aus der russisch besetzten ukrainischen Stadt Oleschky läuft die Evakuierung, wie Russland und die Ukraine bestätigen. 25 Busse sollen bis zu 750 Menschen herausbringen, gleichzeitig kommen Hilfsgüter in die Stadt. Möglich macht das eine von First Lady Melania Trump vermittelte Waffenruhe in der Region Cherson, die bis Sonntag gilt.",
+              "gegenstimme": "Mehrere hundert Menschen bleiben trotz Zerstörung und fehlendem Gas, Strom und Wasser in der Stadt; der ukrainische Ombudsmann Lubinez sagte, man habe ihm das als «freie Wahl» dargestellt. Wer in die Ukraine will, muss einen Umweg über russisches Gebiet, Anapa und Belarus nehmen. Laut der russischen Ombudsfrau Lantratowa starben bei der Minenräumung zwei Menschen.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo"
+                },
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-102.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-rheinmetall-baustelle-kassel-brandstiftung",
+              "slug": "rheinmetall-baustelle-kassel-brandstiftung",
+              "title": "Brandanschlag auf Rheinmetall-Baustelle bei Kassel: Staatsschutz ermittelt",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/b5a1043c-ec69-4826-9d58-23df584ddc97/AAABoYxj54c/AAABnSSvrFg/16x9-big/hr-in-der-nacht-brannten-auf-der-baustelle-in-calden-drei-radlader-100.jpg?width=1280",
+              "kurz": "Auf der Baustelle für ein Rheinmetall-Drohnenzentrum am Flughafen Kassel-Calden wurden Baumaschinen vorsätzlich angezündet.",
+              "summary": "Auf einer Baustelle am Flughafen Kassel-Calden, wo Rheinmetall ein Logistik- und Drohnentestzentrum bauen will, sind in der Nacht auf Freitag drei Baumaschinen ausgebrannt. Die Polizei geht von Brandstiftung aus. Weil ein politisches Motiv nicht ausgeschlossen wird, ermittelt der Staatsschutz des Polizeipräsidiums Nordhessen.",
+              "gegenstimme": "Ein Bekennerschreiben oder Tatverdächtige gibt es bisher nicht, das Motiv ist offen. Gegen den Ausbau des Flughafens zur «militärischen Drehscheibe für Rheinmetall» gibt es lokalen Widerstand; daraus lässt sich aber keine Täterschaft ableiten. Linksextreme Gruppen haben sich in Deutschland in der Vergangenheit wiederholt zu Anschlägen auf Rüstungsfirmen bekannt, ein Zusammenhang ist hier nicht belegt.",
+              "sources": [
+                {
+                  "name": "tagesschau / hr",
+                  "url": "https://www.tagesschau.de/inland/regional/hessen/hr-feuer-auf-baustelle-von-waffenhersteller-rheinmetall-staatsschutz-ermittelt-100.html"
+                },
+                {
+                  "name": "WELT / dpa",
+                  "url": "https://www.welt.de/wirtschaft/article6ae45e61981b80c0b79869df/flughafen-kassel-calden-feuer-auf-rheinmetall-baustelle-staatsschutz-ermittelt.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/panorama/justiz/rheinmetall-kassel-staatsschutz-ermittelt-nach-mutmasslicher-brandstiftung-auf-baustelle-a-7058d255-4c4c-431e-ac36-e695952ea271"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-intel-aktie-bricht-nach-prognose-ein",
+              "slug": "intel-aktie-bricht-nach-prognose-ein",
+              "title": "Intel-Aktie stürzt nach schwacher Prognose ab",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "midday",
+              "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "kurz": "Trotz besserer Quartalszahlen verliert Intel über 20 Prozent an der Börse, weil der Ausblick deutlich enttäuscht.",
+              "summary": "Die Intel-Aktie ist nach den Quartalszahlen um mehr als 20 Prozent eingebrochen. Umsatz (16,51 Milliarden Dollar) und bereinigter Gewinn je Aktie (0,52 Dollar) lagen zwar über den Erwartungen, doch Intel rechnet für das vierte Quartal nur mit 15 bis 16 Milliarden Dollar Umsatz. Analysten hatten 17,1 Milliarden erwartet; Intel verweist auf Lieferengpässe und einen schwachen PC-Markt.",
+              "gegenstimme": "Intel selbst sieht die Nachfrage nicht als Problem: Die günstigen Laptop-Chips «Wildcat Lake» seien ausverkauft, sagte Finanzchef David Zinsner, und Chef Lip-Bu Tan erwartet trotz allem eine «Renaissance» des PCs. Das Problem sei das Angebot, vor allem der weltweite Speichermangel durch die KI-Nachfrage, nicht fehlende Kunden.",
+              "sources": [
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage"
+                },
+                {
+                  "name": "Yahoo Finance",
+                  "url": "https://finance.yahoo.com/markets/stocks/articles/intel-shares-plunge-22-disappointing-021852484.html"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-reddit-login-pflicht",
+              "slug": "reddit-login-pflicht",
+              "title": "Reddit will nur noch mit Login nutzbar sein",
+              "date": "2026-10-30",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🔒",
+              "edition": "midday",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
+              "kurz": "Reddit-Chef Steve Huffman kündigt an, die Plattform werde «logged-in-only»; erste Tests laufen ausserhalb der USA.",
+              "summary": "Reddit wird künftig nur noch für angemeldete Nutzer zugänglich sein. Das hat Konzernchef Steve Huffman im Brief an die Aktionäre zum dritten Quartal angekündigt. Getestet wird die Login-Pflicht ab dem vierten Quartal in ausgewählten Märkten ausserhalb der USA, einen Zeitplan für die weltweite Umstellung gibt es nicht.",
+              "gegenstimme": "Huffman begründet den Schritt mit dem Schutz vor Daten-Scraping durch KI-Firmen, besserer Werbung und neuen Regulierungen; Reddit wolle die Identität der Nutzer gar nicht kennen, nur dass sie angemeldet sind. Kritiker sehen darin das Ende eines der letzten offenen Wissensarchive im Netz, das viele über Google-Suchen nutzen.",
+              "sources": [
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings"
+                },
+                {
+                  "name": "Golem",
+                  "url": "https://www.golem.de/news/onlineforen-reddit-will-kontozwang-einfuehren-2610-214674.html"
                 }
               ]
             }
