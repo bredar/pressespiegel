@@ -12,6 +12,7 @@ Für den Pressespiegel (6, 12 und 17 Uhr) braucht jede Meldung mindestens zwei u
 - Blick, 20 Minuten, Watson
 - CH Media (Aargauer Zeitung, Luzerner Zeitung)
 - Admin.ch, Parlament.ch, Kanton und Stadt Bern (Primärquellen)
+- Medienmitteilungen der Kantonspolizei Bern (police.be.ch, Primärquelle)
 
 ### International
 - Reuters, AP, AFP
@@ -30,3 +31,12 @@ Diese Medien helfen uns, Themen, übersehene Aspekte und Gegenperspektiven zu fi
 - Rechts und konservativ: Weltwoche, Nebelspalter, Apollo News
 - Links: WOZ (Die Wochenzeitung), Republik, taz
 - Soziale Medien: Diskussionen auf X
+
+## Ausgleich der Ausrichtung
+
+Wir halten kein Medium für automatisch neutral. Öffentlich-rechtliche Sender (SRF, ARD, ZDF, BBC) und Medien wie der Guardian oder Reuters gelten vielen als links geprägt. Gerade bei Migration, Gewalt, Kriminalität, Politik und Gesellschaft gewichten sie Themen oft anders oder greifen sie gar nicht auf. Deshalb gilt:
+
+- Wir prüfen bei jedem Lauf aktiv, welche belegten Themen diese Medien kaum oder nicht aufgreifen.
+- Polizeimeldungen, Statistiken und Gerichtsentscheide nutzen wir als Primärquellen.
+- Bei der Gewichtung und Wortwahl orientieren wir uns nicht an einer einzelnen Medienlinie.
+- Die Regel mit zwei unabhängigen Quellen und dem Faktencheck gilt für alle Seiten gleich.
