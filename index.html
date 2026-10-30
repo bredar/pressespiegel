@@ -5,6 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pressespiegel</title>
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="manifest" href="app.webmanifest">
+<meta name="theme-color" content="#141210">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Pressespiegel">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -320,6 +327,7 @@ document.getElementById('fbSync').addEventListener('click',syncFeedback);
 document.getElementById('pbk').addEventListener('click',clP);document.getElementById('ov').addEventListener('click',clP);
 document.addEventListener('keydown',e=>{if(e.key==='Escape')clP()});window.addEventListener('popstate',e=>{const p=document.getElementById('pnl');if(p.classList.contains('open')){clearTimeout(aT);curId=null;p.classList.remove('open');document.getElementById('ov').classList.remove('open');document.body.style.overflow='';document.getElementById('pf').style.width='0'}});
 init()
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{})
 </script>
 </body>
 </html>
