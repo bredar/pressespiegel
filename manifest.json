@@ -1,5 +1,5 @@
 {
-  "updated": "11:23 UTC",
+  "updated": "16:23 UTC",
   "days": [
     {
       "date": "2026-10-31",
@@ -706,6 +706,268 @@
                 {
                   "name": "WELT",
                   "url": "https://www.welt.de/vermischtes/article6ae4b4253620137294c24bb2/gen-z-proteste-gen-z-regelt-hofft-auf-mehr-als-160-000-demonstranten"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-10-31-mazzone-kritisiert-amaudruz-reyl",
+              "slug": "mazzone-kritisiert-amaudruz-reyl",
+              "title": "Grünen-Chefin Mazzone: Amaudruz' Nähe zu Bank Reyl ist «sehr grosses Problem»",
+              "date": "2026-10-31",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/10/25/26550524-d2e2-4141-93c2-9dae5587e232.jpg",
+              "kurz": "Lisa Mazzone stellt sich gegen SVP-Bundesratskandidatin Céline Amaudruz – wegen deren früherer Tätigkeit bei der Genfer Bank Reyl.",
+              "summary": "Grünen-Präsidentin Lisa Mazzone nennt in der SRF-«Samstagsrundschau» die Nähe der SVP-Kandidatin Céline Amaudruz zur Genfer Privatbank Reyl, die lange Geschäfte mit Russland gemacht habe, «ein sehr grosses Problem». Die Grünen wollen die Kandidierenden anhören, aber voraussichtlich keine Empfehlung abgeben. Die Ersatzwahl für Guy Parmelin findet am 9. Dezember statt.",
+              "gegenstimme": "Amaudruz bestreitet jeden Interessenkonflikt: Sie habe nicht in den betroffenen Bereichen gearbeitet, und ihre Vorstösse hätten nichts mit den Finma-Verfahren gegen ihren früheren Arbeitgeber zu tun. Auch der Ethos-Direktor sagt, es gebe keine Hinweise, dass sie persönlich in die kritisierten Praktiken verwickelt war.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/nachfolge-parmelin-gruenen-praesidentin-hat-grosse-probleme-mit-celine-amaudruz"
+                },
+                {
+                  "name": "20 minutes",
+                  "url": "https://www.20min.ch/fr/story/succession-de-parmelin-trop-de-mandats-celine-amaudruz-sous-le-feu-des-critiques-103655761"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-patriot-erste-komponenten-mitte-2027",
+              "slug": "patriot-erste-komponenten-mitte-2027",
+              "title": "Patriot: Schweiz erhält erste Komponenten bis Mitte 2027",
+              "date": "2026-10-31",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🛡️",
+              "edition": "evening",
+              "kurz": "Die USA liefern der Schweiz bis Mitte 2027 eine erste Patriot-Feuereinheit. Ein Abbruch der Beschaffung ist laut VBS-Chef Pfister kein Thema mehr.",
+              "summary": "Die US-Regierung hat dem VBS am 29. Oktober mitgeteilt, dass die Schweiz bis Mitte 2027 eine erste Patriot-Feuereinheit mit Radar, Werfer und Zubehör für Integration und Ausbildung erhält. Zudem darf die Schweiz die Systeme direkt beim Hersteller statt über die US-Regierung kaufen, sofern der US-Kongress zustimmt. Bundesrat Martin Pfister sagt, ein Abbruch der Beschaffung sei damit kein Thema mehr.",
+              "gegenstimme": "Für Kritiker bleibt die Abhängigkeit von Washington das Kernproblem: Die USA haben die Schweiz 2025 zugunsten der Ukraine zurückgestellt, und die übrigen Systeme kommen weiterhin verspätet. Eine einzelne Einheit für Tests und Ausbildung schützt den Luftraum noch nicht.",
+              "sources": [
+                {
+                  "name": "VBS (Medienmitteilung)",
+                  "url": "https://www.vbs.admin.ch/fr/newnsb/zk5k7PhV8YxP"
+                },
+                {
+                  "name": "Keystone-SDA via swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/pfister%3a-%22erhalten-bis-mitte-2027-erste-patriot-komponenten%22/92303079"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/ueberraschende-wende-schweiz-erhaelt-doch-schon-2027-eine-erste-patriot-einheit-103658917"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-berliner-linke-koalitionsverhandlungen-beschlossen",
+              "slug": "berliner-linke-koalitionsverhandlungen-beschlossen",
+              "title": "Berliner Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
+              "date": "2026-10-31",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "evening",
+              "kurz": "Ein Parteitag der Berliner Linken gibt grünes Licht für Rot-Grün-Rot unter linker Führung; die Verhandlungen beginnen am Montag.",
+              "summary": "Ein Landesparteitag der Berliner Linken hat am Samstag mit grosser Mehrheit Koalitionsverhandlungen mit Grünen und SPD beschlossen; laut FAZ war das Ergebnis so klar, dass nicht ausgezählt wurde. Rund zwei Drittel lehnten es ab, die Antisemitismus-Erklärung der Partei abzuschwächen. Die Gespräche beginnen am Montag, über einen Koalitionsvertrag stimmen am Ende die über 19'000 Mitglieder ab.",
+              "gegenstimme": "Niedersachsens SPD-Ministerpräsident Olaf Lies warnt die Berliner SPD vor einem Bündnis mit der Linken; ihm fehle «zunehmend die Fantasie», wie das funktionieren soll. Kritiker verweisen auf Enteignungspläne und Antisemitismus-Debatten in der Partei.",
+              "sources": [
+                {
+                  "name": "Tagesspiegel",
+                  "url": "https://www.tagesspiegel.de/berlin/liveblog/auf-parteitag-in-berlin-linke-beschliesst-koalitionsverhandlungen-mit-grunen-und-spd-16053722.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720"
+                },
+                {
+                  "name": "FAZ",
+                  "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-faz-110093143.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6ae60f644db6c62483ec37f5/parteitag-berliner-linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd.html"
+                },
+                {
+                  "name": "WELT (Lies)",
+                  "url": "https://www.welt.de/politik/deutschland/article6ae5ffb4aedea8cd9ffbf800/niedersachsen-mir-fehlt-zunehmend-die-fantasie-olaf-lies-warnt-berliner-spd-vor-koalition-mit-linken.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-genz-proteste-deutschland-bilanz",
+              "slug": "genz-proteste-deutschland-bilanz",
+              "title": "«Gen Z regelt»: Tausende Jugendliche protestieren, weitgehend friedlich",
+              "date": "2026-10-31",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "📣",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/f6dbd2a0-47d7-461d-89b2-73f1491a94a5/AAABoZKsJSk/AAABnSSvrFg/16x9-big/proteste-gen-z-100.jpg?width=1280",
+              "kurz": "In über 30 deutschen Städten haben die Jugendproteste begonnen. In Berlin zählte die Polizei rund 5000 Teilnehmende, in Köln wurde ein Demozug abgesagt.",
+              "summary": "In mehr als 30 deutschen Städten haben am Samstag die Jugendproteste der Initiative «Gen Z regelt» begonnen; laut Polizei blieb es bis am späten Nachmittag weitgehend friedlich. Am Brandenburger Tor zählte die Polizei rund 5000 Menschen, die Veranstalter sprachen von 11'000. In Köln sagte die Polizei den Demozug wegen Pyrotechnik und Vermummung ab, in Stuttgart wurde ein Zug mehrfach gestoppt.",
+              "gegenstimme": "Grüne und Linke unterstützen die Proteste als berechtigte Wut über die Regierungspolitik. AfD-Chefin Alice Weidel warnt dagegen, die Demos könnten wie in Frankreich von gewaltbereiten Linksextremen und Islamisten gekapert werden.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html"
+                },
+                {
+                  "name": "rbb24",
+                  "url": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-gen-z-regelt-demo-jugend-protest-polizei.html"
+                },
+                {
+                  "name": "B.Z.",
+                  "url": "https://www.bz-berlin.de/berlin/gen-z-protest-in-berlin-5000-menschen-am-brandenburger-tor-6ae5ff0f4db6c62483ec3696"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-iran-araghchi-doha-hormus-bedingungen",
+              "slug": "iran-araghchi-doha-hormus-bedingungen",
+              "title": "Iran: Delegation in Doha, aber «kein Treffen mit den Amerikanern»",
+              "date": "2026-10-31",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇮🇷",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a1761d78f-1779917271.jpg?resize=1920%2C1440",
+              "kurz": "Aussenminister Araghchi nennt den Brief von US-Vize Vance «einen positiven Schritt», sieht aber keinen Grund für ein Treffen. Ein Tanker wurde bei Hormus getroffen.",
+              "summary": "Irans Aussenminister Abbas Araghchi nennt den Brief von US-Vizepräsident JD Vance «einen positiven Schritt», sieht aber «derzeit keine Notwendigkeit», die Amerikaner zu treffen. Eine iranische Delegation ist in Doha, Katar und Pakistan vermitteln. Die Frist zur Umsetzung des iranischen Vorschlags zur Öffnung der Strasse von Hormus wurde auf zwei Tage verkürzt, während die britische UKMTO meldet, dass ein Rohöltanker beim Verlassen der Meerenge von einem unbekannten Geschoss getroffen wurde.",
+              "gegenstimme": "Aus US-Sicht sind Irans Bedingungen ein Freikauf: Teheran will Sanktionen weg, Ölausnahmen zurück, eingefrorene Gelder frei und weniger US-Truppen, bevor es die Meerenge öffnet. Washington verlangt Taten vor Ort, nicht nur auf Papier.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-iran-derzeit-keine-notwendigkeit-fuer-treffen-mit-us-vertretern"
+                },
+                {
+                  "name": "Anadolu (UKMTO)",
+                  "url": "https://www.aa.com.tr/en/middle-east/tanker-struck-by-unidentified-projectile-in-strait-of-hormuz-uk-maritime-agency/4107027"
+                },
+                {
+                  "name": "Al Jazeera (NPT)",
+                  "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-moskau-us-botschaft-terrorwarnung-zarizyno",
+              "slug": "moskau-us-botschaft-terrorwarnung-zarizyno",
+              "title": "US-Botschaft warnt vor Anschlag mit vielen Opfern in Moskau",
+              "date": "2026-10-31",
+              "time": "17:30",
+              "category": "international",
+              "icon": "⚠️",
+              "edition": "evening",
+              "image": "https://static.themoscowtimes.com/image/og/3b/94144__3b0546e289c16c3a8fcd85b76de6a74c.jpg",
+              "kurz": "Die US-Botschaft meldet eine «glaubwürdige Bedrohung» für das Museumsgelände Zarizyno. Der FSB bestätigt, Hinweise erhalten zu haben.",
+              "summary": "Die US-Botschaft in Moskau hat am Samstag vor einer «glaubwürdigen Bedrohung» durch ein Ereignis mit vielen Opfern im Museumsreservat Zarizyno gewarnt und geraten, das Gebiet zu meiden. Der russische Geheimdienst FSB bestätigte, von «amerikanischen Partnern» Hinweise auf einen geplanten Terroranschlag erhalten zu haben, und ergreife Massnahmen. Das Museum gab an, keine Informationen über eine Bedrohung zu haben, und blieb geöffnet.",
+              "gegenstimme": "Russische Stellen hatten 2024 US-Warnungen vor dem Crocus-Anschlag als «zu allgemein» abgetan. Skeptiker in Russland sehen in solchen Warnungen auch politische Signale, Washington betont dagegen, es koordiniere sich mit den russischen Behörden.",
+              "sources": [
+                {
+                  "name": "The Moscow Times",
+                  "url": "https://www.themoscowtimes.com/2026/10/31/us-embassy-warns-of-potential-mass-casualty-event-in-moscow-2-a94144"
+                },
+                {
+                  "name": "Anadolu",
+                  "url": "https://www.aa.com.tr/en/americas/us-embassy-in-moscow-warns-of-mass-casualty-threat-at-tsaritsyno-museum-reserve/4107454"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-oleschky-evakuierte-in-ukraine-angekommen",
+              "slug": "oleschky-evakuierte-in-ukraine-angekommen",
+              "title": "Oleschky: Evakuierte über Belarus in der Ukraine angekommen",
+              "date": "2026-10-31",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🚌",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
+              "kurz": "Hunderte Bewohner aus dem russisch besetzten Oleschky haben über Russland und Belarus die Ukraine erreicht – unter einer seltenen lokalen Waffenruhe.",
+              "summary": "Hunderte Zivilisten aus dem russisch besetzten Oleschky sind am Samstag über Belarus in der ukrainischen Region Tschernihiw angekommen. Sie wurden per Bus über die Krim nach Anapa gebracht, in vier Flugzeugen nach Gomel geflogen und dann über die Grenze gefahren. Der älteste Evakuierte ist 94, der jüngste ein Jahr alt; andere Bewohner wurden auf eigenen Wunsch nach Russland gebracht.",
+              "gegenstimme": "Russland stellt die Aktion als Beweis für sichere Korridore dar, die seine Armee bereitgestellt habe. Kiew betont dagegen, die Menschen hätten unter russischer Besatzung jahrelang ohne Strom, Wasser und Nahrung gelebt, und lobt die US-Vermittlung.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cqx2818elrnzo"
+                },
+                {
+                  "name": "Al Jazeera/AP",
+                  "url": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-evakuierte-bewohner-von-oleschky-zurueck-in-der-ukraine"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-jemen-290000-vertriebene-drohne-riad",
+              "slug": "jemen-290000-vertriebene-drohne-riad",
+              "title": "Jemen: 290'000 Vertriebene, erneut Drohne über Riad abgefangen",
+              "date": "2026-10-31",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇾🇪",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26281548641547-1792068158.jpg?resize=1920%2C1440",
+              "kurz": "Seit dem Wiederaufflammen des Kriegs im August sind in Jemen laut UNO 290'000 Menschen vertrieben worden. Die Huthi halten 37 WFP-Mitarbeitende fest.",
+              "summary": "Seit dem Wiederaufflammen des Kriegs im August sind in Jemen laut UNO-Nothilfebüro OCHA mindestens 290'000 Menschen vertrieben worden, darunter 6100 Schwangere. Die von Saudi-Arabien geführte Koalition meldet, sie habe am Samstag zum zweiten Mal in zwei Tagen eine «feindliche» Drohne über der Region Riad zerstört. Die Huthi halten laut Welternährungsprogramm 37 lokale WFP-Mitarbeitende fest, insgesamt 72 UNO-Angestellte.",
+              "gegenstimme": "Huthi-Sprecher Yahya Saree bestreitet, Drohnen auf Mekka und Medina gerichtet zu haben, und nennt die saudischen Angaben «ungeheuerliche Lügen». Angriffe auf Riad, Flughäfen und Ölanlagen räumen die Huthi hingegen ein.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk"
+                },
+                {
+                  "name": "UN News",
+                  "url": "https://news.un.org/en/story/2026/10/1168591"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/houthis-hold-37-un-food-workers-trump-backed-wfp-chief-inherits-humanitarian-crises-across-globe"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-frankreich-gigabyte-steuer-nationalversammlung",
+              "slug": "frankreich-gigabyte-steuer-nationalversammlung",
+              "title": "Frankreich: Nationalversammlung beschliesst Steuer von 5,5 Cent pro Gigabyte",
+              "date": "2026-10-31",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "📡",
+              "edition": "evening",
+              "kurz": "Ein SP-Antrag im Budget 2027 will Anbieter wie Google, Meta, Amazon und Netflix pro übertragenem Gigabyte besteuern. Die Regierung ist dagegen.",
+              "summary": "Die französische Nationalversammlung hat in erster Lesung einen Änderungsantrag der Sozialisten zum Budget 2027 angenommen: Anbieter digitaler Inhalte sollen 5,5 Euro-Cent pro an französische Nutzer übertragenem Gigabyte zahlen. Betroffen wären Streaming, Cloud-Dienste und Software-Downloads; die Abgabe ist auf 15 Prozent des Frankreich-Umsatzes oder 2 Prozent des Weltumsatzes begrenzt. Abgestimmt wurde laut Berichten in einem fast leeren Saal.",
+              "gegenstimme": "Die Befürworter argumentieren, wenige grosse US-Plattformen verursachten den Grossteil des Datenverkehrs und sollten an den Netzkosten beteiligt werden. Kritiker und die Regierung warnen, die Kosten würden auf Konsumenten abgewälzt und Netzneutralität sowie die Handelsbeziehungen mit den USA gefährdet.",
+              "sources": [
+                {
+                  "name": "Golem",
+                  "url": "https://www.golem.de/news/nationalversammlung-frankreich-will-eine-steuer-von-5-5-cent-pro-gigabyte-2610-214718.html"
+                },
+                {
+                  "name": "Europe 1",
+                  "url": "https://www.europe1.fr/politique/budget-2027-les-deputes-votent-une-taxe-au-gigaoctet-1197300"
+                },
+                {
+                  "name": "Next",
+                  "url": "https://next.ink/264997/le-parti-socialiste-a-fait-passer-sa-taxe-au-gigaoctet-a-lassemblee-nationale/"
                 }
               ]
             }
