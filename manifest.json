@@ -1,5 +1,5 @@
 {
-  "updated": "05:19 UTC",
+  "updated": "11:23 UTC",
   "days": [
     {
       "date": "2026-10-31",
@@ -367,6 +367,345 @@
                 {
                   "name": "Der Spiegel",
                   "url": "https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo-a-d34024bf-740f-4a64-a9c0-f057bd6c6f32"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:30",
+          "articles": [
+            {
+              "id": "2026-10-31-zuerich-kreis-4-krawallaufruf-halloween",
+              "slug": "zuerich-kreis-4-krawallaufruf-halloween",
+              "title": "Zürich: Linksextreme rufen zu unbewilligter Demo im Kreis 4 auf",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🚨",
+              "edition": "midday",
+              "image": "https://www.watson.ch/imgdb/0985/Z1200,675,168,218,59,59/3364339587370515",
+              "kurz": "Für heute 22 Uhr ist im Zürcher Kreis 4 eine unbewilligte Demo angekündigt; im Aufruf wird Sachbeschädigung ausdrücklich gutgeheissen.",
+              "summary": "Linksextreme Gruppen rufen über barrikade.info und soziale Medien für Samstag, 22 Uhr, zu einer unbewilligten Demonstration im Zürcher Kreis 4 auf. Der Aufruf feiert «jede zerbrochene Scheibe» und verweist auf die Krawalle in Frankreich; die Teilnehmenden sollen sich zu Halloween verkleiden. Die Stadtpolizei ist nach eigenen Angaben vorbereitet und steht mit der Kantonspolizei im Austausch.",
+              "gegenstimme": "Die Organisatoren berufen sich auf steigende Mieten, Krankenkassenprämien, Aufrüstung und Bildungspolitik – Anliegen, die auch friedliche Jugendproteste in Europa tragen. SP-Gemeinderat Reis Luzhnica hält dagegen, ein Gewaltaufruf schwäche gerade die Linke, die sich für diese Themen einsetze.",
+              "sources": [
+                {
+                  "name": "Watson (mit Tages-Anzeiger/TeleZüri)",
+                  "url": "https://www.watson.ch/schweiz/zuerich/195922533-aufruf-zu-krawall-in-zuercher-kreis-4-polizei-ist-alarmiert"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/kreis-4-kommt-es-heute-zu-gewaltsamen-protesten-in-zuerich-103659225"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-koeppel-gallati-unqualifiziert-svp-ticket",
+              "slug": "koeppel-gallati-unqualifiziert-svp-ticket",
+              "title": "Köppel nennt Gallati «absolut unqualifiziert» für den Bundesrat",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "midday",
+              "kurz": "Roger Köppel greift den Aargauer SVP-Bundesratskandidaten Jean-Pierre Gallati wegen dessen Haltung zur Neutralität scharf an.",
+              "summary": "Weltwoche-Verleger und Ex-SVP-Nationalrat Roger Köppel bezeichnet den Aargauer Regierungsrat Jean-Pierre Gallati in «Weltwoche Daily» als «Neutralitätsverächter» und «absolut unqualifiziert» für das SVP-Ticket. Er wirft ihm vor, die Neutralitätsinitiative abzulehnen und die Russland-Sanktionen mitzutragen. Die SVP-Fraktion bestimmt ihr Ticket am 20. November, die Bundesversammlung wählt am 9. Dezember.",
+              "gegenstimme": "Gallati-Unterstützer verweisen auf seine langjährige Regierungserfahrung im Aargau und darauf, dass die Fraktion und nicht ein Verleger über das Ticket entscheidet. Köppel selbst sieht die Neutralität als Kernanliegen der SVP-Basis, das ein Bundesrat der Partei vertreten müsse.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/koeppel-nennt-gallati-absolut-unqualifiziert-fuer-svp-ticket-911763122704"
+                },
+                {
+                  "name": "Aargauer Zeitung",
+                  "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/roger-koeppel-kritisiert-jean-pierre-gallati-scharf-ld.4258937"
+                },
+                {
+                  "name": "Weltwoche Daily (Meinung, Primärquelle der Aussage)",
+                  "url": "https://weltwoche.de/daily/svp-neutralitaetsveraechter-warum-jean-pierre-gallati-fuer-den-bundesrat-unqualifiziert-ist/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-cassis-pjoengjang-gespraeche-choe-son-hui",
+              "slug": "cassis-pjoengjang-gespraeche-choe-son-hui",
+              "title": "Cassis in Pjöngjang: «Fruchtbares» Gespräch mit Nordkoreas Aussenministerin",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🇰🇵",
+              "edition": "midday",
+              "kurz": "Als erster Bundesrat seit 2003 hat Ignazio Cassis Nordkorea besucht und zwei Stunden mit Aussenministerin Choe Son Hui gesprochen.",
+              "summary": "Bundesrat Ignazio Cassis hat in Pjöngjang rund zwei Stunden mit Aussenministerin Choe Son Hui gesprochen und das Treffen als «fruchtbar» bezeichnet; Machthaber Kim Jong Un traf er nicht. Die Schweiz bot ihre Guten Dienste an und will über das seit 19. Oktober offene Büro Projekte in Ernährung und Gesundheit fortführen. Danach reiste Cassis nach Seoul weiter.",
+              "gegenstimme": "Kritiker sehen im Besuch eine Aufwertung eines Regimes, das Atomwaffen ausbaut und Sanktionen umgeht. Am selben Tag bekräftigten USA, Südkorea und Japan die Forderung nach «vollständiger Denuklearisierung», die Nordkorea ablehnt – Spielraum für Vermittlung ist damit gering.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/politischer-austausch-cassis-fruchtbare-gespraeche-in-pjoengjang"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/cassis-f%C3%BChrt-%22fruchtbare%22-gespr%C3%A4che-in-pj%C3%B6ngjang/92305790"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/international/963918364-cassis-fuehrt-fruchtbare-gespraeche-in-pjoengjang"
+                },
+                {
+                  "name": "Al Jazeera (Kontext Denuklearisierung)",
+                  "url": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-ubi-ruegt-rts-kommentar-israelischer-bob",
+              "slug": "ubi-ruegt-rts-kommentar-israelischer-bob",
+              "title": "UBI rügt RTS-Kommentar über israelischen Olympia-Bob als diskriminierend",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Mit 5 zu 4 Stimmen heisst die UBI vier Beschwerden gegen einen RTS-Kommentar zum israelischen Bobfahrer Adam Edelman gut.",
+              "summary": "Die Unabhängige Beschwerdeinstanz für Radio und Fernsehen (UBI) hat mit 5 zu 4 Stimmen vier Beschwerden gegen einen RTS-Kommentar vom 16. Februar 2026 gutgeheissen. Der Kommentator hatte während des Olympia-Bobrennens den Israeli Adam Edelman politisch eingeordnet; die UBI wertet das als stigmatisierend und diskriminierend, weil kein anderer der 25 Athleten so behandelt wurde. RTS prüft den Gang ans Bundesgericht.",
+              "gegenstimme": "RTS hatte die Länge der Passage bereits als «unangemessen» bezeichnet und sie gelöscht, hält die Aussagen aber für faktenbasiert. Die knappe 5:4-Mehrheit zeigt, dass auch in der UBI umstritten ist, wo Kontext endet und Stigmatisierung beginnt.",
+              "sources": [
+                {
+                  "name": "UBI (Medienmitteilung)",
+                  "url": "https://www.ubi.admin.ch/fr/actualites/news/default-fdffdfd772"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/feuilleton/medien/ein-tv-kommentator-nutzte-das-olympia-bobrennen-fuer-eine-antiisraelische-aeusserung-nun-wurde-er-geruegt-ld.10049630"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/suisse/2026/article/aiep-4-plaintes-admises-contre-un-commentaire-de-la-rts-29399978.html"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/winter-olympics-israel-bobsled-swiss-commentator-discrimination-c60d473f0738d5de843dfc987496b28e"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-neuenburg-fussfesseln-haeusliche-gewalt",
+              "slug": "neuenburg-fussfesseln-haeusliche-gewalt",
+              "title": "Neuenburg setzt ab 1. November elektronische Fussfesseln gegen häusliche Gewalt ein",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "📍",
+              "edition": "midday",
+              "kurz": "Neuenburg überwacht ab Sonntag Täter häuslicher Gewalt mit aktiven GPS-Fussfesseln und Sperrzonen.",
+              "summary": "Der Kanton Neuenburg nimmt ab 1. November fünf aktive GPS-Fussfesseln für Täter häuslicher Gewalt mit Rückfallrisiko in Betrieb. Betritt ein Träger eine Sperrzone, etwa rund um den Wohnort des Opfers, wird Alarm ausgelöst und die Polizei rückt aus. Fast die Hälfte der Kantone will ab 2027 ähnliche Tests, auch für Sexualstraftäter.",
+              "gegenstimme": "Ein Zürcher Pilot 2023/24 zeigte, dass die Technik funktioniert, die Wirkung ohne nationale Regelung aber begrenzt bleibt. Datenschützer und Strafverteidiger mahnen, dass permanente Ortung ein schwerer Eingriff ist und vor einem Urteil gut begründet sein muss.",
+              "sources": [
+                {
+                  "name": "SRF/RTS",
+                  "url": "https://www.srf.ch/news/dialog/kampf-gegen-haeusliche-gewalt-neuenburger-polizei-startet-test-mit-elektronischen-fussfesseln"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/regions/neuchatel/2026/article/violences-domestiques-neuchatel-teste-le-bracelet-electronique-29397685.html"
+                },
+                {
+                  "name": "Swissinfo (Keystone-ATS)",
+                  "url": "https://www.swissinfo.ch/fre/violences-domestiques-%c3%a0-neuch%c3%a2tel%3a-bracelet-%c3%a9lectronique-introduit/92149726"
+                },
+                {
+                  "name": "Kanton Neuenburg",
+                  "url": "https://www.ne.ch/communiques-de-presse/lutte-contre-les-violences-domestiques-le-canton-de-neuchatel-renforce-son-dispositif-travers-un-nouveau-plan-daction"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-waadt-datendiebstahl-schul-it-38000-schueler",
+              "slug": "waadt-datendiebstahl-schul-it-38000-schueler",
+              "title": "Waadt: Daten von 38'000 Schülern und 3500 Lehrkräften gestohlen",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "midday",
+              "kurz": "Unbefugte haben Namen, Schul-E-Mails und Supportanfragen aus der IT-Plattform der Waadtländer Gymnasien und Berufsschulen kopiert.",
+              "summary": "Am 26. Oktober entdeckte der Kanton Waadt einen unbefugten Zugriff auf die IT-Supportplattform seiner Gymnasien und Berufsschulen. Kopiert wurden Namen und schulische E-Mail-Adressen von rund 3500 Lehrkräften und 38'000 Schülern sowie Inhalte von Supportanfragen; Passwörter und Noten sind laut Kanton nicht betroffen. Die Plattform ist vom Netz, das Bundesamt für Cybersicherheit ist informiert, Strafanzeige folgt.",
+              "gegenstimme": "Der Kanton betont, es seien keine sensiblen Daten betroffen. Supportanfragen können aber persönliche Details enthalten, und gerade Namen plus Schuladresse sind ideales Material für gezieltes Phishing bei Jugendlichen.",
+              "sources": [
+                {
+                  "name": "Kanton Waadt (Medienmitteilung)",
+                  "url": "https://www.vd.ch/actualites/communiques-de-presse-de-letat-de-vaud/detail/communique/la-plateforme-de-support-informatique-des-gymnases-et-des-ecoles-professionnelles-du-canton-victime-dun-vol-de-donnees"
+                },
+                {
+                  "name": "Watson (SDA)",
+                  "url": "https://www.watson.ch/schweiz/digital/280583908-cyberkriminelle-greifen-in-der-waadt-schulen-an"
+                },
+                {
+                  "name": "20 minutes",
+                  "url": "https://www.20min.ch/fr/story/cyberattaque-canton-de-vaud-les-donnees-de-38-000-eleves-ont-ete-volees-103659255"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-iran-chamenei-reaktion-ohne-grenzen-usa-warnung-4-november",
+              "slug": "iran-chamenei-reaktion-ohne-grenzen-usa-warnung-4-november",
+              "title": "Iran droht mit Reaktion «ohne geografische Grenzen» – USA warnen Golfstaaten vor neuen Angriffen",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🇮🇷",
+              "edition": "midday",
+              "kurz": "Mojtaba Chamenei erweitert die Zielliste gegen USA und Israel; Washington soll Golfstaaten auf Angriffe ab dem 4. November vorbereitet haben.",
+              "summary": "Irans oberster Führer Mojtaba Chamenei hat laut Staatsmedien das Militär angewiesen, auf jede Bedrohung sofort und «ohne geografische Einschränkungen» zu reagieren und die Liste möglicher amerikanischer und israelischer Ziele zu erweitern. Gleichzeitig berichten MSNOW und das Wall Street Journal, die USA hätten Golfstaaten vor einer kurzen, intensiven Angriffswelle ab dem 4. November, dem Tag nach den Midterms, gewarnt. Das Weisse Haus kommentiert keine Militärpläne.",
+              "gegenstimme": "Golfstaaten drängen auf Deeskalation; Ägyptens Aussenminister warnte in Manama, eine zweite Runde werde «gefährlicher und zerstörerischer» und führe «nirgendwohin». Aus US-Sicht dient der Druck dazu, Iran dauerhaft von einer Atomwaffe abzuhalten – Trump spricht zugleich von weiteren Verhandlungen.",
+              "sources": [
+                {
+                  "name": "Iran International",
+                  "url": "https://www.iranintl.com/en/202610317928"
+                },
+                {
+                  "name": "Times of Israel (mit MSNOW)",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/report-us-warns-gulf-allies-of-possible-iran-strikes-as-early-as-november-4/"
+                },
+                {
+                  "name": "Wall Street Journal",
+                  "url": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1"
+                },
+                {
+                  "name": "Arab News",
+                  "url": "https://www.arabnews.com/middle-east/irans-mojtaba-khamenei-orders-military-response-without-geographic-limits-to-new-threats-3009105"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-libanon-anklage-13-hisbollah-sprengstoff",
+              "slug": "libanon-anklage-13-hisbollah-sprengstoff",
+              "title": "Libanon klagt 13 Personen wegen Hisbollah-Sprengstofftransport an",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "international",
+              "icon": "💣",
+              "edition": "midday",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP25052587357488-1793435696.jpg?resize=1920%2C1440",
+              "kurz": "Ein Militärgericht in Beirut wirft 13 Hisbollah-nahen Personen den Transport von 780 Kilo Sprengstoff vor; die Miliz nennt das «ungerecht».",
+              "summary": "Ein libanesisches Militärgericht hat 13 Personen angeklagt, die mit der Hisbollah in Verbindung stehen sollen, unter anderem wegen Waffenbesitz und Gefährdung der Staatssicherheit. Grundlage ist ein Lastwagen mit 780 Kilogramm Sprengstoff, darunter je 250 Kilo TNT und C-4, der an einem Checkpoint zwischen Beirut und der Bekaa-Ebene gestoppt wurde. Zwei Personen sind in Haft, elf flüchtig.",
+              "gegenstimme": "Die Hisbollah bestätigt, dass der Sprengstoff ihr gehört, und sagt, er sei für den Kampf gegen die israelische Besatzung im Südlibanon bestimmt gewesen. Ihre libanesischen Gegner fürchten dagegen, solche Lieferungen könnten auch gegen innenpolitische Kritiker eingesetzt werden.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/31/lebanon-charges-13-over-hezbollah-confiscated-explosives"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/report-us-warns-gulf-allies-of-possible-iran-strikes-as-early-as-november-4/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-berlin-linke-parteitag-eralp-koalition-antisemitismus",
+              "slug": "berlin-linke-parteitag-eralp-koalition-antisemitismus",
+              "title": "Berliner Linke entscheidet über Koalitionsgespräche – Antisemitismus-Streit belastet",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/db85f170-eebb-4b23-b413-0aabf20d6c78/AAABoZF8_Ic/AAABnSSvrFg/16x9-big/rbb-elif-eralp-parteitag-629439502-100.jpg?width=1280",
+              "kurz": "Am Parteitag der Berliner Linken wirbt Elif Eralp für Koalitionsverhandlungen mit Grünen und SPD; der Palästina-Flügel protestiert.",
+              "summary": "Die Berliner Linke stimmt an einem ausserordentlichen Landesparteitag über Koalitionsverhandlungen mit Grünen und SPD ab; Ergebnisse werden am Nachmittag erwartet. Spitzenkandidatin Elif Eralp verteidigt das Sondierungspapier, das die Vergesellschaftung grosser Wohnungskonzerne und ein Bekenntnis gegen Antisemitismus enthält. Eine Arbeitsgemeinschaft Palästinasolidarität demonstriert gegen das Bündnis.",
+              "gegenstimme": "Kritiker wie der Publizist Gunnar Schupelius in der WELT werfen Eralp vor, in ihrer Rede die Antisemitismusfrage umgangen zu haben. Eralp betont dagegen das Bekenntnis zum Existenzrecht Israels und will bei Gewaltverherrlichung eine klare Grenze ziehen.",
+              "sources": [
+                {
+                  "name": "Tagesschau (rbb)",
+                  "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/video6ae5b48baedea8cd9ffbf1d3/richtungsstreit-linken-parteitag-entscheidet-ueber-rot-gruen-rot"
+                },
+                {
+                  "name": "WELT (Kommentar Schupelius)",
+                  "url": "https://www.welt.de/politik/deutschland/video6ae5c247aedea8cd9ffbf2f7/linken-parteitag-sie-ist-ueberhaupt-nicht-auf-die-a"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-steinmeier-china-li-qiang-importe-handelsueberschuss",
+              "slug": "steinmeier-china-li-qiang-importe-handelsueberschuss",
+              "title": "Steinmeier in Peking: China verspricht mehr Importe aus Deutschland",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🇨🇳",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/5f09f1ac-18f2-4fe0-aa2a-1c1e53a3681b_w1200_r1.778_fpx52_fpy41.jpg",
+              "kurz": "Premier Li Qiang sagt mehr Käufe hochwertiger deutscher Produkte zu, nachdem Steinmeier den Handelsüberschuss von fast 90 Milliarden Euro angesprochen hat.",
+              "summary": "Chinas Ministerpräsident Li Qiang hat nach einem Treffen mit Bundespräsident Frank-Walter Steinmeier zugesagt, mehr hochwertige deutsche Produkte zu importieren. Steinmeier hatte das Ungleichgewicht direkt angesprochen: Chinas Handelsüberschuss gegenüber Deutschland betrug im vergangenen Jahr fast 90 Milliarden Euro. Li bot engere Zusammenarbeit bei Autos, Chemie, KI und Umwelttechnik an.",
+              "gegenstimme": "Die Zusage ist eine Absichtserklärung des chinesischen Aussenministeriums ohne Zahlen. Gleichzeitig wirbt Xi Jinping für eine «rationale, pragmatische und freundliche» deutsche China-Politik – Peking dürfte damit vor allem EU-Schutzzölle abwenden wollen.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren-a-70011b91-2e9e-4e99-88fc-c79022334652"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-apple-intelligence-china-ios-27-3-qwen",
+              "slug": "apple-intelligence-china-ios-27-3-qwen",
+              "title": "Apple Intelligence startet in China – mit Alibabas Qwen statt ChatGPT",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🍏",
+              "edition": "midday",
+              "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+              "kurz": "Mit der iOS-27.3-Beta ab 4. November kommen erste Apple-KI-Funktionen nach China, vollständig im Dezember; Partner ist Alibaba.",
+              "summary": "Apple bringt erste Apple-Intelligence-Funktionen nach China: Die Beta von iOS 27.3 erscheint am 4. November, die reguläre Version im Dezember. Dazu gehören Mitteilungszusammenfassungen, Übersetzung, Schreibwerkzeuge und visuelle Intelligenz; die neue KI-Siri fehlt. Alibabas Qwen übernimmt in China die Rolle, die ChatGPT anderswo hat.",
+              "gegenstimme": "Für Apple ist China ein wichtiger Markt, auf dem einheimische Hersteller mit eigenen KI-Funktionen stark sind. Kritiker weisen darauf hin, dass ein in China zugelassenes Sprachmodell staatlichen Zensurvorgaben folgen muss – Apple passt sein Produkt damit an Pekings Regeln an.",
+              "sources": [
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+                },
+                {
+                  "name": "MacRumors",
+                  "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/"
+                },
+                {
+                  "name": "China Daily",
+                  "url": "https://www.chinadaily.com.cn/a/202610/31/WS6ae54463e4b06d4aa0566359.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-europa-jugendproteste-deutschland-frankreich-halloween",
+              "slug": "europa-jugendproteste-deutschland-frankreich-halloween",
+              "title": "Jugendproteste erreichen Deutschland – Frankreich mobilisiert 70'000 Polizisten",
+              "date": "2026-10-31",
+              "time": "12:30",
+              "category": "international",
+              "icon": "✊",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/a17894ed-e343-407d-9017-e7c763655649/AAABoZF-BK4/AAABnSSvrFg/16x9-big/proteste-muenchen-jugend-100.jpg?width=1280",
+              "kurz": "«Gen Z regelt» ruft in über 30 deutschen Städten zu Demos auf; in Frankreich stehen nach Krawallen 70'000 Polizisten bereit.",
+              "summary": "Die Protestwelle junger Menschen, die Italien, Spanien, Portugal und Frankreich erfasst hat, erreicht heute Deutschland: Das Bündnis «Gen Z regelt» ruft in mehr als 30 Städten zu Demonstrationen für bessere Schulen, Klimaschutz und gegen eine Wehrpflicht auf, über 160'000 haben sich angemeldet. In Frankreich sind landesweit 70'000 Polizisten im Einsatz, ein Marsch zwischen République und Bastille ist verboten.",
+              "gegenstimme": "CDU-Innenpolitiker Alexander Throm will «Szenen wie in Frankreich um jeden Preis verhindern». Grünen-Chef Felix Banaszak warnt, Proteste vorab zu kriminalisieren könne radikalisieren; die Organisatoren betonen, ihr Protest sei «ausnahmslos friedlich».",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/vermischtes/article6ae4b4253620137294c24bb2/gen-z-proteste-gen-z-regelt-hofft-auf-mehr-als-160-000-demonstranten"
                 }
               ]
             }
