@@ -1,6 +1,379 @@
 {
-  "updated": "16:21 UTC",
+  "updated": "05:19 UTC",
   "days": [
+    {
+      "date": "2026-10-31",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-10-31-fairness-initiative-arena-keller-sutter",
+              "slug": "fairness-initiative-arena-keller-sutter",
+              "title": "Fairness-Initiative: Keller-Sutter warnt vor «Gnusch» und Ausfällen bis 3 Milliarden",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "💍",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/71448cf.jpg",
+              "kurz": "In der Abstimmungs-Arena zur Mitte-Initiative gegen die Heiratsstrafe stritten Keller-Sutter und die Befürworter über Kosten und zwei Steuersysteme.",
+              "summary": "Am 29. November stimmt die Schweiz über die Fairness-Initiative der Mitte ab, die Ehepaare bei der direkten Bundessteuer weiterhin gemeinsam besteuern will. In der SRF-«Arena» warnte Finanzministerin Karin Keller-Sutter, die Initiative übersteuere die im März angenommene Individualbesteuerung nur beim Bund, nicht in Kantonen und Gemeinden. Das EFD schätzt die jährlichen Steuerausfälle je nach Modell auf 680 Millionen bis 3 Milliarden Franken.",
+              "gegenstimme": "Die Befürworter (Mitte und Teile der SVP) halten dagegen, die Individualbesteuerung sei ein «Bürokratiemonster» mit rund 1,7 Millionen zusätzlichen Steuererklärungen, und laut Mitte-Ständerat Benedikt Würth zwinge der Harmonisierungsartikel der Verfassung die Kantone ohnehin zum gleichen System. Ausserdem seien Ehepaare jahrzehntelang verfassungswidrig benachteiligt worden.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/abstimmungs-arena-bundesraetin-keller-sutter-es-stimmt-nicht-was-herr-bregy-sagt"
+                },
+                {
+                  "name": "EFD (Abstimmungsdossier)",
+                  "url": "https://www.efd.admin.ch/de/volksinitiative-diskriminierung-ehe-endlich-abschaffen"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/bundeshaus/keller-sutter-warnt-vor-initiative-gegen-heiratsstrafe-67195896"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/fairnessinitiative-steuerausfaelle-bis-3-milliarden-franken-464716270842"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-bern-windkraft-gesetz-statt-verordnung",
+              "slug": "bern-windkraft-gesetz-statt-verordnung",
+              "title": "Kanton Bern: Trede krebst bei Wind- und Solarparks zurück",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🌬️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/ca3df3.jpg",
+              "kurz": "Statt einer dringlichen Verordnung soll das Baugesetz die schnelleren Verfahren für Wind- und Solaranlagen regeln. Die Gemeinden behalten vorerst ihr Mitspracherecht.",
+              "summary": "Der Berner Regierungsrat verzichtet auf eine dringliche Einführungsverordnung zum Beschleunigungserlass des Bundes für Solar- und Windanlagen von nationalem Interesse. Er setzt die Vorgaben stattdessen über eine Revision des Baugesetzes um, die Anfang 2030 in Kraft treten soll. Zuvor hatten Gemeinden, Verbände und der Grosse Rat, unter anderem mit einer SVP-Motion, das Mitspracherecht der Standortgemeinden verteidigt.",
+              "gegenstimme": "Befürworter eines raschen Ausbaus warnen, der Umweg über das Gesetz koste Jahre, obwohl Bern mit rund 7000 GWh pro Jahr das grösste Windpotenzial der Schweiz hat und heute erst 16 Anlagen laufen. Regierungsrätin Aline Trede argumentiert dagegen, mit den Gemeinden im Boot liessen sich spätere Blockaden durch Beschwerden vermeiden.",
+              "sources": [
+                {
+                  "name": "Kanton Bern (Medienmitteilung)",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=9e959780-cf96-4cd8-8a85-f8a45ee4c90c"
+                },
+                {
+                  "name": "SRF Regionaljournal",
+                  "url": "https://www.srf.ch/news/schweiz/kein-alleingang-mehr-mitsprache-weniger-tempo-bei-windkraft-im-kanton-bern"
+                },
+                {
+                  "name": "Baublatt",
+                  "url": "https://www.baublatt.ch/bauprojekte/solar--und-windenergie-projekte-kanton-bern-will-gemeinden-besser-miteinbeziehen-39828"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-stadt-bern-budget-2027-abstimmungskampf",
+              "slug": "stadt-bern-budget-2027-abstimmungskampf",
+              "title": "Stadt Bern: Abstimmungskampf um Budget mit 8,9 Millionen Defizit",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/0Xzxzhq4KBZ82dfv6GO6Ko.jpg?op=ocroped&val=1200,600,745,497,120,106&sum=IZ_sQCJC8jA",
+              "kurz": "Mitte, FDP und SVP bekämpfen das Stadtberner Budget 2027 wegen steigender Schulden. Rot-Grün und die Gewerkschaften werben für ein Ja.",
+              "summary": "Die Stadtberner Stimmberechtigten entscheiden am 29. November über das Budget 2027, das bei einem Aufwand von 1,54 Milliarden Franken ein Defizit von rund 8,9 Millionen vorsieht. Ein Komitee aus Mitte, FDP und SVP kritisiert, die Schulden stiegen bis 2030 auf 1,85 Milliarden Franken. Ein Bündnis aus SP, GB, GFL, JA! und Gewerkschaftsbund hält das Defizit für vertretbar.",
+              "gegenstimme": "Das Ja-Lager argumentiert, eine wachsende Stadt brauche Schulraum, Betreuung und Klimaanpassung, und das Defizit mache nur einen kleinen Teil des Haushalts aus. Bemerkenswert ist, dass die GLP der Finanzdirektorin Melanie Mettler dem Nein-Komitee nicht beigetreten ist.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/budget-stadt-bern-2027-abstimmungskampf-lanciert-395528988324"
+                },
+                {
+                  "name": "Keystone-SDA/BärnerBär",
+                  "url": "https://baernerbaer.ch/politik/regional/komitee-kritisiert-berner-budget-2027-als-nicht-verantwortbar-67195865"
+                },
+                {
+                  "name": "Keystone-SDA/swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/linkes-komitee-spricht-sich-f%c3%bcr-berner-budget-2027-aus/92303418"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-thun-b-t-brandstiftung-zeugenaufruf",
+              "slug": "thun-b-t-brandstiftung-zeugenaufruf",
+              "title": "Brand bei Thuner Waffenhersteller B&T: Polizei vermutet Brandstiftung",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🔥",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/AD42eQ7m44-A-ETzEk6QNU.jpg?op=ocroped&val=1200,600,1000,869,66,0&sum=kLKDGIK54tE",
+              "kurz": "Nach dem Grossbrand an der Tempelstrasse in Thun steht laut Kantonspolizei Brandstiftung im Vordergrund. Sie sucht Zeugen auch für die vergangenen Wochen.",
+              "summary": "Die Kantonspolizei Bern geht nach den ersten Ermittlungen davon aus, dass der Brand vom 29. Oktober in einem Waffengeschäft an der Tempelstrasse in Thun gelegt wurde. Im Gebäude hat laut Berner Zeitung der Waffenhersteller B&T seinen Sitz, ein Hersteller und Händler von Waffen und Schalldämpfern für Behörden und Private. Verletzt wurde niemand, an den oberen zwei Stockwerken entstand erheblicher Sachschaden.",
+              "gegenstimme": "Offene Frage: Wer würde einen Rüstungsbetrieb anzünden, und war es ein gezielter Anschlag? Die Polizei nennt weder Täter noch Motiv. Spekulationen über politisch oder kriminell motivierte Täter sind derzeit nicht belegt, auch ein anderer Hintergrund ist möglich.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern (Medienmitteilung)",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=e251399f-170f-4945-b2d1-1a39a450455d"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/brandstiftung-bei-b-t-in-thun-polizei-sucht-zeugen-140741057672"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/thun-be-waffengeschaeft-brannte-polizei-vermutet-brandstiftung-103658957"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-ubi-ruegt-srf-dok-geld-maennersache",
+              "slug": "ubi-ruegt-srf-dok-geld-maennersache",
+              "title": "UBI rügt SRF-Dok «Ist Geld Männersache?» als unsachgerecht",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "📺",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/10/30/1220fc6c-371e-4d60-a610-eddbeb19a9b3.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=4%2C0%2C709%2C399&s=a006aa5c87cacf7b5a4adc6a50f32b2b",
+              "kurz": "Die Beschwerdeinstanz UBI hiess mit 8 zu 1 Stimmen eine Beschwerde gegen die SRF-Dok über Frauen und Geld gut. Der Film sei unsorgfältig recherchiert und fehlerhaft.",
+              "summary": "Die Unabhängige Beschwerdeinstanz für Radio und Fernsehen (UBI) hat am 29. Oktober eine Beschwerde gegen die SRF-«DOK» «Ist Geld Männersache? Warum Frauen ärmer sind» und den Online-Artikel dazu gutgeheissen. Mit 8 zu 1 Stimmen befand sie, der Film sei unsorgfältig recherchiert und in zu vielen Aussagen fehlerhaft, damit sei das Sachgerechtigkeitsgebot verletzt. Die Sendung ist in der Mediathek nicht mehr abrufbar.",
+              "gegenstimme": "Die UBI wies am selben Tag einstimmig Beschwerden gegen zwei «Club»-Sendungen zum Iran-Krieg und gegen Oster-Sendungen ab. Ein einzelner Entscheid belegt also keine generelle Schlagseite von SRF. Die Benachteiligung von Frauen bei Renten und Vermögen ist zudem ein reales, gut untersuchtes Thema. Gerügt wurde die Machart, nicht das Thema.",
+              "sources": [
+                {
+                  "name": "UBI (Medienmitteilung)",
+                  "url": "https://www.ubi.admin.ch/de/aktuell/news/default-fdffdfd772"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/fernsehen-ist-geld-maennersache-beschwerde-gegen-srf-dok-gutgeheissen-103659015"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/wirtschaft/ruge-fur-srf-dok-ubi-beanstandet-sendung-uber-frauen-und-geld-67195968"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-polen-verfassungsgericht-polizei-nawrocki",
+              "slug": "polen-verfassungsgericht-polizei-nawrocki",
+              "title": "Polen: Polizei am Verfassungsgericht, Präsident drängt sich ins Gebäude",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/poland-court-protest.jpg",
+              "kurz": "Nach der Suspendierung des Gerichtspräsidenten rückte in Warschau Polizei an. PiS spricht von einem Staatsstreich, Präsident Nawrocki brach seine Reise ab.",
+              "summary": "Die von der Regierungsmehrheit gestützte Verfassungsrichterin Anna Korwin-Piotrowska hat Gerichtspräsident Bogdan Święczkowski und Vize Bartłomiej Sochański für einen Monat suspendiert. Justizminister Waldemar Żurek beantragte die Aufhebung ihrer Immunität, und Bereitschaftspolizei sicherte das Gericht gegen Demonstranten; drei Personen wurden festgenommen. Präsident Karol Nawrocki kehrte von seinem Flug nach Senegal um und verschaffte sich in der Nacht Zutritt zum Gebäude. Dort sprach er von einer gewaltsamen Besetzung eines Verfassungsorgans.",
+              "gegenstimme": "Die Regierung Tusk sagt, sie stelle den Rechtsstaat wieder her. Święczkowski, unter der PiS ernannt, habe monatelang die vom neuen Parlament gewählten Richter blockiert. PiS-Chef Kaczyński und das Gericht selbst nennen das Vorgehen hingegen einen Staatsstreich und warnen vor einem Polizeistaat.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6ae4f1f92222e5e68793e1f3/machtkampf-eskalation-in-polen-polizei-rueckt-gegen-verfassungsgericht-vor-opposition-spricht-von-putsch.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-usa-patriot-raketen-ukraine-500",
+              "slug": "usa-patriot-raketen-ukraine-500",
+              "title": "USA genehmigen 500 Patriot-Raketen für die Ukraine, Lieferung womöglich erst in Jahren",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "morning",
+              "image": "https://images.welt.de/6ae4f24b05d4b831ea388f35/60bc2786bf0735656cfaeb41cef40c57-master/ci16x9-w1200/2026-07-20t060012z-2077055518-rc2ihmahltre-rtrmadp-3-britain-airshow-lmt-missiles-jpg",
+              "kurz": "Washington bewilligt den Verkauf von 500 PAC-3-Abfangraketen für 2,1 Milliarden Dollar. Deutschland, Kanada und Norwegen zahlen, Selenskyj warnt vor jahrelangen Lieferzeiten.",
+              "summary": "Das US-Aussenministerium hat den Verkauf von 500 Patriot-Abfangraketen vom Typ PAC-3 an die Ukraine im geschätzten Wert von 2,1 Milliarden Dollar genehmigt. Bezahlt wird mit Beiträgen von Kanada, Deutschland und Norwegen sowie mit ukrainischen Mitteln aus einem EU-Kredit, Hauptauftragnehmer ist Lockheed Martin. Präsident Selenskyj lobte den Entscheid, warnte aber, die Lieferungen könnten erst in einigen Jahren beginnen.",
+              "gegenstimme": "Aus Sicht Washingtons ist der Verkauf ein Zeichen anhaltender Unterstützung, das die US-Steuerzahler nichts kostet. Die Bestände an Abfangraketen sind auch für die eigene Verteidigung und für Verbündete im Nahen Osten knapp. Kritiker in Kiew sehen in den Verzögerungen dagegen eine schleichende Abkehr der USA, Selenskyj machte öffentlich Verteidigungsminister Hegseth verantwortlich.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae4f24b05d4b831ea388f35/wert-von-2-1-milliarden-dollar-von-deutschland-kanada-und-norwegen-finanziert-usa-verkaufen-ukraine-500-patriot-raketen.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-g20-atlanta-lawrow-familienfoto",
+              "slug": "g20-atlanta-lawrow-familienfoto",
+              "title": "G20 in Atlanta: Europäer verweigern Foto mit Lawrow, Kallas wirft ihm «Lügen» vor",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🌐",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg",
+              "kurz": "Weil europäische Minister nicht neben Russlands Aussenminister stehen wollten, strich US-Gastgeber Rubio das Familienfoto. Eine gemeinsame Erklärung wird nicht erwartet.",
+              "summary": "Beim G20-Aussenministertreffen in Atlanta hat Gastgeber USA das traditionelle Gruppenfoto abgesagt, weil europäische Delegationen nicht mit Sergej Lawrow posieren wollten. Der britische Aussenminister Ed Miliband sagte Lawrow direkt, alle wüssten, wer der Aggressor sei. EU-Aussenbeauftragte Kaja Kallas warf Lawrow vor, er habe «viele Lügen» verbreitet und keine Verhandlungsbereitschaft gezeigt.",
+              "gegenstimme": "Die USA haben Lawrow bewusst eingeladen und setzen auf Gespräche mit Moskau. Lawrow erklärte, Selenskyjs Ankündigung weiterer Angriffe auf russische Ziele schade neuen Gesprächen. Er beklagte zudem, Sanktionen und Waffenlieferungen gingen weiter. Aus Sicht vieler nicht-westlicher G20-Staaten ist der Boykott eine europäische Geste, die das Forum weiter schwächt.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/g20-treffen-sergej-lawrow-staenkert-gegen-polen-und-kritisiert-ukraine-a-9bc75d80-4706-40ef-81cd-06729faa1474"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-hormus-vier-tanker-minen-irgc",
+              "slug": "hormus-vier-tanker-minen-irgc",
+              "title": "Hormus: Iran meldet vier brennende Tanker, Trump sieht Kriegsende «bald»",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-30T230320Z_1495036221_RC2YDOASHI7R_RTRMADP_3_IRAN-CRISIS-SHIPPING-HORMUZ-1793404633.jpg?resize=1920%2C1139",
+              "kurz": "Die Revolutionsgarden sagen, vier Tanker auf «unerlaubten Routen» seien auf Minen gelaufen. Die britische Behörde UKMTO meldet einen Treffer durch ein unbekanntes Geschoss.",
+              "summary": "Die Marine der iranischen Revolutionsgarden (IRGC) erklärte am Freitag, vier Öltanker seien in der Strasse von Hormus auf «unerlaubten Routen» explodiert und in Brand geraten. Mindestens einer davon habe über 2 Millionen Fass Rohöl geladen und sei auf eine Mine gelaufen. Die britische Seesicherheitsbehörde UKMTO meldete separat einen Tanker, der bei der Ausfahrt von einem unbekannten Geschoss getroffen wurde, die Crew blieb unversehrt. Reuters konnte die iranischen Angaben nicht überprüfen.",
+              "gegenstimme": "Teheran stellt die Vorfälle als Folge illegaler Routen dar, also als Selbstverschulden der Reedereien. Westliche Stellen sprechen von einem Angriff mit einem Projektil. Präsident Trump sagt, der Krieg werde «bald» beendet.",
+              "sources": [
+                {
+                  "name": "Reuters/The Straits Times",
+                  "url": "https://www.straitstimes.com/world/middle-east/irans-irgc-navy-says-three-tankers-catch-fire-in-strait-of-hormuz"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon"
+                },
+                {
+                  "name": "Reuters/ThePrint",
+                  "url": "https://theprint.in/world/irans-irgc-navy-says-four-tankers-catch-fire-in-strait-of-hormuz/3086698/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-deutschland-islamistischer-antisemitismus-rekord",
+              "slug": "deutschland-islamistischer-antisemitismus-rekord",
+              "title": "Deutschland: Rekord bei antisemitischen Straftaten von Islamisten",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "✡️",
+              "edition": "morning",
+              "image": "https://images.welt.de/6ae0c608dcd605c8d4ceaad4/9c7e3e20afce447aac0182589a1a44c1-master/ci16x9-w1200/625227832-jpg",
+              "kurz": "Das BKA zählte 2025 670 antisemitische Straftaten mit islamistischem Hintergrund, 2022 waren es noch 16. Das zeigt eine Antwort der Bundesregierung.",
+              "summary": "Laut einer Antwort der Bundesregierung auf eine schriftliche Frage der Grünen-Abgeordneten Lamya Kaddor erfasste das BKA 2025 670 Straftaten, die zugleich als antisemitisch und als islamistisch eingestuft sind, rund sechs Prozent mehr als 2024 (631). 2022 waren es 16, vom 1. Januar bis 6. Oktober 2023 33 und nach dem Hamas-Massaker bis Jahresende 331. Die Regierung verweist auf Präventionsarbeit, unter anderem in der Deutschen Islam Konferenz.",
+              "gegenstimme": "Die islamistisch eingestuften Fälle sind nur ein Teil aller antisemitischen Delikte in Deutschland, und die grosse Mehrheit der Muslime hat damit nichts zu tun. Kritiker der Statistik halten dagegen, ein Teil islamistischer Taten lande als «ausländische Ideologie» oder «nicht zuzuordnen» und werde so unterschätzt.",
+              "sources": [
+                {
+                  "name": "Bundesregierung, Antwort auf Frage Kaddor (polradar)",
+                  "url": "https://plr.glits.de/doc/80870"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/plus6ae0c608dcd605c8d4ceaad4/judenhass-in-deutschland-antisemitische-straftaten-durch-islamisten-steigen-auf-rekordzahl.html"
+                },
+                {
+                  "name": "ad-hoc-news",
+                  "url": "https://www.ad-hoc-news.de/politik/bka-registriert-670-islamistische-antisemitische-straftaten/70437519"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-ki-ausverkauf-tech-aktien-openai",
+              "slug": "ki-ausverkauf-tech-aktien-openai",
+              "title": "KI-Angst an der Börse: Nasdaq mit schlechtestem Monat, OpenAI senkt Finanzierungsziel",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+              "kurz": "Nach Intel und Alphabet geraten Tech-Aktien weiter unter Druck. OpenAI will laut FT nur noch 20 statt 30 Milliarden Dollar einsammeln.",
+              "summary": "Die US-Techwerte fielen den zweiten Tag in Folge, die Nasdaq beendete den Oktober mit dem schlechtesten Monat seit März 2025. Intel verlor am Freitag 28 Prozent, Alphabet hatte am Donnerstag 12 Prozent eingebüsst. Laut «Financial Times» hat OpenAI das Ziel seiner Finanzierungsrunde von 30 auf 20 Milliarden Dollar gesenkt, bei einer Bewertung von 1,25 statt 1,4 Billionen Dollar.",
+              "gegenstimme": "Optimisten sehen eine gesunde Korrektur: Die Investitionen von Meta, Alphabet, Oracle, Amazon und Microsoft von zusammen rund 800 Milliarden Dollar 2026 bauen Infrastruktur auf, die sich über Jahre auszahlen kann, ähnlich wie Glasfaser nach der Dotcom-Blase. Skeptiker halten dagegen, dass Erträge die Ausgaben bisher nicht decken.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
+                },
+                {
+                  "name": "WELT (nach Financial Times)",
+                  "url": "https://www.welt.de/vermischtes/article6ae54a664db6c62483ec2c3d/chatgpt-entwickler-openai-senkt-finanzierungsziel-um-zehn-milliarden-dollar.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-ki-scraping-opt-out-standard-robots",
+              "slug": "ki-scraping-opt-out-standard-robots",
+              "title": "Neuer Standard: Ein Eintrag in robots.txt soll KI-Training bei allen grossen Anbietern sperren",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "kurz": "OpenAI, Google, Microsoft und Anthropic wollen ein gemeinsames Opt-out-Signal respektieren. Websites müssten KI-Crawler dann nicht mehr einzeln aussperren.",
+              "summary": "OpenAI, Google, Microsoft und Anthropic haben angekündigt, einen neuen gemeinsamen «Policy Token» zu übernehmen. Mit diesem Eintrag in der robots.txt können Websites mit einer einzigen Angabe festlegen, ob ihre Inhalte fürs KI-Training genutzt werden dürfen. Der Vorschlag stammt von Anthropic-Standardexperte Kevin Kelley und liegt bei der Internet-Standardisierungsorganisation IETF. Meta signalisierte Unterstützung, sagte aber nicht, ob es das Signal befolgt.",
+              "gegenstimme": "Verlage kritisieren seit Langem, dass ein Opt-out die Beweislast umdreht: Wer nichts einträgt, wird weiter gescrapt. Bereits gesammelte Daten bleiben ohnehin in den Modellen. Ausserdem ist robots.txt nur eine freiwillige Bitte, und kleinere oder ausländische Crawler müssen sich nicht daran halten.",
+              "sources": [
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+                },
+                {
+                  "name": "Search Engine Roundtable",
+                  "url": "https://www.seroundtable.com/"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-31-ebola-kongo-5000-tote",
+              "slug": "ebola-kongo-5000-tote",
+              "title": "Ebola im Kongo: Mehr als 5000 Tote, Saudi-Arabien sperrt Einreise aus Kenia",
+              "date": "2026-10-31",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🦠",
+              "edition": "morning",
+              "kurz": "Der Ausbruch des Bundibugyo-Stamms im Kongo hat die Marke von 5000 Toten überschritten. Gegen diesen Stamm gibt es weder zugelassene Impfstoffe noch Therapien.",
+              "summary": "Im Ebola-Ausbruch in der Demokratischen Republik Kongo sind laut Regierungsdaten über 5000 Menschen gestorben, infiziert haben sich mehr als 10'000. Gegen den verantwortlichen Bundibugyo-Stamm gibt es keine zugelassenen Impfstoffe oder Therapien, betroffen sind 8 von 26 Provinzen. Saudi-Arabien hat am Freitag Reisen nach und Einreisen aus Kenia ausgesetzt.",
+              "gegenstimme": "Gesundheitsfachleute warnen vor Einreisesperren, weil sie Meldungen von Fällen hemmen und die Wirtschaft betroffener Länder treffen. Saudi-Arabien und andere Staaten argumentieren, ohne Impfstoff seien strikte Grenzmassnahmen eines der wenigen wirksamen Mittel gegen die Ausbreitung.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/panorama/ebola-mehr-als-5000-tote-in-demokratischer-republik-kongo-a-d34024bf-740f-4a64-a9c0-f057bd6c6f32"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-10-30",
       "editions": {
