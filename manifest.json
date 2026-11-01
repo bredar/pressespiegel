@@ -1,6 +1,295 @@
 {
-  "updated": "16:23 UTC",
+  "updated": "05:23 UTC",
   "days": [
+    {
+      "date": "2026-11-01",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-01-zuerich-basel-krawalle-halloween",
+              "slug": "zuerich-basel-krawalle-halloween",
+              "title": "Brennende Barrikaden in Zürich und Basel",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🔥",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/5f8efec.jpg",
+              "kurz": "Unbewilligte Demos von Linksextremen: In Zürich brannten Barrikaden und ein Auto, ein Streifenwagen bei einem Notfall wurde angegriffen. Auch Basel war betroffen.",
+              "summary": "In der Halloween-Nacht zogen in Zürich mehrere hundert Personen durch den Kreis 4, zündeten Container, E-Trottinette und ein Auto an und griffen die Polizei mit Feuerwerk, Steinen und Flaschen an. Die Polizei setzte Wasserwerfer, Reizstoff und Gummischrot ein. In Basel errichteten rund 150 Demonstrierende im St. Johann brennende Barrikaden, der ÖV wurde zeitweise eingestellt.",
+              "gegenstimme": "Die Kundgebungen bezogen sich laut Polizei auf die Jugendproteste in Frankreich und anderen Ländern, die dort vor allem Lebenskosten und Bildung betreffen. Wer die Krawalle als Ausdruck sozialer Not deutet, findet in Zürich allerdings wenig Stütze: Laut SRF fehlten Transparente, zu hören waren vor allem Parolen der linksextremen Szene.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/ausschreitungen-in-zh-und-bs-brennende-barrikaden-bei-demos-in-zuerich-und-basel"
+                },
+                {
+                  "name": "watson (SDA)",
+                  "url": "https://www.watson.ch/schweiz/zuerich/496208473-ausschreitungen-im-zuercher-kreis-4-polizei-setzt-wasserwerfer-ein"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-bern-clubraeumung-angriffe-polizei",
+              "slug": "bern-clubraeumung-angriffe-polizei",
+              "title": "Bern: Clubgäste greifen Polizei mit Flaschen und Steinen an",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🚔",
+              "edition": "morning",
+              "kurz": "Nach einer Clubräumung an der Stauffacherstrasse in Bern wurde die Kantonspolizei mit Flaschen und Steinen beworfen; ein Polizist ist leicht verletzt.",
+              "summary": "In der Nacht auf Samstag rief ein Veranstalter in Bern die Kantonspolizei, weil die Lage in seinem Club an der Stauffacherstrasse ausser Kontrolle geraten war. Als die Polizei das Lokal räumte, wurde sie aus der Menge mit Glasflaschen und Steinen beworfen und setzte Tränengas, Pfefferspray und Gummischrot ein. Ein Polizist wurde leicht verletzt, auf der Strasse entstanden Barrikaden.",
+              "gegenstimme": "Die Polizei räumte den Club erst, nachdem die Gäste mehrfach zum Verlassen aufgefordert worden waren, und in Absprache mit dem Veranstalter. Kritiker von Polizeieinsätzen dürften dennoch fragen, ob der Einsatz von Reizstoff am blockierten Eingang die Lage nicht zusätzlich angeheizt hat. Dazu gibt es bisher keine Stellungnahme von Gästen oder Veranstalter.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=f3cfaecc-4b9f-459b-8360-9f96df227408"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/ausschreitungen-in-bern-polizist-nach-clubraeumung-verletzt-152894193353"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-thun-bt-bekennervideo",
+              "slug": "thun-bt-bekennervideo",
+              "title": "Brand bei B&T Thun: Mutmassliches Bekennervideo aufgetaucht",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🎥",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/3FAsqwN84SMAyUYM65qnMW.png?op=ocroped&val=1200,600,1000,279,348,0&sum=Xx-Hgp0cs0E",
+              "kurz": "Zum Brand beim Thuner Waffenhersteller B&T kursiert ein mutmassliches Bekennervideo aus der anarchistischen Szene. Die Kantonspolizei prüft die Echtheit.",
+              "summary": "Nach dem Brand beim Waffenunternehmen B&T in Thun kursiert laut «SonntagsBlick» ein mutmassliches Bekennervideo, verbreitet unter französischen Anarchisten und von der linksradikalen Szene Berns. Die Kantonspolizei Bern prüft die Echtheit und ermittelt «in alle Richtungen», Brandstiftung steht im Vordergrund. Der Besitzer schätzt den Schaden auf 12 bis 20 Millionen Franken.",
+              "gegenstimme": "Ein Video in der Szene ist noch kein Beweis für die Täterschaft: Bekennerschreiben werden gelegentlich auch von Trittbrettfahrern verbreitet. Die Polizei äussert sich weder zur Täterschaft noch zum Schaden. Ein politisches Motiv gegen die Rüstungsindustrie ist plausibel, aber nicht belegt.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/brandstiftung-bei-b-t-in-thun-polizei-sucht-zeugen-bekennervideo-im-internet-140741057672"
+                },
+                {
+                  "name": "watson (SDA, SonntagsBlick)",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/102077685-ki-anfragen-bringen-schweizer-behoerden-an-den-anschlag-die-sonntags-news"
+                },
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=e251399f-170f-4945-b2d1-1a39a450455d"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-ruag-efk-mehr-kompetenzen",
+              "slug": "ruag-efk-mehr-kompetenzen",
+              "title": "Nach Ruag und SBB: Ruf nach stärkerer Finanzkontrolle",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2023/11/23/193e80dd-f6ef-4e8c-b727-a169655d70c9.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=7478,4206,x0,y778&wmark=nzz",
+              "kurz": "Nach dem Ruag-Bericht und dem SBB-Betrugsurteil fordern Politiker von Mitte bis SP mehr Kompetenzen für die Eidgenössische Finanzkontrolle.",
+              "summary": "Nach dem Ruag-Bericht, wonach zehn Personen über 50 Millionen Euro Schaden angerichtet haben sollen, fordern Politiker mehr Macht für die Eidgenössische Finanzkontrolle (EFK). Mitte-Nationalrat Gerhard Pfister will Sanktionsmöglichkeiten, SP-Co-Präsident Cédric Wermuth mehr Personal. Verteidigungsminister Martin Pfister lässt auch die Rolle des Bundes untersuchen.",
+              "gegenstimme": "FDP-Co-Präsident Benjamin Mühlemann warnt, kriminelle Energie sei immer schwer zu bekämpfen, ob privat oder staatlich. Ex-EFK-Chef Michel Huissoud hält mehr Mittel nicht für ein Allheilmittel: Die EFK habe schon 2016 gewarnt, Bundesrat, Verwaltung und Parlament hätten die Alarmzeichen ignoriert.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/schweiz/skandale-bei-ruag-und-sbb-wenn-der-bund-privatwirtschaft-spielt-ld.10050319"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/millionenbetrug-bei-der-ruag-bundesrat-pfister-mich-schockiert-die-kriminelle-energie"
+                },
+                {
+                  "name": "watson (SDA)",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/102077685-ki-anfragen-bringen-schweizer-behoerden-an-den-anschlag-die-sonntags-news"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-gen-z-demos-deutschland-pluenderungen",
+              "slug": "gen-z-demos-deutschland-pluenderungen",
+              "title": "Gen-Z-Demos: Friedlich am Tag, Plünderungen in der Nacht",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇩🇪",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1280",
+              "kurz": "Nach weitgehend friedlichen Jugendprotesten in Deutschland plünderten Randalierer in Frankfurt Geschäfte, auch ein Waffenladen. In Berlin wurden 27 Polizisten verletzt.",
+              "summary": "Die Kundgebungen von «Gen Z regelt» in 34 Städten verliefen tagsüber grösstenteils friedlich, blieben aber mit über 100'000 Teilnehmenden unter den erwarteten 182'000. Am Abend plünderten teils vermummte Gruppen in Frankfurt Geschäfte, darunter ein Waffengeschäft, aus dem die Polizei zwei Waffen sicherstellte. In Berlin wurden 27 Polizisten leicht verletzt, in Köln und Hamburg gab es Krawalle.",
+              "gegenstimme": "Hessens Innenminister Roman Poseck (CDU) spricht von rund 100 linksextremistisch motivierten Gewalttätern. Die Kölner Polizei ordnet die Vorfälle dort eher dem Halloween-Geschehen zu, und ein ARD-Reporter hält die Plünderer in Frankfurt eher nicht für Demo-Teilnehmende. Die Organisatoren distanzieren sich von der Gewalt.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html"
+                },
+                {
+                  "name": "tagesschau (Bilanz)",
+                  "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-frankreich-proteste-molotow-polizist",
+              "slug": "frankreich-proteste-molotow-polizist",
+              "title": "Frankreich: Brandsatz trifft Polizisten, über 500 Festnahmen",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/10/31/bad2304f-84ca-414f-8338-5fa37af796c2.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y287&wmark=nzz",
+              "kurz": "Rund 320'000 Menschen demonstrierten in Frankreich. In Paris traf ein Brandsatz einen Polizisten; der Innenminister spricht von versuchtem Mord und von Linksextremen.",
+              "summary": "Am dritten Protestsamstag gingen in Frankreich laut Innenministerium rund 320'000 Menschen auf die Strasse, weniger als eine Woche zuvor. In Paris traf ein Molotowcocktail einen Polizisten, Innenminister Laurent Nuñez spricht von «versuchtem Mord». Landesweit wurden 565 Personen festgenommen, in Paris vier Polizisten und ein Gendarm verletzt.",
+              "gegenstimme": "Die Demonstrierenden, darunter Schüler, Gewerkschaften und Gelbwesten, protestieren gegen hohe Lebenskosten und marode Schulen. Uno-Berichterstatter kritisierten diese Woche exzessive Polizeigewalt gegen Minderjährige. Laut Nuñez verliefen die Kundgebungen im Grossen und Ganzen friedlich.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/angetrieben-von-linksextrem-bei-protesten-in-frankreich-kommt-es-erneut-zu-ausschreitungen-ld.10050555"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae6a1396a5ed9f213133ff4/frankreich-versuchter-mord-molotowcocktail-trifft-polizist-in-paris.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-binance-fbi-nordkorea-tradertraitor",
+              "slug": "binance-fbi-nordkorea-tradertraitor",
+              "title": "Binance-Hack: FBI nennt Nordkorea als Täter",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🔐",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/9c1a0a5f-3325-4594-b57a-9d01958b7978/AAABoYunSGo/AAABnSSvrFg/16x9-big/binance-108.jpg?width=1280",
+              "kurz": "Das FBI macht die nordkoreanische Hackergruppe TraderTraitor für den 6,3-Milliarden-Raub bei Binance verantwortlich. Binance hat 90 Prozent der Verluste ersetzt.",
+              "summary": "Das FBI hat bestätigt, dass die nordkoreanische Gruppe TraderTraitor hinter dem Angriff auf die Kryptobörse Binance steckt, bei dem Werte von 6,3 Milliarden Dollar gestohlen wurden. Binance hat nach eigenen Angaben 90 Prozent der Verluste aus eigenen Mitteln ersetzt und will die Auszahlungen am Sonntag wieder freigeben.",
+              "gegenstimme": "Binance verspricht, die Kunden würden keinen Schaden tragen, doch die restlichen zehn Prozent betreffen weniger liquide Token. Kritiker sehen im Rekordhack ein Zeichen, wie verwundbar zentrale Kryptobörsen trotz Sicherheitsfonds bleiben, und dass Sanktionen gegen Nordkorea das Regime nicht von Geld abschneiden.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-jemen-un-mitarbeiter-tot-huthi-haft",
+              "slug": "jemen-un-mitarbeiter-tot-huthi-haft",
+              "title": "Jemen: UN-Mitarbeiter stirbt in Huthi-Haft",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇾🇪",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/10/31/cd2c0368-80f1-44a0-93c8-b5d39ffca47c.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y310&wmark=nzz",
+              "kurz": "Ein seit 2024 von den Huthi festgehaltener Mitarbeiter des UN-Menschenrechtsbüros ist tot. Die jemenitische Regierung spricht von Folter, die UN fordern eine Untersuchung.",
+              "summary": "Mohammad el-Shami, Mitarbeiter des UN-Hochkommissariats für Menschenrechte, ist in einem Gefängnis der von Iran unterstützten Huthi-Miliz gestorben; die Familie wurde erst über einen Monat später informiert. Ein Minister der jemenitischen Regierung sagt, er sei zu Tode gefoltert worden. UN-Hochkommissar Volker Türk und Generalsekretär António Guterres verlangen eine unabhängige Untersuchung.",
+              "gegenstimme": "Die Huthi haben die Todesursache nicht genannt und werfen den festgehaltenen UN-Mitarbeitern seit Jahren vor, Teil eines «amerikanisch-israelischen Spionagenetzes» zu sein. Belege dafür haben sie nie vorgelegt, einzelne Gefangene wurden im Fernsehen vorgeführt.",
+              "sources": [
+                {
+                  "name": "NZZ (dpa)",
+                  "url": "https://www.nzz.ch/international/jemen-von-huthi-entfuehrter-un-mitarbeiter-in-gefaengnis-zu-tode-gefoltert-ld.10050604"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-israel-herzog-konsultationen-arabische-parteien",
+              "slug": "israel-herzog-konsultationen-arabische-parteien",
+              "title": "Israel: Herzog startet Regierungsgespräche, Streit um arabische Parteien",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae686b8a739-1793492664.jpg?resize=1920%2C1440",
+              "kurz": "Präsident Herzog beginnt am Mittwoch die Konsultationen zur Regierungsbildung. In Tel Aviv demonstrierten Tausende für eine jüdisch-arabische Koalition gegen Netanyahu.",
+              "summary": "Israels Präsident Isaac Herzog beginnt am Mittwoch live übertragene Konsultationen mit den Knesset-Parteien. Netanyahus Block hat 53 Sitze, jener von Gadi Eisenkot 48, die arabischen Parteien 19. In Tel Aviv forderten am Samstag Tausende eine jüdisch-arabische Koalition, Netanyahu-Anhänger hielten dagegen.",
+              "gegenstimme": "Für viele Israelis ist eine Regierung, die von arabischen Parteien abhängt, nach dem 7. Oktober 2023 politisch untragbar; Eisenkot hatte eine solche Koalition vor der Wahl ausgeschlossen. Netanyahu wirft arabischen Parteien vor, die Wahl mit Geld aus Katar «gestohlen» zu haben, Katar spricht von Desinformation.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/israel-praesident-isaac-herzog-kuendigt-gespraeche-zur-regierungsbildung-an-a-b4a4ccb0-09e9-484f-be8e-1e750f403ab1"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-iran-trump-pickaxe-mountain-hormus",
+              "slug": "iran-trump-pickaxe-mountain-hormus",
+              "title": "Iran: Trump droht mit Angriff auf «Pickaxe Mountain»",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🎯",
+              "edition": "morning",
+              "image": "https://images.welt.de/6ae6a6596a5ed9f213134010/1ef01e164ccc1d1fd28d42b670b42ee7-master/ci16x9-w1200/1793498397392-2302457320-jpg",
+              "kurz": "Trump nennt die mutmassliche Atomanlage unter dem Berg Kolang als mögliches Ziel. Iran verhandelt über Katar einen Plan, Hormus binnen zwei Tagen zu öffnen.",
+              "summary": "US-Präsident Trump sagte in Mar-a-Lago, Irans Atomprogramm sei noch nicht vollständig ausgeschaltet, ein bis zwei Anlagen blieben, etwa der Berg Kolang («Pickaxe Mountain») bei Natans. Eilig habe er es nicht, die Gespräche liefen «gut». Aussenminister Araghtschi sagt, mit Katars Vermittlern werde ein Plan besprochen, die Strasse von Hormus binnen zwei Tagen zu öffnen, falls die USA Bedingungen erfüllen.",
+              "gegenstimme": "Teheran bestreitet, dass unter dem Berg an einem Atomprogramm gearbeitet wird. Revolutionsführer Modschtaba Chamenei droht bei neuen Angriffen mit einer «geografisch uneingeschränkten Antwort». US-Aussenminister Rubio betont, Trump habe noch nicht entschieden und Washington sei für Diplomatie offen.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae6a6596a5ed9f213134010/pickaxe-mountain-koennen-wir-in-zehn-minuten-erledigen-trump-nennt-weitere-angriffsziele-im-iran.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-trump-wsj-klage-epstein-abgewiesen",
+              "slug": "trump-wsj-klage-epstein-abgewiesen",
+              "title": "Trump scheitert endgültig mit Klage gegen das «Wall Street Journal»",
+              "date": "2026-11-01",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/58860e69-510f-45e2-a07c-a9fbd7012121_w1200_r1.778_fpx51_fpy18.jpg",
+              "kurz": "Ein Bundesrichter in Miami hat Trumps 10-Milliarden-Klage gegen das WSJ wegen des Epstein-Geburtstagsbriefs endgültig abgewiesen.",
+              "summary": "Bundesrichter Darrin Gayles hat Trumps Verleumdungsklage gegen das «Wall Street Journal», News Corp und Rupert Murdoch «with prejudice» abgewiesen, sie kann nicht erneut eingereicht werden. Trump habe nicht dargelegt, dass die Zeitung wissentlich oder leichtfertig Falsches über einen anzüglichen Geburtstagsbrief an Jeffrey Epstein von 2003 verbreitet habe.",
+              "gegenstimme": "Trump bestreitet weiterhin, den Brief verfasst, gezeichnet oder unterschrieben zu haben. Das Urteil sagt nichts über die Echtheit des Briefs, sondern nur, dass die hohe Hürde für Verleumdung von Personen des öffentlichen Lebens nicht erreicht wurde.",
+              "sources": [
+                {
+                  "name": "Al Jazeera (AP)",
+                  "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/donald-trump-und-die-jeffrey-epstein-files-gericht-stoppt-klage-gegen-zeitung-a-e1ce2fc6-447c-4034-ae98-d34fcc6eec5b"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-10-31",
       "editions": {
