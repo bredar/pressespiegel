@@ -1,5 +1,5 @@
 {
-  "updated": "05:23 UTC",
+  "updated": "11:17 UTC",
   "days": [
     {
       "date": "2026-11-01",
@@ -283,6 +283,353 @@
                 {
                   "name": "Der Spiegel",
                   "url": "https://www.spiegel.de/ausland/donald-trump-und-die-jeffrey-epstein-files-gericht-stoppt-klage-gegen-zeitung-a-e1ce2fc6-447c-4034-ae98-d34fcc6eec5b"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:20",
+          "articles": [
+            {
+              "id": "2026-11-01-thun-bt-racheakt-gummigeschosswerfer",
+              "slug": "thun-bt-racheakt-gummigeschosswerfer",
+              "title": "Brand bei B&T Thun: Video zielt auf Gummigeschosswerfer",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "regional",
+              "icon": "🔥",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2026/10/29/20b056ae-8540-44bd-bea7-08e58a6121f4.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=7970,4483,x0,y415&wmark=nzz",
+              "kurz": "Das mutmassliche Bekennervideo zum Brand bei B&T nennt den Werfer GL06, den Frankreich als LBD 40 gegen Demonstranten einsetzt. Die Polizei prüft weiter.",
+              "summary": "Das mutmassliche Bekennervideo zum Brand beim Thuner Waffenhersteller B&T zeigt laut NZZ Brandsätze im Gebäude und die Botschaften «Fuck LBD» und «GL06». B&T stellt den Gummigeschosswerfer GL06 her, den die französische Polizei als LBD 40 einsetzt. Ein französisches linksradikales Portal verbreitete das Video, die Kantonspolizei prüft die Echtheit weiterhin.",
+              "gegenstimme": "Firmenchef Karl Brügger sagt, Frankreich verwende Munition des Herstellers Alsetex, nicht von B&T; für die Verletzungen sei also nicht seine Firma verantwortlich. Die Polizei hat sich zur Täterschaft nicht geäussert, die Zuschreibung an Linksextreme stammt bisher von Medien und vom Firmenchef.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/brand-der-waffenfabrik-in-thun-war-ein-racheakt-der-linksextremen-ld.10050909"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/brand-in-thuner-waffenfabrik-bandt-es-sieht-aus-wie-im-krieg/t30v98k"
+                },
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=e251399f-170f-4945-b2d1-1a39a450455d"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-zuerich-krawalle-festnahmen-parteien",
+              "slug": "zuerich-krawalle-festnahmen-parteien",
+              "title": "Zürcher Krawalle: Zwei Bewaffnete verhaftet, SVP will mehr Polizei",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "schweiz",
+              "icon": "🚓",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/68G2Nyc8Ktd9wmbl0ySAfa.jpg?op=ocroped&val=1200,600,1000,750,125,0&sum=K8OY495Q3gI",
+              "kurz": "Die Polizei verhaftete in Zürich zwei junge Schweizer mit Quarzsandhandschuhen. Die SVP fordert mehr Polizisten und dass Randalierer zahlen, die SP verurteilt die Gewalt.",
+              "summary": "Nach der Krawallnacht im Kreis 4 hat die Polizei zwei Schweizer im Alter von 19 und 21 Jahren verhaftet, die vermummt waren, Quarzsandhandschuhe trugen und auf einer Baustelle Wurfgegenstände sammelten. 18 Personen wurden weggewiesen. Die Parteien von links bis rechts verurteilen die Ausschreitungen.",
+              "gegenstimme": "Die SP der Stadt Zürich verurteilt die Gewalt «aufs Schärfste», sieht aber keinen Grund für mehr Polizei. Aus Sicht der Linken war die Lage mit dem bestehenden Korps unter Kontrolle; die Forderungen der Rechten nach einem grösseren Korps nennt sie bisher nicht berechtigt.",
+              "sources": [
+                {
+                  "name": "Swissinfo (SDA)",
+                  "url": "https://www.swissinfo.ch/ger/polizei-verhaftet-bei-krawallen-in-z%c3%bcrich-zwei-bewaffnete-m%c3%a4nner/92308763"
+                },
+                {
+                  "name": "Nau",
+                  "url": "https://www.nau.ch/news/schweiz/polizei-verhaftet-bei-krawallen-in-zurich-zwei-bewaffnete-manner-67196308"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/zuercher-krawalle-so-reagieren-die-parteien-894307411791"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-halloween-nacht-polizeibilanz",
+              "slug": "halloween-nacht-polizeibilanz",
+              "title": "Halloween-Nacht: Über 180 Polizeieinsätze in der Schweiz",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "schweiz",
+              "icon": "🎃",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/DyQ_PEslKuSBIluL9LrtcG.jpg?op=ocroped&val=1200,600,1000,750,125,0&sum=hr4fMJ9Ykjc",
+              "kurz": "Eier, Böller, brennende Container: Die Polizei rückte in der Halloween-Nacht schweizweit über 180-mal aus. In Freiburg wurden zwei Busse beschädigt.",
+              "summary": "Neben den Krawallen in Zürich und Basel meldeten Polizeikorps eine unruhige Halloween-Nacht: In Zürich gab es rund 65 Einsätze, im Aargau über 80 Meldungen, in St. Gallen rund 30. In Goldach SG entstand an einem Schulhaus Schaden von mehreren Zehntausend Franken. Im Kanton Freiburg wurden zwei TPF-Busse beschädigt und Container angezündet, Festnahmen gab es keine.",
+              "gegenstimme": "Ein Grossteil der Einsätze betraf klassischen Halloween-Unfug wie Eierwürfe und Böller, nicht organisierte Gewalt. Wer daraus einen Trend zur Verrohung ableitet, müsste die Zahlen mit früheren Jahren vergleichen, was die Polizeikorps bisher nicht tun.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/halloween-nacht-ueber-180-polizeieinsaetze-in-der-schweiz-368408308936"
+                },
+                {
+                  "name": "Kantonspolizei Freiburg",
+                  "url": "https://www.fr.ch/de/sjsd/pol/news/einige-zwischenfaelle-und-mehrere-verkehrsunfaelle"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/halloween-in-freiburg-krawalle-unfaelle-lachgas-am-steuer-634270106929"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-eu-paketgebuehr-schweiz",
+              "slug": "eu-paketgebuehr-schweiz",
+              "title": "Ab heute: EU verlangt 2 Euro Gebühr pro Warenposition, auch aus der Schweiz",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "wirtschaft",
+              "icon": "📦",
+              "edition": "midday",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/2/5/3/7/Pakete-79c51e3f1e06af49.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Seit heute erhebt die EU eine Bearbeitungsgebühr von 2 Euro pro Warenposition auf Onlinebestellungen aus Drittstaaten. Das trifft Temu und Shein, aber auch Schweizer Shops.",
+              "summary": "Seit dem 1. November verlangt die EU für Onlinebestellungen aus Drittstaaten eine Bearbeitungsgebühr von 2 Euro pro Warenposition, unabhängig vom Warenwert. Sie gilt laut der Post trotz Freihandelsabkommen auch für Sendungen aus der Schweiz. Zahlen müssen Plattformen und Händler, nicht die Kunden direkt.",
+              "gegenstimme": "Der Handelsverband Swiss Retail Federation erwartet nur «minimale» Folgen, weil der Schweizer Detailhandel stark auf das Inland ausgerichtet ist. Branchenverbände in Deutschland rechnen damit, dass die Gebühr vor allem bei Billigprodukten an die Kunden weitergegeben wird.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/FAQ-Warum-es-neue-Gebuehren-fuer-Importe-gibt-und-was-sie-bringen-sollen-11507280.html"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/eng/swiss-politics/from-1-november-parcels-from-switzerland-will-be-subject-to-new-eu-customs-duties/92306367"
+                },
+                {
+                  "name": "Deutscher Zoll",
+                  "url": "https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Sonstiges/2026/y99_union_handling_fee_gzd.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-dobrindt-krawalle-linke-migrantisches-milieu",
+              "slug": "dobrindt-krawalle-linke-migrantisches-milieu",
+              "title": "Dobrindt: «Linke Gruppen und Chaoten aus dem migrantischen Milieu»",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "midday",
+              "kurz": "Der deutsche Innenminister macht für die Krawallnacht linke Gewalttäter und Chaoten aus dem migrantischen Milieu verantwortlich. In Frankfurt gab es über 30 Festnahmen.",
+              "summary": "Bundesinnenminister Alexander Dobrindt (CSU) sagt, «gewaltbereite linke Gruppen und Chaoten aus dem migrantischen Milieu» hätten die friedlichen Gen-Z-Demonstrationen gekapert. Die Randalierer seien identifiziert und müssten hart bestraft werden. In Frankfurt setzte die Polizei eine rund 100-köpfige Gruppe fest, über 30 Personen wurden vorläufig festgenommen.",
+              "gegenstimme": "Die Organisatoren von «Gen Z regelt» distanzieren sich von der Gewalt und betonen, dass Zehntausende friedlich demonstrierten. Kritiker dürften Dobrindt vorwerfen, mit dem Verweis auf Migranten zu pauschalisieren, solange keine Angaben zu Herkunft oder Staatsangehörigkeit der Festgenommenen vorliegen.",
+              "sources": [
+                {
+                  "name": "FAZ (dpa)",
+                  "url": "https://www.faz.net/agenturmeldungen/dpa/dobrindt-verurteilt-gewalt-nach-jugend-demos-201640079.html"
+                },
+                {
+                  "name": "t-online",
+                  "url": "https://www.t-online.de/nachrichten/deutschland/id_101504898/gen-z-protest-randalierer-pluendern-laeden-politik-kuendigt-konsequenzen-an.html"
+                },
+                {
+                  "name": "Bild",
+                  "url": "https://www.bild.de/politik/inland/krawall-bilanz-von-dobrindt-linke-gruppen-und-chaoten-aus-migrantischem-milieu-6ae6f889aedea8cd9ffc052a"
+                },
+                {
+                  "name": "ZDFheute",
+                  "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-pluenderungen-gewalt-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-lyon-flaggen-israel-usa-verbrannt",
+              "slug": "lyon-flaggen-israel-usa-verbrannt",
+              "title": "Lyon: Israelische und US-Flaggen bei Protesten verbrannt",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "midday",
+              "kurz": "Bei den Lebenskosten-Protesten in Lyon verbrannten Vermummte Flaggen Israels und der USA, Umstehende skandierten «Israel, Mörder».",
+              "summary": "Bei den Protesten gegen hohe Lebenskosten am Samstag in Lyon kletterten Vermummte auf das Dach einer Tramhaltestelle bei Jean-Macé, traten auf Flaggen Israels und der USA und zündeten sie an. Umstehende jubelten, einige riefen «Israel, assassin». Die Polizei setzte in Lyon Tränengas ein, nachdem Gegenstände geworfen worden waren.",
+              "gegenstimme": "Die Proteste richten sich offiziell gegen Lebenskosten und Sparpolitik, nicht gegen Israel; die Aktion einer kleinen Gruppe steht nicht für die Mehrheit der Demonstrierenden. Pro-palästinensische Gruppen dürften die Aktion als Kritik an Regierungen statt an Juden deuten.",
+              "sources": [
+                {
+                  "name": "The Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/protesters-burnt-us-and-israeli-flags-during-protests-in-lyon-video-shows/"
+                },
+                {
+                  "name": "The Jerusalem Post",
+                  "url": "https://www.jpost.com/international/article-913429"
+                },
+                {
+                  "name": "Ynet",
+                  "url": "https://www.ynetnews.com/article/b1wz11pxtze"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-weitere-demonstrationen-und-schulblockaden-geplant"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-selenskyj-erdogan-schwarzes-meer",
+              "slug": "selenskyj-erdogan-schwarzes-meer",
+              "title": "Selenskyj und Erdogan wollen Waffenruhe auf dem Schwarzen Meer",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "international",
+              "icon": "🌊",
+              "edition": "midday",
+              "kurz": "In Istanbul vereinbarten Selenskyj und Erdogan, an einem Getreidekorridor zu arbeiten. Trilaterale Gespräche Ukraine, Russland und USA sollen bald folgen.",
+              "summary": "Der ukrainische Präsident Wolodimir Selenskyj hat in Istanbul mit dem türkischen Präsidenten Recep Tayyip Erdogan vereinbart, an einem sicheren Getreidekorridor im Schwarzen Meer zu arbeiten. Erdogan nannte Angriffe auf zivile Schiffe inakzeptabel, egal von welcher Seite. Selenskyj kündigte trilaterale Gespräche mit Russland und den USA in der ersten Novemberhälfte an.",
+              "gegenstimme": "Moskau hat einer begrenzten Waffenruhe bisher nicht zugestimmt, und Erdogan nimmt ausdrücklich beide Seiten in die Pflicht, also auch die Ukraine. Skeptiker erinnern daran, dass das Getreideabkommen von 2022 an russischen Bedingungen scheiterte.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks"
+                },
+                {
+                  "name": "Anadolu",
+                  "url": "https://www.aa.com.tr/en/turkiye/zelenskyy-says-he-agreed-with-president-erdogan-to-work-on-black-sea-grain-corridor/4107545"
+                },
+                {
+                  "name": "Kyiv Post",
+                  "url": "https://www.kyivpost.com/post/88772"
+                },
+                {
+                  "name": "ZDFheute (Ticker)",
+                  "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-iran-vance-brief-rezaei",
+              "slug": "iran-vance-brief-rezaei",
+              "title": "Iran: Ton der USA habe sich «völlig verändert»",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "international",
+              "icon": "✉️",
+              "edition": "midday",
+              "kurz": "Irans Sicherheitschef nennt einen Brief von US-Vizepräsident Vance ein «gutes Zeichen». Teheran stellt aber sieben Bedingungen, bevor Hormus wieder öffnet.",
+              "summary": "Irans Sicherheitsratssekretär Mohsen Rezaei hat einen Brief von US-Vizepräsident JD Vance gelesen, aber noch nicht beantwortet; der Ton Washingtons habe sich «völlig verändert». Aussenminister Abbas Araghchi nennt den Schritt positiv, schliesst ein Treffen mit US-Vertretern aber vorerst aus. Iranische Unterhändler verhandeln in Doha mit katarischen Vermittlern.",
+              "gegenstimme": "Trump sagt, der Brief betreffe humanitäre Hilfe und Medikamente, nicht neue Friedensverhandlungen. Zudem hält er militärische Optionen offen, etwa gegen die Atomanlage Pickaxe Mountain. Rezaei deutet den Brief als Zeichen iranischer Stärke, was eher Propaganda als Analyse ist.",
+              "sources": [
+                {
+                  "name": "The National",
+                  "url": "https://www.thenationalnews.com/news/gulf/2026/11/01/iran-weighs-vance-letter-amid-renewed-doha-peace-push/"
+                },
+                {
+                  "name": "Gulf News",
+                  "url": "https://gulfnews.com/world/americas/has-the-us-iran-standoff-reached-a-turning-point-tehran-sees-major-shift-in-washington-s-tone-1.500731252"
+                },
+                {
+                  "name": "Dawn",
+                  "url": "https://www.dawn.com/news/2041220"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-katar-lng-tanker-al-mayeda",
+              "slug": "katar-lng-tanker-al-mayeda",
+              "title": "Katarischer Flüssiggastanker im Golf getroffen",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "wirtschaft",
+              "icon": "🚢",
+              "edition": "midday",
+              "kurz": "Der LNG-Tanker «Al Mayeda» wurde im Persischen Golf von unbekannten Objekten getroffen. Seit Kriegsbeginn wurden über 120 Schiffe angegriffen.",
+              "summary": "Der LNG-Tanker «Al Mayeda» der Reederei Nakilat ist am Freitagabend im Persischen Golf von «unidentifizierten Objekten» getroffen worden. Die Besatzung blieb unverletzt, eine Umweltgefahr besteht laut Nakilat nicht, das Schiff bleibt einsatzfähig. Wer angegriffen hat, ist offen.",
+              "gegenstimme": "Nakilat und Katar nennen bewusst keinen Urheber, was Raum für Spekulationen lässt: Infrage kommen Iran, mit Iran verbündete Milizen oder ein Irrläufer. Katar vermittelt gerade zwischen Iran und den USA und hat kein Interesse an einer Schuldzuweisung.",
+              "sources": [
+                {
+                  "name": "Nakilat",
+                  "url": "https://www.nakilat.com/al-mayeda-vessel-incident-in-the-arabian-gulf/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf"
+                },
+                {
+                  "name": "Anadolu",
+                  "url": "https://www.aa.com.tr/en/middle-east/qatari-lng-carrier-struck-by-unidentified-objects-in-gulf-waters-company/4107810"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-nordkorea-streumunition-sprengkopf",
+              "slug": "nordkorea-streumunition-sprengkopf",
+              "title": "Nordkorea testet Streumunition für taktische Raketen",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "midday",
+              "kurz": "Nordkorea hat einen Streumunitions-Sprengkopf für ballistische Kurzstreckenraketen getestet. Südkorea schwieg ungewöhnlich lange.",
+              "summary": "Nordkorea hat am Samstag laut Staatsagentur KCNA einen Streumunitions-Sprengkopf vom Typ «Standard Type 2» getestet, der eine Fläche von 12 bis 13 Hektaren abdecken soll. Laut Südkoreas Generalstab wurde die Rakete bei Chongju Richtung Gelbes Meer abgefeuert. Es war bereits der zweite Test dieser Art nach April.",
+              "gegenstimme": "Pjöngjang begründet die Aufrüstung mit der Bedrohung durch die USA und Südkorea und deren Manöver. Fachleute bezweifeln zudem, dass jede angekündigte Waffe so ausgereift ist, wie die Propaganda behauptet.",
+              "sources": [
+                {
+                  "name": "Yonhap",
+                  "url": "https://en.yna.co.kr/view/AEN20261101000451315"
+                },
+                {
+                  "name": "Korea Times",
+                  "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261101/n-korea-tests-cluster-bomb-mountable-on-tactical-ballistic-missiles"
+                },
+                {
+                  "name": "KCNA",
+                  "url": "http://www.kcna.kp/en/article/detail/4934d6d26c57abc3d1aba40b7ace6c8f"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/nordkorea-testet-raketensprengkoepfe-mit-streumunition-a-e69a0279-7324-41e3-b4c8-fe875b9b6e8b"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-bulgarien-stichwahl-jotowa-gjurow",
+              "slug": "bulgarien-stichwahl-jotowa-gjurow",
+              "title": "Bulgarien wählt: Russlandnähe gegen Westkurs",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "midday",
+              "image": "https://images.handelsblatt.com/jym7COOkJfso/cover/6000/3375/0/0/313/312/0.5/0.5/archiv-25.10.2026-bulgarien-blagoevgrad-der-unabhaengige-praesidentschaftskandidat-andrej-gjurow.jpg",
+              "kurz": "In der Präsidentschafts-Stichwahl trifft Amtsinhaberin Ilijana Jotowa auf den prowestlichen Ex-Interimspremier Andrej Gjurow. Resultate kommen am Montag.",
+              "summary": "In Bulgarien entscheidet heute eine Stichwahl über das Präsidentenamt. Amtsinhaberin Ilijana Jotowa, unterstützt von der Regierungspartei Progressives Bulgarien und den Sozialisten, lag im ersten Wahlgang mit 34,8 Prozent knapp vor dem prowestlichen Andrej Gjurow mit 32,0 Prozent. Für die Stichwahl erhielt Jotowa auch Unterstützung prorussischer Nationalisten.",
+              "gegenstimme": "Jotowa versteht sich nicht als prorussisch, sondern setzt sich für eine Verhandlungslösung im Ukrainekrieg ein und betont bulgarische Interessen. Ein Sieg Gjurows würde zudem einen Konflikt mit der allein regierenden Partei von Premier Radew bedeuten.",
+              "sources": [
+                {
+                  "name": "Handelsblatt (dpa)",
+                  "url": "https://www.handelsblatt.com/politik/international/ausland-stichwahl-in-bulgarien-wer-wird-neuer-praesident/100266408.html"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/stichwahl-ums-praesidentenamt-in-bulgarien-100.html"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/bulgaria-president-runoff-yotova-gyrov-radev-russia-cc540e5540a7a268da15aa72c5ec033e"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-indien-opposition-grosskundgebung-delhi",
+              "slug": "indien-opposition-grosskundgebung-delhi",
+              "title": "Indien: Grosskundgebung gegen Modi wegen gestrichener Wähler",
+              "date": "2026-11-01",
+              "time": "12:20",
+              "category": "international",
+              "icon": "🇮🇳",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg",
+              "kurz": "Zehntausende demonstrierten in Delhi gegen den Wahlkommissar. Bei einer Revision der Wählerlisten wurden 130 Millionen Namen gestrichen.",
+              "summary": "Zehntausende Menschen haben in Delhi an einer Kundgebung des Oppositionsbündnisses INDIA unter Führung von Rahul Gandhi teilgenommen. Sie fordern den Rücktritt des Wahlkommissars Gyanesh Kumar, weil bei einer Revision der Wählerlisten 130 Millionen Namen aus den Entwürfen gestrichen wurden. Die Opposition wirft der Regierungspartei BJP Wahlmanipulation vor.",
+              "gegenstimme": "Die Wahlkommission bestreitet jede Parteilichkeit und sagt, fälschlich gestrichene Wähler könnten sich neu eintragen. Die BJP wirft der Opposition vor, die Demokratie zu untergraben, indem sie legitime Wahlverfahren in Zweifel zieht.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
                 }
               ]
             }
