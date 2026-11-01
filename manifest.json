@@ -1,5 +1,5 @@
 {
-  "updated": "11:18 UTC",
+  "updated": "16:19 UTC",
   "days": [
     {
       "date": "2026-11-01",
@@ -630,6 +630,375 @@
                 {
                   "name": "The Guardian",
                   "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-11-01-hoechstetten-einbruch-sieben-festnahmen",
+              "slug": "hoechstetten-einbruch-sieben-festnahmen",
+              "title": "Höchstetten BE: Sieben junge Männer nach Einbruchversuch gefasst",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🚔",
+              "edition": "evening",
+              "kurz": "Nach einem versuchten Einbruch in ein Geschäft in Höchstetten hat die Polizei mit Hunden und Drohnen sieben Männer angehalten, drei davon minderjährig.",
+              "summary": "In der Nacht auf Sonntag, kurz nach 2.30 Uhr, wurde ein versuchter Einbruch in ein Verkaufsgeschäft an der Zürich-Bernstrasse in Höchstetten gemeldet. Die Kantonspolizei Bern hielt mit Diensthunden und Drohnen vier Männer im Gebiet Weiermatt an, drei weitere sassen in einem Auto, das in Hellsau gestoppt wurde. Festgenommen wurden drei Minderjährige und vier Männer zwischen 18 und 22 Jahren.",
+              "gegenstimme": "Die Polizei nennt weder Nationalität noch Wohnort der Festgenommenen; Spekulationen über die Herkunft sind deshalb nicht belegt. Ob es sich um eine organisierte Bande oder um einen spontanen Versuch handelt, ist offen, und für alle gilt die Unschuldsvermutung.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html"
+                },
+                {
+                  "name": "Nau (Polizeimitteilung)",
+                  "url": "https://www.nau.ch/ort/burgdorf/hochstetten-be-sieben-manner-nach-versuchtem-einbruch-angehalten-67196405"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/sieben-m%C3%A4nner-nach-versuchtem-einbruch-in-h%C3%B6chstetten-festegnommen/92309901"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/hoechstetten-be-mit-diensthunden-und-drohnen-polizei-nimmt-7-maenner-fest-103660143"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-crans-montana-zwangsverwaltung-beschwerde",
+              "slug": "crans-montana-zwangsverwaltung-beschwerde",
+              "title": "Crans-Montana: Opferanwalt verlangt Teil-Zwangsverwaltung",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/7952f7806634dd7d876ae8a3fe2b6e8ea4f181a5-92308966.jpg?ver=13e45f45&fit=1200,900",
+              "kurz": "Ein Anwalt von Brandopfern will die Gemeinde Crans-Montana teilweise unter Zwangsverwaltung stellen. Sie könne ihre Haftung nicht bezahlen.",
+              "summary": "Sébastien Fanti, Anwalt von Opfern der Brandkatastrophe im «Le Constellation», hat beim Walliser Staatsrat eine Beschwerde gegen die Gemeinde Crans-Montana eingereicht. Er verlangt eine offizielle Untersuchung der Gemeindefinanzen und eine teilweise Zwangsverwaltung der Exekutive, beschränkt auf die finanziellen und rechtlichen Folgen des Brandes. Die Gesamtkosten für die Gemeinde könnten mehrere hundert Millionen Franken erreichen.",
+              "gegenstimme": "Die Gemeinde sagt, sie kenne die Beschwerde nicht und könne sie deshalb nicht kommentieren. Ob sie überhaupt haftet, ist gerichtlich noch nicht entschieden; eine Zwangsverwaltung wäre ein schwerer Eingriff in die Gemeindeautonomie.",
+              "sources": [
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/anwalt-beantragt-teil-zwangsverwaltung-von-crans-montana/92308979"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/regions/valais/2026/article/crans-montana-24-victimes-demandent-la-mise-sous-tutelle-29401777.html"
+                },
+                {
+                  "name": "Le Matin",
+                  "url": "https://www.lematin.ch/story/drame-du-constellation-des-victimes-veulent-une-mise-sous-tutelle-de-crans-montana-103659901"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-schubert-praxis-bleiberecht-sozialhilfe",
+              "slug": "schubert-praxis-bleiberecht-sozialhilfe",
+              "title": "Bleiberecht trotz Sozialhilfe: Ständeräte wollen Schweizer Sonderregeln sichern",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "evening",
+              "kurz": "Ein Bundesgerichtsurteil zu einer Deutschen in Basel befeuert die Debatte: Ständeräte wollen Sozialhilfebezüger vom Daueraufenthalt ausschliessen.",
+              "summary": "Laut Berichten der Tamedia-Zeitungen hat das Bundesgericht einer Deutschen in Basel, die wiederholt Sozialhilfe bezog, ein Aufenthaltsrecht zugesprochen, weil ihr staatlich finanzierter Einsatz im Beschäftigungsprogramm als Erwerbsarbeit zählte. FDP-Ständerat Andrea Caroni und Mitte-Ständerätin Heidi Z'graggen wollen das ändern. Wer arbeitslos ist oder Sozialhilfe bezieht, soll kein Daueraufenthaltsrecht erhalten, und die Fünfjahresfrist soll neu beginnen.",
+              "gegenstimme": "Die EU sieht solche Verschärfungen kritisch; ihr Botschafter nannte sie «nicht hilfreich». Ein Gesetz, das bewusst vom Freizügigkeitsrecht abweicht, könnte zu einem Schiedsverfahren mit Brüssel führen und das EU-Vertragspaket belasten.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/schubert-praxis-staenderaete-wollen-schweizer-sonderregeln-sichern-824210019928"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/angst-vor-den-eigenen-richtern-ld.10048473"
+                },
+                {
+                  "name": "Parlament (Vernehmlassung 26.425)",
+                  "url": "https://www.parlament.ch/de/organe/kommissionen/sachbereichskommissionen/kommissionen-spk/berichte-vernehmlassungen-spk/vernehmlassung-spk-26-425"
+                },
+                {
+                  "name": "Fedlex",
+                  "url": "https://www.fedlex.admin.ch/eli/fga/2026/2863/de"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-migros-fusion-gewinnbeteiligung",
+              "slug": "migros-fusion-gewinnbeteiligung",
+              "title": "Migros will Genossenschafter am Gewinn beteiligen",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "🛒",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/01/df836a97-e4e7-420a-8a77-e7d41ca1dc04.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C3543%2C2358&s=f08ce96bf4f7c51d044b43f7939fe60c",
+              "kurz": "Um die Fusion ihrer zehn Regionalgenossenschaften durchzubringen, will die Migros ihre 2,3 Millionen Mitglieder direkt am Gewinn beteiligen.",
+              "summary": "Die Migros will ihre zehn Regionalgenossenschaften zu einer Einheitsgenossenschaft verschmelzen. Laut «NZZ am Sonntag» ist der Grundsatz einer direkten Gewinnbeteiligung für die rund 2,3 Millionen Genossenschafter beschlossen, Höhe und Form sind offen. Über die Fusion wird im Sommer 2027 abgestimmt.",
+              "gegenstimme": "Kritiker sehen in der Gewinnbeteiligung ein Lockmittel für eine Zentralisierung, die regionale Mitsprache abbaut; Widerstand wird vor allem in der Westschweiz und im Tessin erwartet. Zudem ist unklar, ob ein Betrag von rund 80 Franken pro Mitglied die Abstimmung entscheidet.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/die-einheitsgenossenschaft-als-verzweiflungstat-wie-die-unmoegliche-revolution-bei-der-migros-moeglich-wurde-ld.10048453"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/mega-umbau-migros-plant-direkte-gewinnbeteiligung-fuer-ihre-genossenschafter-103659898"
+                },
+                {
+                  "name": "Bluewin",
+                  "url": "https://www.bluewin.ch/de/news/schweiz/migros-plant-direkte-gewinnbeteiligung-fuer-ihre-genossenschafter-li.3656910"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-frankfurt-krawalle-poseck-bilanz",
+              "slug": "frankfurt-krawalle-poseck-bilanz",
+              "title": "Frankfurt: Innenminister nennt Krawallmacher «überwiegend migrantisch geprägt»",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇩🇪",
+              "edition": "evening",
+              "kurz": "Hessens Innenminister Poseck sagt, die Plünderer in Frankfurt seien überwiegend migrantisch geprägt. 54 Festnahmen, 100 verletzte Polizisten.",
+              "summary": "Nach der Krawallnacht in Frankfurt hat Hessens Innenminister Roman Poseck (CDU) Bilanz gezogen: Die Gruppe von schätzungsweise 1000 bis 1500 Störern sei überwiegend «migrantisch geprägt» gewesen, es dürfe «keine falschen Tabus» geben. 54 Personen im Alter von 13 bis 29 Jahren wurden festgenommen, die meisten haben laut Poseck die deutsche Staatsangehörigkeit. 100 Polizisten wurden verletzt, einer schwer, fünf Geschäfte geplündert.",
+              "gegenstimme": "Die Polizei betont, die Plünderer hätten kein erkennbares politisches Motiv gehabt; sie gelten als «erlebnisorientiert». Linke Kritiker warnen davor, die Herkunft in den Vordergrund zu stellen, statt soziale Ursachen und Nachahmung der Bilder aus Frankreich zu untersuchen.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6ae723e982dfc5c67ce5a3f9/frankfurt-taetergruppe-war-ueberwiegend-migrantisch-gepraegt-sagt-poseck-afd-wirft-regierung-versagen-vor.html"
+                },
+                {
+                  "name": "Tagesschau (HR)",
+                  "url": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-frankreich-protestsamstag-bilanz-779-festnahmen",
+              "slug": "frankreich-protestsamstag-bilanz-779-festnahmen",
+              "title": "Frankreich: 779 Festnahmen und 515 Brände am Protestsamstag",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/b7378cf5-2bc2-40ee-b3e0-629e3c853bd3_w1200_r1.778_fpx53_fpy50.jpg",
+              "kurz": "Das Innenministerium zählt nach Protesttag und Halloween-Nacht 779 Festnahmen und 116 verletzte Einsatzkräfte. Die Mobilisierung nimmt ab.",
+              "summary": "Am landesweiten Protesttag und in der Halloween-Nacht wurden in Frankreich 779 Menschen festgenommen und 116 Sicherheitskräfte verletzt, wie das Innenministerium mitteilt. Die Feuerwehr bekämpfte 515 Brände, 36 Geschäfte wurden beschädigt und drei geplündert. Mit 320'000 Teilnehmenden demonstrierten 22 Prozent weniger als eine Woche zuvor.",
+              "gegenstimme": "Organisationen der Schüler und Studierenden betonen, die Mehrheit protestiere friedlich gegen Bildungs- und Zukunftsprobleme, und kritisieren die Demonstrationsverbote. Die Regierung verspricht mehr Geld und Stellen, was zeigt, dass sie die Anliegen zumindest teilweise anerkennt.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/frankreich-protestsamstag-515-braende-779-festnahmen-116-verletzte-einsatzkraefte-a-c3efc86b-c7a3-4ca5-a473-d6b83408696e"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-die-bilanz-knapp-780-festnahmen-und-515-bekaempfte-braende"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-london-palestine-action-325-festnahmen",
+              "slug": "london-palestine-action-325-festnahmen",
+              "title": "London: 325 Festnahmen an Palestine-Action-Protest",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇬🇧",
+              "edition": "evening",
+              "kurz": "Vor der US-Botschaft in London nahm die Polizei 325 Menschen fest, fast alle wegen Unterstützung der verbotenen Gruppe Palestine Action.",
+              "summary": "Die Metropolitan Police hat am Samstag vor der US-Botschaft in London 325 Personen festgenommen, 320 davon nach dem Terrorgesetz wegen Unterstützung der verbotenen Gruppe Palestine Action. Organisiert hatte den Protest die Kampagne Defend Our Juries. Seit dem Verbot im Juli 2025 gab es laut Behördenzahlen über 4000 solche Festnahmen.",
+              "gegenstimme": "Die Organisatoren und Bürgerrechtler sehen im Verbot einen Angriff auf die Meinungsfreiheit, weil Menschen schon für ein Schild festgenommen werden. Die Regierung verweist auf Sabotageakte der Gruppe, etwa auf einer Luftwaffenbasis, und hält das Verbot für nötig.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c98rz23ed781o"
+                },
+                {
+                  "name": "Arab News (AFP)",
+                  "url": "https://www.arabnews.com/world/uk-police-say-325-people-were-arrested-at-palestine-action-demo-3009264"
+                },
+                {
+                  "name": "Evening Standard",
+                  "url": "https://www.standard.co.uk/news/london/palestine-action-protest-us-embassy-metropolitan-police-arrests-b1303096.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/vermischtes/kriminalitaet/article6ae7497882dfc5c67ce5a674/eingestufte-terrororganisation-protest-gegen-verbot-von-gruppe-palestine-action-325-festnahmen-in-london.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-polen-verfassungsgericht-eu-kommission-tusk",
+              "slug": "polen-verfassungsgericht-eu-kommission-tusk",
+              "title": "Polen: EU-Kommission stellt sich im Richterstreit hinter Tusk",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🇵🇱",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/151ab74c-4bdb-4d76-9475-80d7decae5a0/AAABoZdy__A/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-126.jpg?width=1280",
+              "kurz": "Im Machtkampf um Polens Verfassungsgericht stärkt EU-Justizkommissar McGrath der Regierung Tusk den Rücken. Präsident Nawrocki bleibt hart.",
+              "summary": "Im Streit um das polnische Verfassungsgericht hat sich die EU-Kommission eingeschaltet: Justizkommissar Michael McGrath verwies auf eine Expertenkommission des Europarats, wonach das Abgeordnetenhaus für die Wahl neuer Richter zuständig ist. Damit spricht er Präsident Karol Nawrocki indirekt das Recht ab, die Einsetzung zu blockieren. Regierungschef Donald Tusk warf Nawrocki vor, sich gewaltsam Zutritt zum Gericht verschafft zu haben.",
+              "gegenstimme": "Das rechtskonservative Lager um Nawrocki und die PiS sieht in Tusks Vorgehen selbst einen Rechtsbruch, weil die Regierung Urteile und Richter des bisherigen Gerichts nicht anerkennt. Aus ihrer Sicht mischt sich Brüssel einseitig zugunsten einer befreundeten Regierung ein.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/machtkampf-in-polen-regierungschef-tusk-nicht-muskeln-entscheiden-wer-recht-hat"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/machtkampf-in-warschau-streit-um-polens-verfassungsgericht-spitzt-sich-zu-ld.10050144"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-usa-midterms-rekord-fruehwahl",
+              "slug": "usa-midterms-rekord-fruehwahl",
+              "title": "USA: Über 50 Millionen Stimmen vor den Zwischenwahlen",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-09T172131Z_985355389_RC2SZNA54XGH_RTRMADP_3_USA-VANCE-1791579738.jpg?resize=1920%2C1440",
+              "kurz": "Zwei Tage vor den Midterms haben über 53 Millionen Amerikaner gewählt, mehr als 2022. Trump wirbt zum Schluss in Iowa und Kansas.",
+              "summary": "Vor den Zwischenwahlen vom Dienstag haben laut Auswertung der University of Florida bis Sonntagmorgen über 53 Millionen Amerikaner vorzeitig gewählt, rund 29 Millionen persönlich und 23 Millionen per Post. 2022 waren es zum selben Zeitpunkt etwa 46 Millionen. Präsident Trump tritt zum Abschluss in Iowa und Kansas auf, um die republikanischen Senatskandidaten zu stützen.",
+              "gegenstimme": "Hohe Frühwahlzahlen sagen wenig über den Ausgang: Republikaner wählen traditionell eher am Wahltag selbst. Umfragevorsprünge der Demokraten sind landesweite Werte, entscheidend sind aber einzelne umkämpfte Wahlkreise und Senatsrennen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/1/more-than-50-million-votes-cast-in-us-midterm-elections-what-does-it-mean"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/trump-iowa-kansas-republicans-midterms-d66c92d2c171cf4dc434078c64cf2cd1"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-westsahara-minurso-mandat-abgelaufen",
+              "slug": "westsahara-minurso-mandat-abgelaufen",
+              "title": "Westsahara: UN-Mission endet nach russischem Veto",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇺🇳",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2022/08/AP22077694003464.jpg?resize=1920%2C1440",
+              "kurz": "Das Mandat der UN-Mission Minurso ist abgelaufen. Russland blockierte einen US-Entwurf, der Marokkos Autonomieplan zur einzigen Grundlage gemacht hätte.",
+              "summary": "Das Mandat der UN-Mission Minurso in der Westsahara ist am Samstag um Mitternacht abgelaufen. Russland hatte im Sicherheitsrat einen US-Entwurf mit seinem Veto blockiert, obwohl 11 von 15 Mitgliedern zustimmten; ein russischer Gegenentwurf scheiterte am Veto der USA. Marokko begrüsst das Ende der Mission, die seit 1991 ein Referendum vorbereiten sollte.",
+              "gegenstimme": "Russland nennt den US-Entwurf eine einseitige Lösung, die Fragen der Souveränität vorwegnehme, und spricht von einem «lebensrettenden Veto». Die Polisario begrüsst das Scheitern des US-Textes, will aber keinen Prozess mittragen, der das Recht auf Selbstbestimmung übergeht.",
+              "sources": [
+                {
+                  "name": "UN News",
+                  "url": "https://news.un.org/en/story/2026/11/1168717"
+                },
+                {
+                  "name": "UN-Pressedienst",
+                  "url": "https://press.un.org/en/2026/sc16498"
+                },
+                {
+                  "name": "DW",
+                  "url": "https://www.dw.com/en/un-peacekeeping-mission-in-western-sahara-to-expire-amid-us-russia-vetoes/a-79814338"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-deutschland-gasspeicher-ziel-verfehlt",
+              "slug": "deutschland-gasspeicher-ziel-verfehlt",
+              "title": "Deutschlands Gasspeicher verfehlen Füllziel deutlich",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "🔥",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/90fcaddf-4c0f-4c73-804d-d38f627af935/AAABoKjuL6U/AAABnSSvrFg/16x9-big/gas-206.jpg?width=1280",
+              "kurz": "Am Stichtag sind Deutschlands Gasspeicher nur zu 61 Prozent gefüllt statt 70. Der Branchenverband spricht von einem Warnsignal, Berlin wiegelt ab.",
+              "summary": "Die deutschen Gasspeicher sind zum Stichtag 1. November nur zu rund 61,2 Prozent gefüllt, gesetzlich vorgegeben sind durchschnittlich 70 Prozent. Der Branchenverband Initiative Energien Speichern spricht von einem «ernst zu nehmenden Warnsignal». Wirtschaftsministerium und Bundesnetzagentur halten die Versorgung im Winter dennoch für gesichert.",
+              "gegenstimme": "Netzagentur-Chef Klaus Müller sagt, dank Flüssiggas-Terminals sei das Erreichen der Speicherziele nicht mehr zwingend. Der Gasverband betont, die Händler hätten das für den Winter bestellte Gas eingespeichert; mit rund 150 Terawattstunden lagere mehr Gas, als im letzten Winter entnommen wurde.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/wirtschaft/article6ae7368a6a5ed9f21313484f/keine-gefahr-laut-ministerium-ernst-zu-nehmendes-warnsignal-deutschlands-gasspeicher-nur-zu-61-prozent-gefuellt.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-binance-auszahlungen-nach-rekordhack",
+              "slug": "binance-auszahlungen-nach-rekordhack",
+              "title": "Binance gibt Auszahlungen nach Rekordhack schrittweise frei",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "💰",
+              "edition": "evening",
+              "image": "https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop",
+              "kurz": "Nach dem 6,3-Milliarden-Dollar-Hack erlaubt Binance wieder Auszahlungen. 90 Prozent der gestohlenen Summe seien ersetzt, der Rest folge.",
+              "summary": "Die Kryptobörse Binance hat am Sonntag begonnen, Auszahlungen wieder zuzulassen, zuerst für Ethereum, USDT und USDC. Nach eigenen Angaben hat sie 90 Prozent der gestohlenen 6,3 Milliarden Dollar ersetzt; Co-Chef Richard Teng verspricht, auch die restlichen 10 Prozent zu decken. Das FBI hatte am Samstag die nordkoreanische Gruppe TraderTraitor als Täterin benannt.",
+              "gegenstimme": "Dass Binance den Schaden aus eigenen Mitteln deckt, beruhigt Kunden kurzfristig, zeigt aber auch, wie stark Kundengelder von einer einzelnen Plattform abhängen. Kritiker der Branche fordern strengere Aufsicht über zentrale Börsen.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist"
+                },
+                {
+                  "name": "Golem",
+                  "url": "https://www.golem.de/news/6-3-milliarden-us-dollar-geklaut-binance-startet-nach-rekordhack-schrittweise-wieder-2611-214728.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-01-google-suncatcher-ki-satellit",
+              "slug": "google-suncatcher-ki-satellit",
+              "title": "Googles KI-Satellit liefert erste Antwort aus dem All",
+              "date": "2026-11-01",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🛰️",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/2/5/4/8/shutterstock_1072726052-d1ff54b1d09a8c34.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Erstmals hat ein Rechenzentrums-Chip im Orbit eine KI-Antwort erzeugt: Googles Testsatellit schrieb mit Gemma 4 ein Haiku.",
+              "summary": "Google hat mit seinem Testsatelliten für «Project Suncatcher» erstmals eine Antwort eines KI-Modells aus dem Orbit erhalten. Das Bordmodell Gemma 4 lief auf einem TPU-Beschleuniger und schickte über Spitzbergen ein Haiku zur Erde. Google spricht vom ersten KI-Ergebnis eines Rechenzentrums-Chips im All.",
+              "gegenstimme": "Bis zu Rechenzentren im Orbit ist es weit: Laut New York Times können die Chips nur 15 Minuten am Stück rechnen, bevor sie zur Kühlung abgeschaltet werden. Skeptiker halten Kosten, Kühlung und Strahlung im All für ungelöste Grundprobleme.",
+              "sources": [
+                {
+                  "name": "Google",
+                  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
+                },
+                {
+                  "name": "heise",
+                  "url": "https://www.heise.de/news/Googles-KI-Satellit-sendet-erste-Daten-aus-dem-All-11507302.html"
+                },
+                {
+                  "name": "SpaceNews",
+                  "url": "https://spacenews.com/google-runs-ai-model-on-satellite-chip-advancing-orbital-data-center-ambitions/"
                 }
               ]
             }
