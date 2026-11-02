@@ -1,5 +1,5 @@
 {
-  "updated": "11:15 UTC",
+  "updated": "16:45 UTC",
   "days": [
     {
       "date": "2026-11-02",
@@ -766,6 +766,410 @@
                 {
                   "name": "Aviation Week",
                   "url": "https://aviationweek.com/defense/missile-defense-weapons/hypersonica-accelerate-testing-pace-funding-boost"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:15",
+          "articles": [
+            {
+              "id": "2026-11-02-supermaerkte-kuehlanlagen-cyberangriff-europa",
+              "slug": "supermaerkte-kuehlanlagen-cyberangriff-europa",
+              "title": "Cyberangriffe auf Supermarkt-Kühlanlagen: Sieben Länder betroffen, Versuche auch bei Coop",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🧊",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
+              "kurz": "Hacker haben in der Nacht Kühltheken in rund 40 Delhaize-Filialen und Läden in fünf weiteren Ländern aufgeheizt. Coop meldet erfolglose Angriffsversuche.",
+              "summary": "In der Nacht auf Montag sind Kühl- und Tiefkühlanlagen in Supermärkten in sieben europäischen Ländern ferngesteuert aufgeheizt worden, darunter rund 40 Delhaize-Filialen in Belgien und Luxemburg sowie Läden in Schweden, Irland, den Niederlanden, Estland und Finnland. Die Temperaturen stiegen teils auf 50 Grad, Waren mussten entsorgt werden. In der Schweiz bestätigt Coop Angriffsversuche, die aber erfolglos blieben; Migros meldet keine Hinweise auf Angriffe.",
+              "gegenstimme": "IT-Sicherheitsfachleute weisen darauf hin, dass ein Teil des Problems hausgemacht ist: Kühlanlagen hängen oft ungeschützt am Internet, und die Lücke ist seit dem Angriff in Frankreich bekannt. Zudem ist offen, ob es sich um einen staatlich gesteuerten Sabotageakt oder um Kriminelle handelt; voreilige Zuschreibungen an Russland sind bisher nicht belegt.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/seit-mitte-oktober-mysterioese-hacking-welle-trifft-europaeische-supermaerkte-103660687"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Kuehlschraenke-in-Lebensmittellaeden-weiterer-Laender-geknackt-11507846.html"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-linke-bundestag-spam-bombing",
+              "slug": "linke-bundestag-spam-bombing",
+              "title": "Spam-Angriff legt Postfächer der Linken im Bundestag lahm",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "📧",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/268e7440-08c6-4492-84ec-6bd867a0afde/AAABnRAAbFU/AAABnSSvrFg/16x9-big/die-linke-logo-100.jpg?width=1280",
+              "kurz": "Jedes Mitglied der Linksfraktion erhielt über 20'000 E-Mails in vielen Sprachen. Andere Fraktionen sind nicht betroffen, das BSI ist eingeschaltet.",
+              "summary": "Die E-Mail-Postfächer der Bundestagsabgeordneten der Linken sind seit dem Wochenende durch einen sogenannten Spam-Bombing-Angriff lahmgelegt. Laut der parlamentarischen Geschäftsführerin Ina Latendorf gingen bei jedem Fraktionsmitglied über 20'000 E-Mails von wechselnden Absendern und in vielen Sprachen ein. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) wurde eingeschaltet.",
+              "gegenstimme": "Spam-Bombing ist technisch simpel und wird oft genutzt, um wichtige Einzelnachrichten (etwa Sicherheitswarnungen) in der Flut zu verstecken. Ob die Linke gezielt politisch angegriffen wurde oder ob es sich um eine Ablenkung für etwas anderes handelt, ist offen. Kritiker der Bundestags-IT sehen eher ein Versagen bei den Filtern als einen ausgeklügelten Angriff.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/cyberattacke-linkspartei-mail-postfaecher-100.html"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/cyberattacke-postfaecher-von-linke-abgeordneten-im-bundestag-lahmgelegt/100266660.html"
+                },
+                {
+                  "name": "Golem",
+                  "url": "https://www.golem.de/news/cyberattacke-postfaecher-von-linke-abgeordneten-im-bundestag-lahmgelegt-2611-214768.html"
+                },
+                {
+                  "name": "NIUS (Einordnung)",
+                  "url": "https://nius.de/politik/spam-bombing-attacke-postfaecher-linke"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-marvell-lumentum-115-milliarden",
+              "slug": "marvell-lumentum-115-milliarden",
+              "title": "Chipkonzern Marvell kauft Lumentum für 115 Milliarden Dollar",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "💾",
+              "edition": "evening",
+              "kurz": "Einer der grössten Tech-Deals überhaupt: Marvell übernimmt den Laser- und Optikspezialisten Lumentum, um bei KI-Rechenzentren gegen Broadcom aufzuholen.",
+              "summary": "Der US-Chiphersteller Marvell übernimmt den Optikkomponenten-Hersteller Lumentum in einem reinen Aktientausch, der Lumentum mit 115 Milliarden Dollar bewertet. Lumentum-Aktionäre erhalten 4,5 Marvell-Aktien pro Aktie, was einer Prämie von rund 24 Prozent entspricht. Der Abschluss ist für das erste Halbjahr 2028 geplant.",
+              "gegenstimme": "Skeptiker sehen im Deal eine Wette auf den anhaltenden KI-Boom zu Höchstpreisen: Sollten die Investitionen der grossen Cloud-Konzerne abflachen, wäre der Kaufpreis kaum zu rechtfertigen. Zudem dürfte die lange Frist bis 2028 auf eine intensive Prüfung durch Wettbewerbsbehörden, auch in China, hindeuten.",
+              "sources": [
+                {
+                  "name": "Marvell (Medienmitteilung)",
+                  "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html"
+                },
+                {
+                  "name": "Bloomberg Law",
+                  "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/marvell-reaches-115-billion-deal-for-lumentum-holdings"
+                },
+                {
+                  "name": "Golem",
+                  "url": "https://www.golem.de/news/lumentum-marvell-gibt-115-milliarden-dollar-fuer-ki-laserexperten-aus-2611-214765.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-biometrische-identitaetskarte-erhaeltlich",
+              "slug": "biometrische-identitaetskarte-erhaeltlich",
+              "title": "Biometrische Identitätskarte ab heute erhältlich",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🪪",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/08/4db20d6feab5008171f6d33e879c3f0345c6fdb5-91956910.jpg?ver=94f90422&fit=1200,900",
+              "kurz": "Die neue ID mit Chip, Gesichtsbild und zwei Fingerabdrücken kann ab dem 2. November beantragt werden. Die ID ohne Chip bleibt wählbar.",
+              "summary": "Seit Montag, 2. November, stellen die kantonalen Passbüros und die Schweizer Vertretungen im Ausland biometrische Identitätskarten aus. Wie der Pass enthält die neue ID einen Chip mit Gesichtsbild und zwei Fingerabdrücken. Die Karte ohne Chip bleibt weiterhin erhältlich, und bestehende Identitätskarten gelten bis zum Ablaufdatum.",
+              "gegenstimme": "Datenschützer kritisieren seit Jahren, dass mit jeder biometrischen Erfassung mehr sensible Daten beim Staat liegen, auch wenn die Fingerabdrücke laut Bund nur auf dem Chip gespeichert sind. Umgekehrt bemängeln Praktiker, dass das Nebeneinander zweier ID-Varianten Verwirrung schafft und Gemeinden die neue Karte nicht ausstellen dürfen.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/schweiz-die-neusten-meldungen-ld.10026748"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/nach-dem-biometrischen-pass-kommt-die-biometrische-id/91956923"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-zofingen-angriffe-prozess-schuldunfaehig",
+              "slug": "zofingen-angriffe-prozess-schuldunfaehig",
+              "title": "Zofingen: Angreifer von sieben Passanten vor Gericht",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "kurz": "Ein 44-jähriger Spanier verletzte im Mai 2024 in Zofingen sieben Menschen. Laut Gutachten war er schuldunfähig; die Anklage fordert Therapie und 15 Jahre Landesverweis.",
+              "summary": "Vor dem Bezirksgericht Zofingen steht seit Montag ein heute 44-jähriger Spanier, der am 15. Mai 2024 in Zofingen AG sieben Passantinnen und Passanten mit einem Metallgegenstand, einem Kugelschreiber und einem Messer teils schwer verletzt hat. Er ist wegen mehrfacher versuchter Tötung angeklagt und hat die Taten eingeräumt. Ein Gutachten attestiert ihm eine chronische paranoide Schizophrenie; die Staatsanwaltschaft hält ihn für schuldunfähig und beantragt eine stationäre Massnahme («kleine Verwahrung») sowie 15 Jahre Landesverweisung.",
+              "gegenstimme": "Opfervertreter dürften fragen, warum ein schwer psychisch kranker Mann als Tourist unbehelligt einreisen konnte und ob eine Massnahme statt einer Strafe dem Leid der sieben Opfer gerecht wird. Umgekehrt betonen Fachleute, dass die «kleine Verwahrung» oft deutlich länger dauert als eine Freiheitsstrafe und kein mildes Urteil ist.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/angriffe-in-zofingen-2024-nach-angriffen-auf-sieben-menschen-beschuldigter-vor-gericht"
+                },
+                {
+                  "name": "Aargauer Zeitung",
+                  "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/messerangriffe-von-zofingen-beschuldigter-vor-gericht-ld.4258493"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/spanier-zieht-blut-spur-durch-zofingen-ag-und-verletzt-7-menschen/n3y3cfk"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-geroldswil-feuerwehrmann-feuerwerk-angriff",
+              "slug": "geroldswil-feuerwehrmann-feuerwerk-angriff",
+              "title": "Geroldswil: Jugendliche beschiessen Feuerwehrmann mit Raketen",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🎆",
+              "edition": "evening",
+              "kurz": "Mehrere Dutzend Jugendliche griffen in Geroldswil ZH einen Feuerwehrmann und die Polizei mit Feuerwerk an. Ein 15-jähriger Schweizer wurde festgenommen.",
+              "summary": "Am Sonntagabend ist in Geroldswil ZH ein Feuerwehrmann nach einem Einsatz wegen eines brennenden Containers aus einer Gruppe junger Leute mit Feuerwerksraketen beschossen worden; zudem flog ein Stein durch ein Fenster des Feuerwehrdepots. Die eintreffende Polizei wurde von mehreren Dutzend Jugendlichen ebenfalls mit Pyrotechnik angegriffen. Die Kantonspolizei Zürich nahm einen 15-jährigen Schweizer fest.",
+              "gegenstimme": "Jugendarbeiter warnen davor, aus einzelnen Krawallnächten einen Trend abzuleiten, und verweisen auf Langeweile und Gruppendynamik. Kritiker der Polizeitaktik sehen dagegen eine Nachahmungswelle nach den Halloween-Krawallen in Zürich und Basel, die durch zu wenige Festnahmen begünstigt werde.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/geroldswil-zh-feuerwehr-mit-feuerwerk-angegriffen-15-jaehriger-festgenommen-103660818"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/ort/dietikon/geroldswil-zh-jugendliche-greifen-feuerwehrmann-mit-feuerwerk-an-67196725"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/zuerich/jugendliche-greifen-feuerwehr-in-geroldswil-zh-mit-pyrotechnik-an/tlq0yf0"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/vandalen-springen-in-kuesnacht-auf-auto-herum-ld.10041727"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-unterseen-geldautomat-ausreissversuch",
+              "slug": "unterseen-geldautomat-ausreissversuch",
+              "title": "Unterseen: Unbekannte wollten Geldautomaten herausreissen",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🏧",
+              "edition": "evening",
+              "kurz": "In Unterseen versuchte eine Täterschaft, einen Bancomaten mit Spanngurten und einem Fahrzeug aus der Verankerung zu reissen. Die Kantonspolizei Bern sucht Zeugen.",
+              "summary": "In der Nacht auf Sonntag hat eine unbekannte Täterschaft in Unterseen versucht, einen freistehenden Geldautomaten an der Bahnhofstrasse mit Spanngurten und einem Fahrzeug aus der Verankerung zu reissen. Der Versuch misslang, Geld wurde laut Kantonspolizei Bern keines erbeutet. Eine Patrouille entdeckte den beschädigten Automaten am Sonntag kurz vor 10.30 Uhr.",
+              "gegenstimme": "Ob es sich um eine organisierte Bande handelt, wie sie in den letzten Jahren vermehrt Bancomaten in der Schweiz gesprengt hat, oder um Gelegenheitstäter, ist offen; die improvisierte Methode spricht eher gegen Profis. Banken stehen unter Kritik, freistehende Automaten zu wenig zu sichern.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/unbekannte-wollten-geldautomaten-in-unterseen-herausreissen/92313114"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/ort/interlaken/unterseen-be-unbekannte-versuchen-geldautomaten-herauszureissen-67196638"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-niederoenz-verwaltungsgericht-wahl-gueltig",
+              "slug": "niederoenz-verwaltungsgericht-wahl-gueltig",
+              "title": "Niederönz: Verwaltungsgericht bestätigt umstrittene Gemeindewahl",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🗳️",
+              "edition": "evening",
+              "kurz": "Eine Stimmberechtigte wollte die Gemeinderatswahl in Niederönz für ungültig erklären lassen, weil ihre Kandidatur nicht vorab publiziert wurde. Das Gericht wies ab.",
+              "summary": "Das Berner Verwaltungsgericht hat eine Beschwerde gegen die Gemeinderatswahlen in Niederönz (Oberaargau) vom 10. Juni 2026 abgewiesen. Eine Stimmberechtigte hatte die Ungültigerklärung verlangt, weil ihre Kandidatur für das Gemeindepräsidium vor der Gemeindeversammlung nicht publiziert worden war. Das Gericht sah darin keinen Verstoss und keine «Scheinwahl».",
+              "gegenstimme": "Die Beschwerdeführerin argumentierte, ohne vorgängige Publikation hätten die Stimmberechtigten keine echte Auswahl gehabt. Kritiker von Wahlen an Gemeindeversammlungen sehen darin ein Grundproblem: Wer nicht vorher bekannt ist, hat kaum Chancen, auch wenn das Reglement formal eingehalten wird.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/niederoenz-gericht-weist-beschwerde-gegen-wahl-ab-459091984564"
+                },
+                {
+                  "name": "BärnerBär",
+                  "url": "https://baernerbaer.ch/politik/regional/berner-verwaltungsgericht-stutzt-wahlverfahren-in-niederonz-67196712"
+                },
+                {
+                  "name": "ajour",
+                  "url": "https://ajour.ch/de/story/705043/berner-verwaltungsgericht-st%C3%BCtzt-wahlverfahren-in-nieder%C3%B6nz"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-autoneum-uebernimmt-treves",
+              "slug": "autoneum-uebernimmt-treves",
+              "title": "Autoneum übernimmt französischen Zulieferer Trèves",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "evening",
+              "kurz": "Der Winterthurer Autozulieferer kauft die angeschlagene Trèves-Gruppe mit 4600 Angestellten für höchstens 64 Millionen Euro, grösstenteils in Aktien.",
+              "summary": "Der Winterthurer Autozulieferer Autoneum übernimmt die französische Trèves-Gruppe, einen Hersteller von Akustik- und Dämmteilen mit rund 4600 Angestellten und zuletzt 720 Millionen Euro Umsatz. Der Kaufpreis beträgt rund 40 Millionen Euro, mehrheitlich in neuen Autoneum-Aktien, plus bis zu 24 Millionen Euro erfolgsabhängig. Der kombinierte Umsatz soll 2026 über 2,9 Milliarden Franken liegen.",
+              "gegenstimme": "Der tiefe Preis zeigt laut NZZ, dass Trèves angeschlagen ist; der Deal lohnt sich nur, wenn beide Firmen kräftig sparen. Für die Belegschaft heisst das voraussichtlich Werkschliessungen und Stellenabbau, vor allem in Frankreich, wo die Arbeitnehmervertretungen noch angehört werden müssen.",
+              "sources": [
+                {
+                  "name": "Autoneum (Ad-hoc-Mitteilung)",
+                  "url": "https://autoneum.com/de/news/autoneum-to-acquire-tr%C3%A8ves-group"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/autoneum-will-franz%c3%b6sische-tr%c3%a8ves-group-%c3%bcbernehmen/92311907"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/autoneum-uebernimmt-treves-ein-umsatzplus-aber-auch-risiken-ld.10051698"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-frankfurt-krawalle-54-verdaechtige-syrer-haft",
+              "slug": "frankfurt-krawalle-54-verdaechtige-syrer-haft",
+              "title": "Frankfurt: 54 Tatverdächtige identifiziert, 18-jähriger Syrer in U-Haft",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🚔",
+              "edition": "evening",
+              "kurz": "Nach den Krawallen bei der Gen-Z-Demo ermittelt die Frankfurter Staatsanwaltschaft gegen 54 namentlich bekannte Personen. Ein Syrer sitzt wegen Waffendiebstahls in U-Haft.",
+              "summary": "Nach den Ausschreitungen bei der Gen-Z-Demonstration vom Samstag hat die Staatsanwaltschaft Frankfurt 54 Tatverdächtige namentlich identifiziert. Ermittelt wird unter anderem wegen schweren Landfriedensbruchs, gefährlicher Körperverletzung, Einbruchdiebstahls und Angriffen auf Polizisten. Ein 18-jähriger syrischer Staatsangehöriger, der aus einem geplünderten Waffengeschäft eine Waffe gestohlen haben soll, sitzt in Untersuchungshaft.",
+              "gegenstimme": "Kritiker warnen, aus einem einzelnen syrischen Beschuldigten Rückschlüsse auf die Gesamtheit der Randalierer zu ziehen, solange die Herkunft der übrigen 53 nicht bekannt ist. Andere halten der Politik vor, nach jeder Krawallnacht harte Konsequenzen anzukündigen, während Verfahren am Ende oft eingestellt werden oder mit milden Strafen enden.",
+              "sources": [
+                {
+                  "name": "Hessisches Justizministerium",
+                  "url": "https://justizministerium.hessen.de/presse/grosse-anzahl-an-straftaetern-bereits-identifiziert-sie-muessen-mit-konsequenzen-rechnen"
+                },
+                {
+                  "name": "t-online",
+                  "url": "https://frankfurt.t-online.de/region/frankfurt-am-main/id_101509166/gen-z-demo-in-frankfurt-ermittlungen-gegen-54-menschen-nach-randale.html"
+                },
+                {
+                  "name": "Bild",
+                  "url": "https://www.bild.de/regional/frankfurt/genz-proteste-frankfurt-54-verdaechtige-identifiziert-syrer-18-in-haft-6ae890481d5fd399fd461603"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-niedersachsen-anschlagsplan-fluechtlingsheim",
+              "slug": "niedersachsen-anschlagsplan-fluechtlingsheim",
+              "title": "Mutmasslich rechtsextremer Anschlag auf Flüchtlingsheim vereitelt",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🛑",
+              "edition": "evening",
+              "kurz": "Ein 15-Jähriger sitzt in U-Haft, ein 19-Jähriger aus Winsen wird verdächtigt: Die beiden sollen einen Brandanschlag auf eine Unterkunft für Geflüchtete geplant haben.",
+              "summary": "Ermittler in Niedersachsen und Schleswig-Holstein werfen einem 15-Jährigen aus dem Kreis Bad Segeberg und einem 19-Jährigen aus Winsen an der Luhe vor, einen Brandanschlag auf eine Unterkunft für Geflüchtete vorbereitet zu haben. Der 15-Jährige wurde laut NDR mit einem Benzinkanister aufgegriffen und sitzt wegen Verabredung zu einem Verbrechen und Vorbereitung einer terroristischen Straftat in Untersuchungshaft. Beim 19-Jährigen wurden Smartphones beschlagnahmt.",
+              "gegenstimme": "Verteidiger und Jugendexperten mahnen, bei Teenagern zwischen Gewaltfantasien im Chat und konkreter Tatabsicht zu unterscheiden; ob eine Tat unmittelbar bevorstand, müssen die Ermittlungen zeigen. Von konservativer Seite wird kritisiert, dass rechte Gewalt rasch als Terror eingestuft werde, linksextreme Krawalle dagegen meist nicht.",
+              "sources": [
+                {
+                  "name": "NDR",
+                  "url": "https://www.ndr.de/nachrichten/investigation/polizei-verhindert-mutmasslich-rechtsextremen-anschlag-in-niedersachsen,rechtsextremer-anschlag-verhindert-100.html"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/jugendliche-wegen-moeglicher-anschlagsplaene-gegen-fluechtlingsheime-in-verdacht-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6ae895621d5fd399fd461681/norddeutschland-offenbar-anschlag-auf-migrantenunterkunft-geplant-15-und-19-jaehriger-unter-verdacht.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-russland-austritt-anti-folter-konvention",
+              "slug": "russland-austritt-anti-folter-konvention",
+              "title": "Russland verlässt europäische Anti-Folter-Konvention",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "international",
+              "icon": "⛓️",
+              "edition": "evening",
+              "kurz": "Seit dem 1. November gilt der Austritt Russlands. Damit endet laut Europarat jede unabhängige Kontrolle russischer Gefängnisse.",
+              "summary": "Russland ist seit dem 1. November nicht mehr Mitglied der Europäischen Konvention zur Verhütung von Folter. Moskau hatte den Austritt im Oktober 2025 angekündigt, er wurde nach der vorgeschriebenen Frist von einem Jahr wirksam. Laut dem Präsidenten des Anti-Folter-Komitees des Europarats, Alan Mitchell, endet damit jede unabhängige Überwachung von Haftorten in Russland.",
+              "gegenstimme": "Moskau begründet den Schritt damit, dass es nach dem Ausschluss aus dem Europarat 2022 im Komitee nicht mehr mitwirken könne. Kritiker halten entgegen, dass Russland schon zuvor praktisch keine Kontrolle zuliess, der Austritt also vor allem bestehende Realität formalisiert.",
+              "sources": [
+                {
+                  "name": "Europarat (CPT)",
+                  "url": "https://www.coe.int/en/web/cpt/-/russia-officially-withdraws-from-the-council-of-europe-s-anti-torture-convention"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-tritt-aus-europaeischer-anti-folter-konvention-aus-a-ace0a64c-9ca6-489f-9373-6b44efd90260"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/russland-aus-europ%C3%A4ischer-anti-folter-konvention-ausgetreten/92315359"
+                },
+                {
+                  "name": "Kyiv Independent",
+                  "url": "https://kyivindependent.com/russia-formally-leaves-council-of-europes-anti-torture-convention/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-hebron-armee-zieht-ab",
+              "slug": "hebron-armee-zieht-ab",
+              "title": "Westjordanland: Israels Armee beendet elftägigen Einsatz in Hebron",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🪖",
+              "edition": "evening",
+              "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793609641101-43015cf0585ea6c5.JPG",
+              "kurz": "Nach dem Anschlag mit zwei toten Soldaten zieht sich die israelische Armee aus einem Quartier in Hebron zurück. Über 3000 Vertriebene kehren zurück.",
+              "summary": "Die israelische Armee hat am Montag ihren rund elftägigen Einsatz in Hebron beendet und sich aus dem Quartier zurückgezogen, in dem die Täter eines Anschlags vom 23. Oktober gelebt hatten. Bei dem Angriff zweier palästinensischer Bewaffneter auf einen Kontrollpunkt waren zwei israelische Soldaten getötet worden. Laut Armee wurden Verdächtige festgenommen, vier Waffen beschlagnahmt und die Häuser der beiden Angreifer abgerissen.",
+              "gegenstimme": "Palästinensische Bewohner und Menschenrechtsgruppen kritisieren die Räumung eines ganzen Quartiers als Kollektivstrafe; Rückkehrer fanden laut AFP verwüstete Wohnungen vor. Die israelische Regierung verweist darauf, dass nach einem tödlichen Terroranschlag das Umfeld der Täter nach Waffen und Helfern durchsucht werden müsse.",
+              "sources": [
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/idf-ends-controversial-11-day-hebron-operation-that-followed-deadly-shooting-attack/"
+                },
+                {
+                  "name": "Arab News / AFP",
+                  "url": "https://www.arabnews.com/middle-east/israel-army-withdraws-after-hebron-operation-military-official-3009392"
+                },
+                {
+                  "name": "Washington Post",
+                  "url": "https://www.washingtonpost.com/world/2026/11/02/israeli-military-ends-operation-west-bank-city-hebron/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-labour-bricht-mit-gruenen-zionismus",
+              "slug": "labour-bricht-mit-gruenen-zionismus",
+              "title": "Grossbritannien: Labour beendet Zusammenarbeit mit Grünen in elf Gemeinden",
+              "date": "2026-11-02",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇬🇧",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b296/live/c09906d0-d45c-11f1-ab12-eb0c94f5b382.png",
+              "kurz": "Wegen des Parteibeschlusses der Grünen, Zionismus sei Rassismus, kündigt Labour Koalitionen in elf Kommunen, darunter Sheffield.",
+              "summary": "Die britische Labour-Partei beendet die Zusammenarbeit mit den Grünen in elf Gemeinderäten, darunter Sheffield, Warwick und Lewes. Grund ist ein im Oktober von den Grünen-Mitgliedern beschlossener Antrag mit dem Titel «Zionism is racism», den die lokalen Grünen nicht wie von Labour gefordert verurteilt hatten. In sechs weiteren Gemeinden, wo sich die Grünen distanzierten, bleibt die Kooperation bestehen.",
+              "gegenstimme": "Die Grünen werfen Labour vor, gut funktionierende Lokalregierungen aus parteitaktischen Gründen zu zerstören, und sagen, Kritik an Israels Regierung sei kein Antisemitismus. Jüdische Organisationen und andere Parteien halten dagegen, der Beschluss spreche dem jüdischen Staat grundsätzlich die Existenz ab.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c63dj21yvjd3o"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/politics/2026/nov/02/labour-end-cooperation-green-party-councils-zionism-racism-policy"
+                },
+                {
+                  "name": "The Jewish Chronicle",
+                  "url": "https://www.thejc.com/news/politics/labour-pulls-out-coalitions-greens-zionism-racism-rgfc943b"
                 }
               ]
             }
