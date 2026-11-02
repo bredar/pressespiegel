@@ -1,5 +1,5 @@
 {
-  "updated": "05:14 UTC",
+  "updated": "11:15 UTC",
   "days": [
     {
       "date": "2026-11-02",
@@ -399,6 +399,373 @@
                 {
                   "name": "GOV.UK",
                   "url": "https://www.gov.uk/government/speeches/a-fairer-pathway-to-settlement"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-02-srg-ukw-rueckkehr-mitte-november",
+              "slug": "srg-ukw-rueckkehr-mitte-november",
+              "title": "SRG sendet ab Mitte November wieder auf UKW",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "📻",
+              "edition": "midday",
+              "kurz": "Knapp zwei Jahre nach der Abschaltung kehren die SRG-Radios auf UKW zurück – für rund 6,5 Millionen Franken pro Jahr.",
+              "summary": "Die SRG strahlt ihre Radioprogramme ab Mitte November wieder über UKW aus, nachdem die Konzession des Bakom rechtskräftig ist. Erreicht werden rund 80 Prozent der Bevölkerung. Der Betrieb kostet laut SRG rund 6,5 Millionen Franken pro Jahr.",
+              "gegenstimme": "Die SRG und Teile der Branche halten UKW für ein Auslaufmodell: Neun von zehn Radiominuten werden laut Branchenzahlen bereits über DAB+ oder Internet gehört. Kritiker sehen im Neustart teure Symbolpolitik auf Kosten der Gebührenzahler.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/rueckkehr-zu-ukw-srg-sendet-radioprogramme-ab-mitte-november-wieder-analog"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/restart-kostet-millionen-ab-mitte-november-srg-radios-senden-wieder-auf-ukw-103660641"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/schweiz-die-neusten-meldungen-ld.10026748"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-crans-montana-moretti-erneut-befragt",
+              "slug": "crans-montana-moretti-erneut-befragt",
+              "title": "Crans-Montana: Jacques Moretti erneut befragt",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Der Barbetreiber wurde in Sitten erneut zum Brand mit 41 Toten einvernommen – die Konfrontation mit seiner Frau fiel aus.",
+              "summary": "Jacques Moretti, Betreiber der Bar «Le Constellation», ist in Sitten erneut zum Brand vom 1. Januar in Crans-Montana befragt worden. Opfer und Angehörige waren anwesend. Eine geplante Konfrontation mit seiner Frau Jessica wurde wegen eines ärztlichen Attests abgesagt.",
+              "gegenstimme": "Die Verteidigung um Anwalt Patrick Michod betont, Moretti sei nicht allein verantwortlich: Die Gemeinde habe seit 2019 keine Brandschutzkontrolle mehr durchgeführt. Auch gegen acht Gemeinde-Gewählte und sieben Angestellte wird ermittelt.",
+              "sources": [
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/jacques-moretti-erneut-zu-brand-von-crans-montana-befragt/92312478"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/regions/valais/2026/article/crans-montana-jacques-moretti-auditionne-sans-son-epouse-29402475.html"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/justiz/441688275-jacques-moretti-wird-erneut-befragt-treffen-mit-frau-jessica-abgesagt"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-brienzwiler-gemeinderat-ruecktritt",
+              "slug": "brienzwiler-gemeinderat-ruecktritt",
+              "title": "Brienzwiler: Ganzer Gemeinderat tritt zurück",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🏘️",
+              "edition": "midday",
+              "kurz": "Im Berner Oberländer Dorf hat der siebenköpfige Gemeinderat nach monatelangem Streit geschlossen demissioniert.",
+              "summary": "In Brienzwiler BE ist der gesamte siebenköpfige Gemeinderat per sofort zurückgetreten. Er begründet den Schritt mit persönlichen Angriffen aus dem Dorf. Das Regierungsstatthalteramt setzt eine besondere Verwaltung ein, Neuwahlen sind auf den 9. Dezember angesetzt.",
+              "gegenstimme": "Die Gruppe «Pro Brienzwiler» um Christian Schranz hatte per Petition den Rücktritt von drei Räten verlangt, sieht sich also nicht als Ursache, sondern als Reaktion auf die Amtsführung. Sie will nun eigene Kandidaten aufstellen.",
+              "sources": [
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/in-brienzwiler-kommts-zum-grossen-knall-gemeinderaete-treten-ab/2s1sxgg"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/gemeinderat-von-brienzwiler-tritt-geschlossen-zur%C3%BCck/92312635"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/in-brienzwiler-be-tritt-ganzer-gemeinderat-per-sofort-zuruck-67196603"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/brienzwiler-be-dorfstreit-eskaliert-gemeinderat-tritt-geschlossen-zurueck-103660621"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-kapo-bern-virtueller-polizeischalter",
+              "slug": "kapo-bern-virtueller-polizeischalter",
+              "title": "Kanton Bern: Polizeiposten neu per Videoanruf",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "👮",
+              "edition": "midday",
+              "kurz": "Seit heute können alle Bernerinnen und Berner einfache Anzeigen und Verlustmeldungen per Video bei der Kantonspolizei machen.",
+              "summary": "Die Kantonspolizei Bern bietet ab 2. November im ganzen Kanton einen virtuellen Polizeischalter an. Per Videoanruf lassen sich Auskünfte einholen, verlorene oder gestohlene Ausweise melden und einfache Strafanzeigen erstatten. Termine müssen mindestens 24 Stunden im Voraus gebucht werden.",
+              "gegenstimme": "Ein Videotermin mit 24 Stunden Vorlauf ersetzt keinen offenen Polizeiposten, gerade für ältere Menschen ohne digitale Erfahrung. Kritiker von Digitalisierungsprojekten warnen zudem vor Datenschutzfragen bei der Nutzung von Microsoft Teams.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=c512ec26-9883-4e25-92ef-a52a3f5fbb36"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/virtueller-polizeischalter-steht-ganzem-kanton-bern-zur-verf%c3%bcgung/92302086"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/kantonspolizei-bern-virtueller-schalter-per-videoanruf-936457994248"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-srf-fall-hans-jucker-aufarbeitung",
+              "slug": "srf-fall-hans-jucker-aufarbeitung",
+              "title": "Fall Jucker: SRG lässt Vergangenheit extern prüfen",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "📺",
+              "edition": "midday",
+              "kurz": "Der frühere SRF-Sportreporter Hans Jucker war 1971 wegen Sexualdelikten an Jugendlichen verurteilt worden. SRF und SRG kündigen eine externe Aufarbeitung an.",
+              "summary": "Der 2011 verstorbene SRF-Sportreporter Hans Jucker wurde 1971 wegen sexueller Handlungen mit Jugendlichen zu acht Monaten bedingt verurteilt. Publik gemacht hat dies der «Tages-Anzeiger». SRF und SRG-Generaldirektorin Susanne Wille kündigen eine unabhängige externe Aufarbeitung an.",
+              "gegenstimme": "SRF betont, die Taten stünden in keinem Zusammenhang mit Juckers Arbeit beim Sender. Offen ist aber, was die Verantwortlichen über die Verurteilung wussten und warum ein verurteilter Sexualstraftäter jahrzehntelang eine prominente Rolle beim Sender haben konnte.",
+              "sources": [
+                {
+                  "name": "SRF Medienportal",
+                  "url": "https://medien.srf.ch/-/srf-nimmt-stellung-zur-berichterstattung-des-%C2%ABtages-anzeigers%C2%BB-%C3%BCber-die-verurteilung-aus-dem-jahr-1971-des-2011-verstorbenen-srf-sportreporters-hans-jucker"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/sport/andere/sexual-straftater-hans-jucker-65-das-sagt-srg-chefin-wille-67196640"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/sexualstraftaten-erschuettert-mich-susanne-wille-aeussert-sich-zum-fall-jucker-103660668"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-medikamentenpreise-us-druck-schweiz",
+              "slug": "medikamentenpreise-us-druck-schweiz",
+              "title": "US-Preisdruck: Studie warnt vor höheren Medikamentenkosten",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "💊",
+              "edition": "midday",
+              "kurz": "Weil die USA ihre Medikamentenpreise an der Schweiz messen, droht laut einer ETH/UZH-Studie eine Kostenspirale für Prämienzahler.",
+              "summary": "Die USA vergleichen ihre Medikamentenpreise neu mit Referenzländern, darunter die Schweiz. Eine Studie von ETH und Universität Zürich warnt: Gibt die Schweiz dem Druck der Pharmabranche nach höheren Preisen nach, kostet das die Prämienzahler jährlich Hunderte Millionen Franken. Interpharma fordert dennoch Anpassungen.",
+              "gegenstimme": "Die Pharmabranche argumentiert, ohne höhere Preise würden neue Medikamente in der Schweiz verzögert oder gar nicht mehr angeboten. Laut swissinfo wurden bereits sieben von 22 innovativen Medikamenten nicht für die Spezialitätenliste eingereicht.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/pharmaindustrie-medikamentenpreise-us-preispolitik-setzt-die-schweiz-unter-druck"
+                },
+                {
+                  "name": "swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/medikamentenpreise/mit-oder-ohne-trump-pharmabranche-dr%C3%A4ngt-auf-h%C3%B6here-medikamentenpreise-in-europa/92311996"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-elcom-strompreise-versorgung-winter",
+              "slug": "elcom-strompreise-versorgung-winter",
+              "title": "Elcom sieht keine Stromknappheit, Markt bleibt nervös",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "⚡",
+              "edition": "midday",
+              "kurz": "Der Elcom-Chef erwartet für 2027 leicht sinkende Stromtarife und keine Knappheit. Gleichzeitig steigen die Gas- und Terminpreise stark.",
+              "summary": "Elcom-Geschäftsführer Urs Meister sagt gegenüber SRF, die Marktpreise zeigten derzeit keine Signale für eine Angebotsknappheit. Ein Durchschnittshaushalt spare 2027 rund 53 Franken. Gleichzeitig ist Strom mit Lieferjahr 2027 am Schweizer Terminmarkt laut NZZ binnen zwei Wochen um 13 Prozent teurer geworden.",
+              "gegenstimme": "Die «Weltwoche» und andere Kritiker der Energiestrategie halten die Entwarnung für zu optimistisch: Tiefe Gasspeicher, ein möglicherweise kalter November und knappe Reserven sprächen für ein reales Versorgungsrisiko.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/strompreis-und-versorgung-wir-erkennen-keine-signale-fuer-eine-angebotsknappheit"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/wenig-gas-wenig-wasser-die-angst-vor-einer-mangellage-ist-zurueck-ld.10049452"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-ryanair-lohnstopp-kerosin",
+              "slug": "ryanair-lohnstopp-kerosin",
+              "title": "Ryanair erwägt Lohnstopp und höhere Ticketpreise",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "midday",
+              "kurz": "Wegen der stark gestiegenen Kerosinpreise rechnet Ryanair mit zweistellig höheren Flugpreisen und prüft einen Lohnstopp.",
+              "summary": "Ryanair erwartet wegen des Iran-Kriegs bis weit ins Jahr 2027 hohe Kerosinpreise und rund zwei Milliarden Euro Mehrkosten für Treibstoff. Die Airline prüft vorübergehende Lohnstopps, weniger Crew pro Flug und mehr KI. Der Vorsteuergewinn sank im Halbjahr um 16 Prozent auf 2,4 Milliarden Euro.",
+              "gegenstimme": "Gewerkschaften dürften einen Lohnstopp bei einem Milliardengewinn nicht hinnehmen; die britische Unite wurde um Stellungnahme gebeten. Zudem sind Ankündigungen von CEO O'Leary oft auch Verhandlungstaktik gegenüber Flughäfen und Personal.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-deutschland-reiche-spritpreisdeckel-entwurf",
+              "slug": "deutschland-reiche-spritpreisdeckel-entwurf",
+              "title": "Deutschland: Reiche legt Entwurf für Spritpreisdeckel vor",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "⛽",
+              "edition": "midday",
+              "kurz": "Der deutsche Spritpreisdeckel soll nur greifen, wenn die Preise drei Wochen deutlich stärker steigen als im EU-Schnitt.",
+              "summary": "Bundeswirtschaftsministerin Katherina Reiche (CDU) hat einen ersten Gesetzentwurf für einen Spritpreisdeckel vorgelegt. Ein Höchstpreis soll nur gelten, wenn Benzin und Diesel drei Wochen in Folge deutlich stärker steigen als im übrigen EU-Raum, und höchstens drei Monate dauern. Bei Versorgungsproblemen kann er ausgesetzt werden.",
+              "gegenstimme": "Ökonomen und Teile der Mineralölbranche halten Preisdeckel grundsätzlich für schädlich, weil sie Knappheit verdecken und Versorgungsprobleme verursachen können. Laut WELT drohen zudem Sonderregeln zu einem Flickenteppich an den Zapfsäulen zu führen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel (dpa)",
+                  "url": "https://www.spiegel.de/wirtschaft/katherina-reiche-cdu-formuliert-erste-plaene-fuer-spritpreisdeckel-a-f41e4366-d70a-485a-959b-f5d16256e46a"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/wirtschaft/article6ae858635e7018b4bea95898/tankrabatt-endet-ende-2026-erster-entwurf-enthuellt-reiche-will-spritpreisdeckel-an-auslandspreise-koppeln.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-prien-pistorius-streit-migrantisches-milieu",
+              "slug": "prien-pistorius-streit-migrantisches-milieu",
+              "title": "Krawalle in Deutschland: Regierung streitet über Täterherkunft",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🔥",
+              "edition": "midday",
+              "kurz": "Nach Dobrindt nennt auch Ministerin Prien das «migrantische Milieu» als mitverantwortlich für die Krawalle. Pistorius widerspricht, Hessen verteidigt die Aussage.",
+              "summary": "Bildungsministerin Karin Prien (CDU) sieht bei den Krawallen nach den Gen-Z-Protesten neben Linksradikalen auch Täter aus «migrantischen Milieus» und fordert, die Ursachen anzugehen. Verteidigungsminister Boris Pistorius (SPD) stellt die Zuschreibung infrage. Hessens Innenminister Roman Poseck (CDU) widerspricht ihm: Pistorius sei in Frankfurt nicht dabei gewesen.",
+              "gegenstimme": "Pistorius und andere Kritiker halten «migrantische Gruppen» für eine unscharfe Kategorie, weil sie auch Deutsche in dritter Generation umfasst. Sie warnen, die Debatte lenke von den sozialen Ursachen und den linksextremen Tätern ab.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/karin-prien-macht-migrantisches-milieu-fuer-krawalle-nach-gen-z-protest-mitverantwortlich-a-e80a8f7c-fc85-4897-96cd-04370fb353ed"
+                },
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/video6ae863eea68c18ce70cdbc4c/migrantisch-gepraegte-taeter-ich-lade-herrn-pistorius-gerne-nach-frankfurt-ein-man-merkt-dass-er-nicht-dabei-war.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-alaska-gericht-weist-trump-klage-ab",
+              "slug": "alaska-gericht-weist-trump-klage-ab",
+              "title": "Alaska: Richterin weist Trump-Klage zur Senatswahl ab",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "midday",
+              "kurz": "Die US-Regierung wollte die Beglaubigung der Senatswahl in Alaska blockieren, falls Senator Sullivan verliert. Das Gericht lehnte ab.",
+              "summary": "Bundesrichterin Sharon Gleason hat die Klage des US-Justizministeriums abgewiesen, das die Beglaubigung der Senatswahl in Alaska bei einer Niederlage des Republikaners Dan Sullivan verhindern wollte. Es ging um einen zweiten Kandidaten namens Daniel J. Sullivan auf dem Stimmzettel. Das Ministerium hat Berufung eingelegt.",
+              "gegenstimme": "Das Justizministerium spricht von einem «Lockvogel-Kandidaten» und verweist auf einen Bericht der New York Times, wonach Leute aus dem Umfeld der Demokratin Mary Peltola Kandidaten gesucht haben sollen, die dem Senator Stimmen abnehmen. Ein Strafverfahren läuft; angeklagt ist bisher niemand.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/usa/us-midterms-gericht-weist-trump-klage-zu-wahl-in-alaska-ab"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/alaska-senate-dan-sullivan-peltola-investigation-b35acffc8b55ef58679d9b8395760f98"
+                },
+                {
+                  "name": "CBS News",
+                  "url": "https://www.cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-halevi-7-oktober-kein-verrat",
+              "slug": "halevi-7-oktober-kein-verrat",
+              "title": "Ex-Armeechef Halevi: «Kein Verrat von innen» am 7. Oktober",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "midday",
+              "kurz": "Israels früherer Generalstabschef nennt den 7. Oktober ein vermeidbares Versagen, weist aber Verratsthesen zurück und fordert eine staatliche Untersuchungskommission.",
+              "summary": "Der frühere israelische Generalstabschef Herzi Halevi hat sich erstmals seit seinem Rücktritt öffentlich zum 7. Oktober geäussert. Der Angriff der Hamas sei «ein vermeidbares Versagen» gewesen, einen Verrat aus Armee oder Politik habe es aber «zu 100 Prozent» nicht gegeben. Er fordert eine staatliche Untersuchungskommission.",
+              "gegenstimme": "In Teilen der israelischen Rechten und im Umfeld der Regierung kursieren Thesen, die Warnungen seien bewusst ignoriert worden. Kritiker werfen Halevi zudem vor, als damals Verantwortlicher sein eigenes Versagen zu relativieren.",
+              "sources": [
+                {
+                  "name": "The Jerusalem Post",
+                  "url": "https://www.jpost.com/israel-news/article-913508"
+                },
+                {
+                  "name": "Ynetnews",
+                  "url": "https://www.ynetnews.com/article/fw3vneamy"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/breaking-silence-ex-idf-chief-halevi-says-absolutely-no-internal-betrayal-caused-oct-7/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-ungarn-spitzel-akten-veroeffentlichung",
+              "slug": "ungarn-spitzel-akten-veroeffentlichung",
+              "title": "Ungarn macht Namen kommunistischer Spitzel öffentlich",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🗂️",
+              "edition": "midday",
+              "kurz": "Am 4. November veröffentlicht Ungarn eine frei durchsuchbare Datenbank mit Zehntausenden Namen von Informanten der Staatssicherheit.",
+              "summary": "Die neue ungarische Regierung unter Péter Magyar veröffentlicht am 4. November die Akten der kommunistischen Staatssicherheit. Erwartet werden rund 50'000 Namen von Informanten. Die Datenbank ist ohne Registrierung zugänglich.",
+              "gegenstimme": "Historiker und regierungsnahe Medien der früheren Fidesz-Ära wie Origo warnen, man dürfe den Akten nicht alles glauben: Manche Menschen wurden erpresst oder unter Druck angeworben, und die Akten selbst sind ein Produkt des Geheimdienstes. Eine pauschale Veröffentlichung könne Unschuldige an den Pranger stellen.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past"
+                },
+                {
+                  "name": "The Budapest Times",
+                  "url": "https://www.budapesttimes.hu/hungary/50000-secret-informer-names-go-public-and-some-may-still-be-active/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-hypersonica-100-millionen-hyperschall",
+              "slug": "hypersonica-100-millionen-hyperschall",
+              "title": "Hypersonica: 100 Millionen für europäische Hyperschallraketen",
+              "date": "2026-11-02",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🚀",
+              "edition": "midday",
+              "kurz": "Das deutsch-britische Rüstungs-Start-up Hypersonica sammelt 100 Millionen Euro, vor allem von US-Investoren, für Langstreckenraketen.",
+              "summary": "Das Münchner Start-up Hypersonica hat in einer Finanzierungsrunde 100 Millionen Euro eingesammelt, angeführt von den US-Investoren Lightspeed und General Catalyst. Die Firma will bis 2029 Hyperschall-Langstreckenraketen für Europa entwickeln. Das Geld fliesst in Flugtests und den Ausbau in Deutschland und Grossbritannien.",
+              "gegenstimme": "Kritiker fragen, wie souverän eine europäische Abschreckung ist, die von amerikanischem Risikokapital finanziert wird. Zudem haben etablierte Rüstungskonzerne Jahre für Hyperschallwaffen gebraucht; ob ein drei Jahre altes Start-up das bis 2029 schafft, ist offen.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/hypersonica-deutsches-raketen-start-up-sammelt-100-millionen-euro-ein-a-3bdb110d-d57a-4b75-b208-c416a1c239e2"
+                },
+                {
+                  "name": "Tech.eu",
+                  "url": "https://tech.eu/2026/11/02/british-german-defence-startup-hypersonica-raises-eur100m/"
+                },
+                {
+                  "name": "Aviation Week",
+                  "url": "https://aviationweek.com/defense/missile-defense-weapons/hypersonica-accelerate-testing-pace-funding-boost"
                 }
               ]
             }
