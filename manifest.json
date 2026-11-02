@@ -1,6 +1,411 @@
 {
-  "updated": "16:19 UTC",
+  "updated": "05:14 UTC",
   "days": [
+    {
+      "date": "2026-11-02",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-02-ukraine-russland-warn-apps-gehackt",
+              "slug": "ukraine-russland-warn-apps-gehackt",
+              "title": "Cyberangriffe: Warn-Apps in der Ukraine und in Russland melden falschen Atomalarm",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "📱",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
+              "kurz": "Die ukrainische App «Air Alert» verschickte am Sonntagabend falsche Warnungen vor Strahlung und Chemieangriffen. Kurz darauf meldete auch Russland einen Angriff auf seine Warn-App.",
+              "summary": "Gegen 22.47 Uhr Ortszeit verbreitete die ukrainische Warn-App «Air Alert» falsche Meldungen über eine Strahlengefahr in Kiew, einen Chemieangriff, Strassenkämpfe und einen Oreschnik-Start. Die Luftwaffe dementierte, die Entwarnung kam um 23.53 Uhr. Kiew macht Russland verantwortlich; Moskaus Katastrophenschutzministerium meldete seinerseits einen «massiven Cyberangriff» auf die eigene App.",
+              "gegenstimme": "Die Urheberschaft ist auf beiden Seiten nicht unabhängig belegt. Laut BBC hat sich eine ukrainische Spionagegruppe zu falschen Atomwarnungen in Russland bekannt, Kiew selbst sieht sich nur als Opfer. Beide Seiten nutzen solche Vorfälle auch propagandistisch.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-cyberangriffe-auf-warn-apps-in-kyjiw-und-moskau-a-38dab164-8f31-445e-9a81-c9b64004668c"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-bsi-spaehsoftware-iphones-politiker",
+              "slug": "bsi-spaehsoftware-iphones-politiker",
+              "title": "BSI warnt: Spähsoftware auf iPhones deutscher Politiker",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🕵️",
+              "edition": "morning",
+              "kurz": "Apple hat Bundestagsabgeordnete und Regierungsmitglieder vor Söldner-Spyware gewarnt. Digitalminister Wildberger bestätigt, wer dahintersteckt, ist offen.",
+              "summary": "Seit dem 29. Oktober haben Bundestagsabgeordnete und Regierungsmitglieder Apple-Bedrohungsmeldungen erhalten, die vor sogenannter Söldner-Spyware warnen. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat die Betroffenen informiert. Digitalminister Karsten Wildberger (CDU) bestätigte die Warnungen im ARD-«Bericht aus Berlin».",
+              "gegenstimme": "Apple-Warnungen sind Wahrscheinlichkeitsaussagen, kein Beweis für eine erfolgreiche Infektion; frühere Wellen betrafen auch Geräte, auf denen später nichts gefunden wurde. Wildberger selbst warnt davor, über Täter zu spekulieren.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/BSI-Warnung-vor-Spaehsoftware-auf-Politiker-Handys-11507404.html"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/bsi-warnt-moegliche-spaehsoftware-auf-iphones-von-politikern-a-8b9e2ad3-485c-489a-b94c-1131753b777b"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6ae79588aedea8cd9ffc0feb/warnung-von-apple-beunruhigt-uns-sehr-hacker-nehmen-iphones-von-regierung-und-bundestagsabgeordneten-ins-visier.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-bulgarien-jotowa-gewinnt-stichwahl",
+              "slug": "bulgarien-jotowa-gewinnt-stichwahl",
+              "title": "Bulgarien: Russlandfreundliche Präsidentin Jotowa gewinnt Stichwahl klar",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇧🇬",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/804335.jpg",
+              "kurz": "Ilijana Jotowa bleibt Bulgariens Präsidentin. Sie kam auf rund 58 Prozent, Herausforderer Gjurow räumte die Niederlage ein.",
+              "summary": "Amtsinhaberin Ilijana Jotowa hat die Präsidenten-Stichwahl in Bulgarien mit rund 57 bis 58 Prozent gewonnen. Der prowestliche, liberal-konservative Herausforderer Andrej Gjurow kam auf 39 Prozent und räumte die Niederlage ein. Jotowa ist die erste gewählte Frau an der Staatsspitze Bulgariens.",
+              "gegenstimme": "Gjurows Lager sieht in Jotowa ein Einfallstor für russischen Einfluss in EU und Nato. Ihre Unterstützer betonen, dass sie die EU- und Nato-Mitgliedschaft nicht infrage stellt und nur eine eigenständigere Aussenpolitik will.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae808d15e7018b4bea95458/bulgarien-russlandfreundliche-amtsinhaberin-jotowa-klare-siegerin-bei-praesidentschaftswahl.html"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/amtsinhaberin-behauptet-sich-ilijana-jotowa-gewinnt-stichwahl-in-bulgarien"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-israel-bennett-eisenkot-wahlleitung",
+              "slug": "israel-bennett-eisenkot-wahlleitung",
+              "title": "Israel: Bennett stellt sich hinter Eisenkot, Wahlleitung weist Betrugsvorwurf zurück",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae72d243514-1793535268.jpg?resize=1920%2C1440",
+              "kurz": "Naftali Bennett empfiehlt Gadi Eisenkot für den Regierungsauftrag. Die Wahlleitung betont, das Ergebnis werde sich nicht ändern, Likud spricht weiter von «gestohlener» Wahl.",
+              "summary": "Die Partei von Ex-Premier Naftali Bennett (12 Sitze) will Präsident Herzog empfehlen, Gadi Eisenkot (Yashar, 21 Sitze) mit der Regierungsbildung zu beauftragen; laut Medienberichten will auch Yair Golans Demokratische Partei das tun. Der Leiter der Wahlkommission, Richter Noam Sohlberg, erklärte gemeinsam mit dem Shin-Bet-Chef und der Generalstaatsanwältin, die Wahl sei korrekt verlaufen und das Ergebnis bleibe.",
+              "gegenstimme": "Likud und Netanyahu werfen arabischen Parteien vor, die Wahl mit Geld aus Katar gekauft zu haben; Katar weist das zurück. Rechte Kritiker halten zudem eine Regierung, die auf die Stimmen arabischer Parteien angewiesen ist, für politisch nicht tragbar. Avigdor Liberman hat sich noch nicht auf Eisenkot festgelegt.",
+              "sources": [
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/bennett-golan-pledge-to-back-eisenkot-as-pm-as-bloc-mulls-which-coalition-to-seek/"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/alongside-zini-and-ag-election-chief-stresses-election-conducted-properly-results-wont-change/"
+                },
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/israel-election-2026/article-913504"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-iran-netanyahu-draengt-angriff-nach-midterms",
+              "slug": "iran-netanyahu-draengt-angriff-nach-midterms",
+              "title": "Iran-Krieg: Netanyahu drängt Trump offenbar zu Angriffen direkt nach den Midterms",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇷",
+              "edition": "morning",
+              "kurz": "Laut Axios verlief ein Telefonat zwischen Trump und Netanyahu «hart». Trump will verhandeln, im Golf meldet die IRGC zwei brennende Tanker.",
+              "summary": "Israels Premier Netanyahu soll US-Präsident Trump am Samstag gedrängt haben, Iran unmittelbar nach den US-Kongresswahlen vom Dienstag erneut anzugreifen. Das berichtet Axios unter Berufung auf israelische und US-Quellen; Trump wolle den Verhandlungen noch Zeit geben. Trump sagte, der Krieg werde «sehr bald so oder so» enden.",
+              "gegenstimme": "Israel sieht in jeder Verhandlungspause Zeit, die Iran für den Wiederaufbau seines Atomprogramms nutzt. Kritiker in den USA warnen dagegen, ein neuer Schlag würde die Strasse von Hormus weiter destabilisieren und die Energiepreise treiben.",
+              "sources": [
+                {
+                  "name": "Axios",
+                  "url": "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae7adc25e7018b4bea952ca/krieg-in-nahost-unmittelbar-nach-den-us-kongresswahlen-trump-und-netanjahu-beraten-ueber-neue-iran-angriffe.html"
+                },
+                {
+                  "name": "Al Arabiya",
+                  "url": "https://english.alarabiya.net/News/middle-east/2026/11/01/trump-reportedly-holds-call-with-netanyahu-over-state-of-iran-war"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-michigan-stevens-unterstuetzt-rogers",
+              "slug": "michigan-stevens-unterstuetzt-rogers",
+              "title": "Michigan: Demokratin Stevens unterstützt Republikaner gegen El-Sayed",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "kurz": "Einen Tag vor den Midterms stellt sich die Demokratin Haley Stevens hinter den Republikaner Mike Rogers. Der Streit dreht sich vor allem um Israel.",
+              "summary": "Die demokratische Abgeordnete Haley Stevens hat im Senatsrennen von Michigan den Republikaner Mike Rogers unterstützt statt den demokratischen Kandidaten Abdul El-Sayed. Hintergrund ist vor allem der Streit um Israel; El-Sayed gehört zum linken, israelkritischen Flügel. Ihr Stabschef und weitere Mitarbeiter kündigten und stellten sich hinter El-Sayed.",
+              "gegenstimme": "Stevens und Teile der proisraelischen Demokraten halten El-Sayeds Positionen zu Israel für unvereinbar mit der Partei. Seine Anhänger sehen in dem Schritt Verrat und werfen Gegnern Islamfeindlichkeit vor; einige jüdische Demokraten in Michigan distanzierten sich von Stevens.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/usa-streit-mit-abdul-el-sayed-demokratin-haley-stevens-wechselt-ins-rogers-lager-a-497c62cc-2c82-4511-968b-e3725a27f52b"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/breaking-ranks-pro-israel-democrat-haley-stevens-backs-el-sayeds-gop-rival-in-us-senate-race/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-bundesgericht-strafanzeige-leak-publikationsverbot",
+              "slug": "bundesgericht-strafanzeige-leak-publikationsverbot",
+              "title": "Richteraffäre: Bundesgericht zeigt Leaker an, Tamedia darf vorerst nicht publizieren",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "kurz": "Das Bundesgericht hat wegen Amtsgeheimnisverletzung Anzeige gegen Unbekannt erstattet. Das Zürcher Handelsgericht verbot Tamedia Publikationen bis 5. November.",
+              "summary": "Wegen der Weitergabe vertraulicher Informationen an einen Tamedia-Journalisten hat das Bundesgericht am Freitag Strafanzeige gegen Unbekannt eingereicht. Gleichentags verbot das Zürcher Handelsgericht Tamedia, bestimmte Recherchen zur Beziehung der Bundesrichter Beatrice van de Graaf und Yves Donzallaz vor dem 5. November zu veröffentlichen. Am Donnerstag verhandelt das Bundesgericht öffentlich ein Revisionsgesuch zu dieser Affäre.",
+              "gegenstimme": "Medienrechtler und Journalisten sehen in einem vorsorglichen Publikationsverbot einen schweren Eingriff in die Pressefreiheit, gerade wenn es das höchste Gericht selbst betrifft. Das Bundesgericht argumentiert, Informationen zu einem laufenden Verfahren unterstünden dem Amtsgeheimnis und die Vertrauenswürdigkeit der Justiz sei sonst gefährdet.",
+              "sources": [
+                {
+                  "name": "watson (Keystone-SDA)",
+                  "url": "https://www.watson.ch/schweiz/justiz/204313764-bundesgericht-erstattet-nach-leak-zu-liebesaffaere-strafanzeige"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/international/bundesgericht-erstattet-nach-leak-zu-liebesaffare-strafanzeige-67196414"
+                },
+                {
+                  "name": "persoenlich.com",
+                  "url": "https://www.persoenlich.com/medien/bundesgericht-erwirkt-publikationsverbot"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-mazzone-staenderat-kandidatur-2027",
+              "slug": "mazzone-staenderat-kandidatur-2027",
+              "title": "Grünen-Chefin Mazzone will 2027 zurück in den Ständerat",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "morning",
+              "kurz": "Lisa Mazzone kandidiert in Genf für Stände- und Nationalrat. Sie begründet das mit der fehlenden Frauenvertretung und bekräftigt den Bundesratsanspruch der Grünen.",
+              "summary": "Grünen-Präsidentin Lisa Mazzone (38) will bei den Wahlen 2027 im Kanton Genf für den Ständerat und gleichzeitig für den Nationalrat kandidieren, wie sie in einem Tamedia-Interview ankündigte. Sie begründet dies unter anderem damit, dass Genf keine Frau im Ständerat habe. Zudem bekräftigte sie den Anspruch der Grünen auf einen Bundesratssitz.",
+              "gegenstimme": "Bürgerliche Kritiker sehen in Mazzones Oppositionskurs und dem Klima-Alarmismus («Das Haus brennt») wenig Grundlage für die konsensorientierte kleine Kammer. Zudem verlor sie 2023 ihren Sitz gegen Mauro Poggia (MCG), die Genfer wählten damals bewusst anders.",
+              "sources": [
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/lisa-mazzone-will-zurueck-in-den-staenderat/gn3j1t2"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/gr%c3%bcnen-pr%c3%a4sidentin-mazzone-kandidiert-2027-erneut-f%c3%bcr-den-st%c3%a4nderat/92311010"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/bundeshaus/grunen-prasidentin-mazzone-kandidiert-2027-erneut-fur-den-standerat-67196465"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-stadt-bern-verbot-feuershows-tiere",
+              "slug": "stadt-bern-verbot-feuershows-tiere",
+              "title": "Stadt Bern: Gemeinderat will Feuershows mit Tieren verbieten",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🐎",
+              "edition": "morning",
+              "kurz": "Der Berner Gemeinderat empfiehlt, eine Motion gegen Pyro- und Feuershows mit Tieren anzunehmen. Auslöser war die Show «Feuerpferde» an der BEA.",
+              "summary": "Der Berner Gemeinderat beantragt, die Motion «Keine Feuerpferde in Bern» von Stadtrat Tobias Sennhauser (Tier im Fokus) erheblich zu erklären. Pyrotechnik und offene Flammen wie Fackeln, Flammenreifen und Flammenwerfer sollen bei öffentlichen Veranstaltungen in unmittelbarer Nähe von Tieren verboten werden. Anlass war die Show «Feuerpferde» an der BEA im April.",
+              "gegenstimme": "Veranstalter und Showteams verweisen darauf, dass die Tiere professionell trainiert sind und die Shows bewilligt und beliebt sind. Ein kommunales Verbot greift zudem einem nationalen Regelwerk vor und schafft einen Flickenteppich.",
+              "sources": [
+                {
+                  "name": "Stadtrat Bern",
+                  "url": "https://stadtrat.bern.ch/de/dokumente/22ee24f11fb84f51a24e7ba5b8247801-332"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/regional/stadt-bern-will-pyrotechnik-shows-mit-tieren-verbieten-67195948"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-buetzberg-fluchtfahrt-hellsau",
+              "slug": "buetzberg-fluchtfahrt-hellsau",
+              "title": "Oberaargau: Fahrunfähiger Lenker flieht vor Polizei von Bützberg bis Hellsau",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🚓",
+              "edition": "morning",
+              "kurz": "Ein 51-Jähriger entzog sich am Samstagabend einer Kontrolle und raste durch mehrere Dörfer. Er war fahrunfähig, der Ausweis wurde ihm abgenommen.",
+              "summary": "Am Samstag um 22 Uhr entzog sich ein 51-jähriger Autofahrer in Bützberg (Gemeinde Thunstetten) einer Kontrolle der Kantonspolizei Bern. Er missachtete das Signal «Stopp Polizei» und fuhr mit massiv überhöhter Geschwindigkeit inner- und ausserorts über Herzogenbuchsee und Seeberg bis Hellsau, wo er angehalten wurde. Der Mann war fahrunfähig; Ausweis und Auto wurden sichergestellt.",
+              "gegenstimme": "Verfolgungsfahrten sind selbst riskant: Kritiker fragen jeweils, ob die Polizei die Gefährdung Dritter durch die Verfolgung in Kauf nehmen darf. Die Polizei hält dagegen, ein fahrunfähiger Raser sei ohne Eingreifen die grössere Gefahr.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=59d27d18-316d-48c9-bb78-973f5f5772ae"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/flucht-vor-kantonspolizei-bern-fahrer-in-hellsau-gestoppt-246585997948"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/polizei-stellt-fahrunf%C3%A4higen-lenker-nach-gef%C3%A4hrlicher-fluchtfahrt/92310165"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-berlin-maerkisches-viertel-molotow-hessen",
+              "slug": "berlin-maerkisches-viertel-molotow-hessen",
+              "title": "Berlin: Molotowcocktails auf Polizei, Hessen stellt neue Jugendproteste infrage",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "morning",
+              "image": "https://www.tagesspiegel.de/images/16228247/alternates/BASE_16_9_W1400/1793562496000/molotowcocktail-jfif.jpeg",
+              "kurz": "Im Märkischen Viertel warfen Jugendliche den zweiten Abend in Folge Brandsätze. Hessens Innenminister will Proteste am 20. November womöglich nicht genehmigen.",
+              "summary": "Im Berliner Märkischen Viertel warfen am Sonntagabend Jugendliche aus einer Gruppe von bis zu 120 Personen Molotowcocktails, Steine und Pyrotechnik in Richtung Polizei. Ein Brandsatz traf einen Polizisten, verletzt wurde niemand; zehn Jugendliche wurden festgenommen, darunter ein 14-Jähriger. Hessens Innenminister Roman Poseck (CDU) stellt nach den Frankfurter Krawallen die Genehmigung neuer Proteste am 20. November infrage.",
+              "gegenstimme": "Linke und Jugendverbände warnen davor, eine ganze Generation zu kriminalisieren und das Versammlungsrecht wegen Gewalttätern einzuschränken. Sie fordern, die sozialen Ursachen wie Perspektivlosigkeit in Grosssiedlungen anzugehen.",
+              "sources": [
+                {
+                  "name": "Tagesspiegel",
+                  "url": "https://www.tagesspiegel.de/berlin/zehn-festnahmen-im-markischen-viertel-jugendliche-provozieren-am-sonntagabend-erneut-die-berliner-polizei-16228218.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/vermischtes/article6ae7fd075e7018b4bea95401/berlin-bis-zu-120-personen-sorgen-mit-pyrotechnik-und-molotowcocktails-fuer-randale.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/article6ae7d64f5e7018b4bea953aa/gen-z-regelt-sollte-nicht-sein-hessens-innenminister-stellt-genehmigung-neuer-proteste-infrage.html"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/frankfurt-und-hessen-innenminister-stellt-neue-jugendproteste-infrage-a-55520042-3f5e-45ea-a091-985d7462f680"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-moskau-teenager-festnahme-neonazi",
+              "slug": "moskau-teenager-festnahme-neonazi",
+              "title": "Moskau: Teenager nach US-Terrorwarnung festgenommen, laut FSB mit Neonazi-Bezug",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇷🇺",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae75dc9-1793547721.jpg?resize=1920%2C1440",
+              "kurz": "Nach der Warnung der US-Botschaft vor einem Anschlag im Park Zarizyno hat der FSB einen Minderjährigen festgenommen. Er soll Nazi-Propaganda verbreitet haben.",
+              "summary": "Russlands Inlandgeheimdienst FSB hat einen minderjährigen russischen Staatsbürger festgenommen, der einen Anschlag im Moskauer Museumspark Zarizyno geplant haben soll. Laut FSB postete er auf TikTok Fotos in Sturmhaube und Kampfmontur mit einer automatischen Waffe sowie Bilder aus Zarizyno mit dem Satz «Ich habe einen Ort gefunden». Auf seinem Handy seien Suchen zu Anschlägen und ein abonnierter Neonazi-Telegram-Kanal gefunden worden.",
+              "gegenstimme": "Kritiker des Kreml weisen darauf hin, dass der FSB Geständnisse oft öffentlich inszeniert und Festnahmen politisch nutzt. Andererseits ist bemerkenswert, dass Washington und Moskau mitten im Ukraine-Krieg bei der Terrorabwehr zusammenarbeiten.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6ae77430d186611fe99328fd/terrorismus-nach-us-warnung-vor-drohendem-anschlag-in-moskau-minderjaehriger-russe-festgenommen.html"
+                },
+                {
+                  "name": "TASS",
+                  "url": "https://tass.com/politics/2211571"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-deutschland-sexualstrafrecht-hubig",
+              "slug": "deutschland-sexualstrafrecht-hubig",
+              "title": "Deutschland: Hubig will Verjährung bei Vergewaltigung auf 20 Jahre verlängern",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "morning",
+              "kurz": "Der Gesetzentwurf der Justizministerin macht verbale sexuelle Belästigung strafbar und verschärft die Strafen für Gruppenvergewaltigungen.",
+              "summary": "Bundesjustizministerin Stefanie Hubig (SPD) hat einen Gesetzentwurf zur Verschärfung des Sexualstrafrechts vorgelegt. Die Verjährungsfrist für Vergewaltigungen und gemeinschaftliche sexuelle Übergriffe soll von fünf auf 20 Jahre steigen, für Gruppenvergewaltigungen sind höhere Mindeststrafen vorgesehen. Neu strafbar werden sexuell bestimmte Äusserungen oder Gesten, die einschüchtern oder bedrängen, mit bis zu einem Jahr Haft.",
+              "gegenstimme": "Strafrechtler und Liberale warnen beim Straftatbestand verbale Belästigung vor unklaren Grenzen und schwer beweisbaren Aussage-gegen-Aussage-Fällen. Konservative Kritiker halten den Entwurf dagegen für zu zaghaft, weil er die Herkunft vieler Täter bei Gruppenvergewaltigungen nicht anspricht und eher bei Abschiebungen ansetzen sollte.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/article6ae7ce675e7018b4bea9538f/vergewaltigungen-sexuelle-uebergriffe-inakzeptabel-gesetzentwurf-zur-verschaerfung-des-sexualstrafrechts-steht.html"
+                },
+                {
+                  "name": "BR24",
+                  "url": "https://www.br.de/nachrichten/meldung/hubig-verschaerft-strafe-fuer-gruppenvergewaltigung%2C30081f679"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-02-uk-mahmood-niederlassung-zehn-jahre",
+              "slug": "uk-mahmood-niederlassung-zehn-jahre",
+              "title": "Grossbritannien: Mahmood legt härtere Regeln für Daueraufenthalt vor",
+              "date": "2026-11-02",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇬🇧",
+              "edition": "morning",
+              "kurz": "Die Innenministerin präsentiert am Montag die finalen Regeln: Die Wartezeit für das unbefristete Bleiberecht soll sich auf zehn Jahre verdoppeln.",
+              "summary": "Die britische Innenministerin Shabana Mahmood (Labour) stellt am Montag im Unterhaus die endgültigen Regeln für das unbefristete Bleiberecht (Indefinite Leave to Remain) vor. Die Standard-Wartezeit soll von fünf auf zehn Jahre steigen, für manche Gruppen auf bis zu 15 Jahre. Pflegekräfte, die bereits im Land sind, dürften laut Guardian und Telegraph weitgehend ausgenommen werden.",
+              "gegenstimme": "Teile der Labour-Fraktion und Migrantenverbände kritisieren die rückwirkende Verschärfung als Wortbruch gegenüber Menschen, die unter den alten Regeln eingereist sind. Reform UK und Konservative halten sie dagegen für zu spät und zu weich angesichts der hohen Nettozuwanderung.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush"
+                },
+                {
+                  "name": "The Telegraph",
+                  "url": "https://www.telegraph.co.uk/politics/2026/11/01/care-workers-treated-like-doctors-under-migration-plans/"
+                },
+                {
+                  "name": "GOV.UK",
+                  "url": "https://www.gov.uk/government/speeches/a-fairer-pathway-to-settlement"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-01",
       "editions": {
