@@ -1,6 +1,329 @@
 {
-  "updated": "16:45 UTC",
+  "updated": "2026-11-03T06:30:00+01:00",
   "days": [
+    {
+      "date": "2026-11-03",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-03-us-midterms-wahltag",
+              "slug": "us-midterms-wahltag",
+              "title": "USA wählen: Kongress steht zur Abstimmung",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "kurz": "Heute entscheiden die Midterms, wer den US-Kongress kontrolliert; erste Wahllokale schliessen um Mitternacht Schweizer Zeit.",
+              "summary": "In den USA finden am 3. November die Zwischenwahlen statt. Neu gewählt werden alle 435 Sitze im Repräsentantenhaus und ein Teil des Senats. Die Demokraten brauchen im Repräsentantenhaus netto drei zusätzliche Sitze für die Mehrheit; der Senat gilt als offen.",
+              "gegenstimme": "Republikaner verweisen darauf, dass Midterms traditionell die Partei des Präsidenten bestrafen und Prognosen schon oft danebenlagen; Fox News nennt Rennen in Texas, Ohio und Iowa, in denen die Republikaner gut dastehen. Demokraten machen Preise und den Iran-Krieg zum Thema.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226"
+                },
+                {
+                  "name": "NPR",
+                  "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-usa-angriff-qeschm-iran",
+              "slug": "usa-angriff-qeschm-iran",
+              "title": "USA greifen iranische Insel Qeschm an",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🎯",
+              "edition": "morning",
+              "kurz": "Am Vorabend der Midterms haben die USA Ziele auf Qeschm in der Strasse von Hormus bombardiert, während Trump von einem möglichen Abkommen spricht.",
+              "summary": "US-Streitkräfte haben am Montag begrenzte Angriffe auf die iranische Insel Qeschm in der Strasse von Hormus geflogen. US-Beamte sprechen von einer Reaktion darauf, dass die Revolutionsgarden auf ein US-Flugzeug geschossen hätten. Gleichzeitig schrieb Präsident Trump, ein Abkommen mit Iran «könnte passieren».",
+              "gegenstimme": "Irans Aussenminister Araghchi sagt, der Ball liege bei den USA, und Iran sei auf Diplomatie wie auf Krieg vorbereitet. Kritiker in den USA bemängeln, dass Washington laut Wall Street Journal seit Wochen Angriffe durchführt, ohne sie öffentlich bekanntzugeben.",
+              "sources": [
+                {
+                  "name": "CBS News",
+                  "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/iran-us-trump-netanyahu-israel-war-b4519ef86bafe2672e0855d7a48ce309"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cx240mrm3g8vo"
+                },
+                {
+                  "name": "France 24",
+                  "url": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-ukraine-russland-gespraeche-abu-dhabi",
+              "slug": "ukraine-russland-gespraeche-abu-dhabi",
+              "title": "Ukraine und Russland verhandeln nächste Woche in Abu Dhabi",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "morning",
+              "kurz": "Die USA vermitteln am 10. und 11. November neue Dreiergespräche mit der Ukraine und Russland – die ersten seit Februar.",
+              "summary": "US-Sondergesandter Steve Witkoff hat Gespräche zwischen der Ukraine und Russland am 10. und 11. November in Abu Dhabi angekündigt. Themen sind Sicherheitsregelungen nach dem Krieg, Deeskalation und humanitäre Fragen. Diese Woche treffen sich US-Vertreter zudem in Brüssel mit Frankreich, Deutschland, Grossbritannien, der EU und der Nato.",
+              "gegenstimme": "Kiew verlangt, dass die Europäer am Verhandlungstisch sitzen. Skeptiker verweisen darauf, dass Putins einziges Zugeständnis die Rückkehr an den Tisch ist, während Washington bereits Sanktionen auf russischen Diesel gelockert hat.",
+              "sources": [
+                {
+                  "name": "Reuters",
+                  "url": "https://www.investing.com/news/world-news/us-to-hold-trilateral-talks-with-ukraine-russia-in-abu-dhabi-next-weekus-official-4993163"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html"
+                },
+                {
+                  "name": "Axios",
+                  "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-belgien-de-wever-ruecktritt-budget",
+              "slug": "belgien-de-wever-ruecktritt-budget",
+              "title": "Belgien: Premier De Wever bietet Rücktritt an",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇧🇪",
+              "edition": "morning",
+              "kurz": "Nach gescheiterten Budgetverhandlungen hat Bart De Wever dem König den Rücktritt angeboten; der Entscheid fällt am Freitag.",
+              "summary": "Belgiens Premierminister Bart De Wever (N-VA) hat König Philippe am Montag den Rücktritt seiner Regierung angeboten, weil die Fünfparteienkoalition sich nicht auf das Budget 2027 einigen konnte. Der König hat den Entscheid ausgesetzt und konsultiert die Parteichefs. Am Freitag trifft er De Wever erneut.",
+              "gegenstimme": "Vooruit, CD&V und Les Engagés verlangen, dass die «stärksten Schultern» mehr Steuern zahlen; N-VA und die liberale MR lehnen höhere Steuern ab und wollen bei den Ausgaben sparen. Beide Lager werfen sich gegenseitig vor, die Einigung zu blockieren.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/belgium-budget-wever-king-government-crisis-debt-d6e28f97ddcf13c3b358201c4d45cf7e"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/02/belgiums-pm-bart-de-wever-to-offer-resignation-to-king-after-overnight-budget-talks-fail"
+                },
+                {
+                  "name": "VRT NWS",
+                  "url": "https://www.vrt.be/vrtnws/en/2026/11/02/prime-minister-de-wever-offers-resignation-to-king-filip/"
+                },
+                {
+                  "name": "Brussels Times",
+                  "url": "https://www.brusselstimes.com/2387762/belgian-pm-de-wever-to-offer-resignation-to-king-after-failed-budget-talks-tbtb"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-efk-kritik-vbs-immobilien",
+              "slug": "efk-kritik-vbs-immobilien",
+              "title": "Finanzkontrolle rügt Immobilienplanung der Armee",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🏗️",
+              "edition": "morning",
+              "kurz": "Die EFK warnt: Die Armee will ihren Immobilienbestand auf 30 Milliarden Franken ausbauen, ohne dass der Bedarf geklärt ist.",
+              "summary": "Die Eidgenössische Finanzkontrolle (EFK) kritisiert in einem am 2. November veröffentlichten Bericht die Steuerung der Armee-Immobilien durch Armasuisse. Es fehlten Strategie, verlässliche Daten und klare Zuständigkeiten. Der Instandhaltungsrückstau beträgt laut Bericht 2 bis 3 Milliarden Franken.",
+              "gegenstimme": "Das VBS verweist auf die veränderte Sicherheitslage, die einen raschen Ausbau etwa von Schutzbauten nötig mache, und hat die Empfehlungen akzeptiert. Kritiker sehen im Bericht ein weiteres Beispiel für Führungsprobleme im Departement von Bundesrat Martin Pfister.",
+              "sources": [
+                {
+                  "name": "EFK",
+                  "url": "https://www.efk.admin.ch/prufung/steuerung-des-immobilienportfolios/"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/kritischer-aufsichtsbericht-finanzkontrolle-kritisiert-harzende-planung-bei-vbs-immobilien"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/vbs-immobilien-finanzkontrolle-warnt-vor-fehlinvestitionen/13p6rn2"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-osze-ministerrat-lugano-sicherheit",
+              "slug": "osze-ministerrat-lugano-sicherheit",
+              "title": "OSZE-Konferenz: Lugano wird Sperrzone, bis 2000 Soldaten im Einsatz",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🛡️",
+              "edition": "morning",
+              "kurz": "Für den OSZE-Ministerrat am 3. und 4. Dezember richtet Lugano rote Sperrzonen ein; der Luftraum wird eingeschränkt.",
+              "summary": "Der OSZE-Ministerrat findet am 3. und 4. Dezember in Lugano statt, erwartet werden über 1000 Teilnehmende. Der Bund setzt bis zu 2000 Armeeangehörige für Objektschutz, Luftüberwachung und Logistik ein. Rund um Parco Ciani und das Kongresszentrum gelten rote Sperrzonen.",
+              "gegenstimme": "Für Anwohner und Gewerbe bedeuten Sperrzonen und Verkehrseinschränkungen Einbussen. Zudem ist umstritten, wie viel die OSZE noch bewirkt, solange Russland Mitglied ist und Konsensentscheide blockieren kann.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/osze-ministerkonferenz-lugano-wird-zur-hochsicherheitszone"
+                },
+                {
+                  "name": "EJPD",
+                  "url": "https://www.ejpd.admin.ch/de/newnsb/ygfwEzM1Ewu6"
+                },
+                {
+                  "name": "Città di Lugano",
+                  "url": "https://www.lugano.ch/news/20261102-conferenza-ministeriale-osce/"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ita/conferenza-osce-a-lugano%3a-previste-zone-rosse-e-blu/92313669"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-kanton-bern-kita-missbrauch-kampagne",
+              "slug": "kanton-bern-kita-missbrauch-kampagne",
+              "title": "Kanton Bern startet Kampagne gegen Missbrauch in Kitas",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🧸",
+              "edition": "morning",
+              "kurz": "Nach Missbrauchsfällen in Berner Kitas will der Kanton ab Anfang 2027 Kitas und Tagesfamilien schulen, wie sie bei Verdacht reagieren.",
+              "summary": "Der Kanton Bern lanciert auf Anfang 2027 eine Informationskampagne für Kita- und Tagesfamilienorganisationen. Sie sollen lernen, wie bei Verdacht auf sexuellen Missbrauch zu reagieren ist. Es ist die Reaktion auf Missbrauchsfälle in Berner Kitas, die vor einem Jahr bekannt wurden.",
+              "gegenstimme": "Kritiker hatten nach den Fällen gefragt, ob die Aufsichtsbehörden versagt haben. Eine Kampagne ersetzt keine strengere Aufsicht oder Kontrollen; zudem waren die bestehenden Kurse 2026 bereits ausgebucht, was auf einen grösseren Bedarf hindeutet.",
+              "sources": [
+                {
+                  "name": "SRF Regionaljournal",
+                  "url": "https://www.srf.ch/audio/regionaljournal-bern-freiburg-wallis/nach-missbrauch-in-kitas-kanton-bern-startet-info-kampagne?id=AUDI20261103_NR_0058"
+                },
+                {
+                  "name": "Kanton Bern (KJA)",
+                  "url": "https://www.kja.dij.be.ch/de/start/ueber-uns/kurse-und-veranstaltungen/kurs-frueherkennung-von-kindeswohlgefaehrdung.html"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/mehrere-faelle-missbrauchsverdacht-in-berner-kita-haben-behoerden-versagt"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-swiss-travel-id-online-checkin",
+              "slug": "swiss-travel-id-online-checkin",
+              "title": "Swiss: Online-Check-in ab Zürich nur noch mit Login",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "morning",
+              "kurz": "Ab dem 16. November braucht es für den Online-Check-in bei Swiss ab Zürich ein Kundenkonto der Lufthansa-Gruppe.",
+              "summary": "Wer ab dem 16. November ab Zürich mit Swiss fliegt und online einchecken will, braucht eine Travel ID, das Kundenkonto der Lufthansa-Gruppe. Am Schalter und am Automaten im Flughafen bleibt der Check-in ohne Konto möglich. Die Travel ID wurde am 20. Oktober eingeführt und wird schrittweise nach Abflugort Pflicht.",
+              "gegenstimme": "Die Lufthansa-Gruppe betont schnellere Abläufe und Gratis-WLAN an Bord für Kontoinhaber. Für Gelegenheitsreisende ist es ein zusätzlicher Schritt, und Datenschutzbewusste müssen persönliche Daten in einem Konto hinterlegen, um den Online-Weg zu nutzen.",
+              "sources": [
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/swiss-fuhrt-neuerung-beim-online-check-in-ein-67196777"
+                },
+                {
+                  "name": "Lufthansa Group",
+                  "url": "https://business.lufthansagroup.com/ch/de/program/experts/news/travel-id-now-required-for-online-check-in"
+                },
+                {
+                  "name": "reisetopia",
+                  "url": "https://reisetopia.ch/news/lufthansa-travel-id-online-check-in/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-apple-rekordgewinn-ternus",
+              "slug": "apple-rekordgewinn-ternus",
+              "title": "Apple: Rekordgewinn von 132 Milliarden Dollar",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🍏",
+              "edition": "morning",
+              "kurz": "Apple hat im Geschäftsjahr 2026 so viel verdient wie nie und ist wieder das wertvollste Unternehmen der Welt.",
+              "summary": "Apple hat für das Geschäftsjahr 2026 einen Rekordgewinn von 132,2 Milliarden Dollar ausgewiesen, nach 112 Milliarden im Vorjahr. Der Umsatz erreichte 478,8 Milliarden Dollar. Erstmals präsentierte der neue Chef John Ternus die Zahlen.",
+              "gegenstimme": "Während andere Tech-Konzerne in der Vorwoche nach ihren Zahlen an der Börse einbrachen, gilt Apple als relativ wenig vom KI-Wettlauf profitierend; Kritiker bemängeln, Apple hinke bei KI hinterher und lebe weiter stark vom iPhone.",
+              "sources": [
+                {
+                  "name": "Apple",
+                  "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/apple-earnings-profit-iphone-9698be9e0226091a537611382144eb44"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/jahresbilanz-apple-macht-132-milliarden-dollar-gewinn-ein-neuer-rekord"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-nyt-klagt-gegen-brave",
+              "slug": "nyt-klagt-gegen-brave",
+              "title": "New York Times verklagt Browser-Firma Brave",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "⚖️",
+              "edition": "morning",
+              "kurz": "Die New York Times wirft Brave vor, ihre Artikel abzugreifen, an KI-Firmen weiterzuverkaufen und Bezahlschranken zu umgehen.",
+              "summary": "Die New York Times hat am 2. November in New York Klage gegen Brave Software eingereicht. Sie wirft dem Browserhersteller vor, Artikel unerlaubt abzugreifen und über «Ask Brave» und seine Such-Schnittstelle an KI-Firmen weiterzugeben. Weitere Verlage, darunter die New York Daily News, klagen ebenfalls.",
+              "gegenstimme": "Brave positioniert sich als datenschutzfreundliche Alternative zu Google und argumentiert grundsätzlich, Suchmaschinen und KI-Antworten seien durch das Prinzip der fairen Nutzung gedeckt. Eine Stellungnahme von Brave zur Klage lag bei Redaktionsschluss nicht vor.",
+              "sources": [
+                {
+                  "name": "Klageschrift NYT",
+                  "url": "https://nytco-assets.nytimes.com/2026/11/new-york-times-brave-complaint-11-2-26.pdf"
+                },
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Urheberrechtsverletzungen-New-York-Times-verklagt-Brave-Software-11508651.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-israel-netanyahu-breite-koalition",
+              "slug": "israel-netanyahu-breite-koalition",
+              "title": "Israel: Netanyahu will breite Koalition ohne arabische Parteien",
+              "date": "2026-11-03",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "kurz": "Nach der Wahl fehlen Netanyahus Block acht Sitze zur Mehrheit; er ruft zu einer breiten Regierung auf, schliesst arabische Parteien aber aus.",
+              "summary": "Benjamin Netanyahu hat zu einer breiten «nationalen» Regierung aufgerufen und eine Abhängigkeit von den arabischen Parteien Ra'am und Vereinte Liste ausgeschlossen. Sein Block kommt nach der Wahl vom 27. Oktober auf 53 der 120 Sitze, 61 braucht es für eine Mehrheit. Die beiden arabischen Parteien erzielten zusammen 19 Sitze, ein Rekord.",
+              "gegenstimme": "Die Opposition (48 Sitze) wirft Netanyahu vor, er wolle andere Parteien in seine Regierung locken, obwohl die Wähler ihm die Mehrheit verweigert hätten. Arabische Politiker sehen den Ausschluss als Ausgrenzung eines Fünftels der Bevölkerung; Netanyahu begründet ihn mit Positionen dieser Parteien zum Terror.",
+              "sources": [
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/israel-election-2026/article-913626"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/netanyahu-lost-his-majority-but-can-the-opposition-form-a-government-a-look-at-possible-paths-ahead/"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-02",
       "editions": {
