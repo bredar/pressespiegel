@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:11:19+01:00",
+  "updated": "2026-11-03T17:30:00+01:00",
   "days": [
     {
       "date": "2026-11-03",
@@ -571,6 +571,316 @@
                 {
                   "name": "Spiegel",
                   "url": "https://www.spiegel.de/politik/deutschland/wiedergutmachungs-einbuergerung-immer-mehr-israelis-wollen-deutsche-werden-a-c2e54b47-dd6b-4518-950a-12807cf3da2c"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-11-03-kerosin-pflichtlager-erneut-freigegeben",
+              "slug": "kerosin-pflichtlager-erneut-freigegeben",
+              "title": "Kerosin-Engpass: Bund zapft erneut Pflichtlager an",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "evening",
+              "kurz": "Der Bund gibt bis Ende November bis zu 50'000 Kubikmeter Flugpetrol aus den Pflichtlagern frei – zum zweiten Mal in wenigen Wochen.",
+              "summary": "Der Delegierte für wirtschaftliche Landesversorgung, Roland Pfister, hat am Dienstag Bezüge von maximal 50'000 m³ Flugpetrol bis zum 29. November bewilligt. Grund sind Einschränkungen in Raffinerien in Südfrankreich und Deutschland sowie Bahnausfälle; betroffen sind die Flughäfen Zürich und Genf. Zusammen mit den 30'000 m³ vom Oktober sind damit 17,4 Prozent der Kerosin-Pflichtlager angebrochen.",
+              "gegenstimme": "Das BWL betont, die Pflichtlager seien genau für solche Engpässe da und Benzin sowie Heizöl seien gesichert. Kritiker sehen in vier Notbezügen seit September ein Zeichen, dass die Versorgungskette strukturell zu verletzlich ist.",
+              "sources": [
+                {
+                  "name": "BWL (Medienmitteilung)",
+                  "url": "https://www.bwl.admin.ch/de/newnsb/FBnf3YjJZk3R"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/erneuter-kerosin-engpass-bund-gibt-weitere-reserven-frei/kvfe3kd"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/bund-muss-erneut-seine-kerosin-pflichtlager-anzapfen-67197176"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-brienzwiler-gemeinderat-gesamtruecktritt",
+              "slug": "brienzwiler-gemeinderat-gesamtruecktritt",
+              "title": "Brienzwiler: Ganzer Gemeinderat tritt zurück",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🏔️",
+              "edition": "evening",
+              "kurz": "Der siebenköpfige Gemeinderat von Brienzwiler im Berner Oberland ist nach einem Konflikt mit Teilen der Bevölkerung geschlossen zurückgetreten.",
+              "summary": "Der gesamte Gemeinderat von Brienzwiler hat am 30. Oktober dem Regierungsstatthalteramt seinen Rücktritt erklärt. Er nennt hohe Arbeitsbelastung, persönliche Angriffe und eine Petition mit Rücktrittsforderungen; zuvor hatte der Gemeindeschreiber gekündigt. Die Gemeinde steht nun unter kantonaler Aufsicht, Neuwahlen sind am 9. Dezember geplant.",
+              "gegenstimme": "Die Kritiker im Dorf werfen dem Rat ein inkorrektes Vorgehen bei einem Wechsel in der Finanzverwaltung vor; der Rat räumt selbst ein, früher und verständlicher hätte kommunizieren müssen.",
+              "sources": [
+                {
+                  "name": "Gemeinde Brienzwiler",
+                  "url": "https://www.brienzwiler.ch/gemeinde/informationen-aus-der-gemeinde/21-gemeinde/informationen-startseite/159-gesamtruecktritt-gemeinderat"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/berner-oberland-nach-streit-in-brienzwiler-tritt-gemeinderat-geschlossen-zurueck"
+                },
+                {
+                  "name": "Plattform J",
+                  "url": "https://www.plattformj.ch/artikel/248142/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-kantonspolizei-bern-online-anzeige-sexualisierte-gewalt",
+              "slug": "kantonspolizei-bern-online-anzeige-sexualisierte-gewalt",
+              "title": "Kanton Bern: Anzeige bei sexualisierter Gewalt neu online",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🚔",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/cddaf1f56a6db3c227517f6aa5e37fd3f0221353-92320785.jpg?ver=0b69bdde&fit=1200,900",
+              "kurz": "Betroffene sexualisierter Gewalt können im Kanton Bern ab sofort über Suisse ePolice online Strafanzeige erstatten.",
+              "summary": "Die Kantonspolizei Bern hat auf Suisse ePolice ein Onlineformular für Anzeigen wegen sexualisierter Gewalt aufgeschaltet. Die Eingabe wird per SMS bestätigt, danach meldet sich während der Bürozeiten eine Fachperson telefonisch. Bei Vorfällen, die weniger als 72 Stunden zurückliegen, empfiehlt die Polizei das Kontakttelefon 031 332 77 77, bei akuter Gefahr 112 oder 117.",
+              "gegenstimme": "Befürworter sehen eine tiefere Hemmschwelle für Betroffene. Skeptiker geben zu bedenken, dass niederschwellige Onlineanzeigen mehr schwer überprüfbare Meldungen bringen und eine rasche Spurensicherung nicht ersetzen.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/berner-polizei-erm%c3%b6glicht-online-anzeigen-bei-sexualisierter-gewalt/92320798"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-supermarkt-kuehlanlagen-cyberangriffe-europa",
+              "slug": "supermarkt-kuehlanlagen-cyberangriffe-europa",
+              "title": "Hacker heizen Supermarkt-Kühlanlagen in Europa auf",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🧊",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg",
+              "kurz": "Eine neue Welle von Cyberangriffen hat Kühlsysteme in Supermärkten in rund zehn europäischen Ländern manipuliert; Coop meldet abgewehrte Versuche.",
+              "summary": "In der Nacht auf Montag stiegen in Supermärkten in Belgien, Schweden, Irland, Luxemburg, Estland, den Niederlanden und weiteren Ländern die Temperaturen in Kühl- und Gefriergeräten teils auf bis zu 50 Grad. In Belgien meldete Delhaize rund 40 betroffene Filialen, Carrefour 15. In der Schweiz registrierte Coop laut 20 Minuten Angriffsversuche ohne Erfolg; Migros sieht keine Hinweise auf Angriffe.",
+              "gegenstimme": "Täter und Motiv sind unbekannt, es gab weder Lösegeldforderungen noch Datenabflüsse. Eine Zuschreibung an einen Staat, etwa Russland, ist bisher nicht belegt; Fachleute verweisen ebenso auf schlicht ungepatchte Altsysteme.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/zu-warme-kuehlschraenke-50-grad-im-tiefkuehler-erneute-cyberangriffe-in-supermaerkten"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/seit-mitte-oktober-mysterioese-hacking-welle-trifft-europaeische-supermaerkte-103660687"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wissen/kuehlsysteme-schutz-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-ruag-betrug-svp-klage-sp-puk",
+              "slug": "ruag-betrug-svp-klage-sp-puk",
+              "title": "Ruag-Betrug: SVP will Klagen, SP eine PUK",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🛡️",
+              "edition": "evening",
+              "kurz": "Nach dem Bericht über 51 Millionen Euro Schaden bei der Ruag streiten die Parteien über die Konsequenzen für frühere Verantwortliche.",
+              "summary": "Die Ruag MRO fordert von zehn Personen rund 51 Millionen Euro Schadenersatz, vor allem wegen Verkäufen von Panzerteilen unter Marktwert. SVP-Nationalrat Mauro Tuena verlangt, dass der Bund gegen frühere Ruag-Verwaltungsräte klagt; SP-Nationalrat Fabian Molina fordert erneut eine PUK. Das VBS hat eine Arbeitsgruppe eingesetzt, die in zwei bis drei Monaten berichten soll.",
+              "gegenstimme": "Bürgerliche halten eine PUK für überflüssig, weil die Fakten auf dem Tisch lägen. Die Linke kontert, ohne unabhängige Aufarbeitung würden Verantwortung und Eigneraufsicht des Bundes nie geklärt.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/folgen-von-panzer-deals-nach-ruag-betrug-bundesrat-muss-gegen-die-chefs-klagen-103659913"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/kadermann-etabliert-ein-betrugssystem-bei-der-ruag-untersuchungsbericht-zeigt-jetzt-die-ausmasse-ld.10049216"
+                },
+                {
+                  "name": "VBS",
+                  "url": "https://www.vbs.admin.ch/de/newnsb/hc68DehU0UCu"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-waadt-hackerangriff-schulen-16-jaehriger",
+              "slug": "waadt-hackerangriff-schulen-16-jaehriger",
+              "title": "Waadt: 16-Jähriger nach Hack von Schulplattform gefasst",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "💻",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/1700c5b79d250e4ba295480798196feacf86e7ac-92321407.jpg?ver=aa43aa5c&fit=1200,900",
+              "kurz": "Die Waadtländer Polizei hat einen 16-Jährigen festgenommen, der in eine Plattform mit Daten von 38'000 Schülern und 3500 Lehrpersonen eingedrungen sein soll.",
+              "summary": "Zwischen dem 23. und 26. Oktober griff ein Unbefugter auf die IT-Supportplattform der Waadtländer Gymnasien und Berufsschulen zu. Betroffen sind Namen, schulische E-Mail-Adressen und Supportanfragen, keine Passwörter oder Noten. Der 16-jährige Verdächtige wurde am 31. Oktober festgenommen, befragt und wieder freigelassen; das Jugendgericht ermittelt.",
+              "gegenstimme": "Der Kanton reagierte laut eigener Darstellung rasch. Kritisch bleibt, warum eine Plattform mit Daten von über 41'000 Personen für einen Jugendlichen offenbar leicht zugänglich war.",
+              "sources": [
+                {
+                  "name": "Kanton Waadt",
+                  "url": "https://www.vd.ch/actualites/actualite/news/26762-intrusion-dans-la-plateforme-de-support-informatique-de-lenseignement-postobligatoire-un-mineur-interpelle"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/16-j%c3%a4hriger-nach-hackerangriff-auf-waadtl%c3%a4nder-schulen-festgenommen/92321420"
+                },
+                {
+                  "name": "24 heures",
+                  "url": "https://www.24heures.ch/vaud-un-ado-de-16-ans-interpelle-apres-le-piratage-massif-995685401785"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-razzia-linksextremisten-kollektiv-zwickau",
+              "slug": "razzia-linksextremisten-kollektiv-zwickau",
+              "title": "Deutschland: Razzia gegen linksextremes «Kollektiv Zwickau»",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🚨",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/9ff683de-5360-4f68-bd22-d655aeb23306/AAABoaD8DFk/AAABnSSvrFg/16x9-big/polizei-einsatz-168.jpg?width=1280",
+              "kurz": "In vier Bundesländern hat die Polizei Wohnungen mutmasslicher Linksextremisten durchsucht; fünf Personen wurden festgenommen.",
+              "summary": "Polizei und sächsisches LKA durchsuchten in Sachsen, Thüringen, Hamburg und Bremen Objekte einer mutmasslichen linksextremen Gruppe. Gegen zwölf Beschuldigte wird wegen Bildung einer kriminellen Vereinigung ermittelt. Vier wurden per Haftbefehl festgenommen, ein 20-Jähriger nach einem Angriff auf einen Polizisten während des Einsatzes.",
+              "gegenstimme": "Linke Gruppen sprechen bei solchen Verfahren regelmässig von Kriminalisierung politischen Engagements. Die Ermittler verweisen auf konkrete Gewaltvorwürfe; die Beschuldigten gelten bis zu einem Urteil als unschuldig.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/inland/razzia-linksextremismus-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6ae98ffd0e29c4a23c5675d8/linksextremismus-fuenf-festnahmen-bei-razzien-gegen-linksextremisten-verdaechtiger-soll-polizisten-angegriffen-haben.html"
+                },
+                {
+                  "name": "Medienservice Sachsen",
+                  "url": "https://www.medienservice.sachsen.de/medien/news/1100899"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-agoa-trump-suedafrika-ruanda",
+              "slug": "agoa-trump-suedafrika-ruanda",
+              "title": "Trump wirft Südafrika und Ruanda aus Handelsabkommen",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
+              "kurz": "Die USA streichen Südafrika und Ruanda per 1. Januar 2027 aus dem zollfreien Afrika-Handelsprogramm AGOA.",
+              "summary": "Präsident Trump hat dem Kongress mitgeteilt, Südafrika und Ruanda aus dem Handelsprogramm AGOA auszuschliessen. Der US-Handelsbeauftragte begründet das mit Handels- und Investitionshemmnissen sowie Gefahren für US-Sicherheits- und Aussenpolitik. Südafrika werden zudem Korruption, Ruanda Defizite bei Rechtsstaat, Pluralismus und Menschenrechten vorgeworfen.",
+              "gegenstimme": "Kritiker vermuten politische Motive hinter dem Ausschluss; eine Stellungnahme Pretorias lag in den geprüften Quellen nicht vor. Washington verweist darauf, dass AGOA an überprüfbare Kriterien geknüpft ist, die beide Länder nicht erfüllten.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo"
+                },
+                {
+                  "name": "USTR",
+                  "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-issues-statement-president-trumps-intent-terminate-rwanda-and-south-africa-agoa"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/trump-us-south-africa-rwanda-trade-agoa-5b18b1db8995fec67b28b9680d9d8424"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-uebung-koalicja-ukraine-truppen",
+              "slug": "uebung-koalicja-ukraine-truppen",
+              "title": "Europäer üben Einsatz für Nachkriegs-Ukraine",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e34/live/47a8cf70-d75a-11f1-b441-2b33b063138f.jpg",
+              "kurz": "Grossbritannien und Frankreich führen in Polen eine Übung mit rund 2800 Soldaten aus elf Ländern für eine mögliche Ukraine-Truppe nach Kriegsende.",
+              "summary": "Die Übung «Koalicja» findet vom 9. bis 22. November in Polen statt. Geübt werden rasche Verlegung, Führung, Logistik, Luftoperationen und Minenräumung auf See. Eine solche Truppe würde laut britischer Regierung erst nach Ende der Kämpfe und auf Einladung Kiews in die Ukraine gehen und ist keine Nato-Mission.",
+              "gegenstimme": "Moskau lehnt westliche Truppen in der Ukraine strikt ab und dürfte die Übung als Provokation werten. Skeptiker im Westen bezweifeln, dass Europa ohne US-Rückendeckung eine glaubwürdige Abschreckung stellen kann.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po"
+                },
+                {
+                  "name": "GOV.UK",
+                  "url": "https://www.gov.uk/government/news/uk-to-lead-multinational-military-training-exercise-to-prepare-for-peace-in-ukraine--2"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/ukraine-military-exercise-explain-a0a399346feddba9ec349fcd4ae18a2c"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-jd-com-mediamarktsaturn-eu-genehmigung",
+              "slug": "jd-com-mediamarktsaturn-eu-genehmigung",
+              "title": "EU erlaubt JD.com die Übernahme von MediaMarktSaturn",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "🛒",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/95591cc8-7e78-42f1-92f2-fc324115d59b/AAABoaEcUVU/AAABnSSvrFg/16x9-big/mediamarkt-saturn-102.jpg?width=1280",
+              "kurz": "Die EU-Kommission genehmigt die Übernahme von Europas grösstem Elektronikhändler durch den chinesischen Konzern JD.com unter Auflagen.",
+              "summary": "JD.com darf Ceconomy, die Mutter von MediaMarkt und Saturn, übernehmen. Als Auflage muss JD Logistik- und Technologiedienste zehn Jahre lang auch anderen Händlern zu gleichen Bedingungen anbieten, konzerninterne Finanzierungen müssen marktüblich sein. Der Vollzug soll in den kommenden Tagen erfolgen.",
+              "gegenstimme": "Befürworter sehen frisches Kapital für einen angeschlagenen Händler. Kritiker warnen vor dem Einfluss eines chinesischen Konzerns auf Kundendaten und europäischen Handel trotz Auflagen.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/EU-genehmigt-Uebernahme-von-MediaMarktSaturn-unter-Auflagen-11509612.html"
+                },
+                {
+                  "name": "Ceconomy",
+                  "url": "https://www.ceconomy-mms.com/de/article/neues-kapitel-ceconomy-und-jdcom-erhalten-abschliessende-behordliche-genehmigung"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-binance-hack-nordkorea-dementi",
+              "slug": "binance-hack-nordkorea-dementi",
+              "title": "Binance-Hack: Nordkorea bestreitet Rekorddiebstahl",
+              "date": "2026-11-03",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🪙",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+              "kurz": "Nordkorea weist die US-Zuschreibung des 6,3-Milliarden-Dollar-Hacks bei der Kryptobörse Binance als Provokation zurück.",
+              "summary": "Kim Yo Jong, Schwester von Machthaber Kim Jong Un, nannte die Vorwürfe «absurde Rhetorik». Das FBI und Blockchain-Analysten schreiben den Diebstahl von rund 6,3 Milliarden Dollar der Hackergruppe TraderTraitor zu, auch als Lazarus bekannt. Laut Ermittlern sind rund 2,85 Milliarden eingefroren oder beschlagnahmt.",
+              "gegenstimme": "Pjöngjang bestreitet seit Jahren jede Beteiligung an Cyberdiebstählen. Die Zuschreibung stützt sich auf US-Behörden und private Analysten, deren Rohdaten nicht vollständig öffentlich sind.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/krypto-diebstahl-bei-binance-nordkorea-finanziert-sich-seit-jahren-durch-hacking"
+                },
+                {
+                  "name": "CoinDesk",
+                  "url": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor"
                 }
               ]
             }
