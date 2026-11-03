@@ -1,5 +1,5 @@
 {
-  "updated": "05:30 UTC 2026-11-03",
+  "updated": "2026-11-03T12:11:19+01:00",
   "days": [
     {
       "date": "2026-11-03",
@@ -313,6 +313,264 @@
                 {
                   "name": "Times of Israel",
                   "url": "https://www.timesofisrael.com/netanyahu-lost-his-majority-but-can-the-opposition-form-a-government-a-look-at-possible-paths-ahead/"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:10",
+          "articles": [
+            {
+              "id": "2026-11-03-inflation-oktober-1-5-prozent",
+              "slug": "inflation-oktober-1-5-prozent",
+              "title": "Teuerung steigt im Oktober auf 1,5 Prozent",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "midday",
+              "kurz": "Die Schweizer Teuerung hat im Oktober deutlich angezogen, vor allem wegen höherer Erdölpreise.",
+              "summary": "Die Jahresteuerung in der Schweiz ist im Oktober auf 1,5 Prozent gestiegen, nach 1,0 Prozent im September. Das teilte das Bundesamt für Statistik (BFS) am Dienstag mit. Treiber waren laut SRF vor allem höhere Erdölpreise.",
+              "gegenstimme": "Ein Teil des Anstiegs geht auf Energiepreise zurück, die stark schwanken; Kritiker warnen davor, aus einem Monatswert eine Trendwende abzuleiten, während Konsumentenvertreter auf den Kaufkraftverlust bei gleichzeitig tiefen Lohnerhöhungen hinweisen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/teuerung-2026-schweizer-inflation-steigt-im-oktober-auf-1-5-prozent"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/286460436-alles-wird-teurer-inflation-in-der-schweiz-steigt-auf-1-5-prozent"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-ubs-lohnumfrage-2027",
+              "slug": "ubs-lohnumfrage-2027",
+              "title": "UBS-Umfrage: Löhne steigen 2027 nur um rund 1 Prozent",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "wirtschaft",
+              "icon": "💼",
+              "edition": "midday",
+              "kurz": "Schweizer Firmen planen für 2027 nur geringe Lohnerhöhungen; nach Teuerung bleibt kaum etwas übrig.",
+              "summary": "Laut der jährlichen Lohnumfrage der UBS wollen Schweizer Firmen die Löhne 2027 im Schnitt um rund 1 Prozent erhöhen. Der wirtschaftliche Aufschwung komme am Arbeitsmarkt und bei den Löhnen kaum an. Mit der aktuellen Teuerung von 1,5 Prozent drohen Reallohneinbussen.",
+              "gegenstimme": "Arbeitgeber verweisen auf unsichere Exportaussichten und Margendruck; Gewerkschaften dürften dagegen den vollen Teuerungsausgleich fordern und argumentieren, die Firmen hätten Spielraum.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/ubs-lohnumfrage-schweizer-loehne-steigen-2027-nur-leicht"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/375127973-lohnerhoehung-2027-loehne-in-der-schweiz-steigen-nur-um-1-prozent"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-swiss-gewinn-neun-monate",
+              "slug": "swiss-gewinn-neun-monate",
+              "title": "Swiss steigert Gewinn trotz hoher Treibstoffkosten",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "midday",
+              "kurz": "Die Lufthansa-Tochter Swiss hat in den ersten neun Monaten etwas mehr verdient als im Vorjahr.",
+              "summary": "Die Fluggesellschaft Swiss hat von Januar bis September rund 10 Millionen Franken mehr verdient als im Vorjahreszeitraum. Das gab die Lufthansa-Tochter am Dienstag bekannt. Belastet wurde das Ergebnis von hohen Treibstoffkosten.",
+              "gegenstimme": "Ein leicht höherer Gewinn trotz teurem Kerosin wird von Konsumentenseite auch mit hohen Ticketpreisen erklärt; Branchenbeobachter weisen auf das Risiko weiter steigender Ölpreise im Winter hin.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/trotz-hoher-treibstoffkosten-swiss-steigert-gewinn-leicht"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/282332278-swiss-gewinn-nach-neun-monaten-gestiegen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-zuerich-krawallnacht-polizeipersonal",
+              "slug": "zuerich-krawallnacht-polizeipersonal",
+              "title": "Zürcher Krawallnacht: SVP fordert mehr Polizei, Linke halten dagegen",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "schweiz",
+              "icon": "🚔",
+              "edition": "midday",
+              "kurz": "Nach den Ausschreitungen an Halloween streitet die Zürcher Politik über mehr Polizeistellen.",
+              "summary": "Nach der Krawallnacht vom Samstag in Zürich hat die SVP-Fraktion im Kantonsrat die Stadt Zürich scharf kritisiert und mehr Polizeistellen gefordert. Linke Parteien lehnen das ab. Die Ausschreitungen am Rand einer Jugend-Demo beschäftigten am Montag den Kantonsrat.",
+              "gegenstimme": "Die Linke sieht in mehr Polizei keine Lösung und verweist auf soziale Ursachen und Perspektivlosigkeit der Jugendlichen; die SVP und bürgerliche Kreise werfen der Stadt vor, Gewalt zu lange toleriert zu haben und Verursacher nicht zur Kasse zu bitten.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/ausschreitungen-in-zuerich-krawallnacht-befeuert-debatte-um-polizeipersonal"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/blaulicht/163155606-halloween-nacht-parteien-kritisieren-im-kantonsrat-ausschreitungen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-ki-selbstdiagnose-css-studie",
+              "slug": "ki-selbstdiagnose-css-studie",
+              "title": "CSS-Studie: Vier von zehn nutzen KI zur Selbstdiagnose",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "midday",
+              "kurz": "Immer mehr Menschen in der Schweiz fragen bei Symptomen zuerst einen KI-Chatbot.",
+              "summary": "Laut der Gesundheitsstudie der Krankenversicherung CSS nutzen vier von zehn Personen in der Schweiz bei Symptomen KI zur Selbstdiagnose. Die Nutzung von KI-Chatbots in Gesundheitsfragen hat sich laut Watson innert eines Jahres verdoppelt. KI wird meist als Ergänzung zur klassischen Medizin genutzt.",
+              "gegenstimme": "Ärzte warnen vor Fehldiagnosen und falscher Sicherheit; zudem ist die Studie von einem Krankenversicherer, der selbst digitale Angebote betreibt, und keine unabhängige Erhebung.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/css-gesundheitsstudie-vier-von-zehn-schweizern-nutzen-ki-fuer-selbstdiagnose"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/gesundheit/737574451-jeder-vierte-schweizer-benutzt-bei-krankheit-ki-zur-selbstdiagnose"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-alpenpaesse-wintersperre-gotthard",
+              "slug": "alpenpaesse-wintersperre-gotthard",
+              "title": "Wintereinbruch: Gotthardpass ab Donnerstag gesperrt",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "schweiz",
+              "icon": "❄️",
+              "edition": "midday",
+              "kurz": "Die Gotthardpassstrasse geht in die Wintersperre; für sechs Alpenpässe gilt bereits eine Sperre.",
+              "summary": "Die Gotthardpassstrasse zwischen Hospental UR und Airolo TI wird ab Donnerstag aus Sicherheitsgründen gesperrt. Grund ist der Wintereinbruch. Laut Keystone-SDA gilt für sechs Schweizer Alpenpässe bereits eine Wintersperre.",
+              "gegenstimme": "Gewerbe und Tourismus in den Passregionen kritisieren regelmässig frühe Sperrungen; die Kantone verweisen auf Lawinengefahr und Sicherheit.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/wintereinbruch-gotthardpassstrasse-ab-donnerstag-gesperrt"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/f%c3%bcr-sechs-schweizer-alpenp%c3%a4sse-gilt-eine-wintersperre/92319813"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-neuenegg-deponiebrand-wasserwerfer",
+              "slug": "neuenegg-deponiebrand-wasserwerfer",
+              "title": "Neuenegg: Polizei löscht Deponiebrand mit Wasserwerfer",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "regional",
+              "icon": "🔥",
+              "edition": "midday",
+              "kurz": "Auf einer Deponie in Neuenegg BE brannte ein grosser Haufen Kompost; die Polizei half mit Wasserwerfern.",
+              "summary": "Auf dem Areal einer Deponie in Neuenegg BE hat am Montag ein grosser Haufen mit Kompost und Holzschnitzeln Feuer gefangen. Die Kantonspolizei Bern unterstützte die Feuerwehr mit Wasserwerfern. Über Verletzte wurde nichts bekannt.",
+              "gegenstimme": "Anwohner solcher Anlagen klagen oft über Rauch und Geruch; offen ist, ob die Lagerung grosser Kompostmengen ausreichend gegen Selbstentzündung gesichert war.",
+              "sources": [
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/polizeirapport/242122000-brand-in-neuenegg-polizei-loescht-mit-wasserwerfer"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/polizei-setzt-wasserwerfer-gegen-brand-in-deponie-in-neuenegg-ein/92320031"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-saporischschja-26-tote",
+              "slug": "saporischschja-26-tote",
+              "title": "Ukraine: Mindestens 26 Tote bei russischem Angriff bei Saporischschja",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "international",
+              "icon": "💥",
+              "edition": "midday",
+              "kurz": "Bei einem russischen Angriff in der Region Saporischschja sind laut Kiew mindestens 26 Menschen getötet worden.",
+              "summary": "Bei einem russischen Angriff in der Region Saporischschja sind nach ukrainischen Angaben mindestens 26 Menschen getötet worden. Laut Tagesschau traf es ein Verteilzentrum, laut Spiegel ein Schulgebäude. Präsident Selenskyj warf Moskau ein gezieltes Bombardement vor.",
+              "gegenstimme": "Russland bestreitet in solchen Fällen meist, zivile Ziele anzugreifen, und spricht von militärischen Einrichtungen; eine Stellungnahme Moskaus zu diesem Angriff lag in den geprüften Berichten nicht vor.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-26-tote-bei-russischen-angriffen-auf-schulgebaeude-nahe-saporischschja-a-da431ff0-9641-46e1-af7b-ac3264faf56f"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-selenskyj-besuch-berlin",
+              "slug": "selenskyj-besuch-berlin",
+              "title": "Selenskyj überraschend in Berlin, Koalition plant 200 Millionen Winterhilfe",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "politik",
+              "icon": "🇺🇦",
+              "edition": "midday",
+              "kurz": "Der ukrainische Präsident kommt unangekündigt zu Kanzler Merz; Union und SPD wollen zusätzliche Winterhilfe.",
+              "summary": "Bundeskanzler Friedrich Merz hat einen unangekündigten Besuch des ukrainischen Präsidenten Wolodymyr Selenskyj in Berlin für heute angekündigt. Laut WELT will die schwarz-rote Koalition überplanmässig 200 Millionen Euro zusätzliche Winterhilfe für die Ukraine bereitstellen. Die Tagesschau bestätigt den Besuch.",
+              "gegenstimme": "Die AfD und Teile der Linken kritisieren weitere Milliarden für die Ukraine angesichts der Haushaltslage; Befürworter argumentieren, die Unterstützung sei für Europas Sicherheit billiger als ein russischer Sieg.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6ae995e30e29c4a23c567647/merz-kuendigt-selenskyj-besuch-in-berlin-an.html"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-schaeffler-stellenabbau",
+              "slug": "schaeffler-stellenabbau",
+              "title": "Schaeffler streicht rund 3500 Stellen und schliesst vier Werke",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "wirtschaft",
+              "icon": "🏭",
+              "edition": "midday",
+              "kurz": "Der deutsche Autozulieferer Schaeffler baut weitere 3460 Stellen ab, vier deutsche Standorte schliessen.",
+              "summary": "Der Autozulieferer Schaeffler streicht 3460 Stellen und schliesst vier Standorte in Deutschland. Das Unternehmen leidet unter der sinkenden Nachfrage nach Teilen für Verbrennungsmotoren. Es ist bereits ein weiteres Sparprogramm des Konzerns.",
+              "gegenstimme": "Gewerkschaften werfen der Branche vor, den Wandel zu spät angegangen zu sein; Industrievertreter machen dagegen hohe Energiekosten, Bürokratie und die politisch erzwungene Abkehr vom Verbrenner verantwortlich.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/wirtschaft/article6ae9899ab3f0fa60211d6f0f/autozulieferer-schaeffler-streicht-3460-stellen-und-schliesst-vier-standorte-in-deutschland.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-wiedereinbuergerung-israelis-deutschland",
+              "slug": "wiedereinbuergerung-israelis-deutschland",
+              "title": "Deutschland: Starker Anstieg bei Wiedergutmachungs-Einbürgerungen",
+              "date": "2026-11-03",
+              "time": "12:10",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "midday",
+              "kurz": "Immer mehr Nachfahren von NS-Verfolgten, vor allem Israelis, beantragen die deutsche Staatsbürgerschaft.",
+              "summary": "In den letzten Jahren sind laut WELT rund 170'000 Anträge auf Wiedergutmachungs-Einbürgerung in Deutschland eingegangen. Das Recht gilt für Nachfahren von Menschen, die in der NS-Zeit ausgebürgert oder verfolgt wurden. Laut Spiegel wollen besonders viele Israelis Deutsche werden.",
+              "gegenstimme": "Kritiker sehen weniger Verbundenheit mit Deutschland als den Wunsch nach einem EU-Pass als Absicherung angesichts von Krieg und politischer Unsicherheit in Israel; Befürworter betonen die historische Verantwortung.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/article6ae96b0f0e29c4a23c5673c6/deutsche-staatsbuergerschaft-unglaublicher-anstieg-an-popularitaet-170-000-wiedereinbuergerungs-antraege"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/wiedergutmachungs-einbuergerung-immer-mehr-israelis-wollen-deutsche-werden-a-c2e54b47-dd6b-4518-950a-12807cf3da2c"
                 }
               ]
             }
