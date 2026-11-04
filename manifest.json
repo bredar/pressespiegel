@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T06:13:38+01:00",
+  "updated": "2026-11-04T12:20:00+01:00",
   "days": [
     {
       "date": "2026-11-04",
@@ -239,6 +239,250 @@
                 {
                   "name": "Meduza",
                   "url": "https://meduza.io/en/feature/2026/11/03/russia-bombs-humanitarian-aid-distribution-site-in-southern-ukraine-killing-31-more-than-40-people-remain-missing"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-04-bern-gemeinderat-vergroesserung",
+              "slug": "bern-gemeinderat-vergroesserung",
+              "title": "Stadt Bern: Kommission gegen siebenköpfigen Gemeinderat",
+              "date": "2026-11-04",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "midday",
+              "kurz": "Die Stadtratskommission SBK will die Berner Stadtregierung bei fünf Mitgliedern belassen.",
+              "summary": "Die Kommission für Soziales, Bildung und Kultur (SBK) des Berner Stadtrats lehnt eine Vergrösserung des Gemeinderats von fünf auf sieben Mitglieder ab. Sie beantragt dem Stadtrat, die entsprechende Revision der Gemeindeordnung zu verwerfen. Auch der Gemeinderat selbst hatte die Vergrösserung abgelehnt.",
+              "gegenstimme": "Befürworter einer grösseren Regierung argumentieren, fünf Mitglieder seien für eine wachsende Stadt mit breitem Aufgabenkatalog zu wenig und die Arbeitslast zu hoch; zudem könnte eine grössere Exekutive das Parteienspektrum breiter abbilden.",
+              "sources": [
+                {
+                  "name": "Stadt Bern, Ratsinformationssystem",
+                  "url": "https://ris.bern.ch/de/dokumente/a1cc2602a4a64c0f8da00839ee2cef87-332"
+                },
+                {
+                  "name": "Swissinfo / SDA",
+                  "url": "https://www.swissinfo.ch/ger/stadtratskommission-lehnt-vergr%C3%B6sserung-von-berner-gemeinderat-ab/92325227"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/ort/bern/bern-kommission-will-keinen-siebenkopfigen-gemeinderat-67197462"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-co2-zielwerte-eu-fahrzeuglabel",
+              "slug": "co2-zielwerte-eu-fahrzeuglabel",
+              "title": "Bundesrat lockert CO2-Ziele für Lieferwagen und übernimmt EU-Autolabel",
+              "date": "2026-11-04",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🚗",
+              "edition": "midday",
+              "kurz": "Lieferwagen sollen ab 2030 mehr CO2 ausstossen dürfen, Lastwagen weniger; die Energieetikette weicht dem EU-Label.",
+              "summary": "Der Bundesrat hat am 4. November zwei Vorlagen in die Vernehmlassung geschickt. Der CO2-Zielwert für neue leichte Nutzfahrzeuge soll ab 2030 von 90,6 auf 108,7 Gramm pro Kilometer steigen, schwere Nutzfahrzeuge müssen dagegen 45 statt 30 Prozent weniger ausstossen. Zudem soll das einheitliche EU-Fahrzeuglabel die Schweizer Energieetikette von 2003 ablösen.",
+              "gegenstimme": "Umweltverbände dürften die Lockerung bei Lieferwagen als Rückschritt kritisieren. Von der anderen Seite kommt der Einwand, die Schweiz übernehme erneut EU-Recht automatisch, bevor es in Brüssel überhaupt beschlossen ist, und das neue Label stufe jedes Elektroauto pauschal in Kategorie A ein, unabhängig vom Stromverbrauch.",
+              "sources": [
+                {
+                  "name": "UVEK, Medienmitteilung",
+                  "url": "https://www.uvek.admin.ch/de/newnsb/tDD-BZXX7QMM"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/eu-fahrzeuglabel-soll-bald-schweizer-energieetikette-abl%c3%b6sen/92325854"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-eurozone-inflation-4-prozent",
+              "slug": "eurozone-inflation-4-prozent",
+              "title": "Inflation im Euroraum steigt auf 4 Prozent",
+              "date": "2026-11-04",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "midday",
+              "kurz": "Die Teuerung im Euroraum erreicht im Oktober mit 4 Prozent den höchsten Stand seit über drei Jahren.",
+              "summary": "Laut Schnellschätzung von Eurostat lag die Jahresteuerung im Euroraum im Oktober bei 4,0 Prozent, nach 3,8 Prozent im September. Treiber ist die Energie, die sich im Jahresvergleich um 20,8 Prozent verteuerte. Dienstleistungen stiegen um 3,3 Prozent.",
+              "gegenstimme": "Ökonomen, die die Teuerung vor allem als Energieschock sehen, warnen vor überhasteten Zinserhöhungen, die die schwache Konjunktur abwürgen würden. Kritiker der EZB halten dagegen, sie habe zu lange zugewartet, und verweisen auf die Rolle der Energie- und Klimapolitik bei den hohen Preisen.",
+              "sources": [
+                {
+                  "name": "Eurostat",
+                  "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-04112026-ap"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-im-euro-raum-erreicht-die-vier-prozent-marke/100263504.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/04/eurozone-inflation-steigt-auf-4-prozent-hochster-stand-seit-uber-drei-jahren"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-bmw-prognose-gesenkt",
+              "slug": "bmw-prognose-gesenkt",
+              "title": "BMW senkt Prognose erneut und warnt vor Verlust im Autogeschäft",
+              "date": "2026-11-04",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🏭",
+              "edition": "midday",
+              "kurz": "BMW rechnet im Autosegment 2026 nur noch mit einer Marge zwischen minus und plus 0,5 Prozent.",
+              "summary": "BMW hat seine Jahresprognose zum zweiten Mal in diesem Jahr gesenkt. Im Automobilsegment erwartet der Konzern 2026 eine EBIT-Marge von minus 0,5 bis plus 0,5 Prozent statt 1 bis 3 Prozent. Der Konzerngewinn sank im dritten Quartal laut Euronews um 11 Prozent.",
+              "gegenstimme": "BMW betont, operativ liege die Marge vor den Sondermassnahmen weiterhin über 2 Prozent und der Free Cashflow über 2,5 Milliarden Euro. Kritiker sehen in den Zahlen dagegen ein Strukturproblem der deutschen Autoindustrie: hohe Energie- und Standortkosten, Regulierung und den späten Kurs bei der Elektromobilität.",
+              "sources": [
+                {
+                  "name": "BMW Group, Medienmitteilung",
+                  "url": "https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/ir/downloads/de/2026/q3/Pressemeldung_BMW_Group_aktualisiert_Prognose_fuer_Geschaeftsjahr_2026.pdf"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/04/bmw-gewinn-sinkt-um-11-prozent-konzern-warnt-vor-verlust-im-kernautogeschaeft"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-nordkorea-raketen-kim-yo-jong",
+              "slug": "nordkorea-raketen-kim-yo-jong",
+              "title": "Nordkorea feuert Raketen ab und lehnt Gespräche mit den USA ab",
+              "date": "2026-11-04",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "midday",
+              "kurz": "Nordkorea hat mehrere Kurzstreckenraketen Richtung Japanisches Meer abgefeuert.",
+              "summary": "Nordkorea hat am Mittwochmorgen mehrere Raketen aus der Gegend von Sondok Richtung Japanisches Meer abgefeuert, wie das südkoreanische Militär mitteilte. Sie flogen weniger als 300 Kilometer. Kurz zuvor hatte Kim Yo Jong, die Schwester von Machthaber Kim Jong Un, Gespräche mit Washington abgelehnt, solange die USA ihre «feindselige Politik» nicht änderten.",
+              "gegenstimme": "Pjöngjang stellt die Tests als Selbstverteidigung gegen US-Manöver in der Region dar. In Seoul und Washington gibt es zudem Stimmen, die eine Rückkehr zu Gesprächen ohne Vorbedingungen fordern, weil Sanktionen und Abschreckung das Raketenprogramm nicht gestoppt hätten.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/north-korea-kim-weapons-tests-036aa8b36ae8401f3c1b3bbb81e9b2ed"
+                },
+                {
+                  "name": "Süddeutsche Zeitung / dpa",
+                  "url": "https://www.sueddeutsche.de/politik/korea-konflikt-suedkorea-nordkorea-testet-erneut-mehrere-raketen-dpa.urn-newsml-dpa-com-20090101-261104-930-940190"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack"
+                },
+                {
+                  "name": "UPI",
+                  "url": "https://www.upi.com/Top_News/World-News/2026/11/04/North-Korea-missiles-Kim-Yo-Jong/2191793774995/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-israel-opposition-eisenkot",
+              "slug": "israel-opposition-eisenkot",
+              "title": "Israels Opposition einigt sich auf Eisenkot als Premier-Kandidaten",
+              "date": "2026-11-04",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "midday",
+              "kurz": "Bennett, Lapid, Liberman und Golan wollen Gadi Eisenkot als Regierungschef empfehlen, eine Mehrheit fehlt aber.",
+              "summary": "Die Anführer der jüdischen Oppositionsparteien Israels haben sich darauf geeinigt, den früheren Generalstabschef Gadi Eisenkot (Partei Jaschar) Präsident Isaac Herzog als nächsten Ministerpräsidenten zu empfehlen. Ziel ist eine «nationale Notstandsregierung» ohne Benjamin Netanjahu. Der Block kommt auf 48 Sitze, für eine Mehrheit braucht es 61.",
+              "gegenstimme": "Netanjahus Likud bestreitet, dass die Opposition eine tragfähige Regierung bilden kann, und sieht sich weiterhin als stärkste Kraft. Strittig ist vor allem, ob sich ein jüdisches Oppositionsbündnis von arabischen Parteien stützen lassen darf, was auch Teile der Opposition selbst ablehnen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"
+                },
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/israel-election-2026/article-913678"
+                },
+                {
+                  "name": "TRT World",
+                  "url": "https://www.trtworld.com/article/283dac67ede9"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-iran-drohung-europaeische-basen",
+              "slug": "iran-drohung-europaeische-basen",
+              "title": "Iran droht mit Raketenangriffen auf US-Basen in Europa",
+              "date": "2026-11-04",
+              "time": "12:15",
+              "category": "international",
+              "icon": "⚠️",
+              "edition": "midday",
+              "kurz": "Ein iranischer Abgeordneter droht, Raketen auf europäische Stützpunkte zu feuern, falls die USA sie gegen Iran nutzen.",
+              "summary": "Ahmad Bachschajesch Ardestani, Mitglied des Sicherheitsausschusses im iranischen Parlament, sagte Euronews, Iran werde jeden europäischen Stützpunkt angreifen, der gegen das Land eingesetzt werde, auch in Italien und Deutschland. Irans Militärchef hatte bereits am Dienstag erklärt, die Streitkräfte würden auf jede Bedrohung durch die USA und Israel sofort und «ohne geografische Grenze» reagieren.",
+              "gegenstimme": "Teheran stellt die Aussagen als Abschreckung und Reaktion auf amerikanische und israelische Drohungen dar. Westliche Sicherheitsfachleute verweisen dagegen darauf, dass Iran mit solchen Drohungen Europa unter Druck setzen will, sich von US-Operationen zu distanzieren.",
+              "sources": [
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/04"
+                },
+                {
+                  "name": "Xinhua",
+                  "url": "https://english.news.cn/20261104/dafb18a96f514e0d9bb3c190ef92702c/c.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-eugh-generalanwalt-ki-chatbots",
+              "slug": "eugh-generalanwalt-ki-chatbots",
+              "title": "EuGH-Generalanwalt: KI-Chatbots können Verlagsrechte verletzen",
+              "date": "2026-11-04",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Laut Generalanwalt Szpunar können Chatbots wie Gemini Presseverlagsrechte verletzen, wenn sie Artikel übernehmen.",
+              "summary": "Im ersten Verfahren zu generativer KI vor dem Europäischen Gerichtshof hat Generalanwalt Maciej Szpunar seine Schlussanträge vorgelegt (Rechtssache C-250/25, Like Company gegen Google). Chatbots wie Gemini könnten die Rechte von Presseverlagen verletzen, wenn sie Artikel abrufen und deren Ausdrucksform in Antworten übernehmen. Die Fragen zum Training hält er für unzulässig.",
+              "gegenstimme": "Google und KI-Firmen argumentieren, Chatbots gäben Fakten wieder, die nicht geschützt seien, und leiteten Nutzer auf Quellen weiter. Szpunar selbst betont, das Verlagsrecht dürfe kein Monopol auf Nachrichten schaffen. Verleger wiederum kritisieren, dass die Trainingsfrage offen bleibt.",
+              "sources": [
+                {
+                  "name": "Gerichtshof der EU, Medienmitteilung",
+                  "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155de.pdf"
+                },
+                {
+                  "name": "heise online / dpa",
+                  "url": "https://www.heise.de/news/EuGH-Gutachten-KI-Chatbots-koennen-Urheberrecht-verletzen-11510768.html"
+                },
+                {
+                  "name": "LTO",
+                  "url": "https://www.lto.de/recht/nachrichten/n/c25025eugh-generalanwalt-schlussantraege-ki-chatbots-rechte-von-presseverlagen-verletzt"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-cyberangriff-supermarkt-kuehlanlagen",
+              "slug": "cyberangriff-supermarkt-kuehlanlagen",
+              "title": "Cyberangriff auf Kühlanlagen von Supermärkten in mehreren EU-Ländern",
+              "date": "2026-11-04",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🧊",
+              "edition": "midday",
+              "kurz": "Hacker haben Kühlsysteme von Supermärkten in mindestens neun EU-Ländern manipuliert, Tonnen Lebensmittel verdarben.",
+              "summary": "In der Nacht auf Dienstag wurden Kühl- und Gefrieranlagen in Supermärkten mehrerer europäischer Länder mutmasslich per Cyberangriff manipuliert. Die Anlagen wurden offenbar auf Abtauen gestellt, die Temperaturen stiegen teils auf bis zu 50 Grad, Lebensmittel mussten entsorgt werden. Betroffen waren unter anderem Coop-Filialen in Sizilien.",
+              "gegenstimme": "Die Angaben zur Zahl der Länder gehen auseinander, und noch ist nicht geklärt, wer dahintersteckt. Fachleute warnen davor, vorschnell einen staatlichen Akteur zu nennen; denkbar ist auch eine Schwachstelle bei einem gemeinsamen Anbieter von Fernwartungssoftware.",
+              "sources": [
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/03/cyberangriffe-auf-supermarkt-kuhlanlagen-treffen-neun-eu-lander"
+                },
+                {
+                  "name": "AFP",
+                  "url": "https://www.afp.com/en/fridge-cyberattack-hits-supermarkets-across-europe"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html"
                 }
               ]
             }
