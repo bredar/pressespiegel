@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T12:20:00+01:00",
+  "updated": "2026-11-04T17:15:14+01:00",
   "days": [
     {
       "date": "2026-11-04",
@@ -483,6 +483,292 @@
                 {
                   "name": "Tagesschau",
                   "url": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:15",
+          "articles": [
+            {
+              "id": "2026-11-04-bvg-mindestzins-2-prozent",
+              "slug": "bvg-mindestzins-2-prozent",
+              "title": "Bundesrat hebt BVG-Mindestzins auf 2 Prozent",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🏦",
+              "edition": "evening",
+              "kurz": "Pensionskassen müssen das obligatorische Guthaben ab 2027 mit mindestens 2 Prozent verzinsen.",
+              "summary": "Der Bundesrat erhöht den BVG-Mindestzinssatz ab 1. Januar 2027 von 1,25 auf 2 Prozent. Die BVG-Kommission hatte nur 1,75 Prozent empfohlen, die Sozialpartner schlugen 1,25 bis 3 Prozent vor. Laut Blick ist es der grösste Sprung seit Einführung des BVG 1985.",
+              "gegenstimme": "Arbeitgeber- und Kassenvertreter warnen seit Jahren, ein zu hoher Mindestzins schwäche die Reserven für schlechte Börsenjahre; der Satz gilt zudem nur fürs Obligatorium, viele Versicherte spüren wenig davon.",
+              "sources": [
+                {
+                  "name": "Bund (EDI)",
+                  "url": "https://www.edi.admin.ch/de/newnsb/8DF8zxcfvu7l"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/bundesrat-erhoeht-mindestzinssatz-fuer-pensionskassen/lszhyx6"
+                },
+                {
+                  "name": "cash",
+                  "url": "https://www.cash.ch/news/top-news/bundesrat-erhoht-bvg-mindestzinssatz-um-075-prozentpunkte-982336"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-lokalradios-mehr-geld-swissinfo-kuerzung",
+              "slug": "lokalradios-mehr-geld-swissinfo-kuerzung",
+              "title": "Mehr Gebührengeld für Lokalradios, weniger für Swissinfo",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "📻",
+              "edition": "evening",
+              "kurz": "Lokalradios und Regionalfernsehen erhalten ab 2027 rund 9 Millionen mehr; Swissinfo streicht Sprachen.",
+              "summary": "Der Bundesrat setzt ab 2027 7 Prozent des Abgabeertrags für konzessionierte Lokalradios und Regionalfernsehen ein, total rund 95 statt 86 Millionen Franken. Neu fliessen Gelder an Ausbildung, Nachrichtenagenturen und Presserat. Gleichzeitig genehmigte er die Leistungsvereinbarung fürs SRG-Auslandangebot: Swissinfo stellt Portugiesisch und Japanisch ein, tvsvizzera.it wird aufgegeben.",
+              "gegenstimme": "Kritiker staatlicher Medienförderung sehen in Geld für Agenturen und Presserat eine wachsende Nähe zwischen Staat und Journalismus; die SRG beklagt dagegen den Abbau im Ausland als Schwächung der Schweizer Präsenz.",
+              "sources": [
+                {
+                  "name": "UVEK",
+                  "url": "https://www.uvek.admin.ch/de/newnsb/WgSquzWn3rxU"
+                },
+                {
+                  "name": "UVEK (Auslandangebot)",
+                  "url": "https://www.uvek.admin.ch/de/newnsb/vGQsRd32Rmll"
+                },
+                {
+                  "name": "Swissinfo / SDA",
+                  "url": "https://www.swissinfo.ch/ger/regionale-radio-und-tv-stationen-erhalten-mehr-geb%c3%bchrengeld/92326303"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-chikungunya-tessin-lokal",
+              "slug": "chikungunya-tessin-lokal",
+              "title": "Chikungunya erstmals in der Schweiz übertragen",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🦟",
+              "edition": "evening",
+              "kurz": "Vier Personen im Tessin haben sich lokal mit dem Chikungunya-Virus angesteckt.",
+              "summary": "Im Tessin sind erstmals vier lokal übertragene Chikungunya-Fälle bestätigt worden; die Betroffenen waren nicht in Risikogebiete gereist. Die Ansteckungen gehen auf die Magadino-Ebene zurück, übertragen von der Asiatischen Tigermücke. Allen geht es laut Kanton gut, abgesehen von Gelenkbeschwerden.",
+              "gegenstimme": "Die Behörden stufen das Risiko wegen des Endes der Mückensaison als sehr gering ein; Fachleute wie das Swiss TPH sehen dennoch einen Weckruf für Regionen wie Basel und fordern mehr Überwachung.",
+              "sources": [
+                {
+                  "name": "Swissinfo / SDA",
+                  "url": "https://www.swissinfo.ch/ger/vier-lokale-f%c3%a4lle-von-chikungunya-fieber-im-tessin-best%c3%a4tigt/92326272"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/chikungunya-erste-lokale-uebertragung-in-der-schweiz-478910557057"
+                },
+                {
+                  "name": "Swiss TPH",
+                  "url": "https://www.swisstph.ch/de/news-detail/news/kommentar-erste-lokale-chikungunya-uebertragung-in-der-schweiz-bestaetigt"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-smi-15000-punkte",
+              "slug": "smi-15000-punkte",
+              "title": "SMI knackt erstmals 15 000 Punkte",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "evening",
+              "kurz": "Nach den US-Midterms steigt der Schweizer Leitindex auf ein Rekordhoch.",
+              "summary": "Der SMI hat am Mittwoch gegen 16.40 Uhr erstmals die Marke von 15 000 Punkten überschritten, ein Tagesplus von rund 1,9 Prozent. Händler verweisen auf den Sieg der Demokraten bei den US-Zwischenwahlen und sinkende Ölpreise. UBS-Aktien legten über 3 Prozent zu.",
+              "gegenstimme": "Marktbeobachter warnen, Demokraten könnten KI- und Pharmasektor stärker regulieren; die Euphorie hängt zudem an sinkenden Ölpreisen und Renditen, die schnell kippen können.",
+              "sources": [
+                {
+                  "name": "Bluewin / SDA",
+                  "url": "https://www.bluewin.ch/de/news/wirtschaft/smi-knackt-erstmals-marke-von-15-000-punkten-li.3661660"
+                },
+                {
+                  "name": "MarketScreener / AWP",
+                  "url": "https://de.marketscreener.com/boerse-nachrichten/smi-steuert-nach-us-wahlen-auf-allzeithoch-bei-15-000-punkten-zu-ce785fdfdd80f624"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-bern-falscher-polizist-festnahme",
+              "slug": "bern-falscher-polizist-festnahme",
+              "title": "Bern: Falscher Polizist bei Geldübergabe gefasst",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "bern",
+              "icon": "🚔",
+              "edition": "evening",
+              "kurz": "Die Kantonspolizei Bern hat in der Elfenau einen mutmasslichen Telefonbetrüger festgenommen.",
+              "summary": "Am 30. Oktober wurde eine ältere Frau von einem angeblichen «Ermittlungsdienst» angewiesen, Bargeld abzuheben und bereitzustellen. Die Polizei fasste kurz darauf in der Elfenau einen 20-jährigen Mann, der das Geld abgeholt hatte. Er sitzt in Untersuchungshaft und soll zu einer Bande gehören.",
+              "gegenstimme": "Die Polizei nennt weder Herkunft noch Nationalität des Beschuldigten; ob er Einzeltäter oder Teil eines grösseren Netzes ist, bleibt offen. Es gilt die Unschuldsvermutung.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start.html?newsID=bff2a0aa-77a4-43ec-87ec-12805d7991b2"
+                },
+                {
+                  "name": "Swissinfo / SDA",
+                  "url": "https://www.swissinfo.ch/ger/polizei-nimmt-in-der-stadt-bern-falschen-polizisten-fest/92327578"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/ort/bern/bern-falscher-polizist-bei-geldubergabe-festgenommen-67197669"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-faessler-staenderat-ruecktritt-2027",
+              "slug": "faessler-staenderat-ruecktritt-2027",
+              "title": "Ständerat Daniel Fässler tritt 2027 ab",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "evening",
+              "kurz": "Der Innerrhoder Mitte-Ständerat kandidiert an der Landsgemeinde 2027 nicht mehr.",
+              "summary": "Der 66-jährige Daniel Fässler (Mitte) stellt sich an der Landsgemeinde vom 25. April 2027 nicht mehr zur Wahl. Er war 16 Jahre in Bundesbern, zuerst im Nationalrat, dann im Ständerat. Die Nachfolge wird an der Landsgemeinde bestimmt.",
+              "gegenstimme": "Für die Mitte geht ein sicherer Sitz nicht automatisch weiter: In Innerrhoden zählen Personen mehr als Parteien, die SVP könnte die offene Ausgangslage nutzen.",
+              "sources": [
+                {
+                  "name": "Nau.ch / SDA",
+                  "url": "https://www.nau.ch/politik/bundeshaus/innerrhoder-standerat-daniel-fassler-tritt-2027-nicht-mehr-an-67197568"
+                },
+                {
+                  "name": "Appenzeller Zeitung",
+                  "url": "https://www.appenzellerzeitung.ch/ostschweiz/appenzellerland/daniel-faessler-hoert-2027-als-innerrhoder-staenderat-auf-ld.4261362"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-ubs-kapital-kompromiss",
+              "slug": "ubs-kapital-kompromiss",
+              "title": "UBS: Neuer Kompromissvorschlag im Kapitalstreit",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "evening",
+              "kurz": "Ein Vorschlag aus dem Nationalrat könnte den Kapitalbedarf der UBS senken; die Aktie steigt.",
+              "summary": "Laut Bloomberg liegt im Nationalrat ein neuer Vorschlag vor: Die UBS soll ihre Auslandtöchter bei der Eigenkapitalberechnung mit einer konservativeren Equity-Methode bewerten. Das könnte die drohende Zusatzlast von rund 16 Milliarden Dollar verringern. Die UBS-Aktie legte deutlich zu.",
+              "gegenstimme": "Befürworter strenger Regeln, darunter Teile von SP und SVP, warnen, jede Aufweichung erhöhe das Risiko für Steuerzahler nach dem CS-Debakel; die UBS selbst sieht ihre Wettbewerbsfähigkeit bedroht.",
+              "sources": [
+                {
+                  "name": "Swissinfo / Bloomberg",
+                  "url": "https://www.swissinfo.ch/eng/ubs-has-new-chance-of-capital-compromise-after-lawmaker-plan/92327107"
+                },
+                {
+                  "name": "cash",
+                  "url": "https://www.cash.ch/news/ubs-aktien-ziehen-nach-neuen-geruchten-um-eigenmittel-kompromiss-an-982410"
+                },
+                {
+                  "name": "Fonds professionell",
+                  "url": "https://www.fondsprofessionell.de/news/unternehmen/headline/ubs-kapitalstreit-neuer-vorschlag-koennte-milliarden-sparen-254945/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-lindt-aktionaere-verwaltungsrat",
+              "slug": "lindt-aktionaere-verwaltungsrat",
+              "title": "Lindt-Aktionäre verlangen Umbau des Verwaltungsrats",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "🍫",
+              "edition": "evening",
+              "kurz": "Grossaktionäre fordern nach der CEO-Absetzung mehr Unabhängigkeit im Lindt-Verwaltungsrat.",
+              "summary": "Mehrere Grossaktionäre von Lindt & Sprüngli fordern laut Reuters eine Verjüngung und mehr Unabhängigkeit des Verwaltungsrats. Kritisiert wird die Machtkonzentration um den 80-jährigen Präsidenten Ernst Tanner. Lindt hat eine schrittweise Erneuerung an den Generalversammlungen 2027 und 2028 angekündigt.",
+              "gegenstimme": "Lindt verweist auf den langjährigen Erfolg unter Tanner und die bereits angekündigte Verjüngung; ob er 2027 abtritt, ist offen.",
+              "sources": [
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/133159377-lindt-aktionaere-fordern-umbau-des-verwaltungsrats-nach-ceo-absetzung"
+                },
+                {
+                  "name": "US News / Reuters",
+                  "url": "https://money.usnews.com/investing/news/articles/2026-11-04/exclusive-lindt-investors-seek-board-shake-up-at-chocolate-maker-after-ceo-ouster"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/wirtschaft/presse-mehrere-lindt-aktionare-fordern-umbau-des-verwaltungsrats-67197454"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-ukraine-drohnenangriff-energie",
+              "slug": "ukraine-drohnenangriff-energie",
+              "title": "Russland greift Ukraine mit über 300 Drohnen an",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "evening",
+              "kurz": "Russische Angriffe treffen erneut Energieanlagen, in Kiew fällt der Strom aus.",
+              "summary": "Russland hat die Ukraine in der Nacht auf Mittwoch laut ukrainischer Luftwaffe mit rund 310 Drohnen angegriffen, die meisten wurden abgefangen. Getroffen wurden Energie- und Industrieanlagen, in Kiew und weiteren Regionen fiel der Strom aus. In Dnipro wurden zwei Männer verletzt.",
+              "gegenstimme": "Moskau stellt solche Angriffe als Schläge gegen militärisch genutzte Infrastruktur dar; Opferzahlen und Abschussquoten stammen aus ukrainischen Angaben und sind unabhängig kaum überprüfbar.",
+              "sources": [
+                {
+                  "name": "Kyiv Post",
+                  "url": "https://www.kyivpost.com/post/89068"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/russland-greift-wieder-kraftwerke-an-102.html"
+                },
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3447102/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-robotaxis-furttal-erster-monat",
+              "slug": "robotaxis-furttal-erster-monat",
+              "title": "Robotaxis im Furttal: rund 100 Fahrten im ersten Monat",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🚗",
+              "edition": "evening",
+              "kurz": "Das Pilotprojekt iamo mit autonomen Fahrzeugen zieht eine erste positive Bilanz.",
+              "summary": "Im ersten Betriebsmonat des Robotaxi-Pilots «iamo» im Zürcher Furttal wurden rund 100 Fahrten absolviert. Rund 1700 Personen luden die App herunter, 1450 registrierten sich. Sicherheitsrelevante Zwischenfälle gab es laut Betreibern keine, anfängliche Buchungsprobleme wurden behoben.",
+              "gegenstimme": "100 Fahrten in einem Monat sind sehr wenig; Kritiker bezweifeln, dass sich teure autonome Shuttles im ländlichen ÖV wirtschaftlich rechnen.",
+              "sources": [
+                {
+                  "name": "Swissinfo / SDA",
+                  "url": "https://www.swissinfo.ch/ger/robotaxis-im-furttal-absolvieren-rund-100-fahrten/92325925"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/robotaxis-im-furttal-100-fahrten-im-ersten-monat-803388472748"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-krebsdiagnosen-fast-verdoppelt",
+              "slug": "krebsdiagnosen-fast-verdoppelt",
+              "title": "Fast eine halbe Million Menschen mit Krebsdiagnose",
+              "date": "2026-11-04",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🩺",
+              "edition": "evening",
+              "kurz": "Die Zahl der Menschen mit früherer Krebsdiagnose hat sich seit 2005 fast verdoppelt.",
+              "summary": "Ende 2025 lebten in der Schweiz rund 495 300 Menschen mit einer früheren Krebsdiagnose, etwa 5,5 Prozent der Bevölkerung. 2005 waren es rund 259 600. Das zeigt eine Studie auf Basis der Krebsregister, publiziert im Swiss Medical Weekly.",
+              "gegenstimme": "Der Anstieg bedeutet nicht, dass Krebs gefährlicher wird: Ein grosser Teil geht auf Alterung, Bevölkerungswachstum und bessere Überlebenschancen zurück.",
+              "sources": [
+                {
+                  "name": "Swissinfo / SDA",
+                  "url": "https://www.swissinfo.ch/ger/zahl-der-menschen-mit-krebsdiagnose-hat-sich-fast-verdoppelt/92324725"
+                },
+                {
+                  "name": "Swiss Medical Weekly",
+                  "url": "https://smw.ch/index.php/smw/article/download/5257/6753/36395"
                 }
               ]
             }
