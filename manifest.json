@@ -1,6 +1,251 @@
 {
-  "updated": "2026-11-03T17:30:00+01:00",
+  "updated": "2026-11-04T06:13:38+01:00",
   "days": [
+    {
+      "date": "2026-11-04",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-04-us-midterms-demokraten-kongress",
+              "slug": "us-midterms-demokraten-kongress",
+              "title": "Demokraten erobern beide Kammern des US-Kongresses",
+              "date": "2026-11-04",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "kurz": "Die Demokraten gewinnen bei den Midterms laut Hochrechnungen Senat und Repräsentantenhaus.",
+              "summary": "Bei den US-Zwischenwahlen vom 3. November haben die Demokraten laut Projektionen von AP, NBC und CBS die Mehrheit im Senat und im Repräsentantenhaus geholt. Sie gewannen Senatssitze unter anderem in Texas, Ohio, Iowa, Kansas, North Carolina und South Carolina; im Repräsentantenhaus rechnet NBC mit mindestens 252 Sitzen. Die neuen Mehrheiten gelten ab Januar.",
+              "gegenstimme": "Republikaner und Trump führen die Niederlage darauf zurück, dass der Präsident nicht selbst zur Wahl stand; Midterms bestrafen traditionell die Regierungspartei. Trump erklärte, er werde das Resultat akzeptieren. Die Endergebnisse einzelner Rennen stehen noch aus.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/live/midterm-election-2026"
+                },
+                {
+                  "name": "NBC News",
+                  "url": "https://www.nbcnews.com/politics/2026-election/democrats-capture-full-control-congress-nbc-news-projects-fueled-victo-rcna607042"
+                },
+                {
+                  "name": "CBS News",
+                  "url": "https://www.cbsnews.com/news/senate-control-democrats-republicans-2026-midterm-elections/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-trump-militaerhilfe-israel-ende",
+              "slug": "trump-militaerhilfe-israel-ende",
+              "title": "Trump will US-Militärhilfe an Israel per Jahresende beenden",
+              "date": "2026-11-04",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "kurz": "Trump kündigt an, die jährlichen rund 4 Milliarden Dollar Militärhilfe für Israel Ende Jahr zu stoppen.",
+              "summary": "US-Präsident Trump hat am Wahltag erklärt, die USA würden die jährliche Militärhilfe an Israel von rund 4 Milliarden Dollar per Ende Jahr einstellen. Israel könne weiterhin US-Waffen kaufen. Das geltende Abkommen läuft eigentlich bis 2028.",
+              "gegenstimme": "Befürworter sehen darin einen Schritt zu mehr Eigenständigkeit Israels, was auch israelische Politiker schon gefordert hatten. Kritiker in beiden Parteien warnen vor einem Signal der Schwäche gegenüber Iran mitten im Konflikt.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/trump-israel-military-aid-hardware-5cad93330300b2d45a9665d5eccb2ab2"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/politics/trump-says-israel-stop-receiving-4b-us-aid-years-end-can-still-buy-weapons"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-sik-n-armeefonds-ohne-mwst",
+              "slug": "sik-n-armeefonds-ohne-mwst",
+              "title": "Sicherheitskommission will Armeefonds ohne Mehrwertsteuer",
+              "date": "2026-11-04",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🪖",
+              "edition": "morning",
+              "kurz": "Die SiK-N tritt mit 17 zu 8 auf einen 24-Milliarden-Fonds für Sicherheit ein, finanziert ohne höhere Mehrwertsteuer.",
+              "summary": "Die Sicherheitspolitische Kommission des Nationalrats will einen Fonds für Sicherheit und Verteidigung über 24 Milliarden Franken bis 2045 schaffen, ohne die Mehrwertsteuer zu erhöhen. Sie trat mit 17 zu 8 Stimmen darauf ein. Das Geld soll aus Kreditresten, Einsparungen bei der internationalen Zusammenarbeit, Mehrwertsteuer-Einnahmen und einem tieferen Kantonsanteil an der Bundessteuer kommen.",
+              "gegenstimme": "Die SP droht laut CH Media mit dem Referendum, weil Kürzungen bei der Entwicklungshilfe und den Kantonen die Aufrüstung bezahlen sollen. Kantone dürften sich gegen den tieferen Anteil an der Bundessteuer wehren; Befürworter halten eine Steuererhöhung für unnötig.",
+              "sources": [
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/suisse/2026/article/hausse-de-la-tva-pour-l-armee-une-commission-dit-non-29404706.html"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/kammer-der-uneinigkeit-sicherheitspolitiker-des-nationalrates-diskutieren-ueber-armee-milliarden-ld.10032453"
+                },
+                {
+                  "name": "Schweiz heute",
+                  "url": "https://www.schweizheute.ch/schweiz/artikel-ld.4260962"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-bundesrat-kein-staendemehr-bilaterale",
+              "slug": "bundesrat-kein-staendemehr-bilaterale",
+              "title": "Bundesrat bleibt beim Nein zum Ständemehr für EU-Verträge",
+              "date": "2026-11-04",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇪🇺",
+              "edition": "morning",
+              "kurz": "Der Bundesrat beantragt dem Ständerat, nicht auf die Verfassungsvorlage zum Ständemehr für die Bilateralen III einzutreten.",
+              "summary": "Der Bundesrat lehnt die Vorlage der Staatspolitischen Kommission des Ständerats ab, die für die Bilateralen III das doppelte Mehr von Volk und Ständen festschreiben will. Er beantragt Nichteintreten. Das Vertragspaket soll nur dem fakultativen Referendum unterstehen, bei dem das Volksmehr genügt.",
+              "gegenstimme": "SVP, Teile der FDP und der Mitte sowie Organisationen wie Kompass/Europa verlangen das Ständemehr, weil die Verträge die dynamische Übernahme von EU-Recht bringen und damit verfassungsähnliche Tragweite hätten. SP, Grüne und GLP stützen den Bundesrat.",
+              "sources": [
+                {
+                  "name": "Bundesrat",
+                  "url": "https://www.admin.ch/de/newnsb/RGXBxhwg1XgQNouQ96sHx"
+                },
+                {
+                  "name": "Fedlex",
+                  "url": "https://www.fedlex.admin.ch/eli/fga/2026/2174/de"
+                },
+                {
+                  "name": "Weltwoche (Einordnung)",
+                  "url": "https://weltwoche.ch/daily/bundesrat-lehnt-staendemehr-fuer-neue-eu-vertraege-weiterhin-ab/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-bern-sozialhilfe-2027",
+              "slug": "bern-sozialhilfe-2027",
+              "title": "Kanton Bern: Neue Sozialhilferegeln und höherer Grundbedarf ab 2027",
+              "date": "2026-11-04",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "morning",
+              "kurz": "Ab 2027 steigt im Kanton Bern der Grundbedarf in der Sozialhilfe um rund 2,5 Prozent, die Aufsicht wird verschärft.",
+              "summary": "Der Berner Regierungsrat hat die totalrevidierte Sozialhilfeverordnung verabschiedet; sie tritt mit dem neuen Gesetz am 1. Januar 2027 in Kraft. Der Grundbedarf steigt um rund 2,5 Prozent, für eine Einzelperson auf 1006 Franken im Monat. Die Mehrkosten von rund 17,5 Millionen Franken pro Jahr teilen sich Kanton und Gemeinden.",
+              "gegenstimme": "Bürgerliche Kritiker monieren, dass bezogene Sozialhilfe bei späterem eigenem Einkommen nicht mehr zurückgezahlt werden muss und die Kosten steigen. Linke und Sozialverbände halten die Anpassung bloss für einen Teuerungsausgleich.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/neue-spielregeln-in-der-bernischen-sozialhilfe-ab-2027/92318903"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/berner-sozialhilfe-grundbedarf-steigt-2027-um-2-5-prozent-116622302222"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-13-ahv-rente-auszahlung-dezember",
+              "slug": "13-ahv-rente-auszahlung-dezember",
+              "title": "13. AHV-Rente: 9,28 Milliarden fliessen im Dezember",
+              "date": "2026-11-04",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "💰",
+              "edition": "morning",
+              "kurz": "Fast 2,7 Millionen Rentnerinnen und Rentner erhalten im Dezember erstmals die 13. AHV-Rente.",
+              "summary": "Die AHV-Ausgleichskassen zahlen im Dezember 2026 insgesamt 9,28 Milliarden Franken aus, inklusive der erstmaligen 13. Altersrente. Fast 2,7 Millionen Pensionierte erhalten sie automatisch. Sie beträgt ein Zwölftel der 2026 bezogenen Altersrente.",
+              "gegenstimme": "Die Finanzierung ist nicht gesichert: Bürgerliche wie FDP-Nationalrat Cyril Aellen fordern statt der Mehrwertsteuer-Erhöhung eine Strukturreform. Bundesrätin Baume-Schneider verteidigt die Erhöhung um 0,4 Prozentpunkte.",
+              "sources": [
+                {
+                  "name": "Swissinfo / SDA",
+                  "url": "https://www.swissinfo.ch/ger/im-dezember-bekommen-fast-2%2c7-millionen-rentner-die-13%2e-ahv-rente/92320464"
+                },
+                {
+                  "name": "cash",
+                  "url": "https://www.cash.ch/news/im-dezember-bekommen-fast-27-millionen-rentner-die-13-ahv-rente-981984"
+                },
+                {
+                  "name": "BSV",
+                  "url": "https://www.bsv.admin.ch/de/abstimmung-13-ahv-rente"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-google-xcpe-botnetz-videostrong",
+              "slug": "google-xcpe-botnetz-videostrong",
+              "title": "Google zerschlägt Botnetz aus 1,3 Millionen Android-TV-Boxen",
+              "date": "2026-11-04",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "morning",
+              "kurz": "Google legt das Botnetz XCPE lahm und wirft dem chinesischen Hersteller Videostrong vor, die Malware absichtlich ab Werk eingebaut zu haben.",
+              "summary": "Googles Threat Intelligence Group hat mit Partnern, darunter Japans nationale Polizei, die Steuerserver des Botnetzes XCPE abgeschaltet. Betroffen waren über 1,3 Millionen Android-Geräte, vor allem TV-Set-Top-Boxen. Google wirft dem chinesischen Hersteller Videostrong vor, die Hintertür absichtlich als Geschäftsmodell betrieben zu haben, und entzieht ihm die Android-Zertifizierung.",
+              "gegenstimme": "Videostrong hat sich zu den Vorwürfen nicht geäussert. Sicherheitsforscher weisen darauf hin, dass billige Android-Boxen ohne Zertifizierung seit Jahren ab Werk verseucht sind und Googles Massnahmen nicht zertifizierte Geräte kaum erreichen.",
+              "sources": [
+                {
+                  "name": "Google Cloud",
+                  "url": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Google-legt-Botnetz-lahm-beschuldigt-Hersteller-von-Android-Set-Top-Boxen-11510056.html"
+                },
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-suse-stellenabbau-ki",
+              "slug": "suse-stellenabbau-ki",
+              "title": "SUSE streicht jede zehnte Stelle wegen KI",
+              "date": "2026-11-04",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🐧",
+              "edition": "morning",
+              "kurz": "Der Linux-Konzern SUSE baut rund 10 Prozent der Stellen ab und begründet dies mit Automatisierung und KI.",
+              "summary": "Das Open-Source-Unternehmen SUSE streicht weltweit rund 10 Prozent der Belegschaft, laut Berichten etwa 190 von 1900 Stellen. CEO Dirk-Peter van Leeuwen nennt in einer internen Mail Automatisierung und KI als Grund. Betroffene sollten bis 4. November informiert werden.",
+              "gegenstimme": "Beobachter vermuten hinter dem Verweis auf KI auch Kostendruck des Finanzinvestors EQT, dem SUSE gehört; noch im März gab es Verkaufsgerüchte. KI dient vielen Firmen derzeit als Begründung für Abbau, der auch andere Ursachen hat.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/en/news/Automation-and-AI-SUSE-cuts-one-in-10-jobs-11508646.html"
+                },
+                {
+                  "name": "The Register",
+                  "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-04-komyshuvakha-angriff-33-tote",
+              "slug": "komyshuvakha-angriff-33-tote",
+              "title": "Angriff auf Hilfszentrum in Saporischschja: Zahl der Toten steigt auf 33",
+              "date": "2026-11-04",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "kurz": "Nach dem russischen Angriff auf ein Hilfszentrum in Komyschuwacha sind mindestens 33 Menschen tot, Dutzende werden noch vermisst.",
+              "summary": "Die Zahl der Todesopfer nach dem russischen Bombenangriff auf eine ehemalige Schule in Komyschuwacha (Oblast Saporischschja), die als Hilfsgüter-Ausgabestelle diente, ist auf mindestens 33 gestiegen. Darunter sind vier Polizisten und zwei Retter. Laut Präsident Selenskyj könnten über 50 Menschen unter den Trümmern liegen.",
+              "gegenstimme": "Russland hat sich zum Angriff nicht konkret geäussert und gibt bei solchen Schlägen meist an, militärische Ziele getroffen zu haben. Belege für eine militärische Nutzung des Gebäudes wurden nicht vorgelegt.",
+              "sources": [
+                {
+                  "name": "Kyiv Independent",
+                  "url": "https://kyivindependent.com/exceptionally-horrific-strike-russian-bombs-strike-school-used-as-humanitarian-aid-center-in-zaporizhzhia-oblast-killing-24/"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/04/ukraine-war-briefing-dozens-trapped-komyshuvakha-russian-strikes"
+                },
+                {
+                  "name": "Meduza",
+                  "url": "https://meduza.io/en/feature/2026/11/03/russia-bombs-humanitarian-aid-distribution-site-in-southern-ukraine-killing-31-more-than-40-people-remain-missing"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-03",
       "editions": {
