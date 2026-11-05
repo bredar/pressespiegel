@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T06:18:25+01:00",
+  "updated": "2026-11-05T12:15:00+01:00",
   "days": [
     {
       "date": "2026-11-05",
@@ -309,6 +309,363 @@
                 {
                   "name": "The New Arab",
                   "url": "https://www.newarab.com/news/houthi-missile-attack-kills-dozens-military-camp-yemen"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-05-bombendrohungen-fluege-europa",
+              "slug": "bombendrohungen-fluege-europa",
+              "title": "Erneut Bombendrohungen gegen Flüge in Europa: Umleitungen und Kampfjet-Eskorten",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "international",
+              "icon": "✈️",
+              "edition": "midday",
+              "kurz": "Mindestens ein Dutzend Flüge betroffen, Sprengstoff wurde bisher keiner gefunden.",
+              "summary": "Am Donnerstagmorgen haben Bombendrohungen mehrere Flüge in Europa getroffen. Ein Aer-Lingus-Airbus von Dublin nach Rom landete mit 151 Passagieren und sechs Crewmitgliedern auf dem Militärflugplatz Évreux, ein Wizz-Air-Flug Mailand–Warschau wurde nach Wien umgeleitet, drei Ryanair-Flüge landeten ausserplanmässig in Bulgarien, ein Finnair-Flug nach Rom wurde von italienischen Kampfjets eskortiert. Laut tschechischer Polizei erhielten auch vier in Prag gelandete Flüge Drohungen.",
+              "gegenstimme": "Die britische Regierung sprach schon bei der ersten Welle am Dienstag von «bösartigen Scherzdrohungen». Wer vorschnell von einer koordinierten hybriden Kampagne spricht, eilt den Belegen voraus; umgekehrt sind die Kosten für Airlines und Behörden real, auch wenn nie Sprengstoff gefunden wird.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/europa-bombendrohung-gegen-mehrere-fluege-notlandungen-und-umleitungen"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/05/airbus-flug-dublinrom-nach-bombenalarm-umleitung-auf-luftstutzpunkt-in-nordfrankreich"
+                },
+                {
+                  "name": "DW",
+                  "url": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-bundesgericht-donzallaz-van-de-graaf-verhandlung",
+              "slug": "bundesgericht-donzallaz-van-de-graaf-verhandlung",
+              "title": "Liebesaffäre am Bundesgericht: Öffentliche Verhandlung mit heftigem Schlagabtausch",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Das Gericht klärt, ob die Bundesrichter Donzallaz und van de Graaf eine «dauernde Lebensgemeinschaft» führten.",
+              "summary": "Das Bundesgericht verhandelt seit Donnerstagvormittag in Lausanne öffentlich, ob die inzwischen beendete Beziehung der Bundesrichter Yves Donzallaz (parteilos) und Beatrice van de Graaf (SVP) eine «dauernde Lebensgemeinschaft» war. Anlass ist das Revisionsgesuch eines wegen versuchter vorsätzlicher Tötung Verurteilten, an dessen Urteil vom Mai van de Graaf mitwirkte. Ihr Anwalt verlangte den Ausstand aller Richter, Donzallaz warf dem Gericht vor, «seine Seele verloren» zu haben, und drohte mit dem Gang nach Strassburg.",
+              "gegenstimme": "Donzallaz und van de Graaf sehen ihre Persönlichkeitsrechte verletzt und halten die Affäre für aufgebauscht; solche Beziehungen seien in der Justiz nicht aussergewöhnlich. Donzallaz wirft zudem der «Weltwoche» und der SVP eine Kampagne vor. Die Gegenseite hält fest: Wer als Richterin mit einem Kollegen liiert ist, muss das offenlegen, sonst leidet das Vertrauen in die Urteile.",
+              "sources": [
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/liebesbeziehung%3a-parteiverhandlung-am-bundesgericht-er%c3%b6ffnet/92331930"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/van-de-graaf-donzallaz-heikle-beziehung-liebesaffaere-showdown-am-bundesgericht-103662055"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/donzallaz-und-van-de-graaf-liebesbeziehung-am-bundesgericht-urteil-mit-spannung-erwartet"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/liebesaffaere-am-bundesgericht-in-lausanne-laeuft-ein-historisches-revisionsverfahren-ld.10054014"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-efk-reservekraftwerke-ueberdimensioniert",
+              "slug": "efk-reservekraftwerke-ueberdimensioniert",
+              "title": "Finanzkontrolle: Röstis Reservekraftwerke sind überdimensioniert",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "⚡",
+              "edition": "midday",
+              "kurz": "Die EFK sieht bei den 2,3 Milliarden teuren Notkraftwerken 220 Millionen Sparpotenzial.",
+              "summary": "Die Eidgenössische Finanzkontrolle (EFK) kritisiert die vier geplanten Reservekraftwerke für die Jahre 2030 bis 2045 als zu gross. Die Elcom empfiehlt 500 Megawatt Mindestreserve, geplant sind 583; der Verzicht auf die 83 MW Überschuss spare rund 100 Millionen. Weitere rund 120 Millionen liessen sich sparen, wenn bestehende Notstromgruppen angerechnet würden. Die Beschaffung selbst beurteilt die EFK als insgesamt wirtschaftlich.",
+              "gegenstimme": "Bundesamt für Energie und Elcom widersprechen: Einzelne Projekte könnten scheitern oder sich verzögern, der Bedarf steige ab 2035, und Notstromgruppen seien rechtlich und betrieblich kein gleichwertiger Ersatz. Dass die Kraftwerke bei planmässigem Ausbau der Erneuerbaren überflüssig wären, setzt voraus, dass dieser Ausbau tatsächlich gelingt – genau dagegen sollen sie versichern.",
+              "sources": [
+                {
+                  "name": "EFK, Prüfbericht",
+                  "url": "https://www.efk.admin.ch/prufung/beschaffungspruefung-der-winterreserve/"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/ueberdimensioniert-und-unnoetig-teuer-die-finanzkontrolle-zerpflueckt-auch-albert-roestis-notkraftwerke-ld.10053223"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/stromreserve-im-winter-zweifel-an-geplanten-reservekraftwerken-werden-groesser"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/suisse/2026/article/facture-d-electricite-220-millions-payes-en-trop-en-suisse-29406469.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-bern-polizeigesetz-fahrzeugfahndung",
+              "slug": "bern-polizeigesetz-fahrzeugfahndung",
+              "title": "Kanton Bern will automatische Kontrollschild-Fahndung rasch wieder einschalten",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "bern",
+              "icon": "🚓",
+              "edition": "midday",
+              "kurz": "Eine gezielte Revision des Polizeigesetzes soll die Lücke nach dem Bundesgerichtsurteil schliessen.",
+              "summary": "Der Berner Regierungsrat hat dem Grossen Rat eine Teilrevision des Polizeigesetzes vorgelegt, damit die automatisierte Fahrzeugfahndung und Verkehrsüberwachung (AFV) wieder betrieben werden kann. Das Bundesgericht hatte im August zwei Bestimmungen aufgehoben und verlangt, dass Nicht-Treffer ausdrücklich unverzüglich gelöscht werden; bis dahin ist das System abgeschaltet. Die Vorlage regelt nur diese Löschung, nicht aber Bildaufnahmen oder die Auswertung von Nicht-Treffern.",
+              "gegenstimme": "Datenschützer und die Beschwerdeführer vor Bundesgericht sehen im massenhaften Scannen von Kontrollschildern einen Eingriff in die Privatsphäre aller Autofahrer. Die Regierung betont dagegen, die Abschaltung schwäche die Sicherheit, etwa bei organisierter Kriminalität und Entführungen.",
+              "sources": [
+                {
+                  "name": "Kanton Bern, Medienmitteilung",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=a3b3d25d-dc2f-4351-b1d6-46b7a73c9efa"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/berner-regierung-legt-nachgebessertes-polizeigesetz-vor/92331339"
+                },
+                {
+                  "name": "Bundesgericht, Urteil 1C_354/2024",
+                  "url": "https://www.bger.ch/files/live/sites/tfl/files/pdf/de/1c_0354_2024_yyyy_mm_dd_T_d_13_47_51.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-berner-jura-pferde-ahorn-myopathie",
+              "slug": "berner-jura-pferde-ahorn-myopathie",
+              "title": "25 Pferde im Jura und Berner Jura an Ahorn-Vergiftung gestorben",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "bern",
+              "icon": "🐴",
+              "edition": "midday",
+              "kurz": "Früchte des Bergahorns lösten eine ungewöhnlich starke Welle atypischer Myopathie aus.",
+              "summary": "Im Kanton Jura und im Berner Jura sind in den vergangenen Tagen 25 Pferde an atypischer Weidemyopathie gestorben, 15 weitere wurden notfallmässig in Kliniken behandelt. Ursache sind laut Züchtern und Fachleuten giftige Früchte des Bergahorns, die die Tiere auf der Weide frassen.",
+              "gegenstimme": "Tierärzte geben zu bedenken, dass die Krankheit seit Langem bekannt ist und Halter sie mit Weidemanagement weitgehend verhindern können. Die Forderung nach staatlicher Entschädigung stösst deshalb auf Skepsis; die Tierseuchenkasse zahlt nicht, weil die Krankheit nicht ansteckend ist.",
+              "sources": [
+                {
+                  "name": "Nau.ch / Keystone-SDA",
+                  "url": "https://www.nau.ch/news/schweiz/25-pferde-im-jura-sterben-wegen-giftiger-baum-fruchte-67196984"
+                },
+                {
+                  "name": "SRF Regionaljournal Bern",
+                  "url": "https://www.srf.ch/audio/regionaljournal-bern-freiburg-wallis/25-pferde-sterben-im-jura-wegen-giftigen-ahornsamen?id=AUDI20261105_NR_0051"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/leben/111195833-tote-pferde-auf-dem-zuchthof-im-jura-wegen-atypischer-weidemyopathie"
+                },
+                {
+                  "name": "Swiss Equestrian",
+                  "url": "https://swiss-equestrian.ch/news/atypische-weidemyopathie-erhoehtes-risiko-auf-schweizer-weiden"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-aiwanger-tot-berlin",
+              "slug": "aiwanger-tot-berlin",
+              "title": "Bayerns Vize-Regierungschef Hubert Aiwanger tot aufgefunden",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🕯️",
+              "edition": "midday",
+              "kurz": "Der Chef der Freien Wähler wurde 55 Jahre alt; die Berliner Mordkommission ermittelt routinemässig.",
+              "summary": "Hubert Aiwanger, stellvertretender Ministerpräsident und Wirtschaftsminister Bayerns sowie Bundesvorsitzender der Freien Wähler, ist am Mittwochabend tot in seinem Hotelzimmer in Berlin-Mitte gefunden worden. Staatsanwaltschaft und die 6. Mordkommission des LKA Berlin haben ein Todesermittlungsverfahren eingeleitet, um die Todesursache zu klären und Fremdverschulden auszuschliessen.",
+              "gegenstimme": "Vorschnelle Spekulationen in sozialen Medien über ein Verbrechen sind nicht gedeckt: Ein Todesermittlungsverfahren ist bei unklaren Todesfällen Routine. Umgekehrt ist auch eine natürliche Ursache bisher nicht amtlich bestätigt.",
+              "sources": [
+                {
+                  "name": "Polizei Berlin, Medienmitteilung",
+                  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735014.php"
+                },
+                {
+                  "name": "FAZ",
+                  "url": "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-tot-in-berliner-hotel-entdeckt-201653069.html"
+                },
+                {
+                  "name": "Süddeutsche Zeitung",
+                  "url": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-tot-bayern-freie-waehler-hotel-berlin-li.3574547"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-hegseth-impeachment-republikaner",
+              "slug": "hegseth-impeachment-republikaner",
+              "title": "Nach Midterm-Debakel: Republikaner wenden sich gegen Verteidigungsminister Hegseth",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "midday",
+              "kurz": "Thomas Massie will nächste Woche eine Amtsenthebungsabstimmung erzwingen, Trump stützt Hegseth.",
+              "summary": "Nach der schweren Niederlage bei den Zwischenwahlen machen viele Republikaner Verteidigungsminister Pete Hegseth für den Iran-Krieg verantwortlich. Der Abgeordnete Thomas Massie kündigte an, kommende Woche eine Abstimmung über ein Impeachment auszulösen; mehrere republikanische Quellen erwarten laut CNN, dass sie durchkommt. Vizepräsident JD Vance erklärte, «der Grund, warum wir verloren haben, ist der Krieg».",
+              "gegenstimme": "Trump verteidigt Hegseth («macht einen sehr guten Job») und den Krieg. Das Pentagon spricht von «Hexenjagden». Kritiker in der eigenen Partei wenden ein, Hegseth werde zum Sündenbock gemacht, obwohl der Präsident den Krieg beschlossen hat und die Niederlage laut Strategen auch andere Gründe hat, etwa die Teuerung.",
+              "sources": [
+                {
+                  "name": "CNN",
+                  "url": "https://www.cnn.com/2026/11/04/politics/pete-hegseth-impeachment-trump"
+                },
+                {
+                  "name": "Axios",
+                  "url": "https://www.axios.com/2026/11/05/hegseth-impeachment-midterms-trump"
+                },
+                {
+                  "name": "Washington Examiner",
+                  "url": "https://www.washingtonexaminer.com/news/house/4793550/thomas-massie-hegseth-impeachment-iran-war-used-as-blame-for-midterm-results/"
+                },
+                {
+                  "name": "USA Today",
+                  "url": "https://www.usatoday.com/story/news/politics/2026/11/04/impeachment-accusations-hegseth-trump-mcmahon-kennedy/92461205007/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-joshua-wong-zehn-jahre-haft",
+              "slug": "joshua-wong-zehn-jahre-haft",
+              "title": "Hongkong: Joshua Wong zu zehn Jahren Haft verurteilt",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🔒",
+              "edition": "midday",
+              "kurz": "Der Demokratie-Aktivist hatte sich der Verschwörung zur Kollusion mit ausländischen Kräften schuldig bekannt.",
+              "summary": "Ein Hongkonger Gericht hat den Aktivisten Joshua Wong am Donnerstag nach dem Nationalen Sicherheitsgesetz zu zehn weiteren Jahren Haft verurteilt. Wong hatte sich schuldig bekannt, sich mit Nathan Law und anderen verschworen zu haben, ausländische Sanktionen gegen China und Hongkong zu erwirken.",
+              "gegenstimme": "Peking und die Hongkonger Regierung sehen darin die Ahndung einer realen Gefährdung der nationalen Sicherheit und verbitten sich Einmischung. Menschenrechtsorganisationen und westliche Regierungen werten das Urteil als Bestrafung friedlicher politischer Arbeit; das Schuldbekenntnis fiel unter Haftbedingungen.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/hong-kong-joshua-wong-sentencing-national-security-f4b08dd23bab9912569e5cabd990c1ef"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cwp9g3rlp8jlo"
+                },
+                {
+                  "name": "RTHK",
+                  "url": "https://news.rthk.hk/rthk/en/component/k2/1876638-20261105.htm"
+                },
+                {
+                  "name": "South China Morning Post",
+                  "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373335/joshua-wong-jailed-10-years-over-bid-instigate-sanctions-beijing-hong-kong"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-eu-verbrenner-aus-aufweichung",
+              "slug": "eu-verbrenner-aus-aufweichung",
+              "title": "EU-Umweltausschuss stimmt für Aufweichung des Verbrenner-Aus",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🚙",
+              "edition": "midday",
+              "kurz": "Neuwagen mit Verbrennungs- und Hybridantrieb sollen auch nach 2035 verkauft werden dürfen.",
+              "summary": "Der Umweltausschuss des EU-Parlaments hat mit 48 zu 30 Stimmen bei zwei Enthaltungen für eine Lockerung der CO2-Flottenregeln gestimmt. Damit könnten Autohersteller auch nach 2035 neue Verbrenner und Hybridfahrzeuge verkaufen. Die entscheidende Abstimmung im Plenum ist für Mitte Dezember geplant.",
+              "gegenstimme": "Grüne und Umweltverbände kritisieren den Entscheid als Rückschritt beim Klimaschutz und als Investitionsunsicherheit für die Elektromobilität. Industrie und bürgerliche Parteien halten das starre Verbot für realitätsfern und eine Gefahr für Arbeitsplätze in der Zulieferindustrie.",
+              "sources": [
+                {
+                  "name": "FAZ / dpa",
+                  "url": "https://www.faz.net/agenturmeldungen/dpa/eu-abgeordnete-stimmen-fuer-aufweichung-des-verbrenner-aus-201652226.html"
+                },
+                {
+                  "name": "electrive",
+                  "url": "https://www.electrive.net/2026/11/05/eu-parlament-auch-umweltausschuss-stimmt-fuer-aufweichung-der-co2-regeln/"
+                },
+                {
+                  "name": "n-tv",
+                  "url": "https://www.n-tv.de/ticker/EU-Parlament-Verbrenner-Aus-2035-koennte-aufgeweicht-werden-id31495515.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-blutbanken-kuehlung-hackerangriff",
+              "slug": "blutbanken-kuehlung-hackerangriff",
+              "title": "Hacker nehmen Kühlräume des französischen Blutspendediensts ins Visier",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🩸",
+              "edition": "midday",
+              "kurz": "Die Angreifer wollten Kühlräume von minus 30 auf 110 Grad aufheizen; Blutprodukte blieben unversehrt.",
+              "summary": "In der Nacht auf den 2. November manipulierten Unbekannte über den Wartungsdienstleister Coolworld die Kühlsteuerung von drei Anlagen des französischen Blutspendediensts EFS; die Zieltemperatur wurde teils auf 110 Grad gesetzt. Ein Techniker im Bereitschaftsdienst bemerkte den Anstieg, das Blut wurde in nicht vernetzte Kühlschränke verlegt. Laut Gesundheitsministerium ist der Fernzugriff abgeschaltet und die Versorgung nicht beeinträchtigt.",
+              "gegenstimme": "Wer hinter den Angriffen steckt, ist offen. Fachleute mahnen, nicht reflexartig einen staatlichen Akteur zu vermuten: Viele der Geräte waren schlicht ungeschützt über das Internet erreichbar, die Verantwortung liegt auch bei Herstellern und Betreibern.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/hackerangriff-traf-neben-supermaerkten-auch-franzoesische-blutbanken-ld.10054326"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Nach-Gefriertruhen-Attacken-Jetzt-Blutbank-Kuehlung-im-Visier-11511444.html"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/hintergruende-unklar-hackerangriff-auf-kuehlsysteme-blutbanken-in-frankreich-betroffen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-rieter-ceo-bonus-streit",
+              "slug": "rieter-ceo-bonus-streit",
+              "title": "Rieter: Designierter CEO tritt wegen Bonus-Streit nicht an",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🧵",
+              "edition": "midday",
+              "kurz": "Statt Daniel Lippuner führt per sofort Georg Stausberg den Winterthurer Textilmaschinenbauer.",
+              "summary": "Der Textilmaschinenhersteller Rieter muss seinen CEO-Wechsel kurzfristig neu regeln. Der designierte Chef Daniel Lippuner tritt den Posten nicht an, weil seine zusätzlichen Vergütungs- und Bonusforderungen laut Verwaltungsrat nicht vereinbar waren; das Unternehmen spricht von «unüberbrückbaren Differenzen». Per 4. November übernimmt Georg Stausberg, bisher Chef der übernommenen Barmag.",
+              "gegenstimme": "Lippuners Sicht ist öffentlich nicht bekannt; die Darstellung stammt allein vom Unternehmen. Kritiker fragen zudem, wie es der Verwaltungsrat zuliess, einen CEO zu ernennen, bevor die Vergütung geregelt war.",
+              "sources": [
+                {
+                  "name": "Rieter, Medienmitteilung",
+                  "url": "https://www.rieter.com/fileadmin/user_upload/media/2026/2026-11-04/rieter-media-release-2026-11-04-de.pdf"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/unueberbrueckbare-differenzen-knall-bei-rieter-designierter-ceo-stolpert-ueber-bonus-streit"
+                },
+                {
+                  "name": "Bilanz",
+                  "url": "https://www.bilanz.ch/unternehmen/eklat-bei-rieter-neuer-ceo-nach-lohn-knatsch-wieder-weg/nqcyfhl"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/rieter-muss-ceo-wechsel-kurzfristig-neu-regeln-streit-um-bonus/92324344"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-05-denner-buendnerfleisch-paraguay",
+              "slug": "denner-buendnerfleisch-paraguay",
+              "title": "«Vo da Bündner Berga»: Denner-Bündnerfleisch stammt aus Südamerika",
+              "date": "2026-11-05",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🥩",
+              "edition": "midday",
+              "kurz": "Das Fleisch kommt aus Paraguay oder Uruguay; die Packung wird nach Kritik geändert.",
+              "summary": "Ein Bündnerfleisch der Marke Grischuna, das Denner in einer Aktion verkaufte, trägt den Schriftzug «Vo da Bündner Berga», obwohl das Fleisch je nach Packung aus Paraguay oder Uruguay stammt. Nach Recherchen von SRF «Espresso» nimmt die Herstellerin die Verpackung vom Markt; vorhandenes Material soll bis im ersten Quartal 2027 aufgebraucht werden.",
+              "gegenstimme": "Rechtlich ist das zulässig: «Bündnerfleisch» ist eine geschützte geografische Angabe für die Verarbeitung in Graubünden, nicht für die Herkunft des Rindes, und das Herkunftsland steht auf der Packung. Wer genauer hinschaut, wird also nicht getäuscht.",
+              "sources": [
+                {
+                  "name": "SRF Kassensturz/Espresso",
+                  "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/etikettenschwindel-fleisch-vo-da-buendner-berga-kommt-aus-paraguay"
+                },
+                {
+                  "name": "Beobachter",
+                  "url": "https://www.beobachter.ch/konsum/was-die-bundner-berga-mit-sudamerika-zu-tun-haben-949112"
                 }
               ]
             }
