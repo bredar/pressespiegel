@@ -1,6 +1,340 @@
 {
-  "updated": "2026-11-05T17:10:00+01:00",
+  "updated": "2026-11-06T06:30:00+01:00",
   "days": [
+    {
+      "date": "2026-11-06",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-06-roesti-co2-autoimporteure-2030",
+              "slug": "roesti-co2-autoimporteure-2030",
+              "title": "Rösti lockert CO2-Vorgaben für Autoimporteure ab 2030",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "morning",
+              "kurz": "Ab 2030 dürfen Importeure CO2-Ziele über drei Jahre ausgleichen; Lieferwagen-Zielwert steigt.",
+              "summary": "Der Bundesrat hat eine Revision des CO2-Gesetzes für Fahrzeuge ab 2030 in die Vernehmlassung geschickt. Personenwagen und Lieferwagen sollen die Flottenziele über drei Jahre im Durchschnitt erfüllen können; der Zielwert für leichte Nutzfahrzeuge steigt von 90,6 auf 108,7 Gramm CO2 pro Kilometer. Für schwere Nutzfahrzeuge werden die Vorgaben verschärft.",
+              "gegenstimme": "Klimaschützer und linke Parteien sehen darin eine weitere Entlastung der Autobranche unter Umweltminister Albert Rösti, dem früheren Auto-Schweiz-Präsidenten. Auto-Schweiz begrüsst die EU-Angleichung, hält die Erleichterungen aber für zu spät und fordert Entlastung schon vor 2030.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/weniger-sanktionen-roesti-aendert-co2-gesetz-zu-gunsten-der-autobranche"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/weniger-strafzahlungen-mehr-zeit-fuer-die-klimaziele-bundesrat-roesti-kommt-der-autobranche-entgegen-ld.10054318"
+                },
+                {
+                  "name": "Bundeskanzlei",
+                  "url": "https://www.bk.admin.ch/de/newnsb/w1hOn-Bt1k2J"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-st-gallen-moschee-auslandsfinanzierung",
+              "slug": "st-gallen-moschee-auslandsfinanzierung",
+              "title": "St. Gallen will Transparenz und Grenzen für ausländische Moschee-Gelder",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🕌",
+              "edition": "morning",
+              "kurz": "Regierung befürwortet Motion von Mitte und SVP zu Transparenz und Beschränkung fremdstaatlicher Finanzierung.",
+              "summary": "Die St. Galler Regierung beantragt die Gutheissung einer überparteilichen Motion von Die Mitte-EVP und SVP. Sie verlangt gesetzliche Transparenz über Geldflüsse an Gebetshäuser und Bildungseinrichtungen sowie Beschränkungen für ausländische, staatlich beeinflusste Geldgeber. Die genaue Ausgestaltung soll in einem breiten Gesetzesvorhaben erfolgen.",
+              "gegenstimme": "Befürworter sehen Schutz vor extremistischer Einflussnahme und Vertrauen für das Zusammenleben. Kritiker und Religionsgemeinschaften könnten Religionsfreiheit und Diskriminierung nicht anerkannter Gruppen geltend machen; der Bundesrat hatte ein ähnliches Nationalrats-Postulat abgelehnt und die Kompetenz bei den Kantonen gesehen.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/st.-galler-regierung-plant-regeln-f%C3%BCr-ausl%C3%A4ndische-moschee-gelder/92336804"
+                },
+                {
+                  "name": "Nau",
+                  "url": "https://www.nau.ch/politik/regional/st-galler-regierung-plant-regeln-fur-auslandische-moschee-gelder-67198814"
+                },
+                {
+                  "name": "Kantonsrat St.Gallen (Motion)",
+                  "url": "https://www.ratsinfo.sg.ch/media/documents/published/fb9156ac-e40c-4f79-a43b-5b9756d90054.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-tolhildan-gen-z-mafia-basel",
+              "slug": "tolhildan-gen-z-mafia-basel",
+              "title": "«Gen-Z-Mafia» Tolhildan: Fedpol bestätigt Aktivität und Dalton-Kooperation",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🔫",
+              "edition": "morning",
+              "kurz": "SRF Investigativ und Fedpol: kurdisch-türkische Gruppe in Basel mit Waffen, Kokain und Schutzgeld; Nähe zur PKK.",
+              "summary": "Eine Investigativrecherche von SRF beschreibt die Gruppierung Tolhildan als in der Region Basel aktive «Gen-Z-Mafia» mit Waffen- und Kokainhandel, Schutzgelderpressung und illegalem Glücksspiel. Die Bundeskriminalpolizei bestätigt die Erkenntnisse und die punktuelle Zusammenarbeit mit den in Deutschland aktiven Daltons. Mehrere Mitglieder stehen laut Recherche der PKK nahe; Konflikte mit Rivalen würden teilweise mit Schusswaffen ausgetragen.",
+              "gegenstimme": "Der mutmassliche Schweizer Anführer bestreitet gegenüber SRF kriminelle Aktivität und spricht von einer privaten Hochzeitsfeier. Ein Mediensprecher der Daltons weist sämtliche Vorwürfe zurück und bestreitet Aktivität in der Schweiz.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/jung-digital-skrupellos-gefaehrliche-gen-z-mafia-macht-basel-zum-hotspot"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/social-media/330488337-neue-mafia-gruppe-tolhildan-ist-in-basel-aktiv"
+                },
+                {
+                  "name": "Nau",
+                  "url": "https://www.nau.ch/news/schweiz/gen-z-mafia-lockt-junge-in-basel-in-die-unterwelt-67198353"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-paraguay-pena-ueno-bank-amtsenthebung",
+              "slug": "paraguay-pena-ueno-bank-amtsenthebung",
+              "title": "Paraguay: Kongress lehnt Peñas Rücktritt ab und treibt Amtsenthebung voran",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🏦",
+              "edition": "morning",
+              "kurz": "Nach Kollaps der Digitalbank Ueno ermittelt die Staatsanwaltschaft gegen den Präsidenten; Senat startet Verfahren.",
+              "summary": "Paraguays Präsident Santiago Peña hat seinen Rücktritt angeboten, nachdem die Digitalbank Ueno unter Zwangsverwaltung geriet. Beide Parlamentskammern lehnten den Rücktritt ab; der Senat leitete ein Amtsenthebungsverfahren ein. Die Generalstaatsanwaltschaft ordnete Untersuchungen zu Bankenaufsicht und öffentlichen Einlagen von rund 800 Millionen Dollar an.",
+              "gegenstimme": "Peña betont, er werde mit Ermittlern zusammenarbeiten und habe bis März 2025 Anteile an der Grupo Vázquez gehalten, ohne Verantwortung für den Bankkollaps zu übernehmen. Oppositionssenatoren wollen verhindern, dass er durch Rücktritt lebenslange Senatorenimmunität erhält.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/finanzskandal-in-paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren-103663083"
+                },
+                {
+                  "name": "FAZ",
+                  "url": "https://www.faz.net/aktuell/politik/ausland/bankenkrise-in-paraguay-praesident-santiago-pena-tritt-zurueck-accg-201653269.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-openai-gpt6-cyber-linux",
+              "slug": "openai-gpt6-cyber-linux",
+              "title": "OpenAI: GPT-6 Cyber findet 948 Linux-Rechteausweitungen und 81 Firefox-Lücken",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "morning",
+              "kurz": "Neues Cybersecurity-Modell mit «Critical»-Einstufung; Zugang nur für geprüfte Daybreak-Red-Kunden.",
+              "summary": "OpenAI hat GPT-6 Cyber vorgestellt, ein auf Schwachstellensuche und Exploit-Validierung trainiertes Modell. Es entwickelte laut OpenAI 948 funktionierende lokale Rechteausweitungs-Exploits im Linux-Kernel und fand 81 zuvor unbekannte High-Severity-Lücken in Firefox. Die Firma stuft das Modell im Preparedness Framework als «Critical» ein und beschränkt den Zugang auf genehmigte Daybreak-Red-Kunden.",
+              "gegenstimme": "Sicherheitsforscher begrüssen die Defensiv-Nutzung, warnen aber vor Missbrauch und vor der Senkung der Hürde für Zero-Day-Angriffe. OpenAI betont Alignment-Tests (99,93 Prozent Scope-Einhaltung ohne Prompt, 100 Prozent mit Prompt) und zusätzliche Sperren für kritische Infrastruktur.",
+              "sources": [
+                {
+                  "name": "OpenAI",
+                  "url": "https://openai.com/index/introducing-gpt-6-cyber"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514280.html"
+                },
+                {
+                  "name": "Axios",
+                  "url": "https://www.axios.com/2026/11/05/openai-linux-cyber-model"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-ukraine-alle-kraftwerke-beschaedigt",
+              "slug": "ukraine-alle-kraftwerke-beschaedigt",
+              "title": "Selenskyj: Jedes ukrainische Kraftwerk durch russische Angriffe beschädigt",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "international",
+              "icon": "⚡",
+              "edition": "morning",
+              "kurz": "In Madrid bittet der Präsident Spanien und Lateinamerika um Transformatoren, Kabel und Generatoren.",
+              "summary": "Präsident Wolodymyr Selenskyj erklärte am 5. November am Iberoamerika-Gipfel in Madrid, jedes Kraftwerk in der Ukraine sei durch russische Raketen- und Drohnenangriffe auf die eine oder andere Weise beschädigt worden. Er bat Unternehmen in Spanien und Lateinamerika um dringende Lieferungen von Transformatoren, Kabeln sowie Diesel- und Gasgeneratoren, auch für Anlagen, die den Betrieb von Kernkraftwerken stützen.",
+              "gegenstimme": "Moskau stellt die Angriffe als Schläge gegen Militär- und Energieinfrastruktur dar, die der ukrainischen Kriegsführung diene. Europäische Staaten fürchten zugleich, dass US-Präsident Trump nach einem Treffen mit dem Putin-Gesandten Kirill Dmitrijew auf einen für Kiew ungünstigen Deal drängt.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help"
+                },
+                {
+                  "name": "NV Ukraine",
+                  "url": "https://english.nv.ua/nation/no-ukrainian-power-plant-left-undamaged-by-russian-attacks-50656781.html"
+                },
+                {
+                  "name": "Yahoo/AFP",
+                  "url": "https://www.yahoo.com/news/world/articles/every-ukrainian-power-plant-damaged-182700340.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-trump-iran-entscheidung-nach-midterms",
+              "slug": "trump-iran-entscheidung-nach-midterms",
+              "title": "Trump: Entscheidung über weitere Iran-Schläge kommt «bald»",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "⚔️",
+              "edition": "morning",
+              "kurz": "Nach Sicherheitsrunde drei Optionen: neue Angriffe, Wirtschaftskurs oder Deal; CENTCOM bereitet sich vor.",
+              "summary": "US-Präsident Donald Trump sagte nach einer Sitzung mit seinem nationalen Sicherheitsteam, er werde bald entscheiden, ob die USA weitere Schläge gegen den Iran führen. Er erwäge Angriffe, wirtschaftlichen Druck oder einen Deal mit Zugeständnissen und sagte, er wolle den Rest des Landes lieber nicht zerstören, müsse es aber vielleicht. Parallel vermitteln Katar und andere Staaten einen Stufenplan zu Blockade, Hormus und IAEA-Inspektionen.",
+              "gegenstimme": "Teheran verknüpft Verhandlungen mit sieben Vorbedingungen und hält Hormus geschlossen, bis diese erfüllt sind. Europäische und regionale Akteure fürchten eine Eskalation, die Ölpreise und Schifffahrt erneut erschüttert; in den USA setzen Demokraten nach den Midterms auf stärkere Kontrolle der Kriegsführung.",
+              "sources": [
+                {
+                  "name": "Axios",
+                  "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
+                },
+                {
+                  "name": "Anadolu Agency",
+                  "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-frankreich-proteste-448-festnahmen",
+              "slug": "frankreich-proteste-448-festnahmen",
+              "title": "Frankreich: 448 Festnahmen bei Gewerkschaftsprotest, 53 Polizisten verletzt",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "international",
+              "icon": "✊",
+              "edition": "morning",
+              "kurz": "Innenministerium zählt über 575'000 Teilnehmende; CGT spricht von 1,6 Millionen; Schulen und Brandstiftungen betroffen.",
+              "summary": "Am nationalen Protesttag der Gewerkschaften am 5. November demonstrierten laut Innenministerium über 575'000 Menschen für höhere Löhne und Kaufkraft; die CGT nannte 1,6 Millionen. Die vorläufige Bilanz: 448 Festnahmen, 53 verletzte Polizisten und 86 Brandstiftungen. In mehreren Städten griffen laut Ministerium radikale und linksextreme Gruppen Einsatzkräfte mit Wurfgeschossen und Feuerwerk an; an Schulen gab es schwere Sachschäden und Verletzte.",
+              "gegenstimme": "Gewerkschaften sehen «beispiellosen sozialen Abstieg» und fordern rasche Lohnerhöhungen, unter anderem 100 Euro netto mehr Mindestlohn. Premier Sébastien Lecornu kündigte für Montag eine Sozialkonferenz an. Rechte und Polizeigewerkschaften fordern härtere Gangart gegen gewalttätige Randgruppen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/protesttag-der-gewerkschaften-hunderttausende-demonstrieren-friedlich-doch-auch-wieder-gewalt"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/frankreich-448-festnahmen-bei-landesweiten-protesten-a-92701070-d4b8-45b2-9926-831a7fc1b88f"
+                },
+                {
+                  "name": "Anadolu Agency",
+                  "url": "https://www.aa.com.tr/en/europe/france-reports-448-arrests-as-53-police-officers-injured-in-protests/4113559"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-nasdaq-ki-crash-nach-midterms",
+              "slug": "nasdaq-ki-crash-nach-midterms",
+              "title": "Nasdaq verliert 5,5 Prozent: KI- und Datencenter-Angst nach Midterms",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "morning",
+              "kurz": "Magnificent Seven büssen rund eine Billion Dollar ein; Asien folgt mit Kurseinbrüchen bei Chipwerten.",
+              "summary": "Der Nasdaq Composite fiel am 5. November um mehr als 5,5 Prozent und rutschte in Korrekturterritorium; S&P 500 verlor rund 4,4 und der Dow rund 3,4 Prozent. Auslöser waren Sorgen vor schärferer KI- und Datencenter-Regulierung nach dem Sieg der Demokraten. Die «Magnificent Seven» verloren laut CNBC zusammen rund eine Billion Dollar an Börsenwert; Nvidia allein über 400 Milliarden.",
+              "gegenstimme": "Demokraten und Senator Bernie Sanders fordern Moratorien für Datencenter und stärkere KI-Aufsicht; Trump gibt den Demokraten die Schuld am Kursrutsch. Tech-Führungskräfte wie OpenAI-Präsident Greg Brockman räumen ein, die lokale Gegenwehr gegen Datencenter unterschätzt zu haben.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cmn04705rd8jo"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/fr/story/apres-les-midterms-sept-geants-de-la-tech-perdent-800-milliards-en-un-jour-103663081"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-newsom-todesstrafe-kalifornien",
+              "slug": "newsom-todesstrafe-kalifornien",
+              "title": "Newsom wandelt alle 548 Todesurteile in Kalifornien in lebenslange Haft um",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "morning",
+              "kurz": "Scheidender Gouverneur: staatlich sanktioniertes Töten unvereinbar mit kalifornischen Werten.",
+              "summary": "Der kalifornische Gouverneur Gavin Newsom hat angekündigt, alle 548 Todesurteile des Bundesstaats in lebenslange Haft ohne vorzeitige Entlassung umzuwandeln. Damit verbleibt niemand mehr im Todestrakt Kaliforniens. Newsom begründet den Schritt wenige Wochen vor dem Ende seiner Amtszeit damit, staatlich sanktioniertes Töten untergrabe Gerechtigkeit und Menschenwürde.",
+              "gegenstimme": "Opferfamilien und Befürworter der Todesstrafe kritisieren den Schritt als Missachtung richterlicher Urteile und schmerzhafte Relativierung schwerster Verbrechen. Newsom räumte ein, die Entscheidung gehöre zu den schwierigsten seiner Karriere und werde bei Angehörigen schmerzhafte Erinnerungen wecken.",
+              "sources": [
+                {
+                  "name": "Gouverneur Kalifornien",
+                  "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/kalifornien-gouverneur-gavin-newsom-wandelt-alle-548-todesurteile-im-staat-in-haftstrafen-um-a-80a34222-12f8-431f-93ee-55fbf0b9df2c"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/kaliforniens-gouverneur-gavin-newsom-begnadigt-548-todeskandidaten-103663079"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-anthropic-895-milliarden-rechenleistung",
+              "slug": "anthropic-895-milliarden-rechenleistung",
+              "title": "Anthropic meldet 895 Milliarden Dollar an Rechen- und Datencenter-Verpflichtungen",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "☁️",
+              "edition": "morning",
+              "kurz": "IPO-Nachtrag: rund 70 Milliarden innerhalb eines Jahres fällig; Q3 wieder mit operativem Verlust.",
+              "summary": "Im geänderten IPO-Filing beziffert Anthropic Kauf- und Mietverpflichtungen auf rund 895,4 Milliarden Dollar, fast ausschliesslich für Rechenleistung und Datencenter. Etwa 70 Milliarden davon werden innerhalb von zwölf Monaten fällig; knapp 450 Milliarden bis Ende 2030. Grösste Partner laut Filing: Broadcom (rund 161 Mrd.), Google (rund 121 Mrd.), SpaceX-KI (bis 120,5 Mrd.) und Amazon (110 Mrd.).",
+              "gegenstimme": "Optimisten sehen die Summe als Beleg für enorme Claude-Nachfrage vor dem Börsengang. Skeptiker verweisen auf den operativen Quartalsverlust von 567 Millionen Dollar nach einem kurzen Gewinnquartal und darauf, dass die Verpflichtungen das Cash-Polster von rund 132 Milliarden um ein Vielfaches übersteigen.",
+              "sources": [
+                {
+                  "name": "Yahoo Finance",
+                  "url": "https://finance.yahoo.com/markets/article/anthropics-new-ipo-filing-puts-its-computing-bill-near-900-billion-151830444.html"
+                },
+                {
+                  "name": "Data Center Dynamics",
+                  "url": "https://www.datacenterdynamics.com/en/news/anthropic-s-1-update-reveals-8954bn-in-cloud-and-data-center-commitments/"
+                },
+                {
+                  "name": "SEC (S-1/A)",
+                  "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-iran-mousavi-todesurteil-x-posts",
+              "slug": "iran-mousavi-todesurteil-x-posts",
+              "title": "Iran: Aktivist Amirhossein Mousavi wegen X-Posts zum Tode verurteilt",
+              "date": "2026-11-06",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "morning",
+              "kurz": "Revolutionsgericht Teheran: «Korruption auf Erden» plus fünf Jahre wegen Beleidigung religiöser Heiligtümer.",
+              "summary": "Das Revolutionsgericht in Teheran hat den Online-Aktivisten Amirhossein Mousavi zum Tode verurteilt. Laut Anwalt Reza Shafakhah bezieht sich das Urteil wegen «Korruption auf Erden» auf seine Beiträge auf X unter dem Namen «James Bidin» bzw. «James Bedin»; zusätzlich wurden fünf Jahre Haft wegen Beleidigung religiöser Heiligtümer verhängt. Menschenrechtsgruppen und der Anwalt sprechen von politischer Verfolgung von Online-Dissens.",
+              "gegenstimme": "Iranische Behörden stellen solche Urteile als Strafverfolgung von Staats- und Religionsbeleidigung dar. Internationale Beobachter sehen darin Abschreckung gegen Regimekritik im Netz; die Familie und Aktivistinnen wie Masih Alinejad fordern die Aussetzung der Hinrichtung.",
+              "sources": [
+                {
+                  "name": "Iran International",
+                  "url": "https://www.iranintl.com/en/202611045468"
+                },
+                {
+                  "name": "Iran Human Rights",
+                  "url": "https://iranhr.net/en/articles/9180/"
+                },
+                {
+                  "name": "Khaleej Times",
+                  "url": "https://www.khaleejtimes.com/world/mena/iran-sentences-to-death-activist-over-posts-on-x-lawyer-rights-groups-2"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-05",
       "editions": {
