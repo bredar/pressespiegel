@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T06:30:00+01:00",
+  "updated": "2026-11-06T12:15:00+01:00",
   "days": [
     {
       "date": "2026-11-06",
@@ -328,6 +328,310 @@
                 {
                   "name": "Khaleej Times",
                   "url": "https://www.khaleejtimes.com/world/mena/iran-sentences-to-death-activist-over-posts-on-x-lawyer-rights-groups-2"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-06-sem-italien-dublin-ueberstellungen",
+              "slug": "sem-italien-dublin-ueberstellungen",
+              "title": "SEM: Italien sagt schriftlich Asyl-Überstellungen zu",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🛂",
+              "edition": "midday",
+              "kurz": "Italienische Migrationsbehörde will Dublin-Fälle wieder prüfen; erste Transfers in Tagen oder Wochen geplant.",
+              "summary": "Das Staatssekretariat für Migration bereitet erneut Dublin-Überstellungen von Asylsuchenden nach Italien vor. Ende Oktober hat die italienische Migrationsbehörde schriftlich zugesichert, Gesuche unvoreingenommen zu prüfen – also nicht nur die Zuständigkeit, sondern auch die eigentliche Überstellung. SEM-Kommunikationschef Daniel Bach sagte, die ersten Transfers sollen in den kommenden Tagen oder Wochen stattfinden.",
+              "gegenstimme": "Kritiker erinnern daran, dass Italien im August trotz Zusagen Transfers durch Interventionen bei Airlines verhinderte und seit Ende 2022 über 4000 fällige Übernahmen ablehnte. Ob Rom diesmal hält, bleibt offen; das SEM will sonst erneut in Brüssel und Rom intervenieren. Italien fokussiert laut SEM auf Einreisen nach Inkrafttreten des EU-Asylpakts Mitte Juni 2026.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/asylstreit-italien-schweiz-italien-blockierte-asyl-ueberstellungen-doch-gelobt-nun-besserung"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/eng/foreign-affairs/italy-guarantees-switzerland-that-it-will-examine-dublin-cases/92337360"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-bundesgericht-donzallaz-van-de-graaf",
+              "slug": "bundesgericht-donzallaz-van-de-graaf",
+              "title": "Bundesgericht: Beziehung Donzallaz–van de Graaf war unzulässig",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Einstimmiges Piloturteil: dauernde Lebensgemeinschaft verstösst gegen Unvereinbarkeit; Wiederwahl im Dezember offen.",
+              "summary": "Das Bundesgericht hat in öffentlicher Beratung einstimmig entschieden, dass die Beziehung zwischen Yves Donzallaz und Beatrice van de Graaf eine unzulässige dauernde Lebensgemeinschaft war. Ein Pilot-Revisionsgesuch eines wegen versuchter Tötung Verurteilten wurde gutgeheissen; 13 weitere Gesuche stehen an. Die Gerichtskommission des Parlaments hat bereits ein Verfahren zur Nichtwiederwahl eröffnet.",
+              "gegenstimme": "Donzallaz sieht sich als Opfer einer politischen Abrechnung der SVP und einer medialen Vorverurteilung durch die «Weltwoche». Er behauptet, das Gericht habe den Fall vor der Verhandlung bereits entschieden. Die NZZ und SRF-Korrespondentin beschreiben hingegen eine institutionelle Krise durch Indiskretionen und Zerstrittenheit am höchsten Gericht.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/liebesaffaere-am-bundesgericht-urteil-gefaellt-beziehung-von-bundesrichtern-war-unzulaessig"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/verbotene-liebe-eindeutiges-urteil-zur-verheimlichten-beziehung-der-bundesrichter-donzallaz-und-van-de-graaf-ld.10055393"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-roesti-berlin-rheintalbahn",
+              "slug": "roesti-berlin-rheintalbahn",
+              "title": "Rösti in Berlin: Rheintalbahn-Vollsperrungen 2027–2030 im Fokus",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🚆",
+              "edition": "midday",
+              "kurz": "Erstes Treffen mit Verkehrsminister Bilger; Bauarbeiten Karlsruhe–Basel betreffen Güter- und Personenverkehr.",
+              "summary": "Bundesrat Albert Rösti trifft am 6. November in Berlin erstmals den deutschen Verkehrsminister Steffen Bilger sowie Verkehrsausschuss-Chef Tarek Al-Wazir. Im Zentrum stehen grenzüberschreitender Bahnverkehr und die Rheintalbahn zwischen Karlsruhe und Basel, wo 2027 bis 2030 Bauarbeiten mit Einschränkungen und mehrwöchigen Vollsperrungen geplant sind. Weitere Themen sind Rheinschifffahrt und eine Rahmenvereinbarung zum Leasing von Luftfahrzeugen.",
+              "gegenstimme": "Für Verlader und KMU auf der Nord-Süd-Achse sind Ausweichrouten über Strasse, Rhein oder Frankreich/Österreich teurer und knapper; Leitgrad mahnt frühzeitige Planung mit Spediteuren. Konkrete Sperrtermine nennt die UVEK-Mitteilung nicht – die Unsicherheit bleibt damit hoch.",
+              "sources": [
+                {
+                  "name": "BAV/UVEK",
+                  "url": "https://www.bav.admin.ch/de/newnsb/2Nc4cHVXsDEk"
+                },
+                {
+                  "name": "Leitgrad",
+                  "url": "https://www.leitgrad.ch/rheintalbahn-ab-2027-wochenlang-zu-roesti-verhandelt-heute-in-berlin/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-seco-arbeitsmarkt-oktober-2026",
+              "slug": "seco-arbeitsmarkt-oktober-2026",
+              "title": "Arbeitslosigkeit im Oktober bei 3,0 Prozent – 141'015 Personen",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "midday",
+              "kurz": "Plus 535 gegenüber September; saisonbereinigt leichter Rückgang; Kurzarbeit seit Jahresbeginn stark gesunken.",
+              "summary": "Ende Oktober waren in der Schweiz 141'015 Personen arbeitslos gemeldet, 535 mehr als im September (+0,4 Prozent). Die Arbeitslosenquote blieb bei 3,0 Prozent; saisonbereinigt sank die Zahl leicht auf 145'949 bei einer Quote von 3,1 Prozent. Gegenüber dem Vorjahr stieg die Arbeitslosigkeit um 5803 Personen (+4,3 Prozent).",
+              "gegenstimme": "SECO-Direktor Jérôme Cosandey spricht von einem «Stillstand» seit sechs Monaten und erwartet für 2027 nur eine leichte Verbesserung auf durchschnittlich 3,0 Prozent. Offene Stellen sanken monatsweise um 8,5 Prozent auf 40'462 – Cosandey warnt aber, die RAV-Statistik erfasse nur einen Teil der Ausschreibungen.",
+              "sources": [
+                {
+                  "name": "SECO",
+                  "url": "https://www.seco.admin.ch/de/newnsb/UuA5YIwSJ2xh"
+                },
+                {
+                  "name": "cash.ch",
+                  "url": "https://www.cash.ch/news/arbeitslosigkeit-in-der-schweiz-stabilisiert-sich-im-oktober-weiter-982788"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-online-plattformen-recycling-motion",
+              "slug": "online-plattformen-recycling-motion",
+              "title": "Bundesrat will ausländische Online-Plattformen an Recycling beteiligen",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "♻️",
+              "edition": "midday",
+              "kurz": "Zustimmung zu Urek-N-Motion: vorgezogene Gebühren und mögliche Schweizer Vertretungspflicht.",
+              "summary": "Der Bundesrat befürwortet eine Motion der Nationalrats-Umweltkommission (Urek-N), wonach ausländische Online-Handelsplattformen Entsorgung und Recycling von in der Schweiz verkauften Waren mitfinanzieren sollen. Heute entziehen sich viele Plattformen den vorgezogenen Gebühren, weil sie rechtlich als Vermittler gelten. Als Nächstes entscheidet der Nationalrat.",
+              "gegenstimme": "Plattformbetreiber dürften die Pflicht als Handelshemmnis und Zusatzkosten sehen; eine Schweizer Vertretungspflicht wäre organisatorisch aufwendig. Schweizer Händler und Umweltverbände begrüssen dagegen die Gleichbehandlung. Eine Begründung für die Bundesratszustimmung fehlt in der Mitteilung.",
+              "sources": [
+                {
+                  "name": "Nau",
+                  "url": "https://www.nau.ch/politik/bundeshaus/auslandische-online-handelsplattformen-sollen-recycling-mitbezahlen-67198513"
+                },
+                {
+                  "name": "Plattform J",
+                  "url": "https://www.plattformj.ch/artikel/248232/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-bern-falscher-polizist-elfenau",
+              "slug": "bern-falscher-polizist-elfenau",
+              "title": "Bern: «Falscher Polizist» bei Geldübergabe in Elfenau festgenommen",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🚔",
+              "edition": "midday",
+              "kurz": "20-Jähriger holte Bargeld einer älteren Frau ab; Untersuchungshaft, Verdacht auf Bande.",
+              "summary": "Die Kantonspolizei Bern hat am 30. Oktober in der Elfenau einen 20-jährigen Mann festgenommen, der kurz zuvor Bargeld einer älteren Frau abgeholt hatte. Die Frau war telefonisch von einem angeblichen «Ermittlungsdienst» angewiesen worden, Geld abzuheben und bereitzustellen. Der Beschuldigte sitzt in Untersuchungshaft; die Wirtschaftsstaatsanwaltschaft ermittelt wegen Verdachts auf Bandenzugehörigkeit.",
+              "gegenstimme": "Opferhilfestellen und Polizei betonen, dass solche Anrufe oft auf Schweizerdeutsch erfolgen und Verunsicherung gezielt ausnutzen. Gleichzeitig bleibt unklar, wie gross die mutmassliche Bande ist und ob weitere Festnahmen folgen – die Polizei nennt dazu keine Zahlen.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=bff2a0aa-77a4-43ec-87ec-12805d7991b2"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/polizei-nimmt-in-der-stadt-bern-falschen-polizisten-fest/92327578"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-bern-online-anzeige-sexualisierte-gewalt",
+              "slug": "bern-online-anzeige-sexualisierte-gewalt",
+              "title": "Kanton Bern: Online-Anzeige bei sexualisierter Gewalt möglich",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "📱",
+              "edition": "midday",
+              "kurz": "Neues Formular auf Suisse ePolice gilt als Strafanzeige; bei Vorfällen unter 72 Stunden weiter Telefon empfohlen.",
+              "summary": "Betroffene von sexualisierter Gewalt können im Kanton Bern seit Anfang November über Suisse ePolice online Anzeige erstatten. Die Eingabe wird per SMS bestätigt; eine Fachperson der Kantonspolizei meldet sich während der Bürozeiten telefonisch. Bei Ereignissen unter 72 Stunden empfiehlt die Polizei weiterhin das Kontakttelefon 031 332 77 77 für Spurensicherung und medizinische Sofortmassnahmen.",
+              "gegenstimme": "Opferorganisationen begrüssen den niederschwelligen Zugang, warnen aber, dass Online-Formulare persönliche Gespräche und Krisenintervention nicht ersetzen. Bei akuter Gefahr bleiben 112/117 massgebend; die Polizei selbst betont, das Formular sei Ergänzung, nicht Ersatz.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=f6493436-aa07-4a00-af2b-349e0df602b5"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/berner-polizei-ermoeglicht-online-anzeigen-bei-sexualisierter-gewalt/92320798"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-bondi-eva-geller-gestorben",
+              "slug": "bondi-eva-geller-gestorben",
+              "title": "Bondi-Anschlag: Holocaust-Überlebende Eva Geller (90) gestorben",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🕯️",
+              "edition": "midday",
+              "kurz": "Schussverletzungen vom 14. Dezember 2025; Opferzahl steigt auf 16; Attentäter islamistisch motiviert.",
+              "summary": "Die 90-jährige Holocaust-Überlebende Eva Geller ist in einem Sydneyer Spital an den Folgen von Schussverletzungen gestorben, die sie beim Terroranschlag vom 14. Dezember 2025 auf eine Chanukka-Feier am Bondi Beach erlitten hatte. Die Opferzahl des Anschlags steigt damit auf 16. Premierminister Anthony Albanese nannte die Tat einen Akt von Terror und Antisemitismus.",
+              "gegenstimme": "Die Royal Commission zu Antisemitismus soll am 18. Dezember berichten; jüdische Gemeinden fordern härtere Massnahmen gegen islamistischen Extremismus und Antisemitismus. NSW Police prüft mit dem Coroner, ob der Tod zu weiteren Anklagen gegen den überlebenden mutmasslichen Attentäter Naveed Akram führt.",
+              "sources": [
+                {
+                  "name": "ABC News",
+                  "url": "https://www.abc.net.au/news/2026-11-06/bondi-terror-attack-survivor-elderly-woman-dies-in-hospital/107355644"
+                },
+                {
+                  "name": "Sydney Morning Herald",
+                  "url": "https://www.smh.com.au/national/nsw/bondi-beach-shooting-victim-dies-in-hospital-20261106-p61c1w.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-melania-oleshky-waffenruhe",
+              "slug": "melania-oleshky-waffenruhe",
+              "title": "Melania Trump empfängt Russland und Ukraine nach Oleshky-Waffenruhe",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "midday",
+              "kurz": "Sechstägige lokale Waffenruhe ermöglichte Evakuierung von rund 800 Zivilisten; Trump trifft nur Putins Gesandten.",
+              "summary": "US-First Lady Melania Trump hat am 5. November im Weissen Haus russische und ukrainische Vertreter empfangen, nachdem eine sechstägige lokale Waffenruhe um das besetzte Oleshky (Cherson) rund 800 Zivilisten die Evakuierung und Hilfslieferungen ermöglicht hatte. Beide Seiten schrieben ihr eine Schlüsselrolle zu. Präsident Trump traf separat den Putin-Gesandten Kirill Dmitrijew, nicht aber die ukrainische Delegation, und sprach von einem «grossen Abkommen», das ganz Europa betreffen könne.",
+              "gegenstimme": "Selenskyj sagte, der Erfolg zeige: Wenn Putin das Feuer einstellen wolle, höre es auf. BBC-Quellen und ukrainische Analysten sehen Putins Kalkül auch als Wahlkampfhilfe für Trump; gleichzeitig gingen russische Angriffe auf den Rest der Ukraine weiter, darunter ein Schlag auf ein Hilfszentrum in Saporischschja mit über 40 Toten.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c9p8g085mz07o"
+                },
+                {
+                  "name": "White House",
+                  "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-vance-iran-krieg-midterms",
+              "slug": "vance-iran-krieg-midterms",
+              "title": "Vance: Iran-Krieg war Hauptgrund für republikanische Midterm-Niederlage",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "midday",
+              "kurz": "Vizepräsident distanziert sich öffentlich; Trump nennt Aussage «weitgehend wahr», würde aber gleich entscheiden.",
+              "summary": "US-Vizepräsident JD Vance hat den Krieg gegen den Iran als Hauptgrund für die schwere republikanische Niederlage bei den Midterms vom 3. November bezeichnet. Viele Trump-/Vance-Wähler von 2024 hätten 2026 Demokraten gewählt, wütend über den Krieg, Lebenshaltungskosten und das Verhältnis zu Israel. Präsident Trump nannte Vances Analyse «weitgehend wahr», sagte aber, er hätte beim Iran nichts anders gemacht.",
+              "gegenstimme": "Trump-Loyalisten werfen Vance vor, sich für 2028 vom Präsidenten abzusetzen. Kriegsbefürworter halten die Eskalation für nötig, um Irans Nuklearprogramm zu stoppen. Ölpreise fielen nach Vances Post um über acht Prozent – Märkte lesen weniger Eskalationsrisiko.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cq9vz9de7yelo"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/vance-iran-war-trump-midterm-elections-a1a0f2a2373f80442dde2b04b9d4d2b3"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-fbi-cisa-kuehltechnik-cyber",
+              "slug": "fbi-cisa-kuehltechnik-cyber",
+              "title": "FBI und CISA warnen vor Cyberangriffen auf Kühlanlagen",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🧊",
+              "edition": "midday",
+              "kurz": "Angriffe auf Temperatursteuerung in Lebensmittel- und Blutlagern; Vorfälle in Europa mit bis zu 50 °C.",
+              "summary": "FBI, CISA sowie US-Behörden für Gesundheit, Landwirtschaft und Verkehr warnen vor laufenden Cyberangriffen auf industrielle Kühl- und Cold-Chain-Steuerungen. Angreifer ändern Temperaturen oder erzwingen Abtauzyklen und können Lebensmittel vernichten sowie Blutprodukte gefährden. In Europa waren Hunderte Supermärkte und drei französische Blut-Einrichtungen betroffen; Organisationen sollen Controller vom öffentlichen Internet nehmen.",
+              "gegenstimme": "Kritiker fragen, warum kritische Kühltechnik überhaupt internetfähig ist. Hersteller und Betreiber verweisen auf Fernwartung und Effizienz; Sicherheitsforscher fordern Netzsegmentierung und sichere Defaults statt nur Warnungen.",
+              "sources": [
+                {
+                  "name": "BleepingComputer",
+                  "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/"
+                },
+                {
+                  "name": "IC3/FBI Advisory",
+                  "url": "https://www.ic3.gov/CSA/2026/261105.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-openssh-sshole-musl",
+              "slug": "openssh-sshole-musl",
+              "title": "OpenSSH-Lücke «*sshole»: Login ohne Passwort auf musl-Systemen",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🐧",
+              "edition": "midday",
+              "kurz": "Lange Passworteingabe knackt Konten ohne Passwort-Hash; Alpine und OpenWrt betroffen; Patch 10.6p2.",
+              "summary": "Sicherheitsforscher Özgün Kültekin hat die Lücke «*sshole» veröffentlicht: Auf Linux-Systemen mit musl-Libc und OpenSSH ohne PAM kann eine Passworteingabe von 257–1024 Zeichen Konten übernehmen, deren Shadow-Eintrag «*» ist. Betroffen sind unter anderem Alpine Linux, OpenWrt, Buildroot und Yocto. OpenSSH 10.6p2 patcht das Problem; Angreifer scannen laut Forschern bereits aktiv.",
+              "gegenstimme": "Debian, Ubuntu und Fedora in Standardkonfiguration sind laut Berichten nicht betroffen, weil sie PAM und glibc nutzen. Kritiker sehen das als Warnung vor exotischen Minimal-Setups in Cloud- und IoT-Images; OpenSSH betont, die Ursache liege eher in musl als in sshd.",
+              "sources": [
+                {
+                  "name": "Golem",
+                  "url": "https://www.golem.de/news/fehler-bei-passwortpruefung-angreifer-koennen-ueber-openssh-linux-konten-kapern-2611-214928.html"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-busunfall-ain-lent",
+              "slug": "busunfall-ain-lent",
+              "title": "Frankreich: Schulbus-Unglück bei Lent – zwei Tote nahe der Schweiz",
+              "date": "2026-11-06",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🚌",
+              "edition": "midday",
+              "kurz": "43 Personen, davon 15 Minderjährige; Bus kam von der Strasse ab und prallte gegen Baum.",
+              "summary": "Bei Lent im französischen Département Ain ist am Freitagmorgen ein Linienbus mit 43 Personen, darunter 15 Minderjährige, von der Strasse abgekommen und gegen einen Baum geprallt. Ein Minderjähriger und ein junger Erwachsener starben; drei Personen sind in kritischem Zustand, 13 leicht verletzt. Der Unfallort liegt rund 55–60 Kilometer südlich der Schweizer Grenze.",
+              "gegenstimme": "Ursache und mögliche Mitbeteiligung weiterer Fahrzeuge sind ungeklärt; der verletzte Fahrer konnte laut Staatsanwaltschaft noch nicht einvernommen werden. Bildungsminister Geffray und Verkehrsminister Tabarot reisten an – Opposition und lokale Stimmen fordern rasche Aufklärung der Strecken- und Fahrzeugsicherheit.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cmly00l4p3lwo"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/frankreich-zwei-tote-und-mehrere-schwerverletzte-bei-car-unfall-103663198"
                 }
               ]
             }
