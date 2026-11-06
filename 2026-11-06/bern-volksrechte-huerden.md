@@ -15,7 +15,7 @@ sources_json: '[{"name": "Stadt Bern", "url": "https://www.bern.ch/mediencenter/
 Mehrere Stadtratsmitglieder hatten die 12-Jahres-Limite bislang mit einem «Buebetrickli» umgangen: Kurz vor Ablauf traten sie zurück und kandidierten bei Gesamterneuerungswahlen erneut als Nicht-Amtierende. Die Revision soll dieses Schlupfloch schliessen und redaktionell geschlechtergerechte Sprache nachziehen. Die tieferen Quoren gehen auf Vorstösse aus dem Stadtrat zurück, darunter Forderungen nach längeren Sammelfristen für Initiativen.
 
 ## Was jetzt?
-Die öffentliche Vernehmlassung dauert vom 6. November 2026 bis 15. Januar 2027. Unterlagen liegen unter bern.ch/vernehmlassungen-gemeinderat. Danach entscheidet der Stadtrat über die Gemeindeordnungsänderung. Erst nach der Vernehmlassung und dem Stadtratsbeschluss wäre eine Volksabstimmung über die Gemeindeordnung möglich.
+Die öffentliche Vernehmlassung dauert vom 6. November 2026 bis 15. Januar 2027. Unterlagen liegen unter bern.ch/vernehmlassungen-gemeinderat bereit. Danach entscheidet der Stadtrat über die Gemeindeordnungsänderung. Erst nach der Vernehmlassung und dem Stadtratsbeschluss wäre eine Volksabstimmung über die Gemeindeordnung möglich.
 
 ## Faktencheck
 Gesichert: Alle Quoren, Fristen und das Amtszeit-Thema laut Medienmitteilung der Stadt Bern vom 6. November, bestätigt durch Keystone-SDA/Swissinfo. Ob mehr Initiativen folgen, bleibt spekulativ.
