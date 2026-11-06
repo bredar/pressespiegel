@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T12:15:00+01:00",
+  "updated": "2026-11-06T17:15:00+01:00",
   "days": [
     {
       "date": "2026-11-06",
@@ -632,6 +632,295 @@
                 {
                   "name": "20 Minuten",
                   "url": "https://www.20min.ch/story/frankreich-zwei-tote-und-mehrere-schwerverletzte-bei-car-unfall-103663198"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:15",
+          "articles": [
+            {
+              "id": "2026-11-06-thun-fans-gummischrot",
+              "slug": "thun-fans-gummischrot",
+              "title": "Thun: Fans prügeln sich nach Conference-League-Spiel – Gummischrot",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🥊",
+              "edition": "evening",
+              "kurz": "Rund 35 Personen in der Marktgasse; Kapo Bern setzt Gummischrot und Reizstoff ein, eine Person angehalten.",
+              "summary": "Nach dem Conference-League-Spiel FC Thun gegen Heart of Midlothian kam es am Donnerstagabend kurz vor 22.40 Uhr in der Thuner Marktgasse zu tätlichen Auseinandersetzungen zwischen Fans. Laut Kantonspolizei Bern waren rund 35 Personen beteiligt; Einsatzkräfte trennten die Gruppen mit Gummischrot und Reizstoff. Eine Person wurde angehalten und auf die Wache gebracht; Ermittlungen laufen.",
+              "gegenstimme": "Fan-Vertreter könnten den Polizeieinsatz als unverhältnismässig kritisieren, solange Verletztenzahlen und Anlass der Schlägerei unklar bleiben. Gleichzeitig zeigt der zweite Gummischroteinsatz im Kanton Bern binnen einer Woche (nach Halloween in Bern), dass die Kapo bei Gruppentätlichkeiten rasch zu Zwangsmitteln greift.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html"
+                },
+                {
+                  "name": "Nau",
+                  "url": "https://www.nau.ch/ort/thun/thun-fans-prugeln-sich-nach-spiel-polizei-setzt-gummischrot-ein-67199026"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/polizei-muss-fussballfans-in-thun-mit-gummischrot-trennen/92339687"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-ferienwoche-lernende-wbk",
+              "slug": "ferienwoche-lernende-wbk",
+              "title": "WBK-S gegen sechste Ferienwoche für Lernende",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "📚",
+              "edition": "evening",
+              "kurz": "Kommission beantragt mit 7 zu 4 Ablehnung der Motion Wasserfallen; Ständerat entscheidet als Nächstes.",
+              "summary": "Die Kommission für Wissenschaft, Bildung und Kultur des Ständerates (WBK-S) beantragt mit 7 zu 4 Stimmen bei einer Enthaltung, die Motion von SP-Ständerätin Flavia Wasserfallen für sechs Ferienwochen in der Lehre abzulehnen. Die Mehrheit sieht darin einen unnötigen Eingriff in die Verantwortung der Lehrbetriebe; auch der Bundesrat will ein Nein. Der Ständerat entscheidet voraussichtlich am 14. Dezember.",
+              "gegenstimme": "Travail.Suisse und Syna nennen den Entscheid eine verpasste Chance: Nur rund 25 Prozent der Betriebe gewährten mehr als die gesetzlichen fünf Wochen. Die Minderheit der WBK-S sieht sechs Wochen als Bekenntnis zur Berufsbildung und zur psychischen Gesundheit der Lernenden.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/motion-abgelehnt-staenderatskommission-gegen-sechste-ferienwoche-fuer-lernende"
+                },
+                {
+                  "name": "Nau",
+                  "url": "https://www.nau.ch/politik/bundeshaus/standeratskommission-gegen-sechste-ferienwoche-fur-lernende-67199019"
+                },
+                {
+                  "name": "Arbeitgeberverband",
+                  "url": "https://www.arbeitgeber.ch/bildung/staenderaetliche-kommission-setzt-in-der-berufsbildung-auf-vielfalt-statt-auf-regulierung/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-expo-foerdergesetz-wbk",
+              "slug": "expo-foerdergesetz-wbk",
+              "title": "WBK-S knappes Ja zu Expo-Fördergesetz mit bis 30 Prozent Bund",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "evening",
+              "kurz": "Stichentscheid von Präsident Michel; Kommission streicht Verbot, vor 2035 Planungsbeschluss zu beantragen.",
+              "summary": "Die WBK-S empfiehlt mit Stichentscheid von Präsident Matthias Michel (FDP/ZG) ein Ja zum neuen Fördergesetz für Landesausstellungen. Mit 8 zu 4 Stimmen unterstützt sie eine mögliche Bundesbeteiligung von bis zu 30 Prozent der Kosten. Das vom Bundesrat vorgesehene Verbot, vor 2035 einen Planungsbeschluss zu beantragen, lehnt die Kommission mit 6 zu 5 Stimmen und einer Enthaltung ab.",
+              "gegenstimme": "Gegner sehen keinen Bedarf für ein neues Gesetz und mahnen aus finanzpolitischen Gründen zur Zurückhaltung; eine Minderheit will am Aufschub bis nach 2035 festhalten. Eine andere Minderheit fordert bis zu 50 Prozent Bundesanteil, um Kantone und Gemeinden zu entlasten.",
+              "sources": [
+                {
+                  "name": "Nau",
+                  "url": "https://www.nau.ch/politik/bundeshaus/knappstes-ja-zu-finanzieller-beteiligung-des-bundes-an-einer-expo-67199014"
+                },
+                {
+                  "name": "Plattform J",
+                  "url": "https://www.plattformj.ch/artikel/211632/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-digitale-abhaengigkeiten-sik",
+              "slug": "digitale-abhaengigkeiten-sik",
+              "title": "SiK-N: Digitale Abhängigkeiten bei kritischen Staatsaufgaben senken",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🔐",
+              "edition": "evening",
+              "kurz": "Motion 26.4717 mit 16 zu 5 angenommen; Vergabekriterien sollen KI- und Infrastruktur-Risiken erfassen.",
+              "summary": "Die Sicherheitspolitische Kommission des Nationalrats verlangt mit Motion 26.4717, Risiken technologischer, operativer und rechtlicher Abhängigkeiten systematisch in Vergabekriterien für kritische digitale Infrastrukturen und KI-Dienste aufzunehmen. Die Motion passierte mit 16 zu 5 Stimmen bei zwei Enthaltungen; der Nationalrat dürfte sie in der Wintersession behandeln. Als Beispiel nennt die Kommission die vorübergehende Sperre fortschrittlicher Anthropic-Modelle auf US-Anordnung im Sommer 2026.",
+              "gegenstimme": "Kritiker warnen vor Protektionismus und höheren Beschaffungskosten, wenn Schweizer oder «souveräne» Alternativen priorisiert würden. Die Kommission betont ausdrücklich, weder Protektionismus noch absolute technologische Souveränität anzustreben, sondern Kontinuität und Reversibilität der Daten.",
+              "sources": [
+                {
+                  "name": "SwissCybersecurity.net",
+                  "url": "https://www.swisscybersecurity.net/news/2026-11-06/politiker-wollen-weniger-digitale-abhaengigkeiten-fuer-kritische-staatsaufgaben"
+                },
+                {
+                  "name": "Inside IT",
+                  "url": "https://www.inside-it.ch/bundesrat-soll-digitale-abhaengigkeiten-minimieren-20261104"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-autoversicherung-praemien-2027",
+              "slug": "autoversicherung-praemien-2027",
+              "title": "Comparis: Autoversicherungsprämien dürften 2027 weiter steigen",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "🚗",
+              "edition": "evening",
+              "kurz": "Seit 2021 plus rund 19 Prozent; Treiber Reparaturen, Ersatzteile und Hagelschäden.",
+              "summary": "Laut einer Comparis-Befragung unter Schweizer Autoversicherern dürften die Prämien 2027 weiter steigen. Der Comparis-Womo-Preisindex zeigt seit August 2021 einen Anstieg von rund 19 Prozent, allein im letzten Jahr mehr als 7 Prozent. Einzelne Versicherer planen bereits Aufschläge für Bestandskunden; Treiber sind teurere Reparaturen und Ersatzteile sowie Naturereignisse wie der Hagel Ende August 2026.",
+              "gegenstimme": "Die Mobiliar will keine generelle Erhöhung des bestehenden Portfolios; Anpassungen nur bei Neuabschlüssen und Vertragsänderungen. AXA und Allianz machen aus Kartellgründen keine Angaben. Comparis betont, nicht jeder Vertrag sei gleich betroffen – Wechsel und Sonderkündigungsrecht bei allgemeinen Erhöhungen können Kosten dämpfen.",
+              "sources": [
+                {
+                  "name": "Comparis",
+                  "url": "https://www.presseportal.ch/de/pm/100003671/100943414"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/autoversicherung-2027-praemien-koennten-laut-comparis-erneut-steigen-103662050"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-bern-fahrzeugfahndung-afv",
+              "slug": "bern-fahrzeugfahndung-afv",
+              "title": "Kanton Bern: Teilrevision soll automatische Fahrzeugfahndung wieder starten",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🚔",
+              "edition": "evening",
+              "kurz": "Nach Bundesgerichtsurteil vom August; Nicht-Treffer müssen unverzüglich gelöscht werden; Grosser Rat Frühling 2027.",
+              "summary": "Die Sicherheitsdirektion des Kantons Bern hat dem Grossen Rat eine gezielte Teilrevision des Polizeigesetzes vorgelegt, damit die automatisierte Fahrzeugfahndung und Verkehrsüberwachung (AFV) wieder laufen kann. Das Bundesgericht hatte die AFV im August 2026 grundsätzlich für verfassungskonform erklärt, aber Bestimmungen zu Nicht-Treffer-Speicherung und Bildern bei Treffern aufgehoben. Bis zur neuen Löschregel darf die AFV laut Gericht nicht betrieben werden.",
+              "gegenstimme": "Datenschutzseitig bleibt umstritten, dass Bildaufnahmen bei Treffern und die Auswertung von Nicht-Treffern erst in einer späteren Revision geregelt werden sollen. Sicherheitsdirektor Philippe Müller (FDP) hatte vor dem Ausserbetriebnehmen vor einer Sicherheitslücke bei schweren Delikten gewarnt.",
+              "sources": [
+                {
+                  "name": "Kanton Bern",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=a3b3d25d-dc2f-4351-b1d6-46b7a73c9efa"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/berner-regierung-legt-nachgebessertes-polizeigesetz-vor/92331339"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-bern-volksrechte-huerden",
+              "slug": "bern-volksrechte-huerden",
+              "title": "Stadt Bern senkt Hürden für Initiativen und Referenden",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🗳️",
+              "edition": "evening",
+              "kurz": "Initiativen: 4000 statt 5000 Unterschriften, Sammelfrist neun statt sechs Monate; Vernehmlassung bis 15.1.2027.",
+              "summary": "Der Gemeinderat der Stadt Bern hat eine Teilrevision der Gemeindeordnung in die Vernehmlassung geschickt. Für Initiativen sinkt das Quorum von 5000 auf 4000 Unterschriften, die Sammelfrist steigt von sechs auf neun Monate. Bei fakultativen Referenden sinkt das Quorum von 1500 auf 1200 Unterschriften bei unveränderten 60 Tagen. Zudem soll die 12-jährige Amtszeitbeschränkung im Stadtrat nicht mehr umgehbar sein.",
+              "gegenstimme": "Tiefere Quoren erleichtern Volksbegehren, können aber die Verwaltung und den Stadtrat mit mehr Abstimmungen belasten. Befürworter sehen darin eine Stärkung der städtischen Demokratie; die Änderungen gehen auf Vorstösse aus dem Stadtrat zurück.",
+              "sources": [
+                {
+                  "name": "Stadt Bern",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/vernehmlassung-zur-teilrevision-der-gemeindeordnung"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/stadt-bern-will-h%C3%BCrden-f%C3%BCr-initiativen-und-referenden-senken/92338219"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-swiss-flug-lx632-geruch",
+              "slug": "swiss-flug-lx632-geruch",
+              "title": "Swiss-Flug LX632 nach Paris kehrt wegen Geruch nach Zürich um",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "✈️",
+              "edition": "evening",
+              "kurz": "Airbus A321 mit 151 Passagieren; Crew meldet aussergewöhnlichen Geruch in Cockpit und Kabine; niemand verletzt.",
+              "summary": "Der Swiss-Flug LX632 von Zürich nach Paris musste am Freitagmorgen wegen eines «aussergewöhnlichen Geruchs» im Cockpit und im vorderen Kabinenteil nach Zürich zurückkehren. Die Maschine startete um 06.29 Uhr, drehte über dem Jura ab und landete um 07.18 Uhr wieder in Zürich. Swiss betont, es habe nicht gebrannt; die 151 Passagiere blieben unverletzt und werden umgebucht.",
+              "gegenstimme": "Solche Umkehrungen sind Sicherheitsroutine, können aber bei Passagieren den Eindruck technischer Mängel erwecken, solange die Ursache offen ist. Die Untersuchung muss klären, ob es sich um Kabinenluft, Technik oder einen anderen Geruchsträger handelte.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/wieder-in-zuerich-gelandet-aussergewoehnlicher-geruch-swiss-flug-nach-paris-muss-umdrehen"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/lx632-zuerich-statt-paris-seltsamer-geruch-zwingt-swiss-flug-zur-umkehr-103663169"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-abu-dhabi-ukraine-russland",
+              "slug": "abu-dhabi-ukraine-russland",
+              "title": "Witkoff: Dreiergespräche USA–Ukraine–Russland am 10./11. November in Abu Dhabi",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "evening",
+              "kurz": "Themen: Nachkriegssicherheit, Deeskalation, Humanitäres; parallel EU/NATO-Gespräche in Brüssel.",
+              "summary": "US-Sondergesandter Steve Witkoff hat Dreiergespräche mit Vertretern der USA, der Ukraine und Russlands für den 10. und 11. November in Abu Dhabi angekündigt. Auf der Agenda stehen Sicherheitsvereinbarungen für die Zeit nach dem Krieg, Deeskalation, humanitäre Massnahmen und nächste Schritte zum Frieden. Es wäre das erste Treffen in diesem Format seit Februar; zuvor hatten die USA den Fokus wegen des Iran-Kriegs verlagert.",
+              "gegenstimme": "In Kiew und bei europäischen Partnern wächst die Sorge, Trump nähere sich Moskau an, während Russland Angriffe auf Energieanlagen fortsetzt. Selenskyj verlangt eine stärkere Einbindung Europas; ob Abu Dhabi mehr als Vertrauensbildung bringt, ist offen.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html"
+                },
+                {
+                  "name": "ZDF",
+                  "url": "https://www.zdfheute.de/politik/ausland/usa-witkoff-verhandlungen-ukraine-krieg-russland-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-trump-iran-drei-optionen",
+              "slug": "trump-iran-drei-optionen",
+              "title": "Trump nach Midterms: Drei Iran-Optionen – Entscheidung «bald»",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "international",
+              "icon": "⚔️",
+              "edition": "evening",
+              "kurz": "Neue Schläge, Wirtschaftsdruck oder Deal; Katar vermittelt Stufenplan, CENTCOM bereitet Operationen vor.",
+              "summary": "Nach dem Treffen mit seinem nationalen Sicherheitsteam sagte US-Präsident Trump, er werde bald entscheiden, ob die USA den Iran-Krieg mit neuen Schlägen fortsetzen. Auf dem Tisch liegen drei Optionen: erneute Militärschläge, anhaltender wirtschaftlicher Druck inklusive Seeblockade oder ein Deal mit Zugeständnissen. Parallel vermittelt Katar einen Stufenplan; CENTCOM bereitet mögliche Grossoperationen vor, hat aber noch keine neue Weisung.",
+              "gegenstimme": "Diplomatische Quellen sehen in Katars Entwurf eine Chance zur Deeskalation; Hardliner warnen, ein Deal mit Freigabe eingefrorener Gelder und Aufhebung der Blockade belohne Teheran, ohne das Nuklearprogramm zu stoppen. Iran nennt sieben Bedingungen und will ohne deren Erfüllung weder Hormus öffnen noch verhandeln.",
+              "sources": [
+                {
+                  "name": "Axios",
+                  "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision"
+                },
+                {
+                  "name": "CBS News",
+                  "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-google-codemender-agenten",
+              "slug": "google-codemender-agenten",
+              "title": "Google Cloud schärft Sicherheitsgrenzen für KI-Agenten CodeMender",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "evening",
+              "kurz": "Sandbox für Exploit-Tests, Human-in-the-Loop, Auth Manager allgemein verfügbar; Preview bleibt.",
+              "summary": "Google Cloud hat am Security Summit neue Kontrollen für den KI-Sicherheitsagenten CodeMender vorgestellt: Schwachstellenprüfung und Exploit-Simulation laufen in Sandbox oder isolierter VM, lokale Schreibzugriffe und Befehle brauchen menschliche Freigabe. Scans können auf Ordner, ganzes Repository oder nur geänderte Dateien begrenzt werden. Auth Manager für Agenten-Identitäten ist allgemein verfügbar; CodeMender bleibt in der Preview.",
+              "gegenstimme": "Sicherheitsforscher begrüssen Isolation und Freigaben, warnen aber, dass autonome Patch-Agenten bei Fehlern selbst neue Risiken erzeugen können. Google betont Human Oversight; unabhängige Audits der Patch-Qualität stehen aus.",
+              "sources": [
+                {
+                  "name": "Google Cloud",
+                  "url": "https://cloud.google.com/blog/products/identity-security/helping-you-build-and-defend-at-machine-speed-in-the-agentic-era"
+                },
+                {
+                  "name": "Help Net Security",
+                  "url": "https://www.helpnetsecurity.com/2026/11/05/google-cloud-ai-agents-security-controls/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-pahlavi-freiheitspreis-frankfurt",
+              "slug": "pahlavi-freiheitspreis-frankfurt",
+              "title": "Frankfurt: Reza Pahlavi nimmt Freiheitspreis für Iraner entgegen",
+              "date": "2026-11-06",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🗽",
+              "edition": "evening",
+              "kurz": "Naumann-Stiftung ehrt am 7. November das iranische Volk; bis 30'000 Menschen im Ostpark erwartet.",
+              "summary": "Die Friedrich-Naumann-Stiftung verleiht am 7. November in der Frankfurter Paulskirche den Freiheitspreis 2026 dem iranischen Volk; Reza Pahlavi nimmt ihn treuhänderisch entgegen. Die Stiftung ehrt den Widerstand gegen das Regime; bis zu 30'000 Teilnehmende werden später im Ostpark erwartet. Exil-Iranerinnen und -Iraner aus ganz Europa reisen an; die Stadt rechnet mit Verkehrsbehinderungen.",
+              "gegenstimme": "Linke und kurdische Stimmen im Frankfurter Stadtparlament kritisieren, Pahlavi habe sich nicht glaubwürdig von Verbrechen unter dem Schah-Regime distanziert. Bürgermeister Nils Kössler (CDU) betont, Pahlavi sei bei Sturz seines Vaters 18 gewesen und trete für Rechtsstaat und Demokratie ein.",
+              "sources": [
+                {
+                  "name": "Friedrich-Naumann-Stiftung",
+                  "url": "https://www.freiheit.org/pressemitteilung/iranian-people-receive-2026-freedom-prize"
+                },
+                {
+                  "name": "Frankfurter Rundschau",
+                  "url": "https://www.fr.de/frankfurt/30-000-menschen-erwartet-reza-pahlavi-erhaelt-freiheitspreis-in-der-paulskirche-94577826.html"
                 }
               ]
             }
