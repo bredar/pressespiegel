@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T06:30:00+01:00",
+  "updated": "2026-11-07T12:15:00+01:00",
   "days": [
     {
       "date": "2026-11-07",
@@ -347,6 +347,303 @@
                 {
                   "name": "Ballotpedia",
                   "url": "https://ballotpedia.org/Washington_Initiative_638,_Sex_Verification_Requirements_for_Female_School_Sports_Initiative_(2026)"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-07-kriegsmaterialgesetz-arena-parmelin",
+              "slug": "kriegsmaterialgesetz-arena-parmelin",
+              "title": "Kriegsmaterialgesetz: Parmelin wirbt in der Arena für Ja am 29. November",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🛡️",
+              "edition": "midday",
+              "kurz": "Bundespräsident verteidigt Lockerung der Exportregeln; SP spricht von «Anti-Ukraine-Gesetz». Abstimmung am 29. November.",
+              "summary": "In der SRF-«Abstimmungs-Arena» vom Freitagabend warb Bundespräsident Guy Parmelin für die Änderung des Kriegsmaterialgesetzes. Neu dürften Partnerstaaten Kriegsmaterial auch im bewaffneten Konflikt erhalten, sofern Neutralität und Interessen der Schweiz gewahrt bleiben. SP-Co-Präsidentin Mattea Meyer nannte die Vorlage ein «Anti-Ukraine-Gesetz»; die Stimmbevölkerung entscheidet am 29. November.",
+              "gegenstimme": "Befürworter wie Swissmem und GLP betonen, ohne Exportfähigkeit verlagere die Rüstungsindustrie Produktion ins Ausland und die Schweiz werde bei Beschaffungen nicht mehr beliefert. Gegner von Links-Grün und Amnesty warnen vor Kontrollverlust und Waffen bei Unrechtsregimen – die Ukraine profitiere explizit nicht.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/abstimmungs-arena-soll-das-kriegsmaterialgesetz-gelockert-werden"
+                },
+                {
+                  "name": "SECO",
+                  "url": "https://www.seco.admin.ch/de/abstimmung-kmg"
+                },
+                {
+                  "name": "Nau",
+                  "url": "https://www.nau.ch/politik/bundeshaus/arena-soll-das-kriegsmaterialgesetz-geandert-werden-67198629"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-chikungunya-tessin-weckruf",
+              "slug": "chikungunya-tessin-weckruf",
+              "title": "Chikungunya im Tessin: Kantonsarzt spricht von Weckruf für die Schweiz",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🦟",
+              "edition": "midday",
+              "kurz": "Vier lokal übertragene Fälle nahe Bellinzona; aktuelles Risiko gering, Vorbereitung auf nächste Saison nötig.",
+              "summary": "Im Tessin wurden vier lokal übertragene Chikungunya-Fälle bestätigt, alle im Raum Magadinoebene/Bellinzona. Kantonsarzt Giorgio Merlani sagt im Keystone-SDA-Gespräch, die Gefahr sei derzeit gering – Winter und Mückenbekämpfung helfen –, die Fälle seien aber ein Weckruf. Bisher wurde keine Tigermücke im Tessin positiv auf das Virus getestet.",
+              "gegenstimme": "Gesundheitsbehörden und BAG setzen auf Überwachung und Larvenbekämpfung; Kritiker fordern früher und flächendeckender Bundesmittel gegen die Tigermücke, statt erst zu reagieren, wenn lokale Cluster da sind. Merlani hält Dengue für künftig gefährlicher als Chikungunya.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/%22die-chikungunya-f%c3%a4lle-im-tessin-sind-ein-weckruf-f%c3%bcr-die-schweiz%22/92343000"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/uebertragung-durch-tigermuecke-chikungunya-virus-erreicht-die-schweiz-erste-faelle-im-tessin"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/tessin-chikungunya-fieber-vier-infizierte-leben-im-selben-quartier-103662307"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-seco-konsumentenstimmung-oktober",
+              "slug": "seco-konsumentenstimmung-oktober",
+              "title": "Konsumentenstimmung fällt auf −45 Punkte – tiefster Stand seit November 2023",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "midday",
+              "kurz": "SECO-Index im Oktober acht Punkte unter Vorjahr; Haushalte schieben grosse Anschaffungen auf.",
+              "summary": "Der SECO-Index der Konsumentenstimmung lag im Oktober 2026 bei −44,9 Punkten (−45 gerundet), acht Punkte unter dem Vorjahreswert (−36,9). Besonders verschlechtert haben sich die Einschätzung der vergangenen und erwarteten finanziellen Lage sowie der Zeitpunkt für grössere Anschaffungen. Die erwartete Wirtschaftsentwicklung blieb nahezu unverändert.",
+              "gegenstimme": "Der Index misst Erwartungen, nicht Ausgaben: Ein tiefer Wert heisst nicht automatisch, dass der Konsum im gleichen Mass einbricht. Händler und Ökonomen warnen dennoch vor einem schwachen Weihnachtsgeschäft, während der starke Franken und Nullzinsen die Kaufkraft unterschiedlich treffen.",
+              "sources": [
+                {
+                  "name": "SECO",
+                  "url": "https://www.seco.admin.ch/de/konsumentenstimmung"
+                },
+                {
+                  "name": "Finanz und Wirtschaft",
+                  "url": "https://www.fuw.ch/boerse/newsticker/202611061694/konsumentenstimmung-im-oktober-deutlich-tiefer-als-im-vorjahr"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-benzinpreis-unter-zwei-franken",
+              "slug": "benzinpreis-unter-zwei-franken",
+              "title": "Bleifrei 95 sinkt auf 1,99 Franken – erstmals seit September unter 2 Franken",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "⛽",
+              "edition": "midday",
+              "kurz": "TCS: Literpreis innert Woche minus 12 Rappen; Brent-Öl deutlich günstiger, Rheinpegel weiter tief.",
+              "summary": "Der durchschnittliche Literpreis für Bleifrei 95 liegt laut TCS bei 1,99 Franken – erstmals seit Anfang September wieder unter 2 Franken. Innert einer Woche fiel der Preis um 12 Rappen; Bleifrei 98 auf 2,10 Franken (−12 Rp.), Diesel auf 2,34 Franken (−6 Rp.). An den Rohölmärkten notierte Brent am Freitag bei gut 97 Dollar nach zuvor rund 118.",
+              "gegenstimme": "Autofahrerinnen freuen sich über die Entspannung; gleichzeitig bleibt der Rheinpegel tief und verteuert den Transport. Die Kerosin- und Diesel-Pflichtlager-Abrufe zeigen, dass die Versorgungskette angespannt bleibt – Zapfsäulenpreise können rasch wieder steigen.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/benzinpreis-in-der-schweiz-sinkt-wieder-unter-2-franken/92341406"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/12-rappen-ueber-nacht-blaue-welle-senkt-benzinpreis-bleifrei-95-sinkt-unter-2-franken-103663223"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-kerosin-pflichtlager-zweite-freigabe",
+              "slug": "kerosin-pflichtlager-zweite-freigabe",
+              "title": "Kerosin: Bund gibt erneut bis 50’000 m³ aus Pflichtlagern frei",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "midday",
+              "kurz": "Zweite Freigabe bis 29. November; zusammen mit Oktober 17,4 Prozent der Flugpetrol-Pflichtlager angebrochen.",
+              "summary": "Wegen Raffinerie-Engpässen in Südfrankreich und Deutschland sowie Bahnstörungen hat der Delegierte für wirtschaftliche Landesversorgung am 3. November erneut Bezüge aus den Kerosin-Pflichtlagern bewilligt – bis zu 50’000 Kubikmeter bis 29. November. Zusammen mit 30’000 m³ im Oktober sind 17,4 Prozent der Flugpetrol-Pflichtlager angebrochen. Zürich und Genf bleiben darauf angewiesen.",
+              "gegenstimme": "Airlines und Flughafen Zürich zeigten sich laut Wochenberichten überrascht über frühere Abrufe – die Kommunikation zwischen Bund und Branche wirkt unkoordiniert. Pflichtlager sind für Krisen gedacht; wiederholte Abrufe wegen Logistikproblemen werfen Fragen zur Vorsorge auf.",
+              "sources": [
+                {
+                  "name": "BWL",
+                  "url": "https://www.bwl.admin.ch/fr/newnsb/FBnf3YjJZk3R"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/treibstoffknappheit-kerosin-versorgung-bund-gibt-erneut-pflichtlagerreserven-frei"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-erasmus-apk-n-193-millionen",
+              "slug": "erasmus-apk-n-193-millionen",
+              "title": "APK-N befürwortet 193 Millionen Franken für Erasmus+ 2027",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🎓",
+              "edition": "midday",
+              "kurz": "Aussenpolitische Kommission des Nationalrats sagt Ja mit 16 zu 9; Ständerat hat Kredit bereits genehmigt.",
+              "summary": "Die Aussenpolitische Kommission des Nationalrats (APK-N) beantragt mit 16 zu 9 Stimmen, den Schweizer Beitrag von 193 Millionen Franken an Erasmus+ für 2027 ohne Änderungen gutzuheissen. Der Ständerat hat den Verpflichtungskredit bereits bewilligt. Offen bleiben in der APK-N weitere Teile des EU-Vertragspakets, namentlich Zuwanderung und Referendumstyp.",
+              "gegenstimme": "Gegner kritisieren Kosten und die Einbettung in das umstrittene EU-Paket; Befürworter sehen Austausch und Bildungschancen. Die Kommission hat das Paket noch nicht zu Ende beraten – ein Ja zu Erasmus ist kein Freipass für den Rest.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/nationalratskommission-bef%c3%bcrwortet-schweizer-beitrag-an-erasmus%2b/92341126"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/eu-vertragspaket-nationalratskommission-befuerwortet-schweizer-erasmus-beitrag"
+                },
+                {
+                  "name": "Nau",
+                  "url": "https://www.nau.ch/politik/bundeshaus/nationalratskommission-befurwortet-schweizer-beitrag-an-erasmus-67199116"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-apple-siri-ai-drittanbieter",
+              "slug": "apple-siri-ai-drittanbieter",
+              "title": "Apple öffnet Siri AI für alle Entwickler – App Skills und Drittanbieter-Aktionen",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🍎",
+              "edition": "midday",
+              "kurz": "Developer Preview mit iOS 27.3: Siri kann mehrstufige Aktionen in Fremd-Apps steuern; App Store ab Frühling 2027.",
+              "summary": "Apple hat die Siri-AI-Developer-Preview für alle Entwickler freigegeben. Mit iOS/iPadOS/macOS/visionOS 27.3-Betas können Apps App Intents und neue «App Skills» exponieren, damit Siri mehrstufige Aufgaben über Drittanbieter-Apps ausführt. Öffentliche App-Store-Einreichungen sind für den Frühling 2027 geplant; die Preview läuft nur auf Geräten mit Apple Intelligence.",
+              "gegenstimme": "Datenschützer fragen, wie viel App-Kontext und Bildschirminhalt Siri wirklich braucht. Entwickler begrüssen den Zugang, kritisieren aber die lange Wartezeit seit den Ankündigungen 2024 und die Beschränkung auf Apple-Intelligence-Regionen und -Sprachen.",
+              "sources": [
+                {
+                  "name": "Apple Developer",
+                  "url": "https://developer.apple.com/news/?id=gdk2umrf"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-openai-images-26-gifs",
+              "slug": "openai-images-26-gifs",
+              "title": "OpenAI Images 2.6: 50 Prozent schneller und animierte GIFs",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🖼️",
+              "edition": "midday",
+              "kurz": "Neues Bildmodell in ChatGPT, Codex und API; GIF-Loops sowie Flare- und Sunburst-Varianten für Entwickler.",
+              "summary": "OpenAI hat Images 2.6 freigeschaltet: Bildgenerierung soll rund 50 Prozent schneller sein, neu mit animierten GIFs in ChatGPT, Codex und der API. Für Entwickler gibt es GPT-Image-2.6 Flare (schnell) und Sunburst (detailreicher) sowie SVG-Export und präzisere Edits. OpenAI spricht von vier Milliarden Bildern pro Woche über alle Produkte.",
+              "gegenstimme": "Künstler- und Medienverbände warnen weiter vor Training mit urheberrechtlich geschütztem Material und Deepfakes; Brasilien hat Meta bereits KI-Training mit Medieninhalten untersagt. OpenAI betont Safety-Evaluations im System Card – unabhängige Audits fehlen öffentlich.",
+              "sources": [
+                {
+                  "name": "OpenAI",
+                  "url": "https://openai.com/index/introducing-images-2-6/"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-texas-hinojosa-rechenzentren-moratorium",
+              "slug": "texas-hinojosa-rechenzentren-moratorium",
+              "title": "Texas: Governor-elect Hinojosa will Genehmigungen für KI-Rechenzentren pausieren",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🖥️",
+              "edition": "midday",
+              "kurz": "Demokratin fordert Moratorium bis Legislative Schutzregeln zu Strom, Wasser und Transparenz beschliesst.",
+              "summary": "Die gewählte texanische Gouverneurin Gina Hinojosa hat angekündigt, Genehmigungen für neue Rechenzentren zu stoppen, bis die Legislative ab Januar «echte Schutzregeln» zu Stromkosten, Wasser, Transparenz und lokaler Mitbestimmung verabschiedet. Sie tritt am 19. Januar 2027 ihr Amt an; bereits unter Greg Abbott gilt eine Prüfungspause für Netz- und Umweltbewilligungen.",
+              "gegenstimme": "Die Industrie warnt vor Investitionsflucht und betont Jobs sowie Netzsicherheit; Elon Musk spottete, Rechenzentren im Weltraum sähen «ziemlich attraktiv» aus. Gemeinde- und Umweltgruppen sehen im Wahlergebnis den Protest gegen ungebremsten KI-Infrastrukturbau.",
+              "sources": [
+                {
+                  "name": "Texas Tribune",
+                  "url": "https://www.texastribune.org/2026/11/04/data-center-texas-pause-gina-hinojosa-governor-policies/"
+                },
+                {
+                  "name": "USA Today",
+                  "url": "https://www.usatoday.com/story/news/nation/2026/11/05/texas-is-done-with-data-centers-until-further-notice-new-governor-says/92634485007/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-iran-droht-europaeische-basen",
+              "slug": "iran-droht-europaeische-basen",
+              "title": "Iran droht mit Raketenangriffen auf europäische US-Basen",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🎯",
+              "edition": "midday",
+              "kurz": "Parlamentsabgeordnete: Bei Nutzung von Basen in Deutschland, Italien oder UK würden iranische Raketen Europa treffen.",
+              "summary": "Iranische Abgeordnete des Sicherheitsausschusses haben Euronews gesagt, Teheran werde europäische Stützpunkte angreifen, falls die USA sie für Schläge gegen den Iran nutzten – genannt wurden Italien und Deutschland. Staatsnahe Medien sprachen von Zielen «im Herzen Europas»; die IRGC kündigte Antworten «ohne geografische Grenzen» an. Experten weisen darauf hin, dass Iran keine echten ICBM besitzt und Reichweiten rund 2000 km vor allem Südosteuropa betreffen.",
+              "gegenstimme": "Westliche Analytiker halten die Drohung für rhetorische Abschreckung nach den US-Schlägen auf Qeshm; zugleich nimmt die EU Krisenvorsorge ernster (72-Stunden-Kits). Europäische Regierungen haben Irans hybride Angriffe bereits verurteilt – eine NATO-Artikel-5-Lage wäre ein Eskalationssprung, den Teheran riskieren müsste.",
+              "sources": [
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/04/iranian-mp-tells-euronews-tehrans-missiles-will-strike-europe-if-us-uses-its-bases-there"
+                },
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/international/article-913985"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-kenia-mackenzie-200-jahre",
+              "slug": "kenia-mackenzie-200-jahre",
+              "title": "Kenia: Sektenführer Mackenzie zu 200 Jahren Haft für 191 Morde verurteilt",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Shakahola-Hungertode: Richterin verhängt 200 Jahre statt Todesstrafe; über 400 Leichen exhumiert.",
+              "summary": "Das High Court in Mombasa hat Paul Mackenzie, Anführer der doomsday-Sekte Good News International, zu 200 Jahren Haft verurteilt – wegen Mordes an 191 Menschen, darunter 190 Kinder. Mackenzie hatte Anhänger angewiesen, sich und ihre Kinder zu Tode zu hungern, um «Jesus zu begegnen». Richterin Diana Mochache lehnte die von der Anklage geforderte Todesstrafe ab; 28 Mittäter erhielten bis zu 160 Jahre.",
+              "gegenstimme": "Opferfamilien forderten die härteste Strafe; die Richterin argumentierte mit Rehabilitationschance und der faktischen Aussetzung der Todesstrafe seit 1987. Menschenrechtsstellen kritisieren, Behörden hätten trotz Warnungen zu spät eingegriffen – die 191 Morde decken nur einen Teil der über 400 exhumierten Leichen ab.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cm5yne5984l0o"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/kenya-cult-leader-sentencing-2f99d51635e7dab0463489118119e773"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-aethiopien-arsi-orthodoxe-angriffe",
+              "slug": "aethiopien-arsi-orthodoxe-angriffe",
+              "title": "Äthiopien: Mindestens 34 weitere orthodoxe Christen in Arsi getötet",
+              "date": "2026-11-07",
+              "time": "12:15",
+              "category": "international",
+              "icon": "✝️",
+              "edition": "midday",
+              "kurz": "Angriff am 5. November in Endeto/Robe; binnen drei Wochen laut Kirchenangaben rund 94 Tote in Oromia.",
+              "summary": "Bewaffnete haben am 5. November in Endeto (Robe-Distrikt, Zone Arsi, Oromia) mindestens 34 äthiopisch-orthodoxe Christen getötet. Zusammen mit Angriffen Ende Oktober in Merti und Shirka (rund 60 Tote laut Kirche) liegt die berichtete Opferzahl binnen drei Wochen bei mindestens 94. Die äthiopisch-orthodoxe Kirche hatte nach den Oktober-Angriffen Schutz für Gläubige gefordert; Behörden sprachen von Festnahmen.",
+              "gegenstimme": "Addis Abeba macht rebellische Koalitionen (unter anderem OLA) für gezielte Anschläge verantwortlich; Menschenrechtsgruppen und Kirchen kritisieren unzureichenden Schutz und fordern unabhängige Untersuchungen. Internationale Medien berichten oft spärlich – genaue Täterschaft und Motivlage sind nicht abschliessend gerichtlich geklärt.",
+              "sources": [
+                {
+                  "name": "TRT Afrika",
+                  "url": "https://www.trtafrika.com/english/article/8daebfaf27f9"
+                },
+                {
+                  "name": "Vatican News",
+                  "url": "https://www.vaticannews.va/en/world/news/2026-10/60-killed-in-attack-on-village-of-orthodox-christians-ethiopia.html"
                 }
               ]
             }
