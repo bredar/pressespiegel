@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:15:00+01:00",
+  "updated": "2026-11-07T17:30:00+01:00",
   "days": [
     {
       "date": "2026-11-07",
@@ -644,6 +644,295 @@
                 {
                   "name": "Vatican News",
                   "url": "https://www.vaticannews.va/en/world/news/2026-10/60-killed-in-attack-on-village-of-orthodox-christians-ethiopia.html"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-11-07-graubuenden-status-s-sozialhilfe",
+              "slug": "graubuenden-status-s-sozialhilfe",
+              "title": "Graubünden: Ukrainer mit Status S sollen auch nach fünf Jahren weniger Sozialhilfe erhalten",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🏔️",
+              "edition": "evening",
+              "kurz": "Die Bündner Regierung will den um 20 Prozent tieferen Grundbedarf auch für Schutzsuchende mit B-Bewilligung beibehalten.",
+              "summary": "Die Regierung des Kantons Graubünden will, dass Personen mit Schutzstatus S auch nach fünf Jahren Aufenthalt und mit B-Bewilligung nur 80 Prozent des SKOS-Grundbedarfs erhalten. Ohne Gesetzesänderung hätten die ersten Betroffenen ab März 2027 Anspruch auf Sozialhilfe wie Einheimische. Betroffen wären laut Botschaft rund 960 Personen zwischen März und Dezember 2027.",
+              "gegenstimme": "Kritiker der Ungleichbehandlung, etwa aus Kreisen der Sozialhilfe und Flüchtlingshilfe, argumentieren, wer nach fünf Jahren eine B-Bewilligung hat, sei rechtlich weitgehend integriert und dürfe nicht schlechter gestellt werden. Befürworter strengerer Regeln halten dagegen, dass viele Status-S-Personen trotz Jahren im Land weiterhin auf Sozialhilfe angewiesen sind und die Kosten am Ende Gemeinden und Steuerzahler tragen.",
+              "sources": [
+                {
+                  "name": "Kanton Graubünden",
+                  "url": "https://www.gr.ch/DE/Medien/Mitteilungen/MMStaka/2026/Seiten/2026110601.aspx"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-canton-to-keep-reduced-benefits-for-ukrainian-refugees/92338795"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-crans-montana-soforthilfe-verweigert",
+              "slug": "crans-montana-soforthilfe-verweigert",
+              "title": "Crans-Montana: Wallis verweigert mindestens sieben Überlebenden die Soforthilfe",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🔥",
+              "edition": "evening",
+              "kurz": "Wer keine Nacht im Spital verbrachte, erhält weder 10'000 Franken Soforthilfe noch 50'000 Franken vom Bund. Psychische Traumata zählen nicht.",
+              "summary": "Mindestens sieben Überlebende des Brandes in der Bar «Le Constellation» in Crans-Montana erhalten vom Kanton Wallis keine Soforthilfe von 10'000 Franken und keinen Solidaritätsbeitrag des Bundes von 50'000 Franken. Grund: Sie verbrachten keine Nacht im Spital, ihre körperlichen Verletzungen gelten als zu leicht, psychische Folgen sind kein Kriterium. Insgesamt haben laut Kanton 127 Opfer oder Angehörige Hilfe erhalten oder werden sie erhalten.",
+              "gegenstimme": "Der Kanton verweist darauf, dass die Beschränkung auf schwere körperliche Verletzungen ein politischer Entscheid des Kantonsparlaments sei und klare Kriterien Missbrauch verhindern sollen; die Justiz prüft bereits einen mutmasslichen Betrugsfall. Anwälte der Abgewiesenen nennen den Entscheid «unmenschlich» und kündigen an, notfalls bis vor Bundesgericht zu gehen.",
+              "sources": [
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/crans-montana-psychische-traumata-zahlen-bei-soforthilfe-nicht-67199201"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/westschweiz/wallis/crans-montana-brandopfer-erhalten-keine-soforthilfe/466sjnq"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-aeschi-verlaesst-eu-podium-reussbuehl",
+              "slug": "aeschi-verlaesst-eu-podium-reussbuehl",
+              "title": "Aeschi verlässt EU-Podium an Luzerner Kantonsschule aus Protest",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🎤",
+              "edition": "evening",
+              "kurz": "Der SVP-Fraktionschef warf der Moderatorin einseitige Gesprächsführung vor; Mitte-Ständerätin Gmür nennt seinen Abgang ein «No-Go».",
+              "summary": "SVP-Fraktionschef Thomas Aeschi hat Ende September eine Podiumsdiskussion an der Kantonsschule Reussbühl LU vorzeitig verlassen, als es um die neuen EU-Verträge ging. Er sagt, er sei als einzige Stimme gegen die Verträge kaum zu Wort gekommen. Mitte-Ständerätin Andrea Gmür-Schönenberger und die Schule widersprechen; publik wurde der Vorfall erst diese Woche.",
+              "gegenstimme": "Aeschis Sicht: Auf dem Podium sassen mit Gmür (Mitte), Michael Töngi (Grüne) und dem deutschen Botschafter Markus Potzel drei Befürworter der EU-Verträge gegen einen Gegner, eine kritische Stimme sei nicht gefragt gewesen. Gmür und die Schule sehen die Moderatorin dagegen im Recht und werfen Aeschi vor, er habe sie nicht mehr zu Wort kommen lassen.",
+              "sources": [
+                {
+                  "name": "Nau.ch (Keystone-SDA)",
+                  "url": "https://www.nau.ch/politik/bundeshaus/no-go-aus-protest-aeschi-lauft-bei-diskussion-einfach-davon-67199203"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/es-ging-um-bilaterale-iii-podiumsdiskussion-vor-kantischuelern-aeschi-lief-einfach-davon-103663400"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-juso-jugendstreik-20-november",
+              "slug": "juso-jugendstreik-20-november",
+              "title": "Juso-Chefin verspricht friedlichen Jugendstreik am 20. November",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "📢",
+              "edition": "evening",
+              "kurz": "Nach Krawallen in Frankreich und Zürich betont Mirjam Hostetmann, der Protest gegen Aufrüstung und Sozialabbau sei seit dem Sommer geplant.",
+              "summary": "Am 20. November wollen Jugendliche in mehreren Schweizer Städten gegen höhere Militärausgaben und Kürzungen bei der sozialen Sicherheit demonstrieren. Juso-Präsidentin Mirjam Hostetmann sagte der NZZ, die Kundgebungen würden friedlich bleiben und sollten bewilligt werden. Der Jugendstreik sei international vernetzt und schon vor den gewaltsamen Schulprotesten in Frankreich geplant worden.",
+              "gegenstimme": "Die Junge SVP warnt: Präsident Nils Fiechter nannte den Jugendstreik gegenüber SRF «eine grosse Gefahr für unsere innere Sicherheit». Kritiker verweisen darauf, dass Juso-Vizepräsident Julien Berthod in Paris an einer Demo teilnahm und ihr seine volle Unterstützung aussprach, und dass Organisatoren nach eigener Aussage nicht steuern können, wer am Ende mitläuft.",
+              "sources": [
+                {
+                  "name": "Nau.ch (Keystone-SDA)",
+                  "url": "https://www.nau.ch/news/schweiz/juso-chefin-haben-demo-schon-vor-frankreich-protesten-geplant-67199204"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/aufruf-der-juso-schweiz-jugendstreik-international-vernetzt-und-seit-sommer-geplant"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-oberburg-unfallflucht-fussgaengerstreifen",
+              "slug": "oberburg-unfallflucht-fussgaengerstreifen",
+              "title": "Oberburg: Frau auf Fussgängerstreifen angefahren, Lenker flüchtet",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🚸",
+              "edition": "evening",
+              "kurz": "Die Kantonspolizei Bern sucht Zeugen, die am Freitagabend an der Emmentalstrasse einen silbernen Kleinwagen gesehen haben.",
+              "summary": "Am Freitag kurz nach 17.20 Uhr ist in Oberburg eine Frau auf dem Fussgängerstreifen auf Höhe Emmentalstrasse 64 von einem Auto erfasst und verletzt worden. Der Lenker oder die Lenkerin fuhr weiter, ohne sich um die Verletzte zu kümmern. Die Frau kam mit der Ambulanz ins Spital.",
+              "gegenstimme": "Unfallflucht ist kein Bagatelldelikt: Sie wird strafrechtlich verfolgt, auch wenn der Unfall selbst nicht verschuldet war. Offen bleibt, ob die Lichtverhältnisse kurz nach Einbruch der Dunkelheit eine Rolle spielten; die Polizei macht dazu keine Angaben.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=f81846f7-58d8-463d-8f45-7f2d129a40a1"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/frau-in-oberburg-angefahren-und-verletzt-danach-fahrerflucht/92342169"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-beringen-datenzentren-protest",
+              "slug": "beringen-datenzentren-protest",
+              "title": "Proteste gegen KI-Datenzentren in 16 Ländern, auch in Beringen SH",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🏭",
+              "edition": "evening",
+              "kurz": "Greenpeace rollt vor einem US-Datenzentrum in Beringen ein Banner aus; in Amsterdam dringen Protestierende auf eine Microsoft-Baustelle ein.",
+              "summary": "Unter dem Motto «Stop Dirty Data Centres» haben am Freitag und Samstag rund 100 Gruppen in 16 Ländern gegen neue Rechenzentren protestiert und ein Moratorium für grosse Anlagen in Europa gefordert. In Beringen SH breitete Greenpeace vor dem Rohbau von Stack Infrastructure ein 25 Meter grosses Banner mit Elon Musk und Jeff Bezos aus. In Amsterdam drangen rund hundert Personen, teils vermummt, auf die Baustelle eines Microsoft-Datenzentrums ein.",
+              "gegenstimme": "Selbst Grünen-Nationalrat Gerhard Andrey lehnt ein Moratorium ab: «Wer digitale Souveränität will, braucht eigene Rechenzentren.» Der Schaffhauser Ständerat Severin Brüngger argumentiert gleich. Stack Infrastructure betont, der Strom stamme zu 100 Prozent aus erneuerbaren Quellen und das Netz werde nicht beeinträchtigt. Industrienahe Stimmen warnen, ein Baustopp in Europa überlasse die Technologie China und den USA.",
+              "sources": [
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/digital/315365058-greenpeace-protestiert-in-beringen-gegen-us-datenzentren"
+                },
+                {
+                  "name": "Tom’s Hardware",
+                  "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe"
+                },
+                {
+                  "name": "Stop Dirty Data Centres (Kampagne)",
+                  "url": "https://stopdirtydatacentres.eu/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-krakau-schuesse-hauptmarkt",
+              "slug": "krakau-schuesse-hauptmarkt",
+              "title": "Krakau: Schütze tötet fünf Menschen auf dem Hauptmarkt",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🚨",
+              "edition": "evening",
+              "kurz": "Ein 25-Jähriger in Militärkleidung schoss aus einem Auto wahllos auf Passanten; Tusk spricht von einem Anschlag, das Motiv ist unbekannt.",
+              "summary": "Ein Mann ist am Samstag gegen 15 Uhr mit einem Auto auf den Hauptmarkt (Rynek Główny) in Krakau gefahren und hat wahllos auf Menschen geschossen. Mindestens fünf Personen wurden getötet und mehr als ein Dutzend verletzt, darunter zwei Polizisten. Die Polizei schoss den mutmasslichen Einzeltäter an und nahm ihn fest; er liegt im Spital.",
+              "gegenstimme": "Regierungschef Donald Tusk spricht von einem «Anschlag», die Polizei bisher von einer Schiesserei; eine terroristische, politische oder religiöse Motivlage ist nicht belegt und darf nicht unterstellt werden. Ebenso wenig ist eine psychische Erkrankung erwiesen. Wo Medien vorschnell Etiketten verwenden, ist Vorsicht geboten, bis die Ermittler Identität und Motiv nennen.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/07/schusse-auf-krakaus-hauptmarkt-funf-tote-tusk-spricht-von-anschlag"
+                },
+                {
+                  "name": "RMF24",
+                  "url": "https://www.rmf24.pl/regiony/krakow/news-sprawca-zamachu-w-krakowie-mial-25-lat-strzelal-z-karabinka-,nIdn,1025260"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-kiew-angriffe-vor-abu-dhabi",
+              "slug": "kiew-angriffe-vor-abu-dhabi",
+              "title": "Russland greift Kiews Stromnetz an, drei Tage vor den Gesprächen in Abu Dhabi",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "international",
+              "icon": "⚡",
+              "edition": "evening",
+              "kurz": "172 Drohnen und 36 ballistische Raketen: Stromausfälle und Wassermangel in Kiew; Selenskyj nennt Kushners Plan «Jalta 2.0».",
+              "summary": "Russland hat in der Nacht auf Samstag die Ukraine mit 172 Drohnen und 36 ballistischen Raketen angegriffen und Umspannwerke in fünf Regionen getroffen, darunter eines, das zwei Atomkraftwerke mit Kiew verbindet. In der Hauptstadt fielen Strom, Wasser und Heizung teilweise aus, mindestens fünf Menschen wurden verletzt. Am Dienstag und Mittwoch sollen in Abu Dhabi Gespräche zwischen Russland, den USA und der Ukraine stattfinden.",
+              "gegenstimme": "Moskau erklärt, es habe Energie- und Verkehrsziele angegriffen, die der Kriegsführung dienten. US-Präsident Trump stellt eine «grosse, schöne Vereinbarung» unter Einbezug ganz Europas in Aussicht. Ukrainische und westliche Diplomaten warnen dagegen, eine neue europäische Sicherheitsordnung nach russischen Vorstellungen käme faktisch dem Ende der Nato gleich.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+                },
+                {
+                  "name": "Anadolu",
+                  "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-confirms-russia-us-ukraine-talks-scheduled-for-next-tuesday-in-abu-dhabi/4114672"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-neuseeland-wahl-patt",
+              "slug": "neuseeland-wahl-patt",
+              "title": "Neuseeland: Luxons Rechtsblock knapp vorn, Entscheid erst am 27. November",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "evening",
+              "kurz": "National, ACT und NZ First kommen vorläufig auf 67 Sitze; Spezialstimmen könnten das Ergebnis noch kippen.",
+              "summary": "Bei der Parlamentswahl in Neuseeland ist die National Party von Premier Christopher Luxon mit 42 Sitzen stärkste Kraft. Zusammen mit ACT (13) und NZ First (12) hätte das bisherige Regierungslager laut vorläufigem Ergebnis eine hauchdünne Mehrheit von 67 Sitzen. Das offizielle Resultat folgt erst am 27. November, nach Auszählung der Spezialstimmen.",
+              "gegenstimme": "Labour-Chef Chris Hipkins gibt sich nicht geschlagen: Das Volk habe gesprochen, «es könnte aber etwas länger dauern herauszufinden, was es gesagt hat». Spezialstimmen von Auslandsneuseeländern und ausserhalb des Wahlkreises Abstimmenden fielen 2023 eher zugunsten der Linken aus. Für Luxon spricht, dass National die Partystimmen knapp gewann.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c3ewev11g1e0o"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-kongo-adf-angriff-ebola-patienten",
+              "slug": "kongo-adf-angriff-ebola-patienten",
+              "title": "Kongo: IS-nahe ADF töten 33 Zivilisten, Ebola-Patienten fliehen",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "international",
+              "icon": "☣️",
+              "edition": "evening",
+              "kurz": "Beim Überfall auf Cantine-Aloya bei Beni brannten Häuser und ein Gesundheitsposten; ein bestätigter Ebola-Fall und fünf Verdachtsfälle sind verschwunden.",
+              "summary": "Kämpfer der Allied Democratic Forces (ADF), die der Islamische Staat als Ableger anerkennt, haben in der Nacht auf Freitag das Dorf Cantine-Aloya rund 50 Kilometer westlich von Beni in Nord-Kivu überfallen. Mindestens 33 Zivilisten wurden getötet, die meisten erschossen, andere verbrannt oder mit Macheten erschlagen. Aus einem nahen Spital flohen ein bestätigter Ebola-Patient, fünf Verdachtsfälle und drei Hochrisikokontakte.",
+              "gegenstimme": "Die kongolesische Armee und Behörden betonen, die Opferzahl sei noch nicht gesichert, weil starker Regen die Einsätze behindere. Kritiker werfen der Regierung und der internationalen Gemeinschaft seit Jahren vor, die ADF-Massaker an der überwiegend christlichen Bevölkerung im Osten zu wenig zu beachten; ob die Opfer diesmal gezielt wegen ihres Glaubens angegriffen wurden, ist aber nicht belegt.",
+              "sources": [
+                {
+                  "name": "The Straits Times (Reuters)",
+                  "url": "https://www.straitstimes.com/world/islamist-militants-force-ebola-patients-to-flee-in-deadly-congo-raid"
+                },
+                {
+                  "name": "Mediacongo",
+                  "url": "https://www.mediacongo.net/article-actualite-169149_beni_la_fuite_de_malades_d_ebola_a_cantine_fait_craindre_une_nouvelle_flambee.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-trump-triumphbogen-gestoppt",
+              "slug": "trump-triumphbogen-gestoppt",
+              "title": "US-Richterin stoppt Bau von Trumps Triumphbogen vorerst für 14 Tage",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "evening",
+              "kurz": "Wenige Stunden nach der Bewilligung durch die Planungskommission gab Richterin Chutkan einer Klage von Virginia und Washington statt.",
+              "summary": "Die US-Bundesrichterin Tanya Chutkan hat der Regierung für 14 Tage alle Bauarbeiten am geplanten Triumphbogen von Präsident Donald Trump in Washington untersagt. Sie gab damit einer Klage des Bundesstaats Virginia und des Hauptstadtbezirks statt. Der rund 76 Meter hohe Bogen soll nahe dem Nationalfriedhof Arlington entstehen; die Kosten werden auf bis zu 100 Millionen Dollar geschätzt.",
+              "gegenstimme": "Trump und seine Unterstützer sehen den Bogen als würdiges Denkmal für die Geschichte der USA und ihre Veteranen, passend zum 250-Jahr-Jubiläum. Sie halten den Gerichtsstopp für eine politisch motivierte Blockade. Gegner nennen den Bau nahe dem Soldatenfriedhof pietätlos und warnen vor Verkehrsproblemen und gestörten Sichtachsen zum Lincoln Memorial.",
+              "sources": [
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/richterin-stoppt-bau-von-trumps-geplantem-triumphbogen-vorerst-100.html"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/politik/ausland/2026-11/triumphbogen-donald-trump-washington-dc-arlington-gxe"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-bka-ki-fahndungsbild-leipzig-drohne",
+              "slug": "bka-ki-fahndungsbild-leipzig-drohne",
+              "title": "BKA fahndet mit KI-Bild nach drittem Verdächtigen des Drohnenanschlags von Leipzig",
+              "date": "2026-11-07",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🛰️",
+              "edition": "evening",
+              "kurz": "Das Bundeskriminalamt veröffentlicht ein KI-generiertes Bild einer Person auf einem E-Bike; die Bundesregierung macht Russland verantwortlich.",
+              "summary": "Das deutsche Bundeskriminalamt sucht mit KI-generierten Bildern nach einem dritten Verdächtigen im Fall der Sprengstoffdrohne am Flughafen Leipzig/Halle. Anfang August war dort neben Antonow-Frachtmaschinen eine mit Semtex bestückte Drohne gefunden worden, die nicht explodierte. Gesucht werden Zeugen, die zwischen dem 31. Juli und dem 4. August bei Rabutz und Beuditz eine schlanke, für den Hochsommer auffällig warm gekleidete Person auf einem E-Bike gesehen haben.",
+              "gegenstimme": "Moskau bestreitet jede Verwicklung. Fachleute und Datenschützer sehen KI-Fahndungsbilder kritisch: Ein generiertes Gesicht ist keine Fotografie, es kann falsche Erinnerungen bei Zeugen wecken und Unbeteiligte ins Visier rücken. Das BKA nutzt KI für Fahndungsfotos nach eigenen Angaben seit 2025.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/BKA-fahndet-nach-Drohnen-Vorfall-in-Leipzig-mit-KI-Bild-11516328.html"
+                },
+                {
+                  "name": "t-online",
+                  "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101516892/flughafen-leipzig-bka-sucht-mit-ki-foto-nach-drittem-drohnen-verdaechtigen-.html"
                 }
               ]
             }
