@@ -1,6 +1,359 @@
 {
-  "updated": "2026-11-06T17:15:00+01:00",
+  "updated": "2026-11-07T06:30:00+01:00",
   "days": [
+    {
+      "date": "2026-11-07",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-07-altstaetten-asylzentrum-patrouillen",
+              "slug": "altstaetten-asylzentrum-patrouillen",
+              "title": "Altstätten SG: Mehr Patrouillen und Eingrenzungen rund ums Bundesasylzentrum",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🛂",
+              "edition": "morning",
+              "kurz": "Nach Schlägereien, Steinwürfen und täglichen Ladendiebstählen verstärken SEM und Kantonspolizei die Präsenz.",
+              "summary": "Das Staatssekretariat für Migration (SEM) hat die Aussenpatrouillen rund um das im August eröffnete Bundesasylzentrum Altstätten SG von einer auf drei pro Tag erhöht, im Radius von rund 500 Metern. Auslöser sind Schlägereien, Steinwürfe zwischen Asylsuchenden und tägliche Ladendiebstähle, wie die St. Galler Kantonspolizei am Freitag mitteilte. Straffällige Asylsuchende können neu schon nach dem ersten Delikt auf einen Perimeter eingegrenzt werden.",
+              "gegenstimme": "Laut Regierungsrat Hartmann ist die Zahl der Vorfälle seit dem Umzug des Zentrums gesunken; Aus Sicht von Asylorganisationen darf das Verhalten Einzelner nicht allen Bewohnern angelastet werden. Kritiker auf der Gegenseite halten drei Patrouillen täglich für Symbolpolitik, solange Rückführungen stocken.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/beh%c3%b6rden-verst%c3%a4rken-patrouillen-beim-asylzentrum-in-altst%c3%a4tten-sg/92338505"
+                },
+                {
+                  "name": "St. Galler Tagblatt",
+                  "url": "https://www.tagblatt.ch/ostschweiz/ressort-ostschweiz/altstaetten-behoerden-verstaerken-patrouillen-rund-ums-asylzentrum-ld.4262676"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-thun-bt-brandanschlag-schreiben",
+              "slug": "thun-bt-brandanschlag-schreiben",
+              "title": "Brandanschlag auf B&T Thun: Firma trotzt, Polizei prüft Bekennervideo",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🔥",
+              "edition": "morning",
+              "kurz": "Die Waffenfirma wendet sich an die Brandstifter; die Spur führt mutmasslich zu radikalen französischen Linksaktivisten.",
+              "summary": "Gut eine Woche nach dem mutmasslichen Brandanschlag auf den Thuner Waffenhersteller Brügger & Thomet (B&T) hat sich die Firmenleitung mit einem Schreiben an die Täter gewandt: «Gewalt wird uns nicht zum Schweigen bringen.» Die Kantonspolizei Bern bestätigte am Freitag gegenüber Keystone-SDA, dass bisher niemand festgenommen wurde und ein im Netz verbreitetes Video geprüft wird. Der Schaden beträgt laut NZZ bis zu 20 Millionen Franken.",
+              "gegenstimme": "Die französische Bewegung Les Soulèvements de la terre, die das Video verbreitete, bestreitet eine Täterschaft, unterstützt aber offen das Motiv: B&T stellt Gummigeschosswerfer her, die die französische Polizei gegen Demonstranten einsetzt. B&T betont, die zuletzt in Frankreich verwendete Munition stamme nicht von ihr. Linke Medien wie die WOZ deuten den Anschlag als Folge von Polizeirepression.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/brandanschlag-thun-waffenfirma-trotzt-brandstiftern-597654695292"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/brand-in-thuner-waffenfirma-es-gibt-verbindungen-von-radikalen-franzoesischen-aktivisten-in-die-schweiz-ld.10051697"
+                },
+                {
+                  "name": "WOZ (Einordnung, Inspirationsquelle)",
+                  "url": "https://www.woz.ch/2645/fabrikbrand-in-thun/wenn-repression-feuer-faengt/!R8KHYXZHN93N"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-linden-methernitha-gemeindepraesident",
+              "slug": "linden-methernitha-gemeindepraesident",
+              "title": "Linden: Gemeindepräsident verurteilt Methernitha-Missbrauch «aufs Äusserste»",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "⛪",
+              "edition": "morning",
+              "kurz": "Erstmals äussert sich die Gemeinde zum Sektenführer «Vatti» und anerkennt eine Mitverantwortung.",
+              "summary": "Der Gemeindepräsident von Linden BE, Ignaz Margelisch (parteilos), hat sich nach monatelangem Schweigen erstmals zu den Verbrechen des früheren Methernitha-Gründers Paul «Vatti» Baumann geäussert. Im Gemeindeblatt nennt er die damaligen Vorgänge «haarsträubend» und schreibt, die Gemeinde habe damals «ohne Frage» eine Verantwortung gehabt. Zugleich fordert er, auch die Rolle von Kanton und Justiz aufzuarbeiten.",
+              "gegenstimme": "Betroffene und Beobachter dürften die Erklärung als spät und vage empfinden: Margelisch nennt keine konkreten Schritte und warnt davor, frühere Entscheide mit heutigem Wissen zu beurteilen. Die heutige Gemeinschaft Methernitha besteht weiter; ihre Sicht ist in den aktuellen Berichten nicht dokumentiert.",
+              "sources": [
+                {
+                  "name": "Bern-Ost",
+                  "url": "https://www.bern-ost.ch/Was-damals-geschehen-ist-finde-ich-haarstraeubend-722959"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/methernitha-linden-aeussert-sich-zur-sekte-607875864647"
+                },
+                {
+                  "name": "SRF Regionaljournal",
+                  "url": "https://www.srf.ch/audio/regionaljournal-bern-freiburg-wallis/tiefere-huerden-fuer-initiativen-und-referenden-in-der-stadt-bern?id=AUDI20261106_NR_0047"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-kapo-bern-fussgaengerstreifen-kontrollen",
+              "slug": "kapo-bern-fussgaengerstreifen-kontrollen",
+              "title": "Kanton Bern: 44 Bussen und 39 Anzeigen bei Kontrollen an Fussgängerstreifen",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🚸",
+              "edition": "morning",
+              "kurz": "Kantonspolizei kontrollierte 707 Fussgängerstreifen; auch Jugendliche fielen durch unvorsichtiges Betreten auf.",
+              "summary": "Die Kantonspolizei Bern hat vom 12. bis 23. Oktober an 707 Fussgängerstreifen im ganzen Kanton kontrolliert. 44 Fahrzeuglenkende gewährten Fussgängern den Vortritt nicht; rund 85-mal betraten Fussgänger, mehrheitlich Jugendliche, den Streifen unvorsichtig. Es gab 44 Ordnungsbussen und 39 Anzeigen an die Staatsanwaltschaft.",
+              "gegenstimme": "Fussverkehrsorganisationen fordern seit Jahren bauliche Massnahmen und tiefere Tempi statt punktueller Kontrollen. Automobilverbände wiederum betonen, dass auch Fussgänger, etwa abgelenkt durchs Handy, Verantwortung tragen, was die Polizeizahlen zu den Jugendlichen stützen.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=a6829eac-0f7d-49dc-b88f-fe354e9800b1"
+                },
+                {
+                  "name": "Keystone-SDA / Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/berner-polizei-b%c3%bcsst-dutzende-autolenkende-an-fussg%c3%a4ngerstreifen/92340805"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-hitzesommer-2026-1260-tote",
+              "slug": "hitzesommer-2026-1260-tote",
+              "title": "Hitzesommer 2026: Rund 1260 hitzebedingte Todesfälle in der Schweiz",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🌡️",
+              "edition": "morning",
+              "kurz": "Provisorische Schätzung von Swiss TPH und BAG: ähnliche Grössenordnung wie 2003, 85 Prozent der Toten über 75.",
+              "summary": "Zwischen Mai und August 2026 sind in der Schweiz laut einer provisorischen Schätzung des Swiss TPH im Auftrag des BAG rund 1257 Menschen an den Folgen der Hitze gestorben. Das entspricht 14 Todesfällen pro 100'000 Einwohner und 5,5 Prozent aller Todesfälle im Zeitraum. Rund 85 Prozent der Betroffenen waren 75 Jahre oder älter.",
+              "gegenstimme": "Hitze-Todesfälle sind modellierte Schätzungen, keine gezählten Einzelfälle; Kritiker weisen darauf hin, dass ein Teil der Betroffenen schwer vorerkrankt war und ohnehin bald gestorben wäre (Vorzieheffekt). Klimaforscher halten die Zahlen dagegen eher für konservativ, da der September noch fehlt.",
+              "sources": [
+                {
+                  "name": "Swiss TPH",
+                  "url": "https://www.swisstph.ch/de/news-detail/news/erste-schaetzungen-zeigen-1260-hitzebedingte-todesfaelle-in-der-schweiz-im-sommer-2026"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/provisorische-auswertung-hitzesommer-2026-forderte-in-der-schweiz-rund-1260-todesopfer"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/in-der-schweiz-1260-menschen-sind-im-sommer-wegen-hitze-gestorben-103662927"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-usa-angriffe-iran-qeshm",
+              "slug": "usa-angriffe-iran-qeshm",
+              "title": "USA greifen erneut iranische Luftabwehr auf Qeshm an",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "international",
+              "icon": "💥",
+              "edition": "morning",
+              "kurz": "Trump spricht von «kleinen» Schlägen und Fortschritten in Gesprächen; Iran meldet abgeschossene US-Drohne.",
+              "summary": "US-Präsident Donald Trump hat am Freitag neue begrenzte Angriffe auf ein iranisches Luftabwehrsystem bestätigt. Iranische Staatsmedien meldeten zwei Raketeneinschläge im Gebiet Suza auf der Insel Qeshm in der Strasse von Hormus. Gleichzeitig sprach Trump von «viel Fortschritt» in Gesprächen mit Teheran.",
+              "gegenstimme": "Iran meldet, seine Luftabwehr habe eine US-Drohne vom Typ MQ-9 über Qeshm abgeschossen; das ist nicht unabhängig bestätigt. Katar weist Berichte über gescheiterte Verhandlungen als Falschmeldungen zurück, die nur Kriegsverlängerern nützten. Befürworter harter Schläge in den USA sehen in den «kleinen» Angriffen dagegen ein Zeichen von Zögern nach der Midterm-Niederlage.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/iran-war-nuclear-program-negotiations-trump-53ed5d271b9aef6f880aebc133ea6a55"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-stephen-miller-stabschef",
+              "slug": "stephen-miller-stabschef",
+              "title": "Trump ersetzt Stabschefin Wiles durch Stephen Miller",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "kurz": "Der Architekt der harten Migrationspolitik wird ab Montag Stabschef im Weissen Haus.",
+              "summary": "Präsident Trump hat Stephen Miller (41), bisher Vize-Stabschef und Architekt seiner harten Migrationspolitik, zum neuen Stabschef des Weissen Hauses ernannt. Miller ersetzt ab Montag Susie Wiles, die nach der Niederlage der Republikaner bei den Midterms ihren Rücktritt eingereicht hatte. Wiles wechselt in Trumps politische Organisation.",
+              "gegenstimme": "Demokraten reagierten scharf: Minderheitsführer Hakeem Jeffries nannte Miller einen «gefährlichen Fremdenfeind», der designierte Aufsichtsausschuss-Chef Robert Garcia kündigte Untersuchungen an. Das Weisse Haus sieht in Miller den konsequentesten Umsetzer der Agenda, der nach dem Wahlschock Führungsstärke bringe.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cm9qzz5x9g5yo"
+                },
+                {
+                  "name": "Weisses Haus",
+                  "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/susie-wiles-trump-miller-midterms-95690fe076f6bb8cfe2bf77435a1910d"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-paraguay-pena-abgesetzt-verhaftet",
+              "slug": "paraguay-pena-abgesetzt-verhaftet",
+              "title": "Paraguay: Senat setzt Präsident Peña ab, Alliana vereidigt, Peña unter Hausarrest",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇵🇾",
+              "edition": "morning",
+              "kurz": "44:0 im Senat nach dem Ueno-Bankkollaps; der Ex-Präsident steht wegen Verdachts auf Untreue unter Hausarrest.",
+              "summary": "Paraguays Senat hat Präsident Santiago Peña am Freitag mit 44 Stimmen bei einer Enthaltung des Amtes enthoben. Vizepräsident Pedro Alliana (52) wurde noch am selben Tag als 53. Präsident vereidigt. Peña wurde wenige Minuten nach der Absetzung unter Hausarrest gestellt; die Staatsanwaltschaft ermittelt unter anderem wegen Untreue im Zusammenhang mit dem Kollaps der Ueno Bank.",
+              "gegenstimme": "Peña kritisierte das Tempo des Verfahrens, das ihm keine ausreichende Verteidigung erlaubt habe, und kündigte Kooperation an. Beobachter weisen darauf hin, dass die eigene Colorado-Partei die Absetzung mittrug, auch um die Krise einzudämmen; ein Rücktritt hätte Peña als Ex-Präsident Senatssitz und Immunität gesichert.",
+              "sources": [
+                {
+                  "name": "Al Jazeera / AP",
+                  "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c68jzzvjgdy9o"
+                },
+                {
+                  "name": "AFP",
+                  "url": "https://www.afp.com/en/crisis-hit-paraguay-impeaches-pena-replaces-him-vp-alliana"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-belgien-koenig-lehnt-ruecktritt-ab",
+              "slug": "belgien-koenig-lehnt-ruecktritt-ab",
+              "title": "Belgien: König lehnt Rücktritt von Premier De Wever ab",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇧🇪",
+              "edition": "morning",
+              "kurz": "Philippe verlangt sofortige Wiederaufnahme der Budgetgespräche; Bericht bis 16. November.",
+              "summary": "König Philippe hat am Freitag das Rücktrittsgesuch von Premierminister Bart De Wever abgelehnt und ihn aufgefordert, die Budgetverhandlungen sofort wieder aufzunehmen. Zuvor hatten ihm alle fünf Koalitionsparteien formell zugesichert, zu Zugeständnissen bereit zu sein. De Wever muss dem König am 16. November Bericht erstatten.",
+              "gegenstimme": "Die Opposition sieht im Schritt nur einen Aufschub einer gescheiterten Regierung. Der Kern des Streits bleibt: Die flämischen Sozialisten (Vooruit) wollen Spitzenverdiener stärker belasten, die frankophonen Liberalen (MR) lehnen das und eine Mehrwertsteuerreform ab.",
+              "sources": [
+                {
+                  "name": "Politico Europe",
+                  "url": "https://www.politico.eu/article/king-philippe-refuses-prime-minister-bart-de-wever-resignation/"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/belgium-budget-wever-king-resignation-6ef749a5875cb78e486480d28506a7a3"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/06/belgian-king-refuses-pm-bart-de-wevers-resignation-and-asks-him-to-restart-budget-talks"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-israel-eisenkot-67-empfehlungen",
+              "slug": "israel-eisenkot-67-empfehlungen",
+              "title": "Israel: 67 Abgeordnete empfehlen Eisenkot als Premier, Herzog entscheidet Sonntag",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "kurz": "Netanyahu kommt auf 46 Empfehlungen; Herzog verweist auf gegenseitige Vetos in den Lagern.",
+              "summary": "Nach der Parlamentswahl haben 67 der 120 Knesset-Abgeordneten Präsident Isaac Herzog den früheren Armeechef Gadi Eisenkot als Regierungsbildner empfohlen, 46 den amtierenden Premier Benjamin Netanyahu. Herzog will erst am Sonntag bekanntgeben, wen er beauftragt. Er begründet das mit gegenseitigen Vetos zwischen und innerhalb der Blöcke.",
+              "gegenstimme": "Netanyahus Lager argumentiert, eine Eisenkot-Mehrheit hänge teils an arabischen Parteien, die nur von aussen stützen wollen, und sei daher brüchig. Eisenkots Unterstützer, etwa die Partei Yashar, werfen Herzog vor, mit Fernsehauftritten eine von den meisten Abgeordneten abgelehnte Einheitsregierung zu forcieren.",
+              "sources": [
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/"
+                },
+                {
+                  "name": "Ynet",
+                  "url": "https://www.ynetnews.com/article/rjj1td9pfx"
+                },
+                {
+                  "name": "The Jerusalem Post",
+                  "url": "https://www.jpost.com/israel-election-2026/article-913989"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-eu-tiktok-dsa-kaninchenbau",
+              "slug": "eu-tiktok-dsa-kaninchenbau",
+              "title": "EU-Kommission: TikToks «Für dich»-Feed verstösst vorläufig gegen den DSA",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "📱",
+              "edition": "morning",
+              "kurz": "Brüssel wirft Bytedance vor, Nutzer in schädliche Endlosschleifen zu führen; Busse bis 6 Prozent des Umsatzes droht.",
+              "summary": "Die EU-Kommission ist in vorläufigen Ergebnissen zum Schluss gekommen, dass TikToks Empfehlungsalgorithmus gegen das Gesetz über digitale Dienste (DSA) verstösst. Der «Für dich»-Feed führe Nutzer in einen «Kaninchenbau» aus immer gleichartigen Inhalten, etwa zu Traurigkeit, Isolation oder Körperbild. Bestätigt sich der Befund, droht eine Busse von bis zu sechs Prozent des weltweiten Jahresumsatzes.",
+              "gegenstimme": "TikTok kann sich zu den Vorwürfen äussern und verweist auf bestehende Schutzfunktionen. Kritiker der EU-Digitalregulierung, besonders in den USA, sehen in DSA-Verfahren einen Hebel gegen Plattformen und Meinungsfreiheit; Kinderschützer halten das Vorgehen dagegen für überfällig.",
+              "sources": [
+                {
+                  "name": "EU-Kommission",
+                  "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/DSA-Verfahren-EU-Kommission-droht-TikTok-mit-Strafe-11515238.html"
+                },
+                {
+                  "name": "Politico Europe",
+                  "url": "https://www.politico.eu/article/eu-accuses-tiktok-of-breaching-digital-rules-because-algorithm-creates-rabbit-holes/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-brasilien-meta-ki-training-medien",
+              "slug": "brasilien-meta-ki-training-medien",
+              "title": "Brasilien: Gericht verbietet Meta KI-Training mit Medieninhalten",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "⚖️",
+              "edition": "morning",
+              "kurz": "Einstweilige Verfügung aus São Paulo stoppt neue Nutzungsbedingungen; Zwangsgeld von 1 Million Real pro Tag.",
+              "summary": "Ein Gericht in São Paulo hat Meta per einstweiliger Verfügung untersagt, Inhalte brasilianischer Medien ohne Erlaubnis zum Training seiner KI zu verwenden. Es setzte den Teil der neuen Geschäftsbedingungen aus, der Medien die kostenlose Überlassung ihrer Inhalte abverlangt hätte, und verbot Sanktionen gegen ablehnende Verlage. Bei Verstössen drohen 1 Million Real (rund 162'000 Euro) pro Tag, maximal 100 Millionen.",
+              "gegenstimme": "Meta argumentiert generell, KI-Training mit öffentlich zugänglichen Inhalten sei rechtmässig und für Innovation nötig; das Urteil ist vorläufig. Kritiker von Leistungsschutzrechten warnen, solche Entscheide stärkten vor allem grosse Verlage gegenüber kleineren Anbietern.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Freitag-OpenAIs-folgsame-neue-Cybersecurity-KI-Trainingsauflagen-fuer-Meta-KI-11514290.html"
+                },
+                {
+                  "name": "Folha de S.Paulo",
+                  "url": "https://www1.folha.uol.com.br/internacional/en/business/2026/11/court-bars-meta-from-using-news-articles-to-train-ai-in-brazil.shtml"
+                },
+                {
+                  "name": "Nieman Lab",
+                  "url": "https://www.niemanlab.org/reading/brazilian-court-prohibits-meta-from-using-journalistic-content-without-authorization/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-07-washington-colorado-frauensport-abstimmungen",
+              "slug": "washington-colorado-frauensport-abstimmungen",
+              "title": "Washington und Colorado: Stimmvolk beschränkt Mädchen- und Frauensport auf biologisches Geschlecht",
+              "date": "2026-11-07",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "morning",
+              "kurz": "Auch zwei demokratisch geprägte Bundesstaaten sagen Ja: Washington mit 56,8, Colorado mit 52,3 Prozent.",
+              "summary": "Bei den US-Wahlen vom 3. November haben die Stimmberechtigten in Washington (Initiative 638) und Colorado (Proposition 134) Vorlagen angenommen, die die Teilnahme an Mädchen- und Frauenwettkämpfen im Schulsport an das biologische Geschlecht knüpfen. Washington stimmte laut inoffiziellem Ergebnis mit 56,8 Prozent zu, Colorado mit 52,3 Prozent. Beide Staaten gelten als demokratisch.",
+              "gegenstimme": "Gegner, darunter Trans-Organisationen und viele Demokraten, sehen in solchen Vorlagen eine Diskriminierung einer kleinen Minderheit; juristische Anfechtungen gelten als wahrscheinlich. Befürworterinnen, darunter Frauensport-Verbände, sprechen von Fairness und Sicherheit und verweisen darauf, dass die Mehrheit diesmal auch in links regierten Staaten zustande kam.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/transgender-sports-ballot-question-washington-colorado-arizona-0a2a6d209ffb7ee552db4e5419b1e768"
+                },
+                {
+                  "name": "The Spokesman-Review",
+                  "url": "https://www.spokesman.com/elections/2026/washington-general-election-nov-3/measures/statewide/washington/510/"
+                },
+                {
+                  "name": "Ballotpedia",
+                  "url": "https://ballotpedia.org/Washington_Initiative_638,_Sex_Verification_Requirements_for_Female_School_Sports_Initiative_(2026)"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-06",
       "editions": {
