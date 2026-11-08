@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T06:30:00+01:00",
+  "updated": "2026-11-08T12:30:00+01:00",
   "days": [
     {
       "date": "2026-11-08",
@@ -246,6 +246,312 @@
                 {
                   "name": "CBC / Reuters",
                   "url": "https://www.cbc.ca/news/world/paraguay-prosecutors-charge-impeached-president-pena-detention-9.7413705"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:30",
+          "articles": [
+            {
+              "id": "2026-11-08-freiburg-wahlen-erster-wahlgang",
+              "slug": "freiburg-wahlen-erster-wahlgang",
+              "title": "Freiburg wählt Regierung, Parlament und Oberamtspersonen",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "midday",
+              "kurz": "Im ersten Wahlgang stehen 14 Kandidierende für sieben Staatsratssitze; eine Bilanz wird am Nachmittag erwartet.",
+              "summary": "Im Kanton Freiburg wählen die Stimmberechtigten am Sonntag den siebenköpfigen Staatsrat, den 110 Sitze starken Grossen Rat und die Oberamtspersonen der sieben Bezirke. Drei Amtsinhaber treten nicht mehr an: die Mitte-Staatsräte Jean-Pierre Siggen und Olivier Curty sowie SP-Staatsrat Jean-François Steiert. 14 Personen auf fünf Listen bewerben sich um die Regierung; erste Resultate für den Staatsrat wurden ab etwa 12.15 Uhr erwartet, eine Bilanz des ersten Wahlgangs gegen 14.30 Uhr.",
+              "gegenstimme": "Mitte, FDP und SVP stellen heute fünf der sieben Regierungssitze und gelten auch im Parlament als klar mehrheitsfähig. Die Linke hofft, nach den Rücktritten einen dritten Sitz im Staatsrat zu gewinnen. Offen ist, wie stark die deutschsprachige Minderheit künftig in der Regierung vertreten sein wird. Das neue einheitliche Ankreuzsystem bei Majorzwahlen könnte Allianzeffekte abschwächen, weil sich Panaschieren auf Parteilisten nicht mehr ablesen lässt.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-welche-partei-holt-die-meisten-sitze-im-freiburger-parlament"
+                },
+                {
+                  "name": "SRF (Staatsrat)",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-verliert-die-deutschsprachige-minderheit-sitze-in-der-regierung"
+                },
+                {
+                  "name": "Le Temps",
+                  "url": "https://www.letemps.ch/suisse/fribourg/en-direct-elections-cantonales-a-fribourg-les-resultats-et-analyses"
+                },
+                {
+                  "name": "Staat Freiburg",
+                  "url": "https://www.fr.ch/de/staat-und-recht/abstimmungen-wahlen-und-politische-rechte/wahlen-informationen-und-ergebnisse"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-biel-moschee-finanzierung",
+              "slug": "biel-moschee-finanzierung",
+              "title": "Bieler Verein wirbt für Gebetszentrum – Finanzierung offen",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🕌",
+              "edition": "midday",
+              "kurz": "Nach Fragen des «SonntagsBlick» verschwanden das Spendenziel von 10 Millionen Franken und das Wort «Moschee» von der Website.",
+              "summary": "Ein muslimischer Verein in Biel plant ein neues «Kultur- und Gebetszentrum», nachdem die bestehende Moschee an der Madretschstrasse zu klein geworden ist. Auf der Website der 2025 gegründeten Muslimischen Gemeinschaft Biel stand zunächst ein Spendenziel von 10 Millionen Franken und der Satz «Wir gründen eine Moschee». Nach Fragen des «SonntagsBlick» verschwanden Betrag, Spendenbalken und das Wort «Moschee». Der Vorstand nennt die 10 Millionen einen «rein illustrativen Betrag»; eine Sammelkampagne sei noch nicht lanciert, Spenden würden aber bereits entgegengenommen.",
+              "gegenstimme": "Ausländische Finanzierung von Moscheen ist in der Schweiz legal; Vorstösse für ein Verbot scheiterten 2017 und 2018, Bundesrat und muslimische Verbände warnten vor einem Generalverdacht. Der Verein schreibt, er wolle vor allem aus eigenen Mitteln finanzieren, schliesse Unterstützung aus dem Ausland aber nicht aus; bei Geldgebern in Katar oder Kuwait habe man bisher nicht angefragt. Präsident Hamza Ben Messaoud betont, der Verein und die Stiftung Wakef seien unabhängig, eine Zusammenarbeit aber denkbar. Einen Standort und ein Baugesuch gibt es nicht; die Stadt Biel sagt, es sei keine Standortanfrage eingegangen.",
+              "sources": [
+                {
+                  "name": "Blick / SonntagsBlick",
+                  "url": "https://www.blick.ch/schweiz/bern/bieler-moschee-fragen-zu-geld-aus-katar-und-kuwait/jwtg10f"
+                },
+                {
+                  "name": "Watson (Sonntagszeitungen)",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/989375958-jans-laesst-umstrittene-lex-on-intern-untersuchen-die-sonntagsnews"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-tuggen-neonazi-beschuldigter",
+              "slug": "tuggen-neonazi-beschuldigter",
+              "title": "Beschuldigter von Tuggen soll langjähriger Blood-and-Honour-Aktivist sein",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Dem 42-jährigen Schweizer wird vorsätzliche Tötung vorgeworfen; die biografischen Angaben stammen aus Recherchen des «SonntagsBlick».",
+              "summary": "Nach dem Tod eines 27-jährigen Deutschen bei einer Auseinandersetzung im Anschluss an ein Konzert der Punkband Krawallbrüder in Tuggen SZ im Oktober berichten «SonntagsBlick» und 20 Minuten weitere Details zum Tatverdächtigen. Der 42-jährige Schweizer sitzt in Untersuchungshaft; die Staatsanwaltschaft Schwyz ermittelt wegen vorsätzlicher Tötung. Laut der Zeitung verkehrt er seit mindestens 2008 in der rechtsextremen Szene und seit 2012 im Innerschweizer Ableger des Neonazi-Netzwerks Blood and Honour, das der Nachrichtendienst des Bundes beobachtet und das in Deutschland verboten ist.",
+              "gegenstimme": "Bis zu einem rechtskräftigen Urteil gilt die Unschuldsvermutung. Eine langjährige Szenezugehörigkeit beweist für sich genommen weder Tathergang noch Motiv. Wie der 27-Jährige genau starb, ist weiter Gegenstand der Ermittlung. Die Betreiber des Lokals «The Bandits» betonen, politisch neutral zu sein und sich von Extremismus und Gewalt zu distanzieren.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/tuggen-sz-familienvater-und-neonazi-42-soll-27-jaehrigen-getoetet-haben-103663951"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/228404189-beschuldigter-von-tuggen-soll-seit-jahren-in-neonazi-szene-aktiv-sein"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/toter-nach-konzert-das-ist-der-neonazi-schlaeger-von-tuggen/lwzt2dv"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/toetungsdelikt-in-tuggen-mutmasslicher-taeter-soll-mitglied-von-neonazi-netzwerk-sein"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-zuerich-waadt-sprachaustausch",
+              "slug": "zuerich-waadt-sprachaustausch",
+              "title": "Zürich und Waadt verlängern den schulischen Sprachaustausch",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🗣️",
+              "edition": "midday",
+              "kurz": "Die Bildungsdirektoren Steiner und Borloz erneuerten die Partnerschaft, während im Zürcher Kantonsrat das Frühfranzösisch unter Druck steht.",
+              "summary": "Die Kantone Zürich und Waadt haben am Freitag in Lausanne ihre Vereinbarungen zum schulischen Sprachaustausch erneuert. Seit 2021 sind laut SRF über 16'000 Zürcher Schülerinnen und Schüler für kürzere oder längere Aufenthalte in die Waadt gereist, ebenso viele Waadtländer Jugendliche in den Kanton Zürich. Geplant sind einfachere kurze Klassenaustausche über eine Vermittlungsplattform sowie Brieffreundschaften schon ab den ersten Französischlektionen. Bildungsdirektorin Silvia Steiner (Mitte) will dem Zürcher Kantonsrat im ersten Quartal 2027 einen Vorschlag zum Französischunterricht an der Primarschule unterbreiten.",
+              "gegenstimme": "Eine Mehrheit aus Mitte, SVP, GLP und EVP im Zürcher Kantonsrat will den Französischunterricht in der Primarschule abschaffen und erst ab der Sekundarstufe belassen. Steiner lehnt das ab und setzt auf Messung des Lernerfolgs sowie mehr Begegnungen statt auf ein Streichen des Fachs. Bundesrätin Elisabeth Baume-Schneider (SP) nannte die Pläne laut NZZ einen Affront und drohte mit einer Bundesregelung, um Deutschschweizer Kantone zum Frühfranzösisch zu verpflichten.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/erfolgreiches-bildungsprojekt-fruehfranzoesisch-zuerich-baut-austauschprogramm-mit-der-waadt-aus"
+                },
+                {
+                  "name": "Keystone-SDA / Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/z%C3%BCrich-und-waadt-verl%C3%A4ngern-engagement-f%C3%BCr-sprachaustausch/92338747"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/zuerich-und-waadt-partnerschaft-fuer-den-sprachlichen-austausch-verlaengert-ld.10053289"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-abb-softbank-china-robotik",
+              "slug": "abb-softbank-china-robotik",
+              "title": "ABB und SoftBank prüfen China-Abspaltung nach Peking-Veto",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🤖",
+              "edition": "midday",
+              "kurz": "Chinas Sicherheitsprüfung hat den Kauf des ABB-Robotikgeschäfts in China untersagt; die Parteien suchen einen Ausweg.",
+              "summary": "Der Zürcher Konzern ABB und die japanische SoftBank Group prüfen, das China-Geschäft aus ihrem Robotikdeal herauszulösen, nachdem Pekings Office of the Working Mechanism for Foreign Investment Security Review den Erwerb des chinesischen Teils untersagt hat. ABB hatte den Verkauf der Sparte im Oktober 2025 zu einem Unternehmenswert von 5,375 Milliarden Dollar vereinbart. China ist laut mit der Sache vertrauten Personen, auf die sich Bloomberg beruft, der grösste Einzelmarkt von ABB Robotics und steht für rund 30 Prozent dieses Geschäfts.",
+              "gegenstimme": "ABB lehnte am Samstag einen Kommentar zum Bloomberg-Bericht ab; SoftBank reagierte ausserhalb der Geschäftszeiten nicht. Eine Abspaltung würde eine eigene Gesellschaft mit anderer Eigentümerstruktur bedeuten oder einen separaten Käufer für China erfordern. Insider sehen hinter dem Veto die Sorge, sensible Prozessdaten von Industrierobotern könnten ins Ausland und in die Ausbildung von KI-Modellen fliessen. Der erwartete Verkaufserlös galt Analysten als Baustein für künftige Zukäufe von ABB.",
+              "sources": [
+                {
+                  "name": "ABB (Medienmitteilung)",
+                  "url": "https://new.abb.com/news/detail/140154/update-on-divestment-of-abb-robotics"
+                },
+                {
+                  "name": "Japan Times / Bloomberg",
+                  "url": "https://www.japantimes.co.jp/business/2026/11/08/companies/softbank-abb-china-carve-out/"
+                },
+                {
+                  "name": "Wirtschaftswoche",
+                  "url": "https://www.wiwo.de/unternehmen/it/uebernahme-softbank-und-abb-pruefen-china-abspaltung-zur-rettung-von-robotik-deal/100268086.html"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/softbank-deal-rueckschlag-fuer-abb-china-blockiert-verkauf-der-robotik-sparte"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-riad-aramco-raketenabwehr",
+              "slug": "riad-aramco-raketenabwehr",
+              "title": "Saudi-Arabien fängt Raketen ab – Trümmer treffen Aramco-Turm in Riad",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🚨",
+              "edition": "midday",
+              "kurz": "Das Energieministerium spricht von begrenztem Schaden an einem Verwaltungsgebäude; Verletzte wurden nicht gemeldet.",
+              "summary": "Saudi-Arabien hat am Sonntag nach Angaben der von Riad geführten Koalition zwei Marschflugkörper der vom Iran unterstützten Huthi-Miliz abgefangen, die auf Riad und den Süden des Königreichs gerichtet waren. Herabfallende Trümmer beschädigten ein Verwaltungsgebäude des staatlichen Ölkonzerns Saudi Aramco im King Abdullah Financial District. Das Energieministerium sprach von begrenztem Schaden; Verletzte oder Tote wurden nicht gemeldet. Ein Reuters-Zeuge sah an mehreren Stockwerken des Aramco-Turms herausgedrückte Fenster.",
+              "gegenstimme": "Die Huthi bekannten sich zunächst nicht zu dem Angriff. Der Vorfall ereignete sich einen Tag, nachdem das von den Huthi kontrollierte Gesundheitsministerium in Sanaa saudi-arabische Luftschläge auf die Ortschaft Bani Hushaysh östlich der Hauptstadt mit mindestens 33 Toten angegeben hatte, darunter überwiegend Frauen und Kinder. Saudi-Arabien erklärte, den Vorwurf zu prüfen. Die erneuten Kämpfe haben eine von der Uno 2022 vermittelte Waffenruhe beendet.",
+              "sources": [
+                {
+                  "name": "CNBC / Reuters",
+                  "url": "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/mideast-news-november-8-2026-090d96e25872f5c63e105b9dd3e5dc60"
+                },
+                {
+                  "name": "France 24",
+                  "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-iran-hinrichtungen-januarproteste",
+              "slug": "iran-hinrichtungen-januarproteste",
+              "title": "Iran richtet drei Männer nach den Januarprotesten hin",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Die Justiz wirft Hassan Divband, Hamid Kazemi und Reza Zanganeh Angriffe im Auftrag Israels und der USA vor; Belege fehlen.",
+              "summary": "Irans Justiz hat nach Angaben des Justizportals Misan drei Männer hingerichtet, die im Zusammenhang mit den Massenprotesten vom Januar festgenommen worden waren: Hassan Divband (in anderen Berichten Dioband), Hamid Kazemi und Reza Zanganeh. Ihnen wurde vorgeworfen, in Karadsch an Angriffen auf Regierungsgebäude, Brandstiftung und der Beschädigung eines Umspannwerks beteiligt gewesen zu sein sowie im Auftrag Israels, der USA und «feindseliger Gruppen» gehandelt zu haben. Der Oberste Gerichtshof hatte die Todesurteile bestätigt; weiteres Vermögen wurde eingezogen. Andere Angeklagte in dem Verfahren erhielten Haftstrafen von fünf bis zehn Jahren.",
+              "gegenstimme": "Menschenrechtsorganisationen werfen Teheran vor, die Todesstrafe zur Einschüchterung einzusetzen. Das in den USA ansässige Iran Human Rights Documentation Center berichtete, Zanganeh sei 27 Jahre alt und als Techniker für ausländische Fahrzeuge tätig gewesen; die Familie weist die Spionagevorwürfe zurück und führt sie auf Geschäftsreisen ins Ausland zurück. Überprüfbare Angaben zu Verhören, Beweisen und Verfahren liegen demnach nicht vor. Amnesty International zählte im vergangenen Jahr mindestens 2159 Hinrichtungen im Iran, den höchsten erfassten Wert seit 1981.",
+              "sources": [
+                {
+                  "name": "Deutsche Welle",
+                  "url": "https://www.dw.com/de/iran-richtet-drei-weitere-m%C3%A4nner-nach-massenprotesten-hin/a-79889299"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/iran-drei-maenner-nach-protesten-im-januar-hingerichtet-a-db61c20b-b16b-4fca-8851-83b4100e45ba"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/drei-maenner-wegen-des-vorwurfs-der-beteiligung-an-regierungskritischen-protesten-hingerichtet-102.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-ukraine-stromausfall-dnipro",
+              "slug": "ukraine-stromausfall-dnipro",
+              "title": "Über 600'000 Menschen in der Ostukraine ohne Strom",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "international",
+              "icon": "⚡",
+              "edition": "midday",
+              "kurz": "Der Versorger DTEK meldet beschädigte Energieanlagen in der Region Dnipropetrowsk nach einem nächtlichen russischen Angriff.",
+              "summary": "Nach einem russischen Angriff in der Nacht auf Sonntag sind laut ukrainischen Angaben mehr als 600'000 Menschen im Osten des Landes ohne Strom. Der Energieversorger DTEK teilte auf Telegram mit, in der Region Dnipropetrowsk seien wichtige Energieanlagen beschädigt worden. Das russische Verteidigungsministerium bestätigte Angriffe auf die ukrainische Energieinfrastruktur: Die Streitkräfte hätten ein Umspannwerk in der Region Schytomyr beschossen, das die Rüstungsindustrie mit Strom versorge, und im Schwarzen Meer südwestlich von Odessa einen Frachter mit Waffen und militärischer Ausrüstung getroffen.",
+              "gegenstimme": "Moskau stellt die Schläge als Angriffe auf militärisch relevante Energie- und Nachschubziele dar, nicht als Angriffe auf die Zivilbevölkerung. Unabhängig geprüft ist weder die militärische Nutzung des Umspannwerks in Schytomyr noch die Ladung des getroffenen Frachters. Bei einem ukrainischen Drohnenangriff auf die russische Grenzregion Kursk starb nach Angaben von Gouverneur Alexander Chinschtein ein 40-jähriger Mann, als eine Drohne im Dorf Perwomajskoje einen Traktor traf; eine Stellungnahme aus Kiew dazu lag zunächst nicht vor.",
+              "sources": [
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/erneut-russischer-angriff-auf-ukrainische-energieversorgung-600-000-menschen-ohne-strom-100.html"
+                },
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3447580/"
+                },
+                {
+                  "name": "Radio Free Europe / Radio Liberty",
+                  "url": "https://www.rferl.org/a/russia-strikes-ukraine-energy/33893219.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-centcom-iron-gate",
+              "slug": "centcom-iron-gate",
+              "title": "US-Militär startet Taskforce gegen iranische Landrouten",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🛡️",
+              "edition": "midday",
+              "kurz": "Task Force Iron Gate in Tampa soll Waffen, Dual-Use-Güter und Sanktionsware über Irans Landgrenzen und das Kaspische Meer unterbinden.",
+              "summary": "Das US-Zentralkommando CENTCOM hat am Samstag die Task Force Iron Gate eingerichtet, um zu verhindern, dass der Iran über Landwege fortschrittliche Waffen und anderes Material transportiert. Admiral Brad Cooper liess die Einheit mit rund 20 zivilen und militärischen Mitarbeitenden in Tampa, Florida, aufstellen. Sie soll mit anderen US-Behörden die Bewegung von Waffensystemen, Dual-Use-Technologien, sanktionierten Gütern und illegalen Einnahmen über Irans Landgrenzen und das Kaspische Meer unterbinden und die seit Monaten laufende Seeblockade iranischer Häfen ergänzen.",
+              "gegenstimme": "CENTCOM spricht von einem «eisernen» Erfolg der Seeblockade und davon, der Finanzierung von Terror, dem Wiederaufbau von Waffenfabriken und der Auffüllung des Militärs den Geldhahn zuzudrehen; das Kommando behauptet, die Blockade habe dem Iran in den vergangenen Monaten Exporte von Rohöl im Wert von mehr als 25 Milliarden Dollar verwehrt. Der ehemalige US-Vize-Verteidigungsstaatssekretär Michael Mulroy sagte Al Jazeera, die Taskforce diene zunächst der Aufklärung möglicher Abschneidepunkte; bei einer Eskalation durch Präsident Donald Trump könnten wirtschaftliche und Infrastrukturziele folgen. Teheran bezeichnet die Blockade als illegale Belagerung.",
+              "sources": [
+                {
+                  "name": "US Central Command",
+                  "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644250/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-frankreich-proteste-lebenshaltungskosten",
+              "slug": "frankreich-proteste-lebenshaltungskosten",
+              "title": "Rund 146'000 Menschen demonstrieren erneut in Frankreich",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "international",
+              "icon": "✊",
+              "edition": "midday",
+              "kurz": "Das Innenministerium zählt 146'000 Teilnehmende, die Gewerkschaften 250'000; am Dienstag ist ein Bildungsstreik geplant.",
+              "summary": "Am vierten Protestwochenende in Folge sind am Samstag laut französischem Innenministerium 146'000 Menschen gegen hohe Lebenshaltungskosten und Missstände im Bildungswesen auf die Strasse gegangen, darunter 46'000 in Paris. Die Gewerkschaften sprechen von 250'000 Teilnehmenden landesweit und 75'000 in der Hauptstadt. Das ist weniger als an den drei vorherigen Wochenenden. Die Kundgebungen verliefen mehrheitlich friedlich; danach kam es in mehreren Städten zu Zusammenstössen. Bis 18 Uhr zählte das Ministerium 232 Festnahmen. Rund 70'000 Sicherheitskräfte waren im Einsatz.",
+              "gegenstimme": "Die Polizei spricht von gewalttätigen Gruppen, etwa 200 Personen, die in Paris nach dem Zug zur Place de la Nation Beamte angegriffen hätten. Kritiker halten das Vorgehen der Ordnungskräfte für unverhältnismässig: Nach einer AFP-Zählung wurden seit Mitte September mindestens 20 Menschen, darunter Jugendliche, durch Gummigeschosse oder Granaten der Polizei schwer verletzt; ein 14-Jähriger verlor demnach die meisten Zähne, ein 15-Jähriger eine Hand, mindestens zwei Menschen das Sehvermögen auf einem Auge. Eine angemeldete Gelbwesten-Kundgebung am Place de la Concorde war verboten; die Koordinatoren Benjamin Ball und Azelma Sigaux wurden festgenommen.",
+              "sources": [
+                {
+                  "name": "France 24 / AFP",
+                  "url": "https://www.france24.com/en/france/20261107-sporadic-clashes-between-police-and-protesters-as-renewed-demonstrations-sweep-france"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/teilnahme-ruecklaeufig-rund-150-000-demonstrierten-in-frankreich"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/frankreich-behoerden-sprechen-von-fast-150-000-demonstranten-a-94b546d9-8726-43e2-a6ba-8f3bf5fbda00"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-melenchon-wahlprogramm-2027",
+              "slug": "melenchon-wahlprogramm-2027",
+              "title": "Mélenchon startet den Wahlkampf: «Alles muss sich ändern»",
+              "date": "2026-11-08",
+              "time": "12:30",
+              "category": "international",
+              "icon": "📢",
+              "edition": "midday",
+              "kurz": "Vor rund 20'000 Anhängern in Le Bourget verspricht der LFI-Gründer unter anderem Rentenalter 60 und einen höheren Mindestlohn.",
+              "summary": "Der linksaussen stehende Präsidentschaftskandidat Jean-Luc Mélenchon hat am Samstag in Le Bourget vor rund 20'000 Anhängerinnen und Anhängern sein Programm für die Wahl 2027 vorgestellt. Der 75-jährige Gründer von La France Insoumise sagte, es gebe nur eine vernünftige Lösung: «Alles muss sich ändern.» Das Manifest «L'Avenir en commun» sieht unter anderem vor, das Rentenalter für Versicherte mit 40 Beitragsjahren auf 60 Jahre zurückzusetzen, den monatlichen Nettomindestlohn von rund 1480 auf 1700 Euro zu erhöhen, Preise für Grundnahrungsmittel zu deckeln und die von Präsident Emmanuel Macron beschlossene Anhebung des Rentenalters auf 64 Jahre rückgängig zu machen.",
+              "gegenstimme": "Umfragen sehen Mélenchon als stärksten linken Bewerber, der gegen Marine Le Pen in eine Stichwahl im April kommen, diese aber voraussichtlich verlieren würde. SRF-Korrespondentin Mirjam Mathis berichtet, Unternehmer und Vermögende fürchteten einen Umbau des Wirtschaftssystems; LFI rechnet mit 106 Milliarden Euro Mehreinnahmen durch höhere Steuern auf Unternehmen und reiche Haushalte, was viele Ökonomen bezweifeln. Das Programm will ausserdem schrittweise aus der NATO-Kommandostruktur aussteigen, die Kernkraft zugunsten erneuerbarer Energien zurückfahren und eine Sechste Republik einführen.",
+              "sources": [
+                {
+                  "name": "France 24 / Reuters / AFP",
+                  "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/wahlen-in-frankreich-2027-linksaussen-kandidat-melenchon-alles-muss-sich-aendern"
                 }
               ]
             }
