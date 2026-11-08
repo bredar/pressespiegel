@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T12:30:00+01:00",
+  "updated": "2026-11-08T17:30:00+01:00",
   "days": [
     {
       "date": "2026-11-08",
@@ -552,6 +552,287 @@
                 {
                   "name": "SRF",
                   "url": "https://www.srf.ch/news/international/wahlen-in-frankreich-2027-linksaussen-kandidat-melenchon-alles-muss-sich-aendern"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-11-08-freiburg-staatsrat-wahlresultate",
+              "slug": "freiburg-staatsrat-wahlresultate",
+              "title": "Bürgerliches Trio im ersten Wahlgang in den Freiburger Staatsrat gewählt",
+              "date": "2026-11-08",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/ae48f0adc5b989064186dc1e28eb7f4317cfc6ca-92347296.jpg?ver=cb2858c6&fit=1200,900",
+              "kurz": "Collaud, Castella und Roth Pasquier erreichen das absolute Mehr; für die übrigen vier Regierungssitze folgt am 29. November ein zweiter Umgang.",
+              "summary": "Im Kanton Freiburg sind am Sonntag die beiden bisherigen FDP-Staatsräte Romain Collaud (44'217 Stimmen) und Didier Castella (43'789) sowie die Mitte-Nationalrätin Marie-France Roth Pasquier (41'977) bereits im ersten Wahlgang in den Staatsrat gewählt worden. Sie übertrafen das absolute Mehr von 39'554 Stimmen. Für die übrigen vier der sieben Regierungssitze findet am 29. November ein zweiter Wahlgang statt. Die Wahlbeteiligung lag bei 36,09 Prozent.",
+              "gegenstimme": "Vom linken Bündnis ist noch niemand gewählt. Die Grüne Sylvie Bonvin-Sansonnens nannte den rechten Block eine «Dampfwalze». SP-Präsident Thomas Gremaud sieht nach dem ersten Umgang die Chance, drei Sitze anzustreben; eine bürgerliche Mehrheit abzulösen sei nicht das Ziel. SRF-Korrespondent Oliver Kempa warnt, ohne erneute Mobilisierung der Bürgerlichen könne der Erfolg des ersten Wahlgangs im zweiten Umgang noch in einem Sitzverlust enden. Offen bleibt auch, ob die deutschsprachige Minderheit wieder zwei Sitze in der Regierung erhält.",
+              "sources": [
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/b%C3%BCrgerliches-trio-im-ersten-anlauf-in-freiburger-staatsrat-gew%C3%A4hlt/92347309"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-erfolg-fuer-buergerliche-sie-holen-drei-sitze-im-staatsrat"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/regions/fribourg/2026/minute-par-minute/29407781.html"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/regierung-und-parlament-so-hat-der-kanton-freiburg-gewaehlt/j4yxv35"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-just-eat-streik-zuerich",
+              "slug": "just-eat-streik-zuerich",
+              "title": "Just-Eat-Kuriere streiken in Zürich und im Glatttal",
+              "date": "2026-11-08",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "🚲",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/32c0834e53fa160bc863986347cd8ed943728c17-92346669.jpg?ver=ba8af9d3&fit=1200,900",
+              "kurz": "Am auftragsstärksten Tag legen Fahrer die Arbeit nieder und protestieren gegen geplante Entlassungen und den Wechsel zur Selbstständigkeit.",
+              "summary": "Just-Eat-Kuriere an den Standorten Zürich und Glatttal haben am Sonntag von 11 bis 22 Uhr gestreikt. Sie protestieren gegen die Ende Oktober angekündigte Umstellung von festen Anstellungen auf selbstständige Fahrer. Laut der Gewerkschaft Syndicom fiel über die Hälfte der rund 30 geplanten Schichten aus. Der Belegschaft zufolge droht rund 500 Kurierinnen und Kurieren die Kündigung; sie fordern einen Stopp des Stellenabbaus, ernsthafte Verhandlungen und eine Verlängerung des Konsultationsverfahrens bis zum 30. November.",
+              "gegenstimme": "Just-Eat-Schweiz-Chef Lukas Streich sagte im «Tages-Anzeiger», der Schritt sei keine Sparmassnahme, sondern eine Reaktion auf veränderte Kundenbedürfnisse: Die Nachfrage verteile sich über den ganzen Tag bis in die Nacht und lasse sich mit festen Schichtplänen zwei Wochen im Voraus nicht gewährleisten. Selbstständige könnten einzelne Aufträge ablehnen, das sei ein Vorteil. Ob Vorgaben eingehalten würden, sei Sache der Behörden. In der Westschweiz bleiben Kuriere wegen eines Gerichtsurteils angestellt.",
+              "sources": [
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/just-eat-kuriere-streiken-in-z%C3%BCrich-und-im-glatttal/92346682"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/zuerich-keine-essenslieferungen-just-eat-kuriere-streiken-103664025"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/wirtschaft/just-eat-kuriere-treten-in-zuerich-in-den-streik/vdtgybe"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-imam-aliu-ruecktritt-zuerich",
+              "slug": "imam-aliu-ruecktritt-zuerich",
+              "title": "Zürcher Muslimverbände trennen sich von Imam Bashkim Aliu",
+              "date": "2026-11-08",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🕌",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/08/0aa90fed-19a0-410f-99bb-e1b3c525e35e.png?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=110%2C73%2C522%2C349&s=dbba225c5444bf25ea84558f7ee7fe5f",
+              "kurz": "Nach homophoben Aussagen und einer Konferenz in Katar verliert der Imam leitende Ämter bei VIOZ und FIDS.",
+              "summary": "Imam Bashkim Aliu ist von sämtlichen Ämtern bei der Vereinigung der Islamischen Organisationen Zürich (VIOZ) zurückgetreten; die Föderation islamischer Dachorganisationen Schweiz (FIDS) hat ihn per sofort als Leiter ihrer Imam-Kommission entbunden. Anlass sind Recherchen der «SonntagsZeitung». 2017 bezeichnete Aliu die Pride in Pristina als «Parade der Schande». Im Januar 2024 nahm er in Doha an der Generalversammlung der Internationalen Union Muslimischer Gelehrter teil, an der auch der damalige Hamas-Führer Ismail Haniyeh auftrat.",
+              "gegenstimme": "VIOZ und FIDS distanzieren sich von Homophobie und bekennen sich zum schweizerischen Rechtsstaat. Die VIOZ betont, Aliu habe weder in ihrem Namen noch in ihrem Auftrag an der Konferenz in Katar teilgenommen; die Reise werde weiter abgeklärt. Die FIDS sagt, eine Teilnahme an einer Zusammenkunft mit dieser Gästeliste würde man keinem Imam der Organisation erlauben; von der Reise habe sie zuvor nichts gewusst.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/homophobe-aeusserungen-zuercher-muslimverbaende-trennen-sich-von-einflussreichem-imam-103663984"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/homosexualitaet/869782839-zuercher-spitzen-imam-tritt-nach-homophoben-aussagen-zurueck"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/homophober-imam-in-zurich-ist-weg-vom-fenster-67199417"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-coronatest-abrechnungen-bag",
+              "slug": "coronatest-abrechnungen-bag",
+              "title": "BAG lässt Hunderttausende Corona-Testrechnungen erneut prüfen",
+              "date": "2026-11-08",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🧾",
+              "edition": "evening",
+              "image": "https://media.20min.ch/6/image/2026/02/12/74ada8db-6c71-4a04-98ec-9198a1fb5d0c.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C3757%2C2505&s=a765dcbb5402adabcce8e3206325b939",
+              "kurz": "Rechnungen über 213 Millionen Franken stehen unter Verdacht; bisher holte der Bund 23,3 Millionen zurück.",
+              "summary": "Das Bundesamt für Gesundheit vergibt laut «SonntagsZeitung» ein weiteres Mandat, um Abrechnungen von Coronatests aus der Pandemie zu prüfen. Rechnungen über 213 Millionen Franken stehen unter Verdacht, zu Unrecht gestellt worden zu sein; das Amt untersucht 322 Verdachtsfälle bei Testcentern, Arztpraxen, Apotheken und Labors. Bisher holte der Bund 23,3 Millionen Franken zurück und verhinderte weitere Auszahlungen von 72 Millionen Franken. Während der Pandemie zahlte er über 2,6 Milliarden Franken für Tests.",
+              "gegenstimme": "Nicht jeder Verdachtsfall ist Betrug: Es kann sich um Abrechnungsfehler ohne Vorsatz handeln. Eine strafrechtliche Verfolgung droht den Berichten zufolge nur, wenn Absicht nachgewiesen wird. Die Eidgenössische Finanzkontrolle stellte bereits im September 2022 fest, der Bund habe zu wenig gegen Missbrauch unternommen, räumte aber ein, das BAG habe während der Pandemie andere Prioritäten gehabt.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/322-verdachtsfaelle-es-geht-um-213-mio-betrugsverdacht-bei-coronatest-abrechnungen-103663966"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/bag-pruft-hunderttausende-alte-corona-rechnungen-67199419"
+                },
+                {
+                  "name": "Bluewin (Keystone-ATS)",
+                  "url": "https://www.bluewin.ch/fr/infos/suisse/revue-de-presse-du-dimanche-8-novembre-2026-li.3665838"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-heizoel-versorgung-angespannt",
+              "slug": "heizoel-versorgung-angespannt",
+              "title": "Heizölversorgung in der Schweiz ist «sehr angespannt»",
+              "date": "2026-11-08",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "🛢️",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/08/a63cf8a3-284b-45be-a164-bf3eda8118ed.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C3200%2C2133&s=c62f0b086b0fdd2af630a922e78757d3",
+              "kurz": "Niedrigwasser am Rhein, knappe Bahnkapazitäten und leere Tanks belasten die Lieferkette vor dem Winter.",
+              "summary": "Die Heizölversorgung der Schweiz ist laut Berichten vom Sonntag zwar noch gesichert, aber «sehr angespannt». Ursache sind das anhaltende Niedrigwasser am Rhein, knappe Bahnkapazitäten vor allem in Deutschland und ungewöhnlich leere Tanks bei Hauseigentümern. Heizöl beheizt jedes dritte Wohngebäude im Land. Der Absatz von Migrol lag Ende September rund 30 Prozent unter dem Vorjahr; am 14. Oktober erreichte der Preis 175.20 Franken je 100 Liter, den höchsten Stand seit drei Jahren.",
+              "gegenstimme": "Bund und Unternehmen halten eine grundsätzliche Überarbeitung der Pflichtlager für Kerosin, Benzin und Heizöl nicht für nötig. Das Bundesamt für wirtschaftliche Landesversorgung betont, Massnahmen seien vorbereitet und könnten rasch eingesetzt werden, gibt aber keine Prognose ab. Gegenüber Nau.ch erklärte das Amt, die Konflikte im Nahen Osten hätten derzeit keine direkten Auswirkungen auf die Warenverfügbarkeit in der Schweiz.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/drohende-engpaesse-der-winter-naht-kommt-es-jetzt-zum-run-auf-heizoel-103663975"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/werden-bald-pflichtlager-fur-benzin-und-heizol-angezapft-67196881"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-apple-steuern-singapur",
+              "slug": "apple-steuern-singapur",
+              "title": "Apple spart 2,7 Milliarden Dollar Steuern über Singapur",
+              "date": "2026-11-08",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🍏",
+              "edition": "evening",
+              "image": "https://www.irishtimes.com/resizer/v2/3WRVUG6TOQBUTIDFUDVHMI74DI.jpg?smart=true&auth=61378cd20604a8c5dbd5c8eafa4347993c8d2453fde9bed544a5933753219edd&width=1200&height=630",
+              "kurz": "Neue US-Offenlegungen zeigen: Der Stadtstaat hat Irland als grössten Steuersitz des iPhone-Konzerns überholt.",
+              "summary": "Apple hat seine Steuerlast in diesem Jahr um 2,7 Milliarden Dollar gesenkt, indem der Konzern Gewinne über Singapur verbuchte. Das geht aus neuen US-Offenlegungen hervor, über die unter anderem die «Irish Times» und das «Handelsblatt» berichten. Apple rechnete demnach 2026 Gewinne von bis zu 50 Milliarden Dollar über sein asiatisches Zentrum ab. Die Ersparnis in Singapur übertraf leicht die 2,6 Milliarden Dollar, die das Unternehmen über den europäischen Sitz in Irland einspare.",
+              "gegenstimme": "Befürworter der Standorte argumentieren, Konzerne blieben in Singapur und Irland nicht nur wegen tiefer Steuern, sondern auch wegen Fachkräften, Infrastruktur und rechtlicher Stabilität. Singapur holte 2026 rund 2,5 Milliarden Dollar über eine Ergänzungssteuer im Rahmen der OECD-Mindeststeuer von Apple zurück. Apple lehnte eine Stellungnahme ab. Mike Lewis von TaxWatch nennt den globalen Mindestsatz von 15 Prozent eine vergleichsweise tiefe Schwelle, unter der für manche Unternehmen weitgehend «business as usual» gelte.",
+              "sources": [
+                {
+                  "name": "The Irish Times",
+                  "url": "https://www.irishtimes.com/business/2026/11/08/singapore-overtakes-ireland-as-apples-biggest-tax-shelter/"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/gewinnverlagerung-apple-spart-offenbar-27-milliarden-dollar-steuern-in-singapur/100268191.html"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/tech/1029522/apple-dodged-2-7-billion-in-taxes-by-funneling-profits-through-singapore"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-ukraine-gespraeche-abu-dhabi-europa",
+              "slug": "ukraine-gespraeche-abu-dhabi-europa",
+              "title": "Frankreich sagt Teilnahme an Ukraine-Gesprächen in Abu Dhabi zu",
+              "date": "2026-11-08",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "evening",
+              "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/08/GettyImages-2299472817.jpg",
+              "kurz": "Aussenminister Barrot kündigt an, Europa werde bei den US-vermittelten Verhandlungen am 10. und 11. November vertreten sein.",
+              "summary": "Frankreich wird an den von den USA vermittelten Gesprächen zwischen der Ukraine und Russland am 10. und 11. November in Abu Dhabi teilnehmen. Aussenminister Jean-Noël Barrot sagte am Sonntag auf RTL, die Europäer würden gut vertreten sein und Frankreich werde «mit am Verhandlungstisch» sitzen. Wer das Land vertrete, könne er noch nicht sagen; er selbst werde nicht am Tisch Platz nehmen. Die Runde war bisher als dreiseitiges Treffen zwischen Washington, Kiew und Moskau dargestellt worden.",
+              "gegenstimme": "Moskau fordert weiter den vollständigen Rückzug der Ukraine aus der Region Donezk; Kiew lehnt das ab, weil es neue Angriffe befürchtet. US-Präsident Donald Trump sprach nach einem Treffen mit dem russischen Gesandten Kirill Dmitrijew von einem baldigen «grossen Abkommen», das mehr als die Ukraine und «sogar ganz Europa» betreffen könne. EU-Aussenbeauftragte Kaja Kallas erinnerte daran, NATO und EU bildeten die europäische Sicherheitsarchitektur und Putin habe kein Vetorecht über die Sicherheit Europas.",
+              "sources": [
+                {
+                  "name": "Politico",
+                  "url": "https://www.politico.eu/article/europe-will-be-represented-in-abu-dhabi-talks-on-ukraine-french-foreign-minister-jean-noel-barrot-says/"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/ausland/ukraine-frankreich-nimmt-an-gipfel-in-abu-dhabi-teil/lnmp8qy"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-reichstag-palaestina-flagge",
+              "slug": "reichstag-palaestina-flagge",
+              "title": "Aktivist hisst Palästina-Flagge vor dem Berliner Reichstag",
+              "date": "2026-11-08",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🏳️",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/5e781bd8-4ff4-400f-9f33-b4c3fef96bf0/AAABobt81QU/AAABnSSvrFg/16x9-big/rbb-palaestina-flagge-100.jpg?width=1280",
+              "kurz": "Ein 22-Jähriger entfernt die Flagge der Einheit; der Staatsschutz ermittelt, die Aktion wurde auf Tiktok gestreamt.",
+              "summary": "Ein 22-jähriger Mann hat am Sonntag gegen 11.30 Uhr den rund 30 Meter hohen Flaggenmast vor dem Reichstagsgebäude in Berlin erklommen, die Flagge der deutschen Einheit entfernt und eine Palästina-Flagge gehisst. Zwei weitere Männer im Alter von 20 und 32 Jahren unterstützten ihn; die Aktion wurde als Livestream auf Tiktok übertragen. Der 22-Jährige kletterte gegen 12.30 Uhr selbstständig wieder herunter. Der Staatsschutz ermittelt unter anderem wegen des Verdachts der Verunglimpfung des Staates und seiner Symbole, der Sachbeschädigung und des Hausfriedensbruchs.",
+              "gegenstimme": "Die Gruppe «Peacefully Against Genocide» bekannte sich zu der Aktion und stellte sie als Zeichen der Solidarität mit Palästina dar. Bundestagspräsidentin Julia Klöckner (CDU) nannte die Täter «Palästina-Chaoten» und forderte besseren Schutz des Parlaments, auch durch das Land Berlin. Berlins Regierender Bürgermeister Kai Wegner (CDU) schrieb, wer Schwarz-Rot-Gold vor dem Reichstag herunterreisse, zeige «Verachtung für unsere Demokratie»; gerade am Vorabend des 9. November sei das unerträglich.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/inland/regional/berlin/reichstag-palaestina-flagge-100.html"
+                },
+                {
+                  "name": "Tagesspiegel",
+                  "url": "https://www.tagesspiegel.de/berlin/deutschland-fahne-entfernt-mann-klettert-auf-mast-vor-dem-reichstag-und-hisst-palastina-flagge-16257962.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/panorama/justiz/berlin-mann-hisst-palaestina-flagge-vor-dem-reichstag-a-ed021ff5-e272-4dce-99bd-f9c5d8174938"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-gaza-ueberschwemmungen-zelte",
+              "slug": "gaza-ueberschwemmungen-zelte",
+              "title": "Starkregen überflutet Zehntausende Zelte im Gazastreifen",
+              "date": "2026-11-08",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🌧️",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af08bf56851-1794149365.jpg?resize=1920%2C1440",
+              "kurz": "Behörden sprechen von rund 70'000 betroffenen Zelten und mindestens 1500 Notrufen; Tote wurden nicht gemeldet.",
+              "summary": "Schwere Regenfälle und starke Winde haben im Gazastreifen nach Angaben der dortigen Behörden rund 70'000 Zelte von Vertriebenen überflutet. Der palästinensische Zivilschutz sprach von mindestens 1500 Notrufen. Tote wurden nicht gemeldet, Verletzte schon. Die Deutsche Welle berichtete unter Berufung auf Behörden, in den vergangenen 24 Stunden seien mindestens 70'000 Zelte betroffen gewesen.",
+              "gegenstimme": "Hilfswerke wie Save the Children werfen den israelischen Behörden vor, Zelte, Unterkunftsmaterial und Treibstoff an den Grenzen festzuhalten, während Kinder in überschwemmten Lagern schlafen müssten. Israel weist solche Vorwürfe regelmässig zurück und verweist auf Sicherheitskontrollen sowie darauf, die Hamas missbrauche Hilfslieferungen. Eine unabhängige Überprüfung, welche Güter sich derzeit an den Übergängen stauen, lag in den vorliegenden Berichten nicht vor.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/08/floods-in-gaza-leave-tens-of-thousands-without-shelter"
+                },
+                {
+                  "name": "Deutsche Welle",
+                  "url": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-aegypten-zugunglueck-giza",
+              "slug": "aegypten-zugunglueck-giza",
+              "title": "Zugunglück bei Gizeh: Vier Tote und 88 Verletzte",
+              "date": "2026-11-08",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🚂",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
+              "kurz": "Ein Zug fährt nahe Kairo auf das Heck eines zweiten auf; mehrere Wagen entgleisen.",
+              "summary": "Bei einem Zusammenstoss zweier Züge nahe Gizeh in Ägypten sind nach Angaben des Gesundheitsministeriums vier Menschen getötet und 88 verletzt worden. Die Eisenbahnbehörde teilte mit, ein Zug von Gizeh nach Fayum sei zwischen den Stationen Kafr Ammar und Al-Raqqa auf das Heck eines Zuges von Kairo nach Assuan aufgefahren. Mehrere Wagen entgleisten. 72 Ambulanzen waren im Einsatz.",
+              "gegenstimme": "Präsident Abd al-Fattah as-Sisi ordnete eine rasche Untersuchung an und kündigte an, wer sich als fahrlässig erweise, werde zur Verantwortung gezogen. Die Regierung verweist zugleich auf laufende Milliardeninvestitionen in die Modernisierung des Schienennetzes. Unfallursache und mögliche Versäumnisse waren am Sonntag noch nicht geklärt.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cwvgr20mmmevo"
+                },
+                {
+                  "name": "CNN",
+                  "url": "https://edition.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl"
+                },
+                {
+                  "name": "The National",
+                  "url": "https://www.thenationalnews.com/news/mena/2026/11/08/at-least-64-injured-in-egypt-train-derailment/"
                 }
               ]
             }
