@@ -1,6 +1,258 @@
 {
-  "updated": "2026-11-07T17:30:00+01:00",
+  "updated": "2026-11-08T06:30:00+01:00",
   "days": [
+    {
+      "date": "2026-11-08",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-08-aeschi-kandidiert-bundesrat",
+              "slug": "aeschi-kandidiert-bundesrat",
+              "title": "Aeschi kandidiert offiziell für Parmelins Bundesratssitz",
+              "date": "2026-11-08",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "morning",
+              "kurz": "Der SVP-Fraktionschef erklärt im «SonntagsBlick» und bei «Schweiz heute», er wolle ins Justizdepartement und das Asyldossier übernehmen.",
+              "summary": "SVP-Fraktionschef Thomas Aeschi hat seine Kandidatur für die Nachfolge von Bundesrat Guy Parmelin bekannt gegeben. Der 47-jährige Zuger Nationalrat sagte dem «SonntagsBlick» und «Schweiz heute», er habe sich das Rüstzeug erarbeitet und wäre bereit, das Justiz- und Polizeidepartement von SP-Bundesrat Beat Jans zu übernehmen. Die SVP-Fraktion entscheidet am 20. November über ihr Ticket für die Ersatzwahl vom 9. Dezember; Aeschi ist der achte Bewerber.",
+              "gegenstimme": "Aeschi gilt parteiintern als profilstark, seine Wahlchancen werden aber durch den ebenfalls aus Zug stammenden Mitte-Bundesrat Martin Pfister geschmälert. Kritiker verweisen auf seinen Abgang vom EU-Podium in Reussbühl. Innerhalb der SVP werben zugleich Céline Amaudruz, Marco Chiesa, Pierre Alain Schnegg und weitere um die Nomination. Befürworter wie Ständerat Hannes Germann wollen «die stärkste und nicht die gmögigste Person» wählen.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / Swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/svp-fraktionschef-thomas-aeschi-will-in-den-bundesrat/92345400"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/svp-nachfolge-bundesrat-guy-parmelin-nationalrat-thomas-aeschi-geht-ins-rennen-103663944"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-jans-lex-on-untersuchung",
+              "slug": "jans-lex-on-untersuchung",
+              "title": "Jans lässt «Lex On» intern untersuchen",
+              "date": "2026-11-08",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "👟",
+              "edition": "morning",
+              "kurz": "Nach widersprüchlichen Aussagen vor der GPK prüft die interne Revision des Justizdepartements Vorgehen und Kommunikation zur Swissness-Lockerung.",
+              "summary": "Justizminister Beat Jans hat die interne Revision des EJPD beauftragt, Vorgehen und Kommunikation rund um die Lockerung der Swissness-Regeln für den Schuhhersteller On zu prüfen. Der Bericht soll voraussichtlich im ersten Quartal 2027 vorliegen, wie die «NZZ am Sonntag» berichtet und das EJPD bestätigt. Hintergrund sind widersprüchliche Aussagen vor der Geschäftsprüfungskommission des Nationalrats: Jans sagte, er sei nicht informiert worden; das Institut für Geistiges Eigentum (IGE) gab an, das Generalsekretariat mehrfach unterrichtet zu haben.",
+              "gegenstimme": "Das Seco verteidigt die Praxisänderung als Stärkung des Innovationsstandorts; On hatte zuvor mit einer Staatshaftungsklage gedroht. Der Gewerbeverband und Ständerat Fabio Regazzi sehen eine Schwächung des Werkplatzes: Der Ständerat nahm Ende September eine Motion an, wonach das Schweizerkreuz nur für in der Schweiz fabrizierte Produkte verwendet werden darf. Innerhalb der Bundesverwaltung lehnen das VBS und das Bundesamt für Landwirtschaft die Lockerung ab.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/wirtschaft/erst-auf-tauchstation-nun-in-panik-der-moechtegern-wirtschaftsminister-beat-jans-ordnet-eine-untersuchung-zur-lex-on-an-ld.10053042"
+                },
+                {
+                  "name": "Watson (Keystone-SDA)",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/989375958-jans-laesst-umstrittene-lex-on-intern-untersuchen-die-sonntagsnews"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-eritreer-b-ausweis-ohne-botschaftspapiere",
+              "slug": "eritreer-b-ausweis-ohne-botschaftspapiere",
+              "title": "Eritreer brauchen für den B-Ausweis keine Botschaftspapiere mehr",
+              "date": "2026-11-08",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🛂",
+              "edition": "morning",
+              "kurz": "Das SEM setzt ein Bundesgerichtsurteil um: Rund 2000 vorläufig Aufgenommene müssen die umstrittene Reueerklärung nicht mehr unterschreiben.",
+              "summary": "Vorläufig aufgenommene Eritreerinnen und Eritreer müssen ab sofort keine heimatlichen Papiere mehr bei ihrer Botschaft beschaffen, um eine reguläre Aufenthaltsbewilligung (Ausweis B) zu beantragen. Das Staatssekretariat für Migration setzt damit ein Bundesgerichtsurteil vom November 2025 um, von dem rund 2000 Personen betroffen sind, wie SEM-Direktor Vincenzo Mascioli der Staatspolitischen Kommission schrieb. Das Gericht hatte insbesondere die von der eritreischen Botschaft verlangte Reueerklärung als rechtlich problematisch eingestuft.",
+              "gegenstimme": "SVP-Nationalrätin Barbara Steinemann hält Eritreer für «kaum integrierbar» und warnt vor einer Sogwirkung; der B-Ausweis erleichtere den Familiennachzug und bedeute rund 30 Prozent höhere Sozialhilfe, falls jemand bedürftig werde. FDP-Ständerat Damian Müller verlangt, die Identität müsse zweifelsfrei feststehen, und fordert Rückführungen nach Eritrea. SP-Nationalrätin Nina Schläfli begrüsst den Schritt: Die Botschaft drangsaliere die Diaspora, die vorläufige Aufnahme sei ein Stigma.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/schweiz/umstrittene-neuerung-des-bundes-eritreer-sollen-einfacher-den-b-ausweis-erhalten-ld.10054047"
+                },
+                {
+                  "name": "Watson (Keystone-SDA)",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/989375958-jans-laesst-umstrittene-lex-on-intern-untersuchen-die-sonntagsnews"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-westukraine-schutzstatus-s-verweigert",
+              "slug": "westukraine-schutzstatus-s-verweigert",
+              "title": "Bund verweigert 286 Menschen aus der Westukraine den Schutzstatus S",
+              "date": "2026-11-08",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "kurz": "Darunter waren 123 Minderjährige; das SEM hält sieben Regionen trotz russischer Angriffe weiterhin für zumutbar.",
+              "summary": "Zwischen dem 1. November 2025 und Ende September 2026 hat das Staatssekretariat für Migration 286 Personen aus der Westukraine den Schutzstatus S verweigert und sie weggewiesen. Darunter waren 123 Minderjährige, die jeweils mit ihren Bezugspersonen ausreisten, wie das SEM der «NZZ am Sonntag» mitteilte. Der Bund stuft sieben Regionen im Westen als sicher ein; einzelne russische Angriffe mit zivilen Opfern machten eine Rückkehr nicht automatisch unzumutbar.",
+              "gegenstimme": "SP-Nationalrat Fabian Molina nennt die Praxis ein «Symbol der Brutalität» und fordert, allen Ukrainerinnen und Ukrainern wieder den Status S zu gewähren; Mitte Oktober starben in Luzk sechs Menschen bei einem Drohnenangriff auf ein Lebensmittelgeschäft. SVP-Nationalrat Pascal Schmid hält die Unterscheidung für nötig: Die Front sei vom Westen so weit entfernt wie Bern von Madrid. Er spricht von Missbräuchen, hohen Kosten und mehr als 13'000 wehrpflichtigen Ukrainern in der Schweiz.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/schweiz/ukraine-krieg-schweiz-weist-ueber-hundert-minderjaehrige-weg-ld.10046943"
+                },
+                {
+                  "name": "Watson (Keystone-SDA)",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/989375958-jans-laesst-umstrittene-lex-on-intern-untersuchen-die-sonntagsnews"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-lega-svp-gemeinsame-organisation",
+              "slug": "lega-svp-gemeinsame-organisation",
+              "title": "Lega und SVP prüfen eine gemeinsame politische Organisation",
+              "date": "2026-11-08",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🤝",
+              "edition": "morning",
+              "kurz": "Eine Absichtserklärung vom September sieht bis 2028 einen konkreten Vorschlag vor; innerhalb der Lega gibt es Widerstand.",
+              "summary": "Die Tessiner Lega dei Ticinesi und die SVP prüfen eine langfristige Zusammenarbeit bis hin zu einer gemeinsamen politischen Organisation. Eine im September unterzeichnete Absichtserklärung sieht vor, bis 2028 einen konkreten Vorschlag auszuarbeiten; entschieden ist noch nichts, berichtet die «NZZ am Sonntag». SVP-Kantonalpräsident Marco Chiesa sagte, die Vision sei eine Organisation, «die die Werte der SVP und die Geschichte der Lega respektiert».",
+              "gegenstimme": "Der langjährige Lega-Politiker Giancarlo Seitz warnt, die Lega würde von der SVP «ausgenützt». Alt FDP-Präsident Fulvio Pelli erwartet, eine Fusion koste die Lega ein Drittel ihrer Wähler. Für Kritiker ist die Annäherung eine Überlebensstrategie nach dem Rücktritt von Staatsrat Claudio Zali und Jahren mit Sitzverlusten. Die Behauptung, Zalis Sturz sei inszeniert worden, um den Weg frei zu machen, weisen Chiesa und Lega-Exponent Lorenzo Quadri zurück.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/report-und-debatte/eine-tote-whistleblowerin-brisante-verschwoerungstheorien-verhandlungen-von-lega-und-svp-fuehrt-der-fall-zali-im-tessin-zu-einer-politischen-revolution-ld.10054237"
+                },
+                {
+                  "name": "Watson (Keystone-SDA)",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/989375958-jans-laesst-umstrittene-lex-on-intern-untersuchen-die-sonntagsnews"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-europarat-bundesstadt-bern",
+              "slug": "europarat-bundesstadt-bern",
+              "title": "Europarat moniert fehlende Regelung für Bern als Bundesstadt",
+              "date": "2026-11-08",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "morning",
+              "kurz": "Empfehlung 565 verlangt besondere Arrangements für die de-facto-Hauptstadt; Stadtpräsidentin Kruit hofft nun auf Gehör in Bundesbern.",
+              "summary": "Der Kongress der Gemeinden und Regionen des Europarats stellt in der Ende Oktober verabschiedeten Empfehlung 565 fest, dass die Stadt Bern kein umfassendes gesetzliches Rahmenwerk für ihre Aufgaben als de-facto-Bundeshauptstadt hat. Die Stadt trage besondere Lasten wegen Bundesbehörden, Parlament und diplomatischen Vertretungen. Stadtpräsidentin Marieke Kruit (SP) begrüsst die Empfehlung; der Informationsdienst der Stadt sagt, Bern sei an den Gesprächen der Delegation nicht beteiligt gewesen.",
+              "gegenstimme": "Der Bundesrat prüfte ein Bundesstadtgesetz bereits vor rund zwanzig Jahren und lehnte es ab; später strich er die sogenannte Bundesmillion mit dem Argument, es sei fraglich, ob Bern durch den Status per Saldo ein finanzieller Nachteil entstehe. Der Bericht selbst hält fest, lokale Vertreter hätten die Mittel als angemessen bezeichnet, die Kosten würden über Einmalzahlungen ausgeglichen – die Entschädigungsfrage sei aber nicht abschliessend geklärt.",
+              "sources": [
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/regional/europarat-macht-sich-sorgen-um-bundesstadt-bern-67198911"
+                },
+                {
+                  "name": "Europarat, Empfehlung 565 (2026)",
+                  "url": "https://rm.coe.int/09125948802e48f9"
+                },
+                {
+                  "name": "Nau.ch (Keystone-SDA)",
+                  "url": "https://www.nau.ch/politik/international/kongress-des-europarats-fordert-reform-des-schweizer-milizsystems-67195892"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-krakau-weitere-tote-rechtsextreme-spuren",
+              "slug": "krakau-weitere-tote-rechtsextreme-spuren",
+              "title": "Krakau: Sechs Tote auf dem Hauptmarkt, drei weitere Leichen im Haus des Schützen",
+              "date": "2026-11-08",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🚨",
+              "edition": "morning",
+              "kurz": "Darunter ein Brite; der Innenminister spricht von Faszination für rechtsextreme Ideologien, das Motiv bleibt ungeklärt.",
+              "summary": "Bei der Schiesserei auf dem Krakauer Hauptmarkt am Samstagnachmittag wurden sechs Menschen getötet: vier Frauen und zwei Männer, darunter drei Polen und ein Brite; zwei Opfer waren zunächst nicht identifiziert. Mindestens 15 weitere Menschen wurden verletzt, darunter Personen aus Deutschland, Österreich, Portugal, Russland und Grossbritannien sowie zwei Polizisten. Im Wohnhaus des tatverdächtigen Polen Mitte 20 in Ostrowiec Świętokrzyski fanden Einsatzkräfte drei weitere Tote, mutmasslich Angehörige.",
+              "gegenstimme": "Premier Donald Tusk spricht von einem terroristischen Angriff, Innenminister Marcin Kierwiński von «sehr radikalen Ansichten» und Anzeichen, der Mann sei von rechtsextremen Ideologien fasziniert gewesen – beides muss noch geprüft werden. Eine psychische Erkrankung, Mitwisser oder eine andere Motivlage sind nicht belegt. Die Identität des Verdächtigen ist amtlich nicht bestätigt; Angaben zum Alter (24 oder 25 Jahre) weichen voneinander ab.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/polen-toedliche-schuesse-in-krakau-das-ist-bekannt"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c6n9r01d2709o"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-herzog-beauftragt-eisenkot",
+              "slug": "herzog-beauftragt-eisenkot",
+              "title": "Herzog beauftragt Eisenkot mit der Regierungsbildung",
+              "date": "2026-11-08",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "morning",
+              "kurz": "67 Knesset-Mitglieder empfahlen den Ex-General, 46 Netanyahu; die formelle Mandatsübergabe ist für Sonntagnachmittag vorgesehen.",
+              "summary": "Israels Präsident Isaac Herzog hat am Samstagabend entschieden, den früheren Generalstabschef Gadi Eisenkot mit der Bildung der nächsten Regierung zu beauftragen. 67 Knesset-Mitglieder hatten Eisenkot empfohlen, 46 Amtsinhaber Benjamin Netanyahu; die ultraorthodoxe United Torah Judaism mit sieben Sitzen enthielt sich. Nach der formellen Übergabe am Sonntag um 17 Uhr Ortszeit hat Eisenkot 28 Tage Zeit für eine Koalition, mit möglicher Verlängerung um 14 Tage.",
+              "gegenstimme": "Netanyahu warnt vor einer Regierung, die auf arabische Parteien angewiesen sei, bezeichnet diese als «Terrorunterstützer» und fordert eine «nationale Einheitsregierung» inklusive seiner rechtsextremen Partner – für Eisenkots Lager in dieser Form inakzeptabel. Eisenkot schloss eine Partnerschaft mit Netanyahu aus. Die arabischen Parteien mit 19 Sitzen verhalfen ihm zur Empfehlungsmehrheit, sitzen damit aber nicht automatisch in einer Koalition.",
+              "sources": [
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-iran-hormuz-tanker-minen-frachter",
+              "slug": "iran-hormuz-tanker-minen-frachter",
+              "title": "Hormusstrasse: Explosionen, brennende Tanker und US-Schüsse auf einen Frachter",
+              "date": "2026-11-08",
+              "time": "06:30",
+              "category": "international",
+              "icon": "💥",
+              "edition": "morning",
+              "kurz": "Zwei Tanker liefen nach iranischen Angaben auf Minen; das US-Militär setzte ein Schiff ausser Gefecht, das die Seeblockade durchbrechen wollte.",
+              "summary": "Iranische Staatsmedien meldeten am Samstagabend Explosionen auf der Insel Qeschm in der Strasse von Hormus sowie in Jask, Sirik und Bandar Abbas; die Ursache blieb unklar. Am Sonntag erklärte das iranische Militär, zwei Tanker seien in Brand geraten, nachdem sie auf einer «nicht genehmigten Route» auf Minen gelaufen seien. Das US-Zentralkommando teilte mit, amerikanische Kräfte hätten am 7. November im Golf von Oman den unter der Flagge von St. Kitts fahrenden Frachter M/V Huda mit präzisen Munitionsschüssen am Heck ausser Gefecht gesetzt.",
+              "gegenstimme": "Ob die Explosionen auf Qeschm neue amerikanische Angriffe waren, ist nicht bestätigt; Teheran dementierte zunächst weitere Treffer, Washington hatte jüngste Schläge auf eine Flugabwehrstellung als «geringfügig» bezeichnet. Katar vermittelt weiter über eine Deeskalation. Die Revolutionären Garden erklärten zudem, sie hätten ihre selbstauferlegte Reichweitengrenze von 2000 Kilometern für ballistische Raketen aufgehoben – ob entsprechende Flugkörper bereits existieren, ist offen.",
+              "sources": [
+                {
+                  "name": "ABC News (AP/Reuters)",
+                  "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730"
+                },
+                {
+                  "name": "US Central Command",
+                  "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644273/us-forces-disable-cargo-vessel-attempting-to-violate-naval-blockade/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-08-paraguay-pena-untersuchungshaft",
+              "slug": "paraguay-pena-untersuchungshaft",
+              "title": "Paraguay: Abgesetzter Präsident Peña sitzt in Untersuchungshaft",
+              "date": "2026-11-08",
+              "time": "06:30",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "morning",
+              "kurz": "Richter Otazú ordnete Haft an; Peña wird Vertrauensbruch und selbstsüchtige Verwaltung im Fall der Digitalbank Ueno vorgeworfen.",
+              "summary": "Ein Richter in Asunción hat den am Freitag vom Senat abgesetzten Präsidenten Santiago Peña am Samstag in Untersuchungshaft genommen. Richter Humberto Otazú begründete den Entscheid mit Fluchtgefahr. Die Staatsanwaltschaft wirft Peña Vertrauensbruch und selbstsüchtige Verwaltung im Zusammenhang mit dem Kollaps der Digitalbank Ueno vor, der fast drei Millionen Kunden den Zugang zu ihren Einlagen versperrte. Peña bestreitet die Vorwürfe; sein Anwalt Ricardo Preda rechnet mit einem Freispruch.",
+              "gegenstimme": "Die Verteidigung sagt, ein Präsident weise Minister nicht an, bei welcher Bank sie Gelder anlegten. Die Opposition verlangt ein Hochsicherheitsgefängnis statt der Unterbringung im Regiment der Präsidentenwache. Demonstranten sehen auch Nachfolger Pedro Alliana als Teil desselben Netzwerks. Alliana verspricht, alle Betroffenen kämen zu ihrem Geld: Rund 160 Millionen Dollar seien an knapp 1,2 Millionen Konten ausbezahlt worden.",
+              "sources": [
+                {
+                  "name": "AFP / France 24",
+                  "url": "https://www.france24.com/es/minuto-a-minuto/20261108-expresidente-santiago-pe%C3%B1a-queda-detenido-imputado-por-crisis-bancaria-en-paraguay"
+                },
+                {
+                  "name": "CBC / Reuters",
+                  "url": "https://www.cbc.ca/news/world/paraguay-prosecutors-charge-impeached-president-pena-detention-9.7413705"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-07",
       "editions": {
