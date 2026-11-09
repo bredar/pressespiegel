@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T06:30:00+01:00",
+  "updated": "2026-11-09T12:30:00+01:00",
   "days": [
     {
       "date": "2026-11-09",
@@ -304,6 +304,419 @@
                 {
                   "name": "FAZ",
                   "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-in-buenos-aires-mahnungen-an-javier-milei-accg-201664318.html"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:30",
+          "articles": [
+            {
+              "id": "2026-11-09-bern-finanzkommission-sparkurs",
+              "slug": "bern-finanzkommission-sparkurs",
+              "title": "Kanton Bern: Finanzkommission verlangt Sparkurs wegen drohender Defizite",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "midday",
+              "kurz": "Ab 2028 drohen dem Kanton Bern Defizite und bis 2030 rund 1,9 Milliarden Franken neue Schulden. Die Finanzkommission will Stellen und IT-Ausgaben kürzen.",
+              "summary": "Die Finanzkommission des bernischen Grossen Rates verlangt einen Sparkurs, wie sie am Montag mitteilte. Das Budget 2027 weist zwar noch einen Überschuss von rund 269 Millionen Franken aus, ab 2028 rechnet der Kanton aber mit Defiziten von 243 bis 342 Millionen Franken pro Jahr und bis 2030 mit rund 1,9 Milliarden Franken Neuverschuldung. Die Kommissionsmehrheit will deshalb auf 24,3 der 64,3 neu beantragten Vollzeitstellen verzichten und bei Informatik und externen Beratern kürzen.",
+              "gegenstimme": "Die rot-grüne Kommissionsminderheit beurteilt die Lage deutlich positiver: Sie verweist auf gute Rechnungsabschlüsse, vorhandenes Eigenkapital und tiefe Schulden der letzten Jahre. Sie will die geplanten linearen Steuersenkungen streichen oder auf Eis legen und warnt, weitere Stellenkürzungen könnten die Erfüllung staatlicher Aufgaben gefährden.",
+              "sources": [
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/bernische-finanzkommission-verlangt-budgetk%C3%BCrzungen/92349286"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/ort/bern/kanton-bern-droht-neuverschuldung-von-19-milliarden-franken-67199674"
+                },
+                {
+                  "name": "SRF Regionaljournal Bern",
+                  "url": "https://www.srf.ch/audio/regionaljournal-bern-freiburg-wallis/rote-zahlen-ab-2028-berner-finanzkommission-verlangt-korrekturen?id=AUDI20261109_NR_0040"
+                },
+                {
+                  "name": "Kanton Bern: Budget 2027 und AFP 2028–2030 (Primärquelle)",
+                  "url": "https://www.fin.be.ch/content/dam/fin/dokumente/de/generalsekretariat/archiv-va-afp/budget-afp-2027-de.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-just-eat-373-stellen",
+              "slug": "just-eat-373-stellen",
+              "title": "Just Eat streicht 373 Stellen in der Schweiz",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🛵",
+              "edition": "midday",
+              "kurz": "Der Essenslieferdienst baut mehr als die Hälfte seiner rund 700 Stellen ab und will künftig pro Fahrt bezahlte Kuriere einsetzen. Die Gewerkschaften sprechen von Scheinselbstständigkeit.",
+              "summary": "Just Eat baut in der Schweiz 373 von rund 700 Stellen ab, wie das Unternehmen am Montag nach Abschluss des Konsultationsverfahrens mitteilte. Betroffen sind 193 direkt angestellte Kuriere und 180 Beschäftigte externer Personalverleiher in Zürich, Winterthur, Bern, Biel, Freiburg und St. Gallen. Statt fester Schichten will Just Eat auf ein flexibleres Modell setzen, bei dem Fahrer pro Auftrag bezahlt werden.",
+              "gegenstimme": "Just Eat argumentiert, das Schichtmodell könne nicht auf Nachfrageschwankungen und längere Lieferzeiten reagieren, die Konkurrenz hingegen schon; ohne Umbau sei das Geschäft nicht wettbewerbsfähig. Unia und Syndicom halten das neue Modell dagegen für illegale Scheinselbstständigkeit und verlangen, dass Kantone und Seco einschreiten, auch gegen Uber Eats.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/essenslieferung-just-eat-streicht-in-der-schweiz-373-stellen"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/wirtschaft/just-eat-streicht-373-stellen-gewerkschaften-toben/xbn6yp4"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/alle-news-in-kuerze/"
+                },
+                {
+                  "name": "Syndicom (Gewerkschaft)",
+                  "url": "https://syndicom.ch/medienmitteilung/just-eat-angekuendigte-massenentlassung/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-rat-fuer-armutsfragen",
+              "slug": "rat-fuer-armutsfragen",
+              "title": "Nationaler Rat für Armutsfragen nimmt Arbeit auf",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🤝",
+              "edition": "midday",
+              "kurz": "Elf Armutsbetroffene und sechs Fachleute sollen den Bund künftig beraten. Das Gremium ist ein Pilotprojekt bis 2028.",
+              "summary": "In Bern hat sich am Montag der neue Nationale Rat für Armutsfragen vorgestellt. Ihm gehören elf Personen mit eigener Armutserfahrung aus allen Landesregionen an, beraten von sechs Fachleuten aus Politik, Wissenschaft, Behörden und Hilfswerken. Der Rat soll die Sicht Betroffener in die Politik einbringen und Vorschläge machen, die in die Armutsstrategie des Bundes von 2027 einfliessen.",
+              "gegenstimme": "Der Rat hat nur beratende Funktion und keine Entscheidungskompetenz; ob er die Politik tatsächlich beeinflusst, muss sich zeigen. Zudem ist umstritten, wie gross das Problem ist: Der Bund zählt rund 708'000 Einkommensarme, Caritas spricht von etwa 1,5 Millionen, weil sie die Armutsgrenze höher ansetzt. Kritiker staatlicher Sozialpolitik dürften fragen, ob ein weiteres Gremium nötig ist, statt bei Mieten und Prämien direkt anzusetzen.",
+              "sources": [
+                {
+                  "name": "BSV (Primärquelle)",
+                  "url": "https://www.bsv.admin.ch/de/newnsb/rRrPEuJNb7q-"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/nationaler-rat-f%C3%BCr-armutsfragen-nimmt-arbeit-auf/92350183"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/gremium-in-der-schweiz-armutserfahrene-beraten-neu-den-bund-fuenf-fakten-ueber-armut"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/schweiz-neue-nationale-plattform-gegen-armut-gestartet-322942286480"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-svp-zuerich-vorstoesse-islamismus",
+              "slug": "svp-zuerich-vorstoesse-islamismus",
+              "title": "Zürcher SVP lanciert 21 Vorstösse gegen Islamismus",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "📜",
+              "edition": "midday",
+              "image": "https://c.nau.ch/i/xM2mwo/1360/680/domenik-ledergerber.jpg",
+              "kurz": "Die SVP will im Kantonsrat bis März 2027 21 Vorstösse zu Islamismus, Einbürgerung und Schule einreichen. Vier Anfragen sind bereits eingereicht.",
+              "summary": "Die SVP des Kantons Zürich hat am Montag ein Paket von 21 Vorstössen gegen «Islamisierung und Extremismus» angekündigt, die sie bis März 2027 im Kantonsrat einreichen will. Vier Anfragen zu Islamismus und Dschihadismus, deren Finanzierung, Einfluss auf die Volksschule und zur Gefahreneinschätzung reichte sie bereits ein. Weitere Forderungen betreffen strengere Einbürgerungen, den Entzug des Bürgerrechts bei straffälligen Doppelbürgern und die Streichung religiöser Dispensen an Schulen.",
+              "gegenstimme": "Die SVP betont, es gehe nicht gegen den Islam als Religion, sondern gegen islamistische Strukturen. Kritiker dürften einwenden, dass der Begriff «Islamisierung» unscharf ist und Muslime pauschal unter Verdacht stellt; zudem ist der Entzug des Bürgerrechts Bundessache, der Kanton kann ihn nicht selbst einführen. Reaktionen anderer Parteien lagen bis Mittag nicht vor.",
+              "sources": [
+                {
+                  "name": "Nau.ch (Keystone-SDA)",
+                  "url": "https://www.nau.ch/politik/regional/svp-will-im-kanton-zurich-gegen-islamisierung-vorgehen-67199749"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/svp-will-im-kanton-z%C3%BCrich-gegen-islamisierung-vorgehen/92350361"
+                },
+                {
+                  "name": "NZZ (Hintergrund Kopftuchverbot)",
+                  "url": "https://www.nzz.ch/zuerich/ein-kopftuch-verbot-fuer-schuelerinnen-sei-verfassungswidrig-sagen-juristen-doch-so-eindeutig-ist-die-sache-nicht-ld.10022845"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-kantonsrat-kritisiert-uni-zuerich",
+              "slug": "kantonsrat-kritisiert-uni-zuerich",
+              "title": "Zürcher Kantonsrat rügt Führung der Universität",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🎓",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/03fd27102df0e931f2701889da8be5ffc6d39985-92350676.jpg?ver=a6fe8929&fit=1200,900",
+              "kurz": "In seltener Einigkeit hat der Kantonsrat der Uni-Leitung fehlende Führungskompetenz vorgeworfen. Die Aufsichtskommission stellt 15 Forderungen.",
+              "summary": "Der Zürcher Kantonsrat hat am Montag fraktionsübergreifend die Führung der Universität Zürich scharf kritisiert. Die Aufsichtskommission für Bildung und Gesundheit (ABG) attestiert der Uni ein nicht mehr zeitgemässes Führungsverständnis und stellt 15 Forderungen und Empfehlungen, von mehr Transparenz bis zur besseren Aufarbeitung von Machtmissbrauch. Die SVP nannte die Uni-Leitung eine «selbstherrliche Truppe».",
+              "gegenstimme": "Wer die Hochschulautonomie hochhält, sieht in schärferer politischer Aufsicht ein Risiko für die Wissenschaftsfreiheit. Trotz der Kritik genehmigte der Rat den Jahresbericht der Universität deutlich, laut Berichten mit 143 zu 30 Stimmen. Eine Stellungnahme der Uni-Leitung zur Debatte lag bis Mittag nicht vor.",
+              "sources": [
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/z%c3%bcrcher-kantonsrat-kritisiert-f%c3%bchrung-der-universit%c3%a4t-scharf/92350689"
+                },
+                {
+                  "name": "Radio Central (CH Media)",
+                  "url": "https://www.radiocentral.ch/news/schweiz/zuercher-kantonsrat-kritisiert-fuehrung-der-universitaet-scharf-165957566"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/kritik-an-universitaet-zuerich-fdp-politikerin-raffaela-fehr-will-veraenderungen-ld.10041314"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-sbb-it-infrastruktur-ausschreibung",
+              "slug": "sbb-it-infrastruktur-ausschreibung",
+              "title": "SBB schreiben IT-Infrastruktur für bis zu 20 Jahre neu aus",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🖥️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/557160e30ae7d450d858421fa7f219ad06bde3a8-92350435.jpg?ver=37cb906c&fit=1200,900",
+              "kurz": "Die Bahn vergibt Cloud- und Rechenzentrumsdienste neu, rund 100 Millionen Franken pro Jahr. Ziel ist weniger Abhängigkeit von einzelnen Anbietern.",
+              "summary": "Die SBB haben am Montag die Neuvergabe ihrer IT-Infrastruktur gestartet. Es geht um Rahmenverträge mit bis zu 20 Jahren Laufzeit und einem Volumen von rund 100 Millionen Franken pro Jahr für Cloud-Dienste, Rechenzentren und Plattformdienste. Vorgesehen sind eine geteilte Public Cloud, eine exklusive Private Cloud und eine «Sovereign Cloud» nach Schweizer oder EU-Recht.",
+              "gegenstimme": "Die SBB begründen die Ausschreibung mit digitaler Souveränität. Fachleute weisen allerdings seit Jahren darauf hin, dass auch eine «Sovereign Cloud» häufig auf Technik US-amerikanischer Konzerne beruht, die dem US-Recht unterstehen; wie unabhängig die Lösung wird, entscheidet sich erst bei der Vergabe. Zudem binden Verträge über 20 Jahre die Bahn in einem Markt, der sich rasch verändert.",
+              "sources": [
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/sbb-erneuert-it-infrastruktur-f%C3%BCr-milliardenbetrag/92350448"
+                },
+                {
+                  "name": "Lok-Report (SBB-Mitteilung)",
+                  "url": "https://www.lok-report.de/news/europa/schweiz/schweiz-sbb-schreibt-it-infrastruktur-neu-aus.html"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/sbb-schreiben-it-infrastruktur-grossauftraege-neu-aus-629886313093"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-zermatt-chalet-zweitwohnungsgesetz",
+              "slug": "zermatt-chalet-zweitwohnungsgesetz",
+              "title": "Zermatt: Chaletbesitzer wegen Leerstand verurteilt",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🏔️",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/11/09/40f77f4e-3719-4ad9-9c24-b6504bc8876d.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C6000%2C4004&s=062959abc122235685b7e3ea385e8997",
+              "kurz": "Ein Chalet, das als Ferienwohnung vermietet werden musste, stand fast das ganze Jahr leer. Der Besitzer erhält eine bedingte Geldstrafe von 90'000 Franken.",
+              "summary": "Ein Chaletbesitzer in Zermatt ist wegen Verstosses gegen das Zweitwohnungsgesetz rechtskräftig verurteilt worden. Sein Chalet in der Luxusüberbauung «7 Heavens» war im Grundbuch als gewerblich bewirtschaftet eingetragen, wurde laut Strafbefehl seit 2017 aber höchstens zwei bis drei Wochen pro Jahr vermietet. Die Staatsanwaltschaft Oberwallis verhängte eine bedingte Geldstrafe von 90'000 Franken und eine Busse von 10'000 Franken.",
+              "gegenstimme": "Die Strafe ist bedingt und wird nur fällig, wenn der Mann in den nächsten zwei Jahren erneut straffällig wird; sofort zahlen muss er nur die Busse und die Verfahrenskosten. Kritiker sehen darin eine milde Folge für jemanden, der sich ein Luxuschalet leisten kann. Umgekehrt klagen Eigentümer in Tourismusorten seit Jahren über starre Vermietungspflichten, die schwer zu erfüllen seien.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/chalet-in-zermatt-kaum-vermietet-besitzer-muss-fuer-7-heavens-buessen-103664545"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/westschweiz/wallis/hohe-geldstrafe-luxus-chalet-in-zermatt-zu-selten-vermietet/49z5dmf"
+                },
+                {
+                  "name": "Le Matin",
+                  "url": "https://www.lematin.ch/story/zermatt-amende-salee-pour-son-chalet-de-luxe-presque-toujours-vide-103664480"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-eu-klage-ibm-ees-grenzsystem",
+              "slug": "eu-klage-ibm-ees-grenzsystem",
+              "title": "EU verklagt IBM, Atos und Leonardo wegen Grenzsystem EES",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🛂",
+              "edition": "midday",
+              "image": "https://i.guim.co.uk/img/media/d4e0bb6cf66538930d3fcf221707a4675ec85a38/222_0_2919_2336/master/2919.jpg?width=1200&height=630&quality=85&auto=format&fit=crop",
+              "kurz": "Die EU-IT-Agentur EU-Lisa klagt gegen das Konsortium hinter dem Ein- und Ausreisesystem EES, das auch an Schweizer Flughäfen gilt.",
+              "summary": "Die EU-Agentur EU-Lisa hat gegen IBM, den französischen IT-Konzern Atos und den italienischen Rüstungskonzern Leonardo Klage eingereicht, wie am Montag aus ihrem Jahresabschluss bekannt wurde. Die drei Firmen bilden das Konsortium, das das digitale Ein- und Ausreisesystem EES aufbauen und warten sollte. Die Klage wurde bereits am 22. Dezember 2025 bei einem Gericht in Estland eingereicht und betrifft Verzögerungen bei der Entwicklung.",
+              "gegenstimme": "Die Firmen hatten früher argumentiert, die Verzögerungen gingen unter anderem auf die Corona-Pandemie zurück, und sich gegen Geldstrafen und neue Fristen der Agentur gewehrt. Die EU-Kommission betont, der Streit betreffe nur die Entwicklungsphase, nicht den Betrieb; das EES sei europaweit voll funktionsfähig. Reisende und Flughäfen erleben das anders: Sie klagen über Ausfälle und Wartezeiten von bis zu drei Stunden.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system"
+                },
+                {
+                  "name": "Reuters via onvista",
+                  "url": "https://www.onvista.de/news/2026/11-09-ft-eu-verklagte-it-firmen-wegen-verspaeteter-grenzschutzsysteme-0-20-26574037"
+                },
+                {
+                  "name": "it-daily",
+                  "url": "https://www.it-daily.net/shortnews/eu-ibm-grenzsystem"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-frankreich-bericht-ausland-accounts-unruhen",
+              "slug": "frankreich-bericht-ausland-accounts-unruhen",
+              "title": "Frankreich: Interner Bericht wirft Israel-, MAGA- und Russland-Accounts Stimmungsmache vor",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "international",
+              "icon": "📱",
+              "edition": "midday",
+              "kurz": "Laut internen Berichten aus Paris und Brüssel haben ausländische Accounts die Unruhen in Frankreich mit Islamismus und Migration verknüpft. Russland soll auch Falschvideos verbreitet haben.",
+              "summary": "Ein interner Bericht des französischen Aussenministeriums, den Reuters einsehen konnte, wirft Accounts aus dem Umfeld Israels und der amerikanischen MAGA-Bewegung vor, «feindselige Narrative» über die Unruhen im Oktober verbreitet zu haben, indem sie diese mit radikalem Islamismus und Migration verknüpften. Die zehn meistgesehenen X-Posts aus dem MAGA-Umfeld erreichten vom 16. bis 18. Oktober über 49 Millionen Aufrufe, jene israelischer Politiker, Behörden, Medien und Influencer über 35 Millionen, prorussische nur 2,8 Millionen. Ein separater EU-Bericht wirft dem russischen Netzwerk «Operation Overload» vor, gefälschte Videos verbreitet zu haben.",
+              "gegenstimme": "Der Bericht unterscheidet in der Wiedergabe von Reuters nicht klar zwischen gezielter Desinformation und legitimer Meinungsäusserung: Die Deutung, Migration und Islamismus spielten bei den Krawallen eine Rolle, ist eine politische Einschätzung und keine Falschmeldung, solange keine erfundenen Fakten verbreitet werden. Die französische Regierung hat ein Interesse daran, die Unruhen als rein soziale Proteste darzustellen. Ein israelisches Medium bezeichnete die Botschaften dagegen als falsch und aufhetzend.",
+              "sources": [
+                {
+                  "name": "Reuters via Jerusalem Post",
+                  "url": "https://www.jpost.com/international/article-914306"
+                },
+                {
+                  "name": "Reuters via Al-Monitor",
+                  "url": "https://www.al-monitor.com/originals/2026/11/exclusive-covert-russian-network-exploited-french-riots-social-media-eu-report"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/france-finds-israel-linked-pages-spread-narrative-tying-riots-to-islamism-migration/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-kreta-bootsungluecke-20-tote",
+              "slug": "kreta-bootsungluecke-20-tote",
+              "title": "Mindestens 20 tote Migranten bei Bootsunglücken vor Kreta",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🌊",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/f3092d9a-98d8-4c23-a956-de5bcf0abf83/AAABob_NIJ4/AAABnSSvrFg/16x9-big/kuestenwache-griechenland-104.jpg?width=1280",
+              "kurz": "Bei vier Unglücken südlich von Kreta sind am Wochenende mindestens 20 Menschen gestorben, 133 wurden gerettet. Die Boote waren in Libyen gestartet.",
+              "summary": "Bei vier Unglücken mit Migrantenbooten südlich von Kreta sind am Wochenende mindestens 20 Menschen ums Leben gekommen. 133 Menschen wurden gerettet, mindestens zwei gelten als vermisst, wie der griechische Sender ERT unter Berufung auf die Küstenwache berichtet. Die Boote waren laut Überlebenden in Libyen gestartet; zwei mutmassliche Schlepper im Alter von 16 und 28 Jahren wurden festgenommen.",
+              "gegenstimme": "Hilfsorganisationen sehen in den Toten eine Folge fehlender legaler Fluchtwege und einer zu schwachen staatlichen Seenotrettung. Griechische Behörden und Befürworter strengerer Grenzpolitik verweisen dagegen auf die Schlepper, die pro Person 1000 bis 2500 Euro verlangen und überfüllte, seeuntaugliche Boote bei starkem Wind losschicken; sie fordern mehr Druck auf Libyen. Gleichentags starben vor Senegal mindestens 34 Menschen auf der Atlantikroute.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/migration-uebers-mittelmeer-mindestens-20-tote-migranten-bei-bootsungluecken-vor-kreta"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/kreta-griechische-kuestenwache-birgt-mindestens-20-tote-migranten-auf-boot-a-67ce7c1a-abd0-432a-a7b9-938fa0e6ebbe"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/mindestens-20-tote-migranten-bei-schiffsungl%c3%bccken-vor-kreta/92349371"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-nvidia-china-dementi-aktie",
+              "slug": "nvidia-china-dementi-aktie",
+              "title": "Nvidia-Affäre: China bestreitet Spionage, Aktie fällt",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "📉",
+              "edition": "midday",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/5/3/9/jensen-huang-nvidia-6543edbf94a579c5.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Peking nennt den Spionagevorwurf im Fall Jensen Huang eine Verleumdung. Die Nvidia-Aktie verlor vorbörslich rund vier bis fünf Prozent.",
+              "summary": "Chinas Aussenministerium hat am Montag den Vorwurf zurückgewiesen, Nvidia-Chef Jensen Huang sei über eine Affäre zum Ziel chinesischer Spionage geworden. Sprecher Guo Jiakun nannte die «sogenannte Geschichte einer chinesischen Spionin» unbegründet und eine Verleumdung. Die Nvidia-Aktie fiel im vorbörslichen Handel in New York um rund vier bis fünf Prozent.",
+              "gegenstimme": "Peking hat erwartungsgemäss dementiert, und die Spionagevorwürfe beruhen bisher nur auf anonymen Quellen aus US-Geheimdiensten, die NYT und FT zitieren; keine Behörde hat sie öffentlich erhoben. Singapurs Innenministerium widersprach zudem Berichten, es habe die Verbindungen der Frau nach China untersucht. Analysten wie Dan Ives halten eine Ablösung Huangs für ausgeschlossen, weil Nvidia ohne ihn kaum denkbar sei.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Fall-um-Nvidia-Chef-China-weist-Spionagevorwurf-zurueck-11517104.html"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+                },
+                {
+                  "name": "Xinhua",
+                  "url": "https://english.news.cn/20261109/20aa1587dc5c415a9c966cea0af6aa9c/c.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-aktie-faellt-nach-affaeren-gestaendnis-von-konzernchef-jensen-huang-deutlich-a-a4c10877-9327-4b7b-b097-3c5cdc607a3e"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-aigner-nominiert-spd-unterstuetzt",
+              "slug": "aigner-nominiert-spd-unterstuetzt",
+              "title": "CDU nominiert Aigner offiziell – SPD stellt sich dahinter",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoXhnvbQ/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1280",
+              "kurz": "Der CDU-Vorstand hat Ilse Aigner als Kandidatin fürs Bundespräsidialamt nominiert, das SPD-Präsidium unterstützt sie. Damit hat sie eine Mehrheit in Aussicht.",
+              "summary": "Der CDU-Bundesvorstand hat am Montag die bayerische Landtagspräsidentin Ilse Aigner (CSU) offiziell als Kandidatin für die Nachfolge von Bundespräsident Frank-Walter Steinmeier nominiert. Das SPD-Präsidium stellte sich am selben Tag hinter die Kandidatur. Die Bundesversammlung wählt am 30. Januar 2027, Union und SPD haben dort zusammen eine Mehrheit.",
+              "gegenstimme": "Die Kür verlief nicht reibungslos: CSU-Chef Markus Söder hatte Aigner schon im April ohne Absprache mit Merz vorgeschlagen, und Merz zögerte lange; laut Tagesschau drängten zudem CDU-Kreise auf eine eigene Kandidatin. Ob Grüne, Linke oder AfD eigene Kandidaturen aufstellen, war bis Mittag nicht bekannt.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6af18f14eaa675c45847c475/nun-gibt-es-klarheit-spd-praesidium-unterstuetzt-nominierung-von-ilse-aigner-als-bundespraesidentin.html"
+                },
+                {
+                  "name": "t-online",
+                  "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101519494/ilse-aigner-spd-praesidium-unterstuetzt-kandidatur-als-bundespraesidentin.html"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-vodafone-2300-stellen",
+              "slug": "vodafone-2300-stellen",
+              "title": "Vodafone streicht in Deutschland fast jede fünfte Stelle",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "📶",
+              "edition": "midday",
+              "image": "https://www.tagesspiegel.de/images/16260097/alternates/BASE_16_9_W1400/1794218475000/vodafone.jpeg",
+              "kurz": "Der Telekomkonzern baut in zwei Jahren rund 2300 von 12'000 Stellen ab und setzt stärker auf KI und Automatisierung.",
+              "summary": "Vodafone Deutschland will in den kommenden zwei Jahren rund 2300 Arbeitsplätze abbauen oder verlagern, wie Deutschlandchef Marcel de Groot am Montag der Belegschaft mitteilte. Bei rund 12'000 Beschäftigten ist das fast jede fünfte Stelle. Vertrieb und Kundenservice sollen enger zusammengelegt und mehr Abläufe mit künstlicher Intelligenz automatisiert werden.",
+              "gegenstimme": "Vodafone betont, das Geschäft habe sich stabilisiert, die Kunden seien zufriedener, und gleichzeitig investiere man mehr in Glasfaser, KI und digitale Services; der Abbau solle sozialverträglich erfolgen. Aus Sicht der Beschäftigten dient KI hier vor allem als Sparinstrument: Der Konzern sagt selbst, die Automatisierung solle die laufenden Kosten senken. Eine Reaktion der Gewerkschaft Verdi lag in den gelesenen Berichten nicht vor.",
+              "sources": [
+                {
+                  "name": "Vodafone (Primärquelle)",
+                  "url": "https://unternehmen.vodafone.de/newsroom/beschleunigter-umbau-durch-einfachere-strukturen-mehr-ki-staerkere-wettbewerbsfaehigkeit"
+                },
+                {
+                  "name": "Tagesspiegel (dpa)",
+                  "url": "https://www.tagesspiegel.de/gesellschaft/medien/dpa-umkampfter-telko-markt-vodafone-baut-in-deutschland-rund-2300-stellen-ab-16260098.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/wirtschaft/article6af19bf853650a498f207e51/vodafone-baut-in-deutschland-rund-2300-stellen-ab-fast-jeder-fuenfte-arbeitsplatz-ist-betroffen.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-usa-weisen-libanesischen-konsul-aus",
+              "slug": "usa-weisen-libanesischen-konsul-aus",
+              "title": "USA weisen libanesischen Generalkonsul wegen Hisbollah-Posts aus",
+              "date": "2026-11-09",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🛫",
+              "edition": "midday",
+              "image": "https://s.lorientlejour.com/storage/attachments/1547/880559-01-02-1788785292_127093_341175.jpg/r/800/880559-01-02-1788785292_127093_341175.jpg",
+              "kurz": "Ibrahim Charara musste Detroit verlassen, weil ihm zugeschriebene Posts den Hisbollah-Anschlag auf US-Marines 1983 verherrlicht haben sollen.",
+              "summary": "Das US-Aussenministerium hat den libanesischen Generalkonsul in Detroit, Ibrahim Charara, am Freitag zur unerwünschten Person erklärt; er verliess die USA am Sonntag. Grund sind ihm zugeschriebene Social-Media-Posts vom Oktober 2021, die den Hisbollah-Anschlag auf die Kaserne der US-Marines in Beirut von 1983 verherrlicht haben sollen. Bei dem Anschlag starben 241 US-Soldaten.",
+              "gegenstimme": "Eine Person aus Chararas Umfeld sagt, die Posts seien veröffentlicht worden, nachdem sein Konto gehackt worden sei; Charara selbst betonte am Flughafen, er habe seine Pflichten erfüllt. Belege für einen Hackerangriff wurden nicht vorgelegt. Das US-Aussenministerium erklärt, im Land sei kein Platz für jemanden, der Terroranschläge feiere oder rechtfertige.",
+              "sources": [
+                {
+                  "name": "L'Orient Today",
+                  "url": "https://today.lorientlejour.com/article/1553798/after-the-charara-affair-rajji-announces-replacement-in-michigan-and-takes-a-swipe-at-iran.html"
+                },
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/international/article-914137"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise"
                 }
               ]
             }
