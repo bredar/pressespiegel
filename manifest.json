@@ -1,6 +1,316 @@
 {
-  "updated": "2026-11-08T17:30:00+01:00",
+  "updated": "2026-11-09T06:30:00+01:00",
   "days": [
+    {
+      "date": "2026-11-09",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-09-nvidia-huang-spionageverdacht",
+              "slug": "nvidia-huang-spionageverdacht",
+              "title": "Nvidia untersucht Affäre von Konzernchef Huang mit mutmasslicher chinesischer Spionin",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🕵️",
+              "edition": "morning",
+              "image": "https://dims.apnews.com/dims4/default/ba870ab/2147483647/strip/true/crop/7958x5305+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F13%2Fa1%2Ffe5626746b49682f8ed99108ca22%2Fdf2bdc4081774d849db66acc42e31497",
+              "kurz": "Der Verwaltungsrat prüft, ob Jensen Huang Ziel eines ausländischen Geheimdienstes war; Huang gesteht die Affäre ein und bleibt Chef.",
+              "summary": "Der Verwaltungsrat des Chipkonzerns Nvidia hat am Sonntag eine unabhängige Untersuchung eingeleitet, nachdem Berichte publik wurden, Gründer und Konzernchef Jensen Huang sei Ziel einer ausländischen Geheimdienstoperation gewesen. Huang räumte in einem Schreiben an die Belegschaft eine Affäre mit der Geschäftsfrau Alice Huang ein, die laut New York Times nach Einschätzung von US-Nachrichtendiensten Informationen an Peking weitergab. Der Verwaltungsrat sieht nach eigenen Angaben keinen Grund zur Annahme, dass Firmengeheimnisse oder die nationale Sicherheit betroffen sind; Huang bleibt im Amt.",
+              "gegenstimme": "Nvidia betont, es gebe keine Hinweise auf einen Abfluss von Geheimnissen, und der Verwaltungsrat spricht Huang ausdrücklich das Vertrauen aus. Megaspeed erklärt, die heutige Führung nehme die Vorwürfe sehr ernst und lasse sie durch externe Anwälte prüfen. Umgekehrt ist der Spionagevorwurf bisher von keiner Behörde öffentlich erhoben worden; er stützt sich auf anonyme Quellen, und Alice Huang hat sich nicht geäussert.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/nvidia-jensen-huang-investigation-chinese-spy-68839e7ca6ba2b121529f7e475e501d6"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+                },
+                {
+                  "name": "The Verge (Memo im Wortlaut)",
+                  "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/live/cm78p221e313t"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-cop31-antalya-schweiz",
+              "slug": "cop31-antalya-schweiz",
+              "title": "Klimakonferenz COP31 beginnt – Schweiz will bestehende Zusagen sichern",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🌍",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/c499263ac54d11e85274923d3d03b300c7f5e1e0-92346375.jpg?ver=ae5dbc46&fit=1200,900",
+              "kurz": "In Antalya starten die Uno-Klimaverhandlungen; die Schweizer Delegation setzt auf Umsetzung statt auf grosse neue Beschlüsse.",
+              "summary": "In Antalya (Türkei) beginnt heute die 31. Uno-Klimakonferenz; bis am 20. November verhandeln Vertreter aus 197 Staaten über die Umsetzung des Pariser Abkommens. Die elfköpfige Schweizer Delegation unter Umweltbotschafter Felix Wertli will vor allem bestehende Zusagen sichern; UVEK-Vorsteher Albert Rösti reist in der zweiten Woche an. Grosse Grundsatzentscheide sind erst an der COP33 in zwei Jahren vorgesehen.",
+              "gegenstimme": "Der WWF Schweiz hält die Schweizer Linie für zu kurz gegriffen: Bern solle nicht nur neue Geberländer in die Pflicht nehmen, sondern den eigenen Beitrag an die internationale Klimafinanzierung erhöhen. Dass das 1,5-Grad-Ziel wohl verfehlt wird und die USA erneut aus dem Abkommen ausgetreten sind, nährt zudem Zweifel am Nutzen der Konferenzen. Wertli hält dagegen, ohne das Abkommen stünde die Welt «an einem viel schlechteren Ort».",
+              "sources": [
+                {
+                  "name": "BAFU (Primärquelle)",
+                  "url": "https://www.bafu.admin.ch/de/cop31"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/schweiz-will-an-klimakonferenz-fortschritte-sichern/92346388"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-jugendsession-bern-forderungen",
+              "slug": "jugendsession-bern-forderungen",
+              "title": "Jugendsession übergibt Forderungen – auch für vorläufig Aufgenommene",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "morning",
+              "kurz": "200 Jugendliche haben im Bundeshaus Forderungen zu Bildung, Hitzeschutz und Status F an den Ständeratspräsidenten übergeben.",
+              "summary": "Nach vier Tagen im Bundeshaus haben die 200 Teilnehmenden der 35. Eidgenössischen Jugendsession am Sonntag ihre Forderungen an Ständeratspräsident Stefan Engler (Mitte/GR) übergeben. Verlangt werden lebenslange Bildungsmöglichkeiten, Fachwissen für hitzeresistente Infrastruktur und die Absicherung der Zukunftschancen junger Menschen mit Aufenthaltsstatus F, also vorläufig Aufgenommener. Der Prix Jeunesse ging an die Zürcher SP-Nationalrätin Anna Rosenwasser.",
+              "gegenstimme": "Unter den Teilnehmenden selbst gibt es Widerspruch zur Protestwelle in Europa: Die Präsidentin der Jungen Mitte Basel, Emilia Mirovska, hält unbewilligte Demonstrationen und Ausschreitungen für kontraproduktiv, mehrere Jugendliche sehen in der Schweiz keinen Grund für Proteste wie in Frankreich oder Italien. Die Forderung zum Status F berührt die politisch umstrittene Frage, ob vorläufig Aufgenommene langfristig integriert oder in ihre Herkunftsländer zurückgeführt werden sollen.",
+              "sources": [
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/jugendsession-2026-fordert-absicherung-der-zukunftschancen/92347550"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/jugendsession-2026-europas-jugend-ist-wuetend-und-in-der-schweiz"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-thun-gesamterneuerungswahlen",
+              "slug": "thun-gesamterneuerungswahlen",
+              "title": "Thun wählt Ende November erneut – SP-Sitz im Gemeinderat umkämpft",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🗳️",
+              "edition": "morning",
+              "kurz": "Vier Monate nach den Ersatzwahlen wählt Thun am 29. November Regierung und Parlament neu; 27 Personen wollen in den Gemeinderat.",
+              "summary": "Die Stadt Thun wählt am 29. November den fünfköpfigen Gemeinderat, den 40-köpfigen Stadtrat und das Stadtpräsidium neu, nur vier Monate nach den Ersatzwahlen vom Sommer. Für den Gemeinderat kandidieren 14 Frauen und 13 Männer, darunter alle Bisherigen. Stadtpräsidentin Eveline Salzmann (SVP) hat keine Gegenkandidatur und wird still gewählt, sofern sie die Wiederwahl in den Gemeinderat schafft.",
+              "gegenstimme": "Für die Bürgerlichen geht es darum, die im Sommer verlorene Mehrheit zurückzuholen: SVP und FDP greifen den SP-Sitz von Claudius Domeyer an, und ein Mitte-Bündnis aus GLP, EVP, EDU, Mitte und Parteilosen will ein bis zwei Sitze. SP und Grüne setzen auf Wohnungspolitik, etwa eine Regulierung von Kurzzeitvermietungen; der bisherige SVP-Gemeinderat Reto Schertenleib stellt Verkehr und Veloinfrastruktur ins Zentrum.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/zweite-wahl-innert-kurzer-zeit-nach-vier-monaten-thuner-bevoelkerung-waehlt-bereits-wieder"
+                },
+                {
+                  "name": "Radio BeO",
+                  "url": "https://www.radiobeo.ch/gesamterneuerungswahlen-am-29-november-2026/"
+                },
+                {
+                  "name": "Stadt Thun (Primärquelle)",
+                  "url": "https://www.thun.ch/wahlenabstimmungen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-aigner-bundespraesidentin",
+              "slug": "aigner-bundespraesidentin",
+              "title": "Merz schlägt Ilse Aigner als erste Bundespräsidentin vor",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "morning",
+              "kurz": "Die CSU-Politikerin soll am 30. Januar Frank-Walter Steinmeier nachfolgen; die Koalition hat in der Bundesversammlung eine Mehrheit.",
+              "summary": "Bundeskanzler und CDU-Chef Friedrich Merz hat am Sonntagabend im CDU-Präsidium vorgeschlagen, die bayerische Landtagspräsidentin Ilse Aigner (CSU) als gemeinsame Kandidatin der schwarz-roten Koalition für das Amt des Staatsoberhaupts zu nominieren. Die CDU-Gremien sollen heute Montag formell entscheiden. Die 61-Jährige wäre die erste Frau und erste CSU-Politikerin im Amt; gewählt wird am 30. Januar in der Bundesversammlung, wo CDU, CSU und SPD laut dpa rund 50 Stimmen Mehrheit haben.",
+              "gegenstimme": "Linke-Chefin Ines Schwerdtner kritisiert, die Koalition mache die Besetzung unter sich aus, statt eine Kandidatur zu suchen, die das Land zusammenbringe; aus der Linken kommt laut WELT der Vorwurf eines «parteipolitischen Wanderpokals». AfD-Fraktionschefin Alice Weidel verlangt, dass sich Aigner auch der AfD-Fraktion vorstellt, die sie als stärkste Kraft in Umfragen bezeichnet. Die AfD will einen eigenen Kandidaten aufstellen, der wegen der Mehrheitsverhältnisse als chancenlos gilt.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
+                },
+                {
+                  "name": "Handelsblatt (dpa)",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-kandidatin-mit-besten-chancen-cdu-will-aigner-nominieren/100268312.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6af0cd0280d3a1c6aa66d965/merz-folgt-soeders-vorschlag-ilse-aigner-soll-bundespraesidentin-werden-linke-schimpft-ueber-parteipolitischen-wanderpokal.html"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentin-kandidatin-friedrich-merz-gxe"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-koalition-willigen-manoever-polen",
+              "slug": "koalition-willigen-manoever-polen",
+              "title": "«Koalition der Willigen» startet erstes Manöver für eine Ukraine-Schutztruppe",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🪖",
+              "edition": "morning",
+              "kurz": "Rund 2800 Soldaten aus elf Ländern üben bis 22. November, wie ein Waffenstillstand in der Ukraine abgesichert werden könnte.",
+              "summary": "Rund 2800 Soldaten aus elf Ländern beginnen heute in Polen, im Luftraum über Rumänien und im westlichen Schwarzen Meer das Manöver «Koalicja 2026». Bis am 22. November wird geübt, wie nach einem Ende des Ukraine-Kriegs ein Waffenstillstand abgesichert werden könnte. Führungsnationen sind Frankreich mit rund 1000 und Grossbritannien mit rund 300 Militärangehörigen; die Bundeswehr stellt etwa zehn Stabsoffiziere und bis zu zwei A400M-Tankflugzeuge.",
+              "gegenstimme": "Moskau lehnt jede ausländische Truppe in der Ukraine ab: Aussenamtssprecherin Maria Sacharowa nennt eine Stationierung eine «militärische Intervention» und erklärt solche Einheiten zu «legitimen Zielen». Auch im Westen ist offen, ob die Truppe je zum Einsatz kommt: Deutschland machte erst nach Zögern mit, und über Art und Umfang eines deutschen Beitrags wollen Regierung und Bundestag gesondert entscheiden.",
+              "sources": [
+                {
+                  "name": "ZDFheute (dpa)",
+                  "url": "https://www.zdfheute.de/politik/ausland/militaermanoever-koalition-ukraine-krieg-russland-100.html"
+                },
+                {
+                  "name": "Handelsblatt (dpa)",
+                  "url": "https://www.handelsblatt.com/politik/international/koalition-der-willigen-was-es-mit-dem-manoever-der-ukraine-koalition-auf-sich-hat/100268288.html"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-koalition-der-willigen-startet-erstes-militaermanoever"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-trump-abschiebungen-zu-hart",
+              "slug": "trump-abschiebungen-zu-hart",
+              "title": "Trump: Abschiebepolitik war «zu hart» und hat bei den Midterms geschadet",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "kurz": "Im CBS-Interview räumt der US-Präsident Fehler bei den Ausschaffungen ein und bietet den Demokraten einen Migrationsdeal an.",
+              "summary": "US-Präsident Donald Trump hat im CBS-Interview «60 Minutes», ausgestrahlt am Sonntag, gesagt, seine Abschiebepolitik sei «zu hart» gewesen und habe ihm bei den Zwischenwahlen geschadet. Als Fehler nennt er die Ausschaffung von Menschen mit guten Jobs, deren einziger Verstoss die illegale Einreise gewesen sei. Mit den Demokraten, die ab Januar beide Kongresskammern kontrollieren, will er einen Migrationsdeal suchen.",
+              "gegenstimme": "Trump selbst verweist auf einen grossen Teil der Bevölkerung, der alle illegal Eingereisten ausgeschafft sehen will; auch in seiner Regierung gebe es Leute «ziemlich weit rechts», die das wollten. In der Nachwahlbefragung trauen die Wähler den Republikanern in der Migrationsfrage weiterhin knapp mehr zu als den Demokraten (43 zu 41 Prozent). Offen ist, wie die Aussage zur Beförderung von Stephen Miller passt, dem Architekten der Massenausschaffungen.",
+              "sources": [
+                {
+                  "name": "CBS News",
+                  "url": "https://www.cbsnews.com/news/trump-says-some-of-his-immigration-policies-may-have-been-too-tough-60-minutes/"
+                },
+                {
+                  "name": "NBC News",
+                  "url": "https://www.nbcnews.com/politics/trump-administration/trump-says-deportations-tough-hurt-midterms-rcna608208"
+                },
+                {
+                  "name": "ABC News",
+                  "url": "https://abcnews.com/US/trump-tough-deportation-policies-hurt-midterms/story?id=137963657"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/trump-60-minutes-interview-immigration-73d62584b3ad81ef2f55742ee3ba4c35"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-rubio-iran-gespraeche-stocken",
+              "slug": "rubio-iran-gespraeche-stocken",
+              "title": "Rubio: Gespräche mit Iran kaum produktiv, Forderungen teils «lächerlich»",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇷",
+              "edition": "morning",
+              "kurz": "Der US-Aussenminister sieht keinen Durchbruch; Trump hält neue Angriffe für «höchst unwahrscheinlich», falls Teheran einlenkt.",
+              "summary": "US-Aussenminister Marco Rubio hat am Sonntag bei seiner Ankunft zum G7-Aussenministertreffen in Frankreich gesagt, die Gespräche mit Iran seien bisher wenig produktiv, weil Teherans Forderungen «inakzeptabel» und teils «lächerlich» seien; ein Durchbruch stehe nicht bevor. Präsident Donald Trump sagte CNN, neue Angriffe seien «höchst unwahrscheinlich», falls Iran einem starken Abkommen zustimme. Heute Montag empfängt Trump in Washington Katars Regierungschef, der als zentraler Vermittler gilt.",
+              "gegenstimme": "Irans Aussenminister Abbas Araghchi sagt, die Vermittler seien nach den US-Zwischenwahlen tagelang untätig gewesen, es brauche mehr Zeit. Teheran bietet an, die Hormusstrasse innert zwei Tagen zu öffnen, wenn die Kampfhandlungen an allen Fronten enden, und droht sonst mit Vergeltung. Die Revolutionsgarden weisen die neue US-Taskforce gegen iranische Landrouten als zum Scheitern verurteilt zurück.",
+              "sources": [
+                {
+                  "name": "dpa (via Yahoo News)",
+                  "url": "https://www.yahoo.com/news/politics/articles/rubio-says-little-progress-us-031828380.html"
+                },
+                {
+                  "name": "Iran International",
+                  "url": "https://www.iranintl.com/en/202611084536"
+                },
+                {
+                  "name": "SRF (Liveticker)",
+                  "url": "https://www.srf.ch/news"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-suedafrika-anc-kommunalwahlen",
+              "slug": "suedafrika-anc-kommunalwahlen",
+              "title": "ANC erleidet schlechtestes Ergebnis seit Ende der Apartheid",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇿🇦",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2630/live/78c708a0-db5c-11f1-adda-c54f54e3ce6a.jpg",
+              "kurz": "Bei den Kommunalwahlen fällt der ANC auf knapp 31 Prozent; Südafrika steht vor schwierigen Koalitionsverhandlungen in den Städten.",
+              "summary": "Der ANC hat bei den Kommunalwahlen in Südafrika vom 4. November sein schlechtestes Ergebnis seit Ende der Apartheid erzielt: 30,76 Prozent landesweit nach 46 Prozent im Jahr 2021. Zweite wurde die Democratic Alliance (DA) mit 24,64 Prozent vor der MK-Partei von Ex-Präsident Jacob Zuma (9,76) und den EFF (6,22). Der ANC hat nur noch in der Provinz Limpopo eine Mehrheit; Generalsekretär Fikile Mbalula sprach von einem «katastrophalen» Ergebnis.",
+              "gegenstimme": "Präsident Cyril Ramaphosa betont, der ANC bleibe stärkste Partei, und spricht von einem «besorgniserregenden» Rückgang, den man mit Demut akzeptiere. Auch der Erfolg der DA ist relativ: Ihr Anteil stieg gegenüber 2021 nur leicht und liegt unter den 26,9 Prozent von 2016. Der Analyst William Gumede sieht weniger einen klaren Sieger als das Ende der Dominanz einer Partei; Südafrika sei nun ein «Koalitionsland».",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cwrkygrxp11mo"
+                },
+                {
+                  "name": "IOL",
+                  "url": "https://iol.co.za/lge2026/2026-11-09-anc-remains-largest-party-as-fragmented-results-put-coalition-government-in-spotlight/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-senegal-bootsunglueck-el-hierro",
+              "slug": "senegal-bootsunglueck-el-hierro",
+              "title": "Mindestens 34 Tote vor Senegal – El Hierro ruft wegen Ankünften Notstand aus",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🚤",
+              "edition": "morning",
+              "kurz": "Ein Migrantenboot ist vor Kébémer gekentert; auf der Kanareninsel El Hierro kamen seit Anfang November über 3300 Menschen an.",
+              "summary": "Vor der Küste im Nordwesten Senegals ist am Samstag eine Piroge mit Migranten gekentert; laut amtlichen Angaben, verbreitet von der staatlichen Agentur APS, sind mindestens 34 Menschen tot, eine Person wurde gerettet. Das Boot sank vor den Loumpoul-Dünen im Departement Kébémer zwischen Dakar und Saint-Louis. Auf der Kanareninsel El Hierro, Ziel der Atlantikroute, haben die Behörden den Notstand ausgerufen: Seit Anfang November kamen dort über 3300 Menschen auf rund 30 Booten an.",
+              "gegenstimme": "Senegals Regierung legt den Akzent auf den Kampf gegen Schleppernetze und mehr Zusammenarbeit mit den Nachbarländern und ruft die Bevölkerung zur Vorsicht vor irregulärer Migration auf; zugleich verspricht sie mehr Hilfe bei der wirtschaftlichen Eingliederung junger Menschen. Die Zahlen von Hilfsorganisationen zu Toten auf der Route liegen deutlich über amtlichen Bilanzen und lassen sich nicht unabhängig prüfen. Offen bleibt, was der starke Anstieg auf El Hierro für die Migrationszusammenarbeit zwischen Spanien und den westafrikanischen Staaten bedeutet; neue Stellungnahmen aus Madrid lagen bis Redaktionsschluss nicht vor.",
+              "sources": [
+                {
+                  "name": "APS (Senegal)",
+                  "url": "https://aps.sn/kebemer-34-morts-et-un-rescape-dans-le-naufrage-dune-pirogue-de-migrants-officiel/"
+                },
+                {
+                  "name": "Al Jazeera (AFP/Reuters)",
+                  "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-09-papst-leo-milei-argentinien",
+              "slug": "papst-leo-milei-argentinien",
+              "title": "Papst Leo kritisiert in Buenos Aires Mileis Sparkurs",
+              "date": "2026-11-09",
+              "time": "06:30",
+              "category": "international",
+              "icon": "⛪",
+              "edition": "morning",
+              "kurz": "Beim ersten Papstbesuch in Argentinien seit fast 40 Jahren mahnt Leo XIV.: Die Wirtschaft müsse den Menschen dienen.",
+              "summary": "Papst Leo XIV. hat zum Auftakt seines Argentinienbesuchs am Sonntag in Buenos Aires die Sparpolitik von Präsident Javier Milei indirekt kritisiert: «Die Wirtschaft muss den Menschen dienen und nicht umgekehrt.» Er mahnte besondere Rücksicht auf Kranke, Pflegebedürftige und Menschen mit Behinderungen an und forderte «Bereitschaft zuzuhören» sowie einen sorgfältigen Umgang mit Worten. Es ist der erste Papstbesuch in Argentinien seit fast vier Jahrzehnten.",
+              "gegenstimme": "Milei kam mit dem Versprechen ins Amt, die galoppierende Inflation zu bändigen, und hat sie laut Berichten drastisch gesenkt; darauf stützt sich seine treue Anhängerschaft. Das Verhältnis zu Leo gilt bisher als herzlich. Der Papst nannte Milei bei der Kritik nicht namentlich; dass er auf die Kürzungen bei der Behindertenhilfe zielte, ist eine Deutung der Medien.",
+              "sources": [
+                {
+                  "name": "The Guardian (AFP)",
+                  "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/papst-leo-in-suedamerika-kritik-an-mileis-sparpolitik-in-argentinien-a-8ab5667d-ab9c-42f1-afec-4cc0464d238c"
+                },
+                {
+                  "name": "FAZ",
+                  "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-in-buenos-aires-mahnungen-an-javier-milei-accg-201664318.html"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-08",
       "editions": {
