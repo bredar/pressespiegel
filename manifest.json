@@ -1,6 +1,356 @@
 {
-  "updated": "2026-11-09T17:30:00+01:00",
+  "updated": "2026-11-10T06:30:00+01:00",
   "days": [
+    {
+      "date": "2026-11-10",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-10-publica-akira-loesegeld-bund",
+              "slug": "publica-akira-loesegeld-bund",
+              "title": "Publica-Datendiebstahl: Hacker fordern vom Bund Lösegeld",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🔐",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/1ebd294.jpg",
+              "kurz": "Die Hackergruppe Akira erpresst nach dem Angriff auf die Publica-Softwarelieferantin offenbar direkt den Bund; das VBS weiss davon.",
+              "summary": "Nach dem Hackerangriff auf die PK Softech AG, Softwarelieferantin der Bundespensionskasse Publica, fordert die Gruppe Akira Lösegeld und droht mit Veröffentlichung oder Verkauf der Daten. Laut SRF-Recherchen weiss das Verteidigungsdepartement (VBS) von der Erpressung; die Behörden gehen davon aus, dass potenziell Daten des gesamten Bundespersonals abgeflossen sind, auch von verdeckt arbeitenden Mitarbeitenden von Nachrichtendienst und Fedpol. PK Softech und Publica sagen, bei ihnen sei keine Forderung eingegangen.",
+              "gegenstimme": "Publica erklärte schon im Oktober, den in den Medien dargestellten Umfang des Datenabflusses nicht bestätigen zu können; die Abklärungen liefen noch. Das VBS äussert sich zum konkreten Umgang mit der Forderung nicht und hält an der Empfehlung fest, kein Lösegeld zu zahlen. Kritische Fragen betreffen vor allem die Publica selbst: Laut Medienberichten verlangte sie die Löschung alter Daten von 2019 erst 2025, und nach der Vergabe 2017 gab es keine IT-Sicherheitsprüfung durch den Bund.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/heikle-daten-gestohlen-hacker-fordern-loesegeld-nach-angriff-auf-publica-lieferantin"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/akira-hacker-erpressen-loesegeld-mit-publica-daten-654128340841"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/digital/707905269-nach-publica-datendiebstahl-ransomware-bande-akira-erpresst-bund"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-drohnenschutz-energieanlagen-bfe",
+              "slug": "drohnenschutz-energieanlagen-bfe",
+              "title": "Bund will Energiefirmen zum Schutz vor Drohnen und Sabotage verpflichten",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "⚡",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/6e1a1f.jpg",
+              "kurz": "Das Bundesamt für Energie arbeitet an einem Gesetz, das Betreiber von AKW, Staudämmen und Netzen zu Schutzmassnahmen verpflichtet.",
+              "summary": "Das Bundesamt für Energie (BFE) erarbeitet eine neue Rechtsgrundlage, die Betreiber kritischer Energieanlagen zu Schutzmassnahmen gegen physische und elektromagnetische Bedrohungen verpflichten soll. Als grösste Risiken für Kernkraftwerke und Staudämme nennt der Bund Sabotage, Drohnen, Panzerfäuste und Brandstiftung. Polizeiliche Befugnisse wie das Abschiessen von Drohnen erhalten die Firmen aber nicht.",
+              "gegenstimme": "Der Branchenverband VSE begrüsst die Pläne, verlangt aber klar geregelte Zuständigkeiten. Bürgerlichen Parlamentariern wie SVP-Nationalrat Thomas Hurter geht der Vorschlag zu wenig weit: Sie wollen, dass Betreiber im Ernstfall Störsender oder Abfangdrohnen einsetzen dürfen. Umgekehrt lässt sich fragen, ob der Staat damit Kosten seiner Sicherheitsaufgabe auf Firmen und letztlich auf die Stromkunden abwälzt.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/kritische-infrastruktur-bund-will-drohnenschutz-von-energieanlagen-verstaerken"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/bund-plant-einbezug-von-energieversorgern-bei-drohnenabwehr/92353402"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/gegen-drohnen-oder-panzerfaeuste-energiebranche-soll-aufruesten/klep642"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-brand-bundesasylzentrum-zuerich",
+              "slug": "brand-bundesasylzentrum-zuerich",
+              "title": "Brand im Bundesasylzentrum Zürich: Vier Personen im Spital",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🔥",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/a76025e.jpg",
+              "kurz": "Im Obergeschoss des Asylzentrums an der Pfingstweidstrasse brach am Montagabend ein Feuer aus; die Ursache ist unklar.",
+              "summary": "Im Bundesasylzentrum an der Zürcher Pfingstweidstrasse ist am Montag gegen 17 Uhr im Obergeschoss ein Feuer ausgebrochen. Schutz & Rettung Zürich brachte den Brand mit einem Grossaufgebot rasch unter Kontrolle; vier Personen kamen mit Rauchgasvergiftungen ins Spital. Zur Ursache machten die Behörden noch keine Angaben.",
+              "gegenstimme": "Bisher ist nicht bekannt, ob es sich um einen Unfall, um Brandstiftung von innen oder um einen Anschlag von aussen handelt; entsprechende Spekulationen in sozialen Medien sind unbelegt. Ebenso offen ist, wer die Verletzten sind (Bewohner oder Personal). Eine Einordnung als Sicherheitsproblem in Asylzentren oder als Angriff auf Asylsuchende wäre beim jetzigen Stand verfrüht.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/feuer-rasch-unter-kontrolle-brand-in-zuercher-bundesasylzentrum-hintergruende-unklar"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/zuerich-bundesasylzentrum-brennt-meterhohe-flammen-schiessen-aus-fenster-103664818"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/zuerich/692742316-vier-verletzte-nach-brand-in-bundesasylzentrum-zuerich"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-frankreich-iran-kuehlanlagen-cyberangriff",
+              "slug": "frankreich-iran-kuehlanlagen-cyberangriff",
+              "title": "Frankreich: Irans Revolutionsgarden stecken hinter Angriffen auf Kühlanlagen",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🧊",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/9/7/8/shutterstock_2796327489-7074d5f051fbdd3b.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Paris macht die iranische Cybereinheit Shahid Kaveh für die Sabotage von Supermarkt-Kühlregalen verantwortlich und will EU-Sanktionen.",
+              "summary": "Frankreichs Aussenminister Jean-Noël Barrot hat die Islamischen Revolutionsgarden Irans für die Cyberangriffe auf Kühlanlagen in rund 700 französischen Supermärkten vom 11. und 12. Oktober verantwortlich gemacht. Die Pariser Staatsanwaltschaft nennt die Einheit Shahid Kaveh und hat Haftbefehle gegen deren Chef und zwei Stellvertreter beantragt. Frankreich bestellte den iranischen Botschafter ein und will EU-weite Sanktionen.",
+              "gegenstimme": "Iran hat sich laut den vorliegenden Berichten bisher nicht zu den Vorwürfen geäussert. Fachleute geben zu bedenken, dass Indizien wie Farsi-Spuren und iranische IP-Adressen auch fingiert sein können; die EU-Aussenbeauftragte Kaja Kallas spricht vorsichtig von einer Reaktion «falls» die Zuordnung bestätigt wird. Ob auch die Angriffe auf Blutlager und Kühlregale in anderen Ländern auf dieselben Täter zurückgehen, ist nicht belegt.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Frankreich-Iran-steckt-hinter-Cyberangriffen-auf-Kuehlsysteme-11517966.html"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-nvidia-huang-fbi-ermittelt",
+              "slug": "nvidia-huang-fbi-ermittelt",
+              "title": "Nvidia-Affäre: Laut Trump ermittelt jetzt das FBI",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🕵️",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+              "kurz": "Trump sagt, das FBI untersuche die Affäre von Nvidia-Chef Jensen Huang mit einer mutmasslichen chinesischen Spionin; er selbst stellt sich hinter Huang.",
+              "summary": "US-Präsident Donald Trump hat am Montag erklärt, das FBI untersuche die Affäre von Nvidia-Chef Jensen Huang mit der Geschäftsfrau Alice Huang, die US-Geheimdienste für eine Agentin Pekings halten. Trump sagte, Huang habe ihm versichert, nichts von einer Spionagetätigkeit gewusst zu haben, und er glaube ihm. Die Nvidia-Aktie verlor am Montag rund sechs Prozent.",
+              "gegenstimme": "China weist die Vorwürfe als «völlig unbegründet» und Verleumdung zurück. Nvidia betont, die nationale Sicherheit der USA sei nicht gefährdet, und der Verwaltungsrat spricht Huang das Vertrauen aus. Kritiker fragen dagegen, warum Trump laut «New York Times» schon letztes Jahr gewarnt worden war und dennoch nicht handelte; Trump sagt dazu, er bereue das nicht.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-trump-iran-krieg-effektiv-vorueber",
+              "slug": "trump-iran-krieg-effektiv-vorueber",
+              "title": "Trump erklärt Iran-Krieg militärisch für «effektiv vorüber»",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇮🇷",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af249716f78-1794263409.jpg?resize=1920%2C1440",
+              "kurz": "Nach einem Treffen mit Katars Premier stellt Trump ein Ende grösserer Angriffe in Aussicht; die Seeblockade gegen Iran bleibt aber bestehen.",
+              "summary": "US-Präsident Donald Trump hat den Krieg gegen Iran nach einem Treffen mit Katars Regierungschef Mohammed bin Abdulrahman Al Thani als militärisch «effektiv vorüber» bezeichnet. Neue Angriffe seien «höchst unwahrscheinlich», die US-Seeblockade gegen iranische Häfen solle aber auf Wunsch der Golfstaaten bestehen bleiben. Gleichzeitig unterrichteten CIA-Chef John Ratcliffe und Geheimdienstdirektor Jay Clayton die «Gang of Eight» im Kongress.",
+              "gegenstimme": "Iran weist Trumps Darstellung zurück: Der Sekretär des Nationalen Sicherheitsrats, Mohsen Rezaei, spricht von «Fake News» über «imaginäre Gespräche». Präsident Masoud Pezeshkian sagt, Iran sei zu Verhandlungen bereit, werde sich aber nicht beugen. Auch US-Aussenminister Marco Rubio dämpft: Die Gespräche hätten kaum Fortschritte gebracht, einige iranische Forderungen seien inakzeptabel.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+                },
+                {
+                  "name": "Watson (SDA)",
+                  "url": "https://www.watson.ch/international/iran/798575482-trump-erklaert-iran-krieg-fuer-effektiv-vorueber"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-massie-impeachment-hegseth-eingereicht",
+              "slug": "massie-impeachment-hegseth-eingereicht",
+              "title": "Republikaner Massie reicht Amtsenthebung gegen Hegseth ein",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
+              "kurz": "Der abgewählte Kentucky-Abgeordnete erzwingt eine Abstimmung im Repräsentantenhaus; Trump und Hegseth weisen den Vorstoss zurück.",
+              "summary": "Der republikanische Abgeordnete Thomas Massie hat am Montag im Repräsentantenhaus eine Resolution mit acht Anklagepunkten zur Amtsenthebung von Verteidigungsminister Pete Hegseth eingebracht. Er wirft ihm vor, den Iran-Krieg über 90 Tage ohne Zustimmung des Kongresses geführt und rechtswidrige Befehle umgesetzt zu haben. Damit muss die Kammer innert 48 Stunden über das weitere Vorgehen entscheiden.",
+              "gegenstimme": "Hegseth nennt den Vorstoss eine «Farce» und Massie einen «verbitterten, abgewählten Abgeordneten»; die Kritik richte sich gegen den Erfolg der Regierung. Trump stellt sich hinter ihn und verweist auf die Festnahme Maduros und gestiegene Rekrutierungszahlen. Selbst bei einer Mehrheit im Haus gilt: Für eine Absetzung braucht es im Senat eine Zweidrittelmehrheit, die nicht in Sicht ist.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+                },
+                {
+                  "name": "Al Jazeera (AP)",
+                  "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-abu-dhabi-gespraeche-beginnen",
+              "slug": "abu-dhabi-gespraeche-beginnen",
+              "title": "Ukraine-Gespräche in Abu Dhabi beginnen – USA wollen neue Sicherheitsordnung mit Russland",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1280",
+              "kurz": "Erstmals seit Februar verhandeln die USA, Russland und die Ukraine wieder substanziell; Washington bringt eine «langfristige Sicherheitsarchitektur» ins Spiel.",
+              "summary": "Heute Dienstag beginnen in Abu Dhabi trilaterale Gespräche zwischen den USA, Russland und der Ukraine, die ersten substanziellen seit Februar. US-Vertreter sprechen von einem «endgültigen Ende» des Kriegs und schlagen eine neue «langfristige Sicherheitsarchitektur» zwischen Russland und Europa vor, inklusive möglicher Lockerung von Sanktionen. Delegationen aus Deutschland, Frankreich, Grossbritannien, Italien und der EU sind vor Ort.",
+              "gegenstimme": "Europäische Vertreter befürchten, die USA könnten Russland weitreichende Zugeständnisse machen, etwa beim Rückbau der Nato-Präsenz in Osteuropa. EU-Aussenbeauftragte Kaja Kallas sagt, eine Sicherheitsordnung existiere bereits, Russland halte sich nur nicht daran. In der Ukraine sind die Erwartungen gedämpft; der Politologe Wolodymyr Fesenko warnt, die US-Unterhändler gingen als Geschäftsleute an den Frieden heran.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/friedensgespraeche-in-abu-dhabi-immerhin-sind-nun-europaeer-dabei-aber-duerfen-sie-auch-mit-russland-sprechen-ld.10058585"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-merz-eu-haushalt-ukraine-ultimatum",
+              "slug": "merz-eu-haushalt-ukraine-ultimatum",
+              "title": "Merz droht mit Blockade des EU-Haushalts wegen Ukraine-Hilfe",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇪🇺",
+              "edition": "morning",
+              "image": "https://images.welt.de/6af223df49318da287d2242f/be7fd923ddfbbbc8be39702b2ba888b4-master/ci16x9-w1200/dpa-com-261103-935-1718355-jpg",
+              "kurz": "Deutschland stimmt dem EU-Budget 2028 bis 2034 nur zu, wenn sich alle Mitgliedstaaten an weiteren Hilfen für Kiew beteiligen.",
+              "summary": "Bundeskanzler Friedrich Merz will dem nächsten mehrjährigen EU-Haushalt für 2028 bis 2034 nur zustimmen, wenn sich alle Mitgliedstaaten «ohne Ausnahme» an der Finanzierung der Ukraine beteiligen. Das geht aus einem Brief an EU-Ratspräsident António Costa hervor, über den die «Financial Times» berichtet. Kiew rechnet für 2027 mit einer Finanzierungslücke von 70 Milliarden Euro.",
+              "gegenstimme": "Ungarn, die Slowakei, Bulgarien und Tschechien haben laut WELT signalisiert, sich nicht an zusätzlichen Hilfen beteiligen zu wollen; aus ihrer Sicht ist die Unterstützung eine nationale Entscheidung und kein Haushaltspfand. Kritiker der Verknüpfung warnen, dass ein blockierter EU-Haushalt auch Landwirtschaft, Kohäsion und Forschung trifft. Umgekehrt argumentieren Befürworter, Trittbrettfahrer dürften nicht von gemeinsamen Mitteln profitieren.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6af223df49318da287d2242f/finanzierung-fuer-kiew-merz-droht-mit-blockade-des-eu-haushalts-und-fordert-ukraine-hilfen-von-allen-mitgliedstaaten.html"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/international/eu/808105721-friedrich-merz-stellt-eu-ultimatum-wegen-ukraine-hilfen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-frankfurt-krawalle-polizei-staatsangehoerigkeit",
+              "slug": "frankfurt-krawalle-polizei-staatsangehoerigkeit",
+              "title": "Frankfurter Krawallnacht: Polizei legt Staatsangehörigkeiten der Festgenommenen offen",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🚔",
+              "edition": "morning",
+              "image": "https://media0.faz.net/image/w1200h627/c1ce1fc85ec3/w5523h2885x0y518o/e9c9255c-baee-47b1-97bb-f3f2af607ead-201647815_ROE_Demo_Polizeigewalt_054.jpg/nach-den-ausschreitungen-die.webp",
+              "kurz": "Von 53 Festgenommenen haben 16 keinen deutschen Pass und 15 einen Doppelpass; die Polizei spricht von «jungen, migrantisch geprägten Männern».",
+              "summary": "Die Polizei Frankfurt hat erstmals Angaben zu den 53 Personen zwischen 13 und 29 Jahren gemacht, die nach den Ausschreitungen im Anschluss an die Gen-Z-Demonstration in der Nacht auf den 1. November festgenommen wurden. 22 sind nur Deutsche, 15 haben eine doppelte Staatsangehörigkeit (davon fünf deutsch-marokkanisch) und 16 haben keinen deutschen Pass, unter anderem aus Afghanistan, Syrien, Tunesien und der Türkei. Die Polizei ordnet die Gewalttäter einem bekannten Muster «junger, migrantisch geprägter Männer» zu.",
+              "gegenstimme": "Kritiker werfen der Polizei vor, mit Kontrollen auf der Einkaufsstrasse Zeil Racial Profiling zu betreiben; die Polizei weist das zurück. Zur Einordnung: Laut Melderegister haben rund 58 Prozent der Frankfurter Bevölkerung eine ausländische Staatsangehörigkeit oder einen Migrationshintergrund. Konservative Medien sprechen umgekehrt von einem späten Eingeständnis und werfen Politik und grossen Medien vor, die Herkunft der Täter anfangs heruntergespielt zu haben.",
+              "sources": [
+                {
+                  "name": "FAZ",
+                  "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-polizei-nennt-herkunft-der-tatverdaechtigen-nach-ausschreitungen-201666995.html"
+                },
+                {
+                  "name": "FAZ (dpa)",
+                  "url": "https://www.faz.net/agenturmeldungen/dpa/polizei-gewaltbereite-maenner-bei-ausschreitungen-beteiligt-201667263.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-china-handelsueberschuss-billion",
+              "slug": "china-handelsueberschuss-billion",
+              "title": "Chinas Handelsüberschuss übersteigt erneut eine Billion Dollar",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "🇨🇳",
+              "edition": "morning",
+              "image": "https://images.welt.de/6af28e51e39746b7b04be0b2/1335372e69646c25d5db6fd3a710044b-master/ci16x9-w1200/dpa-com-261028-99-88292-jpg",
+              "kurz": "Von Januar bis Oktober erzielte China einen Überschuss von 1,04 Billionen Dollar; die Exporte stiegen im Oktober um 35 Prozent.",
+              "summary": "China hat laut seiner Zollbehörde von Januar bis Oktober einen Handelsüberschuss von rund 1,04 Billionen US-Dollar erzielt, das zweite Jahr in Folge über der Billionengrenze. Im Oktober stiegen die Exporte gegenüber dem Vorjahr um 35,2 Prozent, die Importe um 41,6 Prozent. Treiber sind Elektronik, Chips und Autos, auch wegen der weltweiten Nachfrage für den KI-Ausbau.",
+              "gegenstimme": "Peking betont, es wolle keinen grösseren Überschuss, sondern einen ausgewogeneren Welthandel. Ökonomen wie Alicia García-Herrero von Natixis halten die Lage dagegen für nicht nachhaltig: Überkapazitäten und schwache Binnennachfrage zwängen China in den Export, und immer mehr Länder schützten ihre Industrie. Moody's warnt, ein Abflauen des KI-Booms würde Chinas Exporte hart treffen.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/wirtschaft/article6af28e51e39746b7b04be0b2/starke-exporte-china-praesentiert-handelsueberschuss-von-mehr-als-einer-billion-dollar.html"
+                },
+                {
+                  "name": "Watson (SDA/dpa)",
+                  "url": "https://www.watson.ch/wirtschaft/international/408012876-chinas-handelsueberschuss-ueberschreitet-billionen-schwelle"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-bund-knds-einstieg-66-milliarden",
+              "slug": "bund-knds-einstieg-66-milliarden",
+              "title": "Deutschland zahlt 6,6 Milliarden Euro für die Hälfte von KNDS",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "🛡️",
+              "edition": "morning",
+              "image": "https://images.handelsblatt.com/9CCIzTSVhgU9/cover/6000/3375/0/0/314/313/0.5/0.5/21.07.2026-hessen-kassel-ein-leopard-panzer-leopard-2a7hu-ungarische-version-steht-waehrend-des.jpg",
+              "kurz": "Der Bund übernimmt den 50-Prozent-Anteil der Eigentümerfamilien am Leopard-Hersteller; der Preis enthält einen Aufschlag von einer Milliarde.",
+              "summary": "Die deutsche Bundesregierung zahlt laut einem Bericht des «Spiegel» 6,6 Milliarden Euro für den 50-Prozent-Anteil der deutschen Eigentümerfamilien am deutsch-französischen Panzerbauer KNDS. Der Preis beruht auf einer Bewertung von 11,2 Milliarden Euro vor dem abgesagten Börsengang plus einem Aufschlag von einer Milliarde. Der Kaufvertrag soll noch im November unterzeichnet werden.",
+              "gegenstimme": "Die Regierung begründet den Einstieg damit, Schlüsseltechnologien zu sichern und gegenüber Frankreich als zweitem Grossaktionär nicht ins Hintertreffen zu geraten. Kritisch gesehen wird der Aufschlag: Er soll den Familien unter anderem den anteiligen Gewinn 2026 abgelten, obwohl Investoren beim gescheiterten Börsengang nicht einmal die erhofften 12,5 Milliarden zahlen wollten. Ordnungspolitisch stellt sich zudem die Frage, ob der Staat als Eigentümer und zugleich Hauptkunde Interessenkonflikte schafft.",
+              "sources": [
+                {
+                  "name": "Handelsblatt (Reuters)",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/ruestung-bund-zahlt-offenbar-66-milliarden-euro-fuer-knds-einstieg/100268563.html"
+                },
+                {
+                  "name": "n-tv",
+                  "url": "https://www.n-tv.de/wirtschaft/Bund-laesst-sich-KNDS-Einstieg-6-6-Milliarden-Euro-kosten-id31514391.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/bund-kauft-anteil-an-panzerhersteller-knds-fuer-6-6-milliarden-euro-a-d5902cfc-42fc-4980-81f7-bbc078b8df29"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-global-carbon-budget-2026",
+              "slug": "global-carbon-budget-2026",
+              "title": "Fossile CO2-Emissionen sinken leicht – Gesamtausstoss steigt trotzdem",
+              "date": "2026-11-10",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/09fb1fb6-5c90-4644-866b-94e3adccf2f8/AAABld2mR9Y/AAABnSSvrFg/16x9-big/strom-klima-100.jpg?width=1280",
+              "kurz": "Laut Global Carbon Project gehen die Emissionen aus Kohle, Öl und Gas 2026 um 0,4 Prozent zurück, vor allem wegen des Iran-Kriegs.",
+              "summary": "Die weltweiten CO2-Emissionen aus fossilen Brennstoffen sinken 2026 laut dem Global Carbon Project um 0,4 Prozent auf 38,2 Milliarden Tonnen, erstmals seit Jahren ausserhalb der Corona-Zeit. Hauptgrund ist ein Rückgang des Ölverbrauchs um 1,9 Prozent infolge des Iran-Kriegs und der Sperrung der Strasse von Hormus. Wegen Wald- und Torfbränden in Südostasien steigen die Gesamtemissionen dennoch auf 43,3 Milliarden Tonnen.",
+              "gegenstimme": "Die Forschenden selbst warnen, ein Rückgang durch einen geopolitischen Schock sei keine nachhaltige Klimalösung und dürfte kaum anhalten. Schlagzeilen gehen je nach Medium auseinander: «sinken» (fossil) oder «steigen» (gesamt) sind beide korrekt, betonen aber verschiedene Grössen. Wer an der Wirksamkeit der Klimapolitik zweifelt, kann darauf verweisen, dass der Rückgang mehr dem Ölpreis als politischen Massnahmen geschuldet ist.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/klimakrise-weltweite-co2-emissionen-steigen-trotz-rueckgang-beim-oel-103664916"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/weltweite-co-emission-aus-fossilen-brennstoffen-sinken-leicht-a-ce036f65-e59e-4fb8-9343-d6bbe9383fd1"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-09",
       "editions": {
