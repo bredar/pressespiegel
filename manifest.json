@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T12:21:25+01:00",
+  "updated": "2026-11-10T17:24:03+01:00",
   "days": [
     {
       "date": "2026-11-10",
@@ -676,6 +676,331 @@
                 {
                   "name": "The Guardian",
                   "url": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-11-10-keller-messahli-freispruch-uvam",
+              "slug": "keller-messahli-freispruch-uvam",
+              "title": "Islamismus-Kritikerin Keller-Messahli erneut freigesprochen",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://bluewin-prod-sc-images.imgix.net/2026/11/10/897df4bb-3494-4bdb-81a9-5d58dfb68620.jpg?w=1024&auto=format&s=d484ce1065facd6332401a1b512ca022",
+              "kurz": "Das Bezirksgericht Zürich spricht Saïda Keller-Messahli vom Vorwurf der Verleumdung eines Waadtländer Muslimverbands frei.",
+              "summary": "Das Bezirksgericht Zürich hat die Publizistin Saïda Keller-Messahli am Dienstag vom Vorwurf der Verleumdung freigesprochen. Der Waadtländer Muslimverband Uvam hatte sie angezeigt, weil sie ihn 2024 in einem Interview mit «Le Matin Dimanche» mit der Muslimbruderschaft und der algerischen Islamistenpartei FIS in Verbindung gebracht hatte. Die Staatsanwaltschaft hatte eine bedingte Geldstrafe von 40 Tagessätzen zu 100 Franken verlangt.",
+              "gegenstimme": "Der Uvam hält die Vorwürfe für grundfalsch und rufschädigend: Ein Muslimverband werde so pauschal in die Nähe von Extremisten gerückt. Der Richter hielt ausdrücklich fest, dass eine solche Verbindung durchaus ehrverletzend sein könne; der Freispruch stützt sich darauf, dass die Aussage im Kern belegt sei, nicht auf eine generelle Erlaubnis solcher Zuschreibungen. Das Urteil kann noch ans Obergericht weitergezogen werden.",
+              "sources": [
+                {
+                  "name": "bluewin/Keystone-SDA",
+                  "url": "https://www.bluewin.ch/en/news/zurich-court-acquits-islam-critic-keller-messahli-li.3668860"
+                },
+                {
+                  "name": "swissinfo/Keystone-SDA (Prozess)",
+                  "url": "https://www.swissinfo.ch/ger/sa%c3%afda-keller-messahli-%c3%a4ussert-sich-in-z%c3%bcrich-nicht-zu-vorw%c3%bcrfen/92358309"
+                },
+                {
+                  "name": "Nau.ch (Anklage)",
+                  "url": "https://www.nau.ch/news/schweiz/islamverband-zieht-saida-keller-messahli-vor-zurcher-gericht-67199960"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-asylzentrum-zuerich-festnahmen-brandstiftung",
+              "slug": "asylzentrum-zuerich-festnahmen-brandstiftung",
+              "title": "Brand im Bundesasylzentrum Zürich: Algerier und Tunesier festgenommen",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🚔",
+              "edition": "evening",
+              "kurz": "Nach dem Feuer im Bundesasylzentrum schliesst die Stadtpolizei Zürich Brandstiftung nicht aus und nimmt zwei Bewohner-Verdächtige fest.",
+              "summary": "Nach dem Brand im Bundesasylzentrum im Zürcher Kreis 5 vom Montagnachmittag hat die Stadtpolizei Zürich einen 22-jährigen Tunesier und einen 24-jährigen Algerier festgenommen. Das Feuer brach laut Polizei in einem Schlafraum aus, Brandstiftung kann nicht ausgeschlossen werden. Ins Spital kamen ein Bewohner und drei Mitarbeitende; rund 160 Personen mussten anderswo untergebracht werden.",
+              "gegenstimme": "Eine Festnahme ist kein Schuldnachweis: Ob es Brandstiftung war und welche Rolle die beiden Männer spielten, ist nicht geklärt. Der festgenommene Algerier gehört selbst zu den Hospitalisierten. Wer daraus bereits ein Muster ableitet, greift dem Verfahren vor; umgekehrt nennt die Polizei die Nationalitäten offen, sodass diese Information nicht verschwiegen wird.",
+              "sources": [
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/zuerich/zwei-festnahmen-nach-brand-im-zuercher-bundesasylzentrum/ltg6zjk"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/zwei-personen-verhaftet-polizei-zuerich-vermutet-brandstiftung-bei-asylzentrum"
+                },
+                {
+                  "name": "Stadt Zürich (Medienmitteilung)",
+                  "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/11/brand-im-bundesasylzentrum.html"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/zuerich-kreis-5-nach-brand-im-asylzentrum-zwei-personen-festgenommen-103665177"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-blausee-urteil-transportunternehmer",
+              "slug": "blausee-urteil-transportunternehmer",
+              "title": "Causa Blausee: Berner Transportunternehmer zu bedingter Strafe verurteilt",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "⚖️",
+              "edition": "evening",
+              "kurz": "Zehn Monate bedingt für den Chef einer Berner Transportfirma, der verschmutztes Material im Steinbruch Mitholz ablagern liess.",
+              "summary": "Das kantonale Wirtschaftsstrafgericht in Bern hat den Chef der Berner Transportfirma TGC am Dienstag zu einer bedingten Freiheitsstrafe von zehn Monaten bei zwei Jahren Probezeit verurteilt. Schuldig ist er der Urkundenfälschung in 25 und der Sachbeschädigung in 95 Fällen; vom Betrug wurde er freigesprochen. Er liess 2016/17 rund 4000 Tonnen verschmutzten Pressschlamm als sauberen Aushub in den Steinbruch Mitholz oberhalb des Blausees bringen.",
+              "gegenstimme": "Die Verteidigung hielt fest, das Personal des Steinbruchs hätte die falsch deklarierten Lieferungen bemerken müssen. Die Blausee-Besitzer vermuten seit Jahren einen Zusammenhang mit dem Fischsterben in ihrer Forellenzucht; dieser konnte im Verfahren aber nicht nachgewiesen werden, Gewässerschutzvorwürfe waren verjährt. Für sie ist der Fall mit diesem Urteil deshalb nicht erledigt.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/causa-blausee-keine-bagatelle-gericht-verurteilt-transportunternehmer"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/betrug-sachbeschaedigung-gewaesserverschmutzung-urteilsverkuendung-im-fall-blausee-970116459893"
+                },
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/berner-transportunternehmer-zu-bedingter-freiheitsstrafe-verurteilt/92357872"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/blausee-prozess-4000-tonnen-verschmutztes-material-illegal-entsorgt-verurteilt-103665046"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-madiswil-frontalkollision-toedlich",
+              "slug": "madiswil-frontalkollision-toedlich",
+              "title": "Madiswil: Autofahrer stirbt bei Frontalkollision mit Lastwagen",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🚑",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/10/d7c25bb2-b8db-4b62-a4ae-400aab689716.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C1920%2C1080&s=ddcd9109fbeb3ed3833eae1d38246fa8",
+              "kurz": "Ein 49-jähriger Berner ist am Dienstagmorgen in Madiswil nach einer Kollision mit einem Lastwagen gestorben; die Kantonspolizei sucht Zeugen.",
+              "summary": "Auf der Unterdorfstrasse zwischen Gutenburg und Madiswil geriet ein Autofahrer am Dienstag kurz nach 7.30 Uhr aus ungeklärten Gründen auf die Gegenfahrbahn und prallte frontal in einen Lastwagen. Der 49-jährige Berner starb noch auf der Unfallstelle. Die Kantonspolizei Bern ermittelt und sucht insbesondere den Lenker eines Fahrzeugs mit Höchstgeschwindigkeit 45 km/h, das vor Ort war.",
+              "gegenstimme": "Warum der Wagen auf die Gegenfahrbahn geriet, ist offen; ob das gesuchte 45-km/h-Fahrzeug bei dem Unfall eine Rolle spielte, sagt die Polizei nicht. Spekulationen über Ablenkung, Gesundheit oder Überholmanöver sind beim jetzigen Stand unbelegt.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/madiswil-be-in-lastwagen-gekracht-autolenker-49-stirbt-103665213"
+                },
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/autofahrer-stirbt-bei-frontalkollision-in-madiswil-be/92358516"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/frontalkollision-in-madiswil-autofahrer-toedlich-verunfallt-592127906486"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-pflege-hoechstarbeitszeit-45-stunden",
+              "slug": "pflege-hoechstarbeitszeit-45-stunden",
+              "title": "Pflegeinitiative: Ständeratskommission will 45 statt 50 Stunden Höchstarbeitszeit",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🏥",
+              "edition": "evening",
+              "kurz": "Die SGK-S stellt sich gegen den Nationalrat und will die wöchentliche Höchstarbeitszeit in der Pflege auf 45 Stunden senken.",
+              "summary": "Die Gesundheitskommission des Ständerats (SGK-S) hat das neue Gesetz über die Arbeitsbedingungen in der Pflege mit 10 zu 0 Stimmen bei 2 Enthaltungen verabschiedet. Mit 9 zu 3 Stimmen beantragt sie, die wöchentliche Höchstarbeitszeit von heute 50 auf 45 Stunden zu senken, wie es der Bundesrat vorgeschlagen hatte. Der Nationalrat hatte im April an 50 Stunden festgehalten.",
+              "gegenstimme": "Bürgerliche im Nationalrat und Spitalvertreter warnen vor Mehrkosten, mehr Personalbedarf und weniger Flexibilität; Thomas Straubhaar, Verwaltungsratspräsident der Spitäler Bülach und Thun, fragte, warum Pflegende nicht im Winter mehr arbeiten dürften, um im Sommer länger frei zu nehmen. Dem Pflegeverband SBK hingegen gehen die Verbesserungen der Kommission noch zu wenig weit. Zum Gesetz liegen zahlreiche Minderheitsanträge vor.",
+              "sources": [
+                {
+                  "name": "Parlamentsdienste (Medienmitteilung SGK-S)",
+                  "url": "https://www.parlament.ch/press-releases/Pages/mm-sgk-s-2026-11-10.aspx?lang=1047"
+                },
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/kommission-will-45-wochenstunden-als-h%c3%b6chstarbeitszeit-in-pflege/92358974"
+                },
+                {
+                  "name": "Medinside (Hintergrund)",
+                  "url": "https://www.medinside.ch/de/pflegeinitiative-wird-der-staenderat-nachbessern-20261019"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-ndrangheta-urteil-bundesstrafgericht",
+              "slug": "ndrangheta-urteil-bundesstrafgericht",
+              "title": "Bundesstrafgericht: Sechs Jahre Haft für 'Ndrangheta-Statthalter in der Schweiz",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/10/3c11e6ee-0220-4e77-badc-96cdba152f11.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y261&wmark=nzz",
+              "kurz": "Ein 59-jähriger Italiener aus dem Aargau wird als Schweizer Vertreter des Anello-Fruci-Clans verurteilt und für zehn Jahre des Landes verwiesen.",
+              "summary": "Das Bundesstrafgericht in Bellinzona hat den 59-jährigen Carmelo M. zu sechs Jahren und drei Monaten Haft und zehn Jahren Landesverweis verurteilt. Er war laut Gericht über Jahre Statthalter des kalabrischen 'Ndrangheta-Clans Anello-Fruci in der Schweiz, wusch Geld und unterstützte Waffen- und Drogenhandel logistisch; Treffpunkt war eine Pizzeria in Muri AG. Das Gericht folgte vollumfänglich dem Antrag der Bundesanwaltschaft.",
+              "gegenstimme": "Carmelo M. bestritt alle Vorwürfe («Io non sono mafioso») und sagt, sein Geld redlich verdient zu haben; seine zwei Anwälte haben Berufung angekündigt. In einigen Nebenpunkten, etwa beim Falschgeld, gab es Freisprüche mangels Beweisen. Kriminologen und das Fedpol sehen im Fall dagegen ein Beispiel dafür, wie die Schweiz zum Rückzugs- und Umschlagplatz der Mafia geworden ist.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/mafia-in-der-schweiz-klares-urteil-gegen-ndrangheta-statthalter-ld.10059628"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/ndrangheta-prozess-ueber-sechs-haft-sowie-zehn-jahre-landesverweis-fuer-angeklagten"
+                },
+                {
+                  "name": "RSI",
+                  "url": "https://www.rsi.ch/info/svizzera/%E2%80%98Ndrangheta-in-Svizzera-condannato-un-uomo-delle-cosche--4230974.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-astra-nationalstrassen-zustand-2026",
+              "slug": "astra-nationalstrassen-zustand-2026",
+              "title": "Nationalstrassen in stabilem Zustand – drei Tunnel schlecht",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🛣️",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/8ff6abd2ad9c7a1a6e16c58590ea3f2c629b4c99-92356362.jpg?ver=8a041d7e&fit=1200,900",
+              "kurz": "Das Astra gibt dem Nationalstrassennetz die Note 1,81; der Bund investierte 2025 rund 1,26 Milliarden Franken in den Unterhalt.",
+              "summary": "Laut dem Netzzustandsbericht des Bundesamts für Strassen (Astra) sind rund 91 Prozent der Infrastruktur der Nationalstrassen in mindestens annehmbarem Zustand, die Gesamtnote liegt unverändert bei 1,81 (1 gut, 5 alarmierend). Schlecht beurteilt sind der Solistunnel und der Tunnel Passmal in Graubünden sowie der Schwarzwaldtunnel in Basel. Der Bund investierte 2025 rund 1,26 Milliarden Franken in den Unterhalt des 2250 Kilometer langen Netzes.",
+              "gegenstimme": "Der Bericht ist eine Selbsteinschätzung des Astra; eine unabhängige Gegenprüfung oder Kritik von Verkehrsverbänden fand sich in den Berichten nicht. Für Autofahrer zählt zudem weniger die Note als die Folgen: Gerade weil viele Abschnitte jahrzehntealt sind und umfassend saniert werden müssen, räumt das Astra selbst ein, dass schon kleine Baustellen Staus auslösen.",
+              "sources": [
+                {
+                  "name": "Astra (Netzzustandsbericht)",
+                  "url": "https://www.astra.admin.ch/de/netzzustandsbericht"
+                },
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/schweizer-nationalstrassen-befinden-sich-in-guter-verfassung/92356375"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/schweizer-strassennetz-bund-investiert-1-2-milliarden-fuer-schweizer-nationalstrassen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-anthropic-boersengang-preisspanne",
+              "slug": "anthropic-boersengang-preisspanne",
+              "title": "Anthropic-Börsengang: Bis zu 64 Milliarden Dollar, Handelsstart am 19. November",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "📈",
+              "edition": "evening",
+              "image": "https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&w=1920&h=1080",
+              "kurz": "Anthropic bietet 825 Millionen Aktien zu 70 bis 78 Dollar an; es wäre einer der grössten Börsengänge der Geschichte.",
+              "summary": "Das KI-Unternehmen Anthropic (Claude) bietet bei seinem Nasdaq-Börsengang 825 Millionen Aktien zu 70 bis 78 Dollar an, wie aus dem am Dienstag aktualisierten Prospekt hervorgeht. Am oberen Ende brächte das bis zu 64,4 Milliarden Dollar ein; voll verwässert wäre Anthropic bis zu 1,4 Billionen Dollar wert. Laut CNBC soll der Preis am 18. November festgelegt werden, der Handel unter dem Kürzel «ANT» am 19. November beginnen.",
+              "gegenstimme": "Skeptiker verweisen auf die enormen, oft schuldenfinanzierten KI-Investitionen bei steigenden Zinsen: Vor kurzem war noch von einer Bewertung um 2 Billionen Dollar die Rede, Investoren halten selbst 1,5 Billionen inzwischen für ambitioniert. Kritisiert wird auch, dass die Gründer über eine besondere Aktienstruktur die Kontrolle behalten.",
+              "sources": [
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+                },
+                {
+                  "name": "Handelsblatt/Reuters",
+                  "url": "https://www.handelsblatt.com/technik/ki/ipo-anthropic-will-64-milliarden-dollar-mit-boersengang-einnehmen/100268723.html"
+                },
+                {
+                  "name": "Anthropic (Roadshow)",
+                  "url": "https://www.anthropic.com/news/roadshow-launch"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-iran-raketenstadt-drohung-israel",
+              "slug": "iran-raketenstadt-drohung-israel",
+              "title": "Iran zeigt unterirdische «Raketenstadt» und droht Israel mit Vernichtung",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "evening",
+              "image": "https://i.ds.at/bAWG6w/rs:fill:1200:600/plain/lido-images/2026/11/10/f0e671c2-1ac8-4029-bd53-a9e162d6a3ee.jpg",
+              "kurz": "Generalstabschef Abdollahi sagt, Iran werde Israel «ganz gewiss vernichten»; zuvor hatten die Revolutionsgarden die 2000-km-Reichweitengrenze aufgehoben.",
+              "summary": "Iranische Medien haben am Dienstag Videos einer neuen unterirdischen Raketenbasis der Revolutionsgarden veröffentlicht. Bei der Präsentation sagte Generalstabschef Ali Abdollahi laut der Agentur Tasnim über Israel: «Es ist klar, dass wir sie ganz gewiss vernichten werden.» Bereits am Samstag hatten die Revolutionsgarden erklärt, die selbst auferlegte Reichweitenbegrenzung ihrer ballistischen Raketen von 2000 Kilometern gelte nicht mehr.",
+              "gegenstimme": "Analysten wie Muhanad Seloom (Doha Institute) lesen die Drohungen vor allem als Druckmittel: Teheran wolle die Trump-Regierung zu einem Abkommen drängen, bevor im Januar der neue Kongress zusammentritt, und könne den Verzicht auf grössere Reichweiten später als Zugeständnis anbieten. Gleichzeitig spricht Trump von einem «effektiv vorüber» gegangenen Krieg; die Drohungen passen nicht zu diesem Bild.",
+              "sources": [
+                {
+                  "name": "derStandard/APA",
+                  "url": "https://www.derstandard.de/story/3000000348597/irans-milit228rf252hrung-droht-israel-erneut-mit-vernichtung"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means"
+                },
+                {
+                  "name": "Iran International",
+                  "url": "https://www.iranintl.com/en/202611103208"
+                },
+                {
+                  "name": "Tasnim (iranische Staatsmedien)",
+                  "url": "https://www.tasnimnews.ir/en/news/2026/11/10/3745410/iran-will-annihilate-israeli-regime-top-general-vows"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-hegseth-wehrt-sich-impeachment",
+              "slug": "hegseth-wehrt-sich-impeachment",
+              "title": "Hegseth nennt Amtsenthebungsantrag «Farce» – Abstimmung im Repräsentantenhaus",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "evening",
+              "kurz": "Der US-Verteidigungsminister spricht von einem «Schauprozess»; das Repräsentantenhaus muss innert zwei Sitzungstagen über Massies Antrag befinden.",
+              "summary": "US-Verteidigungsminister Pete Hegseth hat den Amtsenthebungsantrag des Republikaners Thomas Massie an einer Pressekonferenz als «Farce», «Stunt» und «Schauprozess» bezeichnet. Der Antrag stelle eine «Zielscheibe auf den Rücken amerikanischer Soldaten», sagte er. Das Repräsentantenhaus sollte sich noch am Dienstagabend (Ortszeit) damit befassen, voraussichtlich zuerst mit einer Abstimmung darüber, ihn zu vertagen.",
+              "gegenstimme": "Massie wirft Hegseth vor, den Iran-Krieg ohne Ermächtigung des Kongresses zu führen und Gesetze zum Schutz von Zivilisten zu missachten; Demokraten-Fraktionschef Hakeem Jeffries ist ein «hartes Ja». Mehrere Republikaner sagten Fox News vertraulich, der Antrag könne durchkommen. Hegseth dagegen hält alle Einsätze für rechtmässig, von Trump angeordnet und dem Kongress gemeldet.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-massie"
+                },
+                {
+                  "name": "CBC News",
+                  "url": "https://www.cbc.ca/news/world/hegseth-impeachment-resolution-reaction-9.7416083"
+                },
+                {
+                  "name": "ABC/Good Morning America",
+                  "url": "https://www.goodmorningamerica.com/news/story/hegseth-dismisses-impeachment-effort-political-spectacle-138002466"
+                },
+                {
+                  "name": "Washington Post",
+                  "url": "https://www.washingtonpost.com/national-security/2026/11/10/hegseth-defends-his-record-iran-war-impeachment-vote-looms/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-krakau-taeter-breivik-rechtsextrem",
+              "slug": "krakau-taeter-breivik-rechtsextrem",
+              "title": "Krakau-Attentäter interessierte sich für Breivik – Behörden sehen rechtsextreme Radikalisierung",
+              "date": "2026-11-10",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🕯️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/3e5f2fff-473d-45ae-9985-978b144251f5_w1200_r1.778_fpx33.34_fpy50.jpg",
+              "kurz": "Polens Justizminister sagt, der Schütze vom Krakauer Hauptmarkt habe Webseiten über den norwegischen Rechtsterroristen Breivik aufgerufen.",
+              "summary": "Der 24-jährige Michał Oksiński, der am Samstag auf dem Krakauer Hauptmarkt sechs Menschen erschossen hatte, hat laut Polens Justizminister und Generalstaatsanwalt Waldemar Żurek gezielt Webseiten über den norwegischen Rechtsterroristen Anders Breivik aufgerufen. Ermittler fanden zudem eine Gadsden-Flagge (Klapperschlange auf Gelb), die in den USA oft von rechtsextremen Gruppen genutzt wird, und einen Schalldämpfer im Auto. Die Hypothese einer rechtsextremen Radikalisierung werde durch weitere Hinweise gestützt, so Żurek.",
+              "gegenstimme": "Krakaus Stadtpräsident Łukasz Gibała und der konservative Theologe Andrzej Kobyliński (DoRzeczy) kritisieren, Innenminister Kierwiński habe die rechtsextreme Deutung zu früh und unbestätigt verbreitet; Gibała spricht eher von «Wahnsinn» als von Politik. Auch die Ermittler prüfen neben Ideologie mögliche psychische Probleme. Ex-GROM-Kommandant Roman Polko fragt zudem, wie ein 24-Jähriger legal ein Waffenarsenal horten konnte und warum frühere Warnsignale ignoriert wurden.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/todesschuetze-von-krakau-interessierte-sich-fuer-norwegischen-attentaeter-breivik-a-4b327c99-bf99-46c9-ac57-9e21f2a93d80"
+                },
+                {
+                  "name": "Polskie Radio (inkl. Presseschau DoRzeczy, Wprost)",
+                  "url": "https://www.polskieradio.pl/400/7764/artykul/3751240,anschlag-in-krakau-ermittler-finden-hinweise-auf-faszination-f%c3%bcr-breivik"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-100.html"
                 }
               ]
             }
