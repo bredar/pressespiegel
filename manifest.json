@@ -1,6 +1,407 @@
 {
-  "updated": "2026-11-10T17:24:03+01:00",
+  "updated": "2026-11-11T06:19:14+01:00",
   "days": [
+    {
+      "date": "2026-11-11",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-11-eternit-schmidheiny-urteil-aufgehoben",
+              "slug": "eternit-schmidheiny-urteil-aufgehoben",
+              "title": "Eternit: Italiens oberstes Gericht hebt Urteil gegen Schmidheiny auf",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "kurz": "Die Haftstrafe von neuneinhalb Jahren gegen den Schweizer Ex-Industriellen Stephan Schmidheiny ist aufgehoben; der Asbest-Fall geht zurück nach Turin.",
+              "summary": "Das italienische Kassationsgericht in Rom hat am Dienstagabend das Turiner Berufungsurteil gegen Stephan Schmidheiny aufgehoben, das ihn wegen fahrlässiger Tötung von 91 Menschen zu 9 Jahren und 6 Monaten Haft verurteilt hatte. Für rund 60 Todesfälle im Umfeld der Eternit-Fabrik in Casale Monferrato muss ein anderes Turiner Berufungsgericht neu urteilen, in 25 Fällen ist die Anklage verjährt. Die Generalstaatsanwaltschaft hatte die Bestätigung der Strafe verlangt.",
+              "gegenstimme": "Für Angehörige der Opfer in Casale Monferrato ist es ein weiterer Rückschlag nach Jahrzehnten: Sie demonstrierten vor dem Gericht unter dem Motto «Gerechtigkeit, Forschung, Sanierung». Die Anklage umfasste ursprünglich 392 Todesfälle. Dass die Verurteilungen jeweils an der Kausalitätsfrage scheitern, werten Opfervertreter als strukturelles Problem: Asbestkrebs bricht oft Jahrzehnte nach der Exposition aus, ein Einzelnachweis ist kaum zu erbringen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/drittes-verfahren-italienisches-gericht-hebt-eternit-urteil-gegen-schmidheiny-auf"
+                },
+                {
+                  "name": "Nau.ch/Keystone-SDA",
+                  "url": "https://www.nau.ch/news/europa/italienisches-gericht-hebt-ein-eternit-urteil-gegen-schmidheiny-auf-67200364"
+                },
+                {
+                  "name": "Corriere della Sera",
+                  "url": "https://torino.corriere.it/notizie/piemonte/26_novembre_10/eternit-bis-la-cassazione-annulla-la-sentenza-nuovo-processo-d-appello-per-schmidheiny-82196a97-241e-40c4-adcd-b823df954xlk.shtml"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/stephan-schmidheiny-asbest-opfer-berufungsprozess-im-fall-eternit-neu-aufgerollt-103665343"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-bundesgericht-sozialhilfe-ehepaar-einheit",
+              "slug": "bundesgericht-sozialhilfe-ehepaar-einheit",
+              "title": "Bundesgericht: Keine Sozialhilfe, wenn der Ehemann seine Finanzen verschweigt",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/041f01.jpg",
+              "kurz": "Ehepaare bleiben bei der Sozialhilfe eine wirtschaftliche Einheit – auch wenn ein Partner die Mitwirkung verweigert.",
+              "summary": "Das Bundesgericht hat am Dienstag die Beschwerde einer Frau aus dem Kanton Jura abgewiesen, die individuell Sozialhilfe beziehen wollte. Ihr ausländischer Ehemann weigerte sich, seine Lohnunterlagen offenzulegen, weil er um seine Aufenthaltsbewilligung fürchtete. Die Mehrheit der Richter hielt fest, die Behörden könnten die finanzielle Lage eines Ehepaars nicht ohne Mitwirkung der Betroffenen abklären.",
+              "gegenstimme": "Ein Richter mahnte in der öffentlichen Beratung, auch Ehegatten hätten individuelle Interessen; die Frau habe kein Geld und könne nichts für die Weigerung ihres Mannes. Kritiker sehen darin eine Lücke: Wer von einem unkooperativen Partner abhängig ist, fällt durch das Netz. Umgekehrt lässt sich argumentieren, dass sonst Sozialhilfe für Haushalte gezahlt würde, die womöglich genug Einkommen haben.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/urteil-des-bundesgerichts-sozialhilfe-verweigert-weil-ehemann-bockt"
+                },
+                {
+                  "name": "The Intelligent",
+                  "url": "https://theintelligent.ch/gesellschaft/2026/bundesgericht-bekraeftigt-wirtschaftliche-einheit-von-ehepaaren-bei-sozialhilfe"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-radikalisierte-minderjaehrige-keine-zahlen",
+              "slug": "radikalisierte-minderjaehrige-keine-zahlen",
+              "title": "Radikalisierte Jugendliche: Mehr Meldungen, aber keine nationalen Zahlen",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🚨",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2023/11/09/3a6e8916-52e3-47f5-b8d5-d4f8e32fb5d2.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6115,3440,x0,y637&wmark=nzz",
+              "kurz": "Die Waadt zählt seit 2018 über 340 Radikalisierungsmeldungen, drei Viertel davon Islamismus – eine gesamtschweizerische Statistik fehlt.",
+              "summary": "Laut einer Umfrage der NZZ bei mehreren Kantonen nehmen die Meldungen zu radikalisierten Minderjährigen zu, doch eine schweizweite Erfassung gibt es nicht. Die Waadtländer Fachstelle Uprad verzeichnete seit 2018 über 340 Meldungen, gut 75 Prozent betrafen radikalen Islamismus; seit dem Hamas-Angriff vom 7. Oktober 2023 ist das Durchschnittsalter deutlich gesunken. Im Aargau stieg die Zahl der Fälle beim Schulpsychologischen Dienst von 1 bis 3 pro Jahr auf über 20 seit 2023.",
+              "gegenstimme": "Fachstellen betonen, das Spektrum sei breiter geworden: In der Waadt stiegen die Meldungen zu Rechtsextremismus von null bis 2020 auf zehn im Jahr 2026, dazu kommen Mischformen und «gewalttätiger Nihilismus». Föderalisten verweisen darauf, dass Prävention bewusst kantonal organisiert ist und nahe an Schulen und Gemeinden besser funktioniere als eine zentrale Statistik. Kritiker halten dagegen, ohne Zahlen lasse sich weder das Ausmass noch die Wirkung der Prävention beurteilen.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/wie-viele-jugendliche-radikalisieren-sich-in-der-schweiz-die-behoerden-wissen-es-nicht-genau-ld.10047338"
+                },
+                {
+                  "name": "20 minutes",
+                  "url": "https://www.20min.ch/fr/story/extremisme-en-suisse-les-jeunes-se-radicalisent-mais-on-ne-sait-pas-a-quel-point-103664954"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-pflichtlager-heizoel-diesel",
+              "slug": "pflichtlager-heizoel-diesel",
+              "title": "Niedrigwasser: Bund gibt erneut Heizöl und Diesel aus Pflichtlagern frei",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "🛢️",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/00c60cd64d69ed5410cc817a9a61c5a110d809db-92355639.jpg?ver=387744ec&fit=1200,900",
+              "kurz": "Wegen Rheinniedrigwasser und Raffinerieproblemen zapft der Bund zum fünften Mal seit September die Pflichtlager an.",
+              "summary": "Das Bundesamt für wirtschaftliche Landesversorgung (BWL) erlaubt bis zum 6. Dezember die Entnahme von bis zu 30'000 Kubikmetern Heizöl aus den Pflichtlagern, rund zwei Prozent der Bestände. Das Diesel-Kontingent wird um 30'000 auf insgesamt 75'000 Kubikmeter erhöht. Grund sind Transportengpässe wegen des anhaltend tiefen Rheinpegels und Lieferprobleme ausländischer Raffinerien.",
+              "gegenstimme": "Das BWL betont, die Versorgung mit Benzin sei gesichert, wenn auch angespannt. Wer die Lage kritisch sieht, verweist darauf, dass die Pflichtlager seit September fünfmal angezapft wurden und auch Flugpetrol bereits gestützt werden muss: Die Reserven sind für Krisen gedacht, nicht als Dauerpuffer. Wie stark die Lager inzwischen gesunken sind, sagt das Amt nicht im Detail.",
+              "sources": [
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/bund-greift-auf-pflichtlager-f%C3%BCr-heiz%C3%B6l-und-diesel-zur%C3%BCck/92355652"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/bundeshaus/bund-greift-auf-pflichtlager-fur-heizol-und-diesel-zuruck-67200102"
+                },
+                {
+                  "name": "BWL",
+                  "url": "https://www.bwl.admin.ch/de/newnsb/FBnf3YjJZk3R"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-lehrstellenmarkt-trendbericht-2026",
+              "slug": "lehrstellenmarkt-trendbericht-2026",
+              "title": "Berufslehre verliert an Boden – Betriebe finden schwerer Lernende",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🧰",
+              "edition": "morning",
+              "kurz": "Nur noch 66 Prozent der Jugendlichen machen eine Berufslehre, und ein Viertel der Lehrbetriebe erhält zu wenig geeignete Bewerbungen.",
+              "summary": "Der Anteil Jugendlicher in einer dualen oder schulischen Berufslehre ist von 71 Prozent (2012) auf 66 Prozent (2024) gesunken, wie ein am Dienstag vorgestellter Trendbericht der Eidgenössischen Hochschule für Berufsbildung (EHB) zeigt. Die Besetzungsquote der Lehrstellen fiel von 96 auf 92 Prozent; rund ein Viertel der Lehrbetriebe erhält zu wenige geeignete Bewerbungen, besonders im Bau und in der Industrie.",
+              "gegenstimme": "Die Forschenden selbst halten fest, der Lehrstellenmarkt funktioniere insgesamt noch gut. Gewerbe und bürgerliche Bildungspolitiker sehen dagegen einen Trend zur Akademisierung, den Kantone mit hohen Gymnasialquoten fördern. Andere verweisen darauf, dass in begehrten Berufen wie Informatik oder KV die Nachfrage das Angebot übersteigt – es fehlt also nicht an Lernwilligen, sondern am Abgleich.",
+              "sources": [
+                {
+                  "name": "SBFI/EHB",
+                  "url": "https://www.sbfi.admin.ch/fr/newnsb/0rBApxRHM9oU"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/die-berufslehre-verliert-weiter-an-boden-ld.10059842"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-freiburg-staatsrat-stichwahl-linke",
+              "slug": "freiburg-staatsrat-stichwahl-linke",
+              "title": "Freiburger Staatsratswahl: Linke schickt drei Frauen in den zweiten Wahlgang",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "morning",
+              "kurz": "SP und Grüne wollen am 29. November mit drei Kandidatinnen einen dritten linken Sitz in der Freiburger Regierung holen.",
+              "summary": "Das linke Bündnis aus SP, Grünen und Mitte-Links tritt im zweiten Wahlgang der Freiburger Staatsratswahl vom 29. November mit der bisherigen Grünen Sylvie Bonvin-Sansonnens sowie den Sozialdemokratinnen Lise-Marie Graden und Stephanie Tschopp an. Im ersten Wahlgang gingen alle drei vergebenen Sitze an das bürgerliche Bündnis: an die FDP-Staatsräte Romain Collaud und Didier Castella sowie an Marie-France Roth Pasquier (Mitte). Für die verbleibenden vier Sitze schicken die Bürgerlichen Markus Julmy (Mitte) und den bisherigen SVP-Staatsrat Philippe Demierre ins Rennen.",
+              "gegenstimme": "Die Bürgerlichen sehen im Resultat des ersten Wahlgangs, als ihre fünf Kandidierenden die ersten fünf Plätze belegten, einen klaren Wählerauftrag, ihre Fünfermehrheit zu halten. Die Linke spricht von einem nötigen «Gleichgewicht» in der Regierung. Bonvin-Sansonnens selbst nannte den bürgerlichen Block eine «Dampfwalze».",
+              "sources": [
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/sp-und-gr%C3%BCne-schicken-drei-frauen-in-freiburger-stichwahl/92360714"
+                },
+                {
+                  "name": "Le Temps",
+                  "url": "https://www.letemps.ch/de/schweiz/freiburg/die-freiburger-linke-tritt-mit-drei-kandidatinnen-zum-zweiten-wahlgang-der-staatsratswahl-an"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-erfolg-fuer-buergerliche-sie-holen-drei-sitze-im-staatsrat"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-bern-regierung-badeverbote-klimaanlagen",
+              "slug": "bern-regierung-badeverbote-klimaanlagen",
+              "title": "Berner Regierung: Badeverbote zum Fischschutz prüfen, kein Steuerabzug für Klimaanlagen",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🌡️",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/5df88a03984e968a26a29df90b8bb3a35332b98f-92355264.jpg?ver=344c63a8&fit=1200,900",
+              "kurz": "Der Regierungsrat will Badeverbote bei extremer Hitze prüfen, lehnt aber Steuerabzüge für Klimageräte ab.",
+              "summary": "Der Berner Regierungsrat empfiehlt dem Grossen Rat, eine Motion für Bade- und Betretungsverbote zum Schutz von Fischen bei extremer Hitze als Postulat anzunehmen; er will die rechtlichen Grundlagen für zeitlich und örtlich begrenzte Verbote prüfen. Eine breit abgestützte Motion von SVP, Mitte, FDP, GLP, EDU und Grünen für Steuerabzüge auf Klima- und Kühlgeräten lehnt er dagegen ab.",
+              "gegenstimme": "Gegen die Badeverbote dürften Freizeit- und Gewerbekreise argumentieren, dass Hitzestress der Fische vor allem von Wassertemperatur und Abflussmenge abhängt, nicht von Badenden. Bei den Klimaanlagen widersprechen die Motionäre aus fast allen Fraktionen der Regierung: Hitzeschutz sei Gesundheitsschutz, gerade für ältere Menschen; der Verweis auf Bundesrecht könne mit einer Standesinitiative angegangen werden.",
+              "sources": [
+                {
+                  "name": "swissinfo/Keystone-SDA (Badeverbote)",
+                  "url": "https://www.swissinfo.ch/ger/berner-regierung-will-badeverbote-zum-schutz-von-fischen-pr%c3%bcfen/92353135"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/badeverbot-bei-hitze-kanton-bern-prueft-rechtliche-grundlagen-882134542472"
+                },
+                {
+                  "name": "swissinfo/Keystone-SDA (Klimaanlagen)",
+                  "url": "https://www.swissinfo.ch/ger/berner-regierung-lehnt-steuerabzug-f%C3%BCr-klimaanlagen-ab/92355277"
+                },
+                {
+                  "name": "Kanton Bern, Vorstossantwort",
+                  "url": "https://www.rrgr-service.apps.be.ch/api/gr/documents/document/9fb3580e25b74d54bc385014d5cc09ad-332/27/2026.GRPARL.494-RRB-D-644938.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-jegenstorf-velofahrerin-ueberrollt",
+              "slug": "jegenstorf-velofahrerin-ueberrollt",
+              "title": "Jegenstorf: Velofahrerin von Auto überrollt – in kritischem Zustand",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🚑",
+              "edition": "morning",
+              "kurz": "Eine Velofahrerin stürzte vor dem Bahnübergang in Jegenstorf und wurde von einem nachfolgenden Auto überrollt.",
+              "summary": "Auf der Bernstrasse in Jegenstorf stürzte am Dienstag kurz nach 9 Uhr eine Velofahrerin, die von Schönbühl her unterwegs war, kurz vor dem Bahnübergang aus ungeklärten Gründen. Ein nachfolgendes Auto überrollte sie und prallte danach in die Bahnschranke. Die Frau wurde in kritischem Zustand ins Spital gebracht, der Autolenker blieb unverletzt.",
+              "gegenstimme": "Warum die Frau stürzte und ob der Abstand oder die Geschwindigkeit des Autos eine Rolle spielten, ist offen. Die Polizei nennt weder Alter noch Herkunft der Beteiligten. Velo-Organisationen weisen bei solchen Unfällen regelmässig auf Bahnübergänge und Schienen als Sturzrisiko hin, das ist hier aber nicht belegt.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=841164f8-d3f9-4f0a-b514-0236c5d0e3fc"
+                },
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/auto-%c3%bcberrollt-velofahrerin-in-jegenstorf/92358487"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/jegenstorf-auto-ueberrollt-velofahrerin-am-bahnuebergang-673328723887"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-hegseth-impeachment-gescheitert",
+              "slug": "hegseth-impeachment-gescheitert",
+              "title": "Amtsenthebung gegen Hegseth vorerst gescheitert",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "kurz": "Das US-Repräsentantenhaus hat den Impeachment-Antrag gegen Verteidigungsminister Hegseth mit 211 zu 204 Stimmen an einen Ausschuss verwiesen.",
+              "summary": "Das US-Repräsentantenhaus hat am Dienstagabend (Ortszeit) mit 211 zu 204 Stimmen beschlossen, den Amtsenthebungsantrag des Republikaners Thomas Massie gegen Verteidigungsminister Pete Hegseth an den Justizausschuss zu überweisen. Damit kommt es vor dem Ende der laufenden Legislatur faktisch zu keiner Abstimmung über die Anklagepunkte. Massie stimmte als einziger Republikaner dagegen, alle anwesenden Demokraten ebenfalls; 18 Abgeordnete, darunter 11 Demokraten, fehlten.",
+              "gegenstimme": "Präsident Trump sprach auf Truth Social von einer «Entlastung» Hegseths – sachlich falsch, denn abgestimmt wurde nur über die Überweisung, nicht über die Vorwürfe. Hegseth nannte das Verfahren eine «Farce» und «Sabotage». Auch republikanische Kritiker Hegseths sagten laut NBC, sein Handeln erreiche nicht die Schwelle von «high crimes and misdemeanors». Massie und die Demokraten sehen dagegen einen Krieg ohne Ermächtigung des Kongresses.",
+              "sources": [
+                {
+                  "name": "US House Clerk, Roll Call 317",
+                  "url": "https://clerk.house.gov/votes/2026317"
+                },
+                {
+                  "name": "NPR",
+                  "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cxly4y5jzl0qo"
+                },
+                {
+                  "name": "NBC News",
+                  "url": "https://www.nbcnews.com/politics/congress/republican-led-house-rejects-hegseth-impeachment-effort-rcna608534"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/newsticker/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-abu-dhabi-gespraeche-erster-tag",
+              "slug": "abu-dhabi-gespraeche-erster-tag",
+              "title": "Ukraine-Gespräche in Abu Dhabi: Kein Ergebnis, Gefangenenaustausch in Aussicht",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/ba9868a2-8216-4787-aaaf-809aa58574d4/AAABockHkR0/AAABnSSvrFg/16x9-big/abu-dhabi-140.jpg?width=1280",
+              "kurz": "Der erste Verhandlungstag zwischen Russland und der Ukraine endete ohne offizielles Resultat; Moskau lehnt eine Waffenruhe ab.",
+              "summary": "Die ersten direkten Gespräche zwischen Russland und der Ukraine seit über acht Monaten sind am Dienstag in Abu Dhabi nach rund vier Stunden ohne offizielles Ergebnis zu Ende gegangen. Ukrainische Medien berichten unter Berufung auf die Delegation von einer Einigung auf einen grossen Gefangenenaustausch; offiziell bestätigt ist das nicht. Russland lehnt eine Waffenruhe ab, die Gespräche gehen am Mittwoch weiter.",
+              "gegenstimme": "Präsident Selenskyj nannte die Gespräche «konstruktiv». Europäische Regierungen kritisieren, dass sie nicht am Tisch sitzen: Der deutsche Aussenminister Wadephul verlangt europäische Beteiligung an der nächsten Runde, weil Sicherheitsgarantien, EU-Beitritt und Sanktionen Europa direkt betreffen. Kritiker sehen in Jared Kushners Ruf nach einer «neuen Sicherheitsarchitektur» eine Übernahme russischer Formulierungen; Moskau argumentiert, eine Waffenruhe diene nur der Aufrüstung der Ukraine.",
+              "sources": [
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-verhandlungen-in-abu-dhabi-ein-abkommen-ist-nicht-in-sicht/100268662.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-us-soldat-spionage-russland-grossbritannien",
+              "slug": "us-soldat-spionage-russland-grossbritannien",
+              "title": "US-Soldat in England wegen Spionage für Russland festgenommen",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🕵️",
+              "edition": "morning",
+              "kurz": "Ein 41-jähriger ranghoher US-Soldat einer Nato-Einheit sitzt in London in Haft; er soll für Russland spioniert haben.",
+              "summary": "Britische Terrorabwehr-Ermittler haben am Dienstag nahe Gloucester einen 41-jährigen Angehörigen der US-Armee festgenommen. Ihm werden Delikte nach dem National Security Act 2023 vorgeworfen, das betroffene Land ist laut Metropolitan Police Russland. Der Mann war laut BBC und AP in den Imjin Barracks stationiert, dem Sitz des Nato-Korps Allied Rapid Reaction Corps.",
+              "gegenstimme": "Noch ist niemand angeklagt; der Mann gilt als unschuldig, bis ein Gericht anders entscheidet. Welche Informationen er weitergegeben haben soll, ist nicht bekannt. FBI-Direktor Kash Patel nutzte den Fall, um auf 167 Spionage-Festnahmen seiner Behörde in 21 Monaten zu verweisen – eine Bilanz in eigener Sache.",
+              "sources": [
+                {
+                  "name": "Metropolitan Police",
+                  "url": "https://news.met.police.uk/news/member-of-us-army-arrested-as-part-of-counter-terrorism-policing-investigation-514875"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c6d7q77xgw0vo"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/us-soldier-espionage-britain-russia-f1a3d4abf8233d064e246e4de0ad21f4"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-cop31-eu-staatschefs-fehlen",
+              "slug": "cop31-eu-staatschefs-fehlen",
+              "title": "Klimakonferenz COP31: Die grossen EU-Staaten schicken keine Regierungschefs",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "morning",
+              "kurz": "Merz, Macron, Sánchez und Meloni stehen nicht auf der Rednerliste des Gipfels in Antalya; insgesamt kommen deutlich weniger Staatschefs.",
+              "summary": "Auf der provisorischen Rednerliste des Leaders' Summit der UN-Klimakonferenz COP31 im türkischen Antalya fehlen die Regierungschefs von Deutschland, Frankreich, Spanien, Italien, Polen und Rumänien – Ländern mit mehr als zwei Dritteln der EU-Bevölkerung. Insgesamt stehen rund 80 Staats- und Regierungschefs auf der Liste, früher waren es über 100. Für die EU spricht Kommissionspräsidentin Ursula von der Leyen.",
+              "gegenstimme": "EU-Klimakommissar Wopke Hoekstra nennt das Fernbleiben «nicht untypisch», die Erwartungen an das Treffen seien gering. Kritiker der Klimagipfel sehen darin eine realistische Prioritätensetzung angesichts von Krieg, Energiepreisen und Haushaltsdruck. Umweltverbände wie Greenpeace sprechen dagegen von einem «Tiefpunkt der europäischen Klimadiplomatie»; Greta Thunberg kritisierte die Verhandlungen scharf.",
+              "sources": [
+                {
+                  "name": "FAZ/dpa",
+                  "url": "https://www.faz.net/agenturmeldungen/dpa/die-wichtigsten-eu-staatschefs-fehlen-auf-der-klimakonferenz-201671429.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/natur/weltklimakonferenz-friedrich-merz-faehrt-nicht-zur-cop-nach-antalya-viele-staatschefs-fehlen-auch-a-3598ab57-d8db-4bb3-b366-56fc4b3b6220"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-nvidia-huang-chips-china-75-milliarden",
+              "slug": "nvidia-huang-chips-china-75-milliarden",
+              "title": "Bericht: Huangs Affäre half, Nvidia-Chips für 7,5 Milliarden Dollar nach China zu bringen",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "morning",
+              "kurz": "Laut «The Information» baute die mutmassliche Spionin Alice Huang ein Netzwerk auf, das rund 240'000 Hochleistungschips nach China schleuste.",
+              "summary": "Die Affäre von Nvidia-Chef Jensen Huang mit der Geschäftsfrau Alice Huang, die als mutmassliche Spionin Pekings gilt, soll laut dem US-Portal The Information Chiplieferungen im Wert von mindestens 7,5 Milliarden Dollar an chinesische Firmen ermöglicht haben. Über ein Firmennetz in China und Singapur seien rund 240'000 H100-, H200- und A100-Chips nach China gelangt, teils trotz US-Exportbeschränkungen. Die Nvidia-Aktie verlor am Dienstag rund 5,5 Prozent.",
+              "gegenstimme": "Nvidia erklärte laut BBC, es gebe keinen Grund zur Annahme, dass Firmengeheimnisse oder die nationale Sicherheit kompromittiert worden seien; der Konzern hat eine grosse US-Kanzlei mit einer Untersuchung beauftragt. Der Bericht stützt sich auf zwei anonyme Personen aus dem Umfeld von Alice Huang. Dass sie tatsächlich für Chinas Geheimdienst arbeitet, ist nicht bewiesen.",
+              "sources": [
+                {
+                  "name": "Reuters (via Investing.com)",
+                  "url": "https://www.investing.com/news/stock-market-news/nvidia-ceos-affair-with-alleged-spy-aided-75-billion-in-china-chip-shipments-information-reports-5014827"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/newsticker/"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/ck1wvwwl3x0go"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-ibm-beendet-visa-sponsoring-consulting",
+              "slug": "ibm-beendet-visa-sponsoring-consulting",
+              "title": "IBM streicht Visa-Sponsoring für die meisten Stellen in der Beratungssparte",
+              "date": "2026-11-11",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🛂",
+              "edition": "morning",
+              "kurz": "IBM Consulting sponsert für die meisten Rollen keine H-1B-Visa und Green Cards mehr – Betroffene müssen bis Ende 2026 ins Ausland wechseln oder gehen.",
+              "summary": "Der US-Techkonzern IBM beendet in seiner grössten Sparte, IBM Consulting mit über 150'000 der weltweit 264'300 Mitarbeitenden, das Sponsoring von Arbeitsvisa und Green Cards für die meisten Stellen. Betroffene können laut Reuters für IBM ausserhalb der USA arbeiten oder müssen das Unternehmen bis Ende 2026 verlassen. IBM begründet den Schritt mit veränderten Kundenbedürfnissen und rückläufiger Nutzung der Visaprogramme.",
+              "gegenstimme": "Befürworter der Trump-Linie sehen darin eine Bestätigung, dass H-1B-Visa amerikanische Fachkräfte verdrängt hätten. Kritiker aus der Techbranche warnen, die USA verlören Talente an andere Länder, und Betroffene müssten nach Jahren im Land kurzfristig umplanen. IBM selbst stellt den Schritt nicht als Reaktion auf politischen Druck dar.",
+              "sources": [
+                {
+                  "name": "Reuters (via Investing.com)",
+                  "url": "https://www.investing.com/news/stock-market-news/ibm-to-end-visa-green-card-sponsorship-for-most-roles-in-its-consulting-arm-5016379"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships"
+                },
+                {
+                  "name": "Semafor",
+                  "url": "https://www.semafor.com/article/11/10/2026/ibm-to-curb-sponsorship-of-visas-green-cards"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-10",
       "editions": {
