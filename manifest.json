@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T12:18:38+01:00",
+  "updated": "2026-11-11T17:23:33+01:00",
   "days": [
     {
       "date": "2026-11-11",
@@ -720,6 +720,354 @@
                 {
                   "name": "aktien.news",
                   "url": "https://www.aktien.news/vvardis-plant-borsengang-an-der-nyse-zu-bis-zu-24-dollar"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-11-11-buffat-anklage-haeusliche-gewalt",
+              "slug": "buffat-anklage-haeusliche-gewalt",
+              "title": "SVP-Nationalrat Michaël Buffat wegen häuslicher Gewalt angeklagt",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/373f723.jpg",
+              "kurz": "Die Waadtländer Staatsanwaltschaft klagt Michaël Buffat wegen Gewalt gegen seine Ehefrau an; auch sie steht vor Gericht. Prozess am 23. November.",
+              "summary": "Der Waadtländer SVP-Nationalrat Michaël Buffat muss sich am 23. November vor dem Bezirksgericht in Yverdon-les-Bains verantworten. Generalstaatsanwalt Eric Kaltenrieder wirft ihm vor, seine Ehefrau zwischen 2015 und 2024 gedemütigt, bedroht, kontrolliert und körperlich wie psychisch misshandelt zu haben; angeklagt ist er unter anderem wegen einfacher Körperverletzung, Nötigung, Drohung und Freiheitsberaubung. Auch die Ehefrau ist angeklagt, unter anderem wegen Körperverletzung und Nötigung.",
+              "gegenstimme": "Buffat hatte die Vorwürfe schon 2023 zurückgewiesen und will sich erst vor Gericht äussern; für beide gilt die Unschuldsvermutung. Dass auch die Ehefrau angeklagt ist, zeigt, dass die Staatsanwaltschaft den Konflikt nicht einseitig sieht: Laut NZZ soll sie Buffat 2023 mit der Veröffentlichung der Vorwürfe gedroht und so zu einer Scheidungsvereinbarung und 100'000 Franken gedrängt haben. Kritiker werden fragen, ob Buffat bis zum Urteil sein Nationalratsmandat ruhen lassen müsste.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/anklage-gegen-politiker-svp-nationalrat-buffat-muss-wegen-haeuslicher-gewalt-vor-gericht"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/svp-nationalrat-michael-buffat-wegen-vorwurfs-haeuslicher-gewalt-angeklagt-ld.10060961"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/regions/vaud/2026/article/michael-buffat-l-elu-udc-accuse-de-violences-conjugales-29412651.html"
+                },
+                {
+                  "name": "Le Temps",
+                  "url": "https://www.letemps.ch/suisse/vaud/emprise-humiliation-contrainte-coups-et-fracture-l-udc-vaudois-michael-buffat-va-etre-juge-pour-des-violences-conjugales-presumees"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-neuenhof-einbuergerung-regierungsrat-ruegt",
+              "slug": "neuenhof-einbuergerung-regierungsrat-ruegt",
+              "title": "Neuenhof AG: Regierungsrat rügt Gemeinde wegen verweigerter Einbürgerung",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/11/b527f41f-7788-4465-b707-da8121e31707.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C1920%2C1536&s=8fa61cf2afa8b1d27e7a39df30ce1d17",
+              "kurz": "Die Aargauer Regierung heisst die Beschwerde einer Türkin gut, deren Einbürgerung Neuenhof abgelehnt hatte – unter anderem, weil «Skifahren» nicht als Schweizer Sport galt.",
+              "summary": "Der Aargauer Regierungsrat hat die Beschwerde einer seit 13 Jahren in Neuenhof lebenden Türkin und ihres Sohnes gutgeheissen und den Fall zur Neubeurteilung an den Gemeinderat zurückgewiesen. Die Gemeinde hatte das Gesuch nach einem Gespräch im Dezember 2025 wegen mangelnder Deutschkenntnisse und ungenügender Vertrautheit mit den hiesigen Verhältnissen abgelehnt. Die Regierung rügt unzulässige Fragen und eine ungenügende Begründung.",
+              "gegenstimme": "Die Frau hatte tatsächlich Wissenslücken: Sie konnte das Drei-Säulen-Prinzip nicht erklären und nannte auf die Frage nach Aargauer Schlössern Flüsse. Befürworter strenger Einbürgerungen halten es für richtig, dass Gemeinden die Integration im Gespräch selbst prüfen und sich nicht nur auf Tests und Zertifikate verlassen. Gemeindeammann Tobias Baumgartner verweist auf einen einheitlichen Leitfaden und weist den Vorwurf einer besonders harten Praxis zurück.",
+              "sources": [
+                {
+                  "name": "Aargauer Zeitung",
+                  "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/einbuergerung-in-neuenhof-skifahren-kein-schweizer-sport-ld.4263890"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/neuenhof-einbuergerung-skifahren-keine-schweizer-sportart-988505814205"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/neuenhof-ag-antwort-skifahren-fuer-gemeinde-falsch-einbuergerung-verwehrt-103665430"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-swiss-dubai-fluege-bis-maerz-ausgesetzt",
+              "slug": "swiss-dubai-fluege-bis-maerz-ausgesetzt",
+              "title": "Swiss fliegt den ganzen Winter nicht nach Dubai",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/3e8f3d0709d9c912c3b3dd406aab82bee9049ca6-92363716.jpg?ver=a3531cfb&fit=1200,900",
+              "kurz": "Statt am 25. November wieder zu starten, bleiben die Swiss-Flüge Zürich–Dubai bis Ende März 2027 gestrichen. Auch Austrian und ITA verzichten.",
+              "summary": "Die Swiss setzt ihre Flüge zwischen Zürich und Dubai bis zum Ende des Winterflugplans am 27. März 2027 aus; ursprünglich war die Wiederaufnahme am 25. November geplant. Der Entscheid sei aus betrieblichen Überlegungen gemeinsam mit der Lufthansa Group gefallen, betroffene Passagiere werden umgebucht. Auch Austrian Airlines, ITA Airways und Lufthansa ab Frankfurt fliegen bis dahin nicht nach Dubai.",
+              "gegenstimme": "Nicht alle Konzernairlines meiden Dubai: Lufthansa nimmt ab München ab 25. November wieder fünf wöchentliche Flüge auf, Eurowings fliegt ab Berlin täglich. Das spricht eher für wirtschaftliche Abwägungen als für eine generelle Sicherheitseinschätzung; die Swiss nennt ausdrücklich «betriebliche» Gründe, keine Sicherheitsbedenken.",
+              "sources": [
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/swiss-setzt-fl%C3%BCge-nach-dubai-weiterhin-aus/92363729"
+                },
+                {
+                  "name": "aeroTELEGRAPH",
+                  "url": "https://www.aerotelegraph.com/ticker/lufthansa-group-swiss-austrian-airlines-und-ita-airways-fliegen-bis-zum-ende-des/y7z8msc"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-swiss-fliegt-den-ganzen-winter-nicht-nach-dubai"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-zermatt-tourismus-datenleck-gutscheine",
+              "slug": "zermatt-tourismus-datenleck-gutscheine",
+              "title": "Zermatt Tourismus warnt nach Hackerangriff auf Gutscheinanbieter",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "evening",
+              "kurz": "Hacker drangen beim österreichischen Gutscheinshop-Betreiber Incert ein. Kundendaten von Zermatt Tourismus könnten abgeflossen sein, Zahlungsdaten nicht.",
+              "summary": "Zermatt Tourismus hat einen Cyberangriff auf seinen Gutscheinshop-Dienstleister Incert aus Linz bestätigt. Angreifer verschafften sich am 5. November Zugang zu einem Webserver; betroffen sein könnten Namen, Geburtsdaten, Adressen, E-Mail und Telefonnummern von Käufern, Angaben zu Beschenkten sowie Gutscheincodes. Zahlungsdaten und die Systeme von Zermatt Tourismus sind laut Unternehmen nicht betroffen, die Gutscheine bleiben gültig.",
+              "gegenstimme": "Incert betont, es gebe bisher keine Hinweise auf Missbrauch der Daten oder missbräuchliche Gutscheineinlösungen, und die Lücke sei sofort geschlossen worden. Kritisch bleibt, dass Tourismusorganisationen sensible Kundendaten an kleine Drittanbieter auslagern und Betroffene erst Tage nach dem Angriff informiert werden.",
+              "sources": [
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/wirtschaft/zermatt-tourismus-meldet-cyberangriff-kundendaten-geklaut/2pmj1w2"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175"
+                },
+                {
+                  "name": "Incert (Stellungnahme)",
+                  "url": "https://www.incert.at/informationen-cyberangriff/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-biel-darlehen-foyer-schoeni",
+              "slug": "biel-darlehen-foyer-schoeni",
+              "title": "Biel rettet das Foyer Schöni mit einem Darlehen von 300'000 Franken",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🏠",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/b633548b123e97e4d4b00d4c3a82c6b02634c8ac-92365171.jpg?ver=98bdc1b5&fit=1200,900",
+              "kurz": "Der Bieler Gemeinderat stützt die Stiftung für vulnerable Erwachsene mit einem verzinsten Darlehen, um ihre Schliessung abzuwenden.",
+              "summary": "Die Stadt Biel gewährt der Stiftung Foyer Schöni ein verzinstes Darlehen von 300'000 Franken, um eine Schliessung der Institution für vulnerable Erwachsene abzuwenden. Die Stiftung muss den Betrag innert fünf Jahren mit Zins zurückzahlen, ihren Betrieb stabilisieren und der Stadt regelmässig Bericht erstatten. Das Foyer bietet seit 46 Jahren Wohnraum und Beschäftigung mit sozialpädagogischer Betreuung.",
+              "gegenstimme": "Kritiker könnten fragen, warum die Stadt Steuergeld als Darlehen an eine Stiftung vergibt, deren Probleme laut Stadt aus internen Umstellungen stammen, und ob das Geld tatsächlich zurückfliesst. Die Stadt hält dagegen, solche Plätze seien allgemein knapp und ihre Fachstellen auf das Foyer angewiesen.",
+              "sources": [
+                {
+                  "name": "swissinfo/Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/stadt-biel-gew%C3%A4hrt-foyer-sch%C3%B6ni-darlehen/92365184"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/biel-rettet-foyer-schoeni-mit-darlehen-von-300000-franken-926646402586"
+                },
+                {
+                  "name": "Stadt Biel (Gemeinderatsbeschlüsse)",
+                  "url": "https://www.biel-bienne.ch/de/news.html/29/news/6732"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-abu-dhabi-gespraeche-ende-witkoff-kushner-moskau",
+              "slug": "abu-dhabi-gespraeche-ende-witkoff-kushner-moskau",
+              "title": "Ukraine-Gespräche in Abu Dhabi enden ohne Durchbruch – US-Gesandte reisen zu Putin",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93dc/live/ae624920-ddd7-11f1-93e1-3b657b665bcf.jpg",
+              "kurz": "Nach zwei Tagen vereinbaren Russland und die Ukraine einen grossen Gefangenenaustausch. Kushner und Witkoff fliegen am Donnerstag nach Moskau, dann nach Dublin.",
+              "summary": "Die von den USA vermittelten Gespräche zwischen Russland und der Ukraine in Abu Dhabi sind nach zwei Tagen ohne Durchbruch zu Ende gegangen. Beide Seiten bestätigten einen grossen Gefangenenaustausch, laut Tass mit mehr als 1000 Gefangenen pro Seite in zwei bis drei Wochen. Die US-Gesandten Jared Kushner und Steve Witkoff reisen am Donnerstag zu Präsident Putin nach Moskau und treffen danach Präsident Selenski in Dublin.",
+              "gegenstimme": "Die Ukraine fürchtet, dass die USA Russland territorial entgegenkommen: Laut «Kyiv Post» schlugen die US-Unterhändler vor, die Grenze des Donbas an die Frontlinie anzupassen, was Kiew ablehnt. Ein Analyst sagte Al Jazeera, Gefangenenaustausche funktionierten auch ohne grosse Diplomatie – der Austausch allein sei kein Beleg für Fortschritt.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/verhandlungen-zu-ukrainekrieg-die-gespraeche-in-abu-dhabi-sind-beendet-so-geht-es-weiter"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/ukraine-verhandlungen-gespraeche-in-abu-dhabi-kein-durchbruch-aber-neue-us-positionen-103665637"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/bern-ist-bei-den-ukraine-gespraechen-in-abu-dhabi-praesent-schweizer-spitzendiplomat-war-wiederholt-in-russland-ld.10060520"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-italien-bombendrohungen-6300-schulen",
+              "slug": "italien-bombendrohungen-6300-schulen",
+              "title": "Italien: Rund 6300 Schulen erhalten dieselbe Bombendrohung",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "international",
+              "icon": "📧",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
+              "kurz": "Eine einzige E-Mail ging an die meisten staatlichen Schulen Italiens, Hunderte wurden evakuiert. Auch in Schottland und Nordirland gingen Drohungen ein.",
+              "summary": "In Italien haben am Mittwoch rund 6300 der 7476 staatlichen Schulen dieselbe Bombendrohung per E-Mail erhalten, mehrere hundert Gebäude wurden vorsorglich evakuiert. Ministerpräsidentin Giorgia Meloni sagte, es gebe keine Hinweise auf eine konkrete Gefahr, und berief eine Krisensitzung ein. Auch in Schottland und Nordirland erhielten Hunderte Schulen Drohmails, die die Polizei als nicht glaubwürdig einstufte.",
+              "gegenstimme": "Bildungsminister Giuseppe Valditara spricht von einer gezielten Strategie und hybrider Kriegsführung, nennt aber keine Urheber. Dass ein Staat dahintersteckt, ist bisher eine Vermutung; die Mails könnten ebenso von Trittbrettfahrern oder einer kleinen Gruppe stammen. Eine Schulleiterin in Mailand sagte, die Absenderadresse sei schon zuvor als Spam gemeldet gewesen.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts"
+                },
+                {
+                  "name": "NZZ (dpa)",
+                  "url": "https://www.nzz.ch/panorama/300-schulen-in-italien-evakuiert-wegen-identischer-bombendrohungen-ld.10060751"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-hamburg-lokstedt-verdaechtiger-ausreisepflichtig",
+              "slug": "hamburg-lokstedt-verdaechtiger-ausreisepflichtig",
+              "title": "Getötete 70-Jährige in Hamburg: Verdächtiger war ausreisepflichtig und untergetaucht",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🚨",
+              "edition": "evening",
+              "image": "https://images.welt.de/6af468b0e22aeb948141fe80/4e9f1678e3a09d79d14bf6d0a4679f8c-master/ci16x9-w1200/dpa-com-261104-936-136985-jpg",
+              "kurz": "Der 27-jährige Tatverdächtige hatte einen abgelehnten Asylantrag, war vorbestraft und seit August zur Fahndung ausgeschrieben. Die Abschiebung scheiterte an fehlenden Papieren.",
+              "summary": "Im Fall einer in Hamburg-Lokstedt getöteten 70-jährigen Frau war der 27-jährige Tatverdächtige seit März 2025 ausreisepflichtig, wie die Regierung von Oberbayern mitteilte. Er war im Herbst 2022 illegal aus Italien eingereist, wurde deswegen und 2025 wegen Diebstahls verurteilt und tauchte im August nach einem Klinikaufenthalt aus seiner Unterkunft im Landkreis Altötting unter. Eine Abschiebung scheiterte, weil seine Staatsangehörigkeit ohne Papiere nicht zu klären war.",
+              "gegenstimme": "Laut Polizei gibt es Hinweise auf eine psychische Erkrankung; ob sie bei der Tat eine Rolle spielte, ist offen, und für den Mann gilt die Unschuldsvermutung. Behörden verweisen darauf, dass Herkunftsstaaten Personen ohne Papiere nicht zurücknehmen – das Problem liegt also nicht nur bei deutschen Stellen. Kritiker sehen dagegen ein Vollzugsversagen: Ein vorbestrafter, ausreisepflichtiger Mann konnte monatelang unbehelligt untertauchen.",
+              "sources": [
+                {
+                  "name": "NDR",
+                  "url": "https://www.ndr.de/nachrichten/hamburg/getoetete-70-jaehrige-in-lokstedt-tatverdaechtiger-war-ausreisepflichtig,lokstedt-104.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/regionales/hamburg/article6af468b0e22aeb948141fe80/asylantrag-abgelehnt-70-jaehrige-getoetet-verdaechtiger-war-ausreisepflichtig-aber-untergetaucht.html"
+                },
+                {
+                  "name": "Radio Hamburg",
+                  "url": "https://www.radiohamburg.de/aktuelles/hamburg/Frau-in-Hamburg-get%C3%B6tet-Verd%C3%A4chtiger-war-ausreisepflichtig-id1755670.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-kollektiv-zwickau-razzien-linksextremisten",
+              "slug": "kollektiv-zwickau-razzien-linksextremisten",
+              "title": "«Kollektiv Zwickau»: Razzien gegen 20 mutmassliche Linksextremisten",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🔍",
+              "edition": "evening",
+              "image": "https://images.welt.de/6af47251db4e2fa8f6eb7861/3d43053dd8569ec4e394efbdb8e717ce/ci16x9-w1200/dpa-com-261111-935-1736392-jpg",
+              "kurz": "Ermittler durchsuchten Wohnungen in Sachsen, Sachsen-Anhalt und Thüringen. Die Gruppe soll politische Gegner mit Gewalt und Sachbeschädigungen angegangen sein.",
+              "summary": "Im Komplex «Kollektiv Zwickau» haben Ermittler Wohnungen in Zwickau, Glauchau, Mittweida, Schwarzenberg, Leipzig, Meuselwitz und Halle durchsucht. Das Verfahren wegen Bildung einer kriminellen Vereinigung richtet sich laut Landeskriminalamt Sachsen gegen 20 Beschuldigte zwischen 18 und 36 Jahren. Sie sollen sich 2022 zu einer kommunistischen Gruppe zusammengeschlossen und verabredet haben, gegen «rechtsradikale Strukturen» mit Körperverletzungen und Sachbeschädigungen vorzugehen.",
+              "gegenstimme": "Linke Gruppen kritisieren solche Verfahren oft als Kriminalisierung antifaschistischen Engagements; der Paragraf zur kriminellen Vereinigung gilt Kritikern als Ermittlungsinstrument mit tiefer Schwelle. Für alle Beschuldigten gilt die Unschuldsvermutung, eine Anklage gibt es noch nicht.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/panorama/justiz/kollektiv-zwickau-razzien-gegen-mutmassliche-linksextremisten-in-mehreren-ostdeutschen-staedten-a-19ae7971-1dd9-4b45-93e2-cdbe200deb45"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6af47251db4e2fa8f6eb7861/linksextremismus-kollektiv-zwickau-ermittler-gehen-gegen-20-beschuldigte-vor.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-usa-inflation-oktober-fed-zinsschritt",
+              "slug": "usa-inflation-oktober-fed-zinsschritt",
+              "title": "US-Inflation steigt stärker als erwartet – Fed erwägt grossen Zinsschritt",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/11/fe7f81fa-8573-473c-817d-9e175f7c4745.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C5517%2C3769&s=dfd39be0989200bf7085063e80ee08f4",
+              "kurz": "Die US-Konsumentenpreise stiegen im Oktober um 0,4 Prozent. Fed-Gouverneur Waller bringt eine Zinserhöhung um 0,5 Prozentpunkte im Dezember ins Spiel.",
+              "summary": "Die Konsumentenpreise in den USA sind im Oktober um 0,4 Prozent gegenüber dem Vormonat gestiegen, Ökonomen hatten 0,3 Prozent erwartet; die Kernrate lag bei 0,3 statt 0,2 Prozent. Fed-Gouverneur Christopher Waller sagte, eine Erhöhung um nur 25 Basispunkte würde die Glaubwürdigkeit der Notenbank gefährden, und brachte 50 Basispunkte im Dezember ins Spiel. Eine Zinserhöhung im Dezember ist an den Märkten fest eingepreist.",
+              "gegenstimme": "Präsident Trump fordert seit Langem Zinssenkungen; eine Straffung trifft Hauskäufer und Unternehmen mit Krediten. Ein Teil des Preisdrucks kommt von Energie und Benzin wegen des Iran-Kriegs, also von einem Angebotsschock, den Zinsen kaum beheben. Kritiker werfen der Fed zudem vor, im Oktober mit Blick auf die Zwischenwahlen gezögert zu haben, was die NZZ als wahrscheinlich bezeichnet.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/in-den-usa-droht-ein-grosser-zinssprung-die-verantwortlichen-der-notenbank-sind-nervoes-wegen-der-hartnaeckigen-inflation-ld.10060483"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/folgt-xl-zinsschritt-heisse-inflation-in-den-usa-us-notenbank-kommt-unter-druck-103665635"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-eu-digital-fairness-act-lootboxen-abofallen",
+              "slug": "eu-digital-fairness-act-lootboxen-abofallen",
+              "title": "EU will Abofallen, Dark Patterns und Lootboxen für Minderjährige verbieten",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/3/8/3/shutterstock_1831491850-ecd5b6eab04b2de8.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Die EU-Kommission legt den Digital Fairness Act vor: kündbare Abos, transparente Preise, abschaltbares Suchtdesign und kein Lootbox-Verkauf an unter 18-Jährige.",
+              "summary": "Die EU-Kommission hat am Mittwoch den Entwurf für einen Digital Fairness Act vorgelegt. Er verbietet manipulative Designs («Dark Patterns») wie falsche Knappheitsangaben, verlangt transparente Preise und einfach kündbare Abos und soll es ermöglichen, süchtig machende Funktionen abzuschalten. Lootboxen und «Pay to Win» wären für Minderjährige verboten; bei grossen grenzüberschreitenden Fällen drohen Bussen bis 6 Prozent des weltweiten Umsatzes.",
+              "gegenstimme": "Der deutsche Branchenverband game warnt, die 18-Jahre-Grenze würde die bewährten Alterskennzeichen von USK und PEGI aushebeln und behandle 6- und 17-Jährige gleich. Wirtschaftsvertreter kritisieren generell die wachsende Zahl von EU-Digitalgesetzen; bei Spielen wie «EA Sports FC», die auf Lootboxen aufbauen, ist zudem unklar, wie ein Abschalten praktisch funktionieren soll.",
+              "sources": [
+                {
+                  "name": "EU-Kommission",
+                  "url": "https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en"
+                },
+                {
+                  "name": "heise",
+                  "url": "https://www.heise.de/news/Digital-Fairness-Act-EU-Offensive-gegen-Abo-Fallen-Lootboxen-und-Dark-Patterns-11520754.html"
+                },
+                {
+                  "name": "heise (Lootboxen)",
+                  "url": "https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/11/eu-targets-subscription-traps-addictive-design-and-hidden-fees-with-new-digital-rules"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-11-helsing-clarity-palantir-alternative",
+              "slug": "helsing-clarity-palantir-alternative",
+              "title": "Helsing stellt KI-Plattform Clarity als europäische Alternative zu Palantir vor",
+              "date": "2026-11-11",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🛰️",
+              "edition": "evening",
+              "image": "https://the-decoder.de/wp-content/uploads/2026/11/Helsing-Clarity.webp",
+              "kurz": "Das deutsche Rüstungs-Start-up will mit KI-Agenten Aufklärungsdaten auswerten und Ziele für Waffensysteme vorbereiten – unter europäischer Kontrolle.",
+              "summary": "Das Rüstungs-Start-up Helsing hat in Berlin die KI-Plattform Clarity vorgestellt. Hunderte KI-Agenten sollen Satellitenbilder, Drohnenvideos, Signale und Berichte auswerten, gegnerische Ziele markieren und die Daten für das passende Waffensystem aufbereiten. Die Software läuft laut Helsing auf Infrastruktur der Streitkräfte, und jeder Angriff müsse von einem Menschen freigegeben werden.",
+              "gegenstimme": "Fachleute warnen, dass menschliche Kontrolle bei solchen Systemen in der Praxis oft auf Sekunden schrumpft und KI-Fehler zu falschen Zielen führen können, wie the-decoder mit Blick auf den Iran-Krieg und Gaza schreibt. Zudem ist offen, ob Clarity schon bei einem Kunden läuft; Helsing sagte dazu nichts, und Palantirs Maven ist bei Pentagon und Nato seit Jahren im Einsatz.",
+              "sources": [
+                {
+                  "name": "Helsing (Mitteilung)",
+                  "url": "https://helsing.ai/newsroom/helsing-unveils-clarity-a-sovereign-software-platform-for-military-intelligence"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/start-ups/ruestung-helsing-will-zum-palantir-fuer-europas-streitkraefte-werden/100268520.html"
+                },
+                {
+                  "name": "the-decoder",
+                  "url": "https://the-decoder.de/helsings-neue-ki-plattform-clarity-soll-europas-antwort-auf-palantirs-maven-werden/"
                 }
               ]
             }
