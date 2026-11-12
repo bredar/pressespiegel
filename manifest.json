@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T12:22:19+01:00",
+  "updated": "2026-11-12T17:17:25+01:00",
   "days": [
     {
       "date": "2026-11-12",
@@ -662,6 +662,296 @@
                 {
                   "name": "heise online (Newsticker)",
                   "url": "https://www.heise.de/newsticker/"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-11-12-fk-n-budget-2027-ablehnung",
+              "slug": "fk-n-budget-2027-ablehnung",
+              "title": "Bundesbudget 2027: Nationalratskommission empfiehlt Ablehnung",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "evening",
+              "kurz": "SVP, SP und Grüne lehnen in der Finanzkommission das Budget 2027 gemeinsam ab – aus entgegengesetzten Gründen.",
+              "summary": "Die Finanzkommission des Nationalrats (FK-N) beantragt dem Rat mit 15 zu 9 Stimmen bei einer Enthaltung, das Bundesbudget 2027 abzulehnen. Dagegen stimmten SVP, SP und Grüne; Mitte, FDP und GLP waren dafür, Kommissionspräsident Jacques Nicolet (SVP) enthielt sich. Laut 20 Minuten hat die Kommission dem Rat noch nie das ganze Budget zur Ablehnung empfohlen.",
+              "gegenstimme": "Die Mitte nennt das Nein «kompromisslos und unschweizerisch» und spricht von Wahlkampf: Die Polparteien hätten auf Maximalpositionen beharrt, obwohl sie Teilerfolge erzielt hätten (Reto Nause). Auch Kommissionsvize Simon Stadler (Mitte) verweist auf die Schuldenbremse, die bei vielen Wünschen keinen Spielraum lasse. Präsident Nicolet selbst hofft, dass die Räte das Budget am Ende nicht zurückweisen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/unheilige-allianz-knall-in-finanzkommission-budget-2027-zur-ablehnung-empfohlen"
+                },
+                {
+                  "name": "Keystone-SDA (Swissinfo)",
+                  "url": "https://www.swissinfo.ch/ger/nationalratskommission-sagt-nein-zum-bundesbudget-f%c3%bcr-2027/92372533"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/unheilige-allianz-premiere-darum-wollen-svp-gruene-und-sp-das-bundesbudget-killen-103666080"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/budget-2027-nationalrats-finanzkommission-lehnt-voranschlag-ab-548792685051"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-grenzgaenger-alv-eu-mehrkosten",
+              "slug": "grenzgaenger-alv-eu-mehrkosten",
+              "title": "Arbeitslose Grenzgänger: EU-Regel könnte die Schweiz Hunderte Millionen kosten",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "💶",
+              "edition": "evening",
+              "kurz": "Die EU-Kommission hat Bern über neue Zuständigkeiten bei arbeitslosen Grenzgängern informiert. Das Seco rechnet mit 500 bis 800 Millionen Franken Mehrkosten pro Jahr.",
+              "summary": "Die EU-Kommission hat die Schweiz am Donnerstag über die revidierten EU-Regeln zur Koordinierung der sozialen Sicherheit informiert. Künftig soll bei arbeitslosen Grenzgängern der Staat der letzten Beschäftigung statt des Wohnstaats das Arbeitslosengeld zahlen. Das Seco schätzt die Mehrkosten für die Schweizer Arbeitslosenversicherung auf 500 bis 800 Millionen Franken pro Jahr; im ersten Quartal 2026 zählte die Schweiz 413'320 Grenzgänger.",
+              "gegenstimme": "Aus EU-Sicht geht es um Fairness: Grenzgänger zahlen ihre Beiträge in die Schweizer ALV (laut Seco-Zahlen rund 600 Millionen Franken jährlich), die Schweiz erstattet den Wohnstaaten heute aber nur einen Teil zurück und erzielt so einen Überschuss. Wer Beiträge kassiert, soll demnach auch die Leistungen tragen. Auf der anderen Seite spricht die Weltwoche von einer «EU-Frechheit»; auch die SVP fordert ein klares Nein.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA (Swissinfo)",
+                  "url": "https://www.swissinfo.ch/ger/eu-regel%c3%a4nderung-bedeutet-f%c3%bcr-bern-hohe-mehrkosten/92372376"
+                },
+                {
+                  "name": "EU-Kommission",
+                  "url": "https://employment-social-affairs.ec.europa.eu/news/updated-eu-rules-social-security-coordination-enter-force-2026-11-01_en"
+                },
+                {
+                  "name": "NZZ (Mai 2026, Hintergrund)",
+                  "url": "https://www.nzz.ch/schweiz/neue-eu-regeln-fuer-grenzgaenger-der-bund-rechnet-mit-mehrkosten-von-600-bis-900-millionen-franken-ld.10005778"
+                },
+                {
+                  "name": "Weltwoche (Meinung/Einordnung)",
+                  "url": "https://weltwoche.ch/daily/eu-reform-bei-grenzgaengern-schweizer-arbeitslosen-kasse-drohen-bis-zu-900-millionen-mehrkosten/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-fedpol-kokain-netzwerk-41-festnahmen",
+              "slug": "fedpol-kokain-netzwerk-41-festnahmen",
+              "title": "Kokain-Netzwerk: 41 Festnahmen bei Grossrazzia in zwölf Kantonen",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🚔",
+              "edition": "evening",
+              "kurz": "Fedpol und Bundesanwaltschaft gehen gegen ein mutmassliches Kokain- und Geldwäschenetzwerk vor, das Schweizer Briefkastenfirmen genutzt haben soll.",
+              "summary": "Bundesanwaltschaft und fedpol haben am 10. und 11. November in zwölf Kantonen und sieben weiteren Ländern 84 Liegenschaften durchsucht, 55 davon in der Schweiz. In der Schweiz wurden 41 Personen vorläufig angehalten, für fünf wird Untersuchungshaft beantragt; drei weitere sitzen im Ausland in Auslieferungshaft. Sichergestellt wurden über 2,3 Millionen Franken, Kryptowährungen im Wert von 50'000 Franken und 15 Waffen.",
+              "gegenstimme": "Für alle Beschuldigten gilt die Unschuldsvermutung; ob die Behörden die Organisation und die Geldflüsse vor Gericht nachweisen können, ist offen. Kritiker der Schweizer Geldwäschereiabwehr sehen den Fall eher als Beleg für ein Systemproblem: Dass Händlerfirmen jahrelang im Handelsregister stehen konnten, zeige Lücken bei der Kontrolle von Gesellschaften und Treuhändern.",
+              "sources": [
+                {
+                  "name": "fedpol / Bundesanwaltschaft",
+                  "url": "https://www.fedpol.admin.ch/de/newnsb/kqFmoxC7Mw7M"
+                },
+                {
+                  "name": "Keystone-SDA (Swissinfo)",
+                  "url": "https://www.swissinfo.ch/eng/foreign-affairs/federal-police-arrest-41-suspects-in-international-operation/92370963"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-listeriose-14-faelle-ein-todesfall",
+              "slug": "listeriose-14-faelle-ein-todesfall",
+              "title": "Listerien in Weichkäse: 14 Krankheitsfälle, eine Person gestorben",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🧀",
+              "edition": "evening",
+              "kurz": "Das BAG sieht einen möglichen Zusammenhang zwischen zurückgerufenen Weichkäsen und einer Häufung von Listeriosefällen.",
+              "summary": "Zwischen Ende August und Ende Oktober sind in der Schweiz 14 Listeriosefälle gemeldet worden; die meisten Betroffenen mussten ins Spital, eine Person ist gestorben. Das BAG sieht einen möglichen Zusammenhang mit den Rückrufen von Weichkäsen der Eberle Spezialitäten AG (Gossau SG) und der Strähl Käse AG (Thurgau), ein Beweis fehlt aber noch. Die Käse wurden bei Coop, Migros, Volg und weiteren Verkaufsstellen verkauft.",
+              "gegenstimme": "Das BAG warnt ausdrücklich davor, vorschnell auf eine Ursache oder Verantwortlichkeit für einzelne Erkrankungen zu schliessen. Strähl zeigt sich bestürzt, hat aber selbst eine Genomsequenzierung an der Universität Zürich in Auftrag gegeben, um Klarheit zu schaffen. Gegen die Käserei wurde bisher kein Vorwurf erhoben, die Kontrollpflicht verletzt zu haben.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/thurgau-bag-meldet-14-listeriosefaelle-eine-person-verstorben-103666240"
+                },
+                {
+                  "name": "BLV (Öffentliche Warnung)",
+                  "url": "https://www.blv.admin.ch/de/newnsb/oBmdo4JjUtwF"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-bern-just-eat-kuriere-protest",
+              "slug": "bern-just-eat-kuriere-protest",
+              "title": "Bern: Just-Eat-Kuriere protestieren vor dem Rathaus",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🚲",
+              "edition": "evening",
+              "kurz": "Mehrere Dutzend Kuriere und Unterstützer zogen durch die Berner Altstadt gegen das neue Selbstständigen-Modell von Just Eat.",
+              "summary": "In Bern haben am Donnerstagnachmittag mehrere Dutzend Kurierinnen, Kuriere und Sympathisanten gegen die Umstellung von Just Eat auf selbstständige Kuriere protestiert. Der Zug führte vom Münsterplatz durch die Altstadt vor das Rathaus, wo der Stadtrat tagte. Just Eat streicht schweizweit 373 Stellen, darunter 193 Kuriere; in Bern, Zürich, Basel und Winterthur sollen künftig Selbstständige ausliefern.",
+              "gegenstimme": "Just Eat begründet den Umbau mit veränderten Kundenbedürfnissen: Bestellungen verteilten sich zunehmend über den ganzen Tag bis in die Nacht, was mit festen Schichtplänen zwei Wochen im Voraus nicht abzudecken sei. Selbstständige Arbeit auf Plattformen ist in der Schweiz nicht per se verboten; ob das Modell als Scheinselbstständigkeit gilt, entscheiden letztlich Sozialversicherungen und Gerichte im Einzelfall.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA Regional (BärnerBär)",
+                  "url": "https://baernerbaer.ch/news/wirtschaft/just-eat-kuriere-protestieren-in-bern-67201661"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/massenkuendigung-bei-just-eat-kuriere-fuehlen-sich-von-den-behoerden-im-stich-gelassen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-bkw-uebernimmt-gerber-architekten",
+              "slug": "bkw-uebernimmt-gerber-architekten",
+              "title": "BKW kauft eines der grössten Architekturbüros Deutschlands",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "🏗️",
+              "edition": "evening",
+              "kurz": "Der Berner Energie- und Infrastrukturkonzern BKW übernimmt Gerber Architekten mit rund 280 Mitarbeitenden.",
+              "summary": "Die Berner BKW übernimmt das deutsche Büro Gerber Architekten und integriert es in ihr Netzwerk BKW Engineering. Das 1966 gegründete Unternehmen beschäftigt rund 280 Mitarbeitende an Standorten in Dortmund, Hamburg, Berlin, Münster und Düsseldorf. Der Kaufpreis wurde nicht bekannt gegeben.",
+              "gegenstimme": "Kritiker der BKW-Strategie fragen seit Jahren, warum ein mehrheitlich dem Kanton Bern gehörender Energieversorger im Ausland Planungsbüros zukauft, statt sich auf Versorgungssicherheit und Netze im Inland zu konzentrieren. Die BKW argumentiert, das Dienstleistungsgeschäft stabilisiere die Erträge und mache den Konzern unabhängiger von schwankenden Strompreisen.",
+              "sources": [
+                {
+                  "name": "AWP (cash)",
+                  "url": "https://www.cash.ch/news/bkw-ubernimmt-eines-der-grossten-architekturburos-deutschlands-984779"
+                },
+                {
+                  "name": "Keystone-SDA (Swissinfo)",
+                  "url": "https://www.swissinfo.ch/eng/swiss-industry/bkw-acquires-a-german-architectural-firm/92372289"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-nvidia-huang-ruecktritt-kress",
+              "slug": "nvidia-huang-ruecktritt-kress",
+              "title": "Nvidia: Jensen Huang tritt zurück – Finanzchefin Kress übernimmt",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "💥",
+              "edition": "evening",
+              "kurz": "Der Nvidia-Mitgründer verlässt Konzernleitung und Verwaltungsrat mit sofortiger Wirkung. Die Aktie fiel zum Handelsstart um über 13 Prozent.",
+              "summary": "Nvidia-Mitgründer Jensen Huang ist als Präsident, CEO und Verwaltungsrat mit sofortiger Wirkung zurückgetreten; der Verwaltungsrat nahm den Rücktritt laut SEC-Meldung am Mittwoch an. Finanzchefin Colette Kress führt den Konzern interimistisch und bleibt zugleich CFO, Harvey C. Jones wird erster Verwaltungsratspräsident. Die Aktie verlor zum Handelsstart über 13 Prozent und lag danach rund 7 Prozent im Minus.",
+              "gegenstimme": "Analysten wie Dan Ives (Yorkville Ives) halten Kress für die einzige interne Kandidatin mit genug Rückhalt, erwarten aber einen externen Nachfolger. Ben Barringer (Quilter Cheviot) sieht kurzfristig keine Folgen fürs Geschäft, solange die Aufträge stimmen; der grössere Schaden drohe dem KI-Ökosystem, weil Huangs Stimme in der Regulierungsdebatte fehle. Peking weist den Spionagevorwurf gegen die Frau, mit der Huang eine Affäre hatte, zurück.",
+              "sources": [
+                {
+                  "name": "Nvidia (Mitteilung)",
+                  "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+                },
+                {
+                  "name": "SEC (8-K)",
+                  "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/12/colette-kress-nvidia-cfo-interim-ceo-candidate.html"
+                },
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/12/nvidia-aktie-sturzt-ab-mitgrunder-jensen-huang-tritt-als-ceo-zuruck"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-apache-http2-kritische-luecke",
+              "slug": "apache-http2-kritische-luecke",
+              "title": "Kritische Lücke im Webserver Apache: Update auf 2.4.71 nötig",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "evening",
+              "kurz": "Eine Schwachstelle im HTTP/2-Modul von Apache könnte Angreifern ohne Anmeldung das Einschleusen von Code ermöglichen.",
+              "summary": "Die Apache Software Foundation hat mit Version 2.4.71 eine kritische Lücke (CVE-2026-119618) im HTTP/2-Modul mod_http2 ihres Webservers geschlossen. Betroffen sind die Versionen 2.4.55 bis 2.4.70, sofern HTTP/2 aktiviert ist; Angreifer könnten ohne Anmeldung Speicher korrumpieren und im schlimmsten Fall Code ausführen. Red Hat bewertet die Lücke mit CVSS 9,8.",
+              "gegenstimme": "Sicherheitsforscher wie Kevin Beaumont halten einen funktionierenden Exploit wegen Schutzmechanismen wie ASLR für schwierig. Laut Wiz gab es bei Veröffentlichung keinen Exploit und keine bekannten Angriffe; ein öffentlicher Proof of Concept zeigt nur Abstürze, keine Codeausführung. Server, die nur HTTP/1.1 sprechen, sind nicht betroffen.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache2-ermoeglicht-Codeeinschleusung-11523150.html"
+                },
+                {
+                  "name": "SecurityWeek",
+                  "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-putin-witkoff-kushner-gebiete-truppen",
+              "slug": "putin-witkoff-kushner-gebiete-truppen",
+              "title": "Putin zu US-Gesandten: Westliche Truppen in der Ukraine wären «legitimes Ziel»",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "evening",
+              "kurz": "Im Kreml beharrt Putin auf allen annektierten Gebieten und schlägt eine Evakuierungsaktion für Kostjantyniwka vor.",
+              "summary": "Wladimir Putin hat Steve Witkoff und Jared Kushner im Kreml empfangen und seine Gebietsforderungen bekräftigt: Als Grenze komme nur die «offizielle russische Grenze» in Frage, die nach russischer Lesart auch die annektierten Gebiete Donezk, Luhansk, Saporischschja und Cherson umfasst. Westliche Truppen in der Ukraine nach Kriegsende wären «ein legitimes Ziel», der Krieg würde «sofort wieder aufflammen». Zugleich schlug er eine humanitäre Mission mit fünftägiger Waffenruhe für Kostjantyniwka vor.",
+              "gegenstimme": "Die Ukraine lehnt Gebietsabtretungen kategorisch ab und bezweifelt, dass Russland so weit vorgerückt ist, wie Moskau behauptet; in Kostjantyniwka gibt es laut Militärbloggern noch ukrainische Stellungen, eine Evakuierung unter russischer Regie wäre also politisch heikel. Kiew misstraut der Feuerpause, weil Russland die Pause in Oleschky genutzt habe, um Truppen zu verlegen. EU-Ratspräsident António Costa nennt die kommenden Tage einen «entscheidenden Test» für Russlands Friedenswillen.",
+              "sources": [
+                {
+                  "name": "Kreml (Protokoll)",
+                  "url": "http://en.kremlin.ru/events/president/news/81246"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6af5cc00c45061d752ba87a8/ukraine-krieg-putin-zeigt-sich-unnachgiebig-bei-gebietsfragen-und-schlaegt-neue-hilfsaktion-vor.html"
+                },
+                {
+                  "name": "France 24",
+                  "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-frederiksen-rueckkehrzentren-ruanda",
+              "slug": "frederiksen-rueckkehrzentren-ruanda",
+              "title": "Abschiebezentren ausserhalb der EU: Frederiksen kündigt Durchbruch an",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "🛂",
+              "edition": "evening",
+              "kurz": "Dänemarks Regierungschefin sagt, ein Rückkehrzentrum für abgelehnte Asylbewerber ausserhalb Europas sei «viel näher» gerückt. Als Standort wird Ruanda genannt.",
+              "summary": "Dänemarks Ministerpräsidentin Mette Frederiksen sagte am Rand des EPG-Gipfels in Dublin, die Verhandlungen über ein Rückkehrzentrum ausserhalb Europas liefen «richtig gut»; Details will sie nächste Woche nennen. Niederländische Medien berichten, die offizielle Bekanntgabe solle am 16. November an einer Migrationskonferenz in Wien erfolgen, Standort solle Ruanda sein. Vorangetrieben wird das Projekt von Deutschland, Österreich, Dänemark, Griechenland und den Niederlanden.",
+              "gegenstimme": "Menschenrechtsorganisationen und Teile der EU-Linken halten Abschiebungen in Drittstaaten, zu denen die Betroffenen keinen Bezug haben, für rechtlich und menschlich fragwürdig; der britische Ruanda-Plan scheiterte vor Gericht und wurde aufgegeben. Unterstützer sehen dagegen endlich die Durchsetzung des Grundsatzes, dass ein abgelehntes Asylgesuch nicht automatisch ein Bleiberecht bedeutet. Offen ist, wie viele Personen Ruanda aufnehmen würde.",
+              "sources": [
+                {
+                  "name": "dpa (FAZ)",
+                  "url": "https://www.faz.net/agenturmeldungen/dpa/frederiksen-rueckkehrzentren-ruecken-naeher-201677561.html"
+                },
+                {
+                  "name": "Ritzau (Copenhagen Post)",
+                  "url": "https://cphpost.dk/2026-11-12/news/round-up/mette-frederiksen-says-agreement-on-non-eu-return-center-is-close/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-vg-dresden-grenzkontrollen-rechtswidrig",
+              "slug": "vg-dresden-grenzkontrollen-rechtswidrig",
+              "title": "Deutschland: Gericht erklärt Grenzkontrollen zu Polen und Tschechien für rechtswidrig",
+              "date": "2026-11-12",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "⚖️",
+              "edition": "evening",
+              "kurz": "Das Verwaltungsgericht Dresden gibt zwei Klägern recht: Die verlängerten Binnengrenzkontrollen verstiessen gegen EU-Recht.",
+              "summary": "Das Verwaltungsgericht Dresden hat in zwei Einzelfällen entschieden, dass die vom Bundesinnenministerium angeordneten Kontrollen an den Grenzen zu Polen und Tschechien unionsrechtswidrig waren. Geklagt hatten ein in Görlitz lebender Pole, dessen Kleinbus im September 2024 durchsucht wurde, und ein Brandenburger, der im Mai 2026 im Reisebus aus Prag kontrolliert wurde. Das Gericht liess die Berufung ans Sächsische Oberverwaltungsgericht wegen grundsätzlicher Bedeutung zu.",
+              "gegenstimme": "Die Bundesregierung argumentiert, die Kontrollen seien zur Eindämmung illegaler Migration und damit für öffentliche Ordnung und innere Sicherheit nötig; der Schengener Grenzkodex erlaube ausdrücklich Verlängerungen auch bei anhaltendem Migrationsdruck, und der Regierung stehe ein weiter Beurteilungsspielraum zu. Befürworter der Kontrollen verweisen darauf, dass das Urteil nur zwei Einzelfälle betrifft und nicht rechtskräftig ist.",
+              "sources": [
+                {
+                  "name": "Verwaltungsgericht Dresden (Mitteilung)",
+                  "url": "https://medienservice.sachsen.de/medien/news/1101117"
+                },
+                {
+                  "name": "ZEIT/AFP",
+                  "url": "https://www.zeit.de/politik/deutschland/2026-11/binnengrenzkontrollen-grenzen-polnischer-bewohner-goerlitz-ausweiskontrolle-vg-dresden"
                 }
               ]
             }
