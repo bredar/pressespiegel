@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T06:17:03+01:00",
+  "updated": "2026-11-12T12:22:19+01:00",
   "days": [
     {
       "date": "2026-11-12",
@@ -348,6 +348,320 @@
                 {
                   "name": "Xinhua",
                   "url": "https://english.news.cn/20261112/0f43af3f99834456aaa7513681b7616b/c.html"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:30",
+          "articles": [
+            {
+              "id": "2026-11-12-svp-findungskommission-vertagt-ticket",
+              "slug": "svp-findungskommission-vertagt-ticket",
+              "title": "Parmelin-Nachfolge: SVP-Findungskommission vertagt ihren Entscheid",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "midday",
+              "kurz": "Die SVP-Findungskommission braucht mehr Zeit für ihre Bundesratsempfehlung – und will diese nicht einmal veröffentlichen.",
+              "summary": "Die Findungskommission der SVP gibt ihre Empfehlung für die Nachfolge von Bundesrat Guy Parmelin nicht wie geplant am Freitag, 13. November, ab, sondern erst nächste Woche. Kommissionspräsident Caspar Baader bestätigte die Verschiebung gegenüber watson, nannte aber weder einen Termin noch einen Grund. Acht Personen bewerben sich; die Fraktion will am 20. November nominieren.",
+              "gegenstimme": "Dass eine Prüfung länger dauert, muss nichts bedeuten: Eine gründliche Abklärung der Kandidierenden ist genau der Zweck der Kommission, und eine Verzögerung um wenige Tage kann schlicht an Terminen oder Hearings liegen. Die in mehreren Medien aufgeworfene Frage nach «Leichen im Keller» ist bislang reine Spekulation. Kritischer sehen es Beobachter, die die geheime Empfehlung bemängeln: Weil nur der Fraktionsvorstand informiert wird, bleibt für die Öffentlichkeit intransparent, nach welchen Kriterien das Feld verkleinert wird.",
+              "sources": [
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/736926925-svp-vertagt-ticketentscheid-fuer-den-bundesrat-wegen-leichen-im-keller"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/was-ist-da-los-svp-findungskommission-braucht-mehr-zeit/8d73f2t"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/suisse/2026/article/succession-parmelin-l-udc-reporte-le-choix-de-son-ticket-29413569.html"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/svp-findungskommission-vertagt-entscheid-67201491"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-parmelin-epg-gipfel-dublin",
+              "slug": "parmelin-epg-gipfel-dublin",
+              "title": "Parmelin am Europa-Gipfel in Dublin – Schweiz ist im April Gastgeberin",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/5082239d04148aef111d63a99ca3c0144271561c-92368120.jpg?ver=261645de&fit=1200,900",
+              "kurz": "Bundespräsident Parmelin nimmt am EPG-Treffen mit rund 47 europäischen Staaten teil; der nächste Gipfel findet 2027 in Zürich statt.",
+              "summary": "Bundespräsident Guy Parmelin nimmt heute in Dublin am neunten Gipfel der Europäischen Politischen Gemeinschaft (EPG) teil. Eingeladen sind 47 Staats- und Regierungschefs, also ganz Europa ohne Russland und Belarus. Die Schweiz ist zugleich Gastgeberin des zehnten Gipfels im April 2027 im Kongresszentrum The Circle am Flughafen Zürich.",
+              "gegenstimme": "Kritiker halten die EPG für ein reines Gesprächsforum ohne Sekretariat, Budget oder Schlusserklärung; konkrete Ergebnisse sind selten. Aus EU-skeptischer Sicht stellt sich zudem die Frage, ob die Schweiz mit der Ausrichtung eines Gipfels symbolisch näher an EU-Strukturen rückt, während das Vertragspaket mit Brüssel innenpolitisch umstritten ist. Der Bund betont dagegen den Nutzen kurzer bilateraler Treffen und das Image als neutrale Gastgeberin.",
+              "sources": [
+                {
+                  "name": "WBF (Medienmitteilung)",
+                  "url": "https://www.wbf.admin.ch/de/newnsb/GeLF6kl7bE1K"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/bundespr%C3%A4sident-guy-parmelin-reist-an-europ%C3%A4isches-gipfeltreffen/92368133"
+                },
+                {
+                  "name": "n-tv / AFP",
+                  "url": "https://www.n-tv.de/politik/Selenskyj-beklagt-systematische-Drosselung-von-Starshield-id31524909.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-lindt-investoren-ruecktritt-tanner",
+              "slug": "lindt-investoren-ruecktritt-tanner",
+              "title": "Lindt & Sprüngli: Investoren verlangen Machtabgabe von Präsident Ernst Tanner",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "🍫",
+              "edition": "midday",
+              "kurz": "Nach zwei Gewinnwarnungen und Absatzeinbruch fordern Aktionäre einen erneuerten Verwaltungsrat – Tanner will bleiben.",
+              "summary": "Beim Schokoladenkonzern Lindt & Sprüngli wächst der Druck auf den 80-jährigen Verwaltungsratspräsidenten Ernst Tanner, der seit 1993 an der Spitze steht. Investoren wie die Deka verlangen eine Erneuerung des Verwaltungsrats und eine Verteilung der Macht; Lindt musste 2026 zweimal die Prognose senken, die Aktie liegt seit Januar rund 24 Prozent im Minus. Tanner lehnt einen Rücktritt ab.",
+              "gegenstimme": "Nicht alle Aktionäre sehen es so: Ein grosser Investor verteidigt gegenüber Reuters Tanners Verbleib und die Preiserhöhungen, mit denen Lindt seine Margen geschützt habe. Das Unternehmen verweist auf die regelmässige Erneuerung des Verwaltungsrats und darauf, dass die Probleme vor allem Deutschland, Österreich und die Schweiz betreffen, wo bereits Preisanpassungen eingeleitet seien. Auch Kritiker räumen ein, dass Lindt Tanner «sehr viel zu verdanken» habe; der Konzern ist an der Börse rund 20 Milliarden Franken wert.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/krise-bei-schoggi-hersteller-aufstand-gegen-den-lindt-patron-ruecktritt-gefordert"
+                },
+                {
+                  "name": "cash / Reuters",
+                  "url": "https://www.cash.ch/news/top-news/lindtsprungli-investoren-fordern-umbau-des-verwaltungsrates-982194"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-bern-strassen-aufwertung-fernwaerme",
+              "slug": "bern-strassen-aufwertung-fernwaerme",
+              "title": "Stadt Bern will Strassen für 55,7 Millionen Franken umgestalten",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🏗️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/9e9e2575e3b93d3bc78f9f434ba7b266d129b50e-92368720.jpg?ver=4c1f4efc&fit=1200,900",
+              "kurz": "Parallel zum Fernwärmeausbau sollen Strassen im Süden und Nordosten der Stadt Bern grüner und sicherer werden; das Volk entscheidet 2027.",
+              "summary": "Der Berner Gemeinderat hat einen Rahmenkredit von 55,7 Millionen Franken für die Jahre 2027 bis 2042 genehmigt, um Strassen in Bern-Wabern (Sulgenbach, Sandrain, Steinhölzli) sowie in Breitenrain-Lorraine und Teilen von Kirchenfeld-Schosshalde aufzuwerten. Die Arbeiten sollen mit dem Fernwärmeausbau von Energie Wasser Bern (ewb) zusammenfallen. Stadtrat und voraussichtlich im Juni 2027 die Stimmberechtigten haben das letzte Wort.",
+              "gegenstimme": "Aus bürgerlicher und gewerblicher Sicht ist fraglich, ob die Stadt Strassenbauarbeiten für Umgestaltungen nutzen sollte, die über den Ersatz hinausgehen und Parkplätze oder Fahrspuren kosten könnten. Zudem soll der Gemeinderat die einzelnen Massnahmen selbst bewilligen dürfen – das Parlament wird nur alle zwei Jahre informiert. Kritiker eines solchen Rahmenkredits sehen darin einen Blankocheck, weil die konkreten Projekte noch gar nicht ausgearbeitet sind.",
+              "sources": [
+                {
+                  "name": "Stadt Bern (Medienmitteilung)",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/stadt-will-parallel-zu-fernwaermeausbau-strassenraum-aufwerten-1"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/stadt-bern-will-strassen-f%C3%BCr-55,7-millionen-franken-aufwerten/92368733"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-maloja-antisemitische-schmiererei-hotel",
+              "slug": "maloja-antisemitische-schmiererei-hotel",
+              "title": "Maloja: «We hate Jews» und Hakenkreuz an Hotel mit jüdischer Stammkundschaft",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "✡️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/ca155e090ebca5ecb159916a35ee747ad902a6d6-92366171.jpg?ver=bfd11f89&fit=1200,900",
+              "kurz": "Am Hotel Palace in Maloja GR ist eine judenfeindliche Parole aufgetaucht – nicht der erste Vorfall im Ort. Die Polizei ermittelt.",
+              "summary": "An der Fassade eines Nebengebäudes des Hotels Palace in Maloja GR sind am Sonntag die Parole «We hate Jews» und ein Hakenkreuz angebracht worden. Das Hotel hat seit 13 Jahren eine grosse jüdische Stammkundschaft; der Direktor erstattet Strafanzeige, die Kantonspolizei Graubünden ermittelt. Es ist der mindestens vierte antisemitische Vorfall in Maloja seit Sommer 2025.",
+              "gegenstimme": "Der Hoteldirektor vermutet eine Person aus der Gegend, mit der er im Sommer eine Auseinandersetzung über jüdische Gäste hatte; das ist eine Vermutung, kein Ermittlungsergebnis. Der Israelitische Gemeindebund sieht Parallelen im Schriftbild früherer Schmierereien, betont aber, daraus lasse sich nicht auf dieselbe Täterschaft schliessen. Kritisch bleibt, dass frühere Fälle ohne ermittelte Täter blieben und solche Vorfälle in der Deutschschweizer Berichterstattung oft nur als Kurzmeldung erscheinen.",
+              "sources": [
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/antisemitische-schmiererei-bei-hotel-in-maloja-gr-aufgetaucht/92366184"
+                },
+                {
+                  "name": "Ticinonews",
+                  "url": "https://www.ticinonews.ch/svizzera/scritta-antisemita-e-svastica-su-un-hotel-a-maloja-la-polizia-indaga-446499"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-witkoff-kushner-putin-angriffe-kiew-moskau",
+              "slug": "witkoff-kushner-putin-angriffe-kiew-moskau",
+              "title": "Ukraine-Diplomatie: US-Gesandte bei Putin – in der Nacht Angriffe auf Kiew und Moskau",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "midday",
+              "image": "https://assets.kyivindependent.com/content/images/2026/11/21631_20261112-083258.jpg",
+              "kurz": "Witkoff und Kushner treffen Putin, nachdem Russland Kiew mit Raketen und Drohnen angegriffen hat. Die Ukraine schickte Drohnen Richtung Moskau.",
+              "summary": "Die US-Unterhändler Steve Witkoff und Jared Kushner sind heute in Moskau mit Wladimir Putin zusammengekommen, um ihn über die Gespräche in Abu Dhabi zu informieren und für eine Beteiligung Europas an Friedensverhandlungen zu werben. In der Nacht griff Russland Kiew mit ballistischen Raketen und 123 Drohnen an; eine Frau wurde getötet, mehrere Menschen verletzt. Über Moskau wurden laut Bürgermeister Sobjanin fünf ukrainische Drohnen abgeschossen.",
+              "gegenstimme": "Russland stellt die Angriffe als Schläge gegen Rüstungsbetriebe dar, darunter eine Raketenfabrik in Kiew; unabhängig überprüfbar ist das nicht, getroffen wurde jedenfalls ein Wohnhaus. Russlands Delegationsleiter Medinski sagte, Moskau sei erst zufrieden, wenn es «gesiegt» und einen Frieden zu seinen Bedingungen unterschrieben habe. Die deutsche Regierung sieht den Moskau-Besuch weniger als Werben, sondern als Mitteilung an Putin, dass Europa künftig am Tisch sitzt. Skeptiker der US-Pendeldiplomatie verweisen darauf, dass Witkoffs vier Besuche in diesem Jahr keinen Waffenstillstand brachten.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html"
+                },
+                {
+                  "name": "Kyiv Independent",
+                  "url": "https://kyivindependent.com/russia-attacks-kyiv-with-ballistic-missiles-hours-after-peace-talks-end/"
+                },
+                {
+                  "name": "Reuters (via Internazionale)",
+                  "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/12/russia-ukraine-exchange-attacks-on-capitals-as-us-envoys-head-for-moscow"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-selenskyj-starshield-drosselung",
+              "slug": "selenskyj-starshield-drosselung",
+              "title": "Selenskyj: SpaceX-System Starshield wird über der Ukraine «systematisch» gedrosselt",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🛰️",
+              "edition": "midday",
+              "kurz": "Kiew meldet erneut Störungen beim militärischen Starlink-Ableger – laut Selenskyj kein Zufall. Er will die Sache mit den USA klären.",
+              "summary": "Der ukrainische Präsident Wolodymyr Selenskyj meldet seit mehreren Tagen «erhebliche Störungen» beim Satellitensystem Starshield, der militärischen Variante von SpaceX' Starlink. Er spricht von einer «systematischen Geschwindigkeitsbegrenzung», die den Russen helfe, «mehr Ukrainer zu töten». Betroffen sei vor allem die Drohnenabwehr.",
+              "gegenstimme": "Trump und SpaceX-Gründer Elon Musk wiesen bei den ersten Störungen im Oktober jede Verantwortung zurück. Eine technische Ursache – etwa Netzauslastung oder eine Schutzfunktion gegen Missbrauch durch Russland – ist nicht ausgeschlossen. Dass eine absichtliche politische Drosselung vorliegt, ist bislang eine Einschätzung Kiews, keine belegte Tatsache.",
+              "sources": [
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3447978/"
+                },
+                {
+                  "name": "n-tv / AFP",
+                  "url": "https://www.n-tv.de/politik/Selenskyj-beklagt-systematische-Drosselung-von-Starshield-id31524909.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-mississippi-colom-senatssitz-demokraten",
+              "slug": "mississippi-colom-senatssitz-demokraten",
+              "title": "Mississippi: Erstmals seit 1982 gewinnt ein Demokrat einen Senatssitz",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/d7e2a493-7016-4e0f-b525-04c1f1dc300f/AAABocztN-E/AAABnSSvrFg/16x9-big/colom-100.jpg?width=1280",
+              "kurz": "Scott Colom schlägt die von Trump unterstützte Senatorin Hyde-Smith knapp – die Demokraten kommen im Senat auf mindestens 55 Sitze.",
+              "summary": "Der Demokrat Scott Colom hat in Mississippi die Senatswahl gegen die republikanische Amtsinhaberin Cindy Hyde-Smith knapp gewonnen, wie die Nachrichtenagentur AP mehr als eine Woche nach der Wahl vom 3. November meldete. Es ist der erste demokratische Senatssieg im Bundesstaat seit 1982; Hyde-Smith hat ihre Niederlage eingeräumt. Die Demokraten haben ab Januar mindestens 55 der 100 Senatssitze.",
+              "gegenstimme": "Der republikanische Stadtpräsident von Oklahoma City, David Holt, sieht laut SRF in der Wahl den «Tod von Trumps politischer Bewegung» – doch Zwischenwahlen gehen traditionell gegen die Partei des Präsidenten aus, und knappe Siege in Einzelstaaten sind kein Beleg für einen dauerhaften Kurswechsel. Colom gewann zudem mit einem gemässigten Profil ohne persönliche Angriffe auf Trump. Republikaner verweisen darauf, dass die Demokraten die 60-Stimmen-Schwelle im Senat und eine vetofeste Mehrheit verfehlen.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html"
+                },
+                {
+                  "name": "FAZ / dpa",
+                  "url": "https://www.faz.net/agenturmeldungen/dpa/erstmals-seit-1982-demokrat-holt-senatssitz-in-mississippi-201674894.html"
+                },
+                {
+                  "name": "SRF (Stimme David Holt)",
+                  "url": "https://www.srf.ch/news/neuste-beitraege"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-russischer-botschafter-usa-dartschijew-tot",
+              "slug": "russischer-botschafter-usa-dartschijew-tot",
+              "title": "Russlands Botschafter in den USA, Alexander Dartschijew, ist tot",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🕯️",
+              "edition": "midday",
+              "kurz": "Moskau meldet zuerst einen «plötzlichen» Tod, später eine chronische Krankheit – und warnt vor «Verschwörungstheorien».",
+              "summary": "Der russische Botschafter in Washington, Alexander Dartschijew (auch Darchiev), ist am Mittwoch im Alter von 66 Jahren in Moskau gestorben. Das russische Aussenministerium sprach zunächst von einem «plötzlichen» Tod ohne Angabe der Ursache; Sprecherin Marija Sacharowa nannte später eine chronische Erkrankung. Das US-Aussenministerium bestätigte den Tod und kondolierte.",
+              "gegenstimme": "Sacharowa warnte Medien ausdrücklich vor «unnötigen Verschwörungstheorien». Dass der Tod Spekulationen auslöst, liegt an einer Reihe ungeklärter Todesfälle in der russischen Elite, etwa nach Fensterstürzen. Für eine Fremdeinwirkung gibt es im Fall Dartschijew allerdings keinerlei Hinweise; die widersprüchlich wirkende Kommunikation – erst «plötzlich», dann «chronisch» – ist für sich genommen kein Beleg.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/russland-wladimir-putins-botschafter-in-den-usa-ploetzlich-verstorben-a-e4d615bc-3921-4ece-9e08-442bf3e9354a"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/11/russland-us-botschafter-alexander-darchiev-stirbt-unerwartet"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-deutschland-haushalt-stromsteuer-faellt-aus",
+              "slug": "deutschland-haushalt-stromsteuer-faellt-aus",
+              "title": "Deutschland: Stromsteuer-Senkung für alle fällt vorerst aus – Merz scheitert mit Vorstoss",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "💶",
+              "edition": "midday",
+              "kurz": "Union und SPD finden keine 5,4 Milliarden Euro für die versprochene Stromsteuersenkung; dafür bleiben Sozialleistungen weitgehend ungekürzt.",
+              "summary": "Die schwarz-rote Koalition in Berlin hat sich vor der Bereinigungssitzung zum Bundeshaushalt 2027 auf Kompromisse geeinigt: Die im Koalitionsvertrag versprochene Senkung der Stromsteuer für alle Verbraucher kommt vorerst nicht, weil die rund 5,4 Milliarden Euro Gegenfinanzierung fehlen. Die Zuckersteuer wird auf 2028 verschoben, die Plastiksteuer kommt vorerst nicht; geplante Kürzungen bei Wohngeld, Elterngeld und Unterhaltsvorschuss werden zurückgenommen.",
+              "gegenstimme": "Die SPD verteidigt den Entscheid: Entlastungen seien zwar wünschenswert, müssten aber solide gegenfinanziert sein. In der Union wächst dagegen der Unmut; Fraktionsvize Middelberg verlangt, statt Steuerentlastungen zu streichen beim Sozialministerium zu sparen, das allein 40 Prozent des Haushalts beanspruche. Aus der Union selbst heisst es laut WELT: «Wir verlieren jede Glaubwürdigkeit»; BSW-Gründerin Sahra Wagenknecht spottet, Merz werde zum «Grüssaugust der Koalition». Sozial- und Mieterverbände hatten dagegen gegen die nun zurückgenommenen Kürzungen beim Wohngeld protestiert.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/koalition-findet-etat-kompromisse-stromsteuer-fuer-privathaushalte-wird-vorerst-nicht-gesenkt-100.html"
+                },
+                {
+                  "name": "WELT (Übersicht)",
+                  "url": "https://www.welt.de/schlagzeilen/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-polen-epuap-cyberangriff-offline",
+              "slug": "polen-epuap-cyberangriff-offline",
+              "title": "Polen nimmt staatliches E-Government-Portal nach Cyberangriff vom Netz",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🔒",
+              "edition": "midday",
+              "kurz": "Das Bürgerportal ePUAP ist seit Dienstag offline; die Regierung spricht von einem abgewehrten Angriff, der Geheimdienst ermittelt.",
+              "summary": "Polens zentrale Plattform für digitale Behördengänge, ePUAP, ist nach einem Cyberangriff seit Dienstagabend offline. Digitalminister Krzysztof Gawkowski erklärte, der Angriff sei erkannt und gestoppt worden; das System sei vorsorglich vom Netz genommen worden. Über ePUAP wickeln Bürger und Firmen etwa Steuern, Wohnsitzmeldungen und Urkundenanträge ab; ein Termin für die Wiederherstellung fehlt.",
+              "gegenstimme": "Die Regierung betont, das System sei weder beschädigt noch kompromittiert worden und die Infrastruktur des staatlichen IT-Zentrums sei sicher. Dass ein angeblich folgenloser Angriff zu einer tagelangen Abschaltung führt, wirft allerdings Fragen auf, die Warschau bislang nicht beantwortet.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Polens-Digitalisierungsportal-ePUAP-nach-Cyberangriff-offline-11521735.html"
+                },
+                {
+                  "name": "Security Affairs",
+                  "url": "https://securityaffairs.com/202895/security/poland-takes-its-national-e-government-platform-offline-after-a-cyberattack.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-yandex-datenverlust-drohnenangriffe-rechenzentren",
+              "slug": "yandex-datenverlust-drohnenangriffe-rechenzentren",
+              "title": "Yandex verliert nach ukrainischen Drohnenangriffen fast 3 Prozent der Cloud-Kundendaten",
+              "date": "2026-11-12",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "☁️",
+              "edition": "midday",
+              "kurz": "Drei Yandex-Rechenzentren wurden im Oktober getroffen; 2,84 Prozent der Kundendaten sind unwiederbringlich verloren.",
+              "summary": "Der russische Technologiekonzern Yandex hat nach ukrainischen Drohnenangriffen auf drei seiner Rechenzentren Anfang Oktober 97,16 Prozent der Daten seiner Cloud-Kunden wiederhergestellt. Die restlichen 2,84 Prozent seien wegen schwerer Hardwareschäden und fehlender Backups verloren. Yandex aktiviert künftig standardmässig Backups für alle virtuellen Maschinen.",
+              "gegenstimme": "Yandex schiebt die Verantwortung teilweise den Kunden zu, die keine Backups angelegt hätten; unklar bleibt, ob der Anbieter selbst keine redundanten Kopien führte. Ob die getroffenen Rechenzentren auch staatlichen oder militärischen Zwecken dienten, geht aus den Quellen nicht hervor; der Datenverlust trifft jedenfalls zivile Firmenkunden, was die Frage nach der Abgrenzung militärischer und ziviler Ziele aufwirft.",
+              "sources": [
+                {
+                  "name": "Reuters (via StreetInsider)",
+                  "url": "https://www.streetinsider.com/Reuters/Russias+Yandex+says+nearly+3%25+of+cloud+customer+data+lost+after+attacks/27319390.html"
+                },
+                {
+                  "name": "The Register",
+                  "url": "https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234"
+                },
+                {
+                  "name": "heise online (Newsticker)",
+                  "url": "https://www.heise.de/newsticker/"
                 }
               ]
             }
