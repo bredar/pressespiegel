@@ -1,6 +1,360 @@
 {
-  "updated": "2026-11-11T17:23:33+01:00",
+  "updated": "2026-11-12T06:17:03+01:00",
   "days": [
+    {
+      "date": "2026-11-12",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-12-rohner-busse-efd-beschattungsaffaere",
+              "slug": "rohner-busse-efd-beschattungsaffaere",
+              "title": "CS-Beschattungsaffäre: Finanzdepartement büsst Ex-Präsident Urs Rohner",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "⚖️",
+              "edition": "morning",
+              "kurz": "Das EFD wirft dem früheren CS-Präsidenten falsche Auskünfte an die Finma vor – in zwei Fällen vorsätzlich. Rohner zieht weiter.",
+              "summary": "Das Eidgenössische Finanzdepartement (EFD) hat den früheren Verwaltungsratspräsidenten der Credit Suisse, Urs Rohner, per Strafverfügung gebüsst: Er habe der Finma im Zusammenhang mit der Beschattungsaffäre falsche Auskünfte erteilt, meist fahrlässig, in zwei Fällen laut EFD vorsätzlich. Die Strafe beträgt 24'840 Franken Busse plus eine bedingte Geldstrafe von 144 Tagessätzen à 690 Franken (99'360 Franken), dazu 10'810 Franken Verfahrenskosten.",
+              "gegenstimme": "Rohner weist die Vorwürfe laut seinem Sprecher «vollumfänglich und mit Nachdruck» zurück und verlangt eine Beurteilung durch das Bundesstrafgericht; er habe 2019 mit Experten grossen Aufwand betrieben, damit die Bank alle Fragen korrekt beantworte. Das EFD selbst hält fest, es gebe keine Hinweise, dass Rohner damals konkret von weiteren Überwachungen wusste. Kritiker der Finanzaufsicht sehen umgekehrt ein Muster: Die Finma habe bei der CS zu lange zugeschaut, und die Busse sei angesichts des Schadens symbolisch.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/cs-beschattungsaffaere-credit-suisse-bund-buesst-ex-praesident-urs-rohner"
+                },
+                {
+                  "name": "Republik",
+                  "url": "https://www.republik.ch/2026/11/12/ex-cs-praesident-verurteilt"
+                },
+                {
+                  "name": "NZZ (Hintergrund)",
+                  "url": "https://www.nzz.ch/wirtschaft/credit-suisse-was-hinter-den-kulissen-lief-ld.1787037"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-donzallaz-verzicht-van-de-graaf-wiederwahl",
+              "slug": "donzallaz-verzicht-van-de-graaf-wiederwahl",
+              "title": "Bundesgericht: Donzallaz verzichtet, Kommission empfiehlt van de Graaf knapp zur Wiederwahl",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "morning",
+              "kurz": "Nach dem Urteil über die unzulässige Beziehung tritt Yves Donzallaz nicht mehr an. Für Beatrice van de Graaf gibt es eine Empfehlung mit 9 zu 7 Stimmen.",
+              "summary": "Bundesrichter Yves Donzallaz (parteilos) hat am Mittwoch vor der Gerichtskommission des Parlaments seine Kandidatur für die Amtsperiode 2027 bis 2032 zurückgezogen. Die Kommission empfiehlt Bundesrichterin Beatrice van de Graaf (SVP) mit 9 zu 7 Stimmen bei einer Enthaltung zur Wiederwahl, obwohl das Bundesgericht vergangene Woche einstimmig festgestellt hatte, dass die beiden eine gesetzlich unzulässige dauernde Lebensgemeinschaft führten. Zudem wies die Kommission den Vorschlag des Gerichts zurück, Thomas Müller (SVP) zum Präsidenten zu machen.",
+              "gegenstimme": "Die Minderheit von sieben Kommissionsmitgliedern hält eine Wiederwahl nach einem einstimmigen Urteil des eigenen Gerichts für nicht vertretbar; Beobachter sprechen von einer Desavouierung Lausannes, was Kommissionspräsident Leo Müller (Mitte) bestreitet. Wer van de Graaf stützt, argumentiert, die Schwelle zur «dauernden Lebensgemeinschaft» sei schleichend überschritten worden, die beiden hätten nicht in derselben Abteilung gearbeitet, und eine Nichtwiederwahl wäre unverhältnismässig.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/liebesaffaere-am-bundesgericht-bundesrichter-donzallaz-hat-seine-kandidatur-zurueckgezogen"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/ungesetzliche-liebesaffaere-die-gerichtskommission-zeigt-sich-nachsichtig-ld.10059594"
+                },
+                {
+                  "name": "Keystone-ATS/swissinfo (fr)",
+                  "url": "https://www.swissinfo.ch/fre/donzallaz-se-retire,-van-de-graaf-propos%C3%A9e-%C3%A0-la-r%C3%A9%C3%A9lection-au-tf/92366653"
+                },
+                {
+                  "name": "Schweiz Heute (CH Media)",
+                  "url": "https://www.schweizheute.ch/schweiz/bundesgericht-donzallaz-zieht-kandidatur-zurueck-van-de-graaf-bleibt-ld.4265053"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-seilbahn-lenk-crans-montana-machbar",
+              "slug": "seilbahn-lenk-crans-montana-machbar",
+              "title": "Seilbahn von der Lenk nach Crans-Montana: Studie hält zwei Routen für machbar",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🚡",
+              "edition": "morning",
+              "kurz": "Rund zehn Kilometer, 30 Minuten Fahrt, Endstation Plaine Morte: Die Bahn wäre technisch möglich, ist aber wegen des Eingriffs in die Natur umstritten.",
+              "summary": "Eine Seilbahn zwischen Lenk im Berner Oberland und Crans-Montana im Wallis ist laut dem Entwurf einer Machbarkeitsstudie technisch möglich, wie der Trägerverein Cradle am Mittwoch mitteilte. Von 59 geprüften Linienführungen blieben zwei: Beide führen über die Mittelstation Metsch und entweder via Gletscherhorn oder Weisshorn zur Bergstation Plaine Morte. Empfohlen wird eine windstabile 3S-Bahn für die gut zehn Kilometer mit rund 30 Minuten Fahrzeit.",
+              "gegenstimme": "Naturschutzorganisationen lehnen das Projekt ab: Es würde ein kaum erschlossenes Hochgebirgsgebiet und den schwindenden Plaine-Morte-Gletscher beeinträchtigen, und Blick berichtet von Widerstand gegen eine reine «Panorama-Seilbahn». Die Befürworter in Lenk, Adelboden und Crans-Montana sehen dagegen eine Chance, zwei Skigebiete zu verbinden und den Tourismus in Zeiten schwindender Schneesicherheit breiter abzustützen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/auf-plaine-morte-gletscher-von-der-lenk-ins-wallis-per-seilbahn-machbar-aber-umstritten"
+                },
+                {
+                  "name": "Keystone-SDA/swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/studie-h%c3%a4lt-seilbahn-zwischen-lenk-und-crans-montana-f%c3%bcr-machbar/92367178"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/seilbahn-zwischen-lenk-crans-montana-projekt-zwei-routen-moeglich-traegerschaft-cradle-103665924"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/wirtschaft/projekt-verbindet-bern-und-wallis-widerstand-gegen-panorama-seilbahn/7wk951n"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-bern-raumplanungsbericht-schnellere-verfahren",
+              "slug": "bern-raumplanungsbericht-schnellere-verfahren",
+              "title": "Kanton Bern: Grossratskommission verlangt schnellere Planungsverfahren",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🗺️",
+              "edition": "morning",
+              "kurz": "Der Raumplanungsbericht 2026 zeigt Fortschritte bei der Verdichtung, aber Rückstände bei Energie, Kulturland und Verfahrensdauer.",
+              "summary": "Die Bau-, Energie-, Verkehrs- und Raumplanungskommission (BaK) des Berner Grossen Rates beantragt, den Raumplanungsbericht 2026 des Regierungsrats zur Kenntnis zu nehmen, verlangt aber zeitnah konkrete Massnahmen zur Beschleunigung der Planerlassverfahren. Laut Bericht haben die bauliche Dichte in Städten und Arbeitszonen und die ÖV-Anbindung zugenommen; Handlungsbedarf besteht bei der Verdichtung in urbanen Kerngebieten, bei Standorten für Solar- und Windanlagen und beim Schutz der Fruchtfolgeflächen.",
+              "gegenstimme": "Für Gemeinden, Bauherren und Wirtschaftsverbände ist die Forderung der Kommission überfällig: Lange Verfahren verteuern Wohnungs- und Energieprojekte und lassen Pendenzen anwachsen. Landwirtschafts- und Landschaftsschutzkreise mahnen dagegen, Tempo dürfe nicht auf Kosten des Kulturlands gehen, dessen Reserven laut Bericht stetig abnehmen – ein Zielkonflikt, den auch die geforderten Solar- und Windstandorte verschärfen.",
+              "sources": [
+                {
+                  "name": "Grosser Rat Kanton Bern (via Nau.ch)",
+                  "url": "https://www.nau.ch/ort/bern/kanton-bern-raumplanungsbericht-2026-fortschritte-handlungsbedarf-und-schnellere-verfahren-67200559"
+                },
+                {
+                  "name": "Kanton Bern: Raumplanungsbericht 2026 (PDF)",
+                  "url": "https://www.raumplanung.dij.be.ch/content/dam/raumplanung_dij/dokumente/de/Raumplanungsthemen/Spezialthemen/Raumplanungsbericht/raumplanung%202026-de.pdf"
+                },
+                {
+                  "name": "Kanton Bern, Medienmitteilung",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=5b5024ec-a349-4413-bc06-0151cae41441"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-klimaranking-ccpi-schweiz-rang-24",
+              "slug": "klimaranking-ccpi-schweiz-rang-24",
+              "title": "Klima-Ranking: Schweiz steigt auf Rang 24 – Klimapolitik bleibt Schwachpunkt",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🌍",
+              "edition": "morning",
+              "kurz": "Im Climate Change Performance Index rückt die Schweiz zwei Plätze vor. Die Podestplätze bleiben leer, Dänemark führt.",
+              "summary": "Im Climate Change Performance Index (CCPI) 2027, vorgestellt am Rande der Klimakonferenz COP31 in Antalya, verbessert sich die Schweiz um zwei Plätze auf Rang 24 von 64 Staaten plus EU. Gut schneidet sie bei den Pro-Kopf-Werten ab, schlecht bei der Klimapolitik; die Autoren erwarten, dass sie ihr Ziel von minus 50 Prozent Treibhausgasen bis 2030 verfehlt. Die ersten drei Ränge bleiben unbesetzt, Dänemark führt auf Platz 4; Deutschland liegt auf 25, Frankreich auf 20.",
+              "gegenstimme": "Der CCPI wird von Germanwatch und dem NewClimate Institute erstellt, also von Organisationen mit klar klimapolitischer Agenda; ein Teil der Bewertung beruht auf Experteneinschätzungen statt Messwerten. Aus bürgerlicher Sicht ist die Kritik an Auslandkompensationen einseitig: Sie sind im CO2-Gesetz demokratisch beschlossen und senken Emissionen dort, wo es pro Franken am meisten bringt. WWF und Greenpeace halten diese Reduktionen dagegen für «unsicher und unfair».",
+              "sources": [
+                {
+                  "name": "CCPI Länderprofil Schweiz",
+                  "url": "https://ccpi.org/country/che/"
+                },
+                {
+                  "name": "Keystone-SDA/watson",
+                  "url": "https://www.watson.ch/schweiz/international/214065832-klimaschutz-ranking-schweiz-erhaelt-durchwachsenes-zeugnis"
+                },
+                {
+                  "name": "Swissinfo (en)",
+                  "url": "https://www.swissinfo.ch/eng/emissions-reduction/climate-ranking-switzerland-moves-up-two-places/92361972"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-nvidia-verwaltungsrat-huang-absetzung",
+              "slug": "nvidia-verwaltungsrat-huang-absetzung",
+              "title": "Nvidia: Verwaltungsrat berät über Absetzung von Jensen Huang – Aktie bricht ein",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "💥",
+              "edition": "morning",
+              "kurz": "Nach Berichten über eine zweite Affäre bereitet der Nvidia-Verwaltungsrat laut WSJ die Absetzung des Gründers vor. Ein Entscheid war bis zum Morgen nicht bekannt.",
+              "summary": "Der Verwaltungsrat von Nvidia hat am Mittwochabend (US-Zeit) laut Reuters, Wall Street Journal und Semafor darüber beraten, CEO und Mitgründer Jensen Huang abzusetzen; als Übergangschefin favorisieren einige Mitglieder Finanzchefin Colette Kress. Auslöser sind neben der Affäre mit der mutmasslich für China tätigen Geschäftsfrau Alice Huang Berichte der New York Times über eine zweite Beziehung mit einer ihm unterstellten Managerin. Die Aktie fiel nachbörslich um rund 8 bis 10 Prozent; seit Beginn der Untersuchung hat Nvidia rund 600 Milliarden Dollar Börsenwert verloren.",
+              "gegenstimme": "Grossaktionäre und Analysten warnen, eine Absetzung des Gründers ohne Nachfolgeplan sei riskanter als sein Verbleib: Huang führt laut Bernstein mit rund 60 direkten Untergebenen und «ist Nvidia». Nvidia erklärte noch am Sonntag, der Verwaltungsrat habe Vertrauen in Huang, und es gebe keinen Hinweis, dass Geheimnisse oder die nationale Sicherheit kompromittiert wurden. Peking weist den Spionagevorwurf zurück.",
+              "sources": [
+                {
+                  "name": "Deutsche Welle",
+                  "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002"
+                },
+                {
+                  "name": "Semafor",
+                  "url": "https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-jensen-huang-name-interim-ceo"
+                },
+                {
+                  "name": "CNA/Reuters",
+                  "url": "https://www.channelnewsasia.com/world/nvidia-ceo-jensen-huang-oust-board-affair-6544031"
+                },
+                {
+                  "name": "Nvidia (Statement 8.11.)",
+                  "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+                },
+                {
+                  "name": "Fortune (zu Caprez)",
+                  "url": "https://fortune.com/2026/11/09/what-is-nvidia-ceo-succession-plan-jensen-huang-son-in-law-nico-caprez/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-openai-quartal-10-milliarden-umsatz-verlust",
+              "slug": "openai-quartal-10-milliarden-umsatz-verlust",
+              "title": "OpenAI: 10 Milliarden Dollar Quartalsumsatz – und fast 11 Milliarden Verlust",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "kurz": "Laut WSJ wächst OpenAIs Umsatz um rund die Hälfte, der operative Verlust aber ebenfalls weiter.",
+              "summary": "OpenAI hat im dritten Quartal 2026 laut einem Bericht des Wall Street Journal rund 10 Milliarden Dollar umgesetzt, etwa 50 Prozent mehr als im Vorquartal. Der bereinigte operative Verlust stieg gleichzeitig von 10,1 auf 10,9 Milliarden Dollar. Die bereinigte operative Marge verbesserte sich damit von minus 150 auf minus 109 Prozent.",
+              "gegenstimme": "OpenAI und Investoren argumentieren, die Verluste seien gewollte Vorleistungen für Rechenzentren und Modelltraining, und die steigende Marge zeige den Weg zur Profitabilität. Skeptiker sehen dagegen Zeichen einer Blase: Ein Unternehmen, das für jeden Dollar Umsatz gut zwei Dollar ausgibt, hängt vollständig von weiterem Kapital ab – und dieses fliesst teils im Kreis, etwa über Nvidia, das seine eigenen Kunden mitfinanziert.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/OpenAI-Umsatz-zuletzt-stark-gewachsen-Milliardenverluste-noch-leicht-11520086.html"
+                },
+                {
+                  "name": "Reuters/Investing.com",
+                  "url": "https://www.investing.com/news/stock-market-news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports-5017353"
+                },
+                {
+                  "name": "The Decoder",
+                  "url": "https://the-decoder.de/openai-steigert-quartalsumsatz-auf-10-milliarden-us-dollar-bei-weiterhin-gigantischen-verlusten/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-spanien-ermittlung-tiktok-kindesmissbrauch",
+              "slug": "spanien-ermittlung-tiktok-kindesmissbrauch",
+              "title": "Spanien: Staatsanwaltschaft ermittelt wegen Missbrauchsvideos auf TikTok",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🔍",
+              "edition": "morning",
+              "kurz": "Rechercheure fanden 1183 Videos mit explizitem Kindesmissbrauch und 48 Millionen Aufrufen. Die Regierung will die Plattform am liebsten sperren.",
+              "summary": "Spaniens Generalstaatsanwältin Teresa Peramato hat am Mittwoch Ermittlungen wegen der Verbreitung von Kindesmissbrauchsmaterial auf TikTok angeordnet. Auslöser ist eine Recherche von Maldita.es, die 1183 Videos mit explizitem Missbrauch und 48 Millionen Aufrufen sowie rund 26'000 mutmassliche Pädophilen-Profile dokumentiert und Anzeige erstattet hat. Die Datenschutzbehörde AEPD will die konkreten Links sperren lassen.",
+              "gegenstimme": "TikTok erklärt, das Material sofort entfernt und Fälle wie vorgeschrieben dem US-Meldezentrum NCMEC gemeldet zu haben; solche Inhalte seien kategorisch verboten. Die AEPD stellt klar, dass sie die Plattform nicht schliessen kann, wie Jugendministerin Sira Rego (Sumar) fordert. Kritiker der Regierung Sánchez sehen in deren lautstarker Reaktion auch politisches Kalkül im Dauerstreit mit den sozialen Netzwerken; Maldita.es ist zudem selbst als Faktencheck-Organisation umstritten.",
+              "sources": [
+                {
+                  "name": "El País",
+                  "url": "https://elpais.com/espana/2026-11-11/la-fiscalia-ordena-investigar-la-difusion-de-contenido-sexual-de-menores-en-tiktok.html"
+                },
+                {
+                  "name": "EFE",
+                  "url": "https://efe.com/espana/2026-11-11/fiscalia-tiktok-abusos-sexuales-menores/"
+                },
+                {
+                  "name": "RTVE",
+                  "url": "https://www.rtve.es/noticias/20261111/fiscalia-abre-investigacion-posibles-presuntos-casos-abuso-sexual-infantil-tiktok/17309662.shtml"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-iran-rezaei-uran-drohung-us-basen-europa",
+              "slug": "iran-rezaei-uran-drohung-us-basen-europa",
+              "title": "Iran will kein angereichertes Uran abgeben – und droht US-Basen in Europa",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "international",
+              "icon": "☢️",
+              "edition": "morning",
+              "kurz": "Sicherheitschef Mohsen Rezaei schliesst jede Ausfuhr von Uran aus und warnt, auch US-Stützpunkte in Europa könnten Ziel werden.",
+              "summary": "Der Sekretär des iranischen Nationalen Sicherheitsrats, Mohsen Rezaei, hat im libanesischen Sender Al Mayadeen erklärt, Iran werde «kein einziges Atom» angereicherten Materials aus dem Land bringen, auch nicht nach Russland. Würden die USA erneut angreifen, werde Iran auch weiter entfernte US-Stützpunkte angreifen, ausdrücklich auch solche in Europa. Gespräche mit Washington gebe es derzeit keine.",
+              "gegenstimme": "Die US-Regierung zeichnet ein anderes Bild: Präsident Trump erklärte den Krieg militärisch für «faktisch beendet», Aussenminister Rubio sagte nach dem G7-Treffen in Paris, der wirtschaftliche Druck sei so verheerend, dass keine grossen Kampfeinsätze nötig seien. Israelische und westliche Sicherheitsexperten sehen in der Weigerung, das 60-Prozent-Uran abzugeben, den Beweis, dass Teheran die Option auf eine Bombe offenhalten will; Iran beruft sich auf zivile Zwecke wie Antriebe für Schiffe und U-Boote.",
+              "sources": [
+                {
+                  "name": "RFE/RL",
+                  "url": "https://www.rferl.org/a/iran-enriched-uranium-transfer-russia-us-war/33895253.html"
+                },
+                {
+                  "name": "Middle East Eye",
+                  "url": "https://www.middleeasteye.net/news/iran-wants-enriched-material-build-nuclear-powered-submarines-threaten-attack-us-bases-europe"
+                },
+                {
+                  "name": "Arab News",
+                  "url": "https://www.arabnews.com/middle-east/iran-security-chief-threatens-to-strike-us-bases-in-europe-if-used-for-attacks-3011215"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-oesterreich-verschaerft-spionagegesetz",
+              "slug": "oesterreich-verschaerft-spionagegesetz",
+              "title": "Österreich verschärft Spionagegesetz – bis zehn Jahre Haft",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🕵️",
+              "edition": "morning",
+              "kurz": "Wien will künftig auch Spionage gegen UNO, OSZE und EU bestrafen und hat acht russische Diplomaten ausgewiesen.",
+              "summary": "Österreichs Regierung aus ÖVP, SPÖ und Neos hat am Mittwoch eine Verschärfung des Spionagestrafrechts beschlossen. Spionage zum Nachteil Österreichs soll mit bis zu zehn Jahren Haft bestraft werden, Spionage gegen EU-Einrichtungen und internationale Organisationen mit Sitz in Österreich neu mit bis zu fünf Jahren; strafbar wird auch das Anwerben und das Sich-anwerben-Lassen. Laut Aussenministerin Beate Meinl-Reisinger wurden seit Amtsantritt der Koalition acht russische Diplomaten ausgewiesen.",
+              "gegenstimme": "Die FPÖ warnt, der Kampf gegen Spionage dürfe kein «Deckmantel» für Angriffe auf Meinungsfreiheit, investigativen Journalismus und Oppositionsarbeit werden, und kritisiert, dass noch kein Gesetzestext vorliegt. Die Staatsanwälte befürchten einen «massiven Mehraufwand», der mit dem heutigen Personal nicht zu bewältigen sei. Russland hat für die jüngsten Ausweisungen «schmerzhafte» Gegenmassnahmen angekündigt.",
+              "sources": [
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3447878/"
+                },
+                {
+                  "name": "Bundeskanzleramt Österreich",
+                  "url": "https://www.bundeskanzleramt.gv.at/bundeskanzleramt/nachrichten-der-bundesregierung/2026/11/ministerrat-beschliesst-sicherheitsexportgesetz-und-novelle-des-spionagegesetzes.html"
+                },
+                {
+                  "name": "Der Standard",
+                  "url": "https://www.derstandard.at/story/3000000348649/regierung-einigt-sich-auf-schaerferes-spionagegesetz"
+                },
+                {
+                  "name": "FAZ",
+                  "url": "https://www.faz.net/aktuell/politik/ausland/neues-gesetz-oesterreich-will-haerter-gegen-spione-vorgehen-accg-201672361.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-ebola-kongo-11000-faelle",
+              "slug": "ebola-kongo-11000-faelle",
+              "title": "Ebola in Kongo: Über 11'000 Fälle – Angriffe bremsen die Bekämpfung",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🦠",
+              "edition": "morning",
+              "kurz": "Der tödlichste Ebola-Ausbruch in der Geschichte Kongos hat über 5300 Menschen getötet; bewaffnete Gruppen greifen Helfer und Spitäler an.",
+              "summary": "In der Demokratischen Republik Kongo sind laut Regierungsdaten vom Mittwoch über 11'000 bestätigte Ebola-Fälle und über 5300 Tote registriert, verteilt auf acht Provinzen – der tödlichste Ausbruch in der Geschichte des Landes. WHO-Chef Tedros Adhanom Ghebreyesus nannte Unsicherheit eines der grössten Hindernisse: Bei einem Angriff auf die Stadt Cantine-Aloya wurden vergangene Woche 66 Zivilisten getötet, darunter drei Gesundheitsmitarbeitende, und drei Gesundheitseinrichtungen geplündert und angezündet.",
+              "gegenstimme": "Die WHO betont auch Fortschritte: Fast 3000 Menschen sind genesen, in manchen Gebieten verlangsamt sich die Übertragung, und Kenia hat seinen letzten Patienten entlassen. Gleichzeitig fordert sie Länder auf, pauschale Einreisesperren aufzuheben, weil diese Meldungen verzögerten; Regierungen, die solche Sperren verhängt haben, halten sie dagegen für einen legitimen Schutz ihrer Bevölkerung, solange der Ausbruch nicht unter Kontrolle ist.",
+              "sources": [
+                {
+                  "name": "WHO",
+                  "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/congo-ebola-outbreak-cae4cef6e48c1d2210a59c72676bff29"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-12-panama-weist-hegseth-kanal-anspruch-zurueck",
+              "slug": "panama-weist-hegseth-kanal-anspruch-zurueck",
+              "title": "Panama: «Nur wir kontrollieren den Kanal» – Abfuhr für Hegseth",
+              "date": "2026-11-12",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🚢",
+              "edition": "morning",
+              "kurz": "Panamas Aussenminister widerspricht dem US-Verteidigungsminister, der von gemeinsamer Kontrolle des Panamakanals gesprochen hatte.",
+              "summary": "Panama hat am Mittwoch Aussagen von US-Verteidigungsminister Pete Hegseth zurückgewiesen, wonach Washington und Panama den Panamakanal gemeinsam kontrollierten. «Kein anderes Land kontrolliert den Kanal. Panama allein kontrolliert ihn», sagte Aussenminister Javier Martínez-Acha. Die Sicherheitskooperation mit den USA übertrage weder Souveränität noch Kontrolle; betrieben wird der Kanal von der panamaischen Kanalbehörde.",
+              "gegenstimme": "Die US-Regierung begründet ihr Engagement mit dem chinesischen Einfluss am Kanal, etwa über Hafenbetreiber an beiden Enden, und sieht den Kanal als Schlüssel für die eigene Sicherheit; Hegseth betont die gemeinsame Verantwortung für dessen Schutz. Kritiker in Panama werfen der eigenen Regierung umgekehrt vor, mit Sicherheitsabkommen und Truppenpräsenz den USA schrittweise doch Einfluss eingeräumt zu haben.",
+              "sources": [
+                {
+                  "name": "La Prensa (Panama)",
+                  "url": "https://www.prensa.com/politica/martinez-acha-responde-a-hegseth-el-canal-es-de-los-panamenos/"
+                },
+                {
+                  "name": "Infobae",
+                  "url": "https://www.infobae.com/panama/2026/11/11/panama-rechaza-afirmacion-de-estados-unidos-sobre-control-conjunto-del-canal-y-defiende-su-soberania/"
+                },
+                {
+                  "name": "Xinhua",
+                  "url": "https://english.news.cn/20261112/0f43af3f99834456aaa7513681b7616b/c.html"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-11",
       "editions": {
