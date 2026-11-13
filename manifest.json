@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T12:16:50+01:00",
+  "updated": "2026-11-13T17:21:55+01:00",
   "days": [
     {
       "date": "2026-11-13",
@@ -661,6 +661,311 @@
                 {
                   "name": "heise online",
                   "url": "https://www.heise.de/news/SpaceX-und-Tesla-verhandeln-angeblich-intensiv-ueber-Fusion-Deal-noch-2026-11523662.html"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:45",
+          "articles": [
+            {
+              "id": "2026-11-13-jugenderwerbslosigkeit-rekord-12-6-prozent",
+              "slug": "jugenderwerbslosigkeit-rekord-12-6-prozent",
+              "title": "Erwerbslosigkeit der Jungen auf Rekordhoch: 12,6 Prozent im dritten Quartal",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "schweiz",
+              "icon": "📉",
+              "edition": "evening",
+              "kurz": "Die ILO-Erwerbslosenquote der 15- bis 24-Jährigen erreicht laut Tages-Anzeiger den höchsten Stand seit Messbeginn, die Gesamtquote steigt auf 5,6 Prozent.",
+              "summary": "Im dritten Quartal 2026 waren in der Schweiz laut Bundesamt für Statistik 288'000 Personen erwerbslos, 27'000 mehr als ein Jahr zuvor; die Erwerbslosenquote nach ILO stieg von 5,1 auf 5,6 Prozent. Bei den 15- bis 24-Jährigen lag sie bei 12,6 Prozent, mehr als doppelt so hoch wie der Durchschnitt. Gleichzeitig stieg die Zahl der Erwerbstätigen um 0,5 Prozent auf 5,387 Millionen.",
+              "gegenstimme": "Die ILO-Quote basiert auf einer Befragung und ist deutlich höher als die Seco-Arbeitslosenquote der registrierten Stellensuchenden, die im Quartal bei 3,0 Prozent lag. Wer nur die Seco-Zahl betrachtet, sieht eine weit weniger dramatische Lage. Umgekehrt weisen Kritiker darauf hin, dass die Beschäftigung vor allem bei Ausländern wächst (laut Ticinonews +1,4 Prozent), während junge Inländer und Hochschulabgänger Mühe haben, was Fragen zur Zuwanderung und zur Akademisierung aufwirft.",
+              "sources": [
+                {
+                  "name": "BFS – Medienmitteilung SAKE",
+                  "url": "https://www.bfs.admin.ch/de/newnsb/CXwrzhzqrnVn"
+                },
+                {
+                  "name": "BFS – Grafik Jugenderwerbslosigkeit",
+                  "url": "https://statistik.admin.ch/de/asset/36891074"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/jugendarbeitslosigkeit-12-6-prozent-rekord-in-der-schweiz-201866505134"
+                },
+                {
+                  "name": "Ticinonews",
+                  "url": "https://www.ticinonews.ch/svizzera/la-disoccupazione-sale-al-56-giovani-al-126-446525"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-e-voting-post-swisscom-2028",
+              "slug": "e-voting-post-swisscom-2028",
+              "title": "E-Voting: Swisscom betreibt ab 2028 Teile der Infrastruktur der Post",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "tech",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://res.cloudinary.com/deep-impact-ag/image/upload/c_crop,x_0,y_117,w_1024,h_576/c_fill,w_1200,dpr_1/q_auto/fl_progressive/f_auto/v1794496705/insideit/d740e17a-da16-43b4-8f10-1490515fa8bf_ppfwoj",
+              "kurz": "Die Post lagert den Betrieb öffentlicher Teile ihres E-Voting-Systems an Swisscom aus. Urnen und Stimmgeheimnis bleiben bei der Post.",
+              "summary": "Die Post hat nach einer Marktausschreibung Swisscom ausgewählt, ab Anfang 2028 Teile ihres E-Voting-Systems zu betreiben. Swisscom verarbeitet in ihren Schweizer Rechenzentren öffentliche Daten wie Abstimmungsfragen, Termine oder Angaben zu Kandidierenden. Die elektronischen Urnen und alle Systeme für die Verifizierbarkeit und das Stimmgeheimnis bleiben physisch bei der Post.",
+              "gegenstimme": "E-Voting-Kritiker sehen in jeder Auslagerung zusätzliche Angriffsflächen und Abhängigkeiten; erstmals berichtet hatte das kritische Digitalmagazin DNIP. Dass die Post die Infrastruktur «am Markt» bezieht, widerspricht aus ihrer Sicht dem Anspruch maximaler Kontrolle über ein demokratiekritisches System. Die Post hält dagegen, dass Quellcode, Protokoll und Verantwortung bei ihr bleiben und die Bundesvorgaben eingehalten werden.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/bei-e-voting-wollen-post-und-swisscom-k%c3%bcnftig-zusammenarbeiten/92377344"
+                },
+                {
+                  "name": "inside-it.ch",
+                  "url": "https://www.inside-it.ch/e-voting-post-und-swisscom-arbeiten-zukuenftig-zusammen-20261113"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-richemont-halbjahr-aktie-faellt",
+              "slug": "richemont-halbjahr-aktie-faellt",
+              "title": "Richemont steigert Gewinn um ein Drittel – Aktie fällt trotzdem",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "wirtschaft",
+              "icon": "💎",
+              "edition": "evening",
+              "kurz": "Der Genfer Luxuskonzern wächst im Halbjahr um 16 Prozent, doch das Schmuckgeschäft enttäuscht die Börse. Die Zahlen kamen wegen der Microsoft-Störung verspätet.",
+              "summary": "Richemont hat im ersten Halbjahr 2026/27 (bis Ende September) den Umsatz um 16 Prozent auf 12,3 Milliarden Euro gesteigert, der Betriebsgewinn stieg um ein Drittel auf 3,1 Milliarden Euro. Die Aktie verlor am Freitag dennoch zeitweise deutlich, gegen Mittag lag sie 5 Prozent tiefer bei 167.40 Franken. Die Veröffentlichung verzögerte sich wegen der weltweiten Microsoft-Störung.",
+              "gegenstimme": "Analysten von ZKB und Jefferies werten die Zahlen als Beleg, dass Richemont der am schnellsten wachsende Luxuskonzern ist; der Kursrückgang sei vor allem Gewinnmitnahme nach hohen Erwartungen. Skeptiker verweisen darauf, dass mehrere Einmaleffekte (u. a. ein Zolleffekt) den Gewinn aufblähen, das Wachstum im zweiten Quartal nachliess und China schwach bleibt.",
+              "sources": [
+                {
+                  "name": "cash.ch / AWP",
+                  "url": "https://www.cash.ch/news/richemont-mit-glanzendem-halbjahr-borse-trotzdem-enttauscht-985133"
+                },
+                {
+                  "name": "Finanz und Wirtschaft",
+                  "url": "https://www.fuw.ch/boerse/newsticker/202611130799/richemont-ergebnisse-verzoegern-sich-wegen-microsoft-ausfall"
+                },
+                {
+                  "name": "Investing.com",
+                  "url": "https://de.investing.com/news/stock-market-news/richemontaktie-gewinn-steigt-um-ein-drittel--warum-die-aktie-trotzdem-fallt-3766459"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-bern-medikamentenabgabe-kommission-uneins",
+              "slug": "bern-medikamentenabgabe-kommission-uneins",
+              "title": "Kanton Bern: Grossratskommission findet keine Lösung im Streit um Medikamentenabgabe",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "regional",
+              "icon": "💊",
+              "edition": "evening",
+              "image": "https://c.nau.ch/i/BJBmQ8/1360/680/unter-welchen-bedingungen-sollen-arztinnen-im-kanton-bern-medikamente-an-patienten-abgeben-konnen-der-grosse-rat-wird-dazu-eine-grundliche-debatte-fuhren-mussen-denn-selbst-die-v.jpg",
+              "kurz": "Ärzte gegen Apotheker: Die Gesundheitskommission des Grossen Rats gibt keine Empfehlung zur Selbstdispensation ab. Das Plenum muss in der Wintersession entscheiden.",
+              "summary": "Die Gesundheits- und Sozialkommission des Berner Grossen Rats kann sich nicht auf eine Neuregelung der direkten Medikamentenabgabe durch Ärztinnen und Ärzte (Selbstdispensation) einigen. Eine knappe Mehrheit beantragt, den Bericht des Regierungsrats nicht zur Kenntnis zu nehmen, und überlässt die Debatte dem Plenum in der Wintersession. Zuvor hatte bereits ein Runder Tisch keine Lösung gebracht.",
+              "gegenstimme": "Ärzteorganisationen argumentieren, die Abgabe von Medikamenten in der Praxis sei patientenfreundlich und helfe, Hausärzte aufs Land zu holen. Apotheker warnen, eine Lockerung gefährde Apotheken in mittelgrossen Orten und das Vier-Augen-Prinzip zwischen Verschreibung und Abgabe. Die Kommission selbst spricht von «verhärteten Fronten» in einigen wenigen Ortschaften, die eine patientengerechte Versorgung erschwerten.",
+              "sources": [
+                {
+                  "name": "Kanton Bern – Medienmitteilung",
+                  "url": "https://www.be.ch/fr/start/dienstleistungen/medien/medienmitteilungen.html?newsID=e3b8fb35-9cbf-4005-b415-47bf708f9521"
+                },
+                {
+                  "name": "Keystone-SDA / BärnerBär",
+                  "url": "https://baernerbaer.ch/politik/regional/grossratskommission-uneins-bei-medikamentenabgabe-durch-arzteschaft-67201904"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/bern-keine-empfehlung-bei-medikamentenabgabe-826427981745"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-stadt-bern-altkleider-lokale-verwertung",
+              "slug": "stadt-bern-altkleider-lokale-verwertung",
+              "title": "Stadt Bern prüft lokale Verwertung von Altkleidern",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "regional",
+              "icon": "👕",
+              "edition": "evening",
+              "kurz": "Der Stadtrat hat ein Postulat überwiesen: Der Gemeinderat soll prüfen, wie die jährlich rund 415 Tonnen Alttextilien vermehrt regional sortiert und verwertet werden.",
+              "summary": "Der Berner Stadtrat hat am Donnerstag ein Postulat erheblich erklärt, das eine stärker lokale Verwertung von Altkleidern verlangt. In der Stadt sammeln Tell-Tex und Texaid jährlich rund 415 Tonnen Alttextilien, ein grosser Teil wird exportiert. Der Gemeinderat soll nun prüfen, wie die Stadt Sortierung und Verwertung steuern kann, auch in Zusammenarbeit mit Nachbargemeinden.",
+              "gegenstimme": "Der Vorstoss spricht von «Abfallkolonialismus», weil exportierte Kleider teils in Ländern ohne Recycling-Infrastruktur landen. Kritiker solcher Eingriffe wenden ein, dass der Second-Hand-Export in Afrika und Osteuropa auch Arbeitsplätze und günstige Kleidung schafft und eine lokale Sortierung in der Schweiz teurer ist; wer die Mehrkosten trägt, ist offen.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-prueft-lokale-verwertung-von-alttextilien-619019587762"
+                },
+                {
+                  "name": "Premium Radio",
+                  "url": "https://premiumradio.ch/2026/11/13/stadt-bern-pruft-regionale-altkleider-verwertung/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-bundestag-nachrichtendienstreform-befugnisse",
+              "slug": "bundestag-nachrichtendienstreform-befugnisse",
+              "title": "Deutschland: Bundestag gibt BND und Verfassungsschutz weitreichende neue Befugnisse",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "politik",
+              "icon": "🕵️",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/d8498805-a053-4ad6-8618-dc875355bcbf/AAABoNPzfmk/AAABnSSvrFg/16x9-big/bundesnachrichtendienst-128.jpg?width=1280",
+              "kurz": "Heimliches Betreten von Wohnungen, Cyberangriffe, gezielte Falschinformationen: Der Bundestag hat die Reform mit 309 zu 190 Stimmen beschlossen.",
+              "summary": "Der Deutsche Bundestag hat am Freitag eine grundlegende Reform des Nachrichtendienstrechts beschlossen, mit 309 Ja- und 190 Nein-Stimmen bei 71 Enthaltungen. Der Verfassungsschutz darf künftig unter Bedingungen heimlich in Wohnungen eindringen, Infrastruktur von Angreifern mit Cyberattacken stören und gezielt Falschinformationen verbreiten; der BND darf im Ausland etwa Server staatlicher Hackergruppen lahmlegen. Festnahmen bleiben der Polizei vorbehalten.",
+              "gegenstimme": "AfD und Linke kritisieren die Ausweitung als überzogen und warnen vor einem Geheimdienst, der den Staat von innen bedroht; ein Bündnis von Bürgerrechtsorganisationen unter Führung der Humanistischen Union hatte bis zuletzt dagegen appelliert. Brisant: Der Bundesverfassungsschutz darf künftig die Zusammenarbeit mit einzelnen Landesämtern einschränken, eine Reaktion auf den AfD-Wahlsieg in Sachsen-Anhalt, was Kritiker als politisch motiviert sehen. Die Grünen tragen die BND-Reform mit, lehnen den Teil zum Verfassungsschutz aber ab.",
+              "sources": [
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-eu-ki-gipfel-dublin",
+              "slug": "eu-ki-gipfel-dublin",
+              "title": "Erster KI-Gipfel der EU in Dublin: Europa sucht Weg zwischen Aufholjagd und Regulierung",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "evening",
+              "image": "https://images.euronews.com/articles/stories/09/99/16/42/1200x675_cmsv2_77abbfee-571a-5fa7-974a-8c10ccd6387a-9991642.jpg",
+              "kurz": "Die Staats- und Regierungschefs diskutierten mit Mistral-Chef Arthur Mensch und Nobelpreisträger Geoffrey Hinton über KI-Souveränität und Risiken.",
+              "summary": "Die EU-Staats- und Regierungschefs haben sich am Freitag in Dublin zu ihrem ersten eigenen KI-Gipfel getroffen. Mit dabei waren Mistral-Chef Arthur Mensch und der Nobelpreisträger und KI-Pionier Geoffrey Hinton. Im Zentrum standen der Aufbau einer europäischen KI-Industrie, die Abhängigkeit von US- und chinesischer Technologie sowie Risiken für Gesellschaft, Sicherheit und Arbeitsplätze.",
+              "gegenstimme": "Wirtschaftsnahe Stimmen und KI-Firmen wie Mistral kritisieren, die EU reguliere zu früh und zu viel (AI Act) und verliere so den Anschluss; Parlamentspräsidentin Roberta Metsola widersprach, die EU habe das Rennen «keineswegs verloren». Am anderen Ende warnen Fachleute wie Hinton vor den Gefahren und fordern strengere Leitplanken. Konkrete Beschlüsse gab es beim informellen Treffen nicht.",
+              "sources": [
+                {
+                  "name": "Euronews / AFP",
+                  "url": "https://www.euronews.com/2026/11/13/eu-leaders-discuss-how-to-boost-europes-ai-industry-while-tackling-risks-at-dublin-summit"
+                },
+                {
+                  "name": "DW",
+                  "url": "https://www.dw.com/en/eu-leaders-gather-for-first-ever-ai-summit/a-79937463"
+                },
+                {
+                  "name": "Rat der EU",
+                  "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-openai-chatgpt-wallet",
+              "slug": "openai-chatgpt-wallet",
+              "title": "OpenAI startet «ChatGPT Wallet»: KI-Agenten sollen selbst einkaufen",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "tech",
+              "icon": "💳",
+              "edition": "evening",
+              "image": "https://images.ctfassets.net/kftzwdyauwt9/2xTvIZkcQhKk3VNFioQ4CR/4efb84a6adbddb41311f6b18158fad8b/introducing-chatgpt-wallet-social.png?w=1600&h=900&fit=fill",
+              "kurz": "Mit Visa, Mastercard und American Express: KI-Agenten zahlen mit Ersatz-Kartendaten, jede Zahlung braucht eine biometrische Freigabe.",
+              "summary": "OpenAI hat am Freitag «ChatGPT Wallet» vorgestellt, mit dem KI-Agenten im Auftrag der Nutzer Einkäufe bezahlen können. Statt der echten Kartendaten erhält der Händler ein Zahlungs-Token des Kartennetzwerks; jede Zahlung muss der Nutzer etwa per Face ID oder Fingerabdruck freigeben. Der Dienst startet für ChatGPT-Pro-Abonnenten ab 18 Jahren in den USA, entwickelt mit American Express, Mastercard und Visa.",
+              "gegenstimme": "Datenschützer und Konsumentenschützer sehen das Risiko, dass ein Konzern, der bereits Suchanfragen und Kaufabsichten von wöchentlich 1,2 Milliarden Nutzern kennt, nun auch Zahlungen kontrolliert. Händler müssen ihre Systeme anpassen, damit Agenten nicht als Bots blockiert werden. Offen ist zudem die Haftung, wenn ein Agent etwas Falsches kauft; OpenAI verweist auf die bestehenden Käuferschutzregeln der Karten.",
+              "sources": [
+                {
+                  "name": "OpenAI",
+                  "url": "https://openai.com/index/introducing-chatgpt-wallet/"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+                },
+                {
+                  "name": "The Next Web",
+                  "url": "https://thenextweb.com/news/chatgpt-wallet-openai-dots-agents-payments"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-schweden-regierungsbildung-zentrumspartei",
+              "slug": "schweden-regierungsbildung-zentrumspartei",
+              "title": "Schweden: Zentrumspartei entscheidet über die nächste Regierung",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "international",
+              "icon": "🇸🇪",
+              "edition": "evening",
+              "image": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/11/watermarks-logo-sdlUo1sEYcpyak_NormalHires.jpg@webp",
+              "kurz": "Sozialdemokraten und Moderate haben der Zentrumspartei bis Freitag 17 Uhr ihre «Gesamtpakete» vorgelegt. Ein Entscheid fällt frühestens nächste Woche.",
+              "summary": "Rund zwei Monate nach der Wahl vom September ist Schweden weiter ohne neue Regierung. Die Zentrumspartei unter Elisabeth Thand Ringqvist hat von Sozialdemokratin Magdalena Andersson und vom Moderaten Ulf Kristersson bis Freitag, 17 Uhr, umfassende Regierungsangebote verlangt; beide sagten die Abgabe zu. Kristersson bietet eine bürgerliche Minderheitsregierung aus Moderaten, Liberalen, Christdemokraten und Zentrum an.",
+              "gegenstimme": "Auf der Linken fordert die Linkspartei Ministerposten und verlangt von der Zentrumspartei ein klares Bekenntnis, was eine Mitte-links-Regierung erschwert. Auf der Rechten ist umstritten, ob eine bürgerliche Regierung erneut auf die Stimmen der Schwedendemokraten angewiesen wäre, die die Zentrumspartei ablehnt; Kritiker sehen darin die Ausgrenzung der zweitgrössten Partei. Kristersson beklagte «fast beleidigende» Töne gegenüber der Zentrumspartei.",
+              "sources": [
+                {
+                  "name": "The Local / TT",
+                  "url": "https://www.thelocal.se/20261113/swedish-party-leaders-race-to-meet-centre-partys-coalition-deadline"
+                },
+                {
+                  "name": "Reuters / The Straits Times",
+                  "url": "https://www.straitstimes.com/world/europe/swedens-rival-blocs-seek-centre-party-support-to-break-deadlock"
+                },
+                {
+                  "name": "Sveriges Radio",
+                  "url": "https://www.sverigesradio.se/artikel/behind-closed-doors-swedens-government-talks-enter-critical-stage"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-indonesien-vizepraesident-gibran-ruecktritt",
+              "slug": "indonesien-vizepraesident-gibran-ruecktritt",
+              "title": "Indonesien: Vizepräsident Gibran tritt nach Streit um seinen Schulabschluss zurück",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "international",
+              "icon": "🇮🇩",
+              "edition": "evening",
+              "kurz": "Der Sohn von Ex-Präsident Jokowi gibt nach einem Verfassungsgerichtsurteil und Amtsenthebungsdruck auf. Präsident Prabowo hat den Rücktritt angenommen.",
+              "summary": "Indonesiens Vizepräsident Gibran Rakabuming Raka (39) ist am Mittwochabend zurückgetreten; Präsident Prabowo Subianto hat den Rücktritt angenommen. Das Verfassungsgericht hatte im Oktober festgestellt, es gebe «keinen überzeugenden Beleg», dass Gibran einen Mittelschulabschluss besitzt, der gesetzlich für das Amt vorausgesetzt wird. Sein Rücktrittsschreiben nennt keinen Grund.",
+              "gegenstimme": "Gibrans Lager stellt den Fall als politische Kampagne dar: Er hat Schulen in Singapur und Australien besucht und einen Bachelor über ein Institut in Singapur erworben. Beobachter wie der Analyst Kennedy Muslim sehen im Rücktritt vor allem den Bruch zwischen Prabowo und Gibrans Vater, Ex-Präsident Joko Widodo; Prabowo könne so Jokowi-Getreue entmachten, konzentriere damit aber auch die Unzufriedenheit auf sich.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/indonesia-gibran-rakabuming-raka-resigns-abfe5e288fad3b8b26719eae634f2ee0"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/13/indonesia-vice-president-diploma-resignation-explained"
+                },
+                {
+                  "name": "ANTARA",
+                  "url": "https://en.antaranews.com/news/442051/gibran-resigns-as-vice-president-letter-gives-no-reason-mpr"
+                },
+                {
+                  "name": "Sekretariat Negara",
+                  "url": "https://www.setneg.go.id/baca/index/presiden_prabowo_menerima_surat_pernyataan_berhenti_wapres_gibran"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-gaza-nasser-spital-angriff-hamas-kommandant",
+              "slug": "gaza-nasser-spital-angriff-hamas-kommandant",
+              "title": "Gaza: Israel greift Nasser-Spital an – Ziel war laut Armee ein Hamas-Brigadekommandant",
+              "date": "2026-11-13",
+              "time": "17:45",
+              "category": "international",
+              "icon": "🏥",
+              "edition": "evening",
+              "image": "https://static.dw.com/image/79926894_6.jpg",
+              "kurz": "Laut Gesundheitsbehörden sechs Tote, darunter ein Chirurg. Israel sagt, die Hamas habe den zweiten Stock des Spitals als Kommandozentrale genutzt.",
+              "summary": "Die israelische Armee hat in der Nacht auf Donnerstag das Nasser-Spital in Khan Younis aus der Luft angegriffen. Ziel war laut Armee und Shin Bet Mohammed Abu Ismail, Kommandant der Khan-Younis-Brigade der Hamas, der dort mit weiteren Kämpfern eine Kommandozentrale betrieben habe. Die von der Hamas kontrollierten Gesundheitsbehörden melden mindestens sechs Tote, darunter den Chirurgen Rizk Abu Sharia, und über 20 Verletzte.",
+              "gegenstimme": "Die Hamas bestreitet die militärische Nutzung des Spitals und spricht von einem «Kriegsverbrechen»; 53 Staaten und Organisationen fordern ungehinderten humanitären Zugang. Israel verweist darauf, dass Spitäler ihren Schutz verlieren, wenn sie militärisch genutzt werden, und dass es vorher mehrfach gewarnt habe. Das von den USA initiierte «Board of Peace» verurteilte die Nutzung ziviler Infrastruktur durch die Hamas und die Todesopfer, aber nicht Israel.",
+              "sources": [
+                {
+                  "name": "DW (mit AP, Reuters, dpa)",
+                  "url": "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645"
+                },
+                {
+                  "name": "Ynet",
+                  "url": "https://www.ynetnews.com/article/sk00ufox0ml"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/ckzd9p7e4eqeo"
                 }
               ]
             }
