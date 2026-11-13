@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:20:03+01:00",
+  "updated": "2026-11-13T12:16:50+01:00",
   "days": [
     {
       "date": "2026-11-13",
@@ -417,6 +417,250 @@
                 {
                   "name": "NBC News",
                   "url": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:30",
+          "articles": [
+            {
+              "id": "2026-11-13-dobler-addor-ruecktritt-nationalrat",
+              "slug": "dobler-addor-ruecktritt-nationalrat",
+              "title": "Zwei Rücktritte im Nationalrat: Marcel Dobler (FDP) und Jean-Luc Addor (SVP) hören auf",
+              "date": "2026-11-13",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/393a3750849baed2d25ca1495651994f73e18f73-92375567.jpg?ver=8aa66815&fit=1200,900",
+              "kurz": "Digitec-Mitgründer Dobler und der Walliser SVP-Politiker Addor verlassen den Nationalrat Ende Februar 2027 – knapp ein Jahr vor den Wahlen.",
+              "summary": "Der St. Galler FDP-Nationalrat Marcel Dobler (46) hat am Freitag angekündigt, dass die Dezember-Session seine letzte sein wird; er will sich beruflich neu orientieren. Für ihn rückt die St. Galler Kantonsratspräsidentin Andrea Abderhalden nach. Unabhängig davon tritt der Walliser SVP-Nationalrat Jean-Luc Addor (62) per 28. Februar 2027 zurück; Nachfolger wird der Sittener Stadtrat Cyrille Fauchère.",
+              "gegenstimme": "Rücktritte kurz vor Wahlen werden oft als taktisches Manöver kritisiert: Addor sagt selbst, ein amtierender Nachfolger auf der Liste solle der SVP im Unterwallis helfen, einen zweiten Sitz zu holen. Kritiker sehen darin eine Art «Erbfolge», bei der Nachrückende einen Bisherigen-Bonus erhalten, ohne vom Volk direkt gewählt zu sein. Doblers Argument, ein Mandat koste Unternehmer rund die Hälfte der Arbeitszeit, wird umgekehrt als Hinweis gelesen, dass das Milizparlament für Selbstständige zunehmend unattraktiv ist.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/marcel-dobler-tritt-aus-dem-nationalrat-zur%C3%BCck/92375580"
+                },
+                {
+                  "name": "stgallen24",
+                  "url": "https://stgallen24.ch/articles/418937-hoechste-st-gallerin-zieht-ins-bundeshaus"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/regions/valais/2026/article/l-udc-jean-luc-addor-quitte-le-conseil-national-a-la-fin-fevrier-29414572.html"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-bern-arbeitsintegration-ausschreibung-ohne-zuschlag",
+              "slug": "bern-arbeitsintegration-ausschreibung-ohne-zuschlag",
+              "title": "Kanton Bern bricht Ausschreibung für Arbeitsintegration in der Sozialhilfe ohne Zuschlag ab",
+              "date": "2026-11-13",
+              "time": "12:30",
+              "category": "regional",
+              "icon": "🏢",
+              "edition": "midday",
+              "kurz": "In drei von vier Regionen ging keine einzige Offerte ein – jetzt soll ein Runder Tisch mit Gemeinden und Sozialdiensten eine Lösung finden.",
+              "summary": "Die Gesundheits-, Sozial- und Integrationsdirektion (GSI) von SVP-Regierungsrat Pierre Alain Schnegg hat die Neuausschreibung der Beschäftigungs- und Integrationsangebote der Sozialhilfe (BIAS) ohne Zuschlag beendet. In drei von vier Regionen ging kein Angebot ein; das einzige, von der Stiftung Intact für Emmental-Oberaargau, wurde nicht berücksichtigt, weil der Kanton ein einheitliches System will. Im ersten Quartal 2027 soll ein Runder Tisch stattfinden.",
+              "gegenstimme": "Die Städte Bern und Biel sowie mehrere Oberaargauer Gemeinden hatten schon im August auf eine Teilnahme verzichtet und das neue System als finanziell nicht tragbar und fachlich mangelhaft kritisiert; für sie bestätigt das Scheitern ihre Warnungen. Der Kanton hält dagegen, das heutige System sei überholt: Bezahlt werde nach Auslastung statt nach Ergebnis, die Nachfrage sei gesunken und es gebe Fehlanreize bei den Zuweisungen. Offen ist, ob eine Reform nun am Widerstand der Anbieter oder an der Ausgestaltung des Kantons gescheitert ist.",
+              "sources": [
+                {
+                  "name": "Kanton Bern (Medienmitteilung GSI, via Public)",
+                  "url": "https://pubt.io/view/DA0AF6C9C1CCE70ECFA99E2A43E86A7AE63CC493"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/kanton-bern-l%c3%a4uft-mit-neuausschreibung-der-arbeitsintegration-auf/92375338"
+                },
+                {
+                  "name": "Stadt Bern (Mitteilung zum Verzicht)",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/ausschreibung-arbeitsintegration-biel-bern-und-maxi-mumm-nehmen-nicht-teil"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-zuerich-mindestlohn-ab-2027",
+              "slug": "zuerich-mindestlohn-ab-2027",
+              "title": "Stadt Zürich setzt Mindestlohn von 23.90 Franken per 1. Januar 2027 in Kraft",
+              "date": "2026-11-13",
+              "time": "12:30",
+              "category": "wirtschaft",
+              "icon": "💰",
+              "edition": "midday",
+              "image": "https://www.watson.ch/imgdb/2d00/Z1200,675,1344,869,201,201/4688700115167621",
+              "kurz": "Dreieinhalb Jahre nach dem Volks-Ja gilt in Zürich ab Neujahr ein Mindestlohn – Betriebe haben aber bis Ende 2027 Zeit.",
+              "summary": "Der Zürcher Stadtrat setzt die städtische Mindestlohnverordnung per 1. Januar 2027 in Kraft: Wer mehrheitlich in der Stadt arbeitet, hat Anspruch auf mindestens 23.90 Franken brutto pro Stunde. Arbeitgebende erhalten eine Übergangsfrist bis 31. Dezember 2027, Betriebe in nachweislichen finanziellen Schwierigkeiten auf Antrag zwei weitere Jahre. Rekursen entzieht der Stadtrat die aufschiebende Wirkung.",
+              "gegenstimme": "Gewerbe und bürgerliche Parteien hatten den kommunalen Mindestlohn bis vor Bundesgericht bekämpft: Lohnpolitik sei Sache der Sozialpartner und des Kantons, nicht einer Gemeinde, und ein Mindestlohn gefährde gerade einfache Stellen in Gastronomie und Detailhandel. Von links kommt die gegenteilige Kritik: Der Gewerkschaftsbund des Kantons Zürich bemängelt, dass Kontrollen erst ab 2028 stattfinden, die rund 17 000 Tieflohnbeschäftigten also noch länger warten müssten.",
+              "sources": [
+                {
+                  "name": "Stadt Zürich (Medienmitteilung)",
+                  "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/11/staedtische-mindestlohn-verordnung-tritt-per-1-januar-2027-in-kraft.html"
+                },
+                {
+                  "name": "watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/wirtschaft/arbeitswelt/719799605-23-90-franken-mindestlohn-in-zuerich-kommt-am-1-januar-2027"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-waadt-staatsrat-streik-unzulaessig",
+              "slug": "waadt-staatsrat-streik-unzulaessig",
+              "title": "Waadt: Regierung erklärt geplanten Streik des Staatspersonals für unzulässig",
+              "date": "2026-11-13",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "✊",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/fbeff6c.jpg",
+              "kurz": "Nach dem Ja zur Steuersenkung um 12 Prozent muss die Waadt sparen – die Gewerkschaften drohen mit Streik, die Regierung hält ihn für rechtswidrig.",
+              "summary": "Der Waadtländer Staatsrat hält einen Streik des Staatspersonals gegen die Sparmassnahmen im Budget 2027 für unzulässig und ruft die Angestellten auf, nicht mitzumachen; Sanktionen plant er vorerst nicht. Die Gewerkschaften FSF, SSP und SUD verlangen den Rückzug aller Sparanträge, die nach dem Volks-Ja zur Senkung der Einkommens- und Vermögenssteuern um 12 Prozent nötig wurden. Rund 8000 Staatsangestellte hatten letzte Woche in Lausanne demonstriert.",
+              "gegenstimme": "Die Gewerkschaften sehen im Entscheid einen Angriff auf das Streikrecht und verlangen, die Steuerausfälle aus Reserven oder Sondereinnahmen zu decken. Auf der anderen Seite steht ein klarer Volksentscheid für tiefere Steuern; Befürworter der Initiative argumentieren, der Staat müsse nun seine Ausgaben anpassen statt das Ergebnis zu umgehen. SP-Regierungsrat Roger Nordmann bezeichnete das Ja öffentlich als «idiotisch» und «katastrophal».",
+              "sources": [
+                {
+                  "name": "Kanton Waadt (Medienmitteilung)",
+                  "url": "https://www.vd.ch/actualites/communiques-de-presse-de-letat-de-vaud/detail/communique/budget-2027-le-conseil-detat-precise-sa-position-sur-la-liceite-de-la-greve"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/proteste-gegen-sparmassnahmen-waadtlaender-regierung-muss-steuern-senken"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-trump-vance-iran-kein-deal",
+              "slug": "trump-vance-iran-kein-deal",
+              "title": "Trump zieht Vance von Iran-Verhandlungen ab: «Wir brauchen keinen Deal mit Iran»",
+              "date": "2026-11-13",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🇺🇸",
+              "edition": "midday",
+              "image": "https://image.cnbcfm.com/api/v1/image/108505564-1793647809750-gettyimages-2303172099-1r1_3097_hdo4pans.jpeg?v=1793727961&w=1920&h=1080",
+              "kurz": "Neun Monate nach Kriegsbeginn erklärt Trump die Verhandlungen mit Teheran für überflüssig und setzt auf Blockade und Sanktionen.",
+              "summary": "US-Präsident Donald Trump hat Vizepräsident JD Vance von den Verhandlungen mit Iran abgezogen und erklärt, die USA bräuchten keinen Deal mehr: «Wir haben ihr Geld, Hunderte Milliarden Dollar, und wir haben ihre Meerenge.» Vance soll sich stattdessen um «Korruption und Kriminalität» in demokratisch regierten Städten und Bundesstaaten kümmern. Der Schritt folgt auf einen Bericht, wonach Vance direkte Gespräche mit einem hohen iranischen Sicherheitsvertreter erwog.",
+              "gegenstimme": "Kritiker in den USA sehen den Schritt als innenpolitisch motiviert: Vance hatte die Niederlage der Republikaner bei den Zwischenwahlen offen dem Irankrieg zugeschrieben («Der Grund, warum wir verloren haben, ist der Krieg»), Trump lenkt nun das Thema auf Korruption in Blue States. Unterstützer argumentieren, die Seeblockade und Sanktionen wirkten bereits und Iran sei militärisch geschwächt; Verhandlungen hätten Teheran nur Zeit verschafft. Israelische Stellen halten die Gespräche laut Berichten noch nicht für endgültig gescheitert.",
+              "sources": [
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
+                },
+                {
+                  "name": "USA Today",
+                  "url": "https://www.usatoday.com/story/news/politics/2026/11/12/trump-iran-war-peace-deal-vance-negotiations/92747890007/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-trump-mexiko-zoelle-migrantenkarawane",
+              "slug": "trump-mexiko-zoelle-migrantenkarawane",
+              "title": "Trump droht Mexiko mit doppelten Zöllen wegen Migrantenkarawane",
+              "date": "2026-11-13",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🛂",
+              "edition": "midday",
+              "image": "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/courthousenews.com/2025/12/sheinbaum-blue-suit.jpg/w=1096,h=731,fit=scale-down",
+              "kurz": "Über tausend Migranten ziehen von Chiapas Richtung Norden – Trump verlangt, dass Mexiko sie stoppt, Sheinbaum winkt ab.",
+              "summary": "US-Präsident Donald Trump droht, die Zölle auf mexikanische Waren «sofort» zu verdoppeln, falls Mexiko eine Migrantenkarawane nicht aufhält, die am Dienstag in Tapachula an der Grenze zu Guatemala aufgebrochen ist. Schätzungen zur Grösse reichen von 1000 bis 2000 Personen. Präsidentin Claudia Sheinbaum erklärte, seit Trumps Amtsantritt habe keine Karawane die US-Grenze erreicht, Mexiko begleite die Gruppen ohne Repression.",
+              "gegenstimme": "Sheinbaum stellt die Lage als unter Kontrolle dar: Eine erste Karawane sei von rund 600 auf unter 100 Personen geschrumpft, die meisten Migranten kehrten heim. Grenzschützer und Trump-Anhänger verweisen dagegen darauf, dass Migranten Medien gegenüber offen sagten, der Wahlsieg der Demokraten habe ihnen neue Hoffnung gemacht, in die USA zu gelangen; ohne Druck auf Mexiko drohe ein neuer Ansturm. Ökonomen warnen, doppelte Zölle träfen vor allem Texas, das 2025 Waren für 301,8 Milliarden Dollar mit Mexiko handelte.",
+              "sources": [
+                {
+                  "name": "Courthouse News Service",
+                  "url": "https://courthousenews.com/sheinbaum-downplays-migrant-caravans-as-trump-threatens-more-tariffs/"
+                },
+                {
+                  "name": "Texas Public Radio",
+                  "url": "https://www.tpr.org/border-immigration/2026-11-12/trump-threatens-to-double-mexico-tariffs-as-migrants-head-north?_amp=true"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-ukraine-russland-groesster-gefangenenaustausch",
+              "slug": "ukraine-russland-groesster-gefangenenaustausch",
+              "title": "Ukraine und Russland vereinbaren grössten Gefangenenaustausch seit Kriegsbeginn",
+              "date": "2026-11-13",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🔄",
+              "edition": "midday",
+              "image": "https://media.interfax.com.ua/media/thumbs/images/2026/05/lleql/csZYS-d2pGbm.jpg",
+              "kurz": "Nach den Gesprächen in Abu Dhabi sollen über tausend Kriegsgefangene pro Seite ausgetauscht werden; Europa soll in der nächsten Runde mit am Tisch sitzen.",
+              "summary": "Die Ukraine und Russland haben sich unter US-Vermittlung auf den grössten Austausch von Kriegsgefangenen seit Kriegsbeginn geeinigt, wie Präsident Wolodimir Selenski nach einem Treffen mit den US-Gesandten Steve Witkoff und Jared Kushner in Dublin sagte. Laut dem russischen Unterhändler Alexander Sorin (via Tass) sollen mehr als 1000 Gefangene pro Seite in den nächsten zwei bis drei Wochen freikommen. Europa soll in der nächsten Verhandlungsrunde direkt Teil des Verhandlungsteams sein.",
+              "gegenstimme": "Skeptiker erinnern daran, dass frühere Austausche keine Bewegung in den Kernfragen Gebiete und Sicherheitsgarantien brachten; selbst US-Aussenminister Marco Rubio sprach von «viel Arbeit». Kritische Stimmen in Europa, etwa die Weltwoche, monieren, Selenski wolle mitbestimmen, welche Europäer am Tisch sitzen. EU-Aussenbeauftragte Kaja Kallas wiederum warnt, Moskaus Ruf nach einer neuen europäischen Sicherheitsarchitektur lenke von einem Waffenstillstand ab.",
+              "sources": [
+                {
+                  "name": "Interfax-Ukraine",
+                  "url": "https://en.interfax.com.ua/news/general/1235889.html"
+                },
+                {
+                  "name": "The Independent",
+                  "url": "https://www.independent.co.uk/news/world/europe/ukraine-prisoners-russia-exchange-peace-talks-b3083557.html"
+                },
+                {
+                  "name": "Anadolu (EU-Sanktionspaket)",
+                  "url": "https://www.aa.com.tr/en/world/eu-preparing-22nd-russia-sanctions-package-ukraine-funding-plan/4122379"
+                },
+                {
+                  "name": "Weltwoche (Meinung)",
+                  "url": "https://weltwoche.de/daily/unverschaemt-erst-wollte-selenskyj-geld-jetzt-will-er-entscheiden-welcher-europaeer-an-friedensgespraechen-teilnimmt/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-quantum-systems-cyberangriff-bundeswehr",
+              "slug": "quantum-systems-cyberangriff-bundeswehr",
+              "title": "Cyberangriff auf Drohnenhersteller Quantum Systems: Bundeswehr setzt Drohnen vorsorglich aus",
+              "date": "2026-11-13",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "midday",
+              "image": "https://www.golem.de/2611/215162-608287-608284.jpg",
+              "kurz": "Angreifer schleusten Schadsoftware über den Update-Server der Missionsplanungssoftware ein – Geheimdienste ermitteln.",
+              "summary": "Beim bayerischen Drohnenhersteller Quantum Systems haben Angreifer eine manipulierte Update-Datei über einen internen Server verbreitet, der Aktualisierungen für die Bodenkontroll- und Missionsplanungssoftware QBase ausliefert. Die Bundeswehr hat den Einsatz der Systeme des Herstellers laut Spiegel und Financial Times vorsorglich gestoppt. Das Unternehmen bestätigte einen «aktiven Cyberangriff durch feindliche Akteure», der Ende Oktober entdeckt und eingedämmt worden sei.",
+              "gegenstimme": "Das Unternehmen betont, die Bedrohung sei mit den Behörden rasch eingedämmt worden, und es gebe keine Hinweise, dass die Drohnen selbst manipuliert wurden. Sicherheitsexperten halten den Vorfall dennoch für gravierend, weil ein kompromittierter Update-Kanal bei Rüstungsgütern genau das Szenario ist, vor dem Lieferkettenwarnungen seit Jahren warnen. Rasche Zuschreibungen an Russland sind bisher nicht belegt.",
+              "sources": [
+                {
+                  "name": "Golem",
+                  "url": "https://www.golem.de/news/nach-cyberangriff-bundeswehr-legt-quantum-drohnen-offenbar-still-2611-215162.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/13/bundeswehr-besorgt-nach-cyberangriff-auf-deutschen-drohnen-hersteller-quantum"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-spacex-tesla-fusion-dezember",
+              "slug": "spacex-tesla-fusion-dezember",
+              "title": "SpaceX und Tesla verhandeln über Fusion – Ankündigung womöglich schon im Dezember",
+              "date": "2026-11-13",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🚀",
+              "edition": "midday",
+              "image": "https://dam.mediacorp.sg/image/upload/s--7hhWewc8--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-12T204241Z_2_LYNXNPEMAB26X_RTROPTP_3_SPACEX-STOCKS-TESLA.JPG?itok=TPADv5RG",
+              "kurz": "Elon Musks grösste Firmen könnten zu einem Konzern im Wert von geschätzt 3,5 Billionen Dollar verschmelzen.",
+              "summary": "SpaceX und Tesla kommen laut Bloomberg bei Fusionsgesprächen voran; eine Ankündigung sei schon im Dezember möglich, könne sich aber auf Anfang 2027 verschieben. Verwaltungsräte und Berater verhandeln demnach über Bedingungen und Führungsstruktur des kombinierten Konzerns, dessen Wert auf rund 3,5 Billionen Dollar geschätzt wird. Musk hatte die Idee im Oktober eine «gute Idee» genannt.",
+              "gegenstimme": "Kritiker sehen erhebliche Interessenkonflikte: SpaceX ist ein zentraler Auftragnehmer des US-Militärs, Tesla hat grosse Produktionskapazitäten in China, und gerade erst warf die Ukraine SpaceX vor, Starshield-Verbindungen gedrosselt zu haben. Demokraten, die im Januar beide Kongresskammern übernehmen, haben angekündigt, Musks Firmen genauer zu prüfen. Befürworter verweisen auf Synergien bei KI, Robotik und Energie.",
+              "sources": [
+                {
+                  "name": "The Verge (nach Bloomberg)",
+                  "url": "https://www.theverge.com/science/1032350/spacex-tesla-mega-merger-could-come-as-soon-as-december"
+                },
+                {
+                  "name": "CNA / Reuters",
+                  "url": "https://www.channelnewsasia.com/business/spacex-tesla-merger-talks-progress-bloomberg-news-reports-6547466"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/SpaceX-und-Tesla-verhandeln-angeblich-intensiv-ueber-Fusion-Deal-noch-2026-11523662.html"
                 }
               ]
             }
