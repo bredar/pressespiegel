@@ -1,6 +1,429 @@
 {
-  "updated": "2026-11-12T17:17:25+01:00",
+  "updated": "2026-11-13T06:20:03+01:00",
   "days": [
+    {
+      "date": "2026-11-13",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-13-kriegsmaterialgesetz-nichtwiederausfuhr-abstimmung",
+              "slug": "kriegsmaterialgesetz-nichtwiederausfuhr-abstimmung",
+              "title": "Kriegsmaterialgesetz: Schweiz will auf Weitergabe-Verbot weitgehend verzichten",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/0b8c0a.jpg",
+              "kurz": "Am 29. November entscheidet das Volk über das revidierte Kriegsmaterialgesetz – das 75 Jahre alte «Ehrenwort» gegen Weitergabe würde zur Ausnahme.",
+              "summary": "Mit dem revidierten Kriegsmaterialgesetz, über das am 29. November abgestimmt wird, kann der Bundesrat eine Nichtwiederausfuhrerklärung nur noch verlangen, wenn aussen-, neutralitäts- oder sicherheitspolitische Gründe es erfordern. Bei Einzelteilen und Baugruppen in internationalen Lieferketten wird grundsätzlich darauf verzichtet. In der ersten SRG-Umfrage lag das Ja bei 49 Prozent, das Nein bei 41 Prozent, 10 Prozent waren unentschieden.",
+              "gegenstimme": "Die Gegner (u. a. Grüne, Nationalrat Gerhard Andrey) befürchten, dass Schweizer Waffen in Länder wie Sudan oder Jemen gelangen könnten; die Lausanner Völkerrechtlerin Evelyn Schmid sieht gar einen Konflikt mit dem UNO-Waffenhandelsvertrag. Die Befürworter (u. a. Mitte-Nationalrat Reto Nause) halten dagegen, ohne Lockerung kauften die rund 36 Partnerländer, viele davon Nato-Staaten, keine Schweizer Systeme mehr; Verstösse habe es auch unter dem strengen Recht gegeben, etwa bei M109-Haubitzen, die über die Emirate nach Marokko gelangten.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/nichtwiederausfuhrerklaerungen-kriegsmaterial-lieferungen-kuenftig-ohne-diplomatisches-ehrenwort"
+                },
+                {
+                  "name": "Fedlex (Gesetzestext BBl 2026 22)",
+                  "url": "https://www.fedlex.admin.ch/eli/fga/2026/22/de"
+                },
+                {
+                  "name": "gfs.bern (SRG-Trendumfrage)",
+                  "url": "https://www.gfsbern.ch/de/news/1-srg-trendumfrage-zur-eidg-abstimmung-vom-29-november-2026/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-srg-ukw-comeback",
+              "slug": "srg-ukw-comeback",
+              "title": "SRG-Radios sind wieder auf UKW – für 6,5 Millionen Franken pro Jahr",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "📻",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/197339.jpg",
+              "kurz": "Knapp zwei Jahre nach der Abschaltung senden SRF, RTS und RSI wieder analog – an gut 30 Standorten für rund 80 Prozent der Bevölkerung.",
+              "summary": "Die SRG hat am Donnerstag ihre UKW-Sender wieder in Betrieb genommen. Alle gut 30 Standorte sind laut SRG auf Sendung und erreichen rund 80 Prozent der Bevölkerung, vor allem in Städten, Agglomerationen und entlang der Autobahnen. Gesendet wird auf den alten Frequenzen; die Zusatzkosten betragen rund 6,5 Millionen Franken pro Jahr.",
+              "gegenstimme": "Für die Kritiker der damaligen Abschaltung ist das Comeback das Eingeständnis eines Fehlers: Die SRG hatte UKW Ende 2024 abgestellt, während viele Privatradios weiter analog sendeten, und verlor laut Mediapulse-Daten rund ein Viertel ihrer Hörerschaft. Umgekehrt fragen Sparbefürworter, warum die gebührenfinanzierte SRG mitten im vom Bundesrat verordneten Sparprogramm Millionen in eine auslaufende Technik steckt, obwohl fast neun von zehn Radiominuten bereits über DAB+ und Internet laufen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/nicht-nur-digitales-radio-srf-sender-sind-wieder-auf-ukw-empfangbar"
+                },
+                {
+                  "name": "persoenlich.com",
+                  "url": "https://www.persoenlich.com/medien/alle-ukw-standorte-wieder-auf-sendung"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/srg-ukw-radio-kehrt-fuer-80-prozent-der-schweiz-zurueck-887279425393"
+                },
+                {
+                  "name": "Radio World",
+                  "url": "https://www.radioworld.com/global/analog-fm-returns-to-switzerlands-srg-ssr"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-bundesgericht-alternierende-obhut-30-prozent",
+              "slug": "bundesgericht-alternierende-obhut-30-prozent",
+              "title": "Bundesgericht: Geteilte Obhut erst ab 30 Prozent Betreuung im Alltag",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/690c5f.jpg",
+              "kurz": "Leitentscheid: Wer weniger als 13 von 42 Halbtagen und Nächten betreut, hat keine alternierende Obhut – Ferien zählen nicht.",
+              "summary": "Das Bundesgericht hat in einem Leitentscheid (5A_280/2025) festgelegt, wann eine alternierende Obhut vorliegt: Jeder Elternteil muss das Kind in einer Zweiwochenperiode mindestens 13 von 42 Einheiten (Vormittag, Nachmittag, Nacht) betreuen, also mehr als 30 Prozent. Ferien werden grundsätzlich nicht mitgezählt. Ein Vater aus dem Kanton Schwyz, der seinen Sohn jedes zweite Wochenende und neun Wochen Ferien pro Jahr betreut, blitzte ab und muss den gesamten Barunterhalt tragen.",
+              "gegenstimme": "Väterorganisationen und Teile der Politik dürften das Urteil als Rückschlag sehen: Wer neun Wochen Ferien rund um die Uhr betreut, gilt rechtlich weniger als jemand, dem schlafende Nächte als volle Betreuung angerechnet werden. Das Gericht begründet den Ausschluss der Ferien mit dem «Mental Load» des Alltags, was SRF selbst als nicht für alle einleuchtend bezeichnet. Befürworter sehen dagegen mehr Rechtssicherheit, weil kantonale Gerichte die Frage bisher sehr unterschiedlich beantwortet hatten.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/familienrecht-bundesgericht-definiert-alternierende-obhut-die-30-prozent-regel"
+                },
+                {
+                  "name": "Bundesgericht (Urteil 5A_280/2025, via BGEx)",
+                  "url": "https://bgex.ch/fr/bger/5a_280-2025"
+                },
+                {
+                  "name": "swissblawg",
+                  "url": "https://swissblawg.ch/2026/11/5a_280-2025-alternierende-obhut-mindestbetreuungsanteil-und-berechnung-der-betreuungsanteile-amtl-publ.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-egmr-verurteilt-schweiz-polizeigewalt-genf",
+              "slug": "egmr-verurteilt-schweiz-polizeigewalt-genf",
+              "title": "Strassburg verurteilt die Schweiz wegen Polizeigewalt in Genf",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "morning",
+              "kurz": "Der EGMR stuft einen Polizeieinsatz von 2018 als unverhältnismässig ein – obwohl Genfer Justiz und Bundesgericht ihn gebilligt hatten.",
+              "summary": "Der Europäische Gerichtshof für Menschenrechte (EGMR) hat die Schweiz wegen eines Polizeieinsatzes in Genf im Jahr 2018 verurteilt. Die Gewalt gegen einen psychisch kranken Mann sei unverhältnismässig gewesen und verletze das Verbot unmenschlicher und erniedrigender Behandlung (Art. 3 EMRK); zudem seien die Ermittlungen ungenügend gewesen. Die Schweiz muss rund 10'000 Franken Genugtuung und laut Blick 14'000 Franken Verfahrenskosten bezahlen.",
+              "gegenstimme": "Die Polizisten bestreiten, den Mann nach seiner Fixierung noch geschlagen zu haben. Der Mann hatte sich einer Drogenkontrolle an einem Genfer Heroin-Treffpunkt widersetzt, einem Polizisten das Knie in den Unterleib gerammt und war in ein Auto geflüchtet; er wurde später selbst wegen Gewalt gegen die Beamten verurteilt. Genfer Polizeiaufsicht, kantonale Justiz und Bundesgericht hielten den Einsatz für gerechtfertigt. Kritiker des Strassburger Gerichts sehen darin erneut eine Einmischung in die Würdigung nationaler Gerichte.",
+              "sources": [
+                {
+                  "name": "Watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/221710926-menschenrechtsgerichtshof-verurteilt-schweiz-wegen-polizeigewalt"
+                },
+                {
+                  "name": "Le Temps",
+                  "url": "https://www.letemps.ch/de/schweiz/genf/egmr-verurteilt-die-schweiz-wegen-polizeigewalt-in-genf"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-schweiz/m3hm05t"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-cremo-buendelt-produktion-villars-sur-glane",
+              "slug": "cremo-buendelt-produktion-villars-sur-glane",
+              "title": "Milchverarbeiter Cremo bündelt alles in Villars-sur-Glâne – rund 260 Stellen betroffen",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "🧀",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/a1b9685.jpg",
+              "kurz": "Cremo will bis 2030 nur noch am Freiburger Hauptsitz produzieren und fünf Standorte abgeben; das Wallis bangt um den Raclette AOP.",
+              "summary": "Der zweitgrösste Schweizer Milchverarbeiter Cremo konzentriert seine Produktion bis 2030 am Hauptsitz in Villars-sur-Glâne FR und beschränkt sich auf Butter und Milchfette, Milchpulver und Proteine sowie Käse, vor allem AOP. Die Standorte Düdingen, Siders, Turtmann, Le Mont-sur-Lausanne und Meyrin sollen verkauft oder aufgegeben werden. Von rund 650 Mitarbeitenden bleiben etwa 60 Prozent; für die übrigen rund 260 hofft Cremo auf Übernahmen durch Käufer.",
+              "gegenstimme": "CEO Xavier Monange spricht von «null Entlassungen» als Ziel, räumt aber gegenüber SRF ein, dass schwierige Entscheide unvermeidlich seien; einen Sozialplan gibt es noch nicht. Im Wallis spricht die Landwirtschaftsverwaltung von einem «Wendepunkt» für die Käsebranche und verweist auf über 40 Millionen Franken öffentliche Gelder, die in zehn Jahren in Walliser Käsereien flossen. Der Kanton Freiburg begrüsst den Schritt und will sich nicht einmischen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/kurswechsel-bis-2030-radikaler-umbau-cremo-buendelt-produktion-im-kanton-freiburg"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/economie/2026/article/cremo-veut-regrouper-ses-activites-a-villars-sur-glane-d-ici-2030-29414138.html"
+                },
+                {
+                  "name": "Blick (Romandie)",
+                  "url": "https://www.blick.ch/fr/suisse/romande/cremo-restructuration-et-dizaines-demplois-en-peril/smrc0z1"
+                },
+                {
+                  "name": "Cremo (Medienmitteilung)",
+                  "url": "https://cremo.ch/en/groupe/actualite-medias/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-just-eat-droht-kurieren-fristlose-kuendigung",
+              "slug": "just-eat-droht-kurieren-fristlose-kuendigung",
+              "title": "Nach Streik und Protest in Bern: Just Eat droht Kurieren mit fristloser Kündigung",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🚲",
+              "edition": "morning",
+              "image": "https://www.watson.ch/imgdb/9b17/Z1200,675,3139,1661,471,471/6522359430952751",
+              "kurz": "Just Eat hat Kuriere abgemahnt, die während des Streiks Schichten verpassten. Das Unternehmen spricht von einem Standardprozess.",
+              "summary": "Der Essenslieferant Just Eat hat Kurierinnen und Kuriere abgemahnt, die während des Streiks vom vergangenen Wochenende in Zürich und im Glatttal eine Schicht verpasst haben, und droht im Wiederholungsfall mit fristloser Kündigung. Das berichtete Blick am Donnerstag, am selben Tag, an dem Kuriere vor dem Berner Rathaus protestierten. Hintergrund ist der Plan, 373 angestellte Kuriere zu entlassen und künftig mit Selbständigen zu arbeiten.",
+              "gegenstimme": "Just Eat bestreitet einen Zusammenhang mit dem Streik: Es handle sich um einen «regulären Standardprozess», wenn Mitarbeitende unentschuldigt nicht zur Schicht erscheinen. Aus Sicht des Unternehmens ist der Umbau auf Selbständige im Wettbewerb mit Uber Eats nötig. Gewerkschaften sehen dagegen einen Einschüchterungsversuch und kritisieren das «Modell Uber» als Aushöhlung des Arbeitnehmerschutzes.",
+              "sources": [
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/just-eat-droht-streikenden-mit-fristloser-kuendigung/12y5n8j"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/831821330-just-eat-droht-seinen-streikenden-kurieren-mit-fristloser-kuendigung"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/just-eat-kuriere-protestieren-in-bern/92372653"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-microsoft-365-stoerung-outlook-teams",
+              "slug": "microsoft-365-stoerung-outlook-teams",
+              "title": "Microsoft 365: Stundenlange Störung legt Outlook, Teams und Copilot lahm",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/8/0/6/Unbenannt-25f65445ed698087.png?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Ein überlasteter Kernprozess liess am Donnerstagabend weltweit Server ausfallen; Zehntausende Nutzer konnten nicht auf E-Mail und Teams zugreifen.",
+              "summary": "Eine weltweite Störung bei Microsoft 365 hat ab Donnerstagabend (Schweizer Zeit) Exchange Online, Outlook, Teams, SharePoint, Copilot und weitere Cloud-Dienste beeinträchtigt. Laut Microsoft fiel eine ungewöhnlich grosse Zahl von Servern bei automatisierten Health-Checks aus, die verbleibende Infrastruktur wurde überlastet. Erst gegen Mitternacht entspannte sich die Lage teilweise.",
+              "gegenstimme": "Microsoft betont, die Überlastung sei nicht durch einen allgemeinen Verkehrsanstieg entstanden, sondern durch ausgefallene Server. Kritiker der Cloud-Abhängigkeit sehen den Ausfall als weiteren Beleg für das Klumpenrisiko, wenn Behörden und Firmen ihre gesamte Kommunikation einem US-Anbieter überlassen. Eine abschliessende Ursache hat Microsoft noch nicht genannt.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Microsoft-365-Stoerung-Serverausfaelle-legen-Teams-Exchange-und-Copilot-lahm-11523565.html"
+                },
+                {
+                  "name": "Der Bund / Tamedia",
+                  "url": "https://www.derbund.ch/microsoft-365-weltweite-stoerung-bei-outlook-630090439588"
+                },
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-nvidia-huang-lutnick-senat-vorladung",
+              "slug": "nvidia-huang-lutnick-senat-vorladung",
+              "title": "Nvidia-Affäre: US-Senat lädt Jensen Huang und Handelsminister Lutnick vor",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🏛️",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+              "kurz": "Huang soll am 3. Dezember aussagen, Lutnick am 10. Dezember. Nvidia hat in fünf Tagen rund 550 Milliarden Dollar Börsenwert verloren.",
+              "summary": "Der republikanische Vorsitzende des Banken-Ausschusses im US-Senat, Tim Scott, hat den zurückgetretenen Nvidia-Chef Jensen Huang für den 3. Dezember und Handelsminister Howard Lutnick für den 10. Dezember zur Aussage geladen. Huang soll freiwillig erscheinen, sonst droht eine Strafvorladung; Lutnick hat laut seinem Ministerium bereits zugesagt. Nvidia hat in fünf Tagen rund 550 Milliarden Dollar an Börsenwert verloren.",
+              "gegenstimme": "Huangs Umfeld und Nvidia äussern sich nicht; Nvidia erklärte zuvor, es gebe «keinen Grund zur Annahme», dass nationale Sicherheit oder Firmengeheimnisse kompromittiert wurden. China weist den Spionagevorwurf gegen die Singapurer Managerin Alice Huang als Verleumdung zurück, und US-Justizminister Todd Blanche sagt, das Justizministerium habe noch keine Schlüsse gezogen. Gegen Lutnick stützen sich die Vorwürfe vor allem auf anonyme Regierungsquellen.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cmq5vd1wdgz6o"
+                },
+                {
+                  "name": "Politico",
+                  "url": "https://www.politico.com/live-updates/2026/11/12/congress/tim-scott-summons-jensen-huang-howard-lutnick-to-testify-over-nvidia-saga-01164124"
+                },
+                {
+                  "name": "USA Today",
+                  "url": "https://www.usatoday.com/story/news/politics/2026/11/12/trump-apple-tim-cook-jensen-huang-nvidia-resignation/92741233007/"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/nvidia-affaere-jensen-huang-und-trumps-handelsminister-lutnick-muessen-sich-im-senat-erklaeren-a-14e96682-03e3-4763-a673-f16a0bcfd5d1"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-fbi-nordkorea-facestealer-krypto",
+              "slug": "fbi-nordkorea-facestealer-krypto",
+              "title": "FBI: Nordkoreanische Hacker erbeuten mit gefälschten Videocalls über 400 Millionen Dollar",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "🕵️",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+              "kurz": "Die Masche «FaceStealer» nutzt heimlich aufgezeichnete Videos echter Bekannter in nachgebauten Zoom- und Teams-Calls.",
+              "summary": "Staatliche Hacker aus Nordkorea haben laut FBI und US-Justizministerium in 18 Monaten über 400 Millionen Dollar in Kryptowährungen gestohlen. Sie locken Entwickler aus Krypto-, Web3- und Open-Source-Projekten in gefälschte Videokonferenzen auf Kopien von Zoom, Teams oder Google Meet, spielen dort aufgezeichnete Videos von Bekannten ab und verleiten die Opfer mit einem angeblichen Tonproblem zur Installation von Schadsoftware. Das FBI stellte über 900 heimlich aufgezeichnete Opfervideos sicher.",
+              "gegenstimme": "Nordkorea bestreitet solche Vorwürfe regelmässig, auch beim kürzlich bekannt gewordenen Binance-Hack über 6,3 Milliarden Dollar, den US-Behörden ebenfalls Pjöngjang zuschreiben. Die Zuschreibung beruht auf Angaben der US-Behörden; unabhängige Belege wurden bisher nur teilweise veröffentlicht. Sicherheitsforscher weisen zudem darauf hin, dass die Methode nicht auf Nordkorea beschränkt bleibt und von kriminellen Gruppen kopiert werden dürfte.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cqdj1ellpd70o"
+                },
+                {
+                  "name": "US-Justizministerium",
+                  "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency"
+                },
+                {
+                  "name": "FBI / IC3 (Warnung)",
+                  "url": "https://www.ic3.gov/CSA/2026/261112.pdf"
+                },
+                {
+                  "name": "The Hill",
+                  "url": "https://thehill.com/policy/technology/6217605-north-korean-hackers-stole-crypto/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-anthropic-boersengang-19-november",
+              "slug": "anthropic-boersengang-19-november",
+              "title": "Anthropic geht am 19. November an die Börse – Preisspanne 70 bis 78 Dollar",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "morning",
+              "kurz": "Der KI-Entwickler hinter Claude soll ab nächstem Donnerstag an der Nasdaq unter dem Kürzel ANT gehandelt werden.",
+              "summary": "Die Aktien des KI-Unternehmens Anthropic, Entwickler des Sprachmodells Claude, sollen ab dem 19. November an der Nasdaq unter dem Kürzel «ANT» gehandelt werden. Die Preisspanne liegt bei 70 bis 78 Dollar je Aktie; der endgültige Ausgabepreis soll am 18. November festgelegt werden. Der Börsengang gilt als einer der grössten der Tech-Branche.",
+              "gegenstimme": "Skeptiker warnen vor einer KI-Blase: Die führenden KI-Labore verbrennen weiterhin Milliarden, OpenAI etwa meldete jüngst bei 10 Milliarden Dollar Quartalsumsatz fast 11 Milliarden Verlust. Der Zeitpunkt ist zudem heikel, weil der Nvidia-Skandal den Tech-Sektor belastet. Befürworter verweisen auf das schnelle Umsatzwachstum von Anthropic im Geschäftskundensegment.",
+              "sources": [
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Datum-offiziell-Anthropic-Aktien-ab-19-November-im-Handel-11522895.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-ukraine-europa-verhandlungstisch-kushner-dublin",
+              "slug": "ukraine-europa-verhandlungstisch-kushner-dublin",
+              "title": "Ukraine-Gespräche: Europa soll bei der nächsten Runde mit am Tisch sitzen",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/e23f9c75-5489-413a-b3d2-c23c8e6f730d/AAABodH246k/AAABnSSvrFg/16x9-big/dublin-epg-100.jpg?width=1280",
+              "kurz": "Nach dem Treffen mit Putin sagen die US-Unterhändler: Moskau stimmt einer Beteiligung der Europäer zu. Zudem ist der grösste Gefangenenaustausch geplant.",
+              "summary": "US-Unterhändler Jared Kushner hat in der Nacht auf Freitag in Dublin erklärt, Russland und die Ukraine hätten zugestimmt, die nächste Verhandlungsrunde auf europäische Staaten auszuweiten. Zuvor hatten Kushner und Steve Witkoff in Moskau Präsident Putin getroffen, danach Präsident Selenskyj in Dublin. Kushner kündigte zudem den bisher grössten Gefangenenaustausch des Kriegs an, der «möglicherweise Tausende» betreffen soll.",
+              "gegenstimme": "Der Kreml äussert sich deutlich zurückhaltender: Putin-Berater Juri Uschakow sagte, die Europäer müssten erst klären, «ob sie Frieden wollen oder eine Fortsetzung des Kriegs»; Putin warnte zudem vor westlichen Friedenstruppen in der Ukraine. Aus russischer Sicht verlängern die Europäer den Krieg durch Waffenlieferungen. Kritiker der US-Vermittlung bemängeln, dass Washington die Bedingungen weitgehend allein mit Moskau aushandelt.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/13/ukraine-war-briefing-europe-to-join-negotiations-says-kushner-as-putin-warns-against-peace-keepers"
+                },
+                {
+                  "name": "France 24",
+                  "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/ukraine/verhandlungen-zu-ukraine-krieg-ueber-europa-kann-nicht-ohne-europa-gesprochen-werden"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-iran-revolutionsgarde-radar-bahrain",
+              "slug": "iran-revolutionsgarde-radar-bahrain",
+              "title": "Iran: Revolutionsgarde meldet Angriff auf US-Radar in Bahrain",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🎯",
+              "edition": "morning",
+              "kurz": "Die IRGC spricht von Vergeltung für einen Angriff auf Sirik. Trump sagt, Golfstaaten hätten ihn um eine Pause bei Angriffen gebeten.",
+              "summary": "Die iranischen Revolutionsgarden (IRGC) erklären, sie hätten in Bahrain eine US-Frühwarnradaranlage angegriffen und «zerstört», als Vergeltung für einen Luftangriff auf einen Telekommunikationsturm in der Hafenstadt Sirik. Washington und Manama äusserten sich zunächst nicht. Laut Reuters ist es die erste von Iran beanspruchte Attacke auf US-Militär in einem Golfstaat seit Anfang September.",
+              "gegenstimme": "US-Präsident Trump sagte in einem Interview, Saudi-Arabien, Katar, Kuwait, die Emirate und Bahrain hätten ihn gebeten, vorerst auf weitere grosse Angriffe auf Iran zu verzichten; er hätte sonst zugeschlagen und könne Irans Energie-, Brücken- und Industrieinfrastruktur «in drei Tagen» zerstören. Iran stellt seine Aktionen als Reaktion auf «Provokationen» und Ölschmuggel in der Strasse von Hormus dar. Aussenminister Rubio hält den wirtschaftlichen Druck für ausreichend.",
+              "sources": [
+                {
+                  "name": "Al Jazeera / Reuters",
+                  "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
+                },
+                {
+                  "name": "Iran International",
+                  "url": "https://www.iranintl.com/en/liveblog/202611077068"
+                },
+                {
+                  "name": "Dawn",
+                  "url": "https://www.dawn.com/news/2044218/trump-says-gulf-allies-asked-him-to-hold-off-on-further-iran-strikes"
+                },
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/international/article-914787"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-ice-rekord-abschiebungen-483000",
+              "slug": "ice-rekord-abschiebungen-483000",
+              "title": "USA: Rekord von 483'000 Abschiebungen im Fiskaljahr 2026",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🛂",
+              "edition": "morning",
+              "image": "https://www.ice.gov/sites/default/files/2026-11/261112washington.jpg",
+              "kurz": "Die Einwanderungsbehörde ICE meldet für das Ende September abgelaufene Jahr Höchstwerte bei Abschiebungen und Festnahmen.",
+              "summary": "Die US-Einwanderungsbehörde ICE hat im Fiskaljahr 2026 (bis Ende September) nach eigenen Angaben 483'200 Menschen abgeschoben und über 491'000 Personen festgenommen, so viele wie nie zuvor. Der bisherige Rekord stammt aus dem Vorjahr mit 442'640 Abschiebungen. Laut Heimatschutzministerium haben seit Trumps Amtsantritt über drei Millionen Migranten die USA verlassen.",
+              "gegenstimme": "Menschenrechtsorganisationen kritisieren, dass Migranten auch in Drittstaaten abgeschoben werden und vielen keine gerichtliche Anfechtung möglich sei; laut Umfragen hat die harte Linie bei den Wählern an Rückhalt verloren, besonders unter Latinos. Die Regierung sieht dagegen einen Erfolg für die öffentliche Sicherheit und verweist auf festgenommene Straftäter. Neuer Stabschef im Weissen Haus wird Stephen Miller, der als Architekt der Abschiebepolitik gilt.",
+              "sources": [
+                {
+                  "name": "ICE (Medienmitteilung)",
+                  "url": "https://www.ice.gov/news/releases/ice-breaks-records-fiscal-year-2026-most-arrests-and-deportations-agencys-history"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/ice-immigration-deportation-arrests-homeland-security-trump-2e8f9b619c009ddc183d1a80eb21629a"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/usa-trumps-regierung-prahlt-mit-angeblicher-rekordzahl-an-abschiebungen-a-fcedd355-bad6-42e2-bd9a-1de4543fea8c"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/ice-rekord-usa-schieben-483000-menschen-ab-978607280753"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-van-hollen-fordert-schumer-heraus",
+              "slug": "van-hollen-fordert-schumer-heraus",
+              "title": "US-Demokraten: Van Hollen fordert Schumer um den Fraktionsvorsitz heraus",
+              "date": "2026-11-13",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "image": "https://rollcall.com/app/uploads/2026/11/court_presser021_0071118.jpg",
+              "kurz": "Der Senator aus Maryland will Mehrheitsführer werden. Schumer sagt, er habe die Stimmen; die geheime Wahl folgt im Dezember.",
+              "summary": "Der demokratische Senator Chris Van Hollen aus Maryland kandidiert gegen Chuck Schumer für das Amt des Mehrheitsführers im US-Senat, den die Demokraten bei den Zwischenwahlen zurückerobert haben. Van Hollen begründet das mit dem Ruf der Wähler nach Wandel. Schumer erklärte, er habe die Stimmen; die Fraktion wählt im Dezember geheim.",
+              "gegenstimme": "Schumers Unterstützer wie Angus King und Tammy Baldwin argumentieren, man wechsle nach einem Wahlsieg mit 55 Sitzen nicht die Führung. Van Hollen selbst bezeichnet sich als Aussenseiter. Aus konservativer Sicht zeigt die Kampfkandidatur einen Linksruck der Partei: Van Hollen will unter anderem keine AIPAC-Gelder mehr für die Wahlkampforganisation, und sein erster Unterstützer, der designierte Senator Abdul El-Sayed, fordert «Medicare for All».",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/van-hollen-schumer-senate-democratic-leader-6d74c189cb6c065c9a810a1cf1a53436"
+                },
+                {
+                  "name": "Roll Call",
+                  "url": "https://rollcall.com/2026/11/12/van-hollen-announces-bid-for-majority-leader-but-schumer-says-he-has-the-votes/"
+                },
+                {
+                  "name": "NBC News",
+                  "url": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-12",
       "editions": {
