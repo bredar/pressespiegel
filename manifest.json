@@ -1,6 +1,427 @@
 {
-  "updated": "2026-11-13T17:21:55+01:00",
+  "updated": "2026-11-14T06:24:49+01:00",
   "days": [
+    {
+      "date": "2026-11-14",
+      "editions": {
+        "morning": {
+          "time": "06:45",
+          "articles": [
+            {
+              "id": "2026-11-14-swissness-schweizerkreuz-nur-inlandproduktion",
+              "slug": "swissness-schweizerkreuz-nur-inlandproduktion",
+              "title": "Schweizerkreuz nur noch für Produkte aus der Schweiz: Nationalratskommission zieht mit",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "schweiz",
+              "icon": "🇨🇭",
+              "edition": "morning",
+              "kurz": "Die WBK-N stellt sich mit 22 zu 2 Stimmen hinter strengere Regeln: Das Kreuz soll nur noch auf Waren stehen, die in der Schweiz hergestellt oder verarbeitet werden.",
+              "summary": "Die Wissenschaftskommission des Nationalrats (WBK-N) hat am 13. November mit 22 zu 2 Stimmen eine parlamentarische Initiative aus dem Ständerat unterstützt, wonach das Schweizerkreuz nur noch auf in der Schweiz hergestellten oder verarbeiteten Produkten stehen darf. Hinweise wie «Swiss Engineering» oder Schweizer Design in Kombination mit dem Kreuz wären dann nicht mehr erlaubt. Die Ständeratskommission kann nun einen Gesetzesentwurf ausarbeiten.",
+              "gegenstimme": "Der Bundesrat hatte eine entsprechende Motion abgelehnt: Justizminister Beat Jans wollte die neue Praxis zuerst prüfen lassen und argumentierte, Firmen mit Forschung und Entwicklung in der Schweiz könnten diese so besser sichtbar machen; für Inlandproduktion bleibe ohnehin «Swiss made». Betroffene Marken mit Produktion im Ausland, allen voran On, verlieren mit der Verschärfung einen Werbeträger, den ihnen das IGE erst im März zugestanden hatte.",
+              "sources": [
+                {
+                  "name": "Parlament.ch – Medienmitteilung WBK-N",
+                  "url": "https://www.parlament.ch/press-releases/Pages/mm-wbk-n-2026-11-13-b.aspx"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/swissness-label-wer-mit-dem-schweizerkreuz-wirbt-soll-in-der-schweiz-produzieren"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/schweizerkreuz-nationalrat-will-nutzungsregeln-verschaerfen-121404704392"
+                },
+                {
+                  "name": "schwur.ch – Geschäft 26.474",
+                  "url": "https://schwur.ch/parlament/geschaefte/26.474"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-sbb-blackout-system-fuenf-minuten",
+              "slug": "sbb-blackout-system-fuenf-minuten",
+              "title": "SBB holen Bahnstrom nach einem Blackout neu in fünf Minuten zurück",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "schweiz",
+              "icon": "⚡",
+              "edition": "morning",
+              "kurz": "Bei einem geplanten Stromausfall im Tessin war das Bahnstromnetz nach 3 Minuten und 5 Sekunden wieder am Netz. Das System gilt nun schweizweit.",
+              "summary": "Die SBB haben in der Nacht auf Freitag im Tessin um 2.20 Uhr absichtlich den Bahnstrom abgeschaltet, um ein neues automatisches Wiederaufbausystem zu testen. Nach 3 Minuten und 5 Sekunden war das Netz wieder versorgt, rund zwanzig Züge standen kurz still. Laut SBB steht das System seit dem 13. November schweizweit zur Verfügung und soll das Netz nach einem flächendeckenden Ausfall innert fünf Minuten statt mehrerer Stunden wiederherstellen.",
+              "gegenstimme": "Der Test betraf nur das vergleichsweise kleine Tessiner Teilnetz und fand nachts bei geringem Verkehr statt; ob der Wiederaufbau bei einem landesweiten Ausfall zur Hauptverkehrszeit ebenso schnell gelingt, ist nicht erwiesen. Zudem bezieht die SBB rund ein Viertel ihres Bahnstroms aus dem allgemeinen Netz: Bei einem echten Blackout im Landesnetz hängt die Bahn weiterhin auch von dessen Stabilität ab.",
+              "sources": [
+                {
+                  "name": "SBB – Medienmitteilung",
+                  "url": "https://news.sbb.ch/de/01a07d00-07b3-7cdf-9b05-efbaaa597fb2/nach-einem-blackout-sbb-stellt-bahnstromversorgung-in-fuenf-minuten-wieder-her"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/sbb-testen-strom-blackout-provozierter-stromausfall-zuege-nach-drei-minuten-wieder-am-netz"
+                },
+                {
+                  "name": "Nau.ch / Keystone-SDA",
+                  "url": "https://www.nau.ch/news/schweiz/sbb-zuge-haben-bei-blackout-nach-funf-minuten-wieder-strom-67202065"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-basel-saubannerzug-mildere-urteile",
+              "slug": "basel-saubannerzug-mildere-urteile",
+              "title": "Basler «Saubannerzug»: Appellationsgericht verhängt meist nur noch Geldstrafen",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "kurz": "Zehn Jahre nach den linksautonomen Ausschreitungen von 2016 fallen die Urteile zweiter Instanz deutlich milder aus als jene des Strafgerichts.",
+              "summary": "Das Appellationsgericht Basel-Stadt hat am Freitag zwölf Beschuldigte im Saubannerzug-Prozess wegen Landfriedensbruchs sowie Gewalt und Drohung gegen Behörden und Beamte verurteilt, grösstenteils zu bedingten Geldstrafen. Von Sachbeschädigung und einfacher Körperverletzung sprach es sie frei. Ein Mann wurde ganz freigesprochen, eine Frau erhielt neun Monate bedingt; die Vorinstanz hatte 2019 noch unbedingte, teilbedingte und bedingte Freiheitsstrafen verhängt.",
+              "gegenstimme": "Die Angeklagten und ihr Umfeld sprechen von einem «politischen Prozess» und einer systematischen Verfolgung von Linken; sie halten auch die verbleibenden Schuldsprüche für ungerechtfertigt. Auf der anderen Seite dürfte das Urteil jene bestätigen, die bemängeln, dass bei einem Umzug mit eingeschlagenen Scheiben, versprayten Fassaden und Wurfgeschossen gegen Polizisten am Ende niemand für die Schäden einstehen muss, weil Einzeltaten nicht nachweisbar sind.",
+              "sources": [
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/mildere-urteile-in-zweiter-instanz-f%c3%bcr-basler-%22saubannerzug%22/92375453"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/ausschreitungen-in-basel-mildere-urteile-in-zweiter-instanz-fuer-basler-saubannerzug"
+                },
+                {
+                  "name": "Basler Zeitung",
+                  "url": "https://www.bazonline.ch/saubannerzug-prozess-appellationsgericht-basel-mildert-urteile-234310170235"
+                },
+                {
+                  "name": "Bajour",
+                  "url": "https://bajour.ch/a/prozess-saubannerzug-mehrheit-der-basel-18-erhaelt-geldstrafen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-vvardis-boersengang-nyse-minus",
+              "slug": "vvardis-boersengang-nyse-minus",
+              "title": "Zuger Dentalfirma Vvardis: Holpriger Börsenstart an der Wall Street",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "wirtschaft",
+              "icon": "🦷",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/4891995.jpg",
+              "kurz": "Die Firma der Swiss-Smile-Gründerinnen Haley und Goly Abivardi schliesst am ersten Handelstag 8 Prozent unter dem Ausgabepreis von 18 Dollar.",
+              "summary": "Die Zuger Firma Vvardis der Schwestern Haley und Goly Abivardi ist am Freitag an der New York Stock Exchange gestartet. Die Aktie wurde zu 18 Dollar ausgegeben, 3 Dollar unter der ursprünglichen Preisspanne, eröffnete bei 14 Dollar und schloss bei 16,50 Dollar, 8,3 Prozent unter dem Ausgabepreis. Der Börsengang brachte rund 175 Millionen Dollar ein.",
+              "gegenstimme": "Die Gründerinnen sehen sich am Anfang einer Umwälzung in der Zahnmedizin: Ihr Gel soll beginnende Karies ohne Bohrer behandeln. Ein schwacher erster Handelstag sagt wenig über den langfristigen Erfolg. Zudem hatte der Investor Apollo die Firma im April laut Bloomberg mit gut 1 Milliarde Dollar bewertet; der Börsenwert von knapp 3 Milliarden liegt deutlich darüber.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/boersengang-vvardis-swiss-smile-schwestern-mit-harter-landung-an-der-wall-street"
+                },
+                {
+                  "name": "IPOScoop",
+                  "url": "https://www.iposcoop.com/the-ipo-buzz-vvardis-vvvv-upsizes-ipo-prices-deal-at-18-3-below-range/"
+                },
+                {
+                  "name": "New York Post",
+                  "url": "https://nypost.com/2026/11/13/business/vvardis-shares-slide-7-in-nyse-debut/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-usa-landesweiter-flugstopp-faa",
+              "slug": "usa-landesweiter-flugstopp-faa",
+              "title": "USA: Landesweiter Startstopp legt Flugverkehr vier Stunden lahm",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "international",
+              "icon": "✈️",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/3335c8db-b9b7-4025-9004-d01279760b2b/AAABodfHHKI/AAABnSSvrFg/16x9-big/usa-flugzeuge-100.jpg?width=1280",
+              "kurz": "Wegen eines Ausfalls der Flugsicherungs-Kommunikation durfte am Freitagabend in den USA kein Flugzeug mehr starten. Auch die Swiss rechnet mit Verspätungen.",
+              "summary": "Die US-Luftfahrtbehörde FAA hat am Freitag um 21.54 Uhr Schweizer Zeit alle Starts an US-Flughäfen gestoppt, nachdem die Kommunikation der Flugsicherungszentralen ausgefallen war. Nach gut vier Stunden wurde der Luftraum um 2.15 Uhr wieder freigegeben. Laut Cirium wurden über 4700 Flüge gestrichen und rund 10'000 verspätet; auch Flüge aus Europa in die USA durften vorübergehend nicht abheben.",
+              "gegenstimme": "Verkehrsminister Sean Duffy macht veraltete Technik verantwortlich, nicht die in seiner Amtszeit installierten Systeme; die Trump-Regierung schiebt Luftfahrtprobleme oft der Vorgängerregierung zu. Die Modernisierung der US-Flugsicherung zieht sich allerdings seit Jahren über mehrere Regierungen hin. Ein früherer FAA-Vertreter sagte Al Jazeera, eigentlich wisse «niemand wirklich, was los ist».",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/usa-verhaengen-startstopp-auf-allen-flughaefen-des-landes-207285553410"
+                },
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-trump-xi-putin-dreiertreffen-shenzhen",
+              "slug": "trump-xi-putin-dreiertreffen-shenzhen",
+              "title": "Trump, Xi und Putin wollen sich am Donnerstag erstmals zu dritt treffen",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "politik",
+              "icon": "🌐",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1280",
+              "kurz": "Am Rande des Apec-Gipfels in Shenzhen soll es um Atomwaffen und den Iran-Krieg gehen, nicht aber um die Ukraine.",
+              "summary": "Das Weisse Haus hat ein erstes Dreiertreffen von US-Präsident Donald Trump, Chinas Staatschef Xi Jinping und Russlands Präsident Wladimir Putin angekündigt. Es soll am Donnerstag am Rande des Apec-Gipfels im chinesischen Shenzhen stattfinden. Hauptthemen sind laut Washington der Abbau von Atomwaffen und der Krieg der USA und Israels gegen Iran; über den Ukraine-Krieg will Trump laut einem US-Regierungsvertreter voraussichtlich nicht sprechen.",
+              "gegenstimme": "Das Treffen weckt Vergleiche mit der Konferenz von Jalta 1945, an der Grossmächte die Nachkriegsordnung festlegten; die Ukraine und die Europäer sitzen in Shenzhen nicht am Tisch. Der Kreml weist das zurück: Absprachen in Shenzhen könnten anderen nicht aufgezwungen werden, das Treffen sei aber «äusserst bedeutsam». Washington selbst dämpft die Erwartungen: Man rechne mit keiner Vereinbarung, es gehe um einen Gesprächsauftakt.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/donald-trump-trifft-wladimir-putin-und-xi-jinping-kommende-woche-in-china-a-8c11f808-645a-48b5-b7a1-fb85768c7994"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-kuba-bereitet-sich-auf-us-angriff-vor",
+              "slug": "kuba-bereitet-sich-auf-us-angriff-vor",
+              "title": "Kuba rüstet sich nach Trumps Drohung für einen möglichen US-Angriff",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "international",
+              "icon": "🇨🇺",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/d34f1d.jpg",
+              "kurz": "Trump will «Kuba erledigt haben», bevor er abtritt, und schliesst Militär nicht aus. Präsident Díaz-Canel kündigt Widerstand gegen jede Aggression an.",
+              "summary": "Kubas Präsident Miguel Díaz-Canel hat erklärt, sein Land sei entschlossen, jeden Versuch einer ausländischen Militäraggression abzuwehren. Er reagierte auf ein Radiointerview von US-Präsident Donald Trump mit Moderator Hugh Hewitt, in dem dieser sagte, er wolle «Kuba erledigt haben», bevor er gehe, und eine Militäraktion würde er «sicher in Erwägung ziehen». Díaz-Canel betonte, Kuba sei friedlich und keine Bedrohung für die USA.",
+              "gegenstimme": "Befürworter eines harten Kurses verweisen darauf, dass Kuba seit Jahrzehnten eine Einparteiendiktatur ist, die Oppositionelle verfolgt, und sehen nach dem Sturz Maduros eine historische Chance auf einen Regimewechsel. Der Politologe Thomas Jäger warnt im SRF dagegen, eine schnelle Aktion wie in Venezuela sei in Kuba nicht möglich: Die Marine sei rasch versenkt, eine Besetzung aber wegen einer Guerilla-Struktur mit über einer Million Menschen kaum zu schaffen. Er deutet die Drohung auch als Versuch, nach den verlorenen Midterms Stärke zu zeigen.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6af7d70e4495f9bd85b7f66a/karibikinsel-kuba-bereitet-sich-auf-angriff-der-usa-vor.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/praesident-miguel-diaz-canel-kubas-fuehrung-bereitet-sich-auf-angriff-der-usa-vor-a-2cb35593-82c2-4d9c-b358-cbc40bff928e"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/us-politik-in-lateinamerika-trump-will-kuba-erledigen-bevor-er-abtritt"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-icc-schliesst-afghanistan-verfahren-us-truppen",
+              "slug": "icc-schliesst-afghanistan-verfahren-us-truppen",
+              "title": "Strafgerichtshof schliesst Afghanistan-Verfahren, das auch US-Soldaten betraf",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "morning",
+              "kurz": "Die Richter in Den Haag begründen den Schritt mit fehlenden Ermittlungsmöglichkeiten. Weiter geführt wird nur das Verfahren gegen die Taliban.",
+              "summary": "Die Vorverfahrenskammer II des Internationalen Strafgerichtshofs (ICC) hat am 12. November beschlossen, die ursprüngliche Afghanistan-Untersuchung zu schliessen, die seit 2020 auch mutmassliche Verbrechen von US-Soldaten und CIA-Personal umfasste. Die Richter begründen dies damit, dass die Anklage nicht gezeigt habe, dort noch wirksam ermitteln zu können. Bestehen bleibt das separate Verfahren «Afghanistan II» zu Verbrechen der Taliban seit 2021, inklusive Haftbefehlen gegen vier Taliban-Führer.",
+              "gegenstimme": "Die Anklagebehörde widerspricht dem Entscheid und hat bereits Rekurs eingelegt. Dass er fällt, während Washington 13 aktuelle und frühere ICC-Mitarbeitende sanktioniert hat, nährt den Verdacht politischen Drucks, auch wenn das Gericht ihn nicht erwähnt. Die US-Regierung hält dagegen, der ICC habe über Amerikaner gar keine Zuständigkeit, weil die USA dem Römer Statut nicht beigetreten sind. Aussenminister Marco Rubio hatte angekündigt, den Gerichtshof «Stein um Stein» zu demontieren.",
+              "sources": [
+                {
+                  "name": "ICC – Entscheid (PDF)",
+                  "url": "https://www.icc-cpi.int/sites/default/files/CourtRecords/0902ebd180fdd850.pdf"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/icc-afghanistan-trump-taliban-sanctions-court-866bee53871cba022c52756a97b9ac21"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan"
+                },
+                {
+                  "name": "The Straits Times / Reuters",
+                  "url": "https://www.straitstimes.com/asia/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-starship-flug-15-orbit-booster-ins-meer",
+              "slug": "starship-flug-15-orbit-booster-ins-meer",
+              "title": "Starship-Flug 15: Satelliten im Orbit, Booster-Landung abgebrochen",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "tech",
+              "icon": "🚀",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+              "kurz": "SpaceX bringt 26 Starlink-Satelliten in die Umlaufbahn, der Super-Heavy-Booster stürzt aber brennend in den Golf von Mexiko statt im Turm gefangen zu werden.",
+              "summary": "SpaceX hat am Freitag um 23.45 Uhr Schweizer Zeit den 15. Testflug seiner Riesenrakete Starship gestartet. Die Oberstufe erreichte eine Erdumlaufbahn und setzte alle 26 Starlink-V3-Satelliten aus. Der Super-Heavy-Booster sollte mit den Greifarmen des Startturms gefangen werden, wurde wegen eines nicht näher genannten Problems aber in den Golf von Mexiko umgeleitet und explodierte.",
+              "gegenstimme": "SpaceX und Ars Technica werten den Flug als weitgehend erfolgreich: Mit dem Aussetzen echter Satelliten sei Starship nun eine operative Orbitalrakete. Nüchtern betrachtet ging der Booster aber verloren, und das Kernziel des Flugs, erstmals beide Stufen zu bergen, ist mindestens zur Hälfte verfehlt. Wie bei früheren Flügen landeten erneut Trümmer im Golf von Mexiko.",
+              "sources": [
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/fehlschlag-bei-starship-flug-raketenstufe-geht-in-flammen-auf-203102230253"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-github-wfx-loot-secret-stealer",
+              "slug": "github-wfx-loot-secret-stealer",
+              "title": "GitHub: Angreifer kapern 4800 Konten und stehlen Cloud-Zugänge aus Tausenden Repositories",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/3/8/6/shutterstock_1569354004-42eff2fc6e8e8a4b.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Die Kampagne «wfx-loot» schleust über gestohlene Token Schadcode in GitHub-Workflows ein. In über 1800 Fällen wurden Secrets abgegriffen.",
+              "summary": "Unbekannte Angreifer nutzen seit dem 10. November gestohlene Zugriffstoken, um über 4837 übernommene GitHub-Konten Schadcode in 61'764 Repositories einzuschleusen. Laut der Sicherheitsfirma Aikido lief der Code in mindestens 1835 Fällen und griff Secrets aus GitHub Actions sowie Cloud-Zugangsdaten ab. Wo Workflows Zugriff auf AWS oder Azure haben, richtet er laut Heise Hintertüren in den Cloud-Konten ein.",
+              "gegenstimme": "Die Angreifer nutzen offenbar keine Lücke in GitHub selbst, sondern missbrauchen Schreibrechte gestohlener Token. Ein Teil davon stammt laut Fly.io aus öffentlich erreichbaren .git/config-Dateien, also aus Konfigurationsfehlern der Betroffenen. Offen ist, ob GitHub die missbrauchten Token schneller hätte erkennen und sperren können; eine Stellungnahme von GitHub lag laut Heise zunächst nicht vor.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Gestohlene-Token-Secret-Stealer-in-Tausenden-GitHub-Repositories-11524706.html"
+                },
+                {
+                  "name": "BleepingComputer",
+                  "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/"
+                },
+                {
+                  "name": "Aikido",
+                  "url": "https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-windows-zero-day-signdrop",
+              "slug": "windows-zero-day-signdrop",
+              "title": "Windows-Zero-Day «SignDrop»: Normale Nutzer können Systemrechte erlangen",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "tech",
+              "icon": "🪟",
+              "edition": "morning",
+              "image": "https://www.securityweek.com/wp-content/uploads/2026/11/Nightmare-Eclipse.webp",
+              "kurz": "Ein mit Microsoft zerstrittener Forscher veröffentlicht erneut ungepatchte Exploit-Details. Betroffen ist das Windows-Logsystem CLFS in Kombination mit Defender.",
+              "summary": "Der Sicherheitsforscher Abdelhamid Naceri alias «Nightmare Eclipse» hat am Dienstag einen Exploit namens SignDrop veröffentlicht, mit dem ein lokaler Benutzer auf manchen Windows-Versionen volle Systemrechte erlangen kann. Er missbraucht das Common Log File System (CLFS) und lässt Windows Defender eine präparierte Datei öffnen. Ein Patch oder eine CVE-Nummer von Microsoft lag laut Berichten bis Freitag nicht vor.",
+              "gegenstimme": "Naceri begründet seine Veröffentlichungen ohne Vorwarnung mit seinem Streit mit Microsoft über den Umgang mit gemeldeten Lücken. Verteidiger verantwortungsvoller Offenlegung kritisieren, dass so Angreifer einen Vorsprung erhalten, bevor ein Patch existiert. Relativierend: Die Lücke ist nur lokal ausnutzbar, Angreifer brauchen also bereits Zugang zum Rechner, und Angriffe in freier Wildbahn sind bisher nicht bekannt.",
+              "sources": [
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+                },
+                {
+                  "name": "SecurityWeek",
+                  "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/"
+                },
+                {
+                  "name": "BleepingComputer",
+                  "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/"
+                },
+                {
+                  "name": "The Hacker News",
+                  "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-berlin-auto-reichelt-brandanschlag",
+              "slug": "berlin-auto-reichelt-brandanschlag",
+              "title": "Berlin: Auto von «Nius»-Chef Julian Reichelt angezündet, Staatsschutz ermittelt",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "politik",
+              "icon": "🔥",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/9a56da2c-7aa0-4a1f-8c35-3e6f8c0d3fb2/AAABodUxp5U/AAABnSSvrFg/16x9-big/rbb-reichelt-auto-100.jpg?width=1280",
+              "kurz": "Die Polizei bestätigt Brandstiftung und schliesst ein politisches Motiv nicht aus. Reichelt spricht von einem gezielten Anschlag auf kritische Medien.",
+              "summary": "In der Nacht auf Freitag ist in Berlin-Charlottenburg das Auto von Julian Reichelt, Chefredakteur des Portals «Nius» und früherer «Bild»-Chef, in Brand gesetzt und weitgehend zerstört worden. Die Berliner Polizei bestätigt Brandstiftung an einem «Fahrzeug eines Medienunternehmens»; weil eine politische Tatmotivation nicht ausgeschlossen werden kann, ermittelt der Staatsschutz des Landeskriminalamts. Tatverdächtige oder ein Bekennerschreiben gibt es bisher nicht.",
+              "gegenstimme": "Reichelt nennt die Tat einen «Einschüchterungsversuch gegen neue freie Medien, die sich diesem Linksextremismus entgegenstellen», und verweist auf frühere linksextreme Brandanschläge auf Autos eines «B.Z.»-Kolumnisten. Die Polizei legt sich dagegen nicht fest und nennt weder Motiv noch Halter. Auffällig ist die Einordnung: Der rbb-Bericht bei der Tagesschau bezeichnet «Nius» gleich zweimal als «rechtspopulistisch», während das mögliche linksextreme Motiv nur indirekt über frühere Fälle erwähnt wird.",
+              "sources": [
+                {
+                  "name": "Polizei Berlin – Medienmitteilung",
+                  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1739138.php"
+                },
+                {
+                  "name": "Tagesschau / rbb",
+                  "url": "https://www.tagesschau.de/inland/regional/berlin/reichelt-auto-angezuendet-100.html"
+                },
+                {
+                  "name": "Süddeutsche Zeitung",
+                  "url": "https://www.sueddeutsche.de/medien/julian-reichelt-auto-brand-berlin-nius-li.3580082"
+                },
+                {
+                  "name": "Berliner Zeitung",
+                  "url": "https://www.berliner-zeitung.de/article/charlottenburg-auto-von-julian-reichelt-angezuendet-10593557"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-hamas-leibwaechter-birmingham-verurteilt",
+              "slug": "hamas-leibwaechter-birmingham-verurteilt",
+              "title": "Ex-Leibwächter von Hamas-Chef in England verurteilt, Deutschland will ihn wegen Anschlagsplänen",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "international",
+              "icon": "🔪",
+              "edition": "morning",
+              "kurz": "Mohammed Alfatih griff in Birmingham einen Gerichtsvollzieher mit Messern an. Deutschland wirft ihm eine Rolle in einem Hamas-Komplott gegen Juden vor.",
+              "summary": "Ein Gericht in Birmingham hat am Freitag den 40-jährigen Mohammed Alfatih, früher Mohammed Naim, wegen eines Messerangriffs auf einen Gerichtsvollzieher schuldig gesprochen: rechtswidrige Verletzung, Besitz von zwei Messern und Sachbeschädigung. Vom schwereren Vorwurf der Verletzung mit Vorsatz wurde er freigesprochen. Alfatih war 2006 Leibwächter des damaligen Hamas-Führers Ismail Haniyeh und wird von Deutschland wegen eines mutmasslichen Hamas-Plans gesucht, Juden und israelische Ziele in Europa anzugreifen.",
+              "gegenstimme": "Vor Gericht gab Alfatih an, er habe den Gerichtsvollzieher, der wegen Parkbussen seiner Frau von über 2250 Pfund deren Auto pfänden wollte, nur verscheuchen wollen; die Geschworenen erfuhren nichts von seinen Hamas-Verbindungen. Die deutschen Vorwürfe sind bisher nicht gerichtlich geprüft. Kaum beantwortet ist in der Berichterstattung die Frage, wie ein öffentlich fotografierter Leibwächter eines Hamas-Führers 2015 Asyl und später die Staatsbürgerschaft erhielt, und warum er trotz Überwachung durch die Terrorabwehr zur Tat schreiten konnte.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany"
+                },
+                {
+                  "name": "The Independent",
+                  "url": "https://www.independent.co.uk/news/uk/crime/mohammed-alfatih-hamas-bailiff-knife-attack-birmingham-b3084549.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-ungarn-sesztak-bargeld-im-wald",
+              "slug": "ungarn-sesztak-bargeld-im-wald",
+              "title": "Ungarn: Ermittler finden 19,5 Millionen Dollar Bargeld bei Orbán-Ex-Minister",
+              "date": "2026-11-14",
+              "time": "06:45",
+              "category": "international",
+              "icon": "💰",
+              "edition": "morning",
+              "image": "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3264654a02404e57294df85d8cbb340",
+              "kurz": "Das Geld war in Wäldern vergraben und in Lagerhallen und Tresoren versteckt. Es geht um Bestechung beim Kauf von Occasionsbussen.",
+              "summary": "Ungarns neue Antikorruptionsbehörde NVVH hat bei Durchsuchungen am Donnerstag und Freitag Bargeld im Wert von rund 19,5 Millionen Dollar sichergestellt, rund 5,07 Milliarden Forint, 2,66 Millionen Euro und 1,26 Millionen Dollar. Das Geld war laut Behörde in Wäldern vergraben sowie in Landwirtschafts- und Lagergebäuden, Wohnhäusern und Tresoren versteckt. Die Ermittlungen richten sich gegen Miklós Seszták, Entwicklungsminister unter Viktor Orbán von 2014 bis 2018, dem Bestechung beim Kauf überteuerter Occasionsbusse vorgeworfen wird.",
+              "gegenstimme": "Die NVVH ist Teil von Péter Magyars Aufarbeitungsprogramm und mit sehr weitreichenden Befugnissen ausgestattet; das wirft die Frage auf, wie unabhängig sie von der neuen Regierung arbeitet, die gleich mehrere Ex-Minister und Orbáns Bruder in Haft gebracht hat. Eine Stellungnahme Sesztáks lag in den gesichteten Berichten nicht vor. Es gilt die Unschuldsvermutung; ob das Geld ihm zuzurechnen ist, muss ein Gericht klären.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/hungary-hidden-cash-recovery-orban-minister-investigation-407e76ce08b3e8d736eeb2fd40a05e44"
+                },
+                {
+                  "name": "Telex",
+                  "url": "https://telex.hu/gazdasag/2026/11/13/sesztak-miklos-nvvh-nyomozas-akciok-keszpenzt-talaltak-elasva"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-13",
       "editions": {
