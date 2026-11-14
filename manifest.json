@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T06:24:49+01:00",
+  "updated": "2026-11-14T12:16:29+01:00",
   "days": [
     {
       "date": "2026-11-14",
@@ -415,6 +415,376 @@
                 {
                   "name": "Telex",
                   "url": "https://telex.hu/gazdasag/2026/11/13/sesztak-miklos-nvvh-nyomozas-akciok-keszpenzt-talaltak-elasva"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:30",
+          "articles": [
+            {
+              "id": "2026-11-14-ukraine-usa-nato-gegen-donbass",
+              "slug": "ukraine-usa-nato-gegen-donbass",
+              "title": "Selenski: USA bringen erstmals Nato-Beitritt gegen Rückzug aus dem Donbass ins Spiel",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+              "kurz": "Laut Selenski fragten US-Unterhändler erstmals, ob die Ukraine für eine Nato-Mitgliedschaft den Donbass räumen würde. Eine Verfassungsneutralität lehnt er ab.",
+              "summary": "Der ukrainische Präsident Wolodimir Selenski sagt, US-Unterhändler hätten nach den Gesprächen in Abu Dhabi erstmals gefragt, ob die Ukraine sich im Gegenzug für einen Nato-Beitritt aus dem Donbass zurückziehen würde. Gebiete abtreten will Kiew weiterhin nicht; bei einem umfassenden Sicherheitspaket mit Garantien, starker Armee und Wiederaufbaugeld würde Selenski die Frage aber dem Volk in einem Referendum vorlegen. Eine in der Verfassung verankerte Neutralität lehnte er am Samstag ausdrücklich ab.",
+              "gegenstimme": "Ob Washington tatsächlich ein Angebot gemacht oder nur eine hypothetische Frage gestellt hat, ist offen: Bekannt ist nur Selenskis eigene Darstellung, das Weisse Haus hat sie nicht bestätigt. Russland hat einen Nato-Beitritt der Ukraine stets als unannehmbar bezeichnet und verlangt Neutralität und Truppenobergrenzen. Kritiker eines Gebietsverzichts warnen zudem, die Räumung der stark befestigten Stellungen im Donbass würde die Ukraine bei einem neuen russischen Angriff entscheidend schwächen; konservative Kommentatoren wie die Weltwoche halten umgekehrt einen Frieden nur mit, nicht gegen Russland für möglich.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cwvg2l312ylqo"
+                },
+                {
+                  "name": "Politico Europe",
+                  "url": "https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96"
+                },
+                {
+                  "name": "Handelsblatt (Reuters)",
+                  "url": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selnskyj-donbass-rueckzug-gegen-nato-beitritt-vor/27982126.html"
+                },
+                {
+                  "name": "Interfax-Ukraine",
+                  "url": "https://interfax.com.ua/news/general/1236507.html"
+                },
+                {
+                  "name": "Berliner Zeitung",
+                  "url": "https://www.berliner-zeitung.de/article/selenskyj-usa-nato-beitritt-ukraine-donbass-rueckzug-verhandlungen-10597122"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-ndb-neue-geschaeftsleitung-2027",
+              "slug": "ndb-neue-geschaeftsleitung-2027",
+              "title": "Nachrichtendienst des Bundes: Neue Geschäftsleitung nach dem Umbau",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🕵️",
+              "edition": "midday",
+              "kurz": "NDB-Direktor Serge Bavaud hat seine neue Führung vorgestellt: vier statt sechs Direktionsbereiche, ein Externer als Vize und ein Fedpol-Kader für die Technik.",
+              "summary": "NDB-Direktor Serge Bavaud hat am Freitag in Bern die neue Geschäftsleitung des Nachrichtendienstes des Bundes vorgestellt, die ab 1. Januar 2027 gilt. Der Dienst wird neu mit vier statt sechs Direktionsbereichen geführt; alle Kaderstellen wurden neu ausgeschrieben. Stellvertretender Direktor wird Pascal Porchet, bisher Chef des Bündner Amts für Militär und Zivilschutz und früher 19 Jahre beim IKRK.",
+              "gegenstimme": "Der Umbau folgt auf eine interne Krise, die den Dienst unter Bavauds Vorgänger belastet hatte. Dass ausgerechnet der Bereich Operationen nur intern ausgeschrieben und mit zwei langjährigen Vizedirektoren aus der alten Führung besetzt wurde, wirft die Frage auf, wie gross der Kulturwandel tatsächlich ist. Ob kürzere Entscheidungswege den Dienst wirksamer machen, lässt sich erst an den Resultaten messen, etwa bei Spionageabwehr und Terrorprävention.",
+              "sources": [
+                {
+                  "name": "VBS – Medienmitteilung",
+                  "url": "https://www.vbs.admin.ch/de/newnsb/rnvriwjDVO1K"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/reorganisation-abgeschlossen%3a-ndb-besetzt-f%c3%bchrungsspitze-neu/92378002"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/nach-interner-krise-totalumbau-das-sind-die-neuen-chefspione-beim-nachrichtendienst-103666708"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-katar-emir-staatsbesuch-bern",
+              "slug": "katar-emir-staatsbesuch-bern",
+              "title": "Emir von Katar kommt nächste Woche zum Staatsbesuch nach Bern",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "🤝",
+              "edition": "midday",
+              "kurz": "Scheich Tamim bin Hamad Al Thani wird am 18. November auf dem Bundesplatz mit militärischen Ehren empfangen. Es ist der zweite Staatsbesuch des Jahres.",
+              "summary": "Der Emir von Katar, Scheich Tamim bin Hamad Al Thani, besucht die Schweiz am 18. und 19. November zu einem Staatsbesuch, wie der Bundesrat am Freitag mitteilte. Der Gesamtbundesrat empfängt ihn am Mittwoch auf dem Bundesplatz; an den Gesprächen im Bernerhof nehmen Bundespräsident Guy Parmelin sowie Ignazio Cassis, Karin Keller-Sutter und Albert Rösti teil. Themen sind Wirtschaft, Finanzen, Wissenschaft, Energie, Mediation und regionale Konflikte.",
+              "gegenstimme": "Katar wird von Menschenrechtsorganisationen und Teilen der Politik wegen der Lage von Arbeitsmigranten, eingeschränkter Meinungsfreiheit und der Rechte von Frauen und LGBTQ-Personen kritisiert; das Emirat beherbergt zudem seit Jahren die politische Führung der Hamas. Interne Dokumente zeigten 2023, dass das EDA sich gegen die Lieferung von Kampfjetmunition an Katar gestellt hatte, der Bundesrat sie aber auf Druck von Parmelins Departement bewilligte. Befürworter verweisen dagegen auf Katars Rolle als Vermittler und Gaslieferant.",
+              "sources": [
+                {
+                  "name": "Bundesrat / EFD – Medienmitteilung",
+                  "url": "https://www.efd.admin.ch/de/newnsb/UgZNBZzLlYqV"
+                },
+                {
+                  "name": "Nau.ch / Keystone-SDA",
+                  "url": "https://www.nau.ch/news/schweiz/emir-von-katar-kommt-zu-zweitagigem-staatsbesuch-in-die-schweiz-67202036"
+                },
+                {
+                  "name": "20 minutes",
+                  "url": "https://www.20min.ch/fr/story/diplomatie-l-emir-du-qatar-est-attendu-en-suisse-pour-une-visite-d-etat-103666954"
+                },
+                {
+                  "name": "Blick (2023, Gegenperspektive)",
+                  "url": "https://www.blick.ch/ausland/eda-warnte-vor-lieferung-von-kampfjetmunition-an-katar/q9gsxp9"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-sgb-initiative-lehre-5000-franken",
+              "slug": "sgb-initiative-lehre-5000-franken",
+              "title": "Gewerkschaftsbund beschliesst Initiative: 5000 Franken Mindestlohn nach der Lehre",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "💼",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/8077796b79ad6ade5a8a1ed82837fc5d1f63f38e-92376851.jpg?ver=f3a6c99c&fit=1200,900",
+              "kurz": "Der SGB-Kongress in Bern hat eine Volksinitiative beschlossen: mindestens 5000 Franken für gelernte Berufsleute, dazu möglicherweise acht Wochen Ferien für Lernende.",
+              "summary": "Die Delegierten des Schweizerischen Gewerkschaftsbunds haben am Freitag an ihrem Kongress in Bern mit grosser Mehrheit beschlossen, eine Volksinitiative vorzubereiten. Wer eine Berufslehre abgeschlossen hat, soll bei Vollzeit mindestens 5000 Franken im Monat verdienen. Ob auch acht Wochen Ferien für Lernende in denselben Text kommen, prüft die SGB-Spitze noch; die Unterschriftensammlung soll voraussichtlich nächstes Jahr beginnen.",
+              "gegenstimme": "Gewerbeverbandspräsident Fabio Regazzi (Mitte) nennt die Forderung eine «Extremforderung», die die Berufsbildung verteuere und dazu führen könne, dass Betriebe weniger Lehrstellen anbieten. Der Arbeitgeberverband will branchenspezifische Lösungen statt eines staatlichen Mindestlohns und verweist darauf, dass der Anteil unter 5000 Franken bei Erwerbstätigen ab 30 deutlich sinke, Erfahrung also honoriert werde. Auch acht Wochen Ferien lehnen die Arbeitgeber ab; gesetzlich gelten heute fünf.",
+              "sources": [
+                {
+                  "name": "SGB – Mitteilung",
+                  "url": "https://www.sgb.ch/gremien/detail/volksinitiative-beschlossen-die-lehre-muss-sich-lohnen"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/gewerkschaften-planen-initiative-zur-aufwertung-der-berufslehre/92376864"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/lohnoffensive-geht-in-arbeit-gewerkschaftsbund-gibt-gruenes-licht/3svfqwj"
+                },
+                {
+                  "name": "Blick – Reaktionen der Arbeitgeber",
+                  "url": "https://www.blick.ch/politik/arbeitgeber-laufen-sturm-gegen-5000-franken-mindestlohn/5b60tnr"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-microsoft-ausfall-ursache-netzwerk",
+              "slug": "microsoft-ausfall-ursache-netzwerk",
+              "title": "Microsoft-Grossstörung: Fehler bei Netzwerk-Ausbau war die Ursache, kein Angriff",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🖥️",
+              "edition": "midday",
+              "kurz": "Microsoft führt den zweitägigen Ausfall von Outlook, Teams und Copilot auf einen Fehler bei einem Kapazitätsausbau zurück. Ein Cyberangriff war es laut Konzern nicht.",
+              "summary": "Microsoft hat die Ursache der weltweiten Störung von Microsoft 365 vom Donnerstag und Freitag genannt: Ein Fehler, der bei einem früheren Ausbau der Netzwerkkapazität entstanden war, trat nach einer neueren Netzwerkänderung zutage. Server fielen aus, die übrigen wurden überlastet, und der Ausfall griff auf alle von Exchange Online abhängigen Dienste über. Laut Microsoft war es weder ein Cyberangriff noch ein Problem mit KI-Agenten; die Dienste seien wiederhergestellt.",
+              "gegenstimme": "Microsoft hat einen vollständigen Störungsbericht erst angekündigt; bis dahin beruht die Erklärung allein auf den Angaben des Konzerns. Kritiker der Cloud-Abhängigkeit sehen im Ausfall einen Beleg dafür, wie verwundbar Firmen und Verwaltungen sind, die E-Mail, Kalender und Zusammenarbeit vollständig an einen einzigen US-Anbieter auslagern. Zudem verging fast ein Tag, bis Microsoft überhaupt eine plausible Ursache benennen konnte.",
+              "sources": [
+                {
+                  "name": "Microsoft-Statusmeldung (Spiegel UPenn)",
+                  "url": "https://mailservices.isc.upenn.edu/computing/email/penno365/alerts/ms-incidents.html"
+                },
+                {
+                  "name": "Moneycontrol",
+                  "url": "https://www.moneycontrol.com/technology/microsoft-apologises-for-365-outage-blames-issue-from-network-capacity-upgrade-article-14079853.html"
+                },
+                {
+                  "name": "USA Today",
+                  "url": "https://www.usatoday.com/story/tech/2026/11/13/microsoft-dismisses-cyberattack-speculation-amid-outage/92759759007/"
+                },
+                {
+                  "name": "The Economic Times (Reuters)",
+                  "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-outage-company-cant-pinpoint-cause-disruptions-to-outlook-teams-continue/articleshow/135797097.cms"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-hormus-tanker-minen-brand",
+              "slug": "hormus-tanker-minen-brand",
+              "title": "Strasse von Hormus: Iran meldet mehrere brennende Tanker nach Minentreffern",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "international",
+              "icon": "⚓",
+              "edition": "midday",
+              "image": "https://dam.mediacorp.sg/image/upload/s--nVxJ6VeE--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/14/iran_strait_of_hormuz.jpg?itok=uBnmzu0s",
+              "kurz": "Irans Marine und Revolutionsgarden melden seit Freitag mehrere Tanker, die auf Minen gelaufen sind und brennen. Die USA sagen, die Hauptrouten seien minenfrei.",
+              "summary": "Irans Revolutionsgarden und die reguläre Marine haben am Samstag gemeldet, dass mehrere Öltanker in der Strasse von Hormus auf Seeminen gelaufen und in Brand geraten seien, darunter ein Supertanker. Die Schiffe hätten ihre Ortungssysteme abgeschaltet und eine nicht genehmigte Route genommen. Namen und Flaggen nannte Iran nicht; Al Jazeera zählt inzwischen mindestens fünf getroffene Tanker innert 24 Stunden.",
+              "gegenstimme": "Alle Angaben zu den Treffern stammen bisher von iranischen Staatsstellen, die die Vorfälle als Folge von Regelverstössen der Reedereien darstellen; unabhängig bestätigt sind weder Zahl noch Identität der Schiffe. Die US-Armee erklärt, sie habe die Hauptrouten durch die Meerenge von Minen geräumt. Aus westlicher Sicht ist das Verminen einer internationalen Wasserstrasse selbst völkerrechtswidrig, während Teheran die Genehmigungspflicht als Reaktion auf den Krieg und die US-Seeblockade rechtfertigt.",
+              "sources": [
+                {
+                  "name": "CNA (Reuters/AFP)",
+                  "url": "https://www.channelnewsasia.com/world/strait-hormuz-oil-tankers-mines-iran-6551256"
+                },
+                {
+                  "name": "Dawn",
+                  "url": "https://www.dawn.com/news/2044482"
+                },
+                {
+                  "name": "Al Arabiya",
+                  "url": "https://english.alarabiya.net/News/middle-east/2026/11/14/iran-s-navy-says-oil-tanker-on-fire-after-hitting-mine-in-hormuz"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-usa-masern-eliminationsstatus-verloren",
+              "slug": "usa-masern-eliminationsstatus-verloren",
+              "title": "USA verlieren Status als masernfreies Land",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "international",
+              "icon": "💉",
+              "edition": "midday",
+              "kurz": "Eine Expertenkommission der Panamerikanischen Gesundheitsorganisation hat entschieden: Masern gelten in den USA nach 26 Jahren wieder als endemisch.",
+              "summary": "Die USA haben ihren Status als Land verloren, in dem Masern eliminiert sind. Das hat eine unabhängige Expertenkommission der Panamerikanischen Gesundheitsorganisation PAHO entschieden, wie das «Wall Street Journal», die «Washington Post» und CNN am Freitag berichteten. Grund ist, dass derselbe Virusstamm länger als zwölf Monate im Land weitergegeben wurde; den Status hatten die USA seit 2000.",
+              "gegenstimme": "Die CDC-Direktorin Erica Schwartz betonte laut AP, der Verlust ändere nichts an der Bekämpfung der Ausbrüche; HHS-Minister Robert F. Kennedy Jr. hat sich bisher nicht direkt geäussert. Sein Ministerium hatte die PAHO-Prüfung im Frühjahr verzögert, um mehr Zeit für Genanalysen zu haben, was demokratische Senatoren kritisierten. Impfskeptiker in der Regierung, darunter Präsident Trump selbst, haben die Sicherheit von Impfstoffen angezweifelt; Fachleute machen gerade diese Haltung für sinkende Impfquoten mitverantwortlich.",
+              "sources": [
+                {
+                  "name": "RNZ / CNN",
+                  "url": "https://www.rnz.co.nz/news/world/2594831/us-loses-measles-elimination-status-as-cases-surge-vaccination-levels-fall"
+                },
+                {
+                  "name": "Washington Post",
+                  "url": "https://www.washingtonpost.com/health/2026/11/13/us-loses-measles-elimination-status-erasing-landmark-achievement/"
+                },
+                {
+                  "name": "Investing.com (Reuters/WSJ)",
+                  "url": "https://www.investing.com/news/world-news/us-loses-measlesfree-status-after-continued-spread-of-the-disease-wsj-reports-5026857"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/measles-paho-rfk-elimination-child-deaths-c2f73f91458992f3320d0228b7787627"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-tuerkei-katar-verteidigungspakt",
+              "slug": "tuerkei-katar-verteidigungspakt",
+              "title": "Türkei und Katar schliessen gegenseitigen Verteidigungspakt",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "international",
+              "icon": "🛡️",
+              "edition": "midday",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af72f8f-1794584463.jpg?resize=1920%2C1440",
+              "kurz": "Erdogan und Emir Tamim haben in Istanbul ein Abkommen unterzeichnet: gemeinsame Haltung bei einem Angriff auf eines der Länder, mehr Manöver und Rüstungskooperation.",
+              "summary": "Die Türkei und Katar haben am Freitag in Istanbul ein gegenseitiges Verteidigungsabkommen unterzeichnet. Präsident Recep Tayyip Erdogan und Emir Tamim bin Hamad Al Thani verpflichten sich zu einer gemeinsamen Position bei einem bewaffneten Angriff von aussen auf eines oder beide Länder sowie zu mehr gemeinsamen Übungen, Rüstungszusammenarbeit und Ausbildungsaustausch. Was genau den Bündnisfall auslöst und wie eine gemeinsame Reaktion aussähe, steht im veröffentlichten Kommuniqué nicht.",
+              "gegenstimme": "Analysten in Katar betonen, es handle sich um ein reines Abschreckungsbündnis, nicht um eine Allianz gegen ein bestimmtes Land. Aus israelischer und westlicher Sicht ist die Achse Ankara-Doha jedoch heikel: Beide Staaten pflegen Beziehungen zur Hamas, und die Türkei ist Nato-Mitglied, was Fragen nach möglichen Verpflichtungen im Konfliktfall aufwirft. Zudem fehlt eine automatische Beistandspflicht, sodass der praktische Wert des Pakts unklar bleibt.",
+              "sources": [
+                {
+                  "name": "Al Jazeera / Anadolu",
+                  "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know"
+                },
+                {
+                  "name": "Arab News",
+                  "url": "https://www.arabnews.com/middle-east/turkiye-qatar-sign-mutual-defense-agreement-pledge-unified-stance-against-attack-3011680"
+                },
+                {
+                  "name": "Berliner Zeitung",
+                  "url": "https://www.berliner-zeitung.de/article/tuerkei-katar-verteidigungsabkommen-militaerpakt-erdogan-emir-10596908"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-csu-hoehere-abschlaege-fruehrente",
+              "slug": "csu-hoehere-abschlaege-fruehrente",
+              "title": "Deutschland: Frührente soll teurer werden, Abschläge steigen auf 0,4 Prozent pro Monat",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "politik",
+              "icon": "🧓",
+              "edition": "midday",
+              "kurz": "CSU-Landesgruppenchef Hoffmann kündigt höhere Rentenabschläge an: Wer früher geht, verliert pro Monat 0,4 statt 0,3 Prozent Rente, möglichst ab 2027.",
+              "summary": "Wer in Deutschland vorzeitig in Rente geht, soll künftig pro vorgezogenen Monat 0,4 statt 0,3 Prozent Rente verlieren. Das kündigte CSU-Landesgruppenchef Alexander Hoffmann im Redaktionsnetzwerk Deutschland an; die Regel soll möglichst schon für das Haushaltsjahr 2027 wirken. Hintergrund ist, dass der Bund seinen Zuschuss an die Rentenversicherung 2027 um drei statt eine Milliarde Euro kürzen will.",
+              "gegenstimme": "Der Sozialverband Deutschland lehnt Verschlechterungen beim Renteneintritt ab und will die abschlagsfreie Rente nach 45 Beitragsjahren erhalten; in der SPD gibt es grossen Widerstand gegen deren Abschaffung. Kritiker wenden ein, höhere Abschläge träfen vor allem Menschen in körperlich belastenden Berufen, die nicht bis zum Rentenalter arbeiten können. Die Union hält dagegen, ohne solche Schritte müssten Beiträge oder Steuerzuschüsse noch stärker steigen.",
+              "sources": [
+                {
+                  "name": "n-tv (Reuters)",
+                  "url": "https://www.n-tv.de/politik/CSU-kuendigt-hoehere-Rentenabschlaege-an-id31533573.html"
+                },
+                {
+                  "name": "Tagesspiegel",
+                  "url": "https://www.tagesspiegel.de/politik/das-ist-uberfallig-csu-landesgruppenchef-kundigt-hohere-abschlage-bei-fruhrente-an-16284187.html"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/plaene-abzuege-bei-fruehrente-sollen-von-0-3-auf-0-4-prozent-pro-monat-steigen-100.html"
+                },
+                {
+                  "name": "SoVD (Gegenposition)",
+                  "url": "https://www.sovd.de/medienservice/sovd-zeitung/ausgabe/artikel/altersrente-ist-auch-eine-frage-von-respekt"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-operation-endgame-gootloader-stealc",
+              "slug": "operation-endgame-gootloader-stealc",
+              "title": "Operation Endgame: Ermittler legen 235 Server von Schadsoftware-Netzen lahm",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🚔",
+              "edition": "midday",
+              "image": "https://www.europol.europa.eu/cms/sites/default/files/styles/900x/public/images/Operation-Gootloader-lead.png?itok=57SkmQQo",
+              "kurz": "Europol und Partner haben die Infrastruktur hinter Gootloader, CastleRAT und StealC zerschlagen und 6,4 Millionen gestohlene Zugangsdaten sichergestellt.",
+              "summary": "Europol, das deutsche BKA, das FBI und weitere Behörden aus neun Ländern haben in einer neuen Runde der «Operation Endgame» die Infrastruktur der Schadprogramme Gootloader, CastleRAT und StealC zerschlagen. Insgesamt wurden 235 Server und 257 Domains abgeschaltet oder beschlagnahmt. Auf den Servern fanden die Ermittler über 6 Millionen gestohlene Zugangsdaten von Opfern.",
+              "gegenstimme": "Laut Berichten gab es in dieser Runde keine Festnahmen; die mutmasslichen Betreiber bleiben damit vorerst unbehelligt und können neue Infrastruktur aufbauen, wie es nach früheren Zerschlagungen oft geschah. Zudem holen beschlagnahmte Server bereits gestohlene und weiterverkaufte Daten nicht zurück: Für Betroffene bleibt das Risiko, solange sie Passwörter nicht ändern.",
+              "sources": [
+                {
+                  "name": "Europol – Mitteilung",
+                  "url": "https://www.europol.europa.eu/media-press/newsroom/news/64-million-victim-datasets-secured-in-international-operation-against-malware-networks"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Operation-Endgame-Weltweiter-Schlag-gegen-Cybercrime-11524460.html"
+                },
+                {
+                  "name": "BKA / GenStA Frankfurt (Presseportal)",
+                  "url": "https://www.presseportal.de/blaulicht/pm/7/6389442"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-falsche-apothekerin-europol-neuenburg",
+              "slug": "falsche-apothekerin-europol-neuenburg",
+              "title": "Von Europol gesuchte falsche Apothekerin arbeitete in Bern, Basel, Lausanne und Neuenburg",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "schweiz",
+              "icon": "💊",
+              "edition": "midday",
+              "kurz": "Eine in Spanien verfolgte Frau mit gefälschtem Apothekerdiplom wurde von vier Schweizer Arbeitgebern angestellt und lebt unbehelligt im Kanton Neuenburg.",
+              "summary": "Eine Spanierin, die seit August auf der Liste der meistgesuchten Personen von Europol steht, lebt laut einer Recherche der Zeitung «Arcinfo» unbehelligt im Kanton Neuenburg. Mit einem gefälschten, in der Schweiz nie anerkannten Apothekerdiplom wurde sie 2023 und 2024 von vier Arbeitgebern in Lausanne, Bern, Basel und Neuenburg angestellt, darunter das Neuenburger Spitalnetz RHNE. In Spanien wird sie wegen illegaler Ausübung der Medizin verfolgt.",
+              "gegenstimme": "Das RHNE betont, die Frau habe nie allein Handlungen vorgenommen, und hat den Fall nach den Fragen der Journalisten der Staatsanwaltschaft übergeben. Dass sie trotz Fahndung frei ist, muss nicht auf ein Behördenversagen hindeuten: Nicht jede Person auf der Europol-Liste ist mit einem internationalen Haftbefehl gesucht. Gleichwohl bleibt unbeantwortet, warum Arbeitgeber wegen des Apothekermangels Verträge unterschrieben, ohne die vom Bund vorgeschriebene Diplomanerkennung abzuwarten.",
+              "sources": [
+                {
+                  "name": "Arcinfo",
+                  "url": "https://www.arcinfo.ch/neuchatel-canton/recherchee-en-europe-cette-fausse-pharmacienne-vit-dans-le-canton-de-neuchatel-et-a-pu-se-faire-engager-dans-plusieurs-cantons-1521399"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/neuenburg-europol-sucht-falsche-apothekerin-sie-arbeitet-in-der-schweiz-103666938"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/audio-podcast/2026/audio/une-fausse-pharmacienne-dupe-plusieurs-officines-et-le-reseau-hospitalier-neuchatelois-interview-de-sabrina-burgat-29415516.html"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/hochstaplerin-lebt-trotz-internationaler-fahndung-in-der-schweiz-67201847"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-bringhen-group-ransomware-visp",
+              "slug": "bringhen-group-ransomware-visp",
+              "title": "Ransomware legt Walliser Baustoffhändler Bringhen zwei Tage lahm",
+              "date": "2026-11-14",
+              "time": "12:30",
+              "category": "tech",
+              "icon": "🔒",
+              "edition": "midday",
+              "kurz": "Die Bringhen Group aus Visp mit rund 400 Angestellten wurde Opfer eines Ransomware-Angriffs, laut Firma durch die Gruppe «The Gentlemen». Backups retteten den Betrieb.",
+              "summary": "Die Bringhen Group in Visp VS, ein Familienunternehmen für Baustoffe, Küchen und Bäder mit rund 400 Angestellten, ist Opfer eines Ransomware-Angriffs geworden. Die Angreifer drangen laut Firmenchef Jean-Pierre Bringhen am Dienstagabend ein und verschlüsselten Teile der Daten; Bestellungen und Zahlungen standen am Mittwoch und Donnerstag schweizweit still. Dank Backups läuft der Grossteil des Betriebs wieder.",
+              "gegenstimme": "Die Zuschreibung an die russischsprachige Gruppe «The Gentlemen» stammt von der Firma selbst und ist bisher nicht durch Behörden oder ein Bekennerschreiben bestätigt. Ob Kundendaten abgeflossen sind, ist offen; bei solchen Angriffen werden Daten häufig vor der Verschlüsselung kopiert und später veröffentlicht. Dass die Zahl der Angriffe sich verdoppelt habe, beruht auf einer Analyse der Sicherheitsfirma Check Point, die selbst Schutzprodukte verkauft.",
+              "sources": [
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/wirtschaft/weltbekannte-gentlemen-hacker-greifen-bringhen-group-im-wallis-an/vsqlnzn"
+                },
+                {
+                  "name": "Pomona",
+                  "url": "https://pomona.ch/story/826130/bringhen-group-gesamte-itinfrastruktur-nach-hackerattacke-lahmgelegt-"
                 }
               ]
             }
