@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:16:29+01:00",
+  "updated": "2026-11-14T17:23:51+01:00",
   "days": [
     {
       "date": "2026-11-14",
@@ -785,6 +785,339 @@
                 {
                   "name": "Pomona",
                   "url": "https://pomona.ch/story/826130/bringhen-group-gesamte-itinfrastruktur-nach-hackerattacke-lahmgelegt-"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:40",
+          "articles": [
+            {
+              "id": "2026-11-14-bilaterale-iii-abstimmung-2028",
+              "slug": "bilaterale-iii-abstimmung-2028",
+              "title": "EU-Verträge: Volksabstimmung rückt wohl ins Jahr 2028",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "schweiz",
+              "icon": "🇪🇺",
+              "edition": "evening",
+              "kurz": "Das Parlament kann die Bilateralen III in der Wintersession kaum abschliessen. Damit reicht es nicht mehr für eine Abstimmung vor den Wahlen im Herbst 2027.",
+              "summary": "Die Hauptvorlagen zu den neuen EU-Verträgen stehen für die Wintersession nicht auf der Traktandenliste des Ständerats; am 7. Dezember ist dort einzig das Stromabkommen vorgesehen. Laut «Schweiz am Wochenende» und Tages-Anzeiger fehlt wegen Budgetdebatte, Bundesratswahl vom 9. Dezember und Terminen von Aussenminister Cassis die Zeit für die Differenzbereinigung. Eine Volksabstimmung im Juni 2027 wäre damit kaum mehr möglich, realistisch wird 2028.",
+              "gegenstimme": "Für die SVP, die das Paket als «Unterwerfungsvertrag» bekämpft, ist die Verzögerung willkommen: Sie kann die EU-Frage im Wahlkampf 2027 thematisieren, und das Volk entscheidet erst nach den Wahlen. SP, Grüne und Teile von FDP und Mitte wollten dagegen rasch abstimmen, um den bilateralen Weg abzusichern. Offen ist zudem, ob neben dem Volksmehr auch das Ständemehr nötig ist; die hängige Kompass-Initiative will das für solche Verträge vorschreiben.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/bilaterale-iii-volksabstimmung-fruehestens-2028-545190342698"
+                },
+                {
+                  "name": "CH Media / Vaterland",
+                  "url": "https://www.vaterland.li/regional/schweiz/eu-paket-abstimmung-vor-den-wahlen-wohl-kaum-moeglich-art-770464"
+                },
+                {
+                  "name": "ch-ue.com (Fahrplan)",
+                  "url": "https://ch-ue.com/de/aktuell/abstimmung-bilaterale-iii-termin/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-fmh-gilli-kostenbremse-bundesrat",
+              "slug": "fmh-gilli-kostenbremse-bundesrat",
+              "title": "Ärztepräsidentin Gilli: Bundesrat hat bei der Kostenbremse seine Kompetenz überschritten",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "schweiz",
+              "icon": "🩺",
+              "edition": "evening",
+              "kurz": "Der Bundesrat will das Kostenwachstum bei ambulanten Arztleistungen auf vier Prozent pro Jahr begrenzen. Die FMH bestreitet die Rechtsgrundlage, signalisiert aber Verhandlungsbereitschaft.",
+              "summary": "FMH-Präsidentin Yvonne Gilli wirft dem Bundesrat vor, mit seinem Auftrag an die Tarifpartner seine Kompetenz überschritten zu haben: Für eine Obergrenze von vier Prozent Kostenwachstum im ambulanten Bereich gebe es weder Gesetz noch parlamentarischen Auftrag. Der Bundesrat hatte am Mittwoch das Gesundheitsdepartement beauftragt, Eingriffe vorzubereiten, falls die Grenze überschritten wird. Gilli äusserte sich in der «Samstagsrundschau» von Radio SRF.",
+              "gegenstimme": "Der Bundesrat argumentiert, er habe Ärzteschaft, Spitäler und Krankenkassen seit April 2025 wiederholt um ein gemeinsames Konzept gebeten und keines erhalten; ohne Druck stiegen Prämien weiter. Aus Sicht der Ärzte wiederum ist eine starre Grenze faktisch ein Globalbudget, das bei neuen Leistungen oder teuren Medikamenten zu Rationierung führe.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/streit-um-gesundheitskosten-aerzte-praesidentin-bundesrat-hat-seine-kompetenz-ueberschritten"
+                },
+                {
+                  "name": "Watson / Keystone-ATS",
+                  "url": "https://www.watson.ch/fr/suisse/economie/219796165-la-cheffe-des-medecins-suisses-s-inquiete-du-plan-de-berne"
+                },
+                {
+                  "name": "Medinside",
+                  "url": "https://www.medinside.ch/de/vom-volk-verworfen,-vom-bundesrat-verordnet-20261113"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-swiss-travel-id-online-checkin",
+              "slug": "swiss-travel-id-online-checkin",
+              "title": "Swiss und Edelweiss: Online-Check-in ab Zürich nur noch mit Kundenkonto",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://media.20min.ch/6/image/2023/12/22/cca7aa28-e815-4fc5-80d8-52b6aca73c7b.jpeg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C2048%2C1365&s=de56e815fe0973863479e4e67e400d5d",
+              "kurz": "Ab Montag, 16. November, verlangen Swiss und Edelweiss für das Online-Check-in ab Zürich eine Travel ID. Ohne Konto bleibt nur Schalter oder Automat.",
+              "summary": "Wer ab dem 16. November bei Swiss oder Edelweiss ab Zürich online einchecken will, braucht ein Login mit der Travel ID der Lufthansa-Gruppe; Name und Buchungsnummer reichen nicht mehr. Das Konto ist kostenlos, verlangt aber Name, Geburtsdatum, E-Mail-Adresse und Passwort. Ohne Konto ist das Einchecken weiterhin am Schalter oder Automaten am Flughafen möglich.",
+              "gegenstimme": "Wer online einchecken will, muss der Airline-Gruppe künftig persönliche Daten wie Geburtsdatum und E-Mail-Adresse in einem Konto anvertrauen; wer das nicht will, muss den Umweg über Schalter oder Automat nehmen. Die Swiss verweist auf schnellere Abläufe, vorausgefüllte Formulare und auf ausgewählten Flügen kostenloses Starlink-WLAN.",
+              "sources": [
+                {
+                  "name": "Lufthansa Group",
+                  "url": "https://business.lufthansagroup.com/ch/de/program/experts/news/travel-id-now-required-for-online-check-in"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/swiss-online-check-in-ab-16-november-nur-noch-mit-travel-id-ab-zuerich-103661155"
+                },
+                {
+                  "name": "Cash",
+                  "url": "https://www.cash.ch/news/top-news/ohne-kundenkonto-gibts-bei-swiss-und-edelweiss-kein-online-check-in-mehr-982761"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/swiss-ab-16-11-braucht-es-travel-id-fuer-online-check-in-230063848063"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-a8-brienzwiler-frontalkollision-reisecar",
+              "slug": "a8-brienzwiler-frontalkollision-reisecar",
+              "title": "A8 bei Brienzwiler: Auto nach Frontalkollision in voll besetzten Reisecar geschleudert",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "regional",
+              "icon": "🚨",
+              "edition": "evening",
+              "image": "https://c.nau.ch/i/JMkmwy/1360/680/brienzwiler-be.jpg",
+              "kurz": "Bei einer Kollision mehrerer Fahrzeuge vor dem Soliwaldtunnel wurden drei Personen leicht verletzt. Die A8 war rund sechs Stunden gesperrt.",
+              "summary": "Am Freitag kurz vor 18.25 Uhr geriet ein vom Brünigpass kommender Autolenker auf der A8 bei Brienzwiler in einer Rechtskurve über den Mittelstreifen, streifte einen Lastwagen und prallte frontal in ein entgegenkommendes Auto. Dieses wurde rückwärts gegen einen voll besetzten Reisecar geschleudert. Drei Personen wurden leicht verletzt, im Car niemand; die Strecke Brienzwiler–Gnoll samt Soliwaldtunnel war rund sechs Stunden zu.",
+              "gegenstimme": "Die Polizeimitteilung nennt keine Ursache, und die Medienberichte gehen nicht darüber hinaus; Spekulationen über Tempo, Ablenkung oder Fahrtüchtigkeit sind derzeit unbelegt. Dass im Reisecar niemand verletzt wurde, zeigt auch: Der Ausgang war glimpflich, die Schlagzeile «voll besetzter Reisecar» klingt dramatischer als die Folgen.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern (via Nau.ch)",
+                  "url": "https://www.nau.ch/ort/interlaken/brienzwiler-be-drei-leichtverletzte-bei-frontalkollision-auf-der-a8-67202193"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/unfall-a8-brienzwiler-frontalkollision-mit-drei-verletzten-433922302190"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/unfall-a8-brienzwiler-frontalkollision-mit-drei-verletzten-433922302190"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-italien-busse-meta-805-millionen",
+              "slug": "italien-busse-meta-805-millionen",
+              "title": "Italien büsst Meta mit 805 Millionen Euro wegen Zugriff auf Handyfotos",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "tech",
+              "icon": "📱",
+              "edition": "evening",
+              "kurz": "Die italienische Datenschutzbehörde wirft Meta vor, über die Facebook-App ohne gültige Einwilligung auf Fotos und Videos von rund 20 Millionen Android-Nutzern zugegriffen zu haben.",
+              "summary": "Der Garante per la protezione dei dati personali hat Meta Platforms Ireland am Samstag mit 805 Millionen Euro gebüsst, laut Behörde rund 0,47 Prozent des weltweiten Konzernumsatzes. Die Facebook-App für Android habe über die Funktion «Vorschläge aus der Galerie» auf Fotos, Videos und Metadaten der Nutzer zugegriffen, ohne spezifische Einwilligung und standardmässig aktiviert. Meta muss die Funktion innert 60 Tagen standardmässig abschalten und eine separate Zustimmung einholen.",
+              "gegenstimme": "Meta hatte die Zuständigkeit der italienischen Behörde bestritten und auf die irische Aufsicht verwiesen, bei der der Konzern seinen EU-Sitz hat; der Garante wies das zurück, weil die ePrivacy-Regeln kein «One-Stop-Shop»-Verfahren kennen. Eine Stellungnahme von Meta lag zunächst nicht vor, ein Weiterzug an ein Gericht ist möglich. Zu Metas Gunsten spricht, dass Nutzer den Galeriezugriff aktiv freigeben mussten und der Konzern die Funktion nach der Meldung angepasst hat; die Behörde wertete das aber als verspätet und auf Nutzer mit App-Update beschränkt.",
+              "sources": [
+                {
+                  "name": "Garante Privacy",
+                  "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/zugriff-ohne-einwilligung-meta-muss-in-italien-805-millionen-euro-strafe-zahlen"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/facebook-konzern-italien-verhaengt-805-millionen-euro-strafe-gegen-meta/100269912.html"
+                },
+                {
+                  "name": "n-tv / Reuters",
+                  "url": "https://www.n-tv.de/ticker/Italien-verhaengt-Meta-Strafe-wegen-Datenschutzverstoss-id31534499.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-openai-loest-robotik-team-auf",
+              "slug": "openai-loest-robotik-team-auf",
+              "title": "OpenAI löst eigenständiges Robotik-Team auf: Allzweckmodelle sollen Roboter steuern",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "evening",
+              "image": "https://the-decoder.de/wp-content/uploads/2026/09/openai_robot_arms.png",
+              "kurz": "OpenAI verteilt seine Robotik-Forscher auf andere Abteilungen. Begründung: Allgemeine Modelle wie GPT-6 Astra könnten Roboter inzwischen direkt steuern.",
+              "summary": "OpenAI hat sein eigenständiges Robotik-Team aufgelöst, wie zuerst Fortune berichtete. Die Forschenden wechseln ins Hauptforschungsteam von Chief Research Officer Mark Chen, die Teams für angewandte Robotik und Hardware zur Applied-Organisation von Präsident Greg Brockman. Robotik bleibt laut Berichten Teil der langfristigen Strategie, soll aber über die allgemeinen Modelle laufen.",
+              "gegenstimme": "Spezialisierte Robotikmodelle gelten laut Fachberichten weiterhin als günstiger, zuverlässiger, schneller und energiesparender, auch wenn sie schlechter verallgemeinern. Zudem stammen die Leistungsbelege für GPT-6 Astra grossteils aus Simulationen und kleinen Benchmarks. The Decoder verweist zudem darauf, dass OpenAI unter finanziellem Druck steht und im Kerngeschäft Boden gegenüber Anthropic verloren hat; der Umbau lässt sich also auch als Fokussierung aus Kostengründen lesen.",
+              "sources": [
+                {
+                  "name": "Fortune",
+                  "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+                },
+                {
+                  "name": "Golem",
+                  "url": "https://www.golem.de/news/neue-gewichtung-openai-loest-robotik-team-auf-2611-215222.html"
+                },
+                {
+                  "name": "The Decoder",
+                  "url": "https://the-decoder.de/openai-verteilt-robotik-forscher-auf-andere-teams-weil-allzweckmodelle-spezialisierte-robotik-ki-ueberfluessig-machen/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-mecklenburg-vorpommern-rot-rot-gruen",
+              "slug": "mecklenburg-vorpommern-rot-rot-gruen",
+              "title": "Mecklenburg-Vorpommern bekommt erstmals eine rot-rot-grüne Regierung",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "evening",
+              "kurz": "Nach der Linken haben auch SPD und Grüne dem Koalitionsvertrag zugestimmt. Manuela Schwesig will sich am Montag im Landtag wiederwählen lassen.",
+              "summary": "SPD und Grüne in Mecklenburg-Vorpommern haben am Samstag auf getrennten Parteitagen dem 133-seitigen Koalitionsvertrag mit der Linken zugestimmt, die ihn bereits am Freitagabend gebilligt hatte. Der Vertrag soll noch am Samstagabend in Greifswald unterzeichnet werden. Ministerpräsidentin Manuela Schwesig (SPD) stellt sich am Montag im Landtag zur Wiederwahl.",
+              "gegenstimme": "Kritik kommt auch aus dem eigenen Umfeld: Gewerkschaften bemängeln laut NDR Einzelheiten des Regierungsprogramms. Bei den Grünen kritisierten einzelne Delegierte, das Thema Integration komme zu kurz. Überschattet wurde der Grünen-Parteitag von neuen Berichten der «Welt am Sonntag» über den Umgang mit Belästigungsvorwürfen gegen die frühere Fraktionschefin.",
+              "sources": [
+                {
+                  "name": "NDR",
+                  "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/gruene-und-spd-stimmen-koalitionsvertrag-in-mv-zu,mvlandtag-122.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6af8565f9849eea0701e2b81/landesregierung-mecklenburg-vorpommern-bekommt-erstmals-rot-rot-gruen.html"
+                },
+                {
+                  "name": "taz (Einordnung)",
+                  "url": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6228883/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-russland-nato-stand-1997-forderung",
+              "slug": "russland-nato-stand-1997-forderung",
+              "title": "Russisches Papier: Moskau verlangt Nato-Rückzug auf den Stand von 1997",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "international",
+              "icon": "🇷🇺",
+              "edition": "evening",
+              "kurz": "Laut einem von der New York Times eingesehenen Dokument fordert Russland in den Ukraine-Gesprächen den Abzug von Nato-Truppen aus allen nach 1997 beigetretenen Staaten.",
+              "summary": "Russland hat bei den Gesprächen in Abu Dhabi laut einem Positionspapier vom 10. November verlangt, dass die Nato Truppen und Stützpunkte auf den Stand von 1997 zurückzieht, also aus Polen, den baltischen Staaten und weiteren Ländern Osteuropas. Zudem fordert Moskau ein Ende aller westlichen Waffenlieferungen an die Ukraine, den Verzicht auf weitere Nato-Erweiterungen und die Zusage Frankreichs und Grossbritanniens, ihre Atomwaffen nicht zum Schutz anderer europäischer Staaten einzusetzen. Das Papier hat laut NYT weder Briefkopf noch Unterschrift und gilt als Ausgangsposition.",
+              "gegenstimme": "Russische Vertreter deuteten laut NYT an, Präsident Putin sei kompromissbereit; aus Moskauer Sicht geht es um Sicherheitsgarantien gegen eine Nato, die sich seit 1997 bis an die russische Grenze ausgedehnt hat. Polens Regierungschef Donald Tusk nennt die Forderungen dagegen eine direkte Bedrohung für Polens Sicherheit, und europäische Regierungen haben sie bereits zurückgewiesen. Die US-Gesandten Witkoff und Kushner hielten den Russen entgegen, seit Dezember 2021 habe sich viel verändert.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-new-york-times-russland-will-nato-auf-stand-von-1997-schrumpfen"
+                },
+                {
+                  "name": "Hromadske",
+                  "url": "https://hromadske.ua/en/war/274381-russia-demands-nato-retreat-to-1997-positions-in-ukraine-peace-talks-nyt"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/ausland/putin-will-nato-militarisch-auf-stand-von-1997-zuruckdrangen-67202197"
+                },
+                {
+                  "name": "Ukrainska Pravda",
+                  "url": "https://www.pravda.com.ua/eng/news/2026/11/14/8062819/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-eu-fordert-gaza-zugang-ueberschwemmungen",
+              "slug": "eu-fordert-gaza-zugang-ueberschwemmungen",
+              "title": "EU fordert von Israel sofortigen Zugang für Hilfe nach Überschwemmungen in Gaza",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "international",
+              "icon": "🌧️",
+              "edition": "evening",
+              "kurz": "Die EU verlangt die Öffnung aller Grenzübergänge nach Gaza. Starkregen hat laut Unicef mindestens 106'000 Menschen getroffen.",
+              "summary": "Die EU hat Israel am Samstag in einer Erklärung der Aussenbeauftragten Kaja Kallas aufgefordert, alle Grenzübergänge zum Gazastreifen zu öffnen und Hilfsorganisationen «sofortigen, ungehinderten» Zugang zu gewähren. Anlass sind Überschwemmungen nach heftigem Regen, die laut Unicef in den letzten Tagen mindestens 106'000 Menschen direkt betrafen; Tausende Zelte von Vertriebenen standen unter Wasser. Die EU bezeichnete zudem den israelischen Luftangriff auf das Nasser-Spital vom Donnerstag als «zutiefst alarmierend».",
+              "gegenstimme": "Eine israelische Reaktion auf die Erklärung lag in den geprüften Quellen nicht vor; die Armee sagt zum Angriff auf das Nasser-Spital, sie habe einen Hamas-Kommandanten ins Visier genommen, und zum Drohnenangriff vom Samstag in Jabaliya, es seien zwei Hamas-Kämpfer getroffen worden. Aus israelischer Sicht nutzt die Hamas zivile Einrichtungen und Hilfslieferungen für ihre Zwecke, weshalb Kontrollen an den Übergängen nötig seien. Die Zahlen zur zerstörten Infrastruktur stammen teils vom Hamas-geführten Medienbüro in Gaza.",
+              "sources": [
+                {
+                  "name": "Rat der EU",
+                  "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/statement/"
+                },
+                {
+                  "name": "Al Jazeera / AP",
+                  "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/eu-demands-israel-grant-immediate-unimpeded-aid-to-gaza-amid-winter-flooding/"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-eu-fordert-ungehinderten-zugang-fuer-hilfsgueter-nach-gaza"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-israel-arabische-gemeinschaft-200-tote",
+              "slug": "israel-arabische-gemeinschaft-200-tote",
+              "title": "Israel: Granatenanschlag auf Konditorei, 200. Tötungsopfer in der arabischen Gemeinschaft",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "evening",
+              "kurz": "In Kafr Manda wurde eine Frau durch eine Handgranate getötet. Sie ist das 200. Tötungsopfer unter Israels arabischen Bürgern in diesem Jahr.",
+              "summary": "Unbekannte haben am Samstag in der arabischen Stadt Kafr Manda im Norden Israels eine Splittergranate in eine Konditorei geworfen. Lina Qassem (Zidan) aus Daliyat al-Karmel, die dort Süssigkeiten kaufte, wurde getötet, drei weitere Menschen verletzt, darunter ihr Ehemann, den die Täter laut ynet zudem anfuhren. Die Polizei nahm drei Verdächtige fest und fand das mutmassliche Tatfahrzeug versteckt.",
+              "gegenstimme": "Bewohner von Kafr Manda sagen, die Tat sei nach einem Monat mit Schüssen und Granatenanschlägen absehbar gewesen, und stellen damit die Wirksamkeit der Polizei in Frage; die Polizei verweist auf die rasche Festnahme von drei Verdächtigen. Politisch wird das Thema zugespitzt: Der frühere Generalstabschef Gadi Eisenkot warf Premier Netanyahu diese Woche eine «rassistische» Kampagne gegen arabische Bürger vor. Erste Einschätzungen im Ort deuten auf eine Fehde hin; Hinweise auf ein politisches oder religiöses Motiv nennen die Quellen nicht.",
+              "sources": [
+                {
+                  "name": "Ynet",
+                  "url": "https://www.ynetnews.com/article/r1sq11jirml"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/200th-arab-victim-this-year-woman-killed-3-hurt-as-grenade-thrown-at-pastry-shop-in-the-north/"
+                },
+                {
+                  "name": "Israel National News",
+                  "url": "https://www.israelnationalnews.com/news/436166"
+                },
+                {
+                  "name": "Ynet (Festnahmen)",
+                  "url": "https://www.ynetnews.com/article/qwndtdo9x"
+                },
+                {
+                  "name": "Guardian (Eisenkot)",
+                  "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-14-aethiopien-beschuldigt-eritrea-aegypten-tigray",
+              "slug": "aethiopien-beschuldigt-eritrea-aegypten-tigray",
+              "title": "Äthiopiens Armee wirft Eritrea und Ägypten vor, eine Tigray-Offensive gesteuert zu haben",
+              "date": "2026-11-14",
+              "time": "17:40",
+              "category": "international",
+              "icon": "🇪🇹",
+              "edition": "evening",
+              "kurz": "Äthiopiens Generalstabschef sagt, Eritrea habe eine neue Offensive der TPLF angeführt und Ägypten Waffen geliefert. Beide Länder haben solche Vorwürfe bisher bestritten.",
+              "summary": "Feldmarschall Birhanu Jula, Generalstabschef der äthiopischen Armee, hat am Samstag Eritrea beschuldigt, eine neue Offensive der Tigray-Volksbefreiungsfront (TPLF) gegen Armeestellungen in den Regionen Amhara und Afar angeführt zu haben; Ägypten habe Waffen und Logistik geliefert. Die Angriffe seien abgewehrt worden, die Kommandanten nach Eritrea geflohen. Eritrea und Ägypten haben frühere äthiopische Vorwürfe zurückgewiesen und sich zunächst nicht geäussert.",
+              "gegenstimme": "Eritrea wirft Äthiopien seinerseits vor, mit seinem Streben nach einem Zugang zum Roten Meer die eritreische Souveränität zu bedrohen und notfalls militärisch an die Küste zu wollen; Addis Abeba bestreitet das. Ägypten liegt mit Äthiopien wegen des Nil-Staudamms GERD seit Jahren im Streit. Die Angaben des Militärs, etwa zu 800'000 vor der Zwangsrekrutierung geflohenen Jugendlichen in Tigray, konnten unabhängig nicht überprüft werden.",
+              "sources": [
+                {
+                  "name": "Anadolu",
+                  "url": "https://www.aa.com.tr/en/africa/ethiopia-accuses-eritrea-of-leading-tigray-rebel-offensive-with-egyptian-support/4125272"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/ethiopia-tigray-war-eritrea-sudan-egypt-6b3208122a4221f3c2e8dcbe21630016"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks"
                 }
               ]
             }
