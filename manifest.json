@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T06:12:05+01:00",
+  "updated": "2026-11-15T12:02:08+01:00",
   "days": [
     {
       "date": "2026-11-15",
@@ -316,6 +316,344 @@
                 {
                   "name": "Schura Bremen – Stellungnahme",
                   "url": "http://www.schurabremen.de/index.php/18-startseitenbeitrag?limitstart=0"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-15-ruag-scharfschuetzenmunition-russland",
+              "slug": "ruag-scharfschuetzenmunition-russland",
+              "title": "Schweizer Scharfschützenmunition trotz Exportverbot in Russland",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🎯",
+              "edition": "midday",
+              "kurz": "Laut russischen Registerdaten gelangten 2022 und 2023 rund 110'000 Schuss Munition aus Thun über Slowenien und Kirgistan nach Russland.",
+              "summary": "Laut Recherchen der «NZZ am Sonntag» und der Tamedia-Zeitungen sind nach Beginn des russischen Angriffskriegs mindestens 110'000 Schuss Präzisionsmunition der damaligen Ruag Ammotec in Thun nach Russland gelangt: 60'000 Schuss im Dezember 2022 und 50'000 im April 2023. Die Lieferungen sind in einer Datenbank der russischen Zertifizierungsbehörde Rosakkreditazija registriert, als zivil deklariert, obwohl die Kaliber vor allem von Scharfschützen genutzt werden. Exporte von Kriegsmaterial nach Russland sind seit 2014 verboten; das Seco prüft die Angaben.",
+              "gegenstimme": "Die heutige Herstellerin SwissP Defence (seit 2022 im Besitz der italienischen Beretta-Gruppe) betont, sie liefere ausschliesslich im Rahmen der gesetzlichen Bestimmungen und nie direkt in sanktionierte Länder; die Ausfuhr nach Slowenien war vom Seco bewilligt. Der Fall zeigt eher ein Kontrollproblem beim Endverbleib im Ausland als einen Rechtsbruch in der Schweiz. Befürworter einer Lockerung des Kriegsmaterialgesetzes, über die am 29. November abgestimmt wird, sehen darin keinen Grund gegen die Vorlage; Gegner werten den Fall als Beleg, dass Weitergabekontrollen schon heute lückenhaft sind.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/schweiz/vom-berner-oberland-nach-moskau-schweizer-scharfschuetzenmunition-gelangt-illegal-nach-russland-ld.10060901"
+                },
+                {
+                  "name": "Tages-Anzeiger / Der Bund",
+                  "url": "https://www.tagesanzeiger.ch/ruag-munition-110000-schuss-illegal-nach-russland-974770985254"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/schweizer-munition-in-russland-und-brasilien-aufgetaucht-67202310"
+                },
+                {
+                  "name": "Keystone-ATS / Bluewin (Sonntagspresse)",
+                  "url": "https://www.bluewin.ch/fr/infos/suisse/revue-de-presse-du-dimanche-15-novembre-2026-li.3674108"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-800-schweizer-hotels-klagen-gegen-booking",
+              "slug": "800-schweizer-hotels-klagen-gegen-booking",
+              "title": "Rund 800 Schweizer Hotels klagen gegen Booking.com",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🏨",
+              "edition": "midday",
+              "kurz": "Eine europaweite Sammelklage von über 18'000 Betrieben fordert in Amsterdam Schadenersatz wegen der früheren Paritätsklauseln.",
+              "summary": "Rund 800 Schweizer Hotels beteiligen sich an einer europaweiten Sammelklage gegen Booking.com, die beim Bezirksgericht Amsterdam eingereicht wurde. Insgesamt fordern 18'135 Beherbergungsbetriebe Schadenersatz für Paritätsklauseln, mit denen die Plattform ihnen zwischen 2004 und 2024 untersagte, Zimmer anderswo oder direkt günstiger anzubieten. Hotelleriesuisse unterstützt die Schweizer Betriebe.",
+              "gegenstimme": "Booking.com hat sich in den konsultierten Berichten nicht geäussert. Hotelleriesuisse räumt selbst ein, dass viele Hotels für ihre internationale Sichtbarkeit auf die Plattformen angewiesen sind. Ob die Klauseln vor ihrem Verbot gegen geltendes Kartellrecht verstiessen, ist genau die umstrittene Rechtsfrage, die das Gericht klären muss. Der Bundesrat sieht bisher keinen Bedarf für eine strengere Regulierung des Onlinebuchungsmarkts.",
+              "sources": [
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/wirtschaft/paritaetsklauseln-hotels-klagen-gegen-bookingcom/1pnqswh"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/streit-mit-bookingcom-schweizer-hotels-fordern-schadenersatz-67202326"
+                },
+                {
+                  "name": "Hotelleriesuisse (Primärquelle)",
+                  "url": "https://www.hotelleriesuisse.ch/de/verband/news/news-europaweite-sammelklage"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-iran-drohnen-bahrain-zweiter-angriff",
+              "slug": "iran-drohnen-bahrain-zweiter-angriff",
+              "title": "Iran greift erneut US-Radar in Bahrain an",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🛰️",
+              "edition": "midday",
+              "kurz": "Die Revolutionsgarden melden sechs Drohnen auf eine US-Radaranlage; Bahrain meldet Abfangerfolge und gibt erstmals seit September landesweit Alarm.",
+              "summary": "Die iranischen Revolutionsgarden (IRGC) erklärten am Sonntag, sie hätten sechs Drohnen auf eine US-Luftabwehr-Radaranlage auf dem Helikopterstützpunkt Al-Rifaa in Bahrain abgefeuert. Die Streitkräfte Bahrains meldeten, sie hätten mehrere iranische Angriffe abgefangen, das Innenministerium rief zweimal landesweit dazu auf, Schutz zu suchen. Es ist der zweite derartige Angriff innerhalb von drei Tagen.",
+              "gegenstimme": "Teheran stellt die Angriffe als Vergeltung für «feindliche US-Handlungen» dar, unter anderem einen Luftangriff auf einen Telekommunikationsturm im Süden Irans; das ist aus Sicht Irans eine Antwort, nicht eine Eskalation. Bahrain wirft Iran dagegen ein «systematisch feindseliges Vorgehen» vor. Unabhängige Belege für Treffer gibt es nicht: Beim ersten Angriff am Freitag dementierte das US-Zentralkommando jeden Schaden.",
+              "sources": [
+                {
+                  "name": "CNBC / Reuters",
+                  "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
+                },
+                {
+                  "name": "The National",
+                  "url": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6af966ad4495f9bd85b80873/nahost-iran-greift-us-stuetzpunkt-in-bahrain-an-saudi-arabien-wehrt-angriff-auf-riad-ab.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-jemen-regierungstruppen-raeumen-bab-al-mandab",
+              "slug": "jemen-regierungstruppen-raeumen-bab-al-mandab",
+              "title": "Jemen: Regierungstruppen räumen Gebiet an der Meerenge Bab al-Mandab",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "international",
+              "icon": "⚓",
+              "edition": "midday",
+              "kurz": "Die südjemenitischen Truppen ziehen sich aus Dhubab zurück; die Huthi könnten damit die Kontrolle über die Küste an der Meerenge gewinnen.",
+              "summary": "Die mit der anerkannten jemenitischen Regierung verbündeten Südlichen Streitkräfte haben am Sonntag ihren Rückzug vom Flughafen Dhubab und aus dem Gebiet an der Meerenge Bab al-Mandab westlich von Taiz angekündigt. Sie begründen dies mit der Sicherung der Hauptstadt Aden und der Front. Am selben Tag fing Saudi-Arabien laut der Militärkoalition zwei ballistische Raketen der Huthi ab, die auf Riad zielten, sowie mehrere Drohnen über der Ostprovinz.",
+              "gegenstimme": "Die Südlichen Streitkräfte sprechen von einer «Umgruppierung» und nicht von einer Niederlage; sie wollen damit auch die Belagerung von Taiz durch die Huthi brechen. Beobachter wie The National sehen dagegen einen Machtgewinn der vom Iran unterstützten Huthi über eine der wichtigsten Schifffahrtsrouten zwischen Asien und Europa. Die Huthi selbst äusserten sich in den konsultierten Berichten nicht.",
+              "sources": [
+                {
+                  "name": "The National",
+                  "url": "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/"
+                },
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3448228/"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/ausland/eskalation-im-jemen-regierungstruppen-geben-bab-al-mandab-auf/gys7yb7"
+                },
+                {
+                  "name": "Gulf News / AFP (Raketen auf Riad)",
+                  "url": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-as-bahrain-issues-threat-alert-1.500747797"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-jordanien-todesurteile-anschlag-kirche-karak",
+              "slug": "jordanien-todesurteile-anschlag-kirche-karak",
+              "title": "Jordanien: Todesurteile nach Terroranschlag auf orthodoxe Kirche",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Drei Männer sind wegen des Anschlags auf eine Beerdigung in der St.-Georgs-Kirche in Hammoud mit neun Toten zum Tod verurteilt worden.",
+              "summary": "Das jordanische Staatssicherheitsgericht hat am Sonntag drei Männer zum Tod durch den Strang verurteilt. Sie hatten am 23. Oktober eine Beerdigung in der griechisch-orthodoxen St.-Georgs-Kirche im Dorf Hammoud (Gouvernement Karak) angegriffen; neun Menschen wurden getötet, rund 25 verletzt. Das Gericht sprach sie unter anderem wegen Terrorakten mit Todesfolge und der Verbreitung der Ideologie einer Terrororganisation schuldig.",
+              "gegenstimme": "Die Todesstrafe selbst ist umstritten: Menschenrechtsorganisationen lehnen sie grundsätzlich ab, und das Urteil eines Sondergerichts für Staatssicherheit nach nur rund elf Tagen Prozess dürfte Fragen zur Verfahrensdauer aufwerfen. Der Anwalt der Opferfamilien lobt das Gericht dagegen als objektiv und unparteiisch. Was in den Berichten fehlt: welche Terrororganisation gemeint ist.",
+              "sources": [
+                {
+                  "name": "Petra (staatliche Nachrichtenagentur, Primärquelle)",
+                  "url": "https://petra.gov.jo/en/news/state-security-court-sentences-three-to-death-over-karak-terrorist-attack"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack"
+                },
+                {
+                  "name": "Arab News",
+                  "url": "https://www.arabnews.com/middle-east/jordan-court-sentences-perpetrators-of-karak-church-attack-to-death-3012014"
+                },
+                {
+                  "name": "Roya News",
+                  "url": "https://en.royanews.com/The-families-of-the-martyrs-attend-the-sentencing-hearing-in-the-K-case./"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-ukraine-russland-angriffe-saporischschja-nischnekamsk",
+              "slug": "ukraine-russland-angriffe-saporischschja-nischnekamsk",
+              "title": "Ukraine-Krieg: Tote bei russischen Angriffen, ukrainische Drohnen auf Tatarstan",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "international",
+              "icon": "💥",
+              "edition": "midday",
+              "kurz": "Russische Angriffe töteten mindestens drei Menschen und verletzten über 30; die Ukraine traf Industrieanlagen in Russland.",
+              "summary": "Bei russischen Angriffen auf ukrainische Städte sind seit Samstag mindestens drei Menschen getötet und mehr als 30 verletzt worden, allein 22 in Saporischschja, darunter drei Kinder. Ukrainische Drohnen trafen in der Nacht das Petrochemiewerk in Nischnekamsk (Tatarstan) und eine Umspannanlage in Taganrog; Russland meldet einen Toten in der Region Rostow und mehrere Verletzte.",
+              "gegenstimme": "Moskau stellt seine Angriffe als Schläge gegen militärische Ziele dar, etwa ein Frachtschiff im Hafen Tschornomorsk, das der Versorgung des ukrainischen Militärs diene. Kiew rechtfertigt die Drohnenangriffe auf Raffinerien und Energieanlagen als legitime Schwächung der russischen Kriegswirtschaft; Kritiker weisen darauf hin, dass auch dabei Zivilisten und Wohnhäuser getroffen werden.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html"
+                },
+                {
+                  "name": "Kyiv Post",
+                  "url": "https://www.kyivpost.com/post/90156"
+                },
+                {
+                  "name": "Meduza",
+                  "url": "https://meduza.io/news/2026/11/15/v-taganroge-ukrainskie-bespilotniki-atakovali-elektropodstantsiyu-pogib-glavnyy-inzhener-v-tatarstane-posle-ataki-gorit-predpriyatie-sibura"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukraine-greift-industrieanlagen-in-russland-an"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-klage-stopp-ki-entwicklung-san-francisco",
+              "slug": "klage-stopp-ki-entwicklung-san-francisco",
+              "title": "Klage in Kalifornien: Organisationen wollen KI-Entwicklung stoppen lassen",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "midday",
+              "kurz": "Vier Organisationen verlangen vor Gericht in San Francisco, dass Anthropic, Google, Meta, OpenAI und SpaceX keine leistungsfähigeren KI-Modelle mehr entwickeln.",
+              "summary": "Vier Interessengruppen, darunter Public Citizen und die Alliance for Secure AI, haben vor dem Superior Court in San Francisco Klage gegen Anthropic, Google, Meta, OpenAI und SpaceX eingereicht. Sie verlangen ein gerichtliches Verbot, fortgeschrittenere KI-Systeme zu entwickeln oder einzusetzen, weil diese katastrophale Risiken wie KI-gesteuerte Cyberangriffe oder Biowaffen bergen. Die 63-seitige Klage stützt sich auf das kalifornische Gesetz gegen unlauteren Wettbewerb.",
+              "gegenstimme": "Die beklagten Firmen haben sich bis Redaktionsschluss der konsultierten Berichte nicht geäussert. Kritiker solcher Klagen halten es für unrealistisch, dass ein Staatsgericht eine ganze Technologie stoppt, und warnen, ein Entwicklungsstopp in den USA würde vor allem der Konkurrenz aus China nützen. Zudem werfen KI-Firmen und Teile der Forschung den Klägern vor, spekulative Weltuntergangsszenarien als belegte Gefahr darzustellen.",
+              "sources": [
+                {
+                  "name": "Courthouse News",
+                  "url": "https://www.courthousenews.com/san-francisco-court-asked-to-freeze-ai-development-stave-off-catastrophic-harm/"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Kalifornien-Klage-fordert-Stopp-der-KI-Entwicklung-wegen-katastrophaler-Risiken-11525487.html"
+                },
+                {
+                  "name": "Klageschrift (Primärquelle)",
+                  "url": "https://www.courthousenews.com/wp-content/uploads/2026/11/Irreplaceable-et-al-v.-Anthropic-et-al.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-n-central-zero-day-krypto-miner",
+              "slug": "n-central-zero-day-krypto-miner",
+              "title": "N-able N-central: Neue Zero-Day-Lücke aktiv ausgenutzt",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "midday",
+              "kurz": "Angreifer installieren über die Lücke «4EverAble2Shell» Krypto-Miner auf Fernwartungsservern, auch auf solchen mit dem neusten Patch.",
+              "summary": "Angreifer nutzen eine neue Zero-Day-Lücke in der Fernwartungsplattform N-central von N-able aus, um auf Servern Root-Rechte zu erlangen und Monero-Miner zu installieren. Sicherheitsfirmen zählten mindestens 21 kompromittierte Produktivserver, 19 davon mit dem erst am 10. November veröffentlichten Hotfix 2. Ausnutzbar ist die Lücke, wenn die Legacy-API aktiviert ist.",
+              "gegenstimme": "N-able erklärte in seinem Advisory vom 12. November, keine Anzeichen für Kompromittierungen über die neuen Lücken zu sehen, und betont, dass die Legacy-API standardmässig deaktiviert ist. Kritisch sehen lässt sich auch das Vorgehen des Forschers: Er veröffentlichte funktionsfähige Exploits ohne Vorwarnung, die ersten Angriffe folgten binnen Stunden. Der Forscher Sean Bales hält dagegen, N-able habe gemeldete Lücken jahrelang zu langsam behoben.",
+              "sources": [
+                {
+                  "name": "BleepingComputer",
+                  "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/"
+                },
+                {
+                  "name": "Tenable",
+                  "url": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-asean-gipfel-manila-suedchinesisches-meer",
+              "slug": "asean-gipfel-manila-suedchinesisches-meer",
+              "title": "ASEAN-Gipfel in Manila: Verhaltenskodex fürs Südchinesische Meer verzögert sich",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🌏",
+              "edition": "midday",
+              "kurz": "Die südostasiatischen Staaten tagen in Manila; mit China sind rund 80 Prozent eines Verhaltenskodex vereinbart, der Abschluss rückt ins nächste Jahr.",
+              "summary": "In Manila hat am Sonntag der 49. Gipfel der südostasiatischen Staatengemeinschaft ASEAN begonnen. Im Zentrum stehen die Konflikte im Südchinesischen Meer und in Myanmar. Beim seit Jahren verhandelten Verhaltenskodex mit China ist laut Straits Times eine vorläufige Einigung über rund 80 Prozent des Textes erreicht, der Abschluss wird aber nicht mehr in diesem Jahr erwartet.",
+              "gegenstimme": "Die Philippinen und Vietnam drängen auf einen rechtlich verbindlichen Kodex, China will die Geltung und Reichweite eng halten; Kritiker in der Region sehen in den endlosen Verhandlungen eine Verzögerungstaktik Pekings, das gleichzeitig Fakten schafft. Vor dem Gipfel protestierten in Manila Demonstranten gegen die US-Politik in der Region; aus deren Sicht verschärft gerade die amerikanische Militärpräsenz die Spannungen.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/asean-summit-manila-philippines-china-trump-ca9bb47cc109a1ca9e57be787b137095"
+                },
+                {
+                  "name": "The Straits Times",
+                  "url": "https://www.straitstimes.com/asia/se-asia/asean-china-reach-provisional-agreement-on-80-of-south-china-sea-code"
+                },
+                {
+                  "name": "Nikkei Asia",
+                  "url": "https://asia.nikkei.com/politics/international-relations/asean-leaders-kick-off-manila-summits-as-friction-persists-on-myanmar-haze"
+                },
+                {
+                  "name": "CNA",
+                  "url": "https://www.channelnewsasia.com/asia/asean-summit-manila-south-china-sea-myanmar-6549311"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-milei-kandidiert-2027-zweite-amtszeit",
+              "slug": "milei-kandidiert-2027-zweite-amtszeit",
+              "title": "Argentinien: Milei will 2027 für zweite Amtszeit kandidieren",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🇦🇷",
+              "edition": "midday",
+              "kurz": "Präsident Javier Milei bestätigt seine Kandidatur für die Wahl im Oktober 2027 und kündigt weitere Steuersenkungen und Öffnung an.",
+              "summary": "Argentiniens Präsident Javier Milei hat am Samstag bestätigt, dass er bei der Präsidentschaftswahl im Oktober 2027 erneut antreten will: «Für die, die zweifeln: Ja, ich strebe die Wiederwahl an.» Er kündigte eine Fortsetzung seines Reformkurses mit tieferen Steuern und weiterer wirtschaftlicher Öffnung an.",
+              "gegenstimme": "Anhänger verweisen auf die stark gesunkene Inflation und den ersten Staatshaushalt mit Überschuss seit Jahren als Beleg für den Erfolg seines Sparkurses. Gewerkschaften und die peronistische Opposition kritisieren die Kürzungen bei Renten, Universitäten und Sozialausgaben als Belastung der Ärmeren und werfen Milei einen autoritären Regierungsstil vor.",
+              "sources": [
+                {
+                  "name": "La Nación",
+                  "url": "https://www.lanacion.com.ar/politica/milei-ratifico-sus-intenciones-de-competir-en-2027-para-los-que-dudan-si-estoy-yendo-por-la-nid14112026/"
+                },
+                {
+                  "name": "Clarín",
+                  "url": "https://www.clarin.com/politica/javier-milei-ratifico-intenciones-ir-reeleccion-2027-dudan_0_dpVSDapQZl.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren-a-86350cf4-1147-4493-af63-aa78f65f3581"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/praesident-milei-will-fuer-zweite-amtszeit-kandidieren-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-deutschland-solarfoerderung-kleine-anlagen-bleibt",
+              "slug": "deutschland-solarfoerderung-kleine-anlagen-bleibt",
+              "title": "Deutschland: Koalition kippt Reiches Plan, Solarförderung für kleine Anlagen bleibt",
+              "date": "2026-11-15",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "☀️",
+              "edition": "midday",
+              "kurz": "Union und SPD wollen die feste Einspeisevergütung für neue Solaranlagen bis 25 Kilowatt beibehalten.",
+              "summary": "Union und SPD haben sich laut übereinstimmenden Berichten fachlich darauf geeinigt, die feste Einspeisevergütung für neue Solaranlagen bis 25 Kilowatt beizubehalten. Damit ist der Plan von Wirtschaftsministerin Katherina Reiche (CDU) vom Tisch, die Vergütung für kleine Anlagen abzuschaffen. Für Anlagen zwischen 26 und 50 Kilowatt soll der Netzbetreiber den Strom zum Jahresmarktwert vermarkten.",
+              "gegenstimme": "Reiche und Teile der Energiewirtschaft argumentieren, die feste Vergütung belaste Netze und Steuerzahler, weil sie auch dann gezahlt wird, wenn mittags zu viel Solarstrom im Netz ist; der Ausbau kleiner Anlagen rechne sich inzwischen auch ohne Förderung. Solarbranche und Hausbesitzer sehen dagegen in der festen Vergütung die Grundlage für Investitionssicherheit.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/service/solarfoerderung-fuer-kleine-anlagen-soll-offenbar-doch-bleiben-a-6b026b8d-e1f0-4e89-83f5-cc7d948a60c1"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/energiepolitik-solarfoerderung-fuer-kleine-anlagen-soll-bleiben/100269915.html"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/spd-information-solarfoerderung-fuer-kleine-anlagen-soll-bleiben-100.html"
+                },
+                {
+                  "name": "t-online",
+                  "url": "https://www.t-online.de/finanzen/energie/id_101528842/einspeiseverguetung-bleibt-koalition-kippt-reiches-solar-plan.html"
                 }
               ]
             }
