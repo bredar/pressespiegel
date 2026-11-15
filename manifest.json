@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T12:02:08+01:00",
+  "updated": "2026-11-15T17:00:51+01:00",
   "days": [
     {
       "date": "2026-11-15",
@@ -654,6 +654,316 @@
                 {
                   "name": "t-online",
                   "url": "https://www.t-online.de/finanzen/energie/id_101528842/einspeiseverguetung-bleibt-koalition-kippt-reiches-solar-plan.html"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:15",
+          "articles": [
+            {
+              "id": "2026-11-15-aeschi-absichtserklaerung-vor-kandidatur",
+              "slug": "aeschi-absichtserklaerung-vor-kandidatur",
+              "title": "Bundesratswahl: Aeschi hatte Absichtserklärung schon Wochen vor Bekanntgabe unterschrieben",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "evening",
+              "kurz": "Laut «NZZ am Sonntag» unterschrieb SVP-Fraktionschef Thomas Aeschi am 20. Oktober eine Kandidaturerklärung, sagte öffentlich aber, er müsse noch Gespräche führen.",
+              "summary": "SVP-Fraktionschef Thomas Aeschi hat laut «NZZ am Sonntag» bereits am 20. Oktober, drei Tage vor Ablauf der parteiinternen Frist, eine Absichtserklärung unterschrieben, in der er sich als SVP-Kandidat für die Nachfolge von Bundesrat Guy Parmelin zur Verfügung stellt. Öffentlich hatte er damals erklärt, er müsse vor einem definitiven Entscheid noch «intensive Gespräche» führen; offiziell bekannt gab er die Kandidatur erst rund zwei Wochen nach der Frist.",
+              "gegenstimme": "Aeschi sagt, mit der Unterschrift habe er lediglich bestätigt, dass er die Statuten der SVP anerkenne; das Formular ist bei allen SVP-Bewerbern Standard, und eine Absichtserklärung ist rechtlich noch keine öffentliche Kandidatur. Aus SVP-Sicht ist es üblich, den Zeitpunkt einer Bekanntgabe taktisch zu wählen. Kritiker im Parlament sprechen dagegen laut Bericht von «typisch Aeschi» und sehen darin ein Glaubwürdigkeitsproblem.",
+              "sources": [
+                {
+                  "name": "Watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/580723686-aeschi-unterschrieb-absichtserklaerung-schon-wochen-vor-kandidatur"
+                },
+                {
+                  "name": "Blue News",
+                  "url": "https://www.bluewin.ch/de/news/schweiz/thomas-aeschi-wusste-laengst-dass-er-bundesrat-werden-will-li.3674102"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-rohner-greenpeace-beschattung-angeordnet",
+              "slug": "rohner-greenpeace-beschattung-angeordnet",
+              "title": "CS-Beschattungsaffäre: Rohner soll Überwachung von Greenpeace veranlasst haben",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "🕵️",
+              "edition": "evening",
+              "kurz": "Laut «SonntagsZeitung» gab der frühere CS-Präsident Urs Rohner nach einer Greenpeace-Aktion 2017 den Auftrag, «das Nötige zu unternehmen».",
+              "summary": "Der frühere Verwaltungsratspräsident der Credit Suisse, Urs Rohner, soll laut «SonntagsZeitung» nach einer Greenpeace-Protestaktion an der Generalversammlung 2017 den Sicherheitsdienst angewiesen haben, «das Nötige zu unternehmen», damit sich so etwas nicht wiederhole. Vor der GV 2018 wurde Greenpeace daraufhin physisch und digital überwacht; ein Mittelsmann stellte der Bank dafür 18'309 Franken in Rechnung.",
+              "gegenstimme": "Gemäss den Unterlagen wussten Rohner und die Geschäftsleitung zwar, dass Greenpeace «untersucht» wurde, nicht aber von der physischen Teilnahme an Veranstaltungen; eine Anweisung zur Infiltration ist damit nicht belegt. Rohner bestreitet in der Beschattungsaffäre generell Fehlverhalten. Aus Unternehmenssicht kann der Schutz einer Generalversammlung vor Störaktionen legitim sein; Greenpeace sieht dagegen einen Versuch, kritische Stimmen auszuforschen, und prüft rechtliche Schritte.",
+              "sources": [
+                {
+                  "name": "SonntagsZeitung / Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/credit-suisse-rohner-liess-greenpeace-ausspionieren-502667933329"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/831674478-urs-rohner-soll-persoenlich-beschattung-von-greenpeace-angeordnet-haben"
+                },
+                {
+                  "name": "Cash / AWP Presseschau",
+                  "url": "https://www.cash.ch/news/presseschau-vom-wochenende-46-1415-november-985369"
+                },
+                {
+                  "name": "Inside Paradeplatz (Kommentar)",
+                  "url": "https://insideparadeplatz.ch/2026/11/15/credit-secret-war-urs-rohner-der-ober-spion/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-parlament-rekord-vorstoesse-ki",
+              "slug": "parlament-rekord-vorstoesse-ki",
+              "title": "Rekordflut an Vorstössen im Bundesparlament, KI als ein Treiber",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "📑",
+              "edition": "evening",
+              "kurz": "National- und Ständerat haben 2026 bisher rund 2900 Vorstösse eingereicht, so viele wie nie. Sprachdienste sind laut «SonntagsZeitung» überlastet.",
+              "summary": "Die Mitglieder von National- und Ständerat haben in diesem Jahr laut «SonntagsZeitung» bereits rund 2900 Vorstösse eingereicht, einen Rekord; mit der Wintersession dürften einige Hundert dazukommen. Bei geschätzten Kosten von 6120 Franken pro Vorstoss summiert sich das auf rund 17,7 Millionen Franken. Die Sprachdienste des Bundes seien überlastet und lehnten Aufträge aus Bundesämtern ab.",
+              "gegenstimme": "Vorstösse sind ein Kerninstrument der parlamentarischen Kontrolle; eine Limitierung würde vor allem kleinere Fraktionen und Oppositionsstimmen treffen. Laut der Zeitung ist die Ursache der Flut zudem öfter politischer Natur als technischer: KI senkt den Aufwand, erklärt aber nicht allein den Anstieg, der schon seit 15 Jahren anhält.",
+              "sources": [
+                {
+                  "name": "SonntagsZeitung / Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/vorstossflut-im-parlament-kostet-2026-bereits-17-7-mio-franken-704129158667"
+                },
+                {
+                  "name": "Watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/580723686-aeschi-unterschrieb-absichtserklaerung-schon-wochen-vor-kandidatur"
+                },
+                {
+                  "name": "Nau.ch (Hintergrund)",
+                  "url": "https://www.nau.ch/news/schweiz/vorstossflut-im-parlament-droht-wegen-ki-noch-grosser-zu-werden-67177226"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-burgdorf-fluchtfahrt-nagelgurt-zauggenried",
+              "slug": "burgdorf-fluchtfahrt-nagelgurt-zauggenried",
+              "title": "Burgdorf: Fluchtfahrt endet nach Kollision mit Nagelgurt in Zauggenried",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🚓",
+              "edition": "evening",
+              "kurz": "Ein Autolenker entzog sich in Burgdorf einer Kontrolle, verursachte eine Kollision und wurde in Zauggenried mit einem Nagelgurt gestoppt.",
+              "summary": "Am Samstag kurz nach 20.20 Uhr entzog sich ein Autolenker in Burgdorf einer Kontrolle der Kantonspolizei Bern und flüchtete mit überhöhter Geschwindigkeit. Er kollidierte im Kreisel Technikumstrasse/Lyssachstrasse mit einem Auto und geriet in Lyssach auf die Gegenfahrbahn, wo ein entgegenkommendes Auto nur knapp ausweichen konnte. In Zauggenried (Gemeinde Fraubrunnen) stoppte ihn die Polizei mit einem Nagelgurt; Lenker und Beifahrer wurden angehalten.",
+              "gegenstimme": "Die Polizeimeldung nennt weder Alter, Nationalität noch Motiv des Lenkers oder des Beifahrers und auch nicht, ob Alkohol, Drogen oder ein fehlender Führerausweis im Spiel waren; das bleibt offen. Verfolgungsfahrten sind zudem selbst umstritten, weil sie Unbeteiligte gefährden können; die Polizei setzte hier aber auf das Stoppen per Nagelgurt statt auf ein Abdrängen.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern (via Nau.ch)",
+                  "url": "https://www.nau.ch/ort/burgdorf/lyssach-be-autolenker-nach-fluchtfahrt-mit-nagelgurt-gestoppt-67202369"
+                },
+                {
+                  "name": "Kantonspolizei Bern – Medienmitteilungen",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/bern/flucht-im-kanton-bern-nur-nagelbaender-halten-autofahrer-auf/s1zh814"
+                },
+                {
+                  "name": "Watson / SDA",
+                  "url": "https://www.watson.ch/schweiz/polizeirapport/272403738-kanton-bern-autofahrer-wird-von-polizei-mit-nagelgurt-gestoppt"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-check-point-php2shell-root-luecke-wiper",
+              "slug": "check-point-php2shell-root-luecke-wiper",
+              "title": "Check-Point-Firewalls: Angreifer kombinieren Lücken, Wiper löscht Daten",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "evening",
+              "kurz": "Angreifer brachen über PHP2Shell und eine Root-Lücke in ungepatchte Check-Point-Gateways ein; in einem Fall zerstörten sie Daten auf einem ESXi-Host.",
+              "summary": "Zwischen Ende Oktober und Anfang November haben Angreifer ungepatchte Check-Point-Gateways über die kritischen PHP2Shell-Lücken im Mobile-Access-Portal geknackt und sich danach über eine Lücke im Betriebssystem Gaia (CVE-2026-123039) Root-Rechte verschafft. In mindestens einem Fall setzten sie auf einem VMware-ESXi-Host den Wiper «destroy_v6» ein, der Daten überschreibt und löscht. Betroffen sind die Versionen R81 bis R82.20; Check Point rät zum November-Jumbo-Hotfix.",
+              "gegenstimme": "Check Point betont, Spark-Firewalls und Smart-1 Cloud seien nicht betroffen und die Fixes seien verfügbar; die Zahl kompromittierter Systeme ist mit «einigen Dutzend» in einer Region begrenzt. Sicherheitsforscher weisen allerdings darauf hin, dass für die nicht mehr unterstützten Versionen R81 und R81.10 kein Patch kommt und ein Update bereits eingenistete Hintertüren nicht entfernt.",
+              "sources": [
+                {
+                  "name": "Check Point (Advisory)",
+                  "url": "https://blog.checkpoint.com/security/security-advisory-active-exploitation-of-php2shell-and-local-privilege-escalation/"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html"
+                },
+                {
+                  "name": "SecurityWeek",
+                  "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-microsoft-365-ausfall-phishing-kampagne",
+              "slug": "microsoft-365-ausfall-phishing-kampagne",
+              "title": "Nach Microsoft-365-Ausfall: Phishing mit gefälschten Störungsmeldungen",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🎣",
+              "edition": "evening",
+              "kurz": "Kriminelle verschicken gefälschte Microsoft-365-Störungsmeldungen mit der echten Vorfallnummer EX1550543 und drohen mit Löschung angeblich zurückgehaltener Mails.",
+              "summary": "Microsofts Threat-Intelligence-Team warnt vor einer Phishing-Kampagne, die den Microsoft-365-Ausfall dieser Woche ausnutzt. Die Mails geben sich als Statusmeldungen aus, nennen die echte Exchange-Online-Vorfallnummer EX1550543 und behaupten, während des Ausfalls zurückgehaltene Nachrichten würden binnen 24 Stunden gelöscht, falls man sie nicht per Klick wiederherstelle.",
+              "gegenstimme": "Microsoft selbst konnte bisher weder das Abgreifen von Zugangsdaten noch die Auslieferung von Schadsoftware bestätigen; das Ausmass ist also noch unklar, und die bekannten Fälle betreffen US-Organisationen. Zudem lenkt die Warnung vom eigentlichen Problem ab: Erst der mehrtägige Ausfall selbst machte solche Köder glaubwürdig.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Phishing-Kampagne-nutzt-Microsoft-Cloud-Ausfall-11525471.html"
+                },
+                {
+                  "name": "iTnews",
+                  "url": "https://www.itnews.com.au/news/phishers-quick-to-exploit-extended-m365-outage-630347"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-prag-grossdemo-rundfunkreform-babis",
+              "slug": "prag-grossdemo-rundfunkreform-babis",
+              "title": "Prag: Grossdemonstration gegen Babiš' Pläne für öffentlich-rechtliche Medien",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇨🇿",
+              "edition": "evening",
+              "kurz": "Zehntausende protestierten auf der Letná-Ebene gegen die geplante Abschaffung der Rundfunkgebühren und die Finanzierung der Sender aus dem Staatshaushalt.",
+              "summary": "In Prag haben am Sonntag Zehntausende gegen die Medienreform der Regierung von Ministerpräsident Andrej Babiš demonstriert; die Veranstalter sprachen von 350'000 bis 450'000 Teilnehmenden, die Polizei nannte keine Zahl. Das Gesetz, im Oktober in erster Lesung angenommen, schafft die Rundfunkgebühren ab, finanziert das Tschechische Fernsehen und den Rundfunk künftig aus dem Staatshaushalt und kürzt die Mittel um 15 Prozent.",
+              "gegenstimme": "Babiš sagt, die Regierung löse nur ihr Wahlversprechen ein, die Bürger finanziell zu entlasten; Entlassungen oder Programmstreichungen werde es nicht geben. Er wirft öffentlichen wie privaten Medien Voreingenommenheit gegen seine Regierung vor. Auch in anderen Ländern wird die Gebührenfinanzierung kritisiert; Steuerfinanzierung gibt es etwa in mehreren EU-Staaten, ohne dass die Sender automatisch gelenkt sind. Kritiker halten dagegen, ein Budgetposten mache die Sender jährlich vom Wohlwollen der Regierung abhängig.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/czech-protest-public-media-babis-a48f46db181edaa14a156be89862f5e3"
+                },
+                {
+                  "name": "ČTK / České noviny",
+                  "url": "https://www.ceskenoviny.cz/zpravy/zive-na-letne-podle-organizatoru-demonstruje-kolem-400000-lidi/2901226"
+                },
+                {
+                  "name": "Die Presse",
+                  "url": "https://www.diepresse.com/41456091/zehntausende-demonstrieren-in-prag-fuer-rundfunkgebuehr"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-rumaenien-drohnen-treffen-drei-schiffe-sulina",
+              "slug": "rumaenien-drohnen-treffen-drei-schiffe-sulina",
+              "title": "Rumänien: Drohnen treffen drei Handelsschiffe vor dem Sulina-Kanal",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🇷🇴",
+              "edition": "evening",
+              "kurz": "Vor der rumänischen Küste wurden drei Handelsschiffe von Drohnen getroffen. Rumänien liess zweimal Kampfjets aufsteigen, Verletzte gab es keine.",
+              "summary": "Drohnen haben am Samstagabend im Schwarzen Meer nahe dem rumänischen Sulina-Kanal drei Handelsschiffe getroffen: den griechischen Chemikalientanker Evia Petrol V, den Massengutfrachter Marsol und den Tanker Ali Najafov. Die Besatzungen konnten die Brände löschen, verletzt wurde niemand. Rumäniens Luftwaffe schickte zweimal Kampfjets los, nachdem Radare Luftziele erfasst hatten.",
+              "gegenstimme": "Russland bestreitet, mit Drohnen Länder anzugreifen, die an die Ukraine grenzen, und hat sich zu diesem Vorfall nicht konkret geäussert. Wer die Drohnen gestartet hat, ist offiziell nicht festgestellt; Rumäniens Regierung verweist allgemein auf die durch Russlands Krieg verschlechterte Sicherheitslage. Aus russischer Sicht dient der Kanal der Ukraine als Exportroute und ist damit Teil des Kriegsgeschehens.",
+              "sources": [
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/15/drohnen-treffen-drei-handelsschiffe-schwarzes-meer-rumanien"
+                },
+                {
+                  "name": "NBC News / Reuters",
+                  "url": "https://www.nbcnews.com/world/europe/three-ships-struck-drones-black-sea-romanian-shipping-canal-rcna609077"
+                },
+                {
+                  "name": "Adevărul",
+                  "url": "https://adevarul.ro/stiri-interne/evenimente/f-16-ridicate-de-la-fetesti-dupa-o-noua-alerta-2571575.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-philippinen-australien-verteidigungsabkommen",
+              "slug": "philippinen-australien-verteidigungsabkommen",
+              "title": "Philippinen und Australien vertiefen Militärkooperation mit Blick auf China",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇵🇭",
+              "edition": "evening",
+              "kurz": "Manila und Canberra unterzeichneten am Rande des ASEAN-Gipfels ein Abkommen, das gemeinsame Militäraktivitäten vereinfachen soll.",
+              "summary": "Die Philippinen und Australien haben am Sonntag in Manila ein Verteidigungs-Kooperationsabkommen unterzeichnet, im Beisein des australischen Premierministers Anthony Albanese. Es soll die Umsetzung des bestehenden Truppenstatut-Abkommens (SOVFA) vereinfachen und gemeinsame Einsätze von See-, Luft- und Landstreitkräften erleichtern. Albanese kündigte zusätzliche Investitionen in die Seeraumüberwachung an, unter anderem mit Drohnentechnik.",
+              "gegenstimme": "China wies die Schiedsgerichtsentscheidung von 2016, die Australien unterstützt, stets zurück und betrachtet solche Allianzen als Versuch, es einzudämmen; eine Stellungnahme Pekings zum neuen Abkommen lag zunächst nicht vor. Offen ist zudem, ob die engere Einbindung Manilas in westliche Bündnisse die Spannungen eher dämpft oder das Risiko einer Eskalation zwischen den Grossmächten erhöht.",
+              "sources": [
+                {
+                  "name": "NBC News / Reuters",
+                  "url": "https://www.nbcnews.com/world/asia/philippines-australia-sign-defence-pact-eye-china-rcna609387"
+                },
+                {
+                  "name": "Philippine News Agency",
+                  "url": "https://www.pna.gov.ph/article/ph-australia-ink-updated-defense-pact"
+                },
+                {
+                  "name": "Rappler",
+                  "url": "https://www.rappler.com/philippines/australia-defense-cooperation-arrangement-signing-november-2026/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-gaza-nasser-spital-18-staaten-verurteilen",
+              "slug": "gaza-nasser-spital-18-staaten-verurteilen",
+              "title": "Gaza: 18 arabische und muslimische Staaten verurteilen Angriff auf Nasser-Spital",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🏥",
+              "edition": "evening",
+              "kurz": "Die Aussenminister von 18 Staaten verurteilen den israelischen Luftangriff auf das Nasser-Spital in Khan Yunis; Israel sagt, Ziel sei ein Hamas-Kommandeur gewesen.",
+              "summary": "Die Aussenminister von 18 arabischen und muslimischen Staaten, darunter Saudi-Arabien, Ägypten, Katar, die Türkei und die Vereinigten Arabischen Emirate, haben den israelischen Luftangriff auf das Nasser-Spital in Khan Yunis «aufs Schärfste» verurteilt. Laut dem von der Hamas kontrollierten Gesundheitsministerium wurden sechs Menschen getötet. Armee und Inlandgeheimdienst Schin Bet erklären, der Angriff vom Mittwoch habe dem Kommandeur der Khan-Yunis-Brigade der Hamas, Muhammad Abu Ismail, gegolten.",
+              "gegenstimme": "Israel argumentiert, die Hamas nutze Spitäler gezielt als Deckung; nach humanitärem Völkerrecht kann ein Spital seinen Schutz verlieren, wenn es militärisch missbraucht wird. Die gemeinsame Erklärung der 18 Staaten erwähnt weder die Hamas noch den von Israel genannten Grund für den Angriff. Israel verweist zudem darauf, dass es inzwischen 93'000 Zelte nach Gaza gelassen habe.",
+              "sources": [
+                {
+                  "name": "Türkisches Aussenministerium (Erklärung)",
+                  "url": "https://www.mfa.gov.tr/condemn-in-the-strongest-terms-the-israeli-airstrike-on-the-nasser-medical-complex-in-khan-younis.en.mfa"
+                },
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/israel-news/article-914881"
+                },
+                {
+                  "name": "Xinhua",
+                  "url": "https://english.news.cn/20261114/04a0c67ee33e43398e275a6a96d59590/c.html"
+                },
+                {
+                  "name": "Al Arabiya",
+                  "url": "https://english.alarabiya.net/News/middle-east/2026/11/14/saudi-arabia-arab-and-islamic-countries-condemn-israeli-strike-on-gaza-hospital"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-iran-bis-2500-raketen-us-geheimdienste",
+              "slug": "iran-bis-2500-raketen-us-geheimdienste",
+              "title": "US-Geheimdienste: Iran hat noch 1500 bis 2500 ballistische Raketen",
+              "date": "2026-11-15",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "evening",
+              "kurz": "Laut «Wall Street Journal» schätzen US-Geheimdienste Irans Arsenal trotz der Kriegsschäden auf 1500 bis 2500 ballistische Raketen, mit geringer Gewissheit.",
+              "summary": "US-Geheimdienste schätzen laut «Wall Street Journal», dass Iran trotz monatelanger amerikanischer und israelischer Angriffe noch 1500 bis 2500 ballistische Raketen besitzt. Die Beamten betonen, die Schätzung sei mit geringer Gewissheit behaftet, weil schwer zu bestimmen sei, wie viele Raketen startbereit und wie viele eingelagert seien. Iran baue sein Arsenal wieder auf, allerdings langsamer als vor dem Krieg.",
+              "gegenstimme": "Präsident Trump und Premier Netanyahu hatten erklärt, Irans Raketenprogramm sei weitgehend zerstört; die Schätzung stellt das infrage, beruht aber auf anonymen Quellen und einer ausdrücklich unsicheren Analyse. Golfstaaten warnen vor neuen Kämpfen, Israel drängt laut Bericht auf weitere Angriffe; die Zahl kann in dieser Debatte auch als Argument für einen neuen Schlag dienen.",
+              "sources": [
+                {
+                  "name": "Ynet",
+                  "url": "https://www.ynetnews.com/article/hyz7en8czg"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/us-intelligence-believes-iran-could-still-have-up-to-2500-missiles-report/"
+                },
+                {
+                  "name": "Anadolu",
+                  "url": "https://www.aa.com.tr/en/americas/us-intel-estimates-iran-retains-up-to-2-500-missiles-despite-war-damage-report/4125478"
                 }
               ]
             }
