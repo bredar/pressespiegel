@@ -1,6 +1,328 @@
 {
-  "updated": "2026-11-14T17:23:51+01:00",
+  "updated": "2026-11-15T06:12:05+01:00",
   "days": [
+    {
+      "date": "2026-11-15",
+      "editions": {
+        "morning": {
+          "time": "06:15",
+          "articles": [
+            {
+              "id": "2026-11-15-aeschi-alt-richter-funiciello-kritik",
+              "slug": "aeschi-alt-richter-funiciello-kritik",
+              "title": "Bundesratswahl: Alt-Richter und SP-Nationalrätin Funiciello greifen Aeschi an",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "morning",
+              "kurz": "Zwei frühere Oberrichter halten SVP-Fraktionschef Thomas Aeschi für das Bundesratsamt ungeeignet. Tamara Funiciello attackiert ihn und Michael Graber in einem Video.",
+              "summary": "Fünf Tage vor der Nomination durch die SVP-Fraktion gerät Bundesratskandidat Thomas Aeschi unter Druck: Laut «NZZ am Sonntag» halten die frühere Luzerner Oberrichterin Marianne Heer (FDP) und der frühere Zürcher Oberrichter Martin Burger (Ex-SVP-Lokalpolitiker) ihn für ungeeignet, weil er die richterliche Unabhängigkeit nicht achte. SP-Nationalrätin Tamara Funiciello bezeichnete Aeschi und Mitbewerber Michael Graber in einem Video als «zwei gewalttätige Männer». Die Ersatzwahl für Guy Parmelin findet am 9. Dezember statt.",
+              "gegenstimme": "In der SVP gilt Aeschi laut NZZ als «Chrampfer» und «brillanter Stratege»; er hat gute Chancen, am Freitag nominiert zu werden. Die Vorwürfe der Alt-Richter und der Kommissionsmitglieder sind Einschätzungen politischer Gegner bzw. Kritiker; eine Stellungnahme Aeschis dazu enthalten die Berichte nicht. Funiciellos Bezeichnung «gewalttätige Männer» bezieht sich laut 20 Minuten auf eine frühere Auseinandersetzung der beiden mit dem Sicherheitspersonal im Bundeshaus und ist eine politische Zuspitzung. Aeschi selbst will das Justizdepartement übernehmen und begründet das mit Handlungsbedarf im Asylbereich.",
+              "sources": [
+                {
+                  "name": "NZZ am Sonntag",
+                  "url": "https://www.nzz.ch/schweiz/als-bundesrat-ungeeignet-alt-richter-warnen-vor-svp-kandidat-thomas-aeschi-ld.10060642"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/bundesratswahl-funiciello-attackiert-aeschi-ex-richter-warnen-vor-ihm-103667786"
+                },
+                {
+                  "name": "Watson (Aeschi zum EJPD)",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/975106377-thomas-aeschi-will-in-den-bundesrat-und-zeigt-interesse-am-ejpd"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-ahv-mwst-vincenz-stauffacher-baume-schneider",
+              "slug": "ahv-mwst-vincenz-stauffacher-baume-schneider",
+              "title": "13. AHV-Rente: FDP-Chefin nennt Warnung der Innenministerin «Drohung»",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/11/13/d8fa5014-e988-49d2-8092-fbfcd6426cb1.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C410%2C6000%2C3375&s=c1ca2c04e278c5960f949629d7466faf",
+              "kurz": "Zwei Wochen vor der Abstimmung über 0,4 Prozentpunkte mehr Mehrwertsteuer für die AHV verschärft sich der Ton zwischen FDP und Bundesrätin Baume-Schneider.",
+              "summary": "Am 29. November stimmt die Schweiz über eine Erhöhung der Mehrwertsteuer um 0,4 Prozentpunkte zur Finanzierung der 13. AHV-Rente ab. FDP-Co-Präsidentin Susanne Vincenz-Stauffacher nennt im Interview mit 20 Minuten die Warnung von Innenministerin Elisabeth Baume-Schneider, bei einem Nein werde es zu Leistungskürzungen kommen, eine «irritierende Drohung». Bundesrat und Parlamentsmehrheit empfehlen ein Ja.",
+              "gegenstimme": "Baume-Schneider sagt, ohne Zusatzfinanzierung gerate die AHV «sehr rasch in eine Defizitspirale»; die 13. Rente koste rund vier Milliarden Franken pro Jahr. Bei einem Nein werde es zu Leistungskürzungen kommen, auch ein höheres Rentenalter komme dann auf den Tisch. Die Befürworter verweisen zudem darauf, dass Lebensmittel und Medikamente beim reduzierten Satz bleiben. Economiesuisse und der Arbeitgeberverband haben Stimmfreigabe beschlossen, während Gewerbeverband, Swissmem und Gastrosuisse die Vorlage ablehnen.",
+              "sources": [
+                {
+                  "name": "20 Minuten (Interview Vincenz-Stauffacher)",
+                  "url": "https://www.20min.ch/story/fdp-co-praesidentin-weniger-rente-bei-mwst-nein-baume-schneider-macht-leuten-angst-103666033"
+                },
+                {
+                  "name": "Watson (Interview Baume-Schneider)",
+                  "url": "https://www.watson.ch/schweiz/interview/466230350-bundesraetin-elisabeth-baume-schneider-warnt-bei-nein-vor-ahv-kuerzungen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-genf-tausende-gegen-sparbudget",
+              "slug": "genf-tausende-gegen-sparbudget",
+              "title": "Genf: Tausende demonstrieren gegen Sparbudget 2027",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "✊",
+              "edition": "morning",
+              "kurz": "Gewerkschaften, Verbände und linke Parteien mobilisierten gegen Einsparungen von 247,7 Millionen Franken im Genfer Kantonsbudget.",
+              "summary": "In Genf haben am Samstag mehrere tausend Menschen gegen die Sparmassnahmen im Entwurf des Kantonsbudgets 2027 demonstriert. Die Polizei zählte rund 3500 Teilnehmende, Keystone-SDA knapp 5000, die Organisatoren 6000 bis 7000. Der Entwurf sieht Einsparungen von 247,7 Millionen Franken vor, darunter pauschal 4 Prozent weniger Subventionen für Vereine und 5 Prozent weniger für die Leistungsaufträge der Universitätsspitäler (HUG) und der Spitex-Organisation IMAD.",
+              "gegenstimme": "Die konsultierten Berichte zitieren ausschliesslich Organisatoren und Gewerkschaften; die Begründung des Staatsrats für den Sparkurs kommt darin nicht vor. Das letzte Wort hat der Grosse Rat, in dem das Budget Mitte Dezember beraten wird. Die Teilnehmerzahl ist umstritten: Die Schätzung der Organisatoren ist doppelt so hoch wie jene der Polizei.",
+              "sources": [
+                {
+                  "name": "SRF / Keystone-SDA",
+                  "url": "https://www.srf.ch/news/schweiz/kantonsbudget-2027-tausende-menschen-demonstrieren-in-genf-gegen-sparmassnahmen"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/regions/geneve/2026/article/geneve-des-milliers-de-manifestants-contre-l-austerite-29415964.html"
+                },
+                {
+                  "name": "Le Temps",
+                  "url": "https://www.letemps.ch/de/schweiz/genf/in-genf-bringt-die-koalition-gegen-austeritat-mehrere-tausend-menschen-auf-die-strasse-um-gegen-die-budgetkurzungen-einen-schneeballeffekt-auszulosen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-bern-hunderte-maenner-gegen-gewalt-an-frauen",
+              "slug": "bern-hunderte-maenner-gegen-gewalt-an-frauen",
+              "title": "Bern: Hunderte Männer demonstrieren auf dem Bundesplatz gegen Gewalt an Frauen",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "regional",
+              "icon": "🧍‍♂️",
+              "edition": "morning",
+              "kurz": "Eine Allianz um die SP und das Komitee «Männer gegen Gewalt an Frauen» rief zur einstündigen Kundgebung auf. SP-Co-Präsident Cédric Wermuth sprach.",
+              "summary": "Mehrere hundert Männer haben am Samstagnachmittag auf dem Bundesplatz in Bern gegen Gewalt an Frauen demonstriert. Zur einstündigen Solidaritätskundgebung hatte eine Allianz aufgerufen, darunter die SP Schweiz und das Komitee «Männer gegen Gewalt an Frauen»; als Redner trat unter anderem SP-Co-Präsident Cédric Wermuth auf. Die Organisatoren forderten Männer auf, nicht wegzuschauen und bei Fehlverhalten im eigenen Umfeld Verantwortung zu übernehmen.",
+              "gegenstimme": "Die Kundgebung war parteipolitisch mitgetragen: Die SP gehörte zu den Organisatoren, und am Sonntag verband SP-Nationalrätin Tamara Funiciello das Thema direkt mit der Bundesratswahl, indem sie SVP-Kandidat Thomas Aeschi angriff. Die genannten Zahlen zu Belästigung stammen von den Veranstaltern; die Berichte nennen dafür keine Studie. Al Jazeera ordnet die Kundgebung in eine Debatte über die rechte «Manosphere» im Netz ein; das ist eine Einordnung des Senders, nicht der Organisatoren. Die Teilnehmerzahl («mehrere hundert») ist im Vergleich zu anderen Bundesplatz-Kundgebungen bescheiden.",
+              "sources": [
+                {
+                  "name": "SRF / Keystone-SDA",
+                  "url": "https://www.srf.ch/news/schweiz/kundgebung-maenner-demonstrieren-in-bern-gegen-gewalt-an-frauen"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/demo-in-bern-hunderte-maenner-gegen-gewalt-an-frauen-583358500480"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-starship-oberstufe-erstmals-am-turm-gefangen",
+              "slug": "starship-oberstufe-erstmals-am-turm-gefangen",
+              "title": "SpaceX fängt Starship-Oberstufe erstmals nach Orbitflug am Turm auf",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "🚀",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/7/5/3/Screenshot_2026-11-14_232145-06eba632cb1fc25b.png?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Nach rund 22 Stunden im Orbit kehrte das Starship zur Startrampe in Texas zurück und wurde von den Greifarmen gepackt. Das Auffangen des Boosters war am Freitag gescheitert.",
+              "summary": "SpaceX hat am Samstag erstmals die Oberstufe seiner Riesenrakete Starship nach einem Flug in der Erdumlaufbahn mit den Greifarmen des Startturms in Starbase, Texas, aufgefangen. Das Raumschiff war am Freitag zum 15. Testflug gestartet und kehrte nach gut 22 Stunden kontrolliert zurück; gleich der erste Fangversuch mit einer Oberstufe gelang. Der Super-Heavy-Booster hatte dagegen nicht gefangen werden können und war über dem Golf von Mexiko zerstört worden.",
+              "gegenstimme": "Ein vollständig wiederverwendbares System ist damit noch nicht erreicht: Am selben Flug ging der Booster verloren, und SpaceX selbst muss erst zeigen, dass Fänge zuverlässig gelingen. Ars Technica nennt den Hitzeschild als schwierigsten Teil der schnellen Wiederverwendung. Die Space Shuttles galten in den 1970er-Jahren ebenfalls als Durchbruch zu billigem Raumtransport, verfehlten die Kostenziele aber deutlich.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html"
+                },
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-spacex-faengt-starship-rakete-erstmals-mit-greifarmen-auf"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-usa-flugstopp-router-l3harris-ursache",
+              "slug": "usa-flugstopp-router-l3harris-ursache",
+              "title": "US-Flugstopp: Neuer Router beim Wechsel von Kupfer auf Glasfaser als Auslöser",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "📡",
+              "edition": "morning",
+              "kurz": "Ein vom Auftragnehmer L3Harris installierter Router flutete das Netz der Flugsicherung mit Verbindungsanfragen. Über 20'000 Flüge waren betroffen.",
+              "summary": "Den landesweiten Startstopp in den USA vom Freitag hat nach Angaben von Verkehrsminister Sean Duffy ein neu installierter Router ausgelöst, der beim routinemässigen Wechsel von alten Kupferleitungen auf Glasfaser an einem abgelegenen FAA-Standort eingebaut wurde. Er habe andere Router mit über 1000 Verbindungsversuchen alle vier bis fünf Sekunden geflutet und 17 der 22 Flugsicherungszentralen gestört. Laut Reuters waren seit Freitag über 20'000 Flüge betroffen.",
+              "gegenstimme": "Der Auftragnehmer L3Harris betont, er habe bereits über 70 Prozent der Umstellung auf Glasfaser abgeschlossen und unterstütze die Untersuchung. Duffy selbst sagt, ob es Bedienungsfehler, ein Installationsfehler oder ein defektes Gerät war, sei noch offen. Reuters und Behördenvertreter sehen das Grundproblem in der verschleppten Modernisierung: Die ersetzten Router sind rund 25 Jahre alt und hätten schon 2006 ausgetauscht werden sollen. Duffy nutzte den Auftritt zudem, um vom Kongress mehr Geld zu fordern.",
+              "sources": [
+                {
+                  "name": "Reuters via Times of Israel",
+                  "url": "https://www.timesofisrael.com/us-aviation-shutdown-blamed-on-l3-harris-installed-router-undergoing-routine-maintenance/"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-frankreich-proteste-219-festnahmen",
+              "slug": "frankreich-proteste-219-festnahmen",
+              "title": "Frankreich: 106'000 bei Protesten, 219 Festnahmen, TV-Team in Lyon angegriffen",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/54546af2-f364-4bfa-83ec-92c117e2986b/AAABody76tk/AAABnSSvrFg/16x9-big/frankreich-protest-124.jpg?width=1280",
+              "kurz": "Zum fünften Samstag in Folge gingen in Frankreich Zehntausende gegen die Regierung auf die Strasse. In Lyon musste die Polizei Fernsehreporter vor Demonstranten schützen.",
+              "summary": "In Frankreich haben am Samstag laut Innenministerium rund 106'000 Menschen gegen die Regierung protestiert, davon 24'000 in Paris; Studentenverbände sprachen von 200'000. Es war der fünfte Samstag in Folge, aber die tiefste Beteiligung seit Wochen. Das Innenministerium meldete 219 Festnahmen und zehn leicht verletzte Polizisten; in Lyon griffen Demonstranten ein Fernsehteam an.",
+              "gegenstimme": "Die Organisatoren und Studentenverbände sehen in den Protesten eine breite soziale Bewegung gegen sinkende Kaufkraft, schlechtere Bildung und Polizeigewalt. Die Regierung verweist auf ihr Angebot, den Mindestlohn um 0,6 Prozent zu erhöhen, und auf die massiv verstärkte Polizeipräsenz nach Plünderungen beim ersten Grossprotest am 17. Oktober. Ein Teil der Berichterstattung betont den friedlichen Verlauf, ein anderer die Gewalt am Rand, etwa die Angriffe auf Journalisten in Lyon und Brände in Marseille, wo die Proteste verboten waren.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-gaza-rafah-brigade-kommandeur-abu-younis-getoetet",
+              "slug": "gaza-rafah-brigade-kommandeur-abu-younis-getoetet",
+              "title": "Gaza: Israel tötet Kommandeur der Rafah-Brigade der Hamas",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🎯",
+              "edition": "morning",
+              "kurz": "Samir Abu Younis starb bei einem Drohnenangriff in al-Mawasi bei Chan Junis. Die Hamas bestätigte seinen Tod.",
+              "summary": "Bei einem israelischen Drohnenangriff in al-Mawasi bei Chan Junis im Süden des Gazastreifens ist am Samstag Samir Abu Younis getötet worden, der Kommandeur der Rafah-Brigade des bewaffneten Arms der Hamas. Armee und Inlandgeheimdienst Shin Bet hatten den Angriff auf einen «ranghohen Hamas-Kommandeur» gemeldet, die Hamas bestätigte seinen Tod in der Nacht. Laut Sanitätern wurden zwei weitere Personen verletzt; getroffen wurde ein Zelt von Vertriebenen.",
+              "gegenstimme": "Al Jazeera und das Gesundheitsministerium in Gaza betonen, dass das Gebiet al-Mawasi von Israel früher als humanitäre Zone ausgewiesen worden war und seit Beginn der Waffenruhe im Oktober 2025 laut Ministerium mindestens 1643 Palästinenser getötet wurden. Israel begründet solche Angriffe damit, dass die Hamas trotz Waffenruhe nicht entwaffnet ist und sich ihre Kommandeure unter Zivilisten aufhalten; im Fall des Nasser-Spitals warf die Armee der Hamas vor, die Klinik als Kommandozentrum zu nutzen. Das Ministerium untersteht der Hamas; seine Zahlen unterscheiden nicht zwischen Kämpfern und Zivilisten.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
+                },
+                {
+                  "name": "Spiegel / Reuters",
+                  "url": "https://www.spiegel.de/ausland/hamas-kommandeur-im-gazastreifen-getoetet-a-ed56078f-d554-4c35-b70c-2aaecb18ed90"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-israel-netanyahu-eisenkot-einheitsregierung",
+              "slug": "israel-netanyahu-eisenkot-einheitsregierung",
+              "title": "Israel: Netanyahu wirbt um Einheitsregierung, Eisenkot spricht von «Spin»",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "politik",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "kurz": "Der abgewählte Regierungschef ruft zu Gesprächen ohne Vorbedingungen auf. Eisenkot, der den Auftrag zur Regierungsbildung hat, weist das zurück.",
+              "summary": "Israels geschäftsführender Ministerpräsident Benjamin Netanyahu hat Gadi Eisenkot am Samstag per Video zu Verhandlungen über eine nationale Einheitsregierung «ohne Vorbedingungen» aufgerufen; erstmals verlangte er dabei nicht ausdrücklich, selbst Regierungschef zu bleiben. Eisenkot, den Präsident Isaac Herzog mit der Regierungsbildung beauftragt hat, nannte den Aufruf «Spin»: Die Verhandlungsteams von Likud und seiner Partei Yashar träfen sich ohnehin am Sonntag. Netanyahus Block hatte bei der Wahl vom 27. Oktober 53 der 120 Sitze geholt, Eisenkots Block 48, die arabischen Parteien 19.",
+              "gegenstimme": "Netanyahu argumentiert, eine von arabischen Parteien abhängige Regierung könne die iranische Bedrohung nicht bewältigen; Teheran würde laut ihm nicht zögern, Atomwaffen einzusetzen. Er und Verbündete behaupten ohne Belege, arabische Parteien hätten die Wahl «gestohlen»; Eisenkot nennt diese Kampagne «rassistisch». Eisenkot schliesst arabische Parteien selbst aus der Regierung aus und plant notfalls eine Minderheitsregierung, die auf deren Enthaltung angewiesen wäre, was Netanyahu als Weg in den «Zusammenbruch» bezeichnet.",
+              "sources": [
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/netanyahu-again-urges-unity-talks-without-preconditions-eisenkot-rejects-pms-spin/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-spd-heil-kandidiert-gegen-klingbeil",
+              "slug": "spd-heil-kandidiert-gegen-klingbeil",
+              "title": "SPD: Hubertus Heil kandidiert für den Parteivorsitz",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "morning",
+              "kurz": "Der frühere Arbeitsminister ist der erste offizielle Bewerber für die SPD-Spitze und setzt Amtsinhaber Lars Klingbeil unter Druck.",
+              "summary": "Der frühere deutsche Arbeitsminister Hubertus Heil will beim SPD-Bundesparteitag Mitte Januar in Bremen als einer der Parteivorsitzenden kandidieren. Das kündigte der 54-Jährige in einem Brief an Parteivorstand und Landesverbände an, der ARD und Spiegel vorliegt. Er ist der erste offizielle Bewerber; Amtsinhaber Lars Klingbeil, zugleich Vizekanzler und Finanzminister, hat noch nicht entschieden.",
+              "gegenstimme": "Klingbeil hat Rückhalt in der Partei: Umweltminister Carsten Schneider warb laut WELT für seinen Verbleib («Ich vertraue ihm»). Klingbeil selbst hat sich noch nicht aus dem Rennen genommen. Heil ist zudem selbst nicht unumstritten: Als Arbeitsminister führte er das Bürgergeld ein, das später als zu grosszügig kritisiert wurde. Ob ein Personalwechsel die schwachen Umfragewerte der SPD verbessert, ist offen.",
+              "sources": [
+                {
+                  "name": "Tagesschau / ARD-Hauptstadtstudio",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/spd-hubertus-heil-will-fuer-parteivorsitz-kandidieren-a-f9209fb9-0404-43be-b66d-b2207e7e6aaa"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-alaska-erstmals-seit-1998-demokratischer-gouverneur",
+              "slug": "alaska-erstmals-seit-1998-demokratischer-gouverneur",
+              "title": "Alaska wählt erstmals seit 1998 einen demokratischen Gouverneur",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-Jonathan-Kreiss-Tomkins-ch-1321-9e72b7.jpg",
+              "kurz": "Jonathan Kreiss-Tomkins gewinnt mit rund 51 Prozent gegen drei Republikaner. Die Demokraten stellen damit 30 der 50 Gouverneure.",
+              "summary": "Elf Tage nach den US-Zwischenwahlen steht fest: Der Demokrat Jonathan Kreiss-Tomkins wird Gouverneur von Alaska, als erster Demokrat seit 1998. Der 37-Jährige erhielt laut vorläufigen Zahlen rund 51 Prozent der Erstpräferenzen und schlug drei Republikaner, darunter die von Präsident Donald Trump unterstützte Bernadette Wilson. Die Demokraten stellen damit ab nächstem Jahr 30 der 50 Gouverneure, erstmals seit 2010 wieder die Mehrheit.",
+              "gegenstimme": "Der Sieg ist kein reiner Parteiensieg: Kreiss-Tomkins wurde von der republikanischen Senatorin Lisa Murkowski und drei früheren Gouverneuren aus allen Lagern unterstützt und versprach ein parteiübergreifendes Kabinett. Der Demokrat Tom Begich zog nach den Vorwahlen zurück, um die Stimmen zu bündeln, während sich drei Republikaner gegenseitig konkurrenzierten.",
+              "sources": [
+                {
+                  "name": "Spiegel / AP",
+                  "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska-a-fb2cad4c-5ecc-438a-b9dd-76812d0a333d"
+                },
+                {
+                  "name": "NBC News",
+                  "url": "https://www.nbcnews.com/politics/2026-election/jonathan-kreiss-tomkins-democrat-wins-alaska-governor-race-rcna606558"
+                },
+                {
+                  "name": "Times of Israel / AP",
+                  "url": "https://www.timesofisrael.com/alaska-elects-first-democrat-governor-since-1998-in-another-blue-wave-win/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-15-bremen-stoppt-verfassungsschutz-kampagne-islamismus",
+              "slug": "bremen-stoppt-verfassungsschutz-kampagne-islamismus",
+              "title": "Bremen stoppt Verfassungsschutz-Kampagne gegen legalistischen Islamismus",
+              "date": "2026-11-15",
+              "time": "06:15",
+              "category": "politik",
+              "icon": "🛡️",
+              "edition": "morning",
+              "kurz": "Nach Kritik des muslimischen Dachverbands Schura zieht Innensenatorin Eva Högl die Plakate mit dem «Wolf im Schafspelz» nach knapp zwei Wochen zurück.",
+              "summary": "Die Bremer Innensenatorin Eva Högl (SPD) hat die Kampagne des Landesamts für Verfassungsschutz gegen den sogenannten legalistischen Islamismus am Samstag vorzeitig beendet. Die seit dem 4. November gezeigten Anzeigen mit einem Wolf im Schafspelz und dem Text «Freundlich im Auftreten. Antidemokratisch im Kern» sollten vor Netzwerken wie der Muslimbruderschaft warnen. Nach Kritik der Schura Bremen erklärte Högl: «Das Ziel war richtig. Die Umsetzung nicht.»",
+              "gegenstimme": "Die Schura Bremen kritisierte die Bildsprache als entmenschlichend; sie stelle Musliminnen und Muslime unter Generalverdacht, und sie verlangte eine Entschuldigung, die Högl nicht abgab. Auf der anderen Seite hatte der Leiter des Verfassungsschutzes, Thorge Koehler, die Kampagne zuvor verteidigt. Gegen den Rückzug spricht aus Sicht der Kampagne selbst, dass sich legalistische Islamisten gerade bewusst freundlich und dialogbereit geben; genau davor warnte der Slogan. Mit dem Stopp nach knapp zwei Wochen gibt eine Sicherheitsbehörde öffentlichem Druck eines Verbands nach, was die Frage aufwirft, wie frei sie künftig vor Islamismus warnen kann. Die Schlagzeilen unterscheiden sich: WELT und Bild schreiben «nach muslimischer Kritik», der Weser-Kurier nur «nach Kritik».",
+              "sources": [
+                {
+                  "name": "Senat Bremen – Mitteilung",
+                  "url": "https://www.senatspressestelle.bremen.de/pressemitteilungen/innensenatorin-hoegl-aeussert-sich-zur-aktuellen-kampagne-des-verfassungsschutzes-493577"
+                },
+                {
+                  "name": "Weser-Kurier",
+                  "url": "https://www.weser-kurier.de/bremen/politik/nach-kritik-bremer-innensenatorin-stoppt-kampagne-gegen-islamismus-doc88gg56vob8g1b7k55bkv"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6af8bfe99849eea0701e30d0/bremen-nach-muslimischer-kritik-verfassungsschutz-beendet-kampagne-gegen-islamismus.html"
+                },
+                {
+                  "name": "Schura Bremen – Stellungnahme",
+                  "url": "http://www.schurabremen.de/index.php/18-startseitenbeitrag?limitstart=0"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-14",
       "editions": {
