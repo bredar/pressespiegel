@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T12:02:37+01:00",
+  "updated": "2026-11-16T17:09:12+01:00",
   "days": [
     {
       "date": "2026-11-16",
@@ -689,6 +689,339 @@
                 {
                   "name": "Euronews",
                   "url": "https://de.euronews.com/2026/11/16/csd-anschlag-islamistischer-attentater-bezog-burgergeld-im-libanon-knast"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:20",
+          "articles": [
+            {
+              "id": "2026-11-16-spk-n-staendemehr-eu-vertragspaket",
+              "slug": "spk-n-staendemehr-eu-vertragspaket",
+              "title": "EU-Vertragspaket: Nationalratskommission will Volks- und Ständemehr",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://www.watson.ch/imgdb/48a2/Z1200,675,3203,1960,368,367/526768910750134",
+              "kurz": "Die Staatspolitische Kommission des Nationalrats will den Stabilisierungsteil der EU-Verträge dem obligatorischen Referendum unterstellen.",
+              "summary": "Die Staatspolitische Kommission des Nationalrats (SPK-N) will, dass beim Stabilisierungsteil des EU-Vertragspakets neben dem Volk auch die Mehrheit der Kantone zustimmen muss. Sie fasste den Antrag am Montag mit 14 zu 11 Stimmen und folgt damit dem Ständerat. Der Nationalrat entscheidet in der Wintersession.",
+              "gegenstimme": "Der Bundesrat hatte ein fakultatives Referendum beantragt, bei dem das Volksmehr genügt hätte; er und die Befürworter argumentieren, es handle sich um Staatsverträge ohne Verfassungsrang. Die Kommissionsminderheit hält zudem den engen Zeitplan für angemessen und die Informationen für ausreichend, während die Mehrheit über Zeitdruck klagt.",
+              "sources": [
+                {
+                  "name": "Parlamentsdienste (SPK-N, it.)",
+                  "url": "https://www.parlament.ch/press-releases/Pages/mm-spk-n-2026-11-16.aspx?lang=1040"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/eu-vertragspaket-nationalratskommission-will-staendemehr-fuer-eu-vertragspaket"
+                },
+                {
+                  "name": "watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/schweiz/eu/690974552-nationalratskommission-will-volks-und-staendemehr-fuer-bilaterale-iii"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/kommission-verlangt-volks-und-st%c3%a4ndemehr-f%c3%bcr-die-eu-vertr%c3%a4ge/92388507"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-reka-hackerangriff-whatsapp-phishing",
+              "slug": "reka-hackerangriff-whatsapp-phishing",
+              "title": "Hackerangriff auf Reka: Betrüger schreiben über 8000 Kunden mit echten Buchungsdaten an",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/45580cf492fba7b9f471845ad22c7aceae1ab383-92389987.jpg?ver=58a16168&fit=1200,900",
+              "kurz": "Unbekannte haben bei der Schweizer Reisekasse Kunden- und Buchungsdaten erbeutet und verschicken damit gezielte Phishing-Nachrichten per Whatsapp.",
+              "summary": "Die Schweizer Reisekasse (Reka) ist am späten Sonntagnachmittag Ziel eines Hackerangriffs geworden. Unbekannte verschafften sich Zugang zu persönlichen Angaben und Reisedaten und schickten rund 8200 Kundinnen und Kunden täuschend echte Whatsapp-Nachrichten mit einem Link zur angeblichen Buchungsbestätigung. Reka hat Strafanzeige erstattet.",
+              "gegenstimme": "Reka betont, neue Buchungen seien sicher und das Geldsystem mit Reka-Checks und Zahlungskarten nicht betroffen. Allerdings wurde die Genossenschaft laut eigener Aussage erst durch Kundinnen und Kunden auf den Angriff aufmerksam, und wie die Täter an die Daten kamen, kann sie bisher nicht sagen. Das wirft Fragen zur Überwachung der eigenen Systeme auf.",
+              "sources": [
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/betrugswelle-per-whatsapp-trifft-%c3%bcber-8000-reka-kunden/92390000"
+                },
+                {
+                  "name": "SRF Espresso",
+                  "url": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/ferienanbieter-gehackt-vorsicht-vor-phishing-im-namen-von-reka"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/wirtschaft/reka-gehackt-kunden-bekommen-gefaehrliche-nachrichten/51qdqws"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/reka-hackerangriff-kunden-erhalten-echte-buchungsdaten-per-whatsapp-281668649815"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-hasle-bei-burgdorf-trinkwasser-verunreinigt",
+              "slug": "hasle-bei-burgdorf-trinkwasser-verunreinigt",
+              "title": "Hasle bei Burgdorf: Trinkwasser mikrobiologisch verunreinigt, Abkochen nötig",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "regional",
+              "icon": "💧",
+              "edition": "evening",
+              "image": "https://www.watson.ch/imgdb/77cc/Z1200,675,269,142,36,36/162220097950226",
+              "kurz": "In Hasle bei Burgdorf muss das Leitungswasser bis auf Weiteres abgekocht werden; Alertswiss warnte am Montagnachmittag.",
+              "summary": "Im Emmentaler Hasle bei Burgdorf ist das Trinkwasser verunreinigt. Die Gemeinde und der Kanton Bern warnten am Montagnachmittag über Alertswiss, das Wasser vor dem Trinken und Kochen abzukochen. Laut Gemeinde handelt es sich um eine mikrobiologische Verunreinigung, die nur das Gemeindegebiet betrifft.",
+              "gegenstimme": "Die Behörden nennen weder die Ursache noch die Art der Erreger, und wie lange die Massnahme gilt, ist offen. Für die Bevölkerung wäre gerade diese Information wichtig, um das Risiko einzuschätzen; die Gemeinde verweist darauf, dass die Wiederherstellung der Wasserqualität mehrere Tage dauern könne.",
+              "sources": [
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/trinkwasser-in-hasle-bei-burgdorf-verschmutzt/92389935"
+                },
+                {
+                  "name": "watson (mit Alertswiss-Meldung)",
+                  "url": "https://www.watson.ch/schweiz/bern/776906575-alertswiss-warnung-trinkwasser-in-hasle-bei-burgdorf-verunreinigt"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/hasle-bei-burgdorf-trinkwasser-verunreinigt-553701243911"
+                },
+                {
+                  "name": "Radio BeO",
+                  "url": "https://www.radiobeo.ch/verunreinigtes-trinkwasser-in-hasle-bei-burgdorf/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-kanton-bern-keine-steueranreize-arbeitende-rentner",
+              "slug": "kanton-bern-keine-steueranreize-arbeitende-rentner",
+              "title": "Kanton Bern: Regierung sieht kaum Spielraum für Steueranreize an arbeitende Rentner",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "regional",
+              "icon": "👵",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/dd5a18296d7c1459327e6c76a3ca75a458ccf30a-92389589.jpg?ver=bc86b0c5&fit=1200,900",
+              "kurz": "Spezielle Steuerabzüge für Erwerbstätige im Rentenalter verstossen laut Berner Regierungsrat gegen Bundesrecht.",
+              "summary": "Der Berner Regierungsrat sieht kaum Möglichkeiten, das Weiterarbeiten nach der Pensionierung mit Steuerabzügen zu fördern. Spezielle Abzüge oder Freigrenzen nur für Erwerbstätige im Rentenalter verstiessen gegen die Bundesverfassung, schreibt er in der am Montag veröffentlichten Antwort auf eine Interpellation von GLP-Grossrat Roland Lüthi.",
+              "gegenstimme": "Lüthi und Wirtschaftskreise sehen in älteren Fachkräften angesichts der Alterung und des Fachkräftemangels ein grosses Potenzial, das auch steuerlich gefördert werden sollte. Auf Bundesebene wird darüber weiter debattiert; der Kanton verweist auf die Zuständigkeit des Bundes, was Kritiker als Verzicht auf eigene Initiative lesen können.",
+              "sources": [
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/steueranreize-f%c3%bcr-arbeitende-rentner-im-kanton-bern-kaum-m%c3%b6glich/92389602"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/steueranreize-fuer-arbeitende-rentner-sind-kaum-moeglich-990822883153"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-areuse-frau-angezuendet-18-jahre-bestaetigt",
+              "slug": "areuse-frau-angezuendet-18-jahre-bestaetigt",
+              "title": "Areuse NE: 18 Jahre Haft für Auftraggeber des Brandanschlags auf eine Frau bestätigt",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/939fc29d6ed7124b1173479e4424da53e7aa3441-92389973.jpg?ver=984ef79f&fit=1200,900",
+              "kurz": "Das Neuenburger Kantonsgericht bestätigt im Fall der 2022 mit Benzin angezündeten Frau 18 und 14 Jahre Haft.",
+              "summary": "Im Fall einer Frau, die 2022 in Areuse NE mit Benzin übergossen und angezündet wurde, hat das Neuenburger Kantonsgericht die Strafen in zweiter Instanz bestätigt. Der Auftraggeber erhält erneut 18 Jahre Haft, der Mitangeklagte 14 Jahre. Beide waren wegen versuchten Mordes verurteilt worden.",
+              "gegenstimme": "Der Auftraggeber bestreitet weiterhin jede Beteiligung und will das Urteil ans Bundesgericht weiterziehen; es ist damit nicht rechtskräftig. Westschweizer Medien sprechen von einem versuchten Femizid, eine Einordnung, die im Urteil selbst so nicht als Straftatbestand vorkommt.",
+              "sources": [
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/frau-bei-lebendigem-leib-angez%c3%bcndet%3a-18-jahre-haft-best%c3%a4tigt/92389986"
+                },
+                {
+                  "name": "Le Matin / Arcinfo",
+                  "url": "https://www.lematin.ch/story/areuse-ne-femme-brulee-vive-peines-de-prison-confirmees-en-appel-103668556"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/mordversuch-areuse-18-jahre-haft-fuer-auftraggeber-bestaetigt-773949051138"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-ilo-houngbo-wiedergewaehlt-genf",
+              "slug": "ilo-houngbo-wiedergewaehlt-genf",
+              "title": "Genf: ILO-Chef Houngbo für zweite Amtszeit gewählt",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "international",
+              "icon": "🌐",
+              "edition": "evening",
+              "kurz": "Der Togoer Gilbert Houngbo bleibt bis 2032 Generaldirektor der Internationalen Arbeitsorganisation in Genf.",
+              "summary": "Der Verwaltungsrat der Internationalen Arbeitsorganisation (ILO) hat Gilbert F. Houngbo am Montag in Genf für eine zweite fünfjährige Amtszeit gewählt. Der frühere Premierminister Togos erhielt in geheimer Wahl 51 Stimmen bei fünf Enthaltungen. Die neue Amtszeit läuft von Oktober 2027 bis September 2032.",
+              "gegenstimme": "Die Wiederwahl fiel ohne Gegenkandidatur: Die spanische Arbeitsministerin Yolanda Díaz und der Peruaner Javier González-Olaechea hatten ihre Kandidaturen vorher zurückgezogen. Zudem steckt die ILO laut Reuters in einer Finanzkrise, weil die USA ihre Beiträge nicht zahlen; Houngbo verspricht vor allem Effizienzreformen, nicht einen grundlegenden Umbau.",
+              "sources": [
+                {
+                  "name": "ILO (Primärquelle)",
+                  "url": "https://www.ilo.org/resource/news/gilbert-f-houngbo-re-elected-director-general-international-labour"
+                },
+                {
+                  "name": "AFP",
+                  "url": "https://www.afp.com/en/former-togo-pm-re-elected-un-labour-agency-chief"
+                },
+                {
+                  "name": "Reuters (via CNBC Africa)",
+                  "url": "https://www.cnbcafrica.com/2026/un-labour-agency-chief-houngbo-wins-second-term"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-merz-stromsteuer-senkung-2027-koalitionsausschuss",
+              "slug": "merz-stromsteuer-senkung-2027-koalitionsausschuss",
+              "title": "Deutschland: Merz kündigt Einigung auf Stromsteuersenkung für 2027 an",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "politik",
+              "icon": "⚡",
+              "edition": "evening",
+              "image": "https://www.zdfheute.de/assets/bundestag-merz-klingbeil-102~1280x720?cb=1794840958840",
+              "kurz": "Der Koalitionsausschuss soll am Dienstag die Senkung der Stromsteuer auf das EU-Minimum auch für Privathaushalte beschliessen.",
+              "summary": "Bundeskanzler Friedrich Merz (CDU) hat am Montag in München angekündigt, dass der Koalitionsausschuss von Union und SPD am Dienstag eine Senkung der Stromsteuer beschliessen werde. Ab 2027 soll sie vollständig auf das europäische Minimum sinken, auch für private Haushalte. «Wir werden uns morgen einigen», sagte Merz nach einem Auftritt mit CSU-Chef Markus Söder.",
+              "gegenstimme": "Finanzminister und SPD-Chef Lars Klingbeil zeigt sich offen, verlangt aber eine Gegenfinanzierung, die bisher nicht feststeht. Die CSU lehnt es ab, dafür die beschlossene Erhöhung der Mütterrente zurückzunehmen. Ob die Einigung tatsächlich zustande kommt, ist erst nach dem Ausschuss klar.",
+              "sources": [
+                {
+                  "name": "ZDFheute",
+                  "url": "https://www.zdfheute.de/politik/deutschland/merz-koalition-stromsteuer-100.html"
+                },
+                {
+                  "name": "FAZ",
+                  "url": "https://www.faz.net/aktuell/politik/inland/merz-und-soeder-senkung-der-stromsteuer-soll-kommen-201687373.html"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/haushalt-merz-setzt-klingbeil-bei-senkung-der-stromsteuer-unter-zugzwang/100270123.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/plus6af72b129849eea0701e1d64/koalitionskrise-dann-holt-der-kanzler-tief-luft-und-spricht-ein-machtwort.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-unicredit-commerzbank-eu-genehmigung",
+              "slug": "unicredit-commerzbank-eu-genehmigung",
+              "title": "EU genehmigt Übernahme der Commerzbank durch UniCredit ohne Auflagen",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/48088695-d98f-4a0b-8eb4-cc1626bbac65/AAABoeQe9Xs/AAABnSSvrFg/16x9-big/commerzbank-195.jpg?width=1280",
+              "kurz": "Brüssel sieht keine Wettbewerbsbedenken; UniCredit fehlt nur noch die Zustimmung aus Polen.",
+              "summary": "Die EU-Kommission hat die Übernahme der Commerzbank durch die italienische UniCredit am Montag ohne Auflagen genehmigt. Sie sieht keine Wettbewerbsbedenken, auch nicht bei Krediten an den deutschen Mittelstand. UniCredit hält bereits knapp 50 Prozent der Commerzbank und erwartet alle Bewilligungen bis Ende November.",
+              "gegenstimme": "Die deutsche Bundesregierung, die gut 13 Prozent der Commerzbank hält, hatte sich gegen die feindliche Übernahme gestellt. Sie will betriebsbedingte Kündigungen verhindern und verlangt, dass die Bank börsenkotiert in Frankfurt bleibt. UniCredit-Chef Orcel plant dagegen den Abbau von rund 7000 Stellen.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
+                },
+                {
+                  "name": "DIE ZEIT",
+                  "url": "https://www.zeit.de/geld/2026-11/eu-macht-weg-frei-fuer-commerzbank-uebernahme-durch-unicredit"
+                },
+                {
+                  "name": "UniCredit (Mitteilung)",
+                  "url": "https://www.unicreditgroup.eu/en/press-media/press-releases/2026/november/unicredit-receives-unconditional-eu-approval-for-commerzbank-con.html"
+                },
+                {
+                  "name": "Politico",
+                  "url": "https://www.politico.eu/article/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-revolut-italien-gerichtliche-aufsicht-geldwaesche",
+              "slug": "revolut-italien-gerichtliche-aufsicht-geldwaesche",
+              "title": "Mailand stellt Revolut-Bank wegen Geldwäsche-Mängeln unter Gerichtsaufsicht",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "wirtschaft",
+              "icon": "💶",
+              "edition": "evening",
+              "kurz": "Über Revolut-Konten sollen 24 Kriminelle 41,9 Millionen Euro verschoben haben; die Bank meldete keinen einzigen Verdachtsfall.",
+              "summary": "Ein Mailänder Gericht hat die italienische Niederlassung der litauischen Revolut Bank UAB für ein Jahr unter gerichtliche Verwaltung gestellt. Laut dem Entscheid konnten 24 verurteilte oder beschuldigte Personen, darunter Mafia-Kriminelle, zwischen 2021 und 2026 rund 41,9 Millionen Euro über Revolut-Konten verschieben. Die Massnahme ist präventiv; Revolut selbst wird nicht strafrechtlich verfolgt.",
+              "gegenstimme": "Revolut war für eine Stellungnahme zunächst nicht erreichbar. Die Massnahme ist ausdrücklich keine Strafe, sondern soll die Kontrollen verbessern; ähnliche Verfügungen trafen in Italien bereits Mode- und Logistikfirmen. Die Kundinnen und Kunden können ihre Konten laut Gericht normal weiter nutzen.",
+              "sources": [
+                {
+                  "name": "Reuters (via CNA)",
+                  "url": "https://www.channelnewsasia.com/world/italy-court-revolut-bank-money-laundering-supervision-6555126"
+                },
+                {
+                  "name": "ANSA",
+                  "url": "https://www.ansa.it/english/news/business/2026/11/16/court-orders-revolut-be-put-into-judicial-administration-in-money-laundering-probe_9e9dc2c7-eda3-4d84-883b-f20b8a3405cb.html"
+                },
+                {
+                  "name": "RTÉ",
+                  "url": "https://www.rte.ie/news/business/2026/1116/1599382-revolut-italy-money/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-san-francisco-erklaerung-ki-lieferketten",
+              "slug": "san-francisco-erklaerung-ki-lieferketten",
+              "title": "USA und neun Verbündete wollen KI-Lieferketten gemeinsam gegen China absichern",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "evening",
+              "kurz": "Mit der «San Francisco Declaration» koordinieren zehn Staaten, darunter Katar und Israel, den Schutz von Chips, Rohstoffen und KI-Infrastruktur.",
+              "summary": "Die USA und neun Partnerstaaten haben die «San Francisco Declaration» unterzeichnet, wie das US-Aussenministerium am Sonntagabend mitteilte. Australien, Indien, Israel, Japan, Südkorea, Katar, Singapur, die Emirate und Grossbritannien verpflichten sich, sensible Technologien und die Infrastruktur von KI-Lieferketten gemeinsam zu schützen. Die Erklärung ist Teil der US-Initiative Pax Silica, die die Abhängigkeit von China verringern soll.",
+              "gegenstimme": "In Manila demonstrieren seit Tagen linke Gruppen, Studierende und Gewerkschaften auch gegen Pax Silica. Kritiker sehen darin einen Zwang zur Blockbildung: Laut Reuters wollte Washington schon im August Staaten vor die Wahl stellen, entweder dem US-Bündnis oder Chinas Konkurrenzrahmen beizutreten. Eine Reaktion Pekings lag bei Redaktionsschluss nicht vor.",
+              "sources": [
+                {
+                  "name": "US-Aussenministerium (Primärquelle)",
+                  "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity"
+                },
+                {
+                  "name": "Reuters (via Investing.com)",
+                  "url": "https://www.investing.com/news/world-news/us-allies-team-up-to-protect-ai-tech-and-infrastructure-amid-china-rivalry-5028738"
+                },
+                {
+                  "name": "Financial Times",
+                  "url": "https://www.ft.com/content/00501acf-8cfc-483d-bbd6-154013e4ca4b"
+                },
+                {
+                  "name": "Straits Times / Reuters",
+                  "url": "https://www.straitstimes.com/asia/se-asia/chinese-premier-lauds-extraordinary-ties-with-asean-ahead-of-trump-visit"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-asean-manila-li-qiang-vor-trump-besuch",
+              "slug": "asean-manila-li-qiang-vor-trump-besuch",
+              "title": "Asean-Gipfel Manila: China wirbt um Südostasien, bevor Trump eintrifft",
+              "date": "2026-11-16",
+              "time": "17:20",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "evening",
+              "kurz": "Chinas Premier Li Qiang lobt die «aussergewöhnlichen» Beziehungen zur Asean; Trump kommt am Dienstag zum Gipfel und zum ersten Quad-Treffen seit zwei Jahren.",
+              "summary": "Chinas Premier Li Qiang hat am Montag am Asean-Gipfel in Manila die Beziehungen zu Südostasien als «wirklich aussergewöhnlich» gelobt und sich als Verteidiger des Freihandels präsentiert. Der Handel zwischen China und der Asean übertraf 2025 laut Li eine Billion Dollar. US-Präsident Trump trifft am Dienstag ein und nimmt erstmals in seiner zweiten Amtszeit an einem Quad-Gipfel mit Japan, Indien und Australien teil.",
+              "gegenstimme": "Die grössten Asean-Staaten wollen trotz Chinas Werben die Beziehungen zu den USA ausbauen. Chinas Rolle als Freihändler kontrastiert mit dem Streit im Südchinesischen Meer: Der seit Jahren verhandelte Verhaltenskodex mit Peking kam auch diesmal nicht zustande. Die Quad betont, nicht gegen ein bestimmtes Land gerichtet zu sein, gilt aber weithin als Gegengewicht zu China.",
+              "sources": [
+                {
+                  "name": "Straits Times / Reuters",
+                  "url": "https://www.straitstimes.com/asia/se-asia/chinese-premier-lauds-extraordinary-ties-with-asean-ahead-of-trump-visit"
+                },
+                {
+                  "name": "Philstar",
+                  "url": "https://www.philstar.com/headlines/2026/11/16/2570543/asean-summit-day-2-chinas-trade-pitch-scams-talk-trump-next"
+                },
+                {
+                  "name": "Japan Times",
+                  "url": "https://www.japantimes.co.jp/news/2026/11/16/asia-pacific/politics/manila-summit-trade-us-risks/"
+                },
+                {
+                  "name": "Reuters (via Investing.com): Guterres",
+                  "url": "https://www.investing.com/news/world-news/un-ready-to-support-any-denuclearisation-effort-from-us-china-russia-talks-5028560"
                 }
               ]
             }
