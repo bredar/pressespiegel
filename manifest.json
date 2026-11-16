@@ -1,6 +1,360 @@
 {
-  "updated": "2026-11-15T17:00:51+01:00",
+  "updated": "2026-11-16T06:04:48+01:00",
   "days": [
+    {
+      "date": "2026-11-16",
+      "editions": {
+        "morning": {
+          "time": "06:15",
+          "articles": [
+            {
+              "id": "2026-11-16-cop31-35-bis-35-schweiz-unterstuetzt",
+              "slug": "cop31-35-bis-35-schweiz-unterstuetzt",
+              "title": "COP31: Schlusswoche entscheidet über Ziel «35 Prozent Strom bis 2035»",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "politik",
+              "icon": "🌍",
+              "edition": "morning",
+              "kurz": "An der UNO-Klimakonferenz in Antalya geht es diese Woche darum, ob 35 Prozent des weltweiten Energieverbrauchs bis 2035 aus Strom kommen sollen; die Schweiz ist dafür.",
+              "summary": "An der UNO-Klimakonferenz COP31 im türkischen Antalya beginnt die entscheidende zweite Verhandlungswoche. Die türkische Präsidentschaft will in der Abschlusserklärung festhalten, dass bis 2035 35 Prozent der weltweit verbrauchten Energie Strom sind («35 bis 35»); heute ist es weniger als ein Viertel. Die Schweiz und Deutschland unterstützen das Ziel, mehrere Staaten wehren sich gegen eine fixe Zahl.",
+              "gegenstimme": "Skeptisch sind laut Berichten unter anderem Saudi-Arabien und Russland; einige Länder wollen sich nicht zu zusätzlichem erneuerbarem Strom verpflichten lassen. Was im Bild fehlt: Auch die IEA räumt ein, dass der Klimanutzen stark davon abhängt, ob der zusätzliche Strom erneuerbar produziert wird; Fragen zu Kosten und Versorgungssicherheit spielen in der Zielformel keine Rolle.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/uno-klimakonferenz-35-prozent-strom-bis-2035"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html"
+                },
+                {
+                  "name": "Politico Europe",
+                  "url": "https://www.politico.eu/article/countries-on-the-fence-over-cop31s-flagship-target/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-genf-ccw-konferenz-autonome-waffen",
+              "slug": "genf-ccw-konferenz-autonome-waffen",
+              "title": "Genf: 128 Staaten verhandeln über Schranken für autonome Waffen",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "politik",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/eedfe12fba6c491e4d99bc4267c692359658f3a1-92386231.jpg?ver=647fd45a&fit=1200,900",
+              "kurz": "An der Überprüfungskonferenz der UN-Waffenkonvention in Genf entscheiden 128 Staaten diese Woche, ob über verbindliche Regeln für tödliche autonome Waffensysteme verhandelt wird.",
+              "summary": "Vom 16. bis 20. November tagt in Genf die siebte Überprüfungskonferenz der UN-Waffenkonvention (CCW) mit 128 Vertragsstaaten. Sie entscheidet, ob ein Verhandlungsmandat für Regeln zu tödlichen autonomen Waffensystemen erteilt wird, die Ziele ohne menschliche Kontrolle auswählen und angreifen. Der Vorsitz schlägt zwei Jahre Verhandlungen über ein neues CCW-Protokoll vor; die USA wollen fünf Jahre und nur unverbindliche Prinzipien.",
+              "gegenstimme": "Die USA argumentieren, solche Waffen seien schon heute an das humanitäre Völkerrecht gebunden; verbindliche Schranken würden Innovation in der Rüstungsindustrie bremsen. Auch Israel und Indien haben Vorbehalte. Befürworter eines Verbots, etwa das IKRK und die Kampagne «Stop Killer Robots», halten dagegen, dass Verbote wie bei Chemiewaffen und Landminen trotz Verstössen eine starke Norm schaffen.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA (Swissinfo)",
+                  "url": "https://www.swissinfo.ch/ger/killerroboter-ohne-kontrolle%3f-staaten-ringen-um-schranken/92386244"
+                },
+                {
+                  "name": "UNO Genf",
+                  "url": "https://www.ungeneva.org/en/meetings-events/events/observances-special-events/2026/11/seventh-review-conference-high"
+                },
+                {
+                  "name": "Reuters (via Investing.com)",
+                  "url": "https://www.investing.com/news/world-news/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons-5028218"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-china-bestaetigt-dreiergipfel-shenzhen",
+              "slug": "china-bestaetigt-dreiergipfel-shenzhen",
+              "title": "China bestätigt Dreiergipfel Xi, Putin, Trump am Donnerstag",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🤝",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/94e5e419ccc4f1ee8098358ecb868c14197aa40c-92386245.jpg?ver=93d97479&fit=1200,900",
+              "kurz": "Nach Washington und Moskau hat auch Peking das Treffen von Xi Jinping, Wladimir Putin und Donald Trump am Donnerstag in Shenzhen offiziell bestätigt.",
+              "summary": "Das chinesische Aussenministerium hat am Montag bestätigt, dass Staatschef Xi Jinping am Donnerstag, 19. November, in Shenzhen ein Dreiertreffen mit Wladimir Putin und Donald Trump abhält, am Rande des APEC-Gipfels. Das Weisse Haus hatte den Termin am Freitag verkündet, der Kreml am Samstag Putins Teilnahme bestätigt. Themen nannte Peking nicht.",
+              "gegenstimme": "Kritiker in Europa und der Ukraine befürchten, dass bei einem Treffen der drei Atommächte über ihre Köpfe hinweg verhandelt wird; laut US-Vertretern soll der Ukraine-Krieg aber gar nicht Thema sein. Xi selbst hat laut dem deutschen Bundespräsidenten Steinmeier betont, die Ukraine sei ein europäischer Konflikt, bei dem Europa am Tisch sitzen müsse. Skeptiker bezweifeln zudem, dass bei der Abrüstung etwas herauskommt, weil China eigene Verhandlungen ablehnt, solange die USA und Russland nicht abrüsten.",
+              "sources": [
+                {
+                  "name": "Chinesisches Aussenministerium",
+                  "url": "https://www.mfa.gov.cn/mfa_eng./xw/wsrc/202611/t20261116_12059663.html"
+                },
+                {
+                  "name": "Keystone-SDA (Swissinfo)",
+                  "url": "https://www.swissinfo.ch/ger/china-best%c3%a4tigt-offiziell-treffen-zwischen-trump%2c-putin-und-xi/92386258"
+                },
+                {
+                  "name": "South China Morning Post",
+                  "url": "https://www.scmp.com/news/china/diplomacy/article/3374523/china-us-russia-trilateral-set-thursday-beijing"
+                },
+                {
+                  "name": "CNA",
+                  "url": "https://www.channelnewsasia.com/east-asia/donald-trump-xi-jinping-vladimir-putin-china-meeting-6553826"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-estland-schliesst-grenze-russland-gru-anschlag",
+              "slug": "estland-schliesst-grenze-russland-gru-anschlag",
+              "title": "Estland schliesst ab 1. Dezember alle Grenzübergänge zu Russland",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🇪🇪",
+              "edition": "morning",
+              "kurz": "Nach einem vereitelten Brandanschlag auf einen Drohnenhersteller, den Estland dem russischen Militärgeheimdienst GRU zuschreibt, macht Tallinn die Grenze zu Russland dicht.",
+              "summary": "Estland schliesst ab dem 1. Dezember seine drei verbliebenen Strassen-Grenzübergänge zu Russland in Narva, Luhamaa und Koidula. Auslöser ist ein versuchter Brandanschlag am Samstag um 3.06 Uhr auf den Drohnenhersteller Threod Systems in Viimsi bei Tallinn, den der Sicherheitsdienst KAPO dem russischen Militärgeheimdienst GRU zuschreibt. Acht in Lettland wohnhafte Verdächtige wurden festgenommen, gegen fünf wurde Haftbefehl beantragt.",
+              "gegenstimme": "Moskau weist die Vorwürfe zurück; Aussenamtssprecherin Maria Sacharowa spricht von einem weiteren Ausbruch «aggressiver und zügelloser Russophobie». Was im Bild fehlt: Belege für die GRU-Steuerung hat Estland bisher nicht öffentlich vorgelegt, die Zuschreibung stützt sich auf Angaben der Spionageabwehr. Zudem trifft die Schliessung auch Menschen, die über Narva, Luhamaa und Koidula Angehörige in Russland besuchen.",
+              "sources": [
+                {
+                  "name": "ERR News",
+                  "url": "https://news.err.ee/1610196722/8-detained-after-gru-linked-arson-at-estonian-drone-company-threod-systems"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/estland-schliesst-grenzen-zu-russland-nach-sabotageakt-auf-ruestungsfirma-ld.10064620"
+                },
+                {
+                  "name": "Keystone-SDA (Swissinfo)",
+                  "url": "https://www.swissinfo.ch/ger/nach-anschlag-auf-r%C3%BCstungsfirma-estland-schliesst-grenze-zu-russland/92385765"
+                },
+                {
+                  "name": "ZDFheute",
+                  "url": "https://www.zdfheute.de/politik/ausland/estland-grenze-russland-sabotage-drohnenhersteller-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-kanaren-rekord-1580-migranten-ein-tag",
+              "slug": "kanaren-rekord-1580-migranten-ein-tag",
+              "title": "Kanaren: Rekord von 1580 ankommenden Migranten an einem Tag",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🚤",
+              "edition": "morning",
+              "image": "https://imagenes.elpais.com/resizer/v2/K26KCW54FRMP5IX2DW5H7EM74M.jpg?auth=73a35e027fc136bf8cdac04ec20c8998e4a6a5dbb7804aa6909a7794975ad753&width=1200",
+              "kurz": "Am Samstag erreichten 1580 Menschen in 15 Booten die Kanarischen Inseln, so viele wie noch nie an einem Tag; vor allem El Hierro ist betroffen.",
+              "summary": "Am Samstag, 14. November, haben die spanischen Seenotretter und die Guardia Civil 15 Boote mit 1580 Migranten zu den Kanaren gebracht, so viele wie nie zuvor an einem Tag in den 32 Jahren dieser Route. Der bisherige Rekord lag bei 1461 Personen am 7. November 2020. Über das ganze Wochenende kamen 3684 Menschen an, der grösste Teil auf der kleinen Insel El Hierro.",
+              "gegenstimme": "Die spanische Regierung verweist darauf, dass die Ankünfte zyklisch schwanken und im ersten Halbjahr um 67 Prozent gesunken waren; Hilfsorganisationen betonen die gefährliche Überfahrt von vier bis sieben Tagen. Die konservative Kanarenregierung unter Fernando Clavijo und Anwohner auf El Hierro kritisieren dagegen, Madrid reagiere zu spät, und fordern mehr Personal, Gesundheitsversorgung und raschere Verlegungen.",
+              "sources": [
+                {
+                  "name": "EFE",
+                  "url": "https://efe.com/canarias/2026-11-15/record-de-rescates-de-miergrantes-en-un-solo-dia-en-la-ruta-canaria/"
+                },
+                {
+                  "name": "El País",
+                  "url": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6af9c3f04495f9bd85b81076/spanien-1580-menschen-an-einem-tag-kanaren-melden-neuen-rekord-von-ankommenden-migranten.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-reichelt-brandanschlag-bekennerschreiben-indymedia",
+              "slug": "reichelt-brandanschlag-bekennerschreiben-indymedia",
+              "title": "Brandanschlag auf Reichelts Auto: Staatsschutz prüft Bekennerschreiben auf Indymedia",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "morning",
+              "image": "https://www.rbb-online.de/content/dam/rbb/rbb/rbb24/2026/2026_11/dpa-account/nius-auto.jpg.jpg/size=1280x720.jpg",
+              "kurz": "Zum Brandanschlag auf das Auto von «Nius»-Chef Julian Reichelt ist auf der linksextremen Plattform Indymedia ein Bekennerschreiben aufgetaucht; die Polizei prüft die Echtheit.",
+              "summary": "Nach dem Brandanschlag auf das Auto von «Nius»-Chefredakteur Julian Reichelt in Berlin-Charlottenburg in der Nacht auf Freitag prüft der Polizeiliche Staatsschutz ein Bekennerschreiben. Es wurde auf der Plattform Indymedia veröffentlicht, die der Verfassungsschutz als linksextremistisch einstuft; die Verfasser begründen die Tat mit Reichelts Arbeit für «Nius» und veröffentlichen laut «Nius» und Tag24 auch seine Privatadresse. Tatverdächtige nennt die Polizei bisher nicht.",
+              "gegenstimme": "Die Polizei betont, die Echtheit sei unklar: Auf Indymedia kann jeder anonym publizieren, und frühere angebliche Bekennerschreiben erwiesen sich teils als Fälschungen. Reichelt spricht von einem «Einschüchterungsversuch gegen neue freie Medien». Die NZZ kritisiert in einem Kommentar, dass die Solidarität mit angegriffenen Journalisten in Deutschland von deren politischer Haltung abhänge; Kritiker von «Nius» verweisen auf dessen zugespitzten Kampagnenstil, was aber an der Strafbarkeit der Tat nichts ändert.",
+              "sources": [
+                {
+                  "name": "rbb24",
+                  "url": "https://www.rbb24.de/panorama/beitrag/2026/11/nius-chefredakteur-julian-reichelt-angezuendetes-auto-bekennerschreiben-polizei-prueft.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6af9a0104495f9bd85b80db2/staatsschutz-ermittelt-auto-von-nius-chef-angezuendet-polizei-prueft-bekennerschreiben.html"
+                },
+                {
+                  "name": "B.Z.",
+                  "url": "https://www.bz-berlin.de/berlin/bekennerschreiben-zu-brandanschlag-auf-reichelt-auto-6af9adbc4468a1e3991a3390"
+                },
+                {
+                  "name": "NZZ – Der andere Blick (Kommentar)",
+                  "url": "https://www.nzz.ch/der-andere-blick/brandanschlag-auf-das-auto-des-nius-chefredakteurs-julian-reichelt-solidaritaet-darf-keine-frage-der-gesinnung-sein-ld.10064488"
+                },
+                {
+                  "name": "Nius (Betroffener, Einordnung)",
+                  "url": "https://nius.de/kriminalitaet/brandanschlag-antifa-taeter-veroeffentlichen-adresse-von-nius-chef-reichelt"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-israel-ermittlung-raam-wahlbetrug-vorwurf",
+              "slug": "israel-ermittlung-raam-wahlbetrug-vorwurf",
+              "title": "Israel: Ermittler prüfen, ob Netanyahus Büro Wahlbetrugsvorwurf gegen Araber konstruierte",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "kurz": "Generalstaatsanwaltschaft und Polizei untersuchen laut Berichten, ob Hinweise zum angeblichen Stimmenkauf durch Ra'am-Aktivisten am Wahltag gezielt aus Netanyahus Umfeld lanciert wurden.",
+              "summary": "Israels Generalstaatsanwältin Gali Baharav-Miara und die Ermittlungsabteilung der Polizei prüfen laut der TV-Sendung «Uvda», ob angebliche Geheimdiensthinweise gegen Aktivisten der arabischen Partei Ra'am bewusst aus dem Umfeld von Premier Benjamin Netanyahu platziert wurden. Die Hinweise führten am Wahltag zu Festnahmen in Rahat ohne Durchsuchungs- oder Haftbefehl; Beweise für Stimmenkauf fanden sich nicht, die Männer kamen frei. Quelle war laut Bericht ein früherer Mitarbeiter des Premierministerbüros.",
+              "gegenstimme": "Likud und der Sender Channel 14 halten am Vorwurf fest, es habe Wahlmanipulation gegeben, und verweisen auf Geheimdienstberichte; Shin-Bet-Chef David Zini sagte laut Bericht, es gebe Hinweise seit 2018, dass «Araber Wahlen stehlen». Der Shin Bet erklärt, er habe im Auftrag des Vorsitzenden der Wahlkommission ernsthafte Verdachtsmomente auf Einflussnahme aus dem Ausland untersucht. Netanyahus Büro hat sich zum konkreten Vorwurf bisher nicht geäussert.",
+              "sources": [
+                {
+                  "name": "Ynet",
+                  "url": "https://www.ynetnews.com/article/h1vb2uvrmg"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/police-said-to-probe-whether-pms-office-faked-arab-vote-buying-scandal-to-undermine-election/"
+                },
+                {
+                  "name": "Haaretz",
+                  "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-15/ty-article/report-source-for-arab-parties-election-fraud-claims-was-ex-netanyahu-employee/000001a1-e09b-dfb8-adfd-ecbf384c0000"
+                },
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914987"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-iran-dritter-us-flugzeugtraeger-erstschlag-drohung",
+              "slug": "iran-dritter-us-flugzeugtraeger-erstschlag-drohung",
+              "title": "Iran-Krieg: Dritter US-Flugzeugträger in der Region, Teheran droht mit Erstschlag",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "international",
+              "icon": "⚓",
+              "edition": "morning",
+              "kurz": "Mit der USS Theodore Roosevelt operieren nun drei US-Flugzeugträgergruppen im Nahen Osten; Iran warnt, es werde nicht auf einen US-Angriff warten.",
+              "summary": "Der US-Flugzeugträger USS Theodore Roosevelt ist am Sonntag im Nahen Osten eingetroffen; damit operieren drei US-Trägerkampfgruppen im Gebiet des Zentralkommandos, neben der George H.W. Bush und der George Washington. Irans Vizeaussenminister Kazem Gharibabadi sagte, Teheran werde «nicht warten, bis die USA zuerst angreifen». Am Sonntag griff Iran erneut mit Drohnen eine Basis mit US-Truppen in Bahrain an.",
+              "gegenstimme": "Teheran stellt die Verstärkung als Beleg dafür dar, dass Washington Diplomatie nur zur Vorbereitung neuer Angriffe nutze. Aus US-Sicht ist sie Abschreckung nach wiederholten iranischen Angriffen auf Bahrain und die Schifffahrt. Der frühere US-Aussenminister Antony Blinken warnte laut Fox News, eine Bodeninvasion in Iran wäre ein «absolutes Desaster». Saudi-Arabien, Katar, Jordanien und Ägypten verurteilten laut Guardian den Angriff auf Bahrain.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack"
+                },
+                {
+                  "name": "The National",
+                  "url": "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/"
+                },
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/middle-east/article-915003"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/blinken-warns-us-ground-invasion-iran-would-be-disaster-tehran-escalates-attacks"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-jemen-huthi-60-kilometer-vor-aden",
+              "slug": "jemen-huthi-60-kilometer-vor-aden",
+              "title": "Jemen: Huthi-Miliz rückt bis 60 Kilometer vor Aden vor",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "international",
+              "icon": "⚔️",
+              "edition": "morning",
+              "image": "https://s.france24.com/media/display/92e0513c-e12a-11f1-8ab7-3f371022a770/w:1280/p:16x9/2026-11-15T135302Z-1473180222-RC26OOADAAUR-RTRMADP-3-IRAN-CRISIS-YEMEN-DETAINEES.jpg",
+              "kurz": "Nach dem Rückzug der Regierungstruppen von der Meerenge Bab al-Mandab stehen die Huthi laut Militärquellen rund 60 Kilometer vor der Übergangshauptstadt Aden.",
+              "summary": "Die vom Iran unterstützte Huthi-Miliz ist im Jemen bis auf rund 60 Kilometer an Aden herangerückt, den Sitz der international anerkannten Regierung. Laut vier Militär- und zwei Regierungsquellen gegenüber AFP kontrollieren die Huthi die Bezirke Al-Maqatirah und Al-Madaribah in der Provinz Lahj, darunter das Lager Al-Kharaz. Die Regierung hatte zuvor ihre letzten Truppen von der Meerenge Bab al-Mandab abgezogen, um Aden zu verteidigen.",
+              "gegenstimme": "Die Huthi setzen parallel auf Gesten: Am Sonntag liessen sie laut Al Jazeera einseitig rund 600 Kriegsgefangene frei. Die Regierung und die saudisch geführte Koalition sprechen von einer Umgruppierung, nicht von einer Niederlage. Die BBC hebt hervor, dass der Rückzug den Huthi die Kontrolle über die Meerenge am Roten Meer überlässt, eine der wichtigsten Schifffahrtsrouten der Welt; das wiegt im laufenden Iran-Krieg schwerer als die Frontlinie bei Aden.",
+              "sources": [
+                {
+                  "name": "France 24 / AFP",
+                  "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden"
+                },
+                {
+                  "name": "DW",
+                  "url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-vulcan-fehlstart-40-amazon-leo-satelliten",
+              "slug": "vulcan-fehlstart-40-amazon-leo-satelliten",
+              "title": "Vulcan-Rakete versagt: 40 Amazon-Leo-Satelliten verloren",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "🚀",
+              "edition": "morning",
+              "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261114-Vulcan-LV-01-launch.jpg",
+              "kurz": "Die Vulcan-Rakete von United Launch Alliance ist zehn Minuten nach dem Start gescheitert; alle 40 Internetsatelliten von Amazon Leo gingen verloren.",
+              "summary": "Die Vulcan-Rakete von United Launch Alliance (ULA), einem Gemeinschaftsunternehmen von Boeing und Lockheed Martin, hat am Sonntag rund zehn Minuten nach dem Start in Cape Canaveral eine Anomalie erlitten und ihre Nutzlast nicht in den Orbit gebracht. Verloren sind 40 Satelliten für Amazons Internetnetz Leo, den Konkurrenten zu Starlink. Es ist der erste Totalausfall einer ULA-Rakete seit der Firmengründung 2006.",
+              "gegenstimme": "ULA und NASA-Chef Jared Isaacman betonen, ein einzelner Fehlschlag sage wenig über die Zuverlässigkeit des neuen Systems aus; ULA verspricht volle Transparenz gegenüber den Kunden. Ars Technica wertet den Fehlschlag dagegen als schweren Schlag für die SpaceX-Konkurrenz: Vulcan flog erst zum fünften Mal, hatte schon zuvor Probleme mit den Feststoffboostern, und auch Blue Origins New Glenn steht seit Mai still.",
+              "sources": [
+                {
+                  "name": "Spaceflight Now",
+                  "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
+                },
+                {
+                  "name": "Reuters",
+                  "url": "https://www.reuters.com/5f374b32b07b/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/"
+                },
+                {
+                  "name": "Ars Technica",
+                  "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+                },
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Amazon-Satelliten-nach-Problem-einer-Vulcan-Traegerrakete-im-All-verloren-11525671.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-nvidia-huang-comeback-petition-musk",
+              "slug": "nvidia-huang-comeback-petition-musk",
+              "title": "Nvidia: Huang erwägt laut Bericht Rückkehr, über 160'000 unterschreiben Petition",
+              "date": "2026-11-16",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "morning",
+              "image": "https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&w=1920&h=1080",
+              "kurz": "Der zurückgetretene Nvidia-Chef Jensen Huang spricht laut «Financial Times» über ein Comeback; Elon Musk und über 160'000 andere unterstützen eine Petition, Finanzminister Bessent will einen Externen.",
+              "summary": "Jensen Huang, der vergangene Woche als Chef und Verwaltungsrat von Nvidia zurückgetreten war, hat laut «Financial Times» mit Vertrauten über eine Rückkehr gesprochen. Eine Online-Petition «Stand with Jensen» hat über 160'000 Unterschriften, darunter Elon Musk; die Grossaktionäre Altimeter und Atreides fordern, dass der Verwaltungsrat auch Huangs Rückkehr prüft. US-Finanzminister Scott Bessent verlangt dagegen einen umfassenden Umbau und einen externen Chef.",
+              "gegenstimme": "Gegen ein Comeback spricht, dass Nvidias Verwaltungsrat noch eine unabhängige Untersuchung führt und US-Behörden sowie der Senat wegen der Verbindung zu einer mutmasslich für China spionierenden Frau ermitteln; Analyst Dan Ives sieht «keine Chance» für eine Rückkehr, Anthony Scaramucci schreibt: «Das FBI nimmt keine Petitionen an.» Unterstützer halten dagegen, Huang verdiene ein faires Verfahren, und verweisen auf seine Rolle für Nvidias Erfolg.",
+              "sources": [
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/netzwelt/nvidia-elon-musk-und-weitere-tech-promis-fordern-rueckkehr-von-jensen-huang-zu-nvidia-a-2b8df6de-9596-489f-a912-17586e192336"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/nvidia-bessent-fordert-externen-chef-nach-huang-ruecktritt-414762624189"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-15",
       "editions": {
