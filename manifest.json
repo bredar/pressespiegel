@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T06:04:48+01:00",
+  "updated": "2026-11-16T12:02:37+01:00",
   "days": [
     {
       "date": "2026-11-16",
@@ -348,6 +348,347 @@
                 {
                   "name": "The Guardian",
                   "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-16-bip-q3-2026-plus-0-2-prozent",
+              "slug": "bip-q3-2026-plus-0-2-prozent",
+              "title": "Schweizer Wirtschaft wächst im dritten Quartal um 0,2 Prozent",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "midday",
+              "kurz": "Das reale BIP stieg laut Seco-Schnellschätzung im 3. Quartal um 0,2 Prozent, getragen von der Industrie; die Dienstleistungen stagnierten.",
+              "summary": "Die Schweizer Wirtschaft ist im dritten Quartal 2026 gemäss der am Montag veröffentlichten Schnellschätzung des Seco real um 0,2 Prozent gegenüber dem Vorquartal gewachsen. Treiber war erneut der Industriesektor, der Dienstleistungssektor stagnierte insgesamt. Im zweiten Quartal hatte das Wachstum noch 1,5 Prozent betragen.",
+              "gegenstimme": "Besser als erwartet heisst nicht stark: Die Wirtschaft hat gegenüber dem Vorquartal deutlich an Schwung verloren, und der Dienstleistungssektor, in dem die meisten Menschen arbeiten, trat an Ort. Das Seco weist zudem selbst darauf hin, dass die Schnellschätzung teilweise auf Prognosewerten beruht und noch revidiert werden kann.",
+              "sources": [
+                {
+                  "name": "SECO",
+                  "url": "https://www.seco.admin.ch/de/newnsb/eOpqmkpQhZVQ"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/0-2-prozent-zum-vorquartal-schweizer-wirtschaft-waechst-im-dritten-quartal-leicht"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/schweizer-wirtschaft-w%c3%a4chst-im-dritten-quartal-leicht/92386752"
+                },
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/economie/2026/article/economie-suisse-le-pib-progresse-de-0-2-au-3e-trimestre-29417169.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-tram-ostermundigen-beschwerden-bundesverwaltungsgericht",
+              "slug": "tram-ostermundigen-beschwerden-bundesverwaltungsgericht",
+              "title": "Tram Bern–Ostermundigen: Beschwerden verzögern den Baustart erneut",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🚋",
+              "edition": "midday",
+              "image": "https://c.nau.ch/i/dzn2Ma/490/bis-auf-weiteres-verkehren-noch-immer-busse-und-nicht-trams-nach-ostermundigen-archivbild.webp",
+              "kurz": "Gegen die Baubewilligung für das Tram Bern–Ostermundigen sind Beschwerden beim Bundesverwaltungsgericht eingegangen; der Baustart ist offen.",
+              "summary": "Gegen die Baubewilligung des Bundesamts für Verkehr für das Tram Bern–Ostermundigen sind beim Bundesverwaltungsgericht Beschwerden eingegangen. Das teilten die Projektträger Bernmobil, Stadt Bern und Gemeinde Ostermundigen am Montag mit. Wann der Bau der 4,4 Kilometer langen Linie vom Viktoriaplatz ins Oberfeld beginnen kann, ist offen.",
+              "gegenstimme": "Gegner in Ostermundigen halten mehr Buskapazität für die bessere Lösung und sammeln dafür Unterschriften für eine Initiative; auch im Berner Stadtrat wurde bereits gefragt, ob ein Busbetrieb geprüft werden sollte. Die Beschwerdeführer nutzen ein reguläres Rechtsmittel. Die Projektträger verweisen dagegen auf den Volksauftrag aus drei Abstimmungen in Ostermundigen, der Stadt und dem Kanton Bern.",
+              "sources": [
+                {
+                  "name": "Mitteilung TBO-Projektträger (Wiedergabe)",
+                  "url": "https://www.europesays.com/ch-de/380167/"
+                },
+                {
+                  "name": "Nau.ch Bern / Keystone-SDA",
+                  "url": "https://www.nau.ch/ort/bern"
+                },
+                {
+                  "name": "Fedlex: Plangenehmigung BAV",
+                  "url": "https://www.fedlex.admin.ch/eli/fga/2026/2563/de"
+                },
+                {
+                  "name": "Bernmobil (2025)",
+                  "url": "https://www.bernmobil.ch/de/baustart-tram-bern-ostermundigen-verzoegert-sich"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA (Sept. 2026)",
+                  "url": "https://www.swissinfo.ch/ger/bund-erteilt-baubewilligung-f%c3%bcr-tram-nach-ostermundigen/92130520"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-bfs-kinder-asylbereich-primarschule",
+              "slug": "bfs-kinder-asylbereich-primarschule",
+              "title": "BFS: Kinder aus dem Asylbereich brauchen öfter länger für die Primarschule",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🎒",
+              "edition": "midday",
+              "kurz": "Neun von zehn Kindern aus dem Asylbereich schliessen die Primarschule in einer Regelklasse ab, doch fast jedes fünfte braucht länger als vorgesehen.",
+              "summary": "91,9 Prozent der Kinder aus dem Asylbereich schliessen die Primarschule in einer Regelklasse ab, gegenüber 97,3 Prozent der übrigen Kinder. Das zeigt eine am Montag veröffentlichte Analyse des Bundesamts für Statistik (BFS). 18,5 Prozent brauchen länger als die vorgesehene Zeit, bei den anderen Kindern sind es 8,3 Prozent.",
+              "gegenstimme": "Wer die Integration betont, verweist auf die Mehrheit: Neun von zehn Kindern durchlaufen den Regelunterricht, fast drei Viertel ohne Verzögerung. Umgekehrt zeigen dieselben Daten eine mehr als dreimal so hohe Quote separativer Schulung beim Eintritt in die Primarstufe und doppelt so viele Repetitionen. Angaben zu Mehrkosten oder zur Belastung der Klassen enthält die Analyse nicht.",
+              "sources": [
+                {
+                  "name": "BFS Medienmitteilung",
+                  "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/36840811/master"
+                },
+                {
+                  "name": "Statistik Schweiz",
+                  "url": "https://statistik.admin.ch/de/news/2025-0212"
+                },
+                {
+                  "name": "Nau.ch / Keystone-SDA",
+                  "url": "https://www.nau.ch/news/schweiz/kinder-asylsuchender-brauchen-langer-fur-die-primarschule-67202616"
+                },
+                {
+                  "name": "tvsvizzera / Keystone-ATS",
+                  "url": "https://www.tvsvizzera.it/tvs/9-bambini-su-10-provenienti-da-settore-asilo-completano-elementari/92387356"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-isa-meldestelle-rassismus-kanton-bern",
+              "slug": "isa-meldestelle-rassismus-kanton-bern",
+              "title": "Kanton Bern: Fachstelle Isa übernimmt Meldestelle für rassistische Diskriminierung",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/7864340e381a0edf9bada8fb5e8cd77af5aa15bf-92387442.jpg?ver=1f0e812a&fit=1200,900",
+              "kurz": "Ab 2027 führt die Fachstelle Migration Isa die kantonale Beratungs- und Meldestelle für rassistische Diskriminierung, bisher war es Gggfon.",
+              "summary": "Ab 1. Januar 2027 führt die Fachstelle Migration Isa die kantonale Informations-, Beratungs- und Meldestelle für rassistische Diskriminierung im Kanton Bern. Das hat die Gesundheits-, Sozial- und Integrationsdirektion am Montag mitgeteilt. Bis Ende 2026 bleibt die Anlaufstelle Gggfon zuständig.",
+              "gegenstimme": "Die Mitteilung lässt offen, was genau die «organisatorischen und personellen Veränderungen» bei Gggfon sind und was der Auftrag den Kanton kostet. Fallzahlen werden nicht genannt, womit Bedarf und Wirkung der Stelle von aussen kaum zu beurteilen sind.",
+              "sources": [
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/fachstelle-isa-%c3%bcbernimmt-kantonale-meldestelle-gegen-rassismus/92387455"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/ort/bern/kanton-bern-neue-anlaufstelle-bei-rassistischer-diskriminierung-67202555"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-hormus-weitere-tanker-iran-iaea",
+              "slug": "hormus-weitere-tanker-iran-iaea",
+              "title": "Hormus: Iran meldet weitere Minentreffer bei Tankern und verweigert IAEA-Zugang",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "midday",
+              "kurz": "Iran meldet drei weitere Tanker auf Minen gelaufen, ein Treffer ist unabhängig bestätigt; Teheran schliesst IAEA-Inspektionen bis Kriegsende aus.",
+              "summary": "Irans Revolutionsgarde und Armee melden, am Montag hätten drei Öltanker in und nahe der Strasse von Hormus Minen getroffen und Feuer gefangen; seit Sonntag sollen sechs Tanker brennen. Die britische Seesicherheitsbehörde UKMTO bestätigte unabhängig davon einen Treffer durch ein unbekanntes Geschoss mit Brand im Maschinenraum, die Besatzung blieb unverletzt. Zugleich schliesst Vizeaussenminister Kazem Gharibabadi IAEA-Inspektionen bis zum Kriegsende aus.",
+              "gegenstimme": "Iran stellt die Angriffe als Antwort auf die US-Seeblockade und auf «unerlaubte» Durchfahrten dar und macht die Reeder für die Folgen verantwortlich. Für die Schifffahrtsbranche handelt es sich um Angriffe auf zivile Handelsschiffe; weil Iran weder Schiffsnamen noch Belege nennt, sind die Angaben aus Teheran nicht überprüfbar.",
+              "sources": [
+                {
+                  "name": "Anadolu",
+                  "url": "https://www.aa.com.tr/en/middle-east/iran-says-3-oil-tankers-hit-mines-catch-fire-in-strait-of-hormuz/4126136"
+                },
+                {
+                  "name": "Seatrade Maritime",
+                  "url": "https://www.seatrade-maritime.com/security/tanker-confirmed-struck-in-the-gulf-iran-claims-vlcc-sinking"
+                },
+                {
+                  "name": "Iran International",
+                  "url": "https://www.iranintl.com/en/202611164446"
+                },
+                {
+                  "name": "Tasnim",
+                  "url": "https://www.tasnimnews.ir/en/news/2026/11/16/3749678/iaea-access-to-iran-s-nuclear-sites-conditional-on-permanent-end-to-war-deputy-fm"
+                },
+                {
+                  "name": "Al Arabiya",
+                  "url": "https://english.alarabiya.net/News/middle-east/2026/11/16/iran-rules-out-un-inspections-of-damaged-nuclear-sites-until-war-ends"
+                },
+                {
+                  "name": "Indian Express (Liveticker)",
+                  "url": "https://indianexpress.com/article/world/world-news-today-live-updates-tankers-catch-fire-strait-of-hormuz-iran-us-donald-trump-benjamin-netanyahu-saudi-arabia-jensen-huang-nvidia-10964913/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-ruanda-eu-rueckkehrzentrum",
+              "slug": "ruanda-eu-rueckkehrzentrum",
+              "title": "Fünf EU-Staaten wollen abgewiesene Asylsuchende nach Ruanda bringen",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🛬",
+              "edition": "midday",
+              "image": "https://images.euronews.com/articles/stories/09/99/32/95/1200x675_cmsv2_d4692732-25be-5846-8d42-68dffc503149-9993295.jpg",
+              "kurz": "Deutschland, Österreich, Dänemark, die Niederlande und Griechenland planen mit Ruanda ein erstes EU-Rückkehrzentrum; Start ab 2027.",
+              "summary": "Deutschland, Österreich, Dänemark, die Niederlande und Griechenland stehen laut Euronews und Reuters kurz vor einem Abkommen mit Ruanda über ein erstes EU-Rückkehrzentrum ausserhalb der Union. Es soll am Montag in Wien verkündet werden und ab Frühjahr oder Sommer 2027 einige Hundert abgewiesene Asylsuchende aufnehmen, die nicht in ihre Herkunftsländer zurückgeführt werden können. Die fünf Staaten tragen sämtliche Kosten.",
+              "gegenstimme": "Juristen und Menschenrechtsorganisationen warnen, Betroffene könnten in Ruanda unmenschlicher Behandlung ausgesetzt sein; das britische Oberste Gericht hatte 2023 ein ähnliches Abkommen Londons wegen dieses Risikos für rechtswidrig erklärt. Spanien und Frankreich lehnen das Konzept ab. Befürworter, darunter 19 von 27 EU-Regierungen, sehen darin eine «innovative Lösung» für Ausreisepflichtige, die heute oft dauerhaft bleiben.",
+              "sources": [
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/16/deutschland-plant-ruckfuhrungszentrum-fur-migranten-in-afrika"
+                },
+                {
+                  "name": "ORF / Reuters",
+                  "url": "https://orf.at/stories/3448314/"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/rueckkehrzentrum-in-ruanda-deutschland-plant-mit-eu-partnern-return-hub-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-krimbruecke-drohnenangriff",
+              "slug": "krimbruecke-drohnenangriff",
+              "title": "Ukraine greift Krim-Brücke an, Russland meldet 1336 abgefangene Drohnen",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌉",
+              "edition": "midday",
+              "image": "https://img.zeit.de/politik/ausland/2026-11/krim-bruecke-angriff-ukraine-russland-sergej-aksjonow-gxe-foto-1/wide__1300x731",
+              "kurz": "Nach russischen Angaben hat die Ukraine die Kertsch-Brücke angegriffen; der Verkehr wurde eingeschränkt, die Schäden seien gering.",
+              "summary": "Die Ukraine hat in der Nacht auf Montag nach russischen Angaben die Kertsch-Brücke zwischen Russland und der besetzten Krim angegriffen. Der Verkehr wurde laut dem von Moskau eingesetzten Krim-Chef Sergej Aksjonow vorübergehend eingeschränkt, die Schäden seien gering. Das russische Verteidigungsministerium meldete zudem 1336 abgefangene ukrainische Drohnen in einer Nacht.",
+              "gegenstimme": "Moskau betont geringe Schäden und eine erfolgreiche Abwehr; unabhängig prüfen lässt sich beides nicht. Aus ukrainischer Sicht ist die Brücke als Versorgungsweg in besetztes Gebiet ein militärisches Ziel; Kiew hatte sie bereits 2022 und 2023 schwer beschädigt.",
+              "sources": [
+                {
+                  "name": "ZEIT (AFP, dpa, Reuters)",
+                  "url": "https://www.zeit.de/politik/ausland/2026-11/krim-bruecke-angriff-ukraine-russland-sergej-aksjonow-gxe"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/russland-und-ukraine-ueberziehen-einander-mit-neuen-drohnenangriffen-auch-auf-krimbruecke-a-3607bf0f-a95e-478b-b2e4-bc28fd89836f"
+                },
+                {
+                  "name": "Kommersant",
+                  "url": "https://www.kommersant.ru/doc/9110341"
+                },
+                {
+                  "name": "RIA Nowosti Krim",
+                  "url": "https://crimea.ria.ru/20261116/ataka-na-krymskiy-most-eksperty-otsenivayut-povrezhdeniya-1161082046.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-jordanien-sperrt-telegram",
+              "slug": "jordanien-sperrt-telegram",
+              "title": "Jordanien sperrt Telegram nach Anschlag auf Kirche in Karak",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "📵",
+              "edition": "midday",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/9/7/9/shutterstock_2451593749-42c7fe4cd3ed3532.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Jordanien blockiert Telegram landesweit und begründet das mit dem Kampf gegen Extremismus; vorausgegangen war der Anschlag auf eine Kirche.",
+              "summary": "Jordanien hat am Montag den Messenger Telegram landesweit sperren lassen. Die dem Innenministerium unterstellte Direktion für öffentliche Sicherheit begründet dies mit dem Schutz vor Extremismus, Radikalisierung und illegalen Aktivitäten. Die Sperre folgt auf den islamistischen Anschlag vom 23. Oktober auf eine Beerdigung in einer griechisch-orthodoxen Kirche im Gouvernement Karak.",
+              "gegenstimme": "Netzsperren treffen alle Nutzerinnen und Nutzer, während Extremisten auf andere Kanäle ausweichen können; ob die Sperre befristet ist, hat die Regierung nicht gesagt. Telegram-Gründer Pawel Durow betont, die Plattform moderiere Inhalte und arbeite mit Behörden mehr zusammen, als sie müsse.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Nach-Terroranschlag-Jordanien-laesst-Telegram-sperren-11525885.html"
+                },
+                {
+                  "name": "DW",
+                  "url": "https://www.dw.com/en/jordan-bans-telegram-app-over-radicalisation-claims/a-79956706"
+                },
+                {
+                  "name": "Anadolu",
+                  "url": "https://www.aa.com.tr/en/middle-east/jordan-blocks-telegram-to-counter-attempts-to-spread-extremism-radicalization-/4126249"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-qwen4-max-alibaba",
+              "slug": "qwen4-max-alibaba",
+              "title": "Alibaba stellt KI-Spitzenmodell Qwen4-Max vor",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "midday",
+              "image": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/logo/tej11111q_1794814634557_FTeE_1794814639776_JLeE_c5a9a32f-b5d8-40d9-9591-6382ca6a56c8_yQrh.png",
+              "kurz": "Alibaba lanciert Qwen4-Max mit 2,4 Billionen Parametern und behauptet, in Coding-Tests vor GPT-6.1-Sol und Claude Opus 5.5 zu liegen.",
+              "summary": "Alibaba hat am Montag sein neues Spitzenmodell Qwen4-Max lanciert. Das Modell hat laut Hersteller 2,4 Billionen Parameter, davon 71 Milliarden pro Token aktiv, und ein Kontextfenster von einer Million Tokens. Es ist nur per API und über Alibabas Cloud-Dienste verfügbar.",
+              "gegenstimme": "Die Leistungsvergleiche stammen ausschliesslich von Alibaba, unabhängige Tests fehlen noch, und der behauptete Vorsprung im Coding liegt bei Bruchteilen von Punkten. Anders als kleinere Qwen-Modelle bleibt das Spitzenmodell geschlossen; Nutzerdaten laufen damit über einen chinesischen Anbieter, der chinesischem Recht untersteht.",
+              "sources": [
+                {
+                  "name": "Alibaba Cloud",
+                  "url": "https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783"
+                },
+                {
+                  "name": "Mint",
+                  "url": "https://www.livemint.com/ai/alibaba-launches-qwen4-max-ai-model-claims-it-beats-gpt-6-1-sol-and-claude-opus-5-5-in-coding-11794814364870.html"
+                },
+                {
+                  "name": "heise online (Newsticker)",
+                  "url": "https://www.heise.de/newsticker/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-intel-sammelklage-aktionaere",
+              "slug": "intel-sammelklage-aktionaere",
+              "title": "Intel: Aktionäre klagen nach Kurssturz von fast 29 Prozent",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "midday",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/8/8/6/shutterstock_2523697413-68e5058b4fe6cf81.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Aktionäre werfen Intel vor, sinkende PC-Verkäufe zu spät offengelegt zu haben; nach den Quartalszahlen war die Aktie eingebrochen.",
+              "summary": "Aktionäre haben in Kalifornien eine Sammelklage gegen Intel eingereicht. Sie werfen dem Chipkonzern, CEO Lip-Bu Tan und weiteren Managern vor, die Folgen sinkender PC-Verkäufe zu spät offengelegt zu haben. Nach den Quartalszahlen vom 29. Oktober war die Aktie um fast 29 Prozent eingebrochen.",
+              "gegenstimme": "Intel hat die Klage nicht kommentiert, aber bei der Vorlage der Zahlen eingeräumt, dass die Probleme dringend angegangen werden müssen. In den USA folgen auf starke Kursverluste häufig solche Klagen; entscheidend ist, ob die Kläger eine bewusste Irreführung nachweisen können.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Nach-heftigem-Kursrutsch-Sammelklage-gegen-Intel-wegen-irrefuehrender-Angaben-11525703.html"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cw62p42p288do"
+                },
+                {
+                  "name": "Reuters (via Investing.com)",
+                  "url": "https://www.investing.com/news/stock-market-news/intel-sued-by-shareholders-following-29-stock-plunge-5028171"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-16-csd-attentaeter-buergergeld-libanon",
+              "slug": "csd-attentaeter-buergergeld-libanon",
+              "title": "Berliner CSD-Attentäter bezog Bürgergeld, während er im Libanon in Haft sass",
+              "date": "2026-11-16",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "midday",
+              "kurz": "Der Islamist, der den Anschlag auf den Berliner CSD verübte, erhielt 2025 monatlich 790 Euro Bürgergeld, während er im Libanon im Gefängnis sass.",
+              "summary": "Der Islamist Abdul B., der am 25. Juli 2026 den Terroranschlag auf den Christopher Street Day in Berlin verübte, erhielt von Mai bis November 2025 monatlich 790,61 Euro Bürgergeld, obwohl er im Libanon war und dort im Gefängnis sass. Das geht aus einer Antwort des Bundesarbeitsministeriums auf eine Anfrage des AfD-Abgeordneten René Springer hervor. Das Jobcenter wusste laut Ministerium nichts vom Auslandsaufenthalt.",
+              "gegenstimme": "Springer spricht von «monströsem Staatsversagen» und macht Innenminister Alexander Dobrindt (CSU) verantwortlich, weil Sicherheitsbehörden das Jobcenter nicht informiert hätten. Das Arbeitsministerium verweist darauf, dass das Jobcenter keine Kenntnis vom Aufenthalt hatte. Offen ist, warum Informationen der Sicherheitsbehörden und der Botschaft nicht bei der Sozialbehörde ankamen.",
+              "sources": [
+                {
+                  "name": "FAZ / dpa",
+                  "url": "https://www.faz.net/agenturmeldungen/dpa/csd-attentaeter-erhielt-buergergeld-im-gefaengnis-im-libanon-201687272.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6afa9a9e4495f9bd85b819bb/abdul-ballout-csd-attentaeter-kassierte-selbst-in-u-haft-buergergeld.html"
+                },
+                {
+                  "name": "Berliner Zeitung",
+                  "url": "https://www.berliner-zeitung.de/article/csd-attentaeter-bekam-790-euro-buergergeld-im-monat-waehrend-er-im-libanon-in-haft-sass-10601178"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/16/csd-anschlag-islamistischer-attentater-bezog-burgergeld-im-libanon-knast"
                 }
               ]
             }
