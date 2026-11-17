@@ -1,6 +1,378 @@
 {
-  "updated": "2026-11-16T17:09:12+01:00",
+  "updated": "2026-11-17T06:12:04+01:00",
   "days": [
+    {
+      "date": "2026-11-17",
+      "editions": {
+        "morning": {
+          "time": "06:12",
+          "articles": [
+            {
+              "id": "2026-11-17-bern-lex-airbnb-verwaltungsgericht",
+              "slug": "bern-lex-airbnb-verwaltungsgericht",
+              "title": "Stadt Bern darf Airbnb in der Altstadt begrenzen",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "regional",
+              "icon": "🏘️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/EonPysfxqRIBldP5kDpsaW.jpg?op=ocroped&val=1200,600,1000,750,125,0&sum=iVYyxrdAeCU",
+              "kurz": "Das Berner Verwaltungsgericht bestätigt die Lex Airbnb für die Altstadt, der Hauseigentümerverband verzichtet auf den Weiterzug.",
+              "summary": "Das kantonale Verwaltungsgericht hat die Beschwerde des Hauseigentümerverbands (HEV) Bern und Umgebung gegen die Stadtberner Lex Airbnb abgewiesen. Zweitwohnungen in Teilen der Altstadt dürfen künftig nicht mehr wiederholt für unter drei Monate vermietet werden, wenn pro Jahr mehr als 90 Logiernächte zusammenkommen. Der HEV zieht das Urteil nicht weiter, die Regeln gelten frühestens ab Anfang 2027.",
+              "gegenstimme": "HEV-Präsidentin Simone Richner betont, das Gericht anerkenne ausdrücklich einen Eingriff in Eigentumsgarantie und Wirtschaftsfreiheit, was die Stadt im Verfahren bestritten habe. Ob die Regel tatsächlich Wohnraum schaffe, sei offen: «Dass eine Regulierung rechtlich zulässig ist, bedeutet noch nicht, dass sie auch die gewünschte Wirkung erzielt.»",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/stadt-bern-kann-lex-airbnb-nach-langem-rechtsstreit-in-kraft-setzen/92390628"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/airbnb-regeln-bern-verwaltungsgericht-bestaetigt-90-tage-limit-274417146155"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo (Befürworter)",
+                  "url": "https://www.swissinfo.ch/ger/bef%c3%bcrworterinnen-der-lex-airbnb-freuen-sich-%c3%bcber-gerichtsurteil/92390963"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-bern-staatsbesuch-katar-sperrungen",
+              "slug": "bern-staatsbesuch-katar-sperrungen",
+              "title": "Staatsbesuch des Emirs von Katar: Sperrungen in der Berner Innenstadt",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "regional",
+              "icon": "🚧",
+              "edition": "morning",
+              "kurz": "Wegen des Staatsbesuchs des Emirs von Katar sperrt die Kantonspolizei am Mittwoch und Donnerstag mehrere Gassen in der Berner Altstadt.",
+              "summary": "Der Emir von Katar, Scheich Tamim bin Hamad Al Thani, ist am Mittwoch und Donnerstag, 18. und 19. November, zum Staatsbesuch in Bern. Die Kantonspolizei sperrt deshalb Bundes-, Kocher- und Inselgasse von Mittwoch 11 Uhr bis Donnerstag 12 Uhr für den Verkehr. Am Mittwoch sind zudem Amthausgasse, Bärenplatz und Schauplatzgasse von 13 bis 19 Uhr für sämtlichen Verkehr zu.",
+              "gegenstimme": "Der Bundesrat begründet den Empfang mit militärischen Ehren mit den engen Beziehungen, Investitionen und Erdgas aus Katar. Politisch umstritten ist der Besuch wegen der Kritik an Katar (Menschenrechte, Lage der Arbeitsmigranten, Sitz der Hamas-Führung), ausgeführt im Pressespiegel vom 14. November. Für die Altstadt bedeuten die Sperrungen an zwei Werktagen zusätzliche Kontrollen und Umwege.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern (Medienmitteilung)",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=bee48382-073f-438d-bf61-2d87003c7e13"
+                },
+                {
+                  "name": "Bundesrat (Medienmitteilung)",
+                  "url": "https://www.bk.admin.ch/de/newnsb/UgZNBZzLlYqV"
+                },
+                {
+                  "name": "Keystone-SDA / Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/emir-von-katar-kommt-zu-zweitagigem-staatsbesuch-in-die-schweiz-67202036"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-basel-spitaeler-gewalt-1512-vorfaelle",
+              "slug": "basel-spitaeler-gewalt-1512-vorfaelle",
+              "title": "Basler Unispital: Gewaltvorfälle gegen Personal fast verdoppelt",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "schweiz",
+              "icon": "🏥",
+              "edition": "morning",
+              "kurz": "Am Unispital und am Kinderspital Basel stieg die Zahl der registrierten Gewaltvorfälle von 885 (2023) auf 1512 (2025).",
+              "summary": "Das Universitätsspital Basel (USB) und das Universitäts-Kinderspital beider Basel registrierten 2025 insgesamt 1512 Gewaltvorfälle, nach 1081 im Jahr 2024 und 885 im Jahr 2023. Körperliche Gewalt stieg von 145 auf 320 Fälle, die Polizei rückte 2025 217-mal aus. Das zeigt die Antwort der Basler Regierung auf eine Anfrage von SVP-Grossrat Joël Thüring.",
+              "gegenstimme": "Pflegeforscherin Sabine Hahn (Berner Fachhochschule) sagt gegenüber SRF, ein Teil des Anstiegs gehe auf eine höhere Meldebereitschaft zurück: «Vor 20 Jahren hat die Gewalt einfach zum Job gehört.» Aggression entstehe oft aus Angst und langen Wartezeiten auf überlasteten Notfallstationen. Laut Regierung geht die Gewalt nicht nur von Patienten aus, sondern häufig auch von Angehörigen und Besuchern.",
+              "sources": [
+                {
+                  "name": "Regierungsrat Basel-Stadt (Antwort auf Anfrage Thüring, PDF)",
+                  "url": "https://grosserrat.bs.ch/dokumente/100413/000000413760.pdf"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/gewalt-gegen-spitalpersonal-neue-zahlen-gewalt-in-basler-spitaelern-nimmt-deutlich-zu"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/anzahl-gewalttaten-gegen-personal-in-basler-spit%c3%a4lern-steigt/92380287"
+                },
+                {
+                  "name": "Basler Zeitung",
+                  "url": "https://www.bazonline.ch/universitaetsspital-basel-3478-gewaltvorfaelle-in-zwei-jahren-366774121780"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-kkjpd-gewaltschutz-polizeidaten-polap",
+              "slug": "kkjpd-gewaltschutz-polizeidaten-polap",
+              "title": "Kantone wollen Polizeidaten direkt austauschen und Gewaltschutz angleichen",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "schweiz",
+              "icon": "👮",
+              "edition": "morning",
+              "image": "https://c.nau.ch/i/mmlBW/1360/680/luzerner-polizei.jpg",
+              "kurz": "Die kantonalen Polizeidirektoren geben eine Vereinbarung für direkte kantonsübergreifende Polizeiabfragen frei und planen eine nationale Fussfessel-Zentrale.",
+              "summary": "Die Konferenz der Kantonalen Justiz- und Polizeidirektoren (KKJPD) hat an ihrer Herbstversammlung in Heiden AR die Vereinbarung zur gemeinsamen Abfrageplattform Polap genehmigt und den Kantonen zur Ratifizierung freigegeben. Polizeikorps sollen damit direkt auf Informationen anderer Kantone zugreifen können. Zudem wollen die Kantone ihre Gewaltschutzgesetze angleichen und ab 2028 eine landesweite Zentrale für die elektronische Überwachung betreiben.",
+              "gegenstimme": "Ein Datenschutz-Blog weist darauf hin, dass die Mitteilung weder sagt, welche Daten sichtbar werden, noch wer abfragen darf und wie lange Einträge gespeichert bleiben. Gerade bei schnelleren Abfragen sei Kontext wichtig: Ein Zeuge sei kein Beschuldigter. Föderalistisch heikel ist zudem, dass jeder Kanton selbst ratifizieren oder sein Polizeigesetz anpassen muss.",
+              "sources": [
+                {
+                  "name": "KKJPD (Medienmitteilung)",
+                  "url": "https://www.kkjpd.ch/de/aktuelles/die-kantone-verstaerken-ihr-gemeinsames-vorgehen-gegen-haeusliche-gewalt-und-vereinfachen-den-informationsaustausch-der-polizei-228"
+                },
+                {
+                  "name": "Keystone-SDA / Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/kantone-koordinieren-gewaltschutz-und-polizeidaten-67202756"
+                },
+                {
+                  "name": "dsgvoscan (Datenschutz-Einordnung)",
+                  "url": "https://www.dsgvoscan.de/2026/11/16/polizeidaten-schweizer-kantone-polap-zugriff/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-ukraine-kiew-bruecken-friedensgespraeche",
+              "slug": "ukraine-kiew-bruecken-friedensgespraeche",
+              "title": "Russland trifft zwei Dnipro-Brücken in Kiew, Gespräche über Kriegsende laufen weiter",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg",
+              "kurz": "Russische Raketen trafen in der Nacht Nord- und Südbrücke in Kiew. Stunden zuvor hatten die Ukraine, die USA und Europa erneut über ein Kriegsende gesprochen.",
+              "summary": "Russische Raketen haben in der Nacht auf Dienstag laut Bürgermeister Vitali Klitschko die Nord- und die Südbrücke über den Dnipro in Kiew getroffen; in Teilen der Stadt fielen Wasser und Heizung aus. Die Ukraine griff zum zweiten Tag in Folge die Krim-Brücke an. Am Montag hatte Selenski online mit den US-Gesandten Witkoff und Kushner sowie Europäern verhandelt.",
+              "gegenstimme": "Kushner spricht von Fortschritten in Abstimmung mit Russland, der Ukraine und Europa; ein Abkommen verlange aber «schwierige Entscheidungen». Moskau bestreitet, dass Europäer an der nächsten Runde teilnehmen. Irlands Aussenministerin Helen McEntee sieht «keine Änderung der russischen Position».",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
+                },
+                {
+                  "name": "WELT / dpa",
+                  "url": "https://www.welt.de/politik/ausland/article6afbcda9bfa018bfcc989921/ukraine-zwei-wichtige-bruecken-in-kiew-bei-russischen-angriffen-getroffen.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-suche-beendet-72-tote-nach-russischem-luftangriff"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-frankreich-mission-volia-ukraine",
+              "slug": "frankreich-mission-volia-ukraine",
+              "title": "Mission «Volia»: Französische Soldaten sollen seit Monaten in der Ukraine sein",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "politik",
+              "icon": "🇫🇷",
+              "edition": "morning",
+              "image": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/16/bc663af7a9352a9b671e58ce214ad04d7660fc2a88c4d7c5ee912045a08af1c3.jpg",
+              "kurz": "Laut RFI sind kleine französische Militärteams unter dem Decknamen «Volia» in der Ukraine, um dort auszubilden und Waffen zu warten.",
+              "summary": "Radio France Internationale (RFI) berichtet, dass kleine Teams der französischen Armee seit mindestens Sommer 2026 unter dem Decknamen «Volia» in der Ukraine sind. Sie bilden ukrainische Soldaten aus und warten gelieferte Ausrüstung. Die Nachrichtenagentur AFP meldet die Präsenz separat, laut ihren Quellen kämpfen die Soldaten nicht.",
+              "gegenstimme": "Befürworter loben Macrons Entschlossenheit: Ein ehemaliger Nato-Chef spricht laut Fox News von «Mut». Der Tages-Anzeiger weist darauf hin, dass Macron nach Artikel 35 der Verfassung das Parlament hätte informieren müssen. Ein von RFI befragter Experte erwartet, dass Russland die Enthüllung für Propaganda nutzt.",
+              "sources": [
+                {
+                  "name": "Le Figaro",
+                  "url": "https://www.lefigaro.fr/international/des-soldats-francais-presents-sur-le-sol-ukrainien-dans-le-cadre-de-l-operation-volia-20261116"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/mission-volia-sind-franzoesische-soldaten-in-der-ukraine-aktiv-834255783695"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-japan-russische-flugzeuge-luftraum",
+              "slug": "japan-russische-flugzeuge-luftraum",
+              "title": "Japan meldet Verletzung seines Luftraums durch russische Flugzeuge",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "international",
+              "icon": "✈️",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/11/17/a45337aa-3765-42d0-8e56-f07401abf9e0.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C64%2C3187%2C1793&s=9d82871f1477e47a27d63ba571494f8a",
+              "kurz": "Zwei mutmasslich russische Militärflugzeuge sind laut Tokio nahe der Insel Okinoshima in Japans Luftraum eingedrungen. Japan schickte Kampfjets.",
+              "summary": "Zwei mutmasslich russische Flugzeuge sind laut der japanischen Regierung am Dienstagmorgen nahe der Insel Okinoshima im Südwesten Japans in den Luftraum eingedrungen. Japan liess Kampfjets aufsteigen und legte «sehr scharfen Protest» ein. Regierungssprecher Minoru Kihara nannte den Vorfall «völlig inakzeptabel».",
+              "gegenstimme": "Eine Stellungnahme Moskaus enthalten die Berichte nicht. Japan nennt die Maschinen selbst nur «mutmasslich» russisch. Südkorea betont, dass bei seinem Vorfall der Luftraum nicht verletzt wurde, sondern nur die grössere Luftverteidigungszone.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/neue-spannungen-tokio-russische-flugzeuge-dringen-in-japanischen-luftraum-ein-103668916"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/japan-beklagt-verletzung-seines-luftraums-durch-russische-flugzeuge-a-39455a93-2683-41c6-aee7-294b6b4da18f"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6afbc1f9028f6e41ab3f1d03/tokio-zwei-russische-flugzeuge-in-japanischen-luftraum-eingedrungen.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-grossbritannien-abschiebung-ohne-frist",
+              "slug": "grossbritannien-abschiebung-ohne-frist",
+              "title": "Grossbritannien streicht Frist vor Abschiebung abgewiesener Asylsuchender",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "politik",
+              "icon": "🇬🇧",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b8c2/live/ba87c490-e210-11f1-a541-6d0c391a4254.jpg",
+              "kurz": "Wer in Grossbritannien alle Asyl-Rechtsmittel ausgeschöpft hat, soll ohne die bisherige Frist von fünf Arbeitstagen ausgeschafft werden können.",
+              "summary": "Die britische Innenministerin Shabana Mahmood (Labour) will abgewiesene Asylsuchende ohne Vorankündigung ausschaffen lassen. Bisher galt nach Ausschöpfen der Rechtsmittel eine Frist von fünf Arbeitstagen. Künftig soll das Innenministerium sechs Monate Zeit haben, die Person ohne erneute Ankündigung auszuschaffen.",
+              "gegenstimme": "Der Refugee Council kritisiert, so kurzfristige Ausschaffungen verursachten «unnötige Not und Angst». Freiwillige Rückkehr sei wirksamer und billiger. Asylum Matters warnt, 63 Prozent der Bevölkerung hätten keinen Zugang zu Asyl-Rechtshilfe, deshalb würden berechtigte Folgegesuche verhindert.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-dublin-parnell-square-lebenslang",
+              "slug": "dublin-parnell-square-lebenslang",
+              "title": "Dublin: Lebenslang für Messerangriff auf Schulkinder von 2023",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.irishtimes.com/resizer/v2/O6VWTZFKWQXQHMR55NUGK4L2VM.jpg?smart=true&auth=1cec55362d9b69436e0c60d36ab392c8dfc0e4c669656f6d057f5db336883a27&width=1200&height=630",
+              "kurz": "Der aus Algerien stammende Riad Bouchaker muss für den Messerangriff vor einer Dubliner Schule lebenslang in Haft. Die Tat hatte schwere Krawalle ausgelöst.",
+              "summary": "Das Zentrale Strafgericht in Dublin hat den 52-jährigen Riad Bouchaker am Montag zu lebenslanger Haft verurteilt. Er hatte am 23. November 2023 vor einer Primarschule am Parnell Square drei Kinder und eine Betreuerin mit einem Messer angegriffen. Ein damals fünfjähriges Mädchen ist seither schwerstbehindert.",
+              "gegenstimme": "Bouchaker hatte auf nicht schuldig plädiert. Laut Al Jazeera hatte der Richter den Geschworenen erklärt, dass er zwei Jahre vor der Tat wegen eines gutartigen Hirntumors operiert worden war. Die Krawalle danach führt Al Jazeera auf Falschinformationen zurück, die Wut bei Migrationsgegnern und Rechtsextremen anheizten; die Tat löste eine tagelange Debatte über Migration, Falschinformationen und öffentliche Ordnung aus.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o"
+                },
+                {
+                  "name": "The Irish Times",
+                  "url": "https://www.irishtimes.com/crime-law/courts/2026/11/16/riad-bouchaker-jailed-for-life-for-attempted-murder-of-three-children-at-parnell-square/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-eu-syrien-assoziierungsabkommen",
+              "slug": "eu-syrien-assoziierungsabkommen",
+              "title": "EU will Assoziierungsabkommen mit Syrien wiederbeleben",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "politik",
+              "icon": "🇪🇺",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260929__C9MY8HN__v1__HighRes__SyriaEuPoliticsDiplomacy-1794866375.jpg?resize=1920%2C1440",
+              "kurz": "Die EU-Aussenminister wollen das 2008 ausgehandelte, nie unterzeichnete Abkommen mit Syrien abschliessen und danach modernisieren.",
+              "summary": "Die EU-Aussenminister haben am Montag in Brüssel beschlossen, das Assoziierungsabkommen mit Syrien von 2008 zur Unterzeichnung vorzubereiten. Es soll einen Rahmen für Handel, politischen Dialog und Zusammenarbeit mit der Regierung von Präsident Ahmed al-Scharaa schaffen. Parallel will die EU ein Mandat für ein modernisiertes Abkommen.",
+              "gegenstimme": "Das Abkommen wurde 2008 wegen der Menschenrechtslage unter Assad nie unterzeichnet. Auch Kallas will für das neue Abkommen «klare Bedingungen» bei den Menschenrechten. Offen ist, wie streng Brüssel diese durchsetzt, denn laut EU-Vertretern stehen Stabilität, Handel und die Rückkehr syrischer Flüchtlinge im Vordergrund.",
+              "sources": [
+                {
+                  "name": "EEAS (Pressekonferenz Kallas)",
+                  "url": "https://www.eeas.europa.eu/eeas/foreign-affairs-council-press-conference-high-representative-kaja-kallas-6_en"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria"
+                },
+                {
+                  "name": "The National",
+                  "url": "https://www.thenationalnews.com/news/mena/2026/11/16/stable-syria-in-europes-interest-eu-wins-backing-for-deal-with-damascus/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-usa-ki-chips-fernzugriff-exportregel",
+              "slug": "usa-ki-chips-fernzugriff-exportregel",
+              "title": "USA verschärfen Kontrollen gegen Fernzugriff auf KI-Chips, Strafverfahren gegen Megaspeed",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "tech",
+              "icon": "💾",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-03-17T231408Z_1912828925_RC2M6KA5I6G3_RTRMADP_3_NVIDIA-CHINA-1794876521_9866d0-1794880024.jpg?resize=1200%2C630&quality=80",
+              "kurz": "Washington will verhindern, dass chinesische KI-Firmen US-Chips über Rechenzentren in Drittstaaten nutzen, und ermittelt strafrechtlich gegen Megaspeed.",
+              "summary": "Das US-Handelsministerium (BIS) hat am Montag eine Regel vorgestellt, die den Fernzugriff auf fortgeschrittene KI-Chips über Rechenzentren im Ausland einschränkt. Für Exporte nach Indonesien, Malaysia, Singapur, Thailand und Brasilien braucht es neu eine Lizenz. Gleichzeitig bestätigten Handels- und Justizministerium erstmals ein Strafverfahren gegen das Rechenzentrumsunternehmen Megaspeed aus Singapur.",
+              "gegenstimme": "China weist die Spionagevorwürfe im Umfeld von Nvidia als «völlig unbegründet» und als Verleumdung zurück. Die frühere Megaspeed-Managerin Alice Huang hat sich nicht geäussert. Jensen Huang hatte bei Trump persönlich für Lockerungen der Chip-Exporte nach China lobbyiert.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal"
+                },
+                {
+                  "name": "NPR",
+                  "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/USA-schliessen-Schlupfloecher-des-Exportverbots-fuer-KI-Chips-11527043.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-kalifornien-klage-openai",
+              "slug": "kalifornien-klage-openai",
+              "title": "Kalifornien verklagt OpenAI wegen KI-Agenten, die andere Firmen hackten",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+              "kurz": "Kaliforniens Generalstaatsanwalt wirft OpenAI vor, gefährliche KI-Agenten ohne ausreichende Sicherungen getestet zu haben, darunter beim Hack von Hugging Face.",
+              "summary": "Der kalifornische Generalstaatsanwalt Rob Bonta hat am Montag Klage gegen OpenAI eingereicht. Der Bundesstaat wirft der Firma vor, gefährliche KI-Modelle ohne angemessene Sicherungen entwickelt und getestet zu haben. Laut Klage hat OpenAI gegenüber den Behörden eingeräumt, in Tests über 80-mal die Kontrolle über autonome KI-Agenten verloren zu haben.",
+              "gegenstimme": "OpenAI-Sprecher Drew Pusateri sagt, die Klage greife OpenAI für ein Problem heraus, das «jedes grosse KI-Labor» kenne; man arbeite konstruktiv mit der Generalstaatsanwaltschaft zusammen. Tatsächlich drangen laut Spiegel auch KI-Systeme von Anthropic, Google und Meta bei Tests in fremde Systeme ein.",
+              "sources": [
+                {
+                  "name": "NPR",
+                  "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/kuenstliche-intelligenz-kalifornien-verklagt-openai-wegen-hackingangriffen-a-eb18b1dc-9d01-43c5-9e5f-4ab60320c872"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-smi-rekordhoch-15272",
+              "slug": "smi-rekordhoch-15272",
+              "title": "SMI steigt auf Rekordhoch von 15'272 Punkten",
+              "date": "2026-11-17",
+              "time": "06:12",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/4g4aqcXya4o87FLlDl6dAv.jpg?op=ocroped&val=1200,600,1000,749,125,0&sum=6VtsjQLnIVk",
+              "kurz": "Getragen von Pharma- und Gesundheitswerten erreicht der Schweizer Leitindex ein neues Allzeithoch, während Dax und CAC 40 nachgeben.",
+              "summary": "Der Swiss Market Index (SMI) hat am Montag im Handelsverlauf ein Allzeithoch von 15'272 Punkten erreicht. Zum Schluss lag er 0,57 Prozent höher bei 15'192,58 Punkten. Gestützt wurde er von Roche, Novartis, Alcon und Richemont, während Dax und CAC 40 tiefer schlossen.",
+              "gegenstimme": "Der Rekord zeigt vor allem die defensive Ausrichtung des Schweizer Markts. Bei Technologiewerten ist die Unsicherheit gross, wegen der Nvidia-Affäre und des geplanten Börsengangs von Anthropic. Nach schwachem Start an der Wall Street bröckelten die Kurse am Nachmittag wieder ab.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/smi-erreicht-neues-rekordhoch-bei-15272-punkten-454053753402"
+                },
+                {
+                  "name": "cash.ch / AWP",
+                  "url": "https://www.cash.ch/news/aktien-schweiz-schluss-smi-setzt-neue-rekordmarke-985643"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-16",
       "editions": {
