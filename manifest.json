@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:12:04+01:00",
+  "updated": "2026-11-17T12:07:48+01:00",
   "days": [
     {
       "date": "2026-11-17",
@@ -366,6 +366,392 @@
                 {
                   "name": "cash.ch / AWP",
                   "url": "https://www.cash.ch/news/aktien-schweiz-schluss-smi-setzt-neue-rekordmarke-985643"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:25",
+          "articles": [
+            {
+              "id": "2026-11-17-deutsche-bank-leak-oligarchen-schweiz",
+              "slug": "deutsche-bank-leak-oligarchen-schweiz",
+              "title": "Datenleck bei der Deutschen Bank: Oligarchen-Geschäft lief über Zürich und Genf",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/9eef55b03d7d72399cd3250c62d39466540fd529-92392673.jpg?ver=59d4f35d&fit=1200,900",
+              "kurz": "Über 15 Millionen interne Dokumente zeigen laut einem Medienverbund, wie die Deutsche Bank rund 20 russische Oligarchen von der Schweiz aus betreute.",
+              "summary": "Ein internationaler Medienverbund (u. a. Spiegel, ZDF frontal, New York Times, Financial Times, Tages-Anzeiger) hat mehr als 15 Millionen interne Dokumente der Deutschen Bank ausgewertet, die zwei Whistleblower geleakt haben. Laut den am Dienstag veröffentlichten Berichten betreute die Bank in Zürich und Genf rund 20 russische Oligarchen, deren politische Verbindungen ihr bekannt waren; 17 davon standen auf einer Liste des US-Finanzministeriums. Die Aktie fiel zeitweise um 6,2 Prozent auf 30,88 Euro.",
+              "gegenstimme": "Die Deutsche Bank erklärt, die Sachverhalte lägen viele Jahre, teils zwei Jahrzehnte zurück, seien damals geprüft und mit den Aufsichtsbehörden aufgearbeitet worden: «Wir sind heute eine andere Bank.» Von 2019 bis 2025 habe sie sieben Milliarden Euro in Kontrollen investiert. Sie bestreitet, russische Kunden vor Behörden verborgen zu haben, und begründet die Konzentration in der Schweiz mit der Komplexität dieser Vermögen. Zur Einordnung: Laut internem Vergleich von 2020 verwalteten UBS (rund 45 Mrd. Dollar) und Pictet (rund 25 Mrd.) weit mehr russisches Vermögen als die Deutsche Bank (rund 3 Mrd.).",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/deutsche-bank-soll-oligarchen-von-der-schweiz-aus-betreut-haben/92392686"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/wirtschaft/article6afc0b949893cadb7bd1583d/finanzinstitut-datenleck-bei-der-deutschen-ban.html"
+                },
+                {
+                  "name": "finews.ch",
+                  "url": "https://www.finews.ch/news/banken/74508-datenleck-15-millionen-internen-dokumente-deutsche-bank-unter-druck-enthuellungen-schweizer-geschaeft-russische-milliardaere-mit-engen-verbindungen-zum-kreml-bankgeheimnis-eine-wichtige-rolle"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/deutsche-bank-welche-rolle-spielte-schweizer-top-banker-807386738592"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-iv-melderecht-waffenbehoerden-aarau",
+              "slug": "iv-melderecht-waffenbehoerden-aarau",
+              "title": "Nach Aarau: Bundesrat will, dass die IV gefährliche Personen den Waffenbehörden melden darf",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Der Bundesrat empfiehlt eine Motion von SP-Nationalrat Loïc Dobler zur Annahme: IV-Stellen sollen als Behörde an Waffenbüros melden dürfen.",
+              "summary": "Der Bundesrat empfiehlt eine Motion des jurassischen SP-Nationalrats Loïc Dobler zur Annahme. Kantonale IV-Stellen sollen künftig als Behörde Versicherte an die kantonalen Waffenbüros melden dürfen, die ihrer Einschätzung nach keine Waffe besitzen sollten. Anlass ist die Amoktat von Aarau Ende August, bei der eine junge Frau getötet und sechs Menschen verletzt wurden; der Täter bezog laut seinen Eltern wegen psychischer Probleme eine IV-Rente.",
+              "gegenstimme": "Kritisch ist die Frage der Stigmatisierung psychisch Kranker. Dobler sieht dieses Risiko nicht, weil IV-Ärztinnen und -Ärzte und nicht Sachbearbeiter über Meldungen entscheiden sollen. Ob eine solche Meldung die Tat von Aarau verhindert hätte, ist laut SRF reine Spekulation; Ärzte und Amtspersonen dürfen schon heute persönlich melden. Auch Pro Tell, die Organisation gegen strengere Waffengesetze, trägt die Massnahme mit, weil sie «nicht alle Waffenbesitzer unter Generalverdacht stellt».",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/nach-amoktat-von-aarau-iv-soll-gefaehrliche-personen-der-waffenbehoerde-melden-duerfen"
+                },
+                {
+                  "name": "Le Quotidien Jurassien",
+                  "url": "https://www.lqj.ch/articles/succes-d-etape-pour-le-conseiller-national-jurassien-loic-dobler-et-sa-motion-pour-un-meilleur-signalement-des-armes-150037"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/iv-soll-waffenbehoerden-vor-gefaehrlichen-personen-warnen-231838279450"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-glencore-flyer-zuger-obergericht",
+              "slug": "glencore-flyer-zuger-obergericht",
+              "title": "Zuger Obergericht erlaubt Flyer gegen Glencore, Social-Media-Posts bleiben verboten",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "schweiz",
+              "icon": "📄",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/52f3580e4268c235a06edca4badef635050f6094-92392554.jpg?ver=53f5bd69&fit=1200,900",
+              "kurz": "Die Koalition für Konzernverantwortung darf 600'000 Flyer zur Antamina-Mine in Peru verteilen; gewisse frühere Posts bleiben untersagt.",
+              "summary": "Das Zuger Obergericht hat ein von Glencore verlangtes Verbot gegen eine Flyer-Kampagne der Koalition für Konzernverantwortung abgewiesen. Die Koalition darf 600'000 Flyer zu Umweltschäden rund um die Antamina-Mine in Peru verteilen, an der Glencore als Minderheitsaktionärin beteiligt ist. Bereits gelöschte Social-Media-Beiträge bleiben verboten, weil sie laut Gericht ein verfälschtes Bild von Glencores Verantwortung zeichneten.",
+              "gegenstimme": "Glencore hatte im September mit einer superprovisorischen Verfügung erreicht, dass die Kampagne gestoppt wurde, und argumentiert, die Koalition stelle die Verantwortung des Konzerns falsch dar. In diesem Punkt gibt das Gericht Glencore teilweise recht: Beiträge, die Glencore als allein und direkt verantwortlich darstellten, bleiben untersagt. Eine Stellungnahme von Glencore zur neuen Verfügung lag bei Redaktionsschluss nicht vor.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/zuger-obergericht-l%c3%a4sst-flugbl%c3%a4tter-gegen-glencore-zu/92392567"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/glencore-zuger-obergericht-erlaubt-anti-glencore-flyer-595151328433"
+                },
+                {
+                  "name": "Agefi",
+                  "url": "https://agefi.com/actualites/entreprises/la-justice-zougoise-autorise-des-tracts-visant-glencore-sur-une-mine-au-perou"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-basel-oekolampadmatte-schuldunfaehig",
+              "slug": "basel-oekolampadmatte-schuldunfaehig",
+              "title": "Sexualdelikt an Fünfjähriger in Basel: Beschuldigter laut Gutachten schuldunfähig",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/9e7a6b9c17e76adec69bf95b9481ca7684369466-92393515.jpg?ver=c31c0d1e&fit=1200,900",
+              "kurz": "Die Basler Staatsanwaltschaft verzichtet auf eine Anklage gegen einen 24-jährigen Schweizer und beantragt stattdessen eine Massnahme.",
+              "summary": "Die Staatsanwaltschaft Basel-Stadt hat das Verfahren zum Sexualdelikt an einem fünfjährigen Mädchen bei der Oekolampadmatte vom 18. Dezember 2025 und zu einem versuchten Tötungsdelikt am Folgetag abgeschlossen. Ein forensisch-psychiatrisches Gutachten stuft den heute 24-jährigen Schweizer zu den Tatzeitpunkten als schuldunfähig ein. Statt einer Anklage beantragt sie beim Strafgericht ein selbstständiges Massnahmeverfahren.",
+              "gegenstimme": "Für den Beschuldigten gilt die Unschuldsvermutung; das Strafgericht entscheidet, ob und welche Massnahme angeordnet wird. Eine therapeutische Massnahme bedeutet keine Freilassung und kann im Schweizer Recht verlängert werden; eine Strafe im klassischen Sinn gibt es bei Schuldunfähigkeit aber nicht. Offen bleibt zudem, warum die Polizei zuerst einen anderen Mann festgenommen hatte.",
+              "sources": [
+                {
+                  "name": "Staatsanwaltschaft Basel-Stadt (Medienmitteilung)",
+                  "url": "https://www.bs.ch/medienmitteilungen/2026-sexualdelikt-bei-der-oekolampadmatte-staatsanwaltschaft-beantragt-massnahme"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/sexualdelikt-basler-oekolampadmatte%3a-beschuldigter-schuldunf%c3%a4hig/92393528"
+                },
+                {
+                  "name": "bz Basel",
+                  "url": "https://www.bzbasel.ch/basel/basel-stadt/basel-keine-anklage-nach-sexualdelikt-bei-oekolampadmatte-ld.4268792"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-antibiotika-resistenzbericht-2026",
+              "slug": "antibiotika-resistenzbericht-2026",
+              "title": "Weniger Antibiotika, aber fast doppelt so viele Tote durch resistente Keime wie 2010",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "schweiz",
+              "icon": "💊",
+              "edition": "midday",
+              "image": "https://www.watson.ch/imgdb/158b/Z1200,675,187,-39,59,59/6910314865463946",
+              "kurz": "Der Antibiotika-Verbrauch sinkt auf ein Rekordtief, doch 2024 starben geschätzt 258 Menschen an hochresistenten Bakterien.",
+              "summary": "Der Antibiotika-Verbrauch in der Schweizer Humanmedizin ist 2025 auf 9,9 Tagesdosen pro 1000 Einwohner und Tag gesunken, knapp 11 Prozent weniger als im Vorjahr. Damit wird das Bundesziel für 2027 (10,2) vorzeitig erreicht. Trotzdem starben 2024 geschätzt 258 Menschen an hochresistenten Bakterien, 2010 waren es 135. Das zeigt der «Swiss Antibiotic Resistance Report 2026» von BAG, BLV, BLW und Bafu.",
+              "gegenstimme": "Die Autoren selbst warnen, ein tiefer Verbrauch bedeute nicht automatisch eine gute Verschreibungspraxis: Rund jedes fünfte Rezept in der ambulanten Praxis weicht von den Richtlinien ab, und in der Westschweiz wird etwa 1,5-mal so viel verschrieben wie in der Deutschschweiz. Bei Nutztieren ist der Verbrauch im Verhältnis zur Biomasse seit drei Jahren nicht weiter gesunken.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/in-der-schweiz-werden-weniger-antibiotika-verschrieben/92393425"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/gesundheit/619958132-auf-rekordtief-in-der-schweiz-werden-weniger-antibiotika-verschrieben"
+                },
+                {
+                  "name": "RSI",
+                  "url": "https://www.rsi.ch/info/svizzera/Meno-antibiotici-ma-pi%C3%B9-morti-per-batteri-resistenti-in-Svizzera--4248601.html"
+                },
+                {
+                  "name": "Strategie Antibiotikaresistenzen (Bund)",
+                  "url": "https://www.star.admin.ch/de/ueberwachung"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-landwirtschaft-2026-duerre-einkommen-minus-17",
+              "slug": "landwirtschaft-2026-duerre-einkommen-minus-17",
+              "title": "Dürrejahr 2026: Einkommen der Schweizer Landwirtschaft sinkt um 17 Prozent",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "wirtschaft",
+              "icon": "🌾",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/eae8eff5021f618db199901fe34d7b124ac48f0f-92392806.jpg?ver=b151c6ed&fit=1200,900",
+              "kurz": "Hitze, Trockenheit und tiefe Schweinepreise drücken die Bruttowertschöpfung der Landwirtschaft laut BFS um 11,7 Prozent.",
+              "summary": "Die Schweizer Landwirtschaft dürfte 2026 laut erster Schätzung des Bundesamts für Statistik eine Bruttowertschöpfung von 4,5 Milliarden Franken erzielen, 11,7 Prozent weniger als 2025. Das Sektoreinkommen sinkt um 17 Prozent auf 2,8 Milliarden Franken. Gründe sind die Hitze und Trockenheit im Sommer sowie ein Überangebot auf dem Schweinemarkt.",
+              "gegenstimme": "Der Schweizer Bauernverband spricht von einem «miserablen» Jahr, befürchtet Liquiditätsengpässe und lehnt die vom Bundesrat geplanten Kürzungen im Budget 2027 ab. Relativierend: Preisbereinigt sinkt die Wertschöpfung nur um 2,2 Prozent, der Vergleich erfolgt mit dem Ausnahmejahr 2025, und die Arbeitsproduktivität liegt laut BFS 38 Prozent über dem Niveau von 2000.",
+              "sources": [
+                {
+                  "name": "Bundesamt für Statistik (Medienmitteilung)",
+                  "url": "https://statistik.admin.ch/de/asset/36995055"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/landwirtschaft-litt-2026-unter-d%c3%bcrre-vorjahr-lief-hingegen-rund/92392819"
+                },
+                {
+                  "name": "Schweizer Bauernverband (Medienmitteilung)",
+                  "url": "https://www.sbv-usp.ch/de/2026-ist-ein-miserables-landwirtschaftsjahr"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-krimbruecke-teilweise-eingestuerzt",
+              "slug": "krimbruecke-teilweise-eingestuerzt",
+              "title": "Krim-Brücke nach ukrainischem Angriff teilweise eingestürzt",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "international",
+              "icon": "🌉",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg",
+              "kurz": "Ein Bogen der Strassenbrücke über die Meerenge von Kertsch liegt im Wasser; der Verkehr ist eingestellt, Moskau kündigt den Wiederaufbau an.",
+              "summary": "Nach einem ukrainischen Angriff in der Nacht auf Dienstag ist ein Teil der Strassenbrücke über die Meerenge von Kertsch eingestürzt, der einzigen direkten Verbindung zwischen Russland und der besetzten Krim. Präsident Selenski spricht von einer «beispiellosen» Operation in sieben Phasen; auch die parallele Bahnbrücke wurde getroffen, ihr Tragbogen steht aber noch. Der Verkehr über die Brücke ist eingestellt.",
+              "gegenstimme": "Kreml-Sprecher Dmitri Peskow kündigte an, die Brücke werde «besser als zuvor» wiederaufgebaut; das russische Ermittlungskomitee hat ein Verfahren wegen Terrorismus eröffnet. SRF-Korrespondent David Nauer gibt zu bedenken: Sollte Russland alle Dnipro-Brücken in Kiew zerstören, wären die Folgen für die Ukraine grösser als jene der Krim-Brücke für Russland.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nach-ukrainischem-beschuss-krim-bruecke-teilweise-eingestuerzt-was-der-angriff-bedeutet"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/krim-br%c3%bccke-nach-ukrainischem-angriff-teilweise-eingest%c3%bcrzt/92393794"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-iran-bahrain-radar-schmutzige-bombe",
+              "slug": "iran-bahrain-radar-schmutzige-bombe",
+              "title": "Iran greift erneut US-Radar in Bahrain an, US-Geheimdienste warnen vor «schmutziger Bombe»",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "international",
+              "icon": "🛡️",
+              "edition": "midday",
+              "image": "https://images.euronews.com/articles/stories/09/99/56/87/1200x675_cmsv2_2aa0ac7b-8fb7-54fb-a879-649b425cc9cf-9995687.jpg",
+              "kurz": "Dritter iranischer Drohnenangriff auf Bahrain in fünf Tagen; laut CNN arbeitet Teheran an Plänen für einen Anschlag in Washington.",
+              "summary": "Die iranischen Revolutionsgarden haben am frühen Dienstag nach eigenen Angaben ein US-Radarsystem auf dem Stützpunkt Scheich Issa in Bahrain mit Drohnen angegriffen, zum dritten Mal in fünf Tagen. Bahrains Streitkräfte melden, alle Geschosse seien abgefangen worden. Parallel berichtet CNN, US-Geheimdienste hätten Hinweise, dass Iran Pläne für eine «schmutzige Bombe» gegen hohe Regierungsvertreter in Washington entwickelt.",
+              "gegenstimme": "Teheran begründet den Angriff mit wiederholten Verletzungen des iranischen Luftraums durch US-Drohnen. Das Weisse Haus erklärt, man beobachte alle Bedrohungen, derzeit gebe es aber «keine glaubwürdigen Bedrohungen für das Heimatland». Laut den Quellen von CNN geht es um Optionen, nicht um einen unmittelbar bevorstehenden Anschlag, und Fähigkeit wie Absicht Irans sind unter US-Beamten umstritten.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/iran-meldet-angriff-auf-us-radaranlage-in-bahrain/92393132"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/17/iran-claims-drone-attack-on-us-radar-system-at-sheikh-isa-air-base-in-bahrain"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar"
+                },
+                {
+                  "name": "CNN via WCAX",
+                  "url": "https://www.wcax.com/2026/11/17/us-monitoring-reported-iran-dirty-bomb-plans-white-house-says-no-credible-threats/"
+                },
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/middle-east/iran-news/article-915109"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-berlin-verbot-el-irschad-hisbollah",
+              "slug": "berlin-verbot-el-irschad-hisbollah",
+              "title": "Berlin verbietet Hisbollah-nahen Moscheeverein El-Irschad",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "international",
+              "icon": "🚫",
+              "edition": "midday",
+              "kurz": "Die Berliner Innenverwaltung hat den Neuköllner Verein El-Irschad und drei Teilorganisationen wegen Unterstützung der Hisbollah verboten.",
+              "summary": "Die Berliner Senatsverwaltung für Inneres hat am Dienstag den Verein El-Irschad und seine Teilorganisationen Al-Qaem, Al-Thaqalyn und Qalam Bildungszentrum verboten. Laut Innensenatorin Iris Spranger (SPD) unterstützt der Verein die terroristische Hisbollah im Libanon organisatorisch und finanziell und bietet ihr eine Plattform für Propaganda in der schiitischen Diaspora. Seit 6 Uhr durchsuchte die Polizei 28 Vereinsräume und Wohnungen, das Vereinsvermögen wurde beschlagnahmt.",
+              "gegenstimme": "Eine Stellungnahme des Vereins lag bis Mittag nicht vor. Gegen Vereinsverbote ist in Deutschland der Rechtsweg offen; die Beweise der Behörden sind bisher nicht öffentlich. Ein Anwohner sprach gegenüber dem Tagesspiegel von einem «für Neuköllner Verhältnisse zahmen Einsatz». Umgekehrt stellt sich die Frage, warum das Verbot erst jetzt kommt: Laut Senatorin stand der Verein «seit geraumer Zeit» im Verdacht der Hisbollah-Nähe, laut rbb gilt er bei Sicherheitsbehörden seit Jahren als Hisbollah-nah.",
+              "sources": [
+                {
+                  "name": "Senatsverwaltung für Inneres Berlin (Pressemitteilung)",
+                  "url": "https://www.berlin.de/sen/inneres/presse/pressemitteilungen/2026/pressemitteilung.1740195.php"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/berlin-senatsverwaltung-verbietet-verein-hisbollah-unterstuetzung-razzien-am-morgen-a-df361c89-5b4c-4fa0-9492-508b576d138e"
+                },
+                {
+                  "name": "rbb24",
+                  "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-razzia-hisbollah-naher-moschee-verein-verbot.html"
+                },
+                {
+                  "name": "Tagesspiegel",
+                  "url": "https://www.tagesspiegel.de/berlin/razzia-gegen-el-irschad-hisbollah-naher-moscheeverein-in-berlin-verboten--durchsuchungen-in-neukolln-16292772.html"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/inland/regional/berlin/razzia-berlin-148.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-manila-trump-ankunft-proteste-festnahmen",
+              "slug": "manila-trump-ankunft-proteste-festnahmen",
+              "title": "Trump in Manila gelandet, rund 300 Festnahmen bei Protesten",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "midday",
+              "kurz": "Vor Trumps Ankunft zum Asean-Gipfel nahm die philippinische Polizei bei Protesten gegen die US-Initiative Pax Silica rund 300 Menschen fest.",
+              "summary": "US-Präsident Donald Trump ist am Dienstag um 17.54 Uhr Ortszeit (10.54 Uhr Schweizer Zeit) in Manila gelandet, wo er am Asean-Gipfel teilnimmt. In den Tagen zuvor nahm die Polizei bei Protesten gegen Trump und die US-geführte Tech- und Rohstoffinitiative Pax Silica laut Organisatoren rund 300 Menschen fest; gegen 213 Personen reichte sie Anzeigen ein. Am Mittwoch reist Trump nach Shenzhen weiter.",
+              "gegenstimme": "Die Polizei verteidigt die Festnahmen: Man dürfe protestieren, aber nicht das Gesetz brechen. Bei Zusammenstössen am 15. November wurden 15 Polizisten verletzt, Demonstranten verbrannten Trump-Puppen. Die Festgenommenen und ihre Anwälte kritisieren dagegen, sie seien über 30 Stunden ohne formelle Anklage festgehalten worden; Protestführer Renato Reyes spricht vom grössten Festnahmetag seit Amtsantritt von Präsident Marcos 2022.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
+                },
+                {
+                  "name": "ABS-CBN",
+                  "url": "https://www.abs-cbn.com/news/nation/2026/11/17/police-file-raps-vs-more-than-200-arrested-at-asean-summit-protests-1521"
+                },
+                {
+                  "name": "Philstar",
+                  "url": "https://www.philstar.com/headlines/2026/11/17/2570745/more-200-protesters-still-police-custody-after-stalled-inquest"
+                },
+                {
+                  "name": "Inquirer",
+                  "url": "https://newsinfo.inquirer.net/2342826/pnp-over-200-arrested-protesters-completed-inquest-amid-asean-summit"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/demos-gegen-pax-silica-warum-trump-in-manila-mit-protesten-empfangen-wird"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-google-erster-vollautomatischer-ki-cyberangriff",
+              "slug": "google-erster-vollautomatischer-ki-cyberangriff",
+              "title": "Google meldet ersten vollständig von KI ausgeführten Cyberangriff",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "midday",
+              "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
+              "kurz": "Laut Googles Threat Intelligence Group hat ein russischsprachiger Akteur ein KI-System eingesetzt, das Lücken ohne menschliches Zutun findet und ausnutzt.",
+              "summary": "Die Google Threat Intelligence Group und Mandiant haben nach eigenen Angaben erstmals einen Cyberangriff beobachtet, der von der Schwachstellensuche bis zum Eindringen ohne Menschen ablief. Das System «exploit_agent» eines russischsprachigen Akteurs vergleicht Software vor und nach Sicherheitsupdates, leitet daraus Lücken ab, schreibt Exploits und führt sie aus. Ziele waren laut Google französische Webseiten aus Medien, Unterhaltung und Bildung.",
+              "gegenstimme": "Die Zuordnung ist schwach: Google stützt sich auf russischsprachige Kommentare im Code und nennt weder eine Gruppe noch einen Staat. Die Analyse stammt von einem Konzern, der selbst Sicherheitsprodukte verkauft; eine unabhängige Bestätigung des «ersten» vollautomatischen Angriffs gibt es bisher nicht. Bereits 2025 hatte etwa Anthropic über eine weitgehend KI-gesteuerte Spionagekampagne berichtet.",
+              "sources": [
+                {
+                  "name": "Google Threat Intelligence Group",
+                  "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/"
+                },
+                {
+                  "name": "CyberScoop",
+                  "url": "https://cyberscoop.com/google-fully-automated-ai-cyberattack/"
+                },
+                {
+                  "name": "BleepingComputer",
+                  "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Google-beobachtet-vollstaendig-automatisierte-Cyberangriffe-mit-KI-Technik-11527123.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-apple-prozess-frankreich-reparatur-iphone",
+              "slug": "apple-prozess-frankreich-reparatur-iphone",
+              "title": "Apple muss sich in Frankreich wegen behinderter iPhone-Reparaturen vor Gericht verantworten",
+              "date": "2026-11-17",
+              "time": "12:25",
+              "category": "tech",
+              "icon": "📱",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/1d00e8e237e82433f047da06c4ae8923c73f66a7-92392959.jpg?ver=182da138&fit=1200,900",
+              "kurz": "Ab 17. Juni 2027 steht Apple in Paris vor Gericht: Der Konzern soll Reparaturen ausserhalb seines Netzes per Software behindert haben.",
+              "summary": "Apple muss sich ab dem 17. Juni 2027 vor dem Strafgericht in Paris verantworten, es ist das erste Verfahren dieser Art gegen den Konzern. Die Staatsanwaltschaft wirft Apple vor, von November 2021 bis Juli 2024 Reparaturen und Wiederaufbereitung zahlreicher iPhone-Modelle ausserhalb des autorisierten Netzes behindert zu haben. Angestossen hat das Verfahren die Organisation Halte à l'obsolescence programmée (HOP) mit einer Anzeige vom Dezember 2022.",
+              "gegenstimme": "Apple weist die Vorwürfe als «unbegründet» entschieden zurück. Der Konzern betont, er entwickle langlebige Produkte und liefere Software-Updates, damit Kundinnen und Kunden ihre Geräte möglichst lange nutzen könnten.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / AFP / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/apple-soll-reparaturen-von-iphones-gezielt-verhindert-haben/92392972"
+                },
+                {
+                  "name": "HOP (Halte à l'obsolescence programmée)",
+                  "url": "https://www.halteobsolescence.org/annonce-proces-apple-2027/"
+                },
+                {
+                  "name": "franceinfo",
+                  "url": "https://www.franceinfo.fr/internet/apple-juge-en-juin-2027-a-paris-pour-avoir-organise-l-obsolescence-programmee-de-ses-iphone_8286095.html"
+                },
+                {
+                  "name": "Les Echos",
+                  "url": "https://www.lesechos.fr/tech-medias/hightech/apple-va-etre-juge-pour-obsolescence-programmee-une-premiere-2262955"
                 }
               ]
             }
