@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:07:48+01:00",
+  "updated": "2026-11-17T17:09:43+01:00",
   "days": [
     {
       "date": "2026-11-17",
@@ -752,6 +752,351 @@
                 {
                   "name": "Les Echos",
                   "url": "https://www.lesechos.fr/tech-medias/hightech/apple-va-etre-juge-pour-obsolescence-programmee-une-premiere-2262955"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:09",
+          "articles": [
+            {
+              "id": "2026-11-17-return-hubs-ruanda-schweiz-jans",
+              "slug": "return-hubs-ruanda-schweiz-jans",
+              "title": "Return-Hubs in Ruanda: Bundesrat schafft Rechtsgrundlage, lässt Beteiligung offen",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "schweiz",
+              "icon": "🛬",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2024/05/08/8361f007-7597-4e03-abff-c5112fbaa455.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5000,2812,x0,y260&wmark=nzz",
+              "kurz": "Fünf EU-Staaten wollen abgewiesene Asylsuchende nach Ruanda bringen. Justizminister Jans sagt, die Schweiz schaffe nun die rechtlichen Grundlagen für eine mögliche Beteiligung.",
+              "summary": "Deutschland, Österreich, Dänemark, Griechenland und die Niederlande wollen ab dem kommenden Jahr abgewiesene Asylsuchende nach Ruanda bringen, wenn deren Herkunftsländer sie nicht zurücknehmen. Bundesrat Beat Jans sagte am Dienstag der NZZ: «Wir schaffen jetzt die rechtlichen Grundlagen für die Beteiligung der Schweiz an solchen Return-Hubs.» Ob die Schweiz mitmacht, werde erst danach geprüft.",
+              "gegenstimme": "Amnesty International und Human Rights Watch kritisieren den Plan wegen der Menschenrechtslage in Ruanda (Verschwindenlassen von Regierungskritikern, Zusammenarbeit mit der Miliz M23 im Kongo). In Deutschland lehnen auch SPD-Politiker das Vorhaben des Koalitionspartners ab; der Menschenrechtsbeauftragte Lars Castellucci spricht von einem «beschämenden Spiel». Befürworter sehen es umgekehrt: Österreichs Kanzler Christian Stocker nennt es einen «historischen Paradigmenwechsel», Dänemarks Regierungschefin Mette Frederiksen einen Weg zurück zur Kontrolle über die Grenzen. Laut NZZ macht in der Schweiz das Parlament Druck, während der Bundesrat zurückhaltend bleibt.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/fuenf-eu-staaten-wollen-migranten-nach-rwanda-abschieben-und-die-schweiz-beat-jans-sagt-wir-schaffen-jetzt-die-grundlagen-fuer-die-beteiligung-an-solchen-return-hubs-ld.10066596"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/zusammenarbeit-eu-ruanda-warum-ruanda-abgewiesene-asylbewerber-aus-europa-aufnehmen-will"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ruanda-abschiebezentren-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-uhrenbranche-gucci-cortaillod-zenith-abbau",
+              "slug": "uhrenbranche-gucci-cortaillod-zenith-abbau",
+              "title": "Uhrenbranche: Gucci will in Cortaillod rund 30 Stellen streichen, Zenith baut im Locle 90 ab",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "wirtschaft",
+              "icon": "⌚",
+              "edition": "evening",
+              "kurz": "Die Uhrensparte von Gucci verlagert ihre Logistik nach Italien. Fast jede dritte Stelle in Cortaillod NE ist gefährdet, kurz nach dem Abbau bei Zenith.",
+              "summary": "Die Uhrensparte der Luxusmarke Gucci will laut der Gewerkschaft Unia am Standort Cortaillod NE rund 30 von 95 Stellen streichen; die Logistik soll im italienischen Trecate gebündelt werden. Am Dienstag wurde das Konsultationsverfahren eröffnet, Entlassungen dürften frühestens 2027 erfolgen. Bereits am Montag hatte sich Zenith (LVMH) mit Unia darauf geeinigt, im Locle 90 statt der angekündigten 100 Stellen abzubauen und einen Sozialplan aufzulegen.",
+              "gegenstimme": "Ludovic Voillat, Generalsekretär des Arbeitgeberverbands der Uhrenindustrie (Convention patronale), relativiert: Die Branche habe seit Ende 2024 rund 2000 Stellen verloren, zwischen 2021 und 2024 aber etwa 8000 geschaffen; die Beschäftigung sei historisch hoch, im Kanton Neuenburg von 14'000 auf 17'000 in 18 Jahren gestiegen. Die Gewerkschaft wiederum bezweifelt, dass der Rückzug vieler Marken ins Hochpreissegment aufgeht: Man setze damit «alle Eier in denselben Korb».",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/gucci-soll-abbau-von-rund-30-stellen-in-der-schweiz-planen/92396082"
+                },
+                {
+                  "name": "Le Temps",
+                  "url": "https://www.letemps.ch/economie/horlogerie-joaillerie/gucci-supprime-une-trentaine-de-postes-dans-son-usine-horlogere-de-cortaillod"
+                },
+                {
+                  "name": "RTN",
+                  "url": "https://www.rtn.ch/rtn/Actualite/Region/20261117-Zenith-supprimera-90-emplois-au-Locle.html"
+                },
+                {
+                  "name": "ArcInfo",
+                  "url": "https://www.arcinfo.ch/neuchatel-canton/littoral/cortaillod/a-cortaillod-gucci-prevoit-de-licencier-30-personnes-supplementaires-1522003"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-roche-giredestrant-fda-zulassung",
+              "slug": "roche-giredestrant-fda-zulassung",
+              "title": "Roche erhält US-Zulassung für Brustkrebsmittel Giredestrant",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "wirtschaft",
+              "icon": "💊",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/17/45526c9e-0def-46d1-ba75-a84e037886af.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y313&wmark=nzz",
+              "kurz": "Die FDA lässt Roches Tablette Giredestrant (Wilserdly) für eine Gruppe von Patientinnen mit fortgeschrittenem Brustkrebs zu. Roche hofft auf den grössten Umsatzbringer seiner Geschichte.",
+              "summary": "Die US-Arzneimittelbehörde FDA hat am Montag Roches Brustkrebsmittel Giredestrant unter dem Namen Wilserdly zugelassen, in Kombination mit Everolimus für Erwachsene mit ER-positivem, HER2-negativem, fortgeschrittenem oder metastasiertem Brustkrebs mit ESR1-Mutation. Diese Gruppe macht laut Roche rund 10 Prozent der Patientinnen aus, die für das Mittel infrage kommen. Konzernchef Thomas Schinecker traut dem Präparat zu, das umsatzstärkste Produkt der Firmengeschichte zu werden.",
+              "gegenstimme": "Analysten sind uneins: Die UBS rechnet bis 2031 mit erst 4,2 Milliarden Franken Umsatz und für 2027 mit knapp 500 Millionen, während die Zürcher Kantonalbank 2033 einen Spitzenumsatz von 14 Milliarden für möglich hält. Laut NZZ dürfte es zudem dauern, bis Ärztinnen und Ärzte das neue Mittel breit verschreiben; Roche will deshalb in den USA sechs Monate lang Gratismuster abgeben, um den Wechsel von anderen Medikamenten zu erleichtern.",
+              "sources": [
+                {
+                  "name": "FDA",
+                  "url": "https://www.fda.gov/drugs/cancer-approvals/fda-approves-giredestrant-combination-everolimus-er-positive-her2-negative-esr1-mutated-locally"
+                },
+                {
+                  "name": "Roche (Medienmitteilung)",
+                  "url": "https://www.roche.com/media/releases/med-cor-2026-11-16b"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/in-erwartung-riesiger-umsaetze-roche-nimmt-mit-neuem-brustkrebsmedikament-die-erste-huerde-ld.10066453"
+                },
+                {
+                  "name": "Handelsblatt",
+                  "url": "https://www.handelsblatt.com/unternehmen/industrie/roche-erhaelt-us-zulassung-fuer-neues-brustkrebsmedikament/100270500.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-bfs-krebsmonitoring-40-jahre",
+              "slug": "bfs-krebsmonitoring-40-jahre",
+              "title": "40 Jahre Krebsstatistik: Sterblichkeit deutlich gesunken, mehr Diagnosen bei jüngeren Frauen",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "schweiz",
+              "icon": "🩺",
+              "edition": "evening",
+              "kurz": "Das BFS zeigt erstmals 40 Jahre Krebsentwicklung in der Schweiz: Die Sterberate sank stark, bei Frauen zwischen 25 und 44 wird aber häufiger Krebs festgestellt.",
+              "summary": "Das Bundesamt für Statistik (BFS) zeigt in seinem aktualisierten Krebsmonitoring erstmals die Entwicklung von Krebserkrankungen und Krebstodesfällen in der Schweiz von 1984 bis 2023. Die altersstandardisierte Krebssterberate hat sich seither bei Männern fast halbiert und ist bei Frauen um rund ein Drittel gesunken. Neuerkrankungen werden bei Männern ähnlich häufig festgestellt wie zu Beginn der Erfassung, bei Frauen ist die Rate gestiegen.",
+              "gegenstimme": "Mehr Diagnosen heissen nicht automatisch mehr Krankheit: Laut dem Onkologen Andreas Wicki (Universitätsspital Zürich) werden Tumoren heute früher und häufiger entdeckt. Er sieht aber auch Hinweise, dass manche Krebsarten bei jungen Erwachsenen tatsächlich zunehmen, besonders gut belegt bei Dickdarm- und Gebärmutterkrebs. Die Ursachen dafür sind nicht geklärt.",
+              "sources": [
+                {
+                  "name": "Bundesamt für Statistik",
+                  "url": "https://statistik.admin.ch/de/news/2026-0519"
+                },
+                {
+                  "name": "BFS Krebsmonitoring",
+                  "url": "https://cancer-monitorage.bfs.admin.ch/de/vergleich/sterblichkeit/"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/erkrankung-und-sterblichkeit-so-hat-sich-krebs-in-der-schweiz-veraendert"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-thun-toedlicher-arbeitsunfall-buswerkstatt",
+              "slug": "thun-toedlicher-arbeitsunfall-buswerkstatt",
+              "title": "Thun: 20-Jähriger stirbt bei Arbeiten an einem Bus",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "regional",
+              "icon": "🚨",
+              "edition": "evening",
+              "kurz": "In einer Werkstatt an der Grabenstrasse in Thun ist ein 20-jähriger Schweizer bei Arbeiten an einem Bus eingeklemmt worden und noch vor Ort gestorben.",
+              "summary": "Am Montagnachmittag ist in einer Werkstatt an der Grabenstrasse in Thun ein 20-jähriger Schweizer bei Arbeiten an einem Bus aus noch ungeklärten Gründen eingeklemmt worden. Anwesende und Rettungskräfte versuchten ihn zu reanimieren, er starb aber noch am Unfallort, wie die Kantonspolizei Bern am Dienstag mitteilte.",
+              "gegenstimme": "Zum Hergang, zur Sicherung des Fahrzeugs und zum Arbeitgeber machten die Behörden keine Angaben. Ob Sicherheitsvorschriften eingehalten wurden, ist offen und Gegenstand der Ermittlungen; Schuldzuweisungen wären derzeit nicht gedeckt.",
+              "sources": [
+                {
+                  "name": "20 Minuten (gestützt auf Kantonspolizei Bern)",
+                  "url": "https://www.20min.ch/story/thun-be-mann-20-bei-arbeiten-an-bus-eingeklemmt-tot-103669204"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/toedlicher-arbeitsunfall-in-thun-20-jaehriger-stirbt-584537918132"
+                },
+                {
+                  "name": "watson / Keystone-SDA",
+                  "url": "https://www.watson.ch/schweiz/polizeirapport/712967134-20-jaehriger-stirbt-bei-arbeitsunfall-in-thuner-werkstatt"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-bern-zimmerbrand-giacomettistrasse",
+              "slug": "bern-zimmerbrand-giacomettistrasse",
+              "title": "Zimmerbrand in Bern: 22 Personen vom Rettungsdienst betreut",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "regional",
+              "icon": "🔥",
+              "edition": "evening",
+              "kurz": "Nach einem Zimmerbrand an der Giacomettistrasse im Berner Osten hat der Rettungsdienst 22 Personen betreut. Niemand musste ins Spital, die Wohnung ist unbewohnbar.",
+              "summary": "In der Nacht auf Dienstag, gegen 23.30 Uhr, hat in einer Wohnung an der Giacomettistrasse in Bern ein Zimmer gebrannt. Der Rettungsdienst betreute 22 Personen und untersuchte einige auf eine Rauchgasvergiftung; ins Spital musste niemand, wie Schutz und Rettung Bern mitteilte. Die betroffene Wohnung ist vorerst unbewohnbar.",
+              "gegenstimme": "Zur Brandursache gibt es noch keine Angaben; Spekulationen über Fahrlässigkeit oder Absicht sind nicht gedeckt. Die Zahl von 22 betreuten Personen klingt dramatisch, betrifft aber vor allem vorsorgliche Abklärungen bei Bewohnern des Hauses.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/zimmerbrand-in-bern-22-personen-betreut-840238483958"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/rettungsdienst-betreut-22-personen-nach-zimmerbrand-in-bern/92395536"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-basel-claraplatz-polizeikontrolle-urteil",
+              "slug": "basel-claraplatz-polizeikontrolle-urteil",
+              "title": "Basel: Appellationsgericht spricht Mann nach fälschlicher Polizeikontrolle weitgehend frei",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/e89edc82ca480ab35e8da8a1df76902554335a53-92394337.jpg?ver=872d69e4&fit=1200,900",
+              "kurz": "Ein 2024 am Claraplatz irrtümlich kontrollierter Schwarzer wird vom Vorwurf der Hinderung einer Amtshandlung freigesprochen. Racial Profiling sieht das Gericht «in dieser Form» nicht.",
+              "summary": "Das Basler Appellationsgericht hat am Dienstag einen 39-jährigen dunkelhäutigen Mann vom Vorwurf der Hinderung einer Amtshandlung und der Diensterschwerung freigesprochen. Die Polizei hatte ihn im Juli 2024 am Claraplatz fälschlicherweise einer Personenkontrolle unterzogen, wogegen er sich wehrte. Weil die Darstellungen von Beschuldigtem und Polizisten nicht zu beweisen seien, gelte «in dubio pro reo».",
+              "gegenstimme": "Das Urteil ist kein Verdikt gegen die Polizei: Das Gericht sah keinen Fall von Racial Profiling «in dieser Form», wie es die Verteidigung geltend gemacht hatte, und hielt nur fest, die Kontrolle sei «nicht ganz schulbuchmässig» verlaufen. Das aktivistische «No More Komitee» begrüsst den Entscheid, ist aber nicht zufrieden, weil die Frage nach Diskriminierung offen bleibt.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/freispr%c3%bcche-f%c3%bcr-f%c3%a4lschlicherweise-kontrollierten-schwarzen-in-basel/92394350"
+                },
+                {
+                  "name": "Bajour",
+                  "url": "https://bajour.ch/a/nach-polizeikontrolle-beschuldigter-teilweise-freigesprochen"
+                },
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/schweiz/basel/540081346-racial-profiling-freispruch-nach-polizeikontrolle-am-basler-claraplatz"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-knesset-wahl-parlamentspraesident-kahana",
+              "slug": "knesset-wahl-parlamentspraesident-kahana",
+              "title": "Israel: Eisenkot-Lager will Netanjahu-Vertrauten als Knesset-Präsidenten ablösen",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "evening",
+              "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746768",
+              "kurz": "Die neue Knesset stimmt über einen neuen Parlamentspräsidenten ab. Das Lager von Gadi Eisenkot will Amir Ohana (Likud) durch Matan Kahana ersetzen, gestützt auf arabische Parteien.",
+              "summary": "Die am 10. November vereidigte 26. Knesset hat am Dienstag über die Ablösung von Parlamentspräsident Amir Ohana (Likud) beraten. Das Lager um Gadi Eisenkot, der mit der Regierungsbildung beauftragt ist, schlägt Matan Kahana von der Partei Yashar vor und verfügt mit den arabischen Parteien Ra'am und Joint List über die nötige Mehrheit. Der Likud stellte Ofir Katz als Gegenkandidaten auf, unterstützt von der Schas-Partei; das Resultat stand bei Redaktionsschluss noch aus.",
+              "gegenstimme": "Das Netanjahu-Lager wirft Eisenkot vor, sich auf arabische Parteien zu stützen; Gegenkandidat Katz rief sie auf, nicht für ihn zu stimmen, er wolle nicht «mit den Stimmen von Terrorunterstützern» gewählt werden. Kahana entgegnete, man dürfe die arabische Bevölkerung und ihre gewählten Vertreter nicht ausblenden. Netanjahu bleibt vorerst Chef einer Übergangsregierung.",
+              "sources": [
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915171"
+                },
+                {
+                  "name": "The Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/knesset-set-to-vote-on-appointment-of-yashars-matan-kahana-as-speaker/"
+                },
+                {
+                  "name": "Ynetnews",
+                  "url": "https://www.ynetnews.com/article/hkhobslrge"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-tuerkei-soezcue-tv-zwangsverwaltung",
+              "slug": "tuerkei-soezcue-tv-zwangsverwaltung",
+              "title": "Türkei stellt oppositionsnahen Sender Sözcü TV unter Zwangsverwaltung",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "international",
+              "icon": "📺",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/4b22e686-dd21-4f64-80bd-bcc7b207ef98/AAABoekE0-U/AAABnSSvrFg/16x9-big/soezcue-102.jpg?width=1280",
+              "kurz": "Nach einer Razzia vor Morgengrauen übernimmt der staatliche Einlagensicherungsfonds TMSF Sözcü TV und dessen Website. Die Justiz wirft dem Eigentümer Nähe zur Gülen-Bewegung vor.",
+              "summary": "Die türkische Antiterrorpolizei hat am Dienstag vor Morgengrauen den Sitz des oppositionsnahen Senders Sözcü TV in Istanbul durchsucht. Ein Gericht setzte den staatlichen Einlagensicherungsfonds TMSF als Zwangsverwalter für den Sender und die Website sozcu.com.tr ein; gegen vier Führungskräfte ergingen Festnahmebefehle, zwei wurden in Gewahrsam genommen. Die Zeitungen der Gruppe sind nicht betroffen.",
+              "gegenstimme": "Die Istanbuler Staatsanwaltschaft begründet den Schritt mit Ermittlungen gegen Eigentümer Burak Akbay wegen Mitgliedschaft in der «FETÖ» (so nennt Ankara die Gülen-Bewegung) und Terrorfinanzierung; Berichte der Finanzaufsicht MASAK begründeten den «starken Verdacht», er habe Firmen der Gruppe über Auslandskonten finanziert. Der Anwalt des Senders hält das für haltlos: Der Fall gehe auf 2016 zurück, die damals verurteilten Sözcü-Journalisten seien 2025 im neuen Prozess freigesprochen worden.",
+              "sources": [
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/ausland/europa/tuerkei-sender-razzia-100.html"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/turkey-raid-opposition-television-sozcu-tv-8f690d8db6341656931fc895ff90cc78"
+                },
+                {
+                  "name": "Hürriyet Daily News",
+                  "url": "https://www.hurriyetdailynews.com/sozcu-tv-placed-under-trustee-control-after-police-raid-229507"
+                },
+                {
+                  "name": "BBC Türkçe",
+                  "url": "https://www.bbc.com/turkce/articles/cmy49p5j9jxjo"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-berlin-razzia-sohn-ibrahim-ibrahim-kriegswaffen",
+              "slug": "berlin-razzia-sohn-ibrahim-ibrahim-kriegswaffen",
+              "title": "Berlin: Razzia wegen Kriegswaffen bei Sohn des PFLP-Unterstützers Ibrahim Ibrahim",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "politik",
+              "icon": "🚔",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/fcef41fe-cbf0-4477-ac43-82626a999086/AAABoembfoA/AAABnSSvrFg/16x9-big/rbb-bundespolizei-108.jpg?width=1280",
+              "kurz": "Die Berliner Polizei hat die Wohnung eines 38-Jährigen wegen des Verdachts auf Erwerb von Kriegswaffen durchsucht. Laut Medien ist er der Sohn des Aktivisten Ibrahim Ibrahim.",
+              "summary": "Die Berliner Polizei hat am Dienstagmorgen die Wohnung eines 38-Jährigen in der Derfflingerstrasse in Tiergarten wegen des Verdachts auf Erwerb und Besitz von Kriegswaffen durchsucht; die Staatsanwaltschaft bestätigte die Durchsuchung. Laut «Bild», rbb und Tagesspiegel handelt es sich um den Sohn von Ibrahim Ibrahim, der als Unterstützer der von EU und USA als Terrororganisation gelisteten PFLP gilt. Gesucht wurden laut Sicherheitskreisen zwei Maschinenpistolen und zwei Glock-Pistolen; gefunden wurden sie nicht.",
+              "gegenstimme": "Ein Haftbefehl erging nicht, beschlagnahmt wurde lediglich ein Telefon. Die Identität des Verdächtigen als Sohn Ibrahims hat die Staatsanwaltschaft nicht bestätigt, und die Angaben zu den Waffen stammen aus inoffiziellen Sicherheitskreisen. Für den 38-Jährigen gilt die Unschuldsvermutung; aus der Verwandtschaft allein lässt sich kein Tatverdacht ableiten.",
+              "sources": [
+                {
+                  "name": "tagesschau.de / rbb",
+                  "url": "https://www.tagesschau.de/inland/regional/berlin/razzia-sohn-ibrahim-ibrahim-kriegswaffen-100.html"
+                },
+                {
+                  "name": "Tagesspiegel",
+                  "url": "https://www.tagesspiegel.de/berlin/verstoss-gegen-kriegswaffengesetz-berliner-polizei-durchsucht-offenbar-wohnung-von-sohn-von-ibrahim-ibrahim-16294040.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/panorama/justiz/berlin-verstoss-gegen-kriegswaffenkontrollgesetz-polizei-durchsucht-wohnung-a-dc93eb16-936d-4930-b0f3-de834891e536"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-eugh-europol-massendaten-edsb",
+              "slug": "eugh-europol-massendaten-edsb",
+              "title": "EuGH: Europol darf Massendaten weiter auswerten, Klage des Datenschutzbeauftragten scheitert",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "tech",
+              "icon": "🗄️",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/0/0/0/shutterstock_497068513-58db4fcaddc30e4b.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Der Europäische Gerichtshof weist das Rechtsmittel des EU-Datenschutzbeauftragten ab. Europol darf grosse Datenbestände, auch von Unverdächtigen, weiter verarbeiten.",
+              "summary": "Der Europäische Gerichtshof hat am Dienstag (Rechtssache C-698/23 P) das Rechtsmittel des Europäischen Datenschutzbeauftragten (EDSB) gegen Übergangsregeln der Europol-Verordnung zurückgewiesen. Die Regeln berührten weder Aufgaben, Befugnisse noch Unabhängigkeit des EDSB, seine Klage sei daher unzulässig. Damit darf Europol bereits erhaltene grosse Datenbestände weiterverarbeiten, auch solche über Personen ohne Bezug zu einer Straftat.",
+              "gegenstimme": "EU-Parlament und Rat hatten die Übergangsregeln 2022 bewusst beschlossen, damit Europol mit den bereits erhaltenen Ermittlungsdaten weiterarbeiten kann. Der Datenschutzbeauftragte wollte dagegen verhindern, dass der Gesetzgeber eine Anordnung der unabhängigen Aufsicht nachträglich aushebelt; diese Frage bleibt aus Sicht der Kritiker ungeklärt. Inhaltlich hat der Gerichtshof über die Rechtmässigkeit der Massendatenauswertung nicht entschieden.",
+              "sources": [
+                {
+                  "name": "EuGH (Medienmitteilung)",
+                  "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260165en.pdf"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/EuGH-weist-Klage-gegen-Europol-Befugnis-zur-Massenueberwachung-ab-11527902.html"
+                },
+                {
+                  "name": "beck-aktuell",
+                  "url": "https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/eugh-C69823-klagebefugnis-europol-datenschutz-2026-11-17"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-china-ki-destillation-us-modelle-reuters",
+              "slug": "china-ki-destillation-us-modelle-reuters",
+              "title": "Reuters-Recherche: China trainiert KI systematisch mit Antworten von US-Modellen",
+              "date": "2026-11-17",
+              "time": "17:09",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/0/8/8/shutterstock_2578832629-2acb47673453d18d.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Über 300 chinesische Dokumente zeigen laut Reuters, wie Firmen und Forscher Antworten von US-KI-Modellen nutzen, um eigene Modelle zu trainieren, und Peking das fördert.",
+              "summary": "Die Nachrichtenagentur Reuters hat mehr als 300 chinesische Forschungsarbeiten, Patente, Firmenmitteilungen, Stellenausschreibungen und Behördendokumente ausgewertet. Demnach ist die sogenannte Destillation, bei der ein grosses US-Modell Trainingsdaten für kleinere chinesische Modelle liefert, in China von Experimenten zur industriellen Praxis geworden. Ein Massnahmenpaket von acht chinesischen Behörden vom Januar unterstützt Destillation für industrielle Anwendungen ausdrücklich.",
+              "gegenstimme": "Destillation ist nicht illegal und auch ausserhalb Chinas verbreitet. Chinesische Behörden verteidigen sie als Standardtechnik und weisen Vorwürfe des Diebstahls geistigen Eigentums zurück; zwei mit chinesischen Entwicklern vertraute Personen sagten Reuters, sie sei nur ein Faktor neben Technik, Algorithmen und Daten. Die ausgewerteten Regierungsdokumente weisen Firmen nicht an, gezielt US-Modelle zu destillieren.",
+              "sources": [
+                {
+                  "name": "Reuters (via Investing.com)",
+                  "url": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-5031568"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Bericht-China-trainiert-KI-mit-Destillation-von-US-Modellen-11528073.html"
                 }
               ]
             }
