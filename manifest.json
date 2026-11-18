@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T12:10:55+01:00",
+  "updated": "2026-11-18T17:04:31+01:00",
   "days": [
     {
       "date": "2026-11-18",
@@ -750,6 +750,366 @@
                 {
                   "name": "20 Minuten",
                   "url": "https://www.20min.ch/story/bitcoin-kurs-faellt-kryptowaehrung-verliert-ueber-20-prozent-103669390"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:04",
+          "articles": [
+            {
+              "id": "2026-11-18-svp-fraktionsvorstand-zweierticket",
+              "slug": "svp-fraktionsvorstand-zweierticket",
+              "title": "Parmelin-Nachfolge: SVP-Fraktionsvorstand empfiehlt Zweierticket",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "evening",
+              "kurz": "Der Vorstand der SVP-Bundeshausfraktion will mit zwei Namen in die Bundesratswahl vom 9. Dezember. Wer aufs Ticket kommt, entscheidet die Fraktion am Freitag.",
+              "summary": "Der Vorstand der SVP-Bundeshausfraktion empfiehlt der Fraktion, für die Nachfolge von Bundesrat Guy Parmelin ein Zweierticket aufzustellen. Er folgt damit der Findungskommission und hält alle acht Kandidierenden für wählbar; sie wiesen laut Mitteilung einen «eindrücklichen beruflichen und politischen Leistungsausweis» sowie Führungserfahrung auf. Die Fraktion bestimmt am Freitag, 20. November, in geheimer Wahl die Namen, die Bundesversammlung wählt am 9. Dezember.",
+              "gegenstimme": "Ein Zweierticket gibt dem Parlament wenig Auswahl; einige Kandidierende und ihre Unterstützer hatten auf ein Dreierticket gehofft, weil sich so mehr Chancen ergeben. Ob die Westschweiz, die mit Parmelins Abgang einen Sitz verliert, und die einzige Kandidatin Céline Amaudruz berücksichtigt werden, bleibt offen. SVP-Politiker verteidigen Amaudruz laut Tamedia gegen eine «frauenfeindliche Schlammschlacht», während Parteikoordinator Kevin Grangier zuletzt von einer chaotischen Lage sprach.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/bundesratswahl-am-9-dezember-fraktionsvorstand-der-svp-empfiehlt-zweierticket"
+                },
+                {
+                  "name": "Watson",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/560300486-parmelin-nachfolge-svp-fraktion-will-zweier-ticket-fuer-bundesratswahl"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/bundeshaus/fraktionsvorstand-der-svp-empfiehlt-zweierticket-fur-bundesratswahl-67203636"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-eu-paket-apk-n-gegen-staendemehr",
+              "slug": "eu-paket-apk-n-gegen-staendemehr",
+              "title": "EU-Paket: Federführende Nationalratskommission will kein Ständemehr",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "schweiz",
+              "icon": "🇪🇺",
+              "edition": "evening",
+              "kurz": "Die Aussenpolitische Kommission des Nationalrats stellt sich gegen den Ständerat: Für die Bilateralen III soll ein einfaches Volksmehr genügen.",
+              "summary": "Die Aussenpolitische Kommission des Nationalrats (APK-N) hat am Mittwoch die Vorberatung des Stabilisierungsteils der Bilateralen III abgeschlossen und das Paket mit 15 zu 9 Stimmen bei einer Enthaltung gutgeheissen. Mit 15 zu 10 Stimmen sprach sie sich für ein fakultatives Referendum aus, bei dem nur das Volksmehr zählt, und gegen das vom Ständerat beschlossene obligatorische Referendum mit Ständemehr. Sie widerspricht damit auch der Staatspolitischen Kommission des Nationalrats, die am Montag das doppelte Mehr verlangt hatte.",
+              "gegenstimme": "Die Kommissionsminderheit findet, die Bilateralen III griffen so stark in die Strukturen der Schweiz ein, dass ein obligatorisches Referendum «sui generis» mit Ständemehr nötig sei. Die Weltwoche spricht in einem Meinungsbeitrag von einem «staatspolitischen Skandal» und wirft SP, Grünen, GLP, FDP und Mitte in der Kommission vor, die wichtigste Abstimmung seit dem EWR-Nein ohne Ständemehr durchbringen zu wollen. Befürworter halten dagegen, dass das fakultative Referendum verfassungsrechtlich die korrekte Form für diese Staatsverträge sei.",
+              "sources": [
+                {
+                  "name": "Parlamentsdienste (Medienmitteilung APK-N)",
+                  "url": "https://www.parlament.ch/press-releases/Pages/mm-apk-n-2026-11-18.aspx"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/gegen-staenderatsentscheid-eu-paket-nationalratskommission-gegen-staendemehr"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/federf%C3%BChrende-nationalratskommission-gegen-st%C3%A4ndemehr-beim-eu-paket/92402298"
+                },
+                {
+                  "name": "Weltwoche (Meinung)",
+                  "url": "https://weltwoche.ch/daily/eu-turbos-verhoehnen-volk-parlament-und-bundesrat-sp-nationalrat-eric-nussbaumer-und-die-apk-proben-den-staatsstreich/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-bern-emir-katar-staatsbesuch-empfang",
+              "slug": "bern-emir-katar-staatsbesuch-empfang",
+              "title": "Bern: Bundesrat empfängt Emir von Katar mit militärischen Ehren",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "regional",
+              "icon": "🇶🇦",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/Fgx9ibSeqrRAUp6IrTGaXV.jpg?op=ocroped&val=1200,600,1000,750,125,0&sum=Yaj3NK1N0Cs",
+              "kurz": "Bundespräsident Parmelin hat Scheich Tamim bin Hamad Al Thani auf dem Bundesplatz empfangen. Im Zentrum stehen Wirtschaft, Energie und die Konflikte am Golf.",
+              "summary": "Bundespräsident Guy Parmelin hat am Mittwoch den Emir von Katar, Scheich Tamim bin Hamad Al Thani, auf dem Berner Bundesplatz mit militärischen Ehren zu einem zweitägigen Staatsbesuch empfangen. An den Gesprächen im Bernerhof nahmen auch die Bundesräte Ignazio Cassis, Karin Keller-Sutter und Albert Rösti teil. Themen sind laut Bund die wirtschaftliche, finanzpolitische und wissenschaftliche Zusammenarbeit, die Konflikte in der Golfregion, Mediation und Energieversorgung.",
+              "gegenstimme": "Katar steht wegen der Arbeitsbedingungen von Arbeitsmigranten, fehlender Pressefreiheit und seiner Rolle als Gastgeber des Hamas-Politbüros seit Jahren in der Kritik; der Bund nennt «Arbeitsmigration» zwar als Gesprächsthema, äussert sich öffentlich aber nicht zu Menschenrechtsfragen. Befürworter verweisen darauf, dass Katar ein wichtiger Erdgaslieferant und Investor ist und als Vermittler im Nahen Osten gebraucht wird. Ob konkrete Abkommen unterzeichnet werden, hat der Bund nicht kommuniziert.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/staatsbesuch-in-bern-emir-von-katar-mit-ehren-empfangen-715325175409"
+                },
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/emir-von-katar-ist-in-bern-mit-milit%c3%a4rischen-ehren-empfangen-worden/92401932"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/staatsbesuch-sturm-schuettelt-katar-delegation-bei-landung-in-bern-durch-103669464"
+                },
+                {
+                  "name": "Bundesrat (WBF)",
+                  "url": "https://www.wbf.admin.ch/de/newnsb/UgZNBZzLlYqV"
+                },
+                {
+                  "name": "Kantonspolizei Bern",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=bee48382-073f-438d-bf61-2d87003c7e13"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-spital-thun-chefarzt-hess-freigestellt",
+              "slug": "spital-thun-chefarzt-hess-freigestellt",
+              "title": "Spital Thun stellt Orthopädie-Chefarzt nach 27 Jahren frei",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "regional",
+              "icon": "🏥",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/8dkESzgzKw79socwBhSMsy.jpg?op=ocroped&val=1200,600,1000,749,42,0&sum=3TZZqS9OfoM",
+              "kurz": "Die Spital STS AG trennt sich per sofort von Rolf Hess, Chefarzt der Orthopädie. Grund seien «unüberbrückbare Differenzen».",
+              "summary": "Die Spital Simmental-Thun-Saanenland AG (STS) hat den Chefarzt der Klinik für Orthopädie, Traumatologie und Sportmedizin, Rolf Hess, nach 27 Jahren per sofort freigestellt. Der Verwaltungsrat begründet dies mit «anhaltenden und unüberbrückbaren Differenzen» über die interdisziplinäre Zusammenarbeit, die das Vertrauen nachhaltig gestört hätten. Das Arbeitsverhältnis wird unter Einhaltung der Kündigungsfrist aufgelöst; die Klinikleitung übernimmt interimistisch der stellvertretende Chefarzt.",
+              "gegenstimme": "Eine Stellungnahme von Rolf Hess liegt bisher nicht vor; die Darstellung stammt allein vom Verwaltungsrat. Die STS hat in den letzten Jahren mehrere Führungskonflikte erlebt, was die Frage aufwirft, ob die Probleme beim Chefarzt oder in der Führungskultur der Spitalgruppe liegen. Der Verwaltungsrat selbst betont die langjährigen Verdienste von Hess und bedauert den Schritt.",
+              "sources": [
+                {
+                  "name": "swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/spital-thun-trennt-sich-nach-27-jahren-von-chefarzt/92402357"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/spital-thun-chefarzt-rolf-hess-per-sofort-freigestellt-440427823087"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-krimbruecke-destinus-ruta-schweizer-technologie",
+              "slug": "krimbruecke-destinus-ruta-schweizer-technologie",
+              "title": "Angriff auf die Krim-Brücke: Marschflugkörper mit Schweizer Wurzeln im Einsatz",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "schweiz",
+              "icon": "🚀",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/18/ebc32af0-382e-408b-a426-7363b5f93b90.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4000,2250,x0,y209&wmark=nzz",
+              "kurz": "Beim ukrainischen Angriff auf die Krim-Brücke kamen laut Hersteller sieben Ruta-Marschflugkörper der in Payerne gegründeten Firma Destinus zum Einsatz.",
+              "summary": "Die Firma Destinus gibt an, dass sieben ihrer Ruta-Marschflugkörper die Strassenbrücke über die Meerenge von Kertsch getroffen und zum Einsturz gebracht hätten. Destinus wurde 2021 im waadtländischen Payerne gegründet; die Produktion liegt heute im niederländischen Hengelo, Forschung und Entwicklung finden laut Gründer und CEO Michail Kokoritsch weiterhin in der Schweiz statt. Präsident Selenski bestätigt den Einsatz von Rutas, allerdings nur gegen die Eisenbahnbrücke.",
+              "gegenstimme": "Die Firmenangaben sind Eigenwerbung eines Rüstungsherstellers und nicht unabhängig überprüft; laut Selenski brachten ukrainische Paljanyzja-Marschflugkörper die Strassenbrücke zum Einsturz. Für die Schweiz stellt sich die Frage, wie sich Waffenentwicklung im Inland mit der Neutralität und den strengen Ausfuhrregeln verträgt; Destinus verlegte die Produktion laut 20 Minuten gerade wegen dieser Regeln ins Ausland. Aus russischer Sicht ist der Angriff ein Beleg für die direkte westliche Beteiligung am Krieg.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/hinter-dem-angriff-auf-russlands-krim-bruecke-steckt-auch-waffentechnologie-aus-der-schweiz-ld.10066989"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/ukraine-krieg-krim-bruecke-kiew-setzte-bei-angriff-auch-auf-schweizer-know-how-103669636"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-eu-ukraine-kredit-45-milliarden-schweiz",
+              "slug": "eu-ukraine-kredit-45-milliarden-schweiz",
+              "title": "EU will Ukraine weitere 45 Milliarden leihen und erwartet mehr von der Schweiz",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "politik",
+              "icon": "💶",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/18/e14f4fff-e18a-4de3-bbc3-5fa4e9576aaf.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5197,2923,x0,y177&wmark=nzz",
+              "kurz": "Die EU-Kommission schlägt ein neues Ukraine-Darlehen von bis zu 45 Milliarden Euro vor. Wohlhabende Länder wie die Schweiz sollen mehr beitragen.",
+              "summary": "EU-Kommissionspräsidentin Ursula von der Leyen hat am Mittwoch ein zusätzliches Darlehen von bis zu 45 Milliarden Euro für die Ukraine vorgeschlagen, finanziert über gemeinsame Schulden am Kapitalmarkt und abgesichert durch den EU-Haushalt. Damit sollen rund zwei Drittel einer neuen Finanzierungslücke von 70 Milliarden Euro für 2027 gedeckt werden. Den Rest sollen vor allem G-7-Staaten tragen; zudem erwartet die Kommission von Ländern mit Triple-A-Rating wie der Schweiz Garantien von 5 Milliarden Euro für die «Ukraine-Facility».",
+              "gegenstimme": "Tschechien, die Slowakei, Ungarn und Bulgarien lehnen eine Beteiligung an weiteren Ukraine-Hilfen ab; gemeinsame EU-Schulden sind zudem bei sparsamen Staaten umstritten. Die Ukraine muss das Geld erst zurückzahlen, wenn Russland Reparationen leistet, was Kritiker für unrealistisch halten. Die Schweiz ist kein EU-Mitglied und an EU-Finanzinstrumente nicht gebunden; in der Debatte dürften Neutralität und der angespannte Bundeshaushalt eine Rolle spielen. Befürworter von mehr Hilfe verweisen dagegen auf die tiefe Verschuldung der Schweiz und ihr Eigeninteresse an Sicherheit in Europa.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6afda2dcbb7e7a6679f92f64/streit-um-eu-schuldenaufnahme-bis-zu-45-milliarden-euro-von-der-leyen-praesentiert-neuen-plan-fuer-ukraine-kredit.html"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/ukraine-hilfe-die-eu-erwartet-von-der-wohlhabenden-schweiz-mehr-unterstuetzung-ld.10067645"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-usa-jeffries-nominiert-speaker",
+              "slug": "usa-jeffries-nominiert-speaker",
+              "title": "USA: Demokraten nominieren Hakeem Jeffries als Speaker des Repräsentantenhauses",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
+              "kurz": "Nach dem Sieg bei den Zwischenwahlen haben die Demokraten Hakeem Jeffries für das Amt des Speakers nominiert. Er wäre der erste Schwarze in dieser Funktion.",
+              "summary": "Die Demokraten im US-Repräsentantenhaus haben am Mittwoch in einer geschlossenen Abstimmung den New Yorker Abgeordneten Hakeem Jeffries (56) als Kandidaten für das Amt des Speakers nominiert. Nach den Zwischenwahlen halten die Demokraten laut BBC mindestens 257 Sitze, sieben Rennen sind noch offen. Die Wahl im Plenum ist am 3. Januar; Jeffries wäre der erste Schwarze an der Spitze der Kammer, die an dritter Stelle der Nachfolge des Präsidenten steht.",
+              "gegenstimme": "Die Nomination selbst ist kaum umstritten; entscheidend ist, wie die Demokraten ihre Mehrheit nutzen: für Untersuchungen gegen die Regierung oder für Kompromisse. Präsident Trump behält das Vetorecht, die Gestaltungsmacht des Hauses bleibt damit begrenzt. Viele Berichte stellen Jeffries' Hautfarbe in den Vordergrund; über sein politisches Programm als Speaker ist bisher wenig Konkretes bekannt.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-pew-studie-2035-mehr-muslime-als-christen",
+              "slug": "pew-studie-2035-mehr-muslime-als-christen",
+              "title": "Pew-Studie: Ab 2035 mehr Muslime als Christen weltweit",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "https://images.welt.de/6afdc4ffff9ae12be89e1300/bc40dea46ac28b37293b1fb4f13e3a42-master/ci16x9-w1200/528827990-jpg",
+              "kurz": "Laut einer neuen Prognose des Pew Research Center überholt der Islam um 2035 das Christentum als grösste Religion. Grund ist vor allem die Geburtenrate.",
+              "summary": "Das Washingtoner Pew Research Center erwartet in einem am Mittwoch veröffentlichten Bericht, dass es 2035 weltweit 2,57 Milliarden Muslime und 2,52 Milliarden Christen geben wird; 2020 waren es 2,02 beziehungsweise 2,27 Milliarden. Bis 2070 soll sich das Verhältnis auf 3,6 zu 3 Milliarden verschieben. Hauptgrund ist laut Pew-Demograf Conrad Hackett die höhere Geburtenrate: 3,1 Kinder pro muslimischer Frau gegenüber 2,5 bei Christinnen (2020 bis 2025); Konversionen spielen eine untergeordnete Rolle.",
+              "gegenstimme": "Prognosen über 50 Jahre beruhen auf Annahmen zu Geburtenraten, Migration und Religionswechseln, die sich stark verändern können; die Geburtenraten sinken auch in vielen muslimisch geprägten Ländern. Kritiker warnen, solche Zahlen würden politisch für Angsterzählungen benutzt, während andere gerade in Europa eine offene Debatte über Integration und kulturelle Prägung fordern, die durch Tabus erschwert werde. Religionszugehörigkeit sagt zudem wenig über die tatsächliche Religiosität aus.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/pew-research-center-2035-mehr-muslime-als-christen-947191066519"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/vermischtes/article6afdc4ffff9ae12be89e1300/prognose-islam-wird-groesste-weltreligion-studie-erwartet-mehr-muslime-als-christen-ab-2035.html"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/christentum-bald-ueberholt-islam-wird-groesste-weltreligion-ld.10065140"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-daenemark-frederiksen-bevoelkerungsaustausch",
+              "slug": "daenemark-frederiksen-bevoelkerungsaustausch",
+              "title": "Dänemark: Regierungschefin Frederiksen will keinen «grossen Bevölkerungsaustausch»",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "politik",
+              "icon": "🇩🇰",
+              "edition": "evening",
+              "kurz": "Die sozialdemokratische Premierministerin Mette Frederiksen sagt, sie wolle «ein Dänemark, das dänisch ist», und lehnt eine multikulturelle Gesellschaft ab.",
+              "summary": "Dänemarks sozialdemokratische Regierungschefin Mette Frederiksen hat im Podcast «Borgerlig Tabloid» der Zeitung B.T. gesagt, sie sei «keine Anhängerin eines grossen Bevölkerungsaustauschs» und auch nicht einer multikulturellen Gesellschaft, «in der man Kulturen gleichstellt». Sie wolle «ein Dänemark, das dänisch ist», mit einer starken Mehrheitskultur; die Dänen seien «ein ursprünglicher Stamm, der ethnisch dänisch ist». Anlass waren die am Montag vorgestellten Pläne Dänemarks und vier weiterer EU-Staaten für ein Ausreisezentrum für abgewiesene Asylsuchende in Ruanda.",
+              "gegenstimme": "Die Frankfurter Rundschau wirft Frederiksen vor, sich einer rassistischen Verschwörungserzählung der äussersten Rechten zu bedienen; Menschenrechtsorganisationen kritisieren laut Al Jazeera die Ruanda-Pläne als unmenschlich. Frederiksen selbst begründet ihre Haltung mit dem erwarteten starken Bevölkerungswachstum in Afrika und dem damit verbundenen Migrationsdruck auf Europa. B.T. verweist auf eine Prognose, wonach Einwanderer und ihre Nachkommen in Dänemark bis 2096 die Mehrheit stellen könnten.",
+              "sources": [
+                {
+                  "name": "B.T.",
+                  "url": "https://www.bt.dk/debat/mette-frederiksen-i-borgerlig-tabloid-jeg-er-ikke-tilhaenger-af-en-befolkningsudskiftning"
+                },
+                {
+                  "name": "Frankfurter Rundschau",
+                  "url": "https://www.fr.de/politik/regierungschefin-frederiksen-rechtfertigt-ruanda-plaene-mit-rassistischer-idee-von-grossem-bevoelkerungsaustausch-94596397.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans"
+                },
+                {
+                  "name": "Apollo News (Einordnung)",
+                  "url": "https://apollo-news.net/dnemarks-sozialdemokratische-regierungschefin-warnt-vor-groem-bevlkerungsaustausch/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-nvidia-stoppt-ki-chip-lieferungen-china",
+              "slug": "nvidia-stoppt-ki-chip-lieferungen-china",
+              "title": "Nvidia liefert keine KI-Chips mehr nach China",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "tech",
+              "icon": "🖥️",
+              "edition": "evening",
+              "kurz": "Nvidias Interimschefin Colette Kress hat den Lieferstopp für lizenzierte Hopper-Chips wie den H200 nach China bekanntgegeben. Eine Begründung nannte sie nicht.",
+              "summary": "Nvidia hat die Lieferung lizenzierter KI-Rechenzentrumschips der Hopper-Generation, darunter den H200, nach China eingestellt. Das sagte Interimschefin Colette Kress an der Telefonkonferenz zu den Quartalszahlen; im letzten Quartal hatte Nvidia damit in China noch 2,4 Milliarden Dollar umgesetzt, in der Prognose ist dieses Geschäft nicht mehr enthalten. Kress nannte keinen Grund und liess offen, ob der Stopp dauerhaft ist.",
+              "gegenstimme": "Laut einer von AFP zitierten Juristin ist die praktische Wirkung begrenzt, weil Peking die eigene Industrie schon seit Januar vom Kauf der H200 abhält und rund 600'000 Chips in Hongkong auf eine Einfuhrbewilligung warten. Wichtiger sei die neue US-Regel gegen Fernzugriff chinesischer Firmen auf Rechenleistung. Andere sehen im Stopp vor allem ein Signal an Washington nach der Affäre um Ex-Chef Jensen Huang, dass Nvidia die Exportregeln nun strikt einhalten will.",
+              "sources": [
+                {
+                  "name": "Spiegel (mit Reuters)",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-konzern-verkauft-keine-ki-chips-mehr-nach-china-a-e59ab63e-68d8-48c0-9f9b-5621595d27a2"
+                },
+                {
+                  "name": "AFP",
+                  "url": "https://www.afp.com/en/nvidia-says-no-longer-shipping-hopper-ai-chips-china"
+                },
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-anthropic-boersengang-donnerstag",
+              "slug": "anthropic-boersengang-donnerstag",
+              "title": "Anthropic geht am Donnerstag an die Börse, Bewertung über eine Billion Dollar",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "tech",
+              "icon": "📈",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/17/b78ad232-9d82-48e1-8177-c76060d8abe3.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6048,3402,x0,y311&wmark=nzz",
+              "kurz": "Die KI-Firma hinter Claude bietet ihre Aktien zu 70 bis 78 Dollar an. Der Börsengang gilt als Test für das Vertrauen in den KI-Boom.",
+              "summary": "Die KI-Firma Anthropic, Entwicklerin des Sprachmodells Claude, geht am Donnerstag an die US-Börse. Die Aktien werden laut BBC in einer Spanne von 70 bis 78 Dollar angeboten; das Unternehmen wird mit über einer Billion Dollar bewertet. Die sieben Gründerinnen und Gründer, die 2021 von OpenAI weggingen, wären beim oberen Preis auf dem Papier mit je mindestens 18,5 Milliarden Dollar beteiligt.",
+              "gegenstimme": "Der Zeitpunkt ist heikel: Das Vertrauen der Anleger in den teuren Ausbau von KI-Rechenzentren hat laut NZZ zuletzt gelitten, Nvidia-Aktien sind nach der Huang-Affäre eingebrochen, und die Demokraten, die die Zwischenwahlen gewonnen haben, wollen den Bau von Rechenzentren bremsen. Dass Anthropic an die Börse geht, kann auch als Zeichen gelesen werden, dass private Geldgeber den enormen Kapitalbedarf nicht mehr allein decken. Befürworter sehen dagegen einen Beleg für die rasant gewachsene Nachfrage nach KI-Diensten.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/wie-steht-es-um-das-vertrauen-in-den-ki-boom-der-ipo-von-anthropic-wird-es-zeigen-ld.10065173"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/ki-ausverkauf-schweizer-tech-aktien-verlieren-an-hoehe-345902706137"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-gaza-israel-bodenoperation-zentralgaza",
+              "slug": "gaza-israel-bodenoperation-zentralgaza",
+              "title": "Gaza: Israel startet erste Bodenoperation seit der Waffenruhe jenseits der «Gelben Linie»",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "evening",
+              "kurz": "Israelische Panzer sind im Zentrum des Gazastreifens über die Waffenstillstandslinie vorgerückt. Die Armee spricht von Hamas-Infrastruktur, Hamas von einem Bruch der Waffenruhe.",
+              "summary": "Die israelische Armee hat am Mittwoch im Zentrum des Gazastreifens eine Operation gegen nach eigenen Angaben «Terror-Infrastruktur» der Hamas im Gebiet der «Gelben Linie» begonnen; Panzer rückten auf die Salah-al-Din-Strasse vor. Die israelische Behörde Cogat forderte die Bewohner von drei Häuserblöcken bei Bureij und Nuseirat auf, das Gebiet zu verlassen. Laut übereinstimmenden Berichten ist es die erste Bodenoperation seit Beginn der Waffenruhe im Oktober 2025; Spitäler melden mindestens drei Tote durch israelische Angriffe am selben Tag.",
+              "gegenstimme": "Hamas nennt die Operation einen «eklatanten Bruch» der Waffenruhe und die Evakuierungsbefehle ein Kriegsverbrechen. Israel hält dagegen, es behalte sich vor, «jede unmittelbare Bedrohung» im Gazastreifen zu beseitigen; die Hamas hat sich entgegen dem Abkommen bisher nicht entwaffnet. Unabhängige Angaben zur Art der Bedrohung oder zu den Opfern gibt es nicht.",
+              "sources": [
+                {
+                  "name": "Times of Israel (französisch)",
+                  "url": "https://fr.timesofisrael.com/tsahal-lance-une-operation-exceptionnelle-au-dela-de-la-ligne-jaune-dans-le-centre-de-gaza/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza"
+                },
+                {
+                  "name": "NBC News (mit Reuters)",
+                  "url": "https://www.nbcnews.com/world/gaza/israel-tanks-gaza-ground-operation-ceasefire-hamas-rcna609979"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-jemen-saudische-koalition-angriffe-huthi",
+              "slug": "jemen-saudische-koalition-angriffe-huthi",
+              "title": "Jemen: Saudische Koalition greift 60 Huthi-Ziele an, Huthi rücken weiter auf Aden vor",
+              "date": "2026-11-18",
+              "time": "17:04",
+              "category": "international",
+              "icon": "🇾🇪",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/14446764-1794892803.jpg?resize=1643%2C1080&quality=80",
+              "kurz": "Nach Angaben der saudisch geführten Koalition wurden 60 militärische Ziele der Huthi getroffen. Laut SRF gab es mindestens 17 Tote.",
+              "summary": "Die saudisch geführte Koalition hat nach eigenen Angaben am Dienstag in den Provinzen Sanaa, Hodeida, Amran und Saada 60 militärische Ziele der Huthi-Miliz angegriffen, darunter Tunnel, die als Werkstätten und Lager für ballistische Raketen dienten. SRF berichtet von mindestens 17 Toten. Die Huthi rücken gleichzeitig auf die Hafenstadt Aden vor, den Sitz der international anerkannten Regierung, und feuerten am Mittwoch laut Koalition zwei Marschflugkörper Richtung Riad ab.",
+              "gegenstimme": "Die Huthi sagen, sie hätten Ölpumpstationen bei Riad und eine Radaranlage im Süden Saudi-Arabiens angegriffen, und sehen sich im Krieg gegen eine ausländische Intervention. Behörden in Taiz werfen ihnen dagegen vor, Wohnquartiere zu beschiessen, Dörfer zu belagern und Medikamentenlieferungen zu blockieren. Angaben beider Seiten zu Zielen und Opfern sind kaum unabhängig überprüfbar.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-mindestens-17-tote-nach-saudischem-angriff-auf-huthi-gebiete"
                 }
               ]
             }
