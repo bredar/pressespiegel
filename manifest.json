@@ -1,6 +1,375 @@
 {
-  "updated": "2026-11-17T17:09:43+01:00",
+  "updated": "2026-11-18T06:10:54+01:00",
   "days": [
+    {
+      "date": "2026-11-18",
+      "editions": {
+        "morning": {
+          "time": "06:10",
+          "articles": [
+            {
+              "id": "2026-11-18-abstimmungsumfragen-29-november-srg-tamedia",
+              "slug": "abstimmungsumfragen-29-november-srg-tamedia",
+              "title": "Zweite Umfragen zum 29. November: Nein-Trend bei AHV-Mehrwertsteuer und Mitte-Initiative",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/913685.jpg",
+              "kurz": "Laut den zweiten Umfragen von GFS Bern und Leewas drohen der Mehrwertsteuer für die 13. AHV-Rente und der Mitte-Initiative ein Nein, die Feuerwerksinitiative liegt klar vorne.",
+              "summary": "Elf Tage vor der Abstimmung vom 29. November zeigen zwei Umfragewellen ähnliche Trends: Die Mehrwertsteuererhöhung zur Finanzierung der 13. AHV-Rente käme bei GFS Bern (SRG) auf 51 Prozent Nein, bei Leewas (Tamedia/20 Minuten) auf 57 Prozent Nein. Die Feuerwerksinitiative erreicht 63 beziehungsweise 62 Prozent Ja, die Fairness-Initiative der Mitte gegen die Heiratsstrafe kippt ins Nein (Leewas: 59 Prozent Nein). Beim Kriegsmaterialgesetz zeichnet sich ein Patt ab.",
+              "gegenstimme": "Umfragen sind Momentaufnahmen mit statistischem Fehlerbereich; die SRG-Befragung bildet den Stand von Anfang November ab. Bei der AHV-Vorlage holt das Ja-Lager laut Leewas auf (von 36 auf 41 Prozent), und die über 65-Jährigen sind gespalten. Befürworter der Mehrwertsteuer warnen, ohne Zusatzfinanzierung drohten Kürzungen; Gegner aus FDP und SVP halten das für Angstmacherei. Die Feuerwerksinitiative könnte laut GFS Bern vor allem deshalb vorne liegen, weil keine starke Nein-Kampagne geführt wird.",
+              "sources": [
+                {
+                  "name": "SRF (2. SRG-Umfrage, GFS Bern)",
+                  "url": "https://www.srf.ch/news/schweiz/2-srg-umfrage-auf-einen-blick-dem-bund-drohen-mindestens-zwei-niederlagen"
+                },
+                {
+                  "name": "Tages-Anzeiger (Tamedia-Umfrage)",
+                  "url": "https://www.tagesanzeiger.ch/abstimmung-29-november-hoehere-mehrwertsteuer-hat-es-schwer-913543433931"
+                },
+                {
+                  "name": "20 Minuten (Leewas)",
+                  "url": "https://www.20min.ch/story/abstimmungsumfrage-feuerwerksverbot-vorn-mehrwertsteuer-erhoehung-unter-druck-103669037"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-haushaltsbudget-2024-wohnkosten-bfs",
+              "slug": "haushaltsbudget-2024-wohnkosten-bfs",
+              "title": "Haushaltsbudget 2024: Wohnkosten steigen auf 1546 Franken im Monat, verfügbares Einkommen stagniert",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "wirtschaft",
+              "icon": "🏠",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/10/30/a4f45e5a-cb39-4953-b679-20783e875abf.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1635,920,x166,y72&wmark=nzz",
+              "kurz": "Neue BFS-Zahlen: Schweizer Haushalte gaben 2024 deutlich mehr fürs Wohnen aus, sparen im Durchschnitt aber weiterhin rund 15 Prozent ihres Einkommens.",
+              "summary": "Die Wohnkosten der Schweizer Haushalte stiegen von 2023 auf 2024 von durchschnittlich 1449 auf 1546 Franken pro Monat, wie die am Dienstag veröffentlichte Haushaltsbudgeterhebung des Bundesamts für Statistik zeigt. Wohnen und Energie beanspruchten 14,8 Prozent des Bruttoeinkommens (Vorjahr 14 Prozent). Das verfügbare Einkommen blieb mit 7209 Franken (Vorjahr 7186) praktisch gleich.",
+              "gegenstimme": "Die NZZ liest aus denselben Zahlen, dass es keine «Krise der Erschwinglichkeit» gebe: Der Mittelstand könne weiterhin sparen, im Schnitt 1578 Franken oder 15,1 Prozent des Einkommens pro Monat. Linke Parteien und neuerdings auch die FDP sehen die Kaufkraft dagegen unter Druck. Beide Lesarten stützen sich auf Durchschnittswerte; für tiefe Einkommen ist das Bild deutlich schlechter.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/haushaltsbudget-erhebung-wohnkosten-in-der-schweiz-sind-2024-stark-angestiegen"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/wohnen-krankenkasse-essen-in-der-schweiz-ist-das-leben-teurer-geworden-aber-die-haushalte-verkraften-es-ld.10066217"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-e-id-initiative-digital-ja-aber-frei",
+              "slug": "e-id-initiative-digital-ja-aber-frei",
+              "title": "E-ID-Gegner lancieren Volksinitiative für Freiwilligkeit in der Verfassung",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "schweiz",
+              "icon": "🪪",
+              "edition": "morning",
+              "image": "https://media.20min.ch/6/image/2025/08/21/bdc257c1-48f5-4a4e-af73-7282c301c3bd.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C4000%2C2667&s=437057e1d71a8e6ff24dd7507016298f",
+              "kurz": "Die Initiative «Digital ja, aber frei!» will verbieten, dass digitale Angebote nur noch mit E-ID zugänglich sind. Das Komitee hat bis Mai 2028 Zeit für 100'000 Unterschriften.",
+              "summary": "Ein Komitee um Richard Koller (Bätterkinden BE) und Roland Bühlmann hat am Dienstag in Bern die Volksinitiative «Digital ja, aber frei!» lanciert; der Text wurde gleichentags im Bundesblatt publiziert. Sie verlangt einen neuen Verfassungsartikel 13a: Niemand ohne E-ID darf benachteiligt werden, Anbieter müssen immer einen Zugang ohne E-ID bieten, und staatliche Wallets dürfen nur Identitätsnachweise verwalten. Die Sammelfrist läuft bis 17. Mai 2028.",
+              "gegenstimme": "Bundesrat und Befürworter verweisen darauf, dass die E-ID bereits heute freiwillig ist; laut Abstimmungsbüchlein müsste für ein Obligatorium das Gesetz geändert werden, wogegen das Referendum möglich wäre. Eine Verfassungsbestimmung, die «weder durch Gesetz noch durch Verordnung» eingeschränkt werden darf, würde zudem den Spielraum des Gesetzgebers stark binden. Die Initianten halten entgegen, Zusagen des Staates seien nur etwas wert, wenn sie schriftlich und dauerhaft festgehalten seien.",
+              "sources": [
+                {
+                  "name": "Fedlex (Bundesblatt, Vorprüfung)",
+                  "url": "https://www.fedlex.admin.ch/eli/fga/2026/3001/de"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/verfassungsartikel-soll-die-freiwilligkeit-der-e-id-absichern/92394367"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/e-id-gegner-lancieren-volksinitiative-fuer-freiwilligkeit-in-der-verfassung-103669039"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/der-vater-der-bargeldinitiative-kaempft-nun-gegen-den-glaesernen-buerger-ld.10066091"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-nvidia-quartal-huang-keine-rueckkehr",
+              "slug": "nvidia-quartal-huang-keine-rueckkehr",
+              "title": "Nvidia verdoppelt Umsatz auf 115,8 Milliarden Dollar und schliesst Rückkehr von Huang aus",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "tech",
+              "icon": "💹",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+              "kurz": "Erste Zahlen nach dem Abgang von Jensen Huang: Nvidia übertrifft die Erwartungen deutlich, der Verwaltungsrat will den Gründer nicht zurückholen.",
+              "summary": "Nvidia hat im dritten Geschäftsquartal (bis 25. Oktober) den Umsatz im Jahresvergleich auf 115,8 Milliarden Dollar verdoppelt, Analysten hatten rund 109 Milliarden erwartet; der Gewinn stieg auf 65,3 Milliarden Dollar. Verwaltungsratspräsident Harvey Jones sagte am Dienstag, man beabsichtige nicht, Jensen Huang wieder einzusetzen. Huang war vergangene Woche nach Berichten über aussereheliche Affären, darunter eine mit einer mutmasslichen chinesischen Spionin, zurückgetreten.",
+              "gegenstimme": "Huang hatte wenige Stunden vor den Zahlen erklärt, er wäre «geehrt», zurückzukehren; laut 20 Minuten forderten auch Elon Musk und rund 150'000 Unterzeichner seine Rückkehr. Kritiker sehen ein Risiko im Geschäftsmodell: Nvidia stützt mit Garantien und Kapital KI-Start-ups, die das Geld wieder in Nvidia-Chips stecken. Apollo-Chef Marc Rowan warnte, ohne Nvidia hätten viele «Neocloud»-Anbieter keinen Kapitalzugang mehr.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/chipentwickler-nvidia-verdoppelt-umsatz-mitten-im-spionageskandal-103669344"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-usa-pannenserie-nsa-apple-faa-kein-cyberangriff",
+              "slug": "usa-pannenserie-nsa-apple-faa-kein-cyberangriff",
+              "title": "Pannenserie in den USA: NSA-Netz und Apple-Dienste gestört, Behörden schliessen Cyberangriffe aus",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "tech",
+              "icon": "🖥️",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/3/2/6/Apple_Gold_Fahne-9a5788c3e658a1a6.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Nach dem Flugchaos vom Freitag fielen am Dienstag das interne Netz der NSA und weltweit Apple-Dienste aus. Offizielle Stellen sprechen von Updates und Wartung.",
+              "summary": "Am Dienstag fiel das interne Kommunikationsnetz «NSA Net» des US-Geheimdienstes NSA aus; die NSA bestätigte eine «zeitweise Herabstufung während geplanter Routinewartung». Gleichentags waren weltweit iCloud, Apple Pay und weitere Apple-Dienste gestört, auch in der Schweiz; Apple nennt ein internes Software-Update als Ursache. US-Geheimdienstkoordinator Jay Clayton schloss zudem einen Cyberangriff als Ursache des landesweiten Flugstopps vom Freitag aus.",
+              "gegenstimme": "Die zeitliche Häufung (FAA, NSA, Apple, United Airlines) nährt Spekulationen über einen Zusammenhang oder Sabotage. Belege dafür gibt es nicht; Apple schliesst einen Angriff ausdrücklich aus, das Weisse Haus sieht keine Hinweise. Heimatschutzminister Markwayne Mullin hatte am Freitag betont, ausschliessen könne man zu diesem Zeitpunkt nichts.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Ausfaelle-bei-der-NSA-Apple-und-United-Airlines-11528545.html"
+                },
+                {
+                  "name": "Der Bund / dpa",
+                  "url": "https://www.derbund.ch/flugchaos-usa-kein-cyberangriff-hinter-faa-ausfall-243378766035"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/icloud-und-app-store-apple-dienste-kaempfen-mit-problemen-103669302"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-java4shell-sicherheitsluecke-openjdk",
+              "slug": "java4shell-sicherheitsluecke-openjdk",
+              "title": "«Java4Shell»: Kritische Lücke in Java, Oracle liefert Patches",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "tech",
+              "icon": "☕",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/3/0/3/java-c66fe0ed81784717.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Eine Speicherlücke im Base64-Decoder von Java erlaubt unter Umständen Codeausführung aus der Ferne. Admins sollten die Updates vom 17. November einspielen.",
+              "summary": "Oracle und das OpenJDK-Projekt haben am Dienstag zehn Java-Lücken geschlossen, darunter CVE-2026-114938, genannt «Java4Shell». Der Fehler im hardwarebeschleunigten Base64-Decoder kann laut Entdecker Calif Angreifern ohne Anmeldung Codeausführung erlauben; betroffen sind OpenJDK 17.0.6 und neuer sowie die Versionen 21, 25 und 27. Oracle bewertet die Lücke mit CVSS 8.1, Calif mit 9.2.",
+              "gegenstimme": "Die Gefahr ist begrenzter, als der Name nahelegt: Laut Calif ist nur Java auf x86-64-Prozessoren mit AVX-512-VBMI betroffen (etwa neuere Intel-Xeon und AMD ab Zen 4), ARM-Systeme nicht. Oracle stuft die Angriffskomplexität als hoch ein, und eine Ausnutzung setzt voraus, dass eine Anwendung ungeprüfte Daten an die betroffenen Funktionen weitergibt. Ausnutzung in freier Wildbahn war bis Dienstag nicht bekannt.",
+              "sources": [
+                {
+                  "name": "OpenJDK Vulnerability Advisory",
+                  "url": "https://openjdk.org/groups/vulnerability/advisories/2026-11-17"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html"
+                },
+                {
+                  "name": "Tenable",
+                  "url": "https://www.tenable.com/blog/java4shell-cve-2026-114938-frequently-asked-questions-about-openjdk-rce-vulnerability"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-iran-usa-qeschm-bahrain-kuwait",
+              "slug": "iran-usa-qeschm-bahrain-kuwait",
+              "title": "Golf: USA greifen iranische Insel Qeschm an, Iran feuert auf Bahrain und Kuwait",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcc965-1794951525.jpg?resize=1200%2C630",
+              "kurz": "Nach dem iranischen Drohnenangriff auf ein US-Radar in Bahrain haben US-Kampfjets eine Raketenstellung auf Qeschm bombardiert. In der Nacht meldeten Bahrain und Kuwait neue Angriffe.",
+              "summary": "US-Kampfflugzeuge haben am Dienstag eine Raketenabschussstellung der Revolutionsgarden auf der Insel Qeschm in der Strasse von Hormus angegriffen, nach US-Angaben «in Selbstverteidigung». Zuvor hatte Iran erklärt, eine US-Radaranlage auf der Luftwaffenbasis Sheikh Isa in Bahrain mit Drohnen angegriffen zu haben. In der Nacht meldeten Bahrain und Kuwait das Abfangen weiterer Angriffe; Teheran erklärte, eine US-Basis in Kuwait ins Visier genommen zu haben.",
+              "gegenstimme": "Iran spricht von US-Aggression; der Vizegouverneur der Provinz Hormozgan sagte, der Angriff auf Qeschm habe keine Wohn-, Geschäfts- oder Infrastrukturgebiete getroffen. Bahrain wirft Iran «kriminelle» Angriffe vor. Washington begründet den Schlag mit dem Schutz von US-Personal; US-Aussenminister Rubio sieht nach Berichten über einen möglichen iranischen Anschlagsplan mit einer «schmutzigen Bombe» keine unmittelbare Gefahr für Washington.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+                },
+                {
+                  "name": "Al Jazeera (Liveblog)",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/us-carries-out-self-defense-strike-irgc-missile-launch-site-qeshm-island"
+                },
+                {
+                  "name": "The Times of Israel",
+                  "url": "https://www.timesofisrael.com/us-strikes-irans-qeshm-island-after-tehran-attacks-american-radar-site-in-bahrain/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-ukraine-usa-kritik-angriffe-pistorius-witkoff-berlin",
+              "slug": "ukraine-usa-kritik-angriffe-pistorius-witkoff-berlin",
+              "title": "USA kritisieren ukrainische Tiefenschläge, Pistorius nennt das «ziemlich dumm»",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/8d26065e-8c5a-4733-94a5-aa434470a50f/AAABoetiVP4/AAABnSSvrFg/16x9-big/pistorius-nato-102.jpg?width=1280",
+              "kurz": "Nach dem Angriff auf die Krim-Brücke stellt Washington Kiews Zielwahl in Frage, Berlin widerspricht. Am Donnerstag kommen Witkoff und Kushner zu Ukraine-Gesprächen nach Berlin.",
+              "summary": "Der US-Staatssekretär für Verteidigungspolitik Elbridge Colby sagte am Dienstag am Nato-Hauptquartier in Brüssel, «spektakuläre» ukrainische Angriffe weit hinter der Front hätten weder den Krieg verkürzt noch den russischen Vormarsch gebremst. Der deutsche Verteidigungsminister Boris Pistorius nannte diese Kritik «ziemlich dumm». Am Donnerstag treffen Trumps Gesandte Steve Witkoff und Jared Kushner in Berlin Vertreter der Ukraine und das neue europäische Verhandlungsteam.",
+              "gegenstimme": "Colby argumentiert, solche Angriffe stärkten eher die Entschlossenheit der russischen Bevölkerung und die Eskalationsbereitschaft des Kremls, besonders Schläge auf zivile Ziele wie den Onlinehändler Wildberries. Die Europäer halten dagegen, Angriffe auf militärisch genutzte Ziele wie die Krim-Brücke seien legitime Selbstverteidigung; laut SRF hält auch der Nato-Generalsekretär den Schlag für legitim. Pistorius verlangt, stattdessen über Russlands Angriffe auf Energie-, Wasser- und Heizungsinfrastruktur der Ukraine zu reden, die er «eine Form von Terrorismus» nennt.",
+              "sources": [
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukraine-krieg-usa-kritisieren-ukrainische-angriffe-im-inneren-russlands-a-fc373566-240e-4b4f-bf86-dfa5f1ad41d0"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6afca2a0990a16da8175c5d2/ukraine-krieg-witkoff-und-kushner-kommen-nach-berlin-trump-trifft-am-selben-tag-putin-und-xi.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-alaska-peltola-senatssitz-demokraten-56",
+              "slug": "alaska-peltola-senatssitz-demokraten-56",
+              "title": "Alaska: Demokratin Mary Peltola gewinnt Senatssitz, Demokraten halten 56 von 100 Sitzen",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=1920%2C1440",
+              "kurz": "Mit dem letzten entschiedenen Senatsrennen bauen die Demokraten ihre Mehrheit aus. Peltola schlägt den Republikaner Dan Sullivan.",
+              "summary": "Die Demokratin Mary Peltola hat in Alaska den republikanischen Amtsinhaber Dan Sullivan geschlagen; die Nachrichtenagentur AP erklärte sie am Dienstagabend (Ortszeit) zur Siegerin. Damit sind zwei Wochen nach den Zwischenwahlen vom 3. November alle Senatsrennen entschieden, die Demokraten kommen auf 56 der 100 Sitze. Peltola ist die erste Alaska Native im US-Senat.",
+              "gegenstimme": "Das Rennen war von einem Streit überschattet: Eine Untersuchung warf Peltolas Umfeld vor, einen zweiten Kandidaten namens Dan Sullivan angeworben zu haben, um dem Amtsinhaber Stimmen abzuziehen. Das Justizministerium klagte darauf, um das Ergebnis bei einer Niederlage Sullivans nicht zertifizieren zu lassen. Al Jazeera rechnet mit juristischen Anfechtungen. Sullivan hatte zugesagt, das Resultat anzuerkennen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera / AP",
+                  "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/mary-peltola-demokratin-nimmt-republikanern-senatssitz-in-alaska-ab"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-italien-antisemitismus-gesetz-ihra",
+              "slug": "italien-antisemitismus-gesetz-ihra",
+              "title": "Italien beschliesst Gesetz gegen Antisemitismus mit IHRA-Definition",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "politik",
+              "icon": "🇮🇹",
+              "edition": "morning",
+              "image": "https://images.welt.de/6afce9efa883f861e532feae/bc167627a5ec86b8339a52d2fcb79bf1-master/ci16x9-w1200/gyi-2305385687-jpg",
+              "kurz": "Die Abgeordnetenkammer in Rom hat das Gesetz der Regierung Meloni endgültig verabschiedet. Streitpunkt ist, wie weit Kritik an Israel erfasst wird.",
+              "summary": "Die italienische Abgeordnetenkammer hat am Dienstag mit 147 zu 93 Stimmen bei fünf Enthaltungen ein Gesetz gegen Antisemitismus verabschiedet; der Senat hatte bereits im März zugestimmt. Kern ist die Übernahme der Arbeitsdefinition der International Holocaust Remembrance Alliance (IHRA). Neue Straftatbestände oder Strafen enthält das Gesetz nicht.",
+              "gegenstimme": "Amnesty International Italien, der sozialdemokratische PD und die Fünf-Sterne-Bewegung lehnen die IHRA-Definition ab, weil einige ihrer Beispiele legitime Kritik an Israels Politik, etwa im Gazakrieg, einschränken könnten; sie bevorzugen teils die Jerusalemer Erklärung von 2021. Die Regierung und der Verband der jüdischen Gemeinden UCEI halten dagegen: Das Gesetz taste die Meinungsfreiheit nicht an, und die IHRA-Definition hält ausdrücklich fest, dass mit anderen Staaten vergleichbare Kritik an Israel nicht antisemitisch ist.",
+              "sources": [
+                {
+                  "name": "Der Bund / dpa",
+                  "url": "https://www.derbund.ch/italien-verschaerft-kampf-gegen-antisemitismus-mit-neuem-gesetz-459014017246"
+                },
+                {
+                  "name": "Ynetnews / Reuters",
+                  "url": "https://www.ynetnews.com/jewish-world/article/bj2wqe5afl"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6afce9efa883f861e532feae/rom-italien-verschaerft-kampf-gegen-antisemitismus-mit-neuem-gesetz.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-daenemark-terroranklage-brandanschlag-juedin",
+              "slug": "daenemark-terroranklage-brandanschlag-juedin",
+              "title": "Dänemark: Terroranklage nach Brandanschlag auf Wohnung einer Jüdin",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "morning",
+              "kurz": "Ein junger Mann soll 2024 in Kopenhagen gezielt Feuer bei einer jüdischen Frau gelegt haben. Die Anklage wertet das als Terror, der Prozess beginnt am Montag.",
+              "summary": "Die Staatsanwaltschaft in Kopenhagen klagt einen Mann wegen Terrorismus an, der in der Nacht auf den 29. Mai 2024 zusammen mit unbekannten Mittätern ein Haus in Brand gesetzt haben soll, in dem eine jüdische Frau wohnte. Die Täter sollen zuvor mehrere Adressen jüdischer Bewohner ausgekundschaftet haben; das Feuer griff vom Balkon auf das Schlafzimmer über, die Frau konnte sich retten. Die Anklage fordert Haft, die Aberkennung der dänischen Staatsbürgerschaft und die Ausweisung.",
+              "gegenstimme": "Laut seinem Verteidiger gibt der Angeklagte zu, das Feuer gelegt zu haben, bestreitet aber einen terroristischen Hintergrund. Für ihn gilt bis zum Urteil die Unschuldsvermutung; über die Einstufung als Terror entscheidet das Gericht.",
+              "sources": [
+                {
+                  "name": "The Times of Israel / AFP",
+                  "url": "https://www.timesofisrael.com/danish-man-to-face-terror-charges-over-2024-arson-attack-on-jewish-womans-home/"
+                },
+                {
+                  "name": "TV4 / TT",
+                  "url": "https://www.tv4.se/artikel/tt-261117-danmarkterroratal1-dcbeada3/tande-eld-hos-judisk-kvinna-atalas-for-terror"
+                },
+                {
+                  "name": "PET (Mitteilung 2024)",
+                  "url": "https://pet.dk/en/about-pet/news-list/person-charged-with-terrorism-in-connection-with-arson-attack-in-copenhagen/2024/09/25"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-russland-an-12-absturz-kemerowo-19-tote",
+              "slug": "russland-an-12-absturz-kemerowo-19-tote",
+              "title": "Russisches Militärflugzeug stürzt in Sibirien ab, 19 Tote",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "international",
+              "icon": "✈️",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
+              "kurz": "Eine Antonow An-12 ist in der Region Kemerowo verunglückt. Alle Insassen kamen ums Leben, das Verteidigungsministerium vermutet einen technischen Defekt.",
+              "summary": "Ein Transportflugzeug vom Typ An-12 der russischen Streitkräfte ist am Dienstag in einem unbewohnten Gebiet nahe dem Dorf Jagunowo in der sibirischen Region Kemerowo abgestürzt. Alle 19 Menschen an Bord kamen ums Leben, wie das Verteidigungsministerium laut Staatsmedien mitteilte. Vorläufig geht das Ministerium von einem technischen Defekt während eines «planmässigen Flugs» aus.",
+              "gegenstimme": "Die Angaben stammen ausschliesslich von russischen Behörden und Staatsmedien; unabhängige Informationen zu Flugzweck, Insassen und Ursache gibt es nicht. Hinweise auf Fremdeinwirkung wurden nicht gemeldet, von ukrainischer Seite gibt es keine Bekennung.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-usa-verlieren-status-masernfrei",
+              "slug": "usa-verlieren-status-masernfrei",
+              "title": "USA verlieren nach 26 Jahren den Status als masernfreies Land",
+              "date": "2026-11-18",
+              "time": "06:10",
+              "category": "international",
+              "icon": "🦠",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/aba665.jpg",
+              "kurz": "Die Panamerikanische Gesundheitsorganisation erkennt den USA, Mexiko und Bolivien den Status ab. Das Virus zirkuliert seit über einem Jahr ununterbrochen.",
+              "summary": "Die Panamerikanische Gesundheitsorganisation (PAHO) hat den USA am Dienstag den Status als masernfreies Land aberkannt, den sie seit 2000 hatten; auch Mexiko und Bolivien verlieren ihn. Begründung: Derselbe Virusstamm wird seit mindestens einem Jahr ununterbrochen im Land übertragen. Die CDC zählt in diesem Jahr rund 5400 Infektionen, mehr als doppelt so viele wie im ganzen Vorjahr.",
+              "gegenstimme": "Die US-Gesundheitsbehörde CDC betont, nicht der Status schütze die Bevölkerung, sondern die Impfung, und will ihn zurückgewinnen; CDC-Chefin Erica Schwartz machte eng vernetzte Gemeinschaften wie die Amish mit traditionell tiefen Impfquoten für die Ausbrüche verantwortlich. Kritiker verweisen dagegen auf die impfskeptische Haltung von Gesundheitsminister Robert F. Kennedy Jr.; laut Spiegel weichen die CDC-Zahlen wegen einer methodischen Änderung unter Kennedy von jenen der Bundesstaaten ab.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/usa/anhaltende-masernausbrueche-usa-erstmals-seit-mehr-als-25-jahren-nicht-mehr-masernfrei"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/wissenschaft/medizin/masern-usa-verlieren-nach-26-jahren-ihren-status-als-masernfreies-land-a-03c5b292-0ced-4318-922d-b234797f5947"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-17",
       "editions": {
