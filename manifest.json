@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T06:10:54+01:00",
+  "updated": "2026-11-18T12:10:55+01:00",
   "days": [
     {
       "date": "2026-11-18",
@@ -363,6 +363,393 @@
                 {
                   "name": "Spiegel",
                   "url": "https://www.spiegel.de/wissenschaft/medizin/masern-usa-verlieren-nach-26-jahren-ihren-status-als-masernfreies-land-a-03c5b292-0ced-4318-922d-b234797f5947"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:10",
+          "articles": [
+            {
+              "id": "2026-11-18-apec-shenzhen-xi-empfaengt-trump-putin",
+              "slug": "apec-shenzhen-xi-empfaengt-trump-putin",
+              "title": "Apec-Gipfel in Shenzhen: Xi empfängt Trump persönlich, Putin spricht von Europas «Niedergang»",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/18/b64f3efa-27ab-4fd0-95b6-cb4d72f5a9ad.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y313&wmark=nzz",
+              "kurz": "Xi Jinping hat Donald Trump am Flughafen Shenzhen mit einer Umarmung empfangen. Putin nutzte die Apec-Bühne für eine Abrechnung mit dem Westen; am Donnerstag folgt der Dreiergipfel.",
+              "summary": "US-Präsident Donald Trump ist am Mittwoch um 10 Uhr Schweizer Zeit in Shenzhen gelandet, wo ihn Chinas Staatschef Xi Jinping persönlich am Flughafen begrüsste und umarmte. Zuvor hatten Xi und Wladimir Putin am Rande des Apec-Gipfels Einigkeit demonstriert: Xi sagte, China und Russland sollten den Trend zu einer «multipolaren Welt» anführen, Putin bezeichnete westliche Mächte als «ehemalige Hegemonen» und sprach von Europas «demütigendem Niedergang». Für Donnerstag ist ein Dreiertreffen Trump–Xi–Putin angesetzt, unter anderem zu nuklearer Abrüstung und KI.",
+              "gegenstimme": "Dass Xi und Putin ihre Nähe zelebrieren, sagt wenig über die tatsächlichen Kräfteverhältnisse: Russland ist wirtschaftlich stark von China abhängig, das sein grösster Handelspartner ist. Westliche Beobachter erwarten vom Gipfel laut Al Jazeera keine Durchbrüche im amerikanisch-chinesischen Verhältnis. Aus europäischer Sicht ist heikel, dass über Rüstungskontrolle und indirekt über die Ukraine ohne europäische Beteiligung gesprochen wird; Putins Aussagen über Europas «Niedergang» sind Propaganda und keine überprüfbare Tatsachenbehauptung.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/apec-gipfel-in-china-xi-begruesst-trump-mit-einer-umarmung-ld.10067471"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-svp-findungskommission-alle-acht-waehlbar",
+              "slug": "svp-findungskommission-alle-acht-waehlbar",
+              "title": "Parmelin-Nachfolge: SVP-Findungskommission erklärt alle acht Kandidierenden für wählbar",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/11/16/46dff0c0-4512-4932-a984-1fdc9e229470.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C4240%2C2832&s=fc85c277807470c043747cf52f54395a",
+              "kurz": "Die SVP-Findungskommission unter Caspar Baader hat bei keinem der acht Bundesratskandidierenden «Leichen im Keller» gefunden. Das Ticket bestimmt die Fraktion am Freitag.",
+              "summary": "Die Findungskommission der SVP unter alt Fraktionschef Caspar Baader empfiehlt der Fraktion alle acht Kandidierenden für die Nachfolge von Bundespräsident Guy Parmelin. Sie fand laut «Schweiz heute» und 20 Minuten bei niemandem «Leichen im Keller» wie Finanzprobleme oder Strafverfahren und gibt keine Ticket-Empfehlung ab. Im Rennen sind Thomas Aeschi, Pierre Alain Schnegg, Jean-Pierre Gallati, Franz Ruppen, Michael Graber, Rémy Wyssmann, Céline Amaudruz und Marco Chiesa; die Fraktion legt das Ticket am Freitag fest, gewählt wird am 9. Dezember.",
+              "gegenstimme": "Kritiker sehen im Verzicht auf eine Empfehlung eine verpasste Steuerung: Die Kommission schiebe den Entscheid und damit auch interne Konflikte ganz der Fraktion zu. Um die einzige Frau, die Genferin Céline Amaudruz, tobt seit Wochen ein Streit; sie spricht von einer koordinierten «Zerstörungskampagne» aus der Deutschschweiz, Parteikoordinator Kevin Grangier sieht darin keine Strategie, sondern eine chaotische Lage. Bei SP und Grünen ist der Widerstand gegen den Favoriten Aeschi gross, was die Wahl im Parlament offen macht.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/parmelin-nachfolge-findungskommission-schlaegt-alle-8-kandidierenden-zur-wahl-vor-103669513"
+                },
+                {
+                  "name": "Schweiz heute (CH Media)",
+                  "url": "https://www.schweizheute.ch/schweiz/svp-findungskommission-erklaert-alle-kandidaten-fuer-waehlbar-ld.4269364"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/bundesratswahl-2026-parmelin-nachfolge-srf-schaetzt-alle-moeglichen-svp-tickets-ein"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/die-svp-und-ihre-findungskommission-ein-svp-all-star-team-durchleuchtet-die-acht-bundesratskandidaten-ld.10066340"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-bls-boni-guillelmon-nicht-zurueckforderbar",
+              "slug": "bls-boni-guillelmon-nicht-zurueckforderbar",
+              "title": "BLS-Subventionsaffäre: Ex-Chef erhielt nach Abgang fast 185'000 Franken Boni, Rückforderung nicht möglich",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "regional",
+              "icon": "🚆",
+              "edition": "midday",
+              "kurz": "Die BLS zahlte Ex-CEO Bernard Guillelmon nach seinem Rücktritt noch fast 185'000 Franken Boni. Zurückfordern könne sie diese nicht, sagt die Bahn; Regierungsrat Neuhaus will das nicht hinnehmen.",
+              "summary": "Der frühere BLS-Chef Bernard Guillelmon hat nach seinem Rücktritt im September 2020 noch Boni von insgesamt fast 185'000 Franken erhalten, auch für das Krisenjahr 2020; laut einem internen Dokument, über das die Tamedia-Zeitungen berichten, wurden die Zahlungen nicht offengelegt. Die BLS erklärte am Mittwoch, eine Prüfung habe ergeben, dass sie vertraglich zugesicherte variable Vergütungen weder zurückhalten noch zurückfordern könne. Der Berner Regierungsrat Christoph Neuhaus hatte die Rückzahlung verlangt.",
+              "gegenstimme": "Die BLS verweist auf die Rechtslage: Die Verträge seien gültig, eine Rückforderung habe keine Grundlage. Zudem habe sie die Praxis geändert, Boni gekürzt und Finanzziele als Bonuskriterium abgeschafft, weil diese falsche Anreize schaffen könnten. Für Neuhaus und den Präsidenten der grossrätlichen Verkehrskommission, Daniel Klauser, verletzt das hingegen das Gerechtigkeitsempfinden, weil die Boni zumindest teilweise auf Gewinnen beruhten, die nur dank zu viel bezogener Subventionen entstanden.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/trotz-bls-subventionsaffaere-weshalb-die-bls-manager-ihre-boni-behalten-koennen"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/bls-chef-guillelmon-185000-franken-bonus-nach-abgang-434631382071"
+                },
+                {
+                  "name": "Beloud",
+                  "url": "https://www.beloud.com/news/147913091"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-bern-grosser-rat-wintersession-budget-sparen",
+              "slug": "bern-grosser-rat-wintersession-budget-sparen",
+              "title": "Berner Grosser Rat vor der Wintersession: Streit über Sparen und Steuersenkungen",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "regional",
+              "icon": "💰",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/73781b48747149b13c46a609ec09b4847825fb1d-92398941.jpg?ver=5484f4b7&fit=1200,900",
+              "kurz": "Ab Montag berät der Berner Grosse Rat das Budget 2027. Die Bürgerlichen wollen sparen und trotzdem Steuern senken, die Linke warnt vor «Schwarzmalerei».",
+              "summary": "Das Berner Kantonsparlament stellt in der Wintersession ab Montag die finanzpolitischen Weichen bis 2030. Das Budget 2027 sieht noch einen Überschuss von rund 269 Millionen Franken vor, ab 2028 rechnet der Kanton aber mit Defiziten und bis 2030 mit einer Neuverschuldung von rund 1,9 Milliarden Franken. Die Mehrheit der Finanzkommission will das Stellenwachstum begrenzen, bei Informatik und externen Beratern kürzen und an den geplanten Steuersenkungen festhalten.",
+              "gegenstimme": "Die Ratslinke hält die Finanzlage angesichts des Eigenkapitals und der tiefen Verschuldung der letzten Jahre für besser als dargestellt und spricht von «Schwarzmalerei»; den Spielraum will sie für öffentliche Leistungen und gezielte Entlastungen nutzen, lineare Steuersenkungen lehnt sie ab oder will sie verschieben. Die Finanzkommission selbst weist darauf hin, dass Steuererträge und Nationalbank-Ausschüttungen in den letzten zehn Jahren deutlich über Budget lagen, was die Prognosen relativiert.",
+              "sources": [
+                {
+                  "name": "Kanton Bern (Finanzkommission)",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=60070bb4-781c-42ff-a2fc-f15826cce7eb"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/berns-grosser-rat-streitet-%C3%BCbers-sparen-und-steuersenken/92398954"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/grosser-rat-kanton-bern-streit-ueber-sparen-in-wintersession-496617270529"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-thun-sigriswil-airbnb-kurzzeitvermietung",
+              "slug": "thun-sigriswil-airbnb-kurzzeitvermietung",
+              "title": "Thun und Sigriswil gehen gegen Airbnb-Kurzzeitvermietungen vor",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "regional",
+              "icon": "🏘️",
+              "edition": "midday",
+              "kurz": "Sigriswil blockiert neue Kurzzeitvermietungen per Planungszone, Thun will Airbnb-Wohnungen erstmals erfassen. Der Thuner Stadtrat entscheidet am Donnerstag.",
+              "summary": "Zwei Gemeinden am Thunersee verschärfen die Regeln für Kurzzeitvermietungen über Plattformen wie Airbnb. Sigriswil hat eine Planungszone erlassen: Wer eine Wohnung neu kurzzeitig vermieten oder zur Zweitwohnung umnutzen will, braucht eine Baubewilligung, die vorerst nicht erteilt wird. In Thun entscheidet der Stadtrat am 19. November über eine Revision des Kurtaxreglements, die eine Meldepflicht und ein Monitoring der Kurzzeitvermietungen bringen soll.",
+              "gegenstimme": "Hausbesitzer kritisieren die Massnahmen als Eingriff ins Eigentum; ein Sigriswiler sprach an einer Dialogveranstaltung davon, sich «enteignet» zu fühlen, weil er sein Haus bei einem Mieterwechsel nicht mehr als Zweitwohnung nutzen könne. Tourismusorte sind zudem auf Gästebetten angewiesen. Thun räumt selbst ein, bisher keine verlässlichen Daten zu haben, ob Kurzzeitvermietungen den Wohnungsmarkt tatsächlich spürbar verknappen.",
+              "sources": [
+                {
+                  "name": "Stadt Thun",
+                  "url": "https://www.thun.ch/medienmitteilungen/3031864"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/knatsch-in-sigriswil-berner-dorf-stoppt-neue-airbnb-vermietungen-mit-diesem-kniff"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/airbnb-thun-und-sigriswil-ziehen-die-schrauben-289914176377"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-heimatschutz-killias-ruecktritt-wakkerpreis",
+              "slug": "heimatschutz-killias-ruecktritt-wakkerpreis",
+              "title": "Heimatschutz-Präsident Killias tritt wegen Streit um Wakkerpreis per sofort zurück",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "schweiz",
+              "icon": "🏚️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/ec3b105af831c7dc3bf892faf4a170c36936c418-92399628.jpg?ver=72a7c4c2&fit=1200,900",
+              "kurz": "Martin Killias verlässt das Präsidium des Schweizer Heimatschutzes nach neun Jahren vorzeitig. Hinter der geplanten Wakkerpreis-Vergabe habe er nicht stehen können.",
+              "summary": "Martin Killias ist nach neun Jahren als Präsident des Schweizer Heimatschutzes per sofort zurückgetreten; er gab dies am 14. November an einer Konferenz der Sektionspräsidien in Biel bekannt, der Verband informierte am Mittwoch. Gegenüber Keystone-SDA sagte Killias, er hätte hinter der geplanten Vergabe des nächsten Wakkerpreises nicht stehen können: «Ich wäre mir dabei untreu geworden.» Vizepräsidentin Muriel Thalmann übernimmt interimistisch.",
+              "gegenstimme": "Der Verband selbst nennt in seiner Mitteilung keinen Grund für den Rücktritt und betont, die Nachfolgesuche laufe schon seit Monaten; aus seiner Sicht handelt es sich um einen um gut ein halbes Jahr vorgezogenen, ohnehin geplanten Wechsel. Wer den Preis erhalten soll und worin der Streit inhaltlich besteht, ist nicht öffentlich; die Darstellung stammt bisher nur von Killias.",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/heimatschutz-pr%C3%A4sident-tritt-nach-differenzen-um-wakkerpreis-zur%C3%BCck/92399641"
+                },
+                {
+                  "name": "Aargauer Zeitung",
+                  "url": "https://www.aargauerzeitung.ch/aargau/kanton-aargau/heimatschutz-praesident-killias-tritt-vorzeitig-ab-ld.4269419"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-deutschland-stromsteuer-einigung-spritpreisdeckel",
+              "slug": "deutschland-stromsteuer-einigung-spritpreisdeckel",
+              "title": "Deutschland: Koalition einigt sich auf Stromsteuersenkung für alle, vorerst nur für 2027",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "politik",
+              "icon": "⚡",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/8a8af5db-3327-421f-9a47-a558056f4283_w1200_r1.778_fpx68.68_fpy52.98.jpg",
+              "kurz": "Nach neun Stunden Koalitionsausschuss senken Union und SPD die Stromsteuer für alle aufs EU-Minimum, finanziert aber nur für ein Jahr. Dazu kommt ein Spritpreisdeckel.",
+              "summary": "Die Spitzen von CDU, CSU und SPD haben sich in der Nacht auf Mittwoch nach rund neun Stunden geeinigt, die Stromsteuer ab 1. Januar 2027 auch für Privathaushalte und bisher nicht begünstigte Firmen auf das europäische Mindestmass zu senken. Die Gegenfinanzierung von 5,4 Milliarden Euro steht nur für 2027 und soll aus nicht benötigten Mitteln der Erneuerbaren-Förderung (EEG) kommen; eine dauerhafte Senkung ist «beabsichtigt». Ab 1. Januar soll zudem ein Spritpreisdeckel gelten.",
+              "gegenstimme": "Kritiker sprechen von einem «Armutszeugnis»: Die fehlende strukturelle Gegenfinanzierung vertage die Probleme nur um ein Jahr und vergrössere das Haushaltsloch, sagte selbst SPD-Ministerpräsidentin Anke Rehlinger, die zudem bezweifelt, dass der Spritpreisdeckel an der Tankstelle wirkt. Aus der Union kommt dagegen Lob: Verkehrsminister Steffen Bilger nennt die Senkung «wirklich gut und wichtig» angesichts hoher Energiepreise.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-von-wichtiges-signal-zu-armutszeugnis-a-c547742b-6df9-4052-b6d8-f8c50b2264b4"
+                },
+                {
+                  "name": "20 Minuten (dpa)",
+                  "url": "https://www.20min.ch/story/stromsteuer-in-deutschland-koalition-senkt-sie-ab-2027-fuer-ein-jahr-103669427"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6afd6c06fc384ca056385c26/friedrich-merz-soll-koalitionsgipfel-zwischenzeitlich-wuetend-verlassen-haben-union-dementiert-vehement.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-bsw-wahlbeschwerde-bundesverfassungsgericht-unzulaessig",
+              "slug": "bsw-wahlbeschwerde-bundesverfassungsgericht-unzulaessig",
+              "title": "BSW scheitert in Karlsruhe: Keine Neuauszählung der Bundestagswahl",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "politik",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Das Bundesverfassungsgericht hat die Wahlprüfungsbeschwerde des BSW einstimmig als unzulässig verworfen. Der Partei fehlten 2025 nur 9529 Stimmen für den Bundestag.",
+              "summary": "Der Zweite Senat des Bundesverfassungsgerichts hat am Mittwoch die Wahlprüfungsbeschwerde des BSW zur Bundestagswahl 2025 einstimmig als unzulässig verworfen. Die Partei habe keinen hinreichend konkreten Sachverhalt vorgetragen, aus dem sich ein mandatsrelevanter Wahlfehler ergebe; blosse Vermutungen genügten nicht. Das BSW war mit 4,981 Prozent knapp an der Fünfprozenthürde gescheitert, bundesweit fehlten 9529 Stimmen.",
+              "gegenstimme": "Sahra Wagenknecht spricht von einem «Fehlurteil»: Das BSW hatte nach eigenen Prüfungen «Anomalien» geltend gemacht, etwa BSW-Stimmen, die einer anderen Partei zugeordnet worden seien, und sieht sich um 35 Mandate gebracht. Mit diesen hätte die schwarz-rote Koalition keine eigene Mehrheit. Das Gericht hat allerdings nicht inhaltlich entschieden, ob gezählt wurde wie es sollte, sondern die Beschwerde aus formalen Gründen nicht zugelassen Offen bleibt damit die Frage, wie eine Partei ohne Neuauszählung konkrete Belege für Zählfehler beibringen soll.",
+              "sources": [
+                {
+                  "name": "Bundesverfassungsgericht",
+                  "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2026/bvg26-074.html"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-nicht-neu-ausgezaehlt-werden-a-714504aa-841f-4258-a2d5-cb852a8f20f6"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/bundesverfassungsgericht-verwirft-beschwerde-des-bsw-gegen-bundestagswahl-als-unzulaessig-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6afd626cbb7e7a6679f92555/bsw-scheitert-mit-verfassungsbeschwerde-wahlpruefung-einer-bananenrepublik-sagt-sahra-wagenknecht.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-grossbritannien-inflation-3-6-prozent-treibstoff",
+              "slug": "grossbritannien-inflation-3-6-prozent-treibstoff",
+              "title": "Grossbritannien: Inflation steigt auf 3,6 Prozent, Diesel so teuer wie nie",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "midday",
+              "kurz": "Die britische Teuerung ist im Oktober auf 3,6 Prozent gestiegen, den höchsten Wert seit einem Jahr. Treiber sind Treibstoffpreise infolge des Kriegs im Nahen Osten.",
+              "summary": "Die Konsumentenpreise in Grossbritannien sind im Oktober um 3,6 Prozent gegenüber dem Vorjahr gestiegen, nach 3,5 Prozent im September, wie das Statistikamt ONS am Mittwoch mitteilte. Wichtigster Treiber waren Treibstoffe, deren Preise im Jahresvergleich um 33,2 Prozent zulegten; Diesel erreichte einen Rekordpreis. Die Kerninflation ohne Energie und Lebensmittel blieb bei 2,8 Prozent.",
+              "gegenstimme": "Der Anstieg entsprach den Prognosen, und die stabile Kerninflation sowie die rückläufigen Preise in Restaurants und Hotels zeigen laut ONS, dass der Druck vor allem von Energie ausgeht; Märkte haben laut Reuters ihre Wetten auf Zinserhöhungen sogar etwas reduziert. Für die Haushalte ist die Lage trotzdem angespannt: Die Teuerung ist auf dem höchsten Stand seit einem Jahr, und die Gas- und Stromkosten steigen vor dem Winter stark.",
+              "sources": [
+                {
+                  "name": "Office for National Statistics",
+                  "url": "https://cy.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil"
+                },
+                {
+                  "name": "Reuters / Investing.com",
+                  "url": "https://www.investing.com/news/economy-news/uk-inflation-rose-to-36-in-october-5034916"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-grossbritannien-mahmood-two-tier-policing",
+              "slug": "grossbritannien-mahmood-two-tier-policing",
+              "title": "Britische Innenministerin will Eindruck einer «Zwei-Klassen-Polizei» bekämpfen",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "politik",
+              "icon": "👮",
+              "edition": "midday",
+              "kurz": "Shabana Mahmood kündigt einen «Unparteilichkeitsstandard» für die Polizei an. Gleichbehandlungsprogramme hätten teils zu Ungleichbehandlung geführt, sagt sie.",
+              "summary": "Die britische Innenministerin Shabana Mahmood (Labour) will gegen die «zersetzende und wachsende Wahrnehmung» einer Zwei-Klassen-Polizei vorgehen. In einer Rede vor den Polizeichefs kündigte sie einen neuen «Unparteilichkeitsstandard» an, der sicherstellen soll, dass alle unabhängig von Herkunft, Religion oder anderen Merkmalen gleich behandelt werden. Sie räumt ein, dass es Fälle von Ungleichbehandlung gegeben habe, und warnt Polizisten vor der Nähe zu «Aktivistengruppen».",
+              "gegenstimme": "Mahmood selbst betont, die grosse Mehrheit der Polizisten arbeite unparteiisch, und spricht von «oft motivierten Akteuren», die die Idee einer Zwei-Klassen-Polizei anheizten; zugleich nennt sie es «beschämend», dass der Anteil schwarzer Polizisten 33 Jahre nach dem Mord an Stephen Lawrence kaum gestiegen ist. Von der anderen Seite geht Reform-UK-Chef Nigel Farage weiter: Er rief nach dem Fall Nowak zu «kalter Wut» auf und fordert ein grundsätzliches Ende der «two-tier policing»; ein blosser Leitfaden ohne Konsequenzen dürfte ihm nicht genügen.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-two-tier-policing"
+                },
+                {
+                  "name": "The Telegraph",
+                  "url": "https://www.telegraph.co.uk/news/2026/11/18/police-given-impartiality-guidance-tackle-two-tier-policing/"
+                },
+                {
+                  "name": "GB News",
+                  "url": "https://www.gbnews.com/news/police-chiefs-bias-guidance-corrosive-growing-perception-two-tier-policing"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-waymo-stoppt-autobahnfahrten-usa",
+              "slug": "waymo-stoppt-autobahnfahrten-usa",
+              "title": "Waymo stoppt Robotaxi-Fahrten auf US-Autobahnen nach Verbot in Kalifornien",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "tech",
+              "icon": "🚕",
+              "edition": "midday",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/3/8/2/unnamed-850ea65ae8ac0458.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Kaliforniens Zulassungsbehörde sieht in Waymos Robotaxis auf Freeways eine «unmittelbare Gefahr». Waymo stellt die Autobahnfahrten nun landesweit ein.",
+              "summary": "Die kalifornische Zulassungsbehörde DMV hat den autonomen Taxis von Waymo seit dem 11. November Fahrten auf allen Freeways des Bundesstaats untersagt, weil sie eine «unmittelbare Gefahr für die öffentliche Sicherheit» darstellten. Die Alphabet-Tochter bietet daraufhin auch im Rest der USA vorerst keine kommerziellen Autobahnfahrten mehr an. Betroffen sind fünf von 13 Einsatzgebieten, darunter die Bay Area, Los Angeles, Phoenix, Miami und Austin.",
+              "gegenstimme": "Waymo stellt die Autobahnfahrten ausserhalb Kaliforniens freiwillig und vorerst ein, Testfahrten mit geschulten Fachleuten an Bord laufen weiter, und im Stadtverkehr fahren die Robotaxis normal. Die Vorfälle betreffen Sondersituationen wie Baustellen und Polizeieinsätze; dass die Fahrzeuge generell unsicherer wären als menschliche Fahrer, behauptet auch die Behörde nicht. Gerade diese Sondersituationen gelten aber als Prüfstein für autonomes Fahren.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Gefahr-fuer-die-oeffentliche-Sicherheit-Waymo-stoppt-Autobahnfahrten-in-den-USA-11528657.html"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b"
+                },
+                {
+                  "name": "LAist",
+                  "url": "https://laist.com/news/transportation/dmv-suspends-waymos-from-california-freeways-citing-imminent-public-safety-hazards"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-codeberg-domain-gesperrt-namesilo",
+              "slug": "codeberg-domain-gesperrt-namesilo",
+              "title": "GitHub-Alternative Codeberg offline: Registrar sperrt Domain",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "tech",
+              "icon": "🌐",
+              "edition": "midday",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/6/2/6/codeberg-e00823533aaf2897.png?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Die Code-Plattform Codeberg ist seit Mittwochmorgen nicht erreichbar. Der US-Registrar NameSilo hat die Domain codeberg.org gesperrt, der Fall liegt beim Abuse-Team.",
+              "summary": "Die nichtkommerzielle GitHub-Alternative Codeberg ist seit Mittwochmorgen nicht mehr über codeberg.org erreichbar. Die Domain steht beim US-Registrar NameSilo auf dem Status «clientHold» und wird deshalb nicht mehr im DNS aufgelöst; laut Codeberg ist sie weder abgelaufen noch übertragen worden, sondern aus dem Konto verschwunden. Inzwischen heisst es, der Registrar habe die Domain gesperrt, der Fall liege bei dessen Abuse-Team.",
+              "gegenstimme": "Ein «clientHold» ist kein ungewöhnliches Instrument: Registrare setzen ihn etwa bei nicht bestätigten Kontaktdaten oder bei Missbrauchsmeldungen ein, und es ist möglich, dass es einen konkreten Anlass gibt, der noch nicht bekannt ist. Der Fall zeigt allerdings, wie stark auch eine europäische Open-Source-Plattform von einem einzelnen US-Registrar abhängt: Laut Codeberg gab es keine Vorwarnung.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/GitHub-Alternative-Codeberg-verliert-Domain-und-ist-nicht-erreichbar-11529143.html"
+                },
+                {
+                  "name": "Codeberg-Status (Mastodon)",
+                  "url": "https://akko.wetdry.world/notice/117636453710293917"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-optimizely-lieferkettenangriff-178-websites",
+              "slug": "optimizely-lieferkettenangriff-178-websites",
+              "title": "Lieferkettenangriff über Optimizely: Schadcode auf 178 Websites von Ikea bis Air France",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/11/18/74b42b1e-fa88-4651-884d-afc8eea9d96e.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C6000%2C4000&s=daaa43328f1530f30e329a339d9d24f7",
+              "kurz": "Angreifer haben über eine Lücke beim Webdienstleister Optimizely Schad-JavaScript in 178 Websites eingeschleust, um Kartendaten und Kryptowährungen zu stehlen.",
+              "summary": "Unbekannte haben über eine Schwachstelle beim US-Dienstleister Optimizely manipulierten JavaScript-Code in die Websites von 178 Organisationen eingeschleust, darunter laut Berichten Ikea, CNN, BBC und Air France. Der Code versuchte, Kreditkartendaten aus Formularen auszulesen, Krypto-Adressen auszutauschen und ältere Apple-Geräte mit Schadsoftware zu infizieren. Optimizely bestätigte den Vorfall: Die Lücke sei blockiert, der Code entfernt und die Kunden informiert.",
+              "gegenstimme": "Optimizely betont, der Vorfall sei am selben Tag eingedämmt worden; wie viele Nutzer tatsächlich Daten verloren haben, ist unbekannt und könnte gering sein. Der Fall zeigt aber ein strukturelles Risiko solcher Lieferkettenangriffe: Wer fremde Skripte in seine Website einbindet, macht den Dienstleister zum Einfallstor; unklar ist zudem noch, wie die Angreifer Zugang zu Optimizely erhielten.",
+              "sources": [
+                {
+                  "name": "Optimizely (Sicherheitsbericht)",
+                  "url": "https://pages.optimizely.com/rs/947-RKE-048/images/Security%20Incident%20Report%20-%20Optimizely%20Web%20Experimentation%20-%20Nov%2017%202026.pdf"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/netzwelt/web/ikea-cnn-air-france-hacker-versteckten-schadsoftware-in-populaeren-websites-a-04279686-267b-48af-ad84-fa3ba4558e02"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/cyberangriff-fast-200-websites-von-bbc-ueber-ikea-bis-air-france-angegriffen-103669436"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-18-bitcoin-kurssturz-zinsangst",
+              "slug": "bitcoin-kurssturz-zinsangst",
+              "title": "Bitcoin fällt um über 20 Prozent: Zinsangst und Fondsabflüsse belasten",
+              "date": "2026-11-18",
+              "time": "12:10",
+              "category": "wirtschaft",
+              "icon": "₿",
+              "edition": "midday",
+              "kurz": "Der Bitcoin ist auf rund 62'000 bis 65'000 Dollar gefallen, über 20 Prozent weniger als im Vormonat. Ihm droht erstmals ein zweites Verlustjahr in Folge.",
+              "summary": "Der Bitcoin ist in den letzten Tagen zeitweise unter 62'000 US-Dollar gefallen, den tiefsten Stand seit Mitte Juli, und notierte zuletzt bei gut 64'500 Dollar. Allein im letzten Monat verlor er mehr als 20 Prozent, seit dem Rekord von über 126'000 Dollar im Oktober 2025 rund die Hälfte. Als Gründe nennen Marktbeobachter die Angst vor weiteren US-Zinserhöhungen und Abflüsse aus Bitcoin-Fonds.",
+              "gegenstimme": "Der Bitcoin hat schon mehrere Verlustjahre (2014, 2018, 2022, 2025) überstanden, und das Jahrestief vom Juli (rund 57'800 Dollar) ist noch nicht unterschritten; am Montag fing sich der Kurs leicht. Gleichzeitig zeigt der Einbruch, dass der Bitcoin bei Zinsangst und Turbulenzen im Techsektor eher wie eine riskante Anlage reagiert als wie ein «sicherer Hafen».",
+              "sources": [
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/bitcoin-f%C3%A4llt-auf-tiefsten-stand-seit-mitte-juli/92387488"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/bitcoin-kurs-faellt-kryptowaehrung-verliert-ueber-20-prozent-103669390"
                 }
               ]
             }
