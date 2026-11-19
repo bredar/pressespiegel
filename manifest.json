@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T12:08:32+01:00",
+  "updated": "2026-11-19T17:15:00+01:00",
   "days": [
     {
       "date": "2026-11-19",
@@ -734,6 +734,388 @@
                 {
                   "name": "WELT",
                   "url": "https://www.welt.de/politik/ausland/article6afebea8e9561dcc48a02da0/streit-um-arktis-insel-daenisches-parlament-ratifiziert-sicherheitsabkommen-mit-den-usa-und-groenland.html"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:15",
+          "articles": [
+            {
+              "id": "2026-11-19-sp-initiative-tiefere-krankenkassenpraemien",
+              "slug": "sp-initiative-tiefere-krankenkassenpraemien",
+              "title": "Neue Volksinitiative: Zwei Krankenkassenprämien pro Jahr sollen gratis sein",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🏥",
+              "edition": "evening",
+              "kurz": "SP, Gewerkschaften und der Konsumentenverband FRC wollen Erwachsenen zwei und Kindern sechs Monatsprämien pro Jahr erlassen, bezahlt über einen Steuerzuschlag.",
+              "summary": "Ein Bündnis aus SP, Gewerkschaftsbund, Travail.Suisse und dem Westschweizer Konsumentenverband FRC hat am Donnerstag in Bern die Volksinitiative «Für tiefere Krankenkassenprämien» lanciert. Pro erwachsene Person sollen jährlich zwei mittlere Monatsprämien (2026 knapp 1000 Franken) übernommen werden, für Kinder sechs (rund 735 Franken). Die Kosten von rund acht Milliarden Franken pro Jahr sollen ein einkommensabhängiger Zuschlag auf die direkte Bundessteuer und ein Zuschlag auf Unternehmensgewinne decken.",
+              "gegenstimme": "Die Initiative verschiebt die Last der Prämien teilweise in die Bundessteuer: Laut Initiativtext darf der Zuschlag höchstens die obersten 10 Prozent der Bevölkerung netto zusätzlich belasten, wer darunter liegt, profitiert. Kritiker solcher Modelle wenden ein, dass Gratisprämien die Kostensteigerung im Gesundheitswesen nicht bremsen, sondern nur umverteilen. Das Stimmvolk hat im Juni 2024 die Prämienentlastungs-Initiative der SP abgelehnt; Reaktionen bürgerlicher Parteien lagen in den geprüften Quellen noch nicht vor.",
+              "sources": [
+                {
+                  "name": "Fedlex (Initiativtext, BBl 2026 3000)",
+                  "url": "https://www.fedlex.admin.ch/eli/fga/2026/3000/de"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/linke-lanciert-volksinitiative-f%c3%bcr-tiefere-krankenkassenpr%c3%a4mien/92407656"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/krankenkasse-neue-volksinitiative-fordert-zwei-gratis-monatspraemien-pro-jahr-103669610"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/krankenkassenpraemien-sp-lanciert-initiative-fuer-gutschrift-301755370777"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-genf-crack-szene-rechnungshof-quai9",
+              "slug": "genf-crack-szene-rechnungshof-quai9",
+              "title": "Genf: Rechnungshof verlangt kleinere offene Crack-Szene beim Bahnhof Cornavin",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "💊",
+              "edition": "evening",
+              "image": "https://img.rts.ch/info/regions/geneve/2026/image/8aeb1e86-29421034.image?w=1200&h=630",
+              "kurz": "Der Genfer Rechnungshof lobt die Drogenanlaufstelle Quai 9, fordert aber, die offene Szene davor zu verkleinern. Die Subventionen haben sich seit 2023 verdreifacht.",
+              "summary": "Der Genfer Rechnungshof hat am Donnerstag ein Audit zum Verein Première ligne veröffentlicht, der beim Bahnhof Cornavin die Konsumstelle Quai 9 betreibt. 2025 zählte sie rund 74'000 Besuche von 650 Personen, 80 Prozent davon konsumieren unter anderem Crack. Der Rechnungshof empfiehlt, die offene Drogenszene rund um die Anlaufstelle zu verkleinern, weil sie die Betroffenen in Prekarität hält und in der Nachbarschaft Unsicherheit schafft.",
+              "gegenstimme": "Der Vereinsdirektor Thomas Herquel sagt, die Konzentration der Szene beim Bahnhof sei politisch gewollt, damit sich die Konsumierenden nicht über die Stadt verteilen. Kritiker der Genfer Drogenpolitik, etwa in der NZZ, fragen dagegen, warum der Kanton die Szene trotz verdreifachter Mittel nicht in den Griff bekommt. Anwohnende und Gewerbe beklagen seit Jahren Unsicherheit; dass der Bericht dieses Problem nun selbst benennt, ist ein Eingeständnis.",
+              "sources": [
+                {
+                  "name": "RTS",
+                  "url": "https://www.rts.ch/info/regions/geneve/2026/article/crack-a-geneve-un-audit-appelle-a-reduire-la-scene-ouverte-29421022.html"
+                },
+                {
+                  "name": "Nau.ch / Keystone-SDA",
+                  "url": "https://www.nau.ch/news/schweiz/genf-soll-offene-crack-szene-beim-bahnhof-eindammen-67204516"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/genf-bekommt-die-crack-szene-nicht-in-den-griff-was-laeuft-schief-ld.10068512"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-svp-bundesratsticket-fraktion-entscheid-freitag",
+              "slug": "svp-bundesratsticket-fraktion-entscheid-freitag",
+              "title": "Bundesratswahl: SVP-Fraktion legt am Freitag ihr Ticket fest",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "evening",
+              "kurz": "Die SVP-Fraktion entscheidet morgen, wen sie für die Nachfolge von Guy Parmelin vorschlägt. Die Parteispitze empfiehlt ein Zweierticket; der Berner Pierre Alain Schnegg gilt als Option.",
+              "summary": "Die SVP-Bundeshausfraktion beschliesst am Freitag, 20. November, wen sie der Bundesversammlung für die Nachfolge von Bundesrat Guy Parmelin vorschlägt. Das Fraktionspräsidium folgt der Findungskommission und empfiehlt ein Zweierticket; es hält alle acht gemeldeten Kandidierenden für wählbar. Als gesetzt gilt der Zuger Fraktionschef Thomas Aeschi; in Bern hofft die Kantonalpartei auf einen Platz für Regierungsrat Pierre Alain Schnegg.",
+              "gegenstimme": "Ein Zweierticket schränkt die Auswahl der Bundesversammlung ein, was andere Fraktionen bei früheren Wahlen kritisiert haben; zugleich kann es die SVP vor einem «wilden» Kandidaten schützen. Le Temps sieht die Chancen der einzigen Frau im Rennen, der Genferin Céline Amaudruz, als gering. Ob ein Exekutivpolitiker wie Schnegg Vorteile gegenüber Parlamentsprofis hat, ist offen: Die Berner SVP verweist auf seine Führungserfahrung, andere sehen beim Parlament eher Nähe zu bekannten Bundeshausgesichtern als Trumpf.",
+              "sources": [
+                {
+                  "name": "SVP Schweiz (Mitteilung)",
+                  "url": "https://www.svp.ch/aktuell/publikationen/medienmitteilungen/bundesratsersatzwahl-vom-9-dezember-2026/"
+                },
+                {
+                  "name": "Le Temps / ATS",
+                  "url": "https://www.letemps.ch/de/schweiz/nachfolge-von-guy-parmelin-das-svp-prasidium-schlagt-ein-zweierticket-vor"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bundesratsticket-berner-svp-sieht-gute-chancen-fuer-schnegg-125216346664"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/bundesratswahl-am-9-dezember-fraktionsvorstand-der-svp-empfiehlt-zweierticket"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-egmr-corona-impfpflicht-frankreich-zuend-sondervotum",
+              "slug": "egmr-corona-impfpflicht-frankreich-zuend-sondervotum",
+              "title": "EGMR: Corona-Impfpflicht für Pflegepersonal war rechtens, Schweizer Richter widerspricht",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "⚖️",
+              "edition": "evening",
+              "kurz": "Der Gerichtshof für Menschenrechte billigt Frankreichs Impfpflicht für Gesundheitspersonal samt unbezahlter Suspendierung. Der Schweizer Richter Andreas Zünd stimmte dagegen.",
+              "summary": "Der Europäische Gerichtshof für Menschenrechte hat am Donnerstag die Beschwerden von zwei Pflegefachfrauen und einem Feuerwehrmann aus Frankreich abgewiesen (De Haro und andere gegen Frankreich). Sie waren 2021 suspendiert und nicht mehr bezahlt worden, weil sie sich nicht gegen Covid-19 impfen liessen; laut Gericht verletzte das weder das Recht auf Privatleben noch das Diskriminierungsverbot. Der Entscheid fiel mit sechs zu einer Stimme; der Schweizer Richter Andreas Zünd gab ein abweichendes Votum ab.",
+              "gegenstimme": "Richter Zünd hält die Menschenrechte der Betroffenen für verletzt: Die Suspendierung ohne Lohn sei sehr einschneidend gewesen und habe teils die Existenz bedroht; mildere Mittel wie Schutzausrüstung, weniger Kontakt mit Gefährdeten oder Entschädigungen seien nicht ausreichend geprüft worden. Impfpflicht-Kritiker sehen im Urteil einen Freipass für künftige Zwangsmassnahmen. Befürworter verweisen darauf, dass Pflegepersonal ohnehin anderen Impfpflichten unterliegt.",
+              "sources": [
+                {
+                  "name": "EGMR (Ankündigung, HUDOC)",
+                  "url": "https://hudoc.echr.coe.int/app/conversion/pdf/?filename=Annonce+d%27arr%C3%AAts+et+d%C3%A9cisions+17-19.11.2026.pdf&id=003-8690899-12401168&library=ECHR"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html"
+                },
+                {
+                  "name": "France 24 / AFP",
+                  "url": "https://www.france24.com/fr/info-en-continu/20261119-covid-la-cedh-valide-l-obligation-vaccinale-des-soignants-en-france"
+                },
+                {
+                  "name": "Egora",
+                  "url": "https://www.egora.fr/actus-pro/judiciaire/obligation-vaccinale-contre-le-covid-la-cedh-donne-raison-la-france-contre-les"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-eu-kommission-ki-cyberangriff-artex",
+              "slug": "eu-kommission-ki-cyberangriff-artex",
+              "title": "EU-Kommission bestätigt KI-gestützten Cyberangriff auf ihre Systeme",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "evening",
+              "kurz": "Die EU-Kommission war im Oktober Ziel einer Cyberkampagne mit einem frei verfügbaren KI-Werkzeug. Ob Personaldaten der über 33'000 Angestellten abflossen, ist offen.",
+              "summary": "Die EU-Kommission hat am Donnerstag bestätigt, dass sie Ziel einer KI-gestützten Cyberkampagne wurde, die am 22. Oktober entdeckt wurde. Als Schutzmassnahme schaltete sie mehrere Anwendungen ab, darunter die Personalplattform Sysper für Lohn, Ferien und Arbeitszeit; die meisten laufen wieder. Laut Sprecher Thomas Regnier gibt es keine Hinweise auf ein Datenleck, das «das gesamte Personal» betrifft, keine Lösegeldforderung und keine Angaben zu den Tätern.",
+              "gegenstimme": "Die Formulierung «kein Datenleck, das das gesamte Personal betrifft» schliesst einen Abfluss bei einem Teil der Angestellten nicht aus; Politico hatte zuerst von möglicherweise grossen Mengen kompromittierter Personendaten berichtet. Kritiker bemängeln, dass die Kommission erst nach dem Medienbericht informierte und die Angestellten intern noch keine offizielle Mitteilung erhalten haben. Die Kommission betont, CERT-EU und der Datenschutzbeauftragte seien informiert worden, «es wurde nichts verheimlicht».",
+              "sources": [
+                {
+                  "name": "EU-Kommission (Medienbriefing)",
+                  "url": "https://audiovisual.ec.europa.eu/de/media/video/I-298222"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/19/eu-kommission-opfer-schweren-cyberangriffs-moglicher-zugriff-auf-personaldaten-unklar"
+                },
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3448677"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-telekom-investiert-100-millionen-mistral",
+              "slug": "telekom-investiert-100-millionen-mistral",
+              "title": "Deutsche Telekom steigt mit 100 Millionen Euro bei Mistral ein",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🇪🇺",
+              "edition": "evening",
+              "kurz": "Die Telekom beteiligt sich an der französischen KI-Firma Mistral und plant eine Partnerschaft für «souveräne» KI für Firmen und Behörden in Deutschland.",
+              "summary": "Die Deutsche Telekom beteiligt sich über ihren Fonds T.Capital mit 100 Millionen Euro an der Series-D-Finanzierungsrunde des französischen KI-Unternehmens Mistral AI. Die Investition soll der erste Schritt zu einer strategischen Partnerschaft sein: Mistral liefert Modelle und Software, die Telekom Infrastruktur und Kundenzugang. Zielgruppe sind Industrie, regulierte Branchen und Behörden in Deutschland.",
+              "gegenstimme": "Gemessen an den Summen im KI-Markt ist die Beteiligung klein: Am selben Tag nahm Anthropic beim Börsengang über 80 Milliarden Dollar ein. Konkrete Produkte, Preise und Modelle wurden nicht angekündigt, «Souveränität» bleibt vorerst ein Versprechen. Skeptiker fragen, ob europäische Anbieter beim Tempo der US-Konkurrenz mithalten können, auch weil die Rechenleistung der Telekom-KI-Fabrik mit 20 Megawatt im Vergleich zu US-Rechenzentren bescheiden ist.",
+              "sources": [
+                {
+                  "name": "Deutsche Telekom (Mitteilung)",
+                  "url": "https://www.telekom.com/de/newsroom/aktuelles/medieninformationen/2026/11/deutsche-telekom-staerkt-souveraene-ki-in-deutschland"
+                },
+                {
+                  "name": "ComputerBase",
+                  "url": "https://www.computerbase.de/news/wirtschaft/europaeische-ki-telekom-investiert-100-millionen-euro-in-mistral.100408/"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/deutsche-telekom-steigt-bei-ki-startup-mistral-ein-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-basf-gibt-evonik-uebernahme-auf",
+              "slug": "basf-gibt-evonik-uebernahme-auf",
+              "title": "BASF gibt Übernahme von Evonik auf, Evonik-Aktie bricht ein",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "🧪",
+              "edition": "evening",
+              "kurz": "Nach zwei abgelehnten Angeboten verzichtet BASF auf die Übernahme des Spezialchemiekonzerns Evonik. Die Evonik-Aktie verlor rund 16 Prozent.",
+              "summary": "Der Chemiekonzern BASF hat am Donnerstag seine Bemühungen um eine Übernahme von Evonik beendet. Evonik hatte zwei unverbindliche Barangebote abgelehnt, zuletzt 24 Euro je Aktie, was das Unternehmen mit gut elf Milliarden Euro bewertet hätte. Die Evonik-Aktie fiel nach der Mitteilung um rund 16 Prozent.",
+              "gegenstimme": "Evonik pocht auf Eigenständigkeit und hatte schon Ende Oktober Verhandlungen abgelehnt. Auch NRW-Ministerpräsident Hendrik Wüst (CDU) stellte sich gegen die Übernahme: Evonik mit 11'000 Beschäftigten im Land sei «keine Pommesbude» und allein überlebensfähig. Aus Sicht der Evonik-Aktionäre ist der Kurssturz dagegen ein Hinweis, dass der Markt das BASF-Angebot als attraktiv einschätzte.",
+              "sources": [
+                {
+                  "name": "BASF (Mitteilung)",
+                  "url": "https://www.basf.com/global/de/media/news-releases/2026/11/p-26-202"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html"
+                },
+                {
+                  "name": "stern.de / AFP",
+                  "url": "https://www.stern.de/news/basf-gibt-plaene-fuer-uebernahme-von-evonik-auf-38578700.html"
+                },
+                {
+                  "name": "Rhein-Neckar-Zeitung",
+                  "url": "https://www.rnz.de/politik/wirtschaft-regional_artikel,-Ludwigshafen-BASF-beendet-Uebernahme-Versuche-von-Evonik-_arid,2488367.html"
+                },
+                {
+                  "name": "MarketScreener (Kurs)",
+                  "url": "https://de.marketscreener.com/boerse-nachrichten/basf-beendet-nach-ablehnung-eines-gebots-ueber-12-mrd-usd-die-uebernahmebemuehungen-um-evonik-ce785ed2da80f02d"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-shenzhen-friedensdeklaration-trump-xi-putin-istgh",
+              "slug": "shenzhen-friedensdeklaration-trump-xi-putin-istgh",
+              "title": "Shenzhen: Trump, Xi und Putin unterzeichnen «Deklaration für den Frieden»",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🕊️",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+              "kurz": "Das Dreiertreffen endete mit einer gemeinsamen Erklärung: gegen Atomkrieg, für eine UNO-Reform, mehr Erdöl, und gegen einen «Missbrauch» durch den Internationalen Strafgerichtshof.",
+              "summary": "Nach ihrem rund 80- bis 90-minütigen Treffen in Shenzhen haben Donald Trump, Xi Jinping und Wladimir Putin am Donnerstag eine rechtlich nicht bindende «Deklaration für den Frieden» veröffentlicht. Darin heisst es, ein Atomkrieg könne nicht gewonnen und dürfe nie geführt werden; zudem wollen die drei die UNO reformieren und die Versorgung mit Erdölprodukten erhöhen. Ein Punkt betrifft die Immunität von Staatsvertretern: Der Internationale Strafgerichtshof und ähnliche Institutionen dürften ihre Zuständigkeit «nicht missbrauchen».",
+              "gegenstimme": "Gegen Putin liegt ein Haftbefehl des Internationalen Strafgerichtshofs vor; dass die USA und China eine Erklärung gegen den «Missbrauch» solcher Gerichte mittragen, werten Kritiker als Schwächung der internationalen Strafjustiz. WELT hält dagegen, von einem «Jalta 2.0» könne keine Rede sein, Putin sei am Gipfel «auf Russlands Platz verwiesen» worden. Während Putin von Friedensbereitschaft sprach, griff Russland laut BBC Kiew mit Drohnen an; zugleich drohte er wegen der Angriffe auf die Krim-Brücke mit «weit schmerzhafterer» Vergeltung.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/spitzentreffen-in-shenzhen-donald-trump-xi-jinping-und-wladimir-putin-verabschieden-eine-deklaration-fuer-den-frieden-ld.10068309"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"
+                },
+                {
+                  "name": "WELT (Einordnung)",
+                  "url": "https://www.welt.de/politik/ausland/plus6afec34ea3767a11a0be9e58/shenzhen-von-wegen-jalta-2-0-beim-historischen-dreiergipfel-wird-putin-auf-russlands-platz-verwiesen.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-senegal-migrantenboot-gekentert-yenne",
+              "slug": "senegal-migrantenboot-gekentert-yenne",
+              "title": "Senegal: Boot mit bis zu 100 Migranten gekentert, Dutzende vermisst",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🌊",
+              "edition": "evening",
+              "kurz": "Vor der Küste südlich von Dakar ist eine Piroge mit 50 bis 100 Menschen an Bord gekentert. Vier Leichen wurden geborgen, Dutzende werden vermisst.",
+              "summary": "Vor dem Dorf Yenne südlich von Dakar ist in der Nacht auf Mittwoch eine Piroge mit Migranten auf dem Weg Richtung Europa gekentert. Bisher wurden vier Leichen geborgen, Dutzende Menschen werden vermisst. Ein Überlebender sprach gegenüber der Polizei von rund 100 Personen an Bord, ein lokaler Behördenvertreter von 50.",
+              "gegenstimme": "Hilfsorganisationen und kirchliche Stimmen (etwa Vatican News) rücken die Opfer und die Forderung nach sicheren Migrationswegen ins Zentrum. Andere verweisen darauf, dass Schlepper die Menschen auf überfüllte, seeuntaugliche Boote setzen und jede Aufnahmebereitschaft in Europa als Anreiz für weitere gefährliche Überfahrten wirkt; die EU setzt deshalb auf Zusammenarbeit mit westafrikanischen Staaten bei der Grenzsicherung. Über Herkunft und Ziel der Insassen gibt es noch keine offiziellen Angaben.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/c58j484089ewo"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/senegal-migration-migrants-boat-death-yenne-dadc99eceda7ecee1d868ec34f1932e6"
+                },
+                {
+                  "name": "Seneweb",
+                  "url": "https://www.seneweb.com/fr/news/Societe/chavirement-dune-pirogue-a-yen-todd-quatre-corps-sans-vie-de-presumes-migrants-decouverts-a-sendou-et-a-yenne_n_999004046.html"
+                },
+                {
+                  "name": "RTVE",
+                  "url": "https://www.rtve.es/noticias/20261119/decenas-desaparecidos-volcar-barco-migrantes-costas-senegal/17321279.shtml"
+                },
+                {
+                  "name": "Vatican News",
+                  "url": "https://www.vaticannews.va/en/world/news/2026-11/migrants-boat-sinking-west-african-route-senegal-europe-pope.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-israel-moschee-kafr-dahi-brandanschlag",
+              "slug": "israel-moschee-kafr-dahi-brandanschlag",
+              "title": "Israel: Brandanschlag auf Moschee bei Afula, Polizei und Shin Bet ermitteln",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🕌",
+              "edition": "evening",
+              "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/19/ByC5Wb30fe/ByC5Wb30fe_0_0_1280_720_0_large.jpg",
+              "kurz": "Maskierte haben in Kafr Dahi im Norden Israels einen Brandsatz in eine Moschee geworfen. An Wänden stand auf Hebräisch «Rache». Festnahmen gibt es noch keine.",
+              "summary": "Unbekannte haben in der Nacht auf Donnerstag im arabischen Dorf Kafr Dahi bei Afula im Norden Israels eine Moschee in Brand gesetzt. Laut dem Imam brachen drei Maskierte ein Fenster auf und warfen einen Molotowcocktail; der Schaden blieb begrenzt, verletzt wurde niemand. Die Polizei ermittelt wegen Brandstiftung und eines mutmasslichen Hassverbrechens, der Inlandgeheimdienst Shin Bet ist beteiligt.",
+              "gegenstimme": "Arabische Abgeordnete wie Ahmad Tibi und Mansour Abbas machen die Regierung Netanyahu und Polizeiminister Ben-Gvir politisch mitverantwortlich und sprechen von Terror. Die Regierung hat das in den geprüften Quellen nicht kommentiert; die Polizei kündigte an, die Täter zu fassen. Ynet erinnert daran, dass es in Afula auch Angriffe in die andere Richtung gab: Im Oktober verwüstete ein 15-Jähriger eine Synagoge, die Anklage spricht von Feindseligkeit gegen Juden.",
+              "sources": [
+                {
+                  "name": "Ynetnews",
+                  "url": "https://www.ynetnews.com/article/hje9qg30zg"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/police-confirm-mosque-fire-being-investigated-as-arson-vow-to-hunt-down-suspects/"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-bremerhaven-kirchenasyl-abschiebung-gescheitert",
+              "slug": "bremerhaven-kirchenasyl-abschiebung-gescheitert",
+              "title": "Bremerhaven: Abschiebung aus Kirchenasyl scheitert, Behörden brachen Tür auf",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "international",
+              "icon": "⛪",
+              "edition": "evening",
+              "image": "https://images.welt.de/6afed5c572bc92eb4665e5f5/2915c7c046abd28b16658d3d8c3adcce/ci16x9-w1200/dpa-com-20090101-260118-935-1087406-jpg",
+              "kurz": "Behörden wollten eine 62-jährige Syrerin aus dem Kirchenasyl nach Polen überstellen. Sie war nicht in ihrem Zimmer; nun wird nach ihr gefahndet.",
+              "summary": "Die Ausländerbehörde des Kreises Coesfeld (NRW) hat am Mittwochmorgen mit Hilfe der Polizei Bremerhaven versucht, eine 62-jährige kurdische Syrerin aus dem Kirchenasyl der evangelischen Johannes-Gemeinde nach Polen zu überstellen. Mitarbeiter liessen die Tür des Gemeindehauses aufbrechen, gestützt auf einen Durchsuchungsbeschluss des Verwaltungsgerichts Bremen. Die Frau war nicht in ihrem Zimmer, die Überstellung scheiterte, nun wird nach ihr gefahndet.",
+              "gegenstimme": "Pastor Sebastian Ritter kritisiert, die Tür sei mit einer Brechstange aufgebrochen worden, obwohl er bereit gewesen sei aufzuschliessen; der Behördenleiter habe ihn zuvor unter Druck gesetzt. Die Behörden halten dagegen: Das Bamf habe die Härtefallgründe geprüft und verworfen, die Frau habe eine freiwillige Ausreise abgelehnt, und gegen niemanden sei Zwang angewendet worden («Gestürmt wurde nichts»). Kirchenasyl hat keine gesetzliche Grundlage, der Staat duldet es nur.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6afed5c572bc92eb4665e5f5/bremerhaven-polizei-bricht-tuer-mit-brecheisen-auf-abschiebeversuch-aus-kirchenasyl-scheitert.html"
+                },
+                {
+                  "name": "buten un binnen (Radio Bremen)",
+                  "url": "https://www.butenunbinnen.de/nachrichten/abschiebeversuch-kirchenasly-bremerhaven-100.html"
+                },
+                {
+                  "name": "evangelisch.de",
+                  "url": "https://www.evangelisch.de/inhalte/261187/19-11-2026/bremerhaven-abschiebeversuch-aus-kirchenasyl-scheitert"
+                },
+                {
+                  "name": "Weser-Kurier",
+                  "url": "https://www.weser-kurier.de/bremen/kirchenasyl-gestuermt-abschiebeversuch-in-bremerhavener-gemeindehaus-doc88izvr1djg810s2fl2nt"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-musk-bereut-wahlkampfspenden-republikaner",
+              "slug": "musk-bereut-wahlkampfspenden-republikaner",
+              "title": "Elon Musk bereut fast 500 Millionen Dollar Wahlkampfspenden: «Ich bin nicht MAGA»",
+              "date": "2026-11-19",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/8352b7e1-db1d-428d-905f-fba150464131/AAABofMd_No/AAABnSSvrFg/16x9-big/musk-336.jpg?width=1280",
+              "kurz": "Nach der Niederlage der Republikaner bei den Zwischenwahlen sagt Musk, er komme sich «ziemlich dumm» vor, so viel Geld ausgegeben zu haben.",
+              "summary": "Elon Musk hat an einer Konferenz der New York Times gesagt, er komme sich «ziemlich dumm vor», vor den US-Zwischenwahlen so viel Geld für die Republikaner ausgegeben und so wenig dafür bekommen zu haben. Er hatte die Partei mit fast 500 Millionen Dollar unterstützt, einen Grossteil davon in Texas. Dort verloren der Republikaner Ken Paxton das Senatsrennen gegen James Talarico und Gouverneur Greg Abbott gegen die Demokratin Gina Hinojosa.",
+              "gegenstimme": "Musk relativiert selbst: Ohne seine Spenden hätten die Republikaner womöglich noch schlechter abgeschnitten. Kritiker sehen im Kurswechsel Opportunismus, da Musk die Demokraten noch kurz zuvor als «Partei des Hasses» bezeichnete und einen Wahlaufruf auf X nachträglich löschte. Für viele Republikaner zeigt das Ergebnis eher die Schwäche einzelner Kandidaten wie Paxton als ein Versagen von Wahlkampfgeld.",
+              "sources": [
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/ausland/amerika/musk-spenden-republikaner-100.html"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/elon-musk-nach-den-midterms-ich-bin-kein-maga-543027458675"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o"
                 }
               ]
             }
