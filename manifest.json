@@ -1,6 +1,358 @@
 {
-  "updated": "2026-11-18T17:04:31+01:00",
+  "updated": "2026-11-19T06:10:30+01:00",
   "days": [
+    {
+      "date": "2026-11-19",
+      "editions": {
+        "morning": {
+          "time": "06:10",
+          "articles": [
+            {
+              "id": "2026-11-19-anthropic-rekord-boersengang-81-milliarden",
+              "slug": "anthropic-rekord-boersengang-81-milliarden",
+              "title": "Anthropic: Grösster Börsengang der Geschichte, Ausgabepreis 83 Dollar",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "kurz": "Anthropic hat seine Aktien über der Preisspanne platziert und 81,3 Milliarden Dollar eingenommen. Heute beginnt der Handel an der Nasdaq.",
+              "summary": "Die KI-Firma Anthropic hat am Mittwochabend den Ausgabepreis für ihren Börsengang auf 83 Dollar je Aktie festgelegt, über der Spanne von 70 bis 78 Dollar, und wegen hoher Nachfrage 980 statt 825 Millionen Aktien verkauft. Das bringt 81,3 Milliarden Dollar ein, mehr als der SpaceX-Börsengang im Juni. Mit einer zusätzlichen Direktplatzierung von rund 26 Milliarden Dollar summiert sich die Kapitalaufnahme auf über 107 Milliarden; die Aktie wird ab heute, 19. November, unter dem Kürzel ANT an der Nasdaq gehandelt.",
+              "gegenstimme": "Die Bewertung von rund 1,5 Billionen Dollar entspricht laut finanzen.net etwa dem 18,5-Fachen der hochgerechneten Jahresumsatzrate; Skeptiker sehen darin ein Zeichen einer KI-Blase. Zudem dürfen Mitarbeitende schon ab dem ersten Handelstag einen Teil ihrer Aktien verkaufen, was den Kurs belasten kann. Bemerkenswert ist auch, dass CEO Dario Amodei vor Investoren selbst vor den Risiken der eigenen Technologie warnt.",
+              "sources": [
+                {
+                  "name": "Anthropic (Mitteilung)",
+                  "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/ueber-81-milliarden-us-dollar-anthropic-gelingt-rekord-boersengang"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-boersengang-ausgabepreis-von-83-dollar-je-aktie-festgelegt-a-816300aa-dd4b-44d5-90cd-f7f5403e3b35"
+                },
+                {
+                  "name": "tagesschau.de",
+                  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
+                },
+                {
+                  "name": "finanzen.net (Einordnung)",
+                  "url": "https://www.finanzen.net/ratgeber/news/anthropic-aktie-zu-83-dollar-wer-verkaufen-darf-und-wer-den-kurs-stuetzt-19-11-2026-01/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-shenzhen-dreiertreffen-trump-xi-putin",
+              "slug": "shenzhen-dreiertreffen-trump-xi-putin",
+              "title": "Shenzhen: Trump, Xi und Putin treffen sich heute erstmals zu dritt",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd95b92724-1795003833_223de5-1795004696.jpg?resize=1200%2C630&quality=80",
+              "kurz": "Am Rand des Apec-Gipfels kommen die Staatschefs der USA, Chinas und Russlands zu ihrem ersten Dreiertreffen zusammen. Erwartet werden wenig konkrete Ergebnisse.",
+              "summary": "US-Präsident Donald Trump, Chinas Staatschef Xi Jinping und Russlands Präsident Wladimir Putin treffen sich am Donnerstag in Shenzhen am Rand des Apec-Gipfels zu ihrem ersten formellen Dreiergespräch. Laut Weissem Haus will Trump über den Krieg mit Iran und ein mögliches Dreierabkommen zur nuklearen Rüstungskontrolle sprechen. Die Ukraine steht laut Al Jazeera nicht auf der formellen Agenda, weil Xi sich nicht in den Konflikt hineinziehen lassen will.",
+              "gegenstimme": "Europäische Politiker wie CDU-Mann Roderich Kiesewetter sehen im Treffen einen Erfolg für Putin und warnen vor einem «neuen Jalta» über die Köpfe Europas hinweg; schon der gemeinsame Fototermin gilt in der WELT als diplomatischer Gewinn für Moskau. Analysten wie Vuk Vuksanovic (King's College) halten den Vergleich dagegen für überzogen, weil keine Aufteilung von Einflusszonen in Sicht sei. Aus Sicht vieler Staaten des Globalen Südens ist ein Gespräch der drei Mächte grundsätzlich willkommen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting"
+                },
+                {
+                  "name": "Washington Post",
+                  "url": "https://www.washingtonpost.com/politics/2026/11/18/trump-xi-putin-meet-with-conflicting-agendas-sharp-divides/"
+                },
+                {
+                  "name": "NBC News",
+                  "url": "https://www.nbcnews.com/world/asia/trump-pushes-three-way-nuclear-deal-russia-china-show-little-interest-rcna610145"
+                },
+                {
+                  "name": "WELT (Politik-Übersicht)",
+                  "url": "https://www.welt.de/politik/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-usa-venezuela-militaerkooperation-hegseth-caracas",
+              "slug": "usa-venezuela-militaerkooperation-hegseth-caracas",
+              "title": "USA und Venezuela nehmen militärische Zusammenarbeit wieder auf",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "international",
+              "icon": "🇻🇪",
+              "edition": "morning",
+              "kurz": "Bei einem Überraschungsbesuch in Caracas hat US-Kriegsminister Pete Hegseth ein Abkommen zur militärischen Zusammenarbeit mit der Übergangsregierung von Delcy Rodríguez unterzeichnet.",
+              "summary": "US-Verteidigungs- bzw. Kriegsminister Pete Hegseth hat am Mittwoch bei einem unangekündigten Besuch in Caracas mit Venezuelas Verteidigungsminister Gustavo González López ein Abkommen zur Wiederaufnahme der militärtechnischen Zusammenarbeit unterzeichnet. Vorgesehen sind gemeinsame Ausbildung, Austausch von Geheimdienstinformationen und Lieferungen von Ausrüstung. Die Kooperation war 2005 unter Hugo Chávez abgebrochen worden; es ist Hegseths erster Besuch seit der Gefangennahme von Nicolás Maduro durch US-Truppen im Januar.",
+              "gegenstimme": "Die USA haben laut Washington Post selbst mehrere hochrangige venezolanische Offiziere wegen Drogenhandels angeklagt und machen mit Delcy Rodríguez nun eine Politikerin aus dem Chávez-Lager zur Sicherheitspartnerin. Die Gefangennahme Maduros ohne Zustimmung des Kongresses war einer der Punkte im gescheiterten Amtsenthebungsantrag gegen Hegseth. Aus Sicht der Regierung Trump dagegen zeigt das Abkommen, dass Druck wirkt: Venezuela sei vom «aggressivsten regionalen Gegner» zum kooperativen Partner geworden.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/hegseth-venezuela-maduro-trump-e02dd6173e575c644a37dd417d84296d"
+                },
+                {
+                  "name": "EFE",
+                  "url": "https://efe.com/english/latest-news/2026-11-18/venezuela-us-resume-military-cooperation-severed-in-2005/"
+                },
+                {
+                  "name": "Miami Herald",
+                  "url": "https://www.miamiherald.com/news/nation-world/world/americas/venezuela/article318144022.html"
+                },
+                {
+                  "name": "RNV (venezolanischer Staatssender)",
+                  "url": "https://rnv.gob.ve/venezuela-y-ee-uu-acuerdo-cooperacion-tecnico-militar/"
+                },
+                {
+                  "name": "Washington Post",
+                  "url": "https://www.washingtonpost.com/world/2026/11/18/hegseth-makes-surprise-appearance-venezuela-renews-military-partnership/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-budget-2027-staenderatskommission-ja",
+              "slug": "budget-2027-staenderatskommission-ja",
+              "title": "Budget 2027: Ständeratskommission sagt Ja, Nationalratskommission Nein",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "schweiz",
+              "icon": "💰",
+              "edition": "morning",
+              "kurz": "Die Finanzkommission des Ständerats unterstützt das Bundesbudget 2027 mit 11 zu 0 Stimmen, will aber mehr Geld für Rüstung und weniger für das Asylwesen.",
+              "summary": "Die Finanzkommission des Ständerats (FK-S) beantragt, das Bundesbudget 2027 anzunehmen, mit 11 zu 0 Stimmen bei einer Enthaltung. Die Finanzkommission des Nationalrats will das Budget hingegen an den Bundesrat zurückweisen. Die FK-S beantragt unter anderem rund 101 Millionen Franken mehr für Rüstungsgüter, kompensiert durch Kürzungen anderswo; die Schuldenbremse bleibt eingehalten.",
+              "gegenstimme": "Eine ungewöhnliche Allianz aus SVP, SP und Grünen hatte in der Nationalratskommission das Budget abgelehnt, jeweils aus gegensätzlichen Gründen: Die Rechte will weniger Ausgaben ausserhalb der Armee, die Linke mehr für Soziales, Klima und Entwicklungshilfe. Für sie zeigen die Kürzungen der FK-S bei Integration und Asyl die falschen Prioritäten. Zudem bleibt laut Kommission nur noch ein struktureller Überschuss von knapp 8 Millionen Franken, also kaum Spielraum für die Räte.",
+              "sources": [
+                {
+                  "name": "Parlamentsdienste (Mitteilung FK-S, frz.)",
+                  "url": "https://www.parlament.ch/press-releases/Pages/mm-fk-s-2026-11-18.aspx"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/budget-2027-staenderatskommission-stellt-sich-hinter-voranschlag-des-bundes"
+                },
+                {
+                  "name": "watson (Keystone-SDA)",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/961567025-bundes-budget-staenderatskommission-will-trotz-etlicher-antraege-ein-ja"
+                },
+                {
+                  "name": "Swissinfo",
+                  "url": "https://www.swissinfo.ch/eng/swiss-politics/council-of-states-committee-backs-the-federal-budget/92402549"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-bern-staatsbankett-katar-infantino-kritik",
+              "slug": "bern-staatsbankett-katar-infantino-kritik",
+              "title": "Staatsbesuch aus Katar: Kritik an Infantino am Staatsbankett in Bern",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "regional",
+              "icon": "🍽️",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/11/18/0c451aed-10c5-4356-a7c5-5cfd8172421b.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C177%2C1920%2C1080&s=ff321194a733d89d3c0ece2cb1cc12a7",
+              "kurz": "Am Galadiner für den Emir von Katar im Bernerhof sass auch Fifa-Präsident Gianni Infantino. Die SP kritisiert das, die FDP verteidigt den Besuch.",
+              "summary": "Beim Staatsbankett für den Emir von Katar, Scheich Tamim bin Hamad al Thani, am Mittwochabend im Bernerhof sass auch Fifa-Präsident Gianni Infantino am Tisch, wie der «Tages-Anzeiger» berichtet. Ebenfalls dabei waren PSG-Präsident Nasser al-Khelaifi, Vertreter des katarischen Staatsfonds QIA sowie Wirtschaftsgrössen wie Glencore-Chef Gary Nagle. Die Schweiz und Katar unterzeichneten zwei Absichtserklärungen, unter anderem zu Tourismus und Entwicklungszusammenarbeit.",
+              "gegenstimme": "FDP-Nationalrat Hans-Peter Portmann hält den offiziellen Empfang für richtig: Die Schweiz habe ihre Beziehungen zu den Golfstaaten stark vertieft, und Katar habe seit der WM Fortschritte bei Arbeitsrechten und gesellschaftlicher Öffnung gemacht. Bundespräsident Guy Parmelin betonte die wachsenden Schweizer Investitionen in Katar und die gemeinsame Friedensvermittlung. Gemäss SRF wirft die Partnerschaft mit Katar aber auch Fragen auf.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/staatsbesuch-katar-infantino-am-galadiner-in-bern-499978001266"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/katar-delegation-in-bern-ueberschattet-den-besuch-wirbel-um-infantino-bei-staatsbankett-103669789"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/staatsbesuch-aus-golfstaat-die-schweiz-und-katar-eine-partnerschaft-die-fragen-aufwirft"
+                },
+                {
+                  "name": "Kantonspolizei Bern (Verkehr)",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=bee48382-073f-438d-bf61-2d87003c7e13"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-deutsche-bank-leak-schweiz-oligarchen",
+              "slug": "deutsche-bank-leak-schweiz-oligarchen",
+              "title": "Deutsche-Bank-Leak: Russische Hochrisikokunden liefen über die Schweiz",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/0dcba1.jpg",
+              "kurz": "Ein Leak von über 15 Millionen internen Dokumenten zeigt, dass die Deutsche Bank russische Oligarchen grösstenteils über Zürich und Genf betreute. Konzernchef Sewing räumt Fehler ein.",
+              "summary": "Ein Rechercheverbund (u. a. Financial Times, Spiegel, New York Times, ZDF) hat über 15 Millionen interne Dokumente der Deutschen Bank ausgewertet, die zwei Whistleblower zugespielt hatten. Laut den Daten wickelte die Bank zumindest 2015 den Grossteil ihrer Geschäfte mit russischen Oligarchen über die Schweiz ab und vernachlässigte über Jahre interne Geldwäschekontrollen. Konzernchef Christian Sewing räumte im «Handelsblatt» Versäumnisse ein: «Ich bin nicht fehlerfrei.»",
+              "gegenstimme": "Die Deutsche Bank betont, sie habe seit 2018 sieben Milliarden Euro in Compliance und Geldwäscheprävention investiert und «überhaupt nichts zu verbergen»; Kontonummern, Kontostände oder Login-Daten seien nicht betroffen. Wirtschaftsrechtler Peter V. Kunz (Uni Bern) sieht in den Enthüllungen vor allem «Schmuddeleien, aber nichts Illegales». Für Kunz ist vor allem heikel, wie die Daten überhaupt nach aussen gelangten; die hessische Datenschutzaufsicht prüft, ob die Bank den Abfluss rechtzeitig gemeldet hat.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/wirtschaft/datenleck-bei-deutsche-bank-die-schweiz-als-drehscheibe-fuer-heikle-geschaefte-mit-oligarchen"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/deutsche-bank-chef-sewing-r%c3%a4umt-nach-datenleck-fehler-ein/92399390"
+                },
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/wirtschaft/international/929203185-datenleak-bei-deutschen-bank-erschuettert-finanzwelt-das-ist-passiert"
+                },
+                {
+                  "name": "WirtschaftsWoche",
+                  "url": "https://www.wiwo.de/unternehmen/banken/untersuchung-datenschutzaufsicht-leitet-verfahren-gegen-deutsche-bank-ein/100271033.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-grossbritannien-1000-langstreckendrohnen-ukraine",
+              "slug": "grossbritannien-1000-langstreckendrohnen-ukraine",
+              "title": "Grossbritannien liefert der Ukraine über 1000 Langstrecken-Kampfdrohnen",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "kurz": "Premierminister Andy Burnham kündigt in Berlin ein Paket über 260 Millionen Pfund an, mit Drohnen, die über 1000 Kilometer weit fliegen.",
+              "summary": "Der britische Premierminister Andy Burnham kündigt beim Treffen der «Koalition der Willigen» in Berlin ein Hilfspaket von 260 Millionen Pfund für die Ukraine an. Es umfasst mehr als 1000 Langstrecken-Kampfdrohnen, teils mit über 1000 Kilometern Reichweite, um Rüstungsbetriebe und andere militärische Ziele weit hinter der Front zu treffen. Dazu kommen Versorgungs-, See- und Aufklärungsdrohnen.",
+              "gegenstimme": "Die US-Regierung hatte zuletzt ukrainische Tiefenschläge gegen Russland wie den Angriff auf die Krim-Brücke kritisiert; mehr Langstreckenwaffen laufen dieser Linie zuwider. Moskau wirft europäischen Staaten zunehmend direkte Kriegsbeteiligung vor; Aussenminister Lawrow sagte dies am Mittwoch über Frankreich, was Paris als «absurd» zurückwies. Laut Regierung fliessen zudem über 80 Prozent des Geldes in die britische Industrie; das Paket ist damit auch Industrie- und Arbeitsplatzpolitik.",
+              "sources": [
+                {
+                  "name": "GOV.UK (Premierminister)",
+                  "url": "https://www.gov.uk/government/news/1000-long-range-strike-drones-announced-for-ukraine-as-prime-minister-co-chairs-coalition-of-the-willing-in-berlin"
+                },
+                {
+                  "name": "LBC",
+                  "url": "https://www.lbc.co.uk/article/uk-ukriane-drone-1000-strike-long-range-5HjdnG6_2/"
+                },
+                {
+                  "name": "WELT (Lawrow/Frankreich)",
+                  "url": "https://www.welt.de/politik/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-russischer-agent-silicon-valley-anklage",
+              "slug": "russischer-agent-silicon-valley-anklage",
+              "title": "USA: Russe wegen Spionage gegen Rüstungsfirma im Silicon Valley angeklagt",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "international",
+              "icon": "🕵️",
+              "edition": "morning",
+              "kurz": "Ein Russe soll im Auftrag Moskaus Mitarbeitende einer Technologie- und Rüstungsfirma in Palo Alto ausgespäht und verfolgt haben, weil diese die Ukraine beliefert.",
+              "summary": "Eine Grand Jury in Kalifornien hat den russischen Staatsangehörigen Igor D'iu angeklagt, im Auftrag Russlands Mitarbeitende einer Technologie- und Rüstungsfirma mit Büro in Palo Alto ausgespäht zu haben. Laut US-Justizministerium war er im Sommer 2026 über Telegram angeworben worden und illegal über Mexiko in die USA eingereist. Er soll unter anderem eine Mitarbeiterin fast 30 Meilen weit im Auto verfolgt haben; die Firma wurde nach Angaben der Anklage ins Visier genommen, weil sie Waffen für die Ukraine liefert.",
+              "gegenstimme": "Es handelt sich um eine Anklage, nicht um ein Urteil; D'iu gilt bis zu einer Verurteilung als unschuldig, und Russland hat sich zu den Vorwürfen nicht geäussert. Politisch heikel ist ein Detail, das die Anklage selbst nennt: Ein Helfer brachte D'iu illegal über die Grenze von Mexiko in die USA. Den Namen der betroffenen Firma nennen die Behörden nicht.",
+              "sources": [
+                {
+                  "name": "US-Justizministerium",
+                  "url": "https://www.justice.gov/opa/pr/russian-national-indicted-acting-foreign-agent-russia-target-silicon-valley-technology-and"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/technology/2026/nov/18/russian-national-spying-silicon-valley"
+                },
+                {
+                  "name": "Washington Post",
+                  "url": "https://www.washingtonpost.com/nation/2026/11/18/russian-national-charged-with-spying-silicon-valley-defense-contractor/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-us-chipregeln-suedostasien-rechenzentren",
+              "slug": "us-chipregeln-suedostasien-rechenzentren",
+              "title": "Neue US-Exportregeln für KI-Chips treffen Rechenzentren in Südostasien",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "tech",
+              "icon": "💾",
+              "edition": "morning",
+              "image": "https://image.cnbcfm.com/api/v1/image/108554079-1795007365772-gettyimages-2301831897-MALAYSIA_DATA_CENTERS.jpeg?v=1795007394&w=1920&h=1080",
+              "kurz": "Rechenzentren in Malaysia, Thailand und Singapur brauchen neu eine US-Lizenz für fortschrittliche KI-Chips. Ziel ist, Chinas Umweg über gemietete Rechenleistung zu schliessen.",
+              "summary": "Das US-Handelsministerium verlangt neu eine Lizenz für die Ausfuhr fortschrittlicher KI-Chips, etwa von Nvidia, an Rechenzentren in mehreren südostasiatischen Ländern; die Regeln gelten ab dem 19. November. Anlagen, die bereits grosse chinesische Kunden bedienen, haben 90 Tage Zeit für ein Lizenzgesuch. US-Cloudanbieter sind ausgenommen, sofern sie Meldepflichten erfüllen.",
+              "gegenstimme": "Analysten warnen, die Regeln könnten Chinas Firmen einfach zu US-Cloudanbietern umlenken: Chris McGuire vom Council on Foreign Relations befürchtet, Chinesen würden Rechenleistung dann in Virginia statt in Malaysia mieten, und fordert, auch diese Lücke zu schliessen. Aus Sicht der betroffenen Länder bremst Washington damit ein wichtiges Wachstumsfeld; Capital Economics schätzt, Malaysias Wachstum könne bis 2028 um 0,2 Prozentpunkte gedämpft werden.",
+              "sources": [
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html"
+                },
+                {
+                  "name": "The Nation Thailand",
+                  "url": "https://www.nationthailand.com/business/economy/40073669"
+                },
+                {
+                  "name": "US-Handelsministerium (BIS, Regeltext)",
+                  "url": "https://www.bis.gov/media/documents/rin-0694-ak50.pdf"
+                },
+                {
+                  "name": "NBC News",
+                  "url": "https://www.nbcnews.com/tech/tech-news/us-closes-loophole-let-chinese-companies-use-top-ai-chips-rcna609634"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-irak-lebenslang-franzoesische-is-mitglieder",
+              "slug": "irak-lebenslang-franzoesische-is-mitglieder",
+              "title": "Irak: Lebenslange Haft für sechs weitere französische IS-Mitglieder",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://s.rfi.fr/media/display/ccfe1c76-b535-11f1-99f3-6f779f079bc8/w:1280/p:16x9/2026-09-20T105605Z-1073093610-RC2YMNAC6QLI-RTRMADP-3-IRAQ-TRIAL-ISLAMIC-STATE.jpg",
+              "kurz": "Ein Gericht in Bagdad hat sechs Franzosen wegen Mitgliedschaft im Islamischen Staat verurteilt, darunter den Jihadisten Thomas Barnouin aus dem Umfeld von Mohamed Merah.",
+              "summary": "Das Strafgericht Karkh in Bagdad hat am Mittwoch sechs französische Staatsangehörige wegen Mitgliedschaft in der Terrormiliz Islamischer Staat (IS) zu lebenslanger Haft verurteilt; nach irakischem Recht entspricht das 20 Jahren. Damit sind seit Prozessbeginn im September 16 von 47 Franzosen, die aus Syrien in den Irak überstellt wurden, zu lebenslanger Haft verurteilt worden. Unter den Verurteilten ist der 45-jährige Konvertit Thomas Barnouin.",
+              "gegenstimme": "Die französischen Anwälte Matthieu Bagard und Marie Dosé sprechen von einer «illegalen Überstellung» aus Syrien, berichten von Folter und erzwungenen Geständnissen und fordern Prozesse in Frankreich; ihnen wird die Einreise in den Irak verweigert. Menschenrechtsorganisationen kritisieren irakische Terrorprozesse als überhastet. Frankreich lässt die Verfahren im Irak dagegen bewusst zu und holt die meisten mutmasslichen Jihadisten nicht zurück.",
+              "sources": [
+                {
+                  "name": "Irakischer Oberster Justizrat",
+                  "url": "https://www.sjc.iq/view-en.81158/"
+                },
+                {
+                  "name": "RFI",
+                  "url": "https://www.rfi.fr/en/international/20261118-iraq-hands-six-more-french-is-members-life-sentences-including-barnouin"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil"
+                },
+                {
+                  "name": "The National",
+                  "url": "https://www.thenationalnews.com/news/mena/2026/11/18/iraqi-court-sentences-six-more-french-isis-members-to-life-in-prison/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-haiti-moise-mord-pastor-sanon-schuldig",
+              "slug": "haiti-moise-mord-pastor-sanon-schuldig",
+              "title": "Mord an Haitis Präsident Moïse: Jury in Miami spricht Pastor Sanon schuldig",
+              "date": "2026-11-19",
+              "time": "06:10",
+              "category": "international",
+              "icon": "🇭🇹",
+              "edition": "morning",
+              "kurz": "Ein Bundesgericht in Miami hat den haitianisch-amerikanischen Pastor Christian Emmanuel Sanon in allen acht Anklagepunkten zum Komplott gegen Jovenel Moïse schuldig gesprochen.",
+              "summary": "Eine Jury in Miami hat den haitianisch-amerikanischen Pastor Christian Emmanuel Sanon in allen acht Anklagepunkten im Zusammenhang mit der Ermordung von Haitis Präsident Jovenel Moïse im Juli 2021 schuldig gesprochen, darunter Verschwörung zur Tötung oder Entführung des Präsidenten. Ihm droht lebenslange Haft. Das Strafmass soll am 10. Februar 2027 verkündet werden.",
+              "gegenstimme": "Sanon (68) bestritt bis zuletzt, von Mordplänen gewusst zu haben; die Gruppe, mit der er Kontakt hatte, habe sich lange vor der Tat einem anderen Kandidaten zugewandt. Seine Anwältin Zeljka Bozanic kündigte Berufung an. Zudem bleibt die Frage nach den Drahtziehern offen: Der frühere Antikorruptionsbeamte Joseph Felix Badio, den andere Verteidiger als Kopf der Operation bezeichnen, steht noch vor Gericht, und der mitangeklagte Bandenführer Vitel'homme Innocent ist nicht gefasst.",
+              "sources": [
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/haiti-president-assassination-miami-florida-213f38969e16ae2d7b48c37692df9eb1"
+                },
+                {
+                  "name": "Miami Herald",
+                  "url": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318130545.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-18",
       "editions": {
