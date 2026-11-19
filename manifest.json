@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T06:10:30+01:00",
+  "updated": "2026-11-19T12:08:32+01:00",
   "days": [
     {
       "date": "2026-11-19",
@@ -346,6 +346,394 @@
                 {
                   "name": "Al Jazeera",
                   "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:08",
+          "articles": [
+            {
+              "id": "2026-11-19-dreiergipfel-shenzhen-trump-xi-putin-atomwaffen",
+              "slug": "dreiergipfel-shenzhen-trump-xi-putin-atomwaffen",
+              "title": "Dreiergipfel in Shenzhen: Xi warnt vor Atomkrieg, Putin bringt die Ukraine ein",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "international",
+              "icon": "🌏",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/180ac59e-a71f-4a07-9b31-65995976b3d4/AAABofM_JFw/AAABnSSvrFg/16x9-big/trump-xi-putin-106.jpg?width=1280",
+              "kurz": "Erstmals haben sich die Staatschefs der USA, Chinas und Russlands zu dritt getroffen. Konkrete Vereinbarungen sind bisher nicht bekannt.",
+              "summary": "Donald Trump, Xi Jinping und Wladimir Putin haben sich am Donnerstag am Rande des Apec-Gipfels in Shenzhen zum ersten Dreiertreffen in dieser Zusammensetzung getroffen. Xi rief dazu auf, «alle Anstrengungen» gegen einen Atomkrieg zu unternehmen, und sprach laut Xinhua von einer Welt ohne Atomwaffen; Trump will China in die nukleare Rüstungskontrolle einbinden, nannte abgestimmte Reduktionen aber «eine sehr schwierige Sache». Putin rückte den Krieg in der Ukraine ins Zentrum und sprach von einer «gemeinsamen Verantwortung» der drei Mächte für den Weltfrieden.",
+              "gegenstimme": "Kritiker sehen im Treffen vor allem einen diplomatischen Gewinn für Putin, der trotz seines Angriffskriegs gegen die Ukraine gleichberechtigt mit den USA und China am Tisch sass; ARD-Korrespondenten sprechen von einer «Rückkehr auf die Weltbühne». Europa und die Ukraine waren nicht beteiligt, obwohl über Rüstungskontrolle und den Krieg gesprochen wurde. Umgekehrt argumentieren Befürworter, dass Gespräche zwischen den drei grössten Atommächten nach dem Auslaufen von New Start besser seien als keine.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/dreiergipfel-in-china-bahnbrechend-xi-trump-und-putin-halten-dreiertreffen-ab"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/china-dreiergipfel-mit-trump-und-putin-xi-fordert-welt-ohne-atomwaffen-103670073"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-igh-myanmar-voelkermord-rohingya-urteil",
+              "slug": "igh-myanmar-voelkermord-rohingya-urteil",
+              "title": "IGH-Urteil: Myanmar ist für Völkermord an den Rohingya verantwortlich",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Erstmals stellt der Internationale Gerichtshof die Verantwortung eines Staates für Völkermord fest: Myanmars Armee tötete 2017 rund 10'000 Rohingya.",
+              "summary": "Der Internationale Gerichtshof (IGH) in Den Haag hat am Donnerstag entschieden, dass Myanmar gegen die Völkermordkonvention verstossen hat und für den Völkermord an der muslimischen Minderheit der Rohingya verantwortlich ist. Laut Gericht töteten Myanmars Sicherheitskräfte bei den sogenannten Säuberungsoperationen 2017 rund 10'000 Rohingya, verübten massenhaft sexuelle Gewalt und griffen Flüchtende an; über 700'000 Menschen flohen nach Bangladesch. Es ist das erste Mal, dass das höchste UNO-Gericht einen Staat für Völkermord verantwortlich erklärt.",
+              "gegenstimme": "Myanmar hat die Vorwürfe stets bestritten und das Vorgehen als Antwort auf Angriffe der Rohingya-Miliz Arsa auf Polizeiposten dargestellt. Kritiker des Gerichts, etwa die regierungsnahe US-Denkfabrik Foundation for Defense of Democracies, warnen laut Guardian, das Urteil senke die rechtliche Schwelle für den Nachweis der Völkermordabsicht; die USA und Israel befürchten einen Präzedenzfall für das hängige Verfahren zu Gaza. Zudem fehlt dem IGH jede Möglichkeit, sein Urteil gegen die Militärjunta durchzusetzen.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/es-war-voelkermord-der-internationale-gerichtshof-urteilt-ueber-myanmars-vorgehen-gegen-die-rohingya-ld.10068579"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/urteil-des-uno-gerichtshofs-myanmar-verantwortlich-fuer-rohingya-voelkermord"
+                },
+                {
+                  "name": "The Guardian (Hintergrund)",
+                  "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-wallis-puk-rhone-hochwasser-siders-vermeidbar",
+              "slug": "wallis-puk-rhone-hochwasser-siders-vermeidbar",
+              "title": "PUK Wallis: Rhone-Hochwasser in Siders und Chippis wäre vermeidbar gewesen",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "schweiz",
+              "icon": "🌊",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/596248.jpg",
+              "kurz": "Eine parlamentarische Untersuchungskommission spricht von «kollektivem Versagen» des Kantons Wallis beim Hochwasserschutz. Staatsrat Ruppen widerspricht.",
+              "summary": "Die Überschwemmung der Rhone in Siders und Chippis in der Nacht auf den 30. Juni 2024 hätte laut der parlamentarischen Untersuchungskommission (PUK) des Walliser Grossen Rats sehr wahrscheinlich verhindert werden können. Die erste Etappe des Schutzprojekts lag seit 2008 öffentlich auf, war beim Hochwasser aber immer noch nicht genehmigt. Die PUK spricht im über 200-seitigen Bericht von einem «kollektiven Versagen mit verheerenden Folgen»; auch Mitglieder der Kantonsregierung trügen Verantwortung.",
+              "gegenstimme": "Der zuständige Staatsrat Franz Ruppen (SVP) weist den Vorwurf zurück, das Projekt sei unter ihm seit 2021 praktisch zum Stillstand gekommen, und verweist auf die neue Dienststelle für Naturgefahren und eine Neuorganisation der Projektführung. Sein Vorgänger Jacques Melly (Mitte) sagt, das Projekt sei Anfang 2021 bereit für die Auflage gewesen, die Verzögerungen danach lägen bei seinen Nachfolgern. Es sei zu einfach, das Hochwasser auf Führungsprobleme zurückzuführen.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/nach-unwetter-2024-puk-bericht-rhone-hochwasser-waere-vermeidbar-gewesen"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/untersuchung-sieht-vermeidbare-rhone-%c3%9cberschwemmung-im-wallis/92406320"
+                },
+                {
+                  "name": "Nau.ch (Keystone-SDA)",
+                  "url": "https://www.nau.ch/politik/regional/ruppen-weist-kritik-am-hochwasserschutz-im-wallis-zuruck-67204460"
+                },
+                {
+                  "name": "RTN (frz.)",
+                  "url": "https://www.rtn.ch/rtn/Actualite/Suisse/20261119-Debordement-du-Rhone-de-2024-l-Etat-du-Valais-pointe-du-doigt.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-maya-graf-verzichtet-staenderat-2027",
+              "slug": "maya-graf-verzichtet-staenderat-2027",
+              "title": "Grüne Ständerätin Maya Graf tritt 2027 nicht mehr an",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "midday",
+              "kurz": "Nach 26 Jahren im Bundeshaus verzichtet die Baselbieter Ständerätin Maya Graf auf eine erneute Kandidatur. Der Sitz ist damit wieder offen.",
+              "summary": "Die Baselbieter Ständerätin Maya Graf (Grüne) kandidiert bei den eidgenössischen Wahlen vom 24. Oktober 2027 nicht mehr und tritt Ende der Legislatur zurück, wie die Grünen Baselland am Donnerstag mitteilten. Graf sitzt seit 2001 im Bundesparlament, war 2013 die erste grüne Nationalratspräsidentin und wurde 2019 in den Ständerat gewählt. Für die Nachfolge empfiehlt die Parteileitung Nationalrätin Florence Brenzikofer.",
+              "gegenstimme": "Für die Bürgerlichen im mehrheitlich bürgerlichen Baselbiet ist der Rücktritt eine Chance: SVP, FDP und Mitte haben bereits Landrat Pascal Ryf (Mitte) als gemeinsamen Kandidaten präsentiert und könnten eine zweite Kandidatur, etwa Balz Stückelberger (FDP), nachschieben. Auch innerhalb des linken Lagers ist die Nachfolge nicht gesetzt: SRF hält SP-Nationalrätin Samira Marti für chancenreicher als Brenzikofer.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2027-gruene-maya-graf-tritt-2027-nicht-mehr-als-staenderaetin-an"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175"
+                },
+                {
+                  "name": "Der Bund / Tamedia",
+                  "url": "https://www.derbund.ch/maya-graf-tritt-2027-nicht-mehr-an-brenzikofer-als-nachfolgerin-664904519118"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-publica-externe-untersuchung-datenklau",
+              "slug": "publica-externe-untersuchung-datenklau",
+              "title": "Datenklau bei der Pensionskasse des Bundes: Publica lässt sich extern untersuchen",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "schweiz",
+              "icon": "🔐",
+              "edition": "midday",
+              "kurz": "Nach dem Hackerangriff auf ihren Softwarelieferanten lässt Publica auch die eigene Aufsicht prüfen. Ein erster Bericht folgt bis Ende März 2027.",
+              "summary": "Die Kassenkommission der Pensionskasse des Bundes (Publica) hat am Donnerstag eine unabhängige externe Untersuchung zum Cyberangriff auf ihren Softwarelieferanten PK Softech beschlossen. Geprüft werden die Auswahl des Lieferanten, der Umgang mit Personendaten, die Wirksamkeit der Sicherheitskontrollen sowie Führung und Aufsicht der Publica selbst. Ein erster Bericht ist bis Ende März 2027 vorgesehen.",
+              "gegenstimme": "Die Untersuchung kommt fast zwei Monate nach dem Angriff, und die Publica beauftragt sie selbst, was Fragen zur Unabhängigkeit aufwerfen kann. Laut Tamedia könnten auch Angehörige des Nachrichtendienstes, Fedpol-Mitarbeitende, Elitesoldaten und ehemalige Bundesräte betroffen sein; das zeigt, dass es nicht nur um Datenschutz, sondern auch um Sicherheit geht. Die Publica selbst betont dagegen, ihre produktiven Systeme seien nicht betroffen und Renten sicher.",
+              "sources": [
+                {
+                  "name": "Publica (Mitteilung)",
+                  "url": "https://www.publica.ch/de/cyberangriff-auf-softwarelieferanten"
+                },
+                {
+                  "name": "cash (Keystone-SDA)",
+                  "url": "https://www.cash.ch/news/publica-lasst-nach-hackerangriff-externe-untersuchung-durchfuhren-986514"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/publica-externe-untersuchung-zum-cyberangriff-bei-pk-softech-623950876277"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-bern-viererfeld-schule-sportanlage-116-millionen",
+              "slug": "bern-viererfeld-schule-sportanlage-116-millionen",
+              "title": "Stadt Bern: 116,4 Millionen Franken für Schule und Sportanlage auf dem Viererfeld",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "regional",
+              "icon": "🏫",
+              "edition": "midday",
+              "kurz": "Der Berner Gemeinderat beantragt einen Baukredit von 116,4 Millionen Franken für Schulhaus, Turnhalle, Kunstrasen und Schutzräume. Das Volk entscheidet 2027.",
+              "summary": "Der Gemeinderat der Stadt Bern hat am Donnerstag zuhanden des Stadtrats einen Gesamtbaukredit von 116,4 Millionen Franken für das neue Quartier auf dem Viererfeld verabschiedet. Geplant sind ein viergeschossiges Schulhaus für 14 Klassen mit Tagesbetreuung, eine Dreifachturnhalle, ein Kunstrasenfeld sowie eine Einstellhalle mit rund 150 Plätzen und Schutzräumen für rund 2800 Personen. Die Stimmberechtigten sollen voraussichtlich im November 2027 entscheiden.",
+              "gegenstimme": "Der Kredit ist hoch für eine Stadt, die unter Spardruck steht, und er enthält eine Erhöhung des Projektierungskredits von 4,55 auf 10,6 Millionen Franken, mehr als eine Verdoppelung. Zudem ersetzt das Kunstrasenfeld den bestehenden Naturrasenplatz, der dem Quartier weichen muss; Kunstrasen ist wegen Mikroplastik umstritten. Die Stadt argumentiert dagegen, in Länggasse und Rossfeld fehle schon heute Schulraum.",
+              "sources": [
+                {
+                  "name": "Stadt Bern (Mitteilung)",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/viererfeld-baukredit-fuer-schule-sportanlage-und-quartierbauten"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/millionenkredit-f%c3%bcr-schul-und-sportanlagen-auf-berner-viererfeld/92405330"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/viererfeld-bern-116-4-millionen-franken-fuer-neues-schulhaus-388153630671"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/ort/bern/bern-1164-millionen-franken-fur-schule-und-sportanlage-67204209"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-bern-gpk-untersuchung-fallfuehrungssystem-nffs",
+              "slug": "bern-gpk-untersuchung-fallfuehrungssystem-nffs",
+              "title": "Kanton Bern: GPK untersucht das harzende 52-Millionen-IT-Projekt für die Sozialdienste",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "regional",
+              "icon": "💻",
+              "edition": "midday",
+              "kurz": "Die Geschäftsprüfungskommission des Grossen Rats untersucht das Neue Fallführungssystem. Es droht Jahre Verspätung und Mehrkosten.",
+              "summary": "Die Geschäftsprüfungskommission (GPK) des Berner Grossen Rats hat eine Untersuchung zum Neuen Fallführungssystem (NFFS) eingeleitet, wie sie am Donnerstag mitteilte. Die Software soll bei Sozialdiensten, Kindes- und Erwachsenenschutzbehörden (Kesb) und weiteren Stellen einheitlich eingesetzt werden; der bewilligte Kredit beträgt 52 Millionen Franken. Anlass sind drohende Mehrkosten und eine Verspätung um mehrere Jahre.",
+              "gegenstimme": "Der Kanton verteidigte das gewählte agile Vorgehen mit einem minimalen Grundsystem, räumte aber ein, die Einführung sei «rückblickend zu früh» erfolgt. Kritiker sehen ein Muster: Wieder droht ein öffentliches IT-Grossprojekt aus dem Ruder zu laufen, und das Parlament greift erst ein, nachdem Medien (zuerst das Onlinemagazin «Hauptstadt») die Probleme publik gemacht haben.",
+              "sources": [
+                {
+                  "name": "Kanton Bern / Nau.ch (Mitteilung GPK)",
+                  "url": "https://www.nau.ch/ort/bern/kanton-bern-gpk-untersucht-verzogerungen-beim-fallfuhrungssystem-67204349"
+                },
+                {
+                  "name": "Keystone-SDA / swissinfo",
+                  "url": "https://www.swissinfo.ch/ger/gpk-untersucht-verz%c3%b6gertes-it-projekt-der-berner-sozialdienste/92405591"
+                },
+                {
+                  "name": "Berner Zeitung",
+                  "url": "https://www.bernerzeitung.ch/gpk-bern-untersucht-it-projekt-der-sozialdienste-902804322397"
+                },
+                {
+                  "name": "inside-it.ch (Hintergrund)",
+                  "url": "https://www.inside-it.ch/berner-it-millionenprojekt-ist-schon-in-der-krise-20261020"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-krimbruecke-dritter-angriff-zugverkehr",
+              "slug": "krimbruecke-dritter-angriff-zugverkehr",
+              "title": "Krim-Brücke: Dritter Angriff in einer Woche, jetzt auch Zugverkehr unterbrochen",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "international",
+              "icon": "🌉",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABofJDxFU/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1280",
+              "kurz": "Nach der Strassenbrücke ist in der Nacht auch die Eisenbahnbrücke über die Meerenge von Kertsch angegriffen worden. Der Zugverkehr soll am Nachmittag wieder rollen.",
+              "summary": "Die Krim-Brücke ist in der Nacht auf Donnerstag erneut angegriffen worden, diesmal die Eisenbahnbrücke, wie der von Moskau eingesetzte Krim-Gouverneur Sergej Aksjonow mitteilte. Der Zugverkehr wurde unterbrochen und soll laut Aksjonow ab etwa 16 Uhr Ortszeit wieder aufgenommen werden; Verletzte gab es laut russischem Verkehrsministerium keine. Es ist der dritte Angriff in dieser Woche, am Dienstag war ein 227 Meter langer Abschnitt der Strassenbrücke zerstört worden.",
+              "gegenstimme": "Russland stellt die Brücke als zivile Verkehrsverbindung dar. Für die Ukraine ist sie dagegen ein legitimes militärisches Ziel, weil Russland über sie Truppen und Material auf die Krim bringt; Kiew hält den Bau auf annektiertem Gebiet für illegal. Unabhängige Beobachter weisen zudem darauf hin, dass Schadensangaben beider Seiten Teil der Informationskriegsführung sind.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-neuer-angriff-auf-krim-bruecke-zugverkehr-vorerst-eingestellt"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/ukraine-releases-video-showing-damage-putins-prized-bridge-following-unprecedented-operation-crimea"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-bsi-lagebericht-angespannt-bis-kritisch-ki",
+              "slug": "bsi-lagebericht-angespannt-bis-kritisch-ki",
+              "title": "BSI-Lagebericht: Cyberlage in Deutschland erstmals «angespannt bis kritisch»",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "midday",
+              "kurz": "KI-Agenten machen Angriffe schneller: Laut dem deutschen BSI werden Sicherheitslücken heute im Schnitt nach 8 statt 53 Tagen ausgenutzt.",
+              "summary": "Das deutsche Bundesamt für Sicherheit in der Informationstechnik (BSI) stuft die Cybersicherheitslage in seinem am Donnerstag veröffentlichten Jahresbericht erstmals als «angespannt bis kritisch» ein, nach «angespannt» im Vorjahr. Hauptgrund ist künstliche Intelligenz: KI-Agenten finden Schwachstellen, entwickeln passende Angriffe und verketten Lücken. Die Zeit zwischen Bekanntwerden und Ausnutzung einer Lücke sank im zweiten Quartal 2026 auf durchschnittlich 8 Tage, im vorherigen Berichtszeitraum waren es 53.",
+              "gegenstimme": "Das BSI betont selbst, man sei den Angriffen nicht schutzlos ausgeliefert: Viele Angriffe träfen leichte Ziele, weniger als die Hälfte der Nutzer wende grundlegende Schutzmassnahmen an. Kritiker sehen in der Verschärfung auch einen politischen Hintergrund, denn Innenminister Dobrindt nutzt den Bericht, um ein Cybersicherheitspaket mit «neuen Befugnissen» zu begründen. Der neue Cyber-Index ist eine eigene Messgrösse des BSI und lässt sich nicht mit früheren Jahren vergleichen.",
+              "sources": [
+                {
+                  "name": "BSI (Mitteilung)",
+                  "url": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/261119_Lagebericht.html"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/ki-bundesamt-stuft-cyber-sicherheitslage-auf-angespannt-bis-kritisch-hoch-a-9ec10551-a80c-432b-963b-d15afefac513"
+                },
+                {
+                  "name": "Süddeutsche Zeitung",
+                  "url": "https://www.sueddeutsche.de/politik/bsi-cyberangriffe-kuenstliche-intelligenz-cybersicherheit-quantencomputer-li.3582885"
+                },
+                {
+                  "name": "Stern (dpa)",
+                  "url": "https://www.stern.de/news/bsi-lagebericht--missbrauch-von-ki-verschaerft-gefaehrdung-der-it-sicherheit-deutlich-38575422.html"
+                },
+                {
+                  "name": "SRF (Schweiz)",
+                  "url": "https://www.srf.ch/news/schweiz/kriminelle-hackerangriffe-cyber-chef-des-bundes-warnt-vor-aggressiveren-cyberangriffen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-commerzbank-unicredit-einigung-bundesregierung",
+              "slug": "commerzbank-unicredit-einigung-bundesregierung",
+              "title": "Commerzbank: Berlin gibt Widerstand gegen Übernahme durch Unicredit auf",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1280",
+              "kurz": "Die deutsche Regierung und die italienische Grossbank Unicredit haben sich auf Bedingungen für eine Übernahme der Commerzbank geeinigt.",
+              "summary": "Die deutsche Bundesregierung hat sich mit der italienischen Grossbank Unicredit auf Bedingungen für eine Übernahme der Commerzbank geeinigt, wie Finanzminister Lars Klingbeil (SPD) nach Gesprächen mit Unicredit-Chef Andrea Orcel sagte. Unicredit sichert zu, dass die Commerzbank eine börsenkotierte Aktiengesellschaft mit Sitz in Frankfurt bleibt, ihr Mittelstandsgeschäft ausbaut und die Rechte der Beschäftigten gewahrt werden. Im Gegenzug verzichtet der Bund, der gut 13 Prozent hält, auf zwei eigene Vertreter im Aufsichtsrat.",
+              "gegenstimme": "Gewerkschaften und Teile der Commerzbank hatten die Übernahme lange bekämpft, weil sie Stellenabbau und den Verlust einer eigenständigen deutschen Grossbank für den Mittelstand fürchten; Zusagen eines Käufers sind rechtlich nur begrenzt durchsetzbar. Befürworter sehen dagegen einen Schritt zu einem europäischen Bankenmarkt mit grösseren, wettbewerbsfähigeren Instituten. Offen ist, ob und wann der Bund seine Beteiligung verkauft.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html"
+                },
+                {
+                  "name": "NZZ (dpa)",
+                  "url": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-eslohe-schueler-anschlagsplan-moschee-3d-drucker",
+              "slug": "eslohe-schueler-anschlagsplan-moschee-3d-drucker",
+              "title": "Deutschland: 18-jähriger Rechtsextremist soll Anschlag auf Moschee geplant haben",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "international",
+              "icon": "🚨",
+              "edition": "midday",
+              "kurz": "Ein Schüler aus dem Sauerland soll mit Waffen aus dem 3D-Drucker einen Anschlag auf Moscheebesucher vorbereitet haben. Er sitzt in Untersuchungshaft.",
+              "summary": "Die Generalstaatsanwaltschaft Düsseldorf verdächtigt einen 18-jährigen Schüler aus Eslohe (Nordrhein-Westfalen), zwischen Ende 2026 und Anfang 2027 einen Anschlag auf die Besucher einer Moschee in Deutschland geplant zu haben. Bei ihm wurden zahlreiche selbst im 3D-Drucker hergestellte Waffen, Waffenteile und Munition gefunden, mehrere davon nach vorläufiger Einschätzung funktionsfähig. Laut Ermittlern gibt es Anhaltspunkte für eine rechtsextreme Gesinnung; sein rassistisches Gedankengut habe er auch auf Muslime projiziert.",
+              "gegenstimme": "Der Mann ist nicht angeklagt, für ihn gilt die Unschuldsvermutung, und die Ermittler sprechen von «Anhaltspunkten», nicht von einer belegten Ideologie. Offen ist auch, warum der Fall erst drei Monate nach der Festnahme öffentlich wurde. Zudem zeigt er vor allem die Gefahr von Waffen aus dem 3D-Drucker zeigt, die sich mit Anleitungen aus dem Internet ohne Waffenschein bauen lassen.",
+              "sources": [
+                {
+                  "name": "tagesschau (WDR)",
+                  "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schueler-anschlagsplan-moschee-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/vermischtes/kriminalitaet/article6afeaea14d1895cf2a8f0aee/sauerland-schueler-soll-anschlag-auf-moschee-geplant-haben-waffen-aus-dem-3d-drucker.html"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/panorama/justiz/eslohe-in-nrw-schueler-soll-anschlag-auf-moschee-geplant-haben-a-117ae85b-7a19-4d6e-9abe-b077ef25cbcf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-hormus-tanker-explosionen-iea-ausblick",
+              "slug": "hormus-tanker-explosionen-iea-ausblick",
+              "title": "Strasse von Hormus: Iran meldet explodierte Supertanker, IEA erwartet dauerhafte Folgen",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "wirtschaft",
+              "icon": "🛢️",
+              "edition": "midday",
+              "kurz": "Irans Revolutionsgarden behaupten, zwei Supertanker seien auf Minen gelaufen. Die Energieagentur IEA sieht keinen Weg zurück zur alten Energiewelt.",
+              "summary": "Irans Revolutionsgarden haben am Donnerstag gemeldet, zwei Supertanker mit zusammen über vier Millionen Fass Rohöl seien auf einer «nicht genehmigten» Route in der Strasse von Hormus auf Seeminen gelaufen, explodiert und brennten; die Schiffe seien von US-Kampfjets begleitet worden. Unabhängig bestätigt ist das bisher nicht. Gleichzeitig warnt die Internationale Energieagentur (IEA) in ihrem Ausblick, die Hormus-Krise werde den Energiemarkt dauerhaft verändern.",
+              "gegenstimme": "Die Angaben zu den Tankern stammen allein von den Revolutionsgarden und iranischen Staatsmedien, die sie propagandistisch einbetten; Keystone-SDA hält ausdrücklich fest, dass sie sich nicht verifizieren liessen. Die USA haben sich bisher nicht dazu geäussert. Zur IEA gibt es Kritik von beiden Seiten: Ölstaaten werfen ihr vor, die Nachfrage nach Öl systematisch zu unterschätzen, Klimaschützer, dass sie neue Investitionen in Pipelines nicht ausschliesst.",
+              "sources": [
+                {
+                  "name": "Nau.ch (Keystone-SDA)",
+                  "url": "https://www.nau.ch/politik/international/iran-meldet-explosionen-an-zwei-supertankern-67204461"
+                },
+                {
+                  "name": "FAZ (Liveblog)",
+                  "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-iran-meldet-mehrere-explosionen-auf-oeltankern-bei-strasse-von-hormus-faz-200583539.html"
+                },
+                {
+                  "name": "Mehr News Agency (iranische Darstellung)",
+                  "url": "https://en.mehrnews.com/news/249538/Two-violating-supertankers-explode-in-Strait-of-Hormuz"
+                },
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/IEA-Hormus-Blockade-veraendert-globale-Energieversorgung-dauerhaft-11530319.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-19-daenemark-parlament-ratifiziert-groenland-abkommen",
+              "slug": "daenemark-parlament-ratifiziert-groenland-abkommen",
+              "title": "Dänemark ratifiziert Grönland-Abkommen mit den USA einstimmig",
+              "date": "2026-11-19",
+              "time": "12:08",
+              "category": "international",
+              "icon": "🧊",
+              "edition": "midday",
+              "kurz": "Das dänische Parlament hat das Sicherheitsabkommen mit den USA und Grönland ohne Gegenstimme angenommen. Es kann nun in Kraft treten.",
+              "summary": "Das dänische Parlament hat am Donnerstag das im September unterzeichnete Sicherheitsabkommen mit den USA und Grönland ratifiziert, alle 109 anwesenden Abgeordneten stimmten zu. Es erlaubt den USA, ihre Pituffik Space Base zu modernisieren, zunächst zwei weitere Stützpunkte aufzubauen und das Raketenabwehrsystem «Golden Dome» zu stationieren. Das grönländische Parlament hatte schon Anfang November zugestimmt.",
+              "gegenstimme": "Aus Sicht von Kritikern hat Trump mit monatelangen Annexionsdrohungen gegen einen Nato-Verbündeten erreicht, was er wollte, und damit einen fragwürdigen Präzedenzfall geschaffen. Dänemark und Grönland sehen es dagegen als geringen Preis: Die Souveränität bleibt unangetastet, das Abkommen anerkennt das Selbstbestimmungsrecht der Grönländer, und die USA hatten schon seit 1951 weitgehende militärische Rechte auf der Insel.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6afebea8e9561dcc48a02da0/streit-um-arktis-insel-daenisches-parlament-ratifiziert-sicherheitsabkommen-mit-den-usa-und-groenland.html"
                 }
               ]
             }
