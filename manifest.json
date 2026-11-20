@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:15:00+01:00",
+  "updated": "2026-11-20T17:15:00+01:00",
   "days": [
     {
       "date": "2026-11-20",
@@ -782,6 +782,295 @@
                 {
                   "name": "upday / dpa",
                   "url": "https://www.upday.com/de/news/klimagipfel-rund-25-staaten-fordern-den-abschied-von-kohle-ol-und-gas/xl844nr"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:15",
+          "articles": [
+            {
+              "id": "2026-11-20-jugendstreik-demos-basel-farbbeutel-bern-zuerich",
+              "slug": "jugendstreik-demos-basel-farbbeutel-bern-zuerich",
+              "title": "Jugendstreik: Hunderte demonstrieren in Schweizer Städten, Farbbeutel gegen Banken in Basel",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "📢",
+              "edition": "evening",
+              "image": "https://c.nau.ch/i/1JkBZ8/1360/680/basel.jpg",
+              "kurz": "Am internationalen Protesttag gingen in Basel, Bern, Zürich und weiteren Städten Jugendliche auf die Strasse. In Basel trafen Farbbeutel UBS-Filialen.",
+              "summary": "Am Freitag haben in mehreren Schweizer Städten bewilligte Kundgebungen des Jugendstreiks begonnen; das Bündnis protestiert gegen höhere Militärausgaben und Sparmassnahmen. In Basel zogen laut Keystone-SDA mehrere hundert Jugendliche durch die Innenstadt, dabei wurden Farbbeutel gegen Filialen der UBS geworfen und Feuerwerk gezündet. In Bern versammelten sich schon am Nachmittag mehrere hundert Jugendliche auf dem Casinoplatz, die Stimmung war laut SRF friedlich; die Demonstrationen in Bern, Zürich und St. Gallen starteten erst am frühen Abend.",
+              "gegenstimme": "Die Organisatoren betonen, sie riefen ausdrücklich zu friedlichen Protesten auf, und sehen sich als Stimme einer Generation, die die Kosten von Aufrüstung und Sparpolitik trage. Kritiker verweisen auf Sachbeschädigungen, Gewaltvideos im Vorfeld und antiisraelische Parolen; Extremismusforscherin Miryam Eser Davolio warnt, so träten die Anliegen der Jugendlichen «völlig in den Hintergrund».",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/schweizweiter-jugendstreik-demonstrationen-in-mehreren-schweizer-staedten-ein-ueberblick"
+                },
+                {
+                  "name": "Nau.ch / Keystone-SDA",
+                  "url": "https://www.nau.ch/news/schweiz/hunderte-protestieren-bei-jugendstreik-demo-in-basel-67205007"
+                },
+                {
+                  "name": "20 Minuten (Ticker)",
+                  "url": "https://www.20min.ch/story/jugendproteste-schweiz-20-november-live-ticker-103670504"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-biel-taubenlochschlucht-vater-sohn-tot-autobahnbruecke",
+              "slug": "biel-taubenlochschlucht-vater-sohn-tot-autobahnbruecke",
+              "title": "Biel: Vater und siebenjähriger Sohn sterben nach Sturz von Autobahnbrücke",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🚔",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/20/1c7071ba-3f37-4e73-bcbb-3493bb39da27.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C2829%2C1886&s=e63d61c9a44f3029f571de84ddb93c2a",
+              "kurz": "Bei der Taubenlochschlucht wurden ein 56-Jähriger und sein Sohn tot aufgefunden. Laut Kantonspolizei ist der Vater mutmasslich für beide Tode verantwortlich.",
+              "summary": "Am Mittwoch, 18. November, sind bei der Taubenlochschlucht in Biel ein 56-jähriger Schweizer aus dem Kanton Bern und sein siebenjähriger Sohn ums Leben gekommen. Laut Kantonspolizei Bern ist nach ersten Erkenntnissen davon auszugehen, dass der Mann für seinen Tod und den seines Sohnes verantwortlich ist; die Verletzungen dürften von einem Sturz von der Autobahnbrücke stammen. Das Kind wurde vor Ort reanimiert, starb aber.",
+              "gegenstimme": "Die Behörden nennen keine Hintergründe, um die Angehörigen zu schützen; deshalb bleibt offen, ob es Warnzeichen gab, etwa einen Sorgerechtsstreit oder frühere Meldungen an Behörden. Solche Fragen stellen sich bei Tötungen von Kindern durch Elternteile regelmässig, sind hier aber nicht belegt.",
+              "sources": [
+                {
+                  "name": "Nau.ch (Medienmitteilung Kantonspolizei Bern)",
+                  "url": "https://www.nau.ch/ort/bielbienne/biel-be-vater-56-und-sohn-7-sturzen-von-autobahnbrucke-67204999"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/biel-vater-und-sohn-7-sterben-nach-sturz-von-autobahnbruecke-103670820"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/vater-und-sohn-st%c3%bcrzen-bei-biel-be-in-den-tod/92414048"
+                },
+                {
+                  "name": "Kantonspolizei Bern (Medienmitteilungen)",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-kosovo-in-schweiz-verurteilter-moerder-erschiesst-mann",
+              "slug": "kosovo-in-schweiz-verurteilter-moerder-erschiesst-mann",
+              "title": "In der Schweiz verurteilter Mörder soll im Kosovo erneut getötet haben",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://25minuta.com/og/a3544-dd9610751a05.jpg",
+              "kurz": "Ein Kosovare, der in St. Gallen wegen Mordes an seiner Frau 19 Jahre erhielt, soll nach einem Parkplatzstreit in Suhareka einen Mann erschossen haben.",
+              "summary": "Im kosovarischen Suhareka soll ein 60-jähriger Kosovare am Mittwoch nach einem Streit um einen Parkplatz einen 59-jährigen Autofahrer vor den Augen von dessen Frau und Tochter erschossen haben; die Polizei nahm ihn kurz darauf fest. Der Mann war 2013 in St. Gallen wegen Mordes an seiner Ehefrau zu 19 Jahren Freiheitsstrafe verurteilt worden. Laut kosovarischen Medien sass er davon 13 Jahre ab und kehrte danach in den Kosovo zurück.",
+              "gegenstimme": "Nach Schweizer Recht ist eine bedingte Entlassung nach zwei Dritteln der Strafe möglich, wenn keine neuen Taten zu erwarten sind; ein Einzelfall sagt deshalb noch nichts über die Vollzugspraxis insgesamt. Die Frage, ob die Gefährlichkeit vor Entlassung und Ausreise richtig eingeschätzt wurde, stellt sich hier aber direkt; ohne Angaben der St. Galler Behörden bleibt sie offen.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/schuesse-im-kosovo-in-der-schweiz-als-moerder-verurteilt-jetzt-toetete-er-erneut-103670716"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/ostschweiz/st-gallen/kosovo-verurteilter-moerder-nach-parkplatzstreit-verhaftet/14hy4v8"
+                },
+                {
+                  "name": "25minuta",
+                  "url": "https://25minuta.com/en/kosovo/suspect-in-suhareke-killing-was-previously-sentenced-to-19-years-in-prison-in"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-ubs-fonds-kaufen-uetlihof-850-millionen",
+              "slug": "ubs-fonds-kaufen-uetlihof-850-millionen",
+              "title": "Vier UBS-Fonds kaufen den Üetlihof für 850 Millionen Franken",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "🏢",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/20/8f614790-f341-4f82-86af-dadbd513672c.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5823,3275,x0,y303&wmark=nzz",
+              "kurz": "Der norwegische Staatsfonds verkauft einen der grössten Bürokomplexe der Schweiz an Immobilienfonds der UBS. Die Bank bleibt Mieterin.",
+              "summary": "Der norwegische Staatsfonds (NBIM) verkauft den Zürcher Bürokomplex Üetlihof für 850 Millionen Franken an vier Immobilienfonds von UBS Asset Management; der Vertrag wurde am 19. November unterzeichnet, der Abschluss ist für Januar 2027 geplant. Die UBS nutzt das Gebäude als Mieterin laut eigenen Angaben «mindestens bis zum Vertragsende im Jahr 2037» weiter.",
+              "gegenstimme": "Aus Sicht der Käufer ist ein bis mindestens 2037 vermietetes Grossobjekt mit einer solventen Mieterin eine stabile Anlage. Kritisch ist laut NZZ die Verflechtung: Fonds der UBS kaufen ein Gebäude, dessen wichtigste Mieterin die UBS selbst ist, was Fragen zu Preisfindung und Interessenkonflikten aufwirft.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/ubs-fondsgesellschaften-kaufen-ueetlihof-in-zuerich-ld.10069703"
+                },
+                {
+                  "name": "finews.ch",
+                  "url": "https://www.finews.ch/news/banken/74589-ubs-fonds-kaufen-uetlihof-zuerich-norwegischer-staatsfonds-norges-850-millionen"
+                },
+                {
+                  "name": "Norges Bank Investment Management",
+                  "url": "https://www.nbim.no/no/nyheter-og-innsikt/presserom/pressemeldinger/2026/fondet-selger-kontoreiendom-i-sveits/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-kiew-angriff-uno-sicherheitsrat-nato-verurteilt-polen",
+              "slug": "kiew-angriff-uno-sicherheitsrat-nato-verurteilt-polen",
+              "title": "Nach Grossangriff auf Kiew: Frankreich beantragt UNO-Sicherheitsrat, Nato verurteilt Luftraumverletzung",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/88c48bb6-775e-4d10-bd6a-60e839e4b9b7_w1200_r1.778_fpx70.02_fpy55.jpg",
+              "kurz": "Paris will Russland vor dem Sicherheitsrat zur Rechenschaft ziehen, weil auch Botschaften getroffen wurden. Nato-Chef Rutte verurteilt die Verletzung des polnischen Luftraums.",
+              "summary": "Nach den nächtlichen russischen Angriffen auf die Ukraine hat Frankreichs Aussenminister Jean-Noël Barrot eine Sitzung des UNO-Sicherheitsrats beantragt; in Kiew wurden auch die Botschaften Österreichs und der Niederlande beschädigt. Präsident Selenskyj spricht von mehr als 110 eingesetzten Raketen und «einem der grössten Angriffe» bisher. Nato-Generalsekretär Mark Rutte verurteilte die Verletzung des polnischen Luftraums durch mindestens zwei Marschflugkörper und eine Drohne als schwerwiegend.",
+              "gegenstimme": "Der Kreml hatte die Schläge als Vergeltung für den ukrainischen Angriff auf die Krim-Brücke angekündigt; zu den Flugkörpern in Polen hat sich Moskau in den geprüften Quellen nicht geäussert. Weil Russland im Sicherheitsrat ein Veto hat, bleibt die Sitzung vor allem ein politisches Signal.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/ukrainekrieg-frankreich-beantragt-nach-juengsten-russischen-angriffen-sitzung-des-uno-sicherheitsrats-a-e2493c1e-b793-4bb8-8dbf-0c3d11dbe5ea"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/ausland/article6afffac1be487c543774694d/polen-meldet-absturz-mehrerer-russischer-flugobjekte-nato-verurteilt-luftraumverletzungen.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-italien-generalstreik-protesttag-meloni",
+              "slug": "italien-generalstreik-protesttag-meloni",
+              "title": "Italien: Generalstreik und Jugendproteste gegen die Regierung Meloni",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇮🇹",
+              "edition": "evening",
+              "kurz": "Busse, Schulen und Spitäler wurden bestreikt, in fast allen Städten gab es Demonstrationen. Wie viele mitmachten, ist umstritten.",
+              "summary": "In Italien hat der grösste Gewerkschaftsbund CGIL am Freitag zu einem ganztägigen Streik gegen die Regierung von Giorgia Meloni aufgerufen; Studierende schlossen sich mit eigenen Protesten an. Bestreikt wurden Busbetriebe, Schulen und Spitäler, Zug- und Fährverkehr waren gestört, in fast allen Städten gab es Demonstrationen mit jeweils mehreren tausend Teilnehmenden. CGIL-Chef Maurizio Landini sprach von einer Million Menschen.",
+              "gegenstimme": "Die NZZ ordnet ein, der Tag sei unruhig gewesen, habe aber nicht die von der Opposition erhoffte grosse Welle ergeben; Gewerkschaften, Studierende und Oppositionsparteien verfolgen unterschiedliche Ziele. Eine Stellungnahme der Regierung zum Streik fand sich in den geprüften Quellen nicht; offen ist auch, wie viele Beschäftigte tatsächlich die Arbeit niederlegten.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/italien-generalstreik-und-jugendproteste-fuer-soziale-gerechtigkeit-ld.10070235"
+                },
+                {
+                  "name": "Spiegel / dpa",
+                  "url": "https://www.spiegel.de/ausland/italien-gewerkschaften-und-studenten-protestieren-gegen-regierung-von-giorgia-meloni-a-494b6790-b5fd-4850-846a-4d1733098ebc"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-tuerkei-imamoglu-diplom-urteil-kandidatur-2028",
+              "slug": "tuerkei-imamoglu-diplom-urteil-kandidatur-2028",
+              "title": "Türkei: Gericht bestätigt Aberkennung von İmamoğlus Diplom, Präsidentschaftskandidatur blockiert",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇹🇷",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/aa9bbbd0-4889-44cc-9016-eacb8bfdb00b/AAABofhGFmM/AAABnSSvrFg/16x9-big/imamoglu-168.jpg?width=1280",
+              "kurz": "Ohne gültigen Hochschulabschluss darf der inhaftierte Istanbuler Bürgermeister 2028 nicht gegen Erdoğan antreten.",
+              "summary": "Der türkische Staatsrat, das oberste Verwaltungsgericht, hat am Donnerstag den Einspruch von Ekrem İmamoğlu gegen die Annullierung seines Hochschuldiploms abgewiesen. Weil ein Abschluss Voraussetzung für eine Präsidentschaftskandidatur ist, kann der inhaftierte Istanbuler Bürgermeister 2028 nicht antreten. İmamoğlu gilt als wichtigster Rivale von Präsident Recep Tayyip Erdoğan.",
+              "gegenstimme": "Aus Sicht von Universität und Justiz geht es um rechtliche Fragen: um einen laut Universität betrügerisch erlangten Abschluss und um Korruptionsvorwürfe, über die Gerichte zu entscheiden haben. İmamoğlu und die CHP sprechen von politisch motivierten Verfahren, deren einziges Ziel sei, den stärksten Herausforderer Erdoğans auszuschalten.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/19/turkish-court-blocks-jailed-istanbul-mayor-from-2028-presidential-race"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-iran-weist-us-vorwurf-chemie-biowaffen-zurueck",
+              "slug": "iran-weist-us-vorwurf-chemie-biowaffen-zurueck",
+              "title": "Iran weist US-Vorwurf zu Chemie- und Biowaffen zurück, Trump lässt nächsten Schritt offen",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🇮🇷",
+              "edition": "evening",
+              "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/20/84723475-ec73-4863-a255-008f83fc184a/thumbnail/1200x630/8f096f163238efdd5f2e05dcbf7ad001/gettyimages-2304872718.jpg",
+              "kurz": "Teheran vergleicht Trumps Vorwürfe mit der Irak-Kriegslüge von 2003. Trump sagt, er habe keine Eile; laut CBS erwägen die USA und Israel trotzdem einen neuen Angriff.",
+              "summary": "Irans Aussenamtssprecher Esmaeil Baghaei hat Aussagen von US-Präsident Donald Trump zurückgewiesen, wonach Teheran an chemischen und biologischen Waffen arbeite. Er verglich die Vorwürfe mit jenen, mit denen die USA 2003 den Irakkrieg begründet hatten. Trump sagte einem israelischen Sender, er habe «keine Eile» und entscheide über den nächsten Schritt im Krieg mit Iran womöglich erst 2027.",
+              "gegenstimme": "Iran sieht in den Vorwürfen einen Vorwand für neue Angriffe. Trump spricht von «Hinweisen» auf solche Programme; aus Sicht Washingtons und Jerusalems rechtfertigt der laut CBS rasche Wiederaufbau der iranischen Waffenproduktion Wachsamkeit, auch wenn Belege noch nicht öffentlich sind.",
+              "sources": [
+                {
+                  "name": "CBS News",
+                  "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+                },
+                {
+                  "name": "Iran International",
+                  "url": "https://www.iranintl.com/en/202611195059"
+                },
+                {
+                  "name": "Jerusalem Post",
+                  "url": "https://www.jpost.com/middle-east/iran-news/article-915545"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-aethiopien-arsi-angriffe-orthodoxe-christen",
+              "slug": "aethiopien-arsi-angriffe-orthodoxe-christen",
+              "title": "Äthiopien: Dutzende orthodoxe Christen bei Angriffen in Arsi getötet, US-Senator warnt",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "international",
+              "icon": "⛪",
+              "edition": "evening",
+              "kurz": "Bei einem Angriff auf ein Dorf in Oromia starben mindestens 34 Menschen, mehrheitlich orthodoxe Christen. Behörden schweigen, Täter sind nicht identifiziert.",
+              "summary": "In Endeto im Bezirk Robe in der Zone Arsi, Region Oromia, haben Bewaffnete Anfang November mindestens 34 Menschen getötet, mehrheitlich äthiopisch-orthodoxe Christen; spätere Berichte nennen über 36 Tote. Der republikanische Vorsitzende des Aussenausschusses im US-Senat, Jim Risch, spricht von einem «schrecklichen Trend» von Angriffen auf Christen. Das US-Aussenministerium fordert unabhängige Untersuchungen.",
+              "gegenstimme": "Oromia ist seit Jahren Schauplatz bewaffneter Konflikte; solange Täter und Motive nicht ermittelt sind, lässt sich nicht sagen, ob die Opfer wegen ihres Glaubens, ihrer Herkunft oder aus anderen Gründen angegriffen wurden. Kirchenvertreter und christliche Hilfswerke sehen dagegen ein Muster gezielter Angriffe auf orthodoxe Christen, das international zu wenig beachtet werde.",
+              "sources": [
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/senate-foreign-relations-chairman-warns-horrific-trend-christians-killed-ethiopia"
+                },
+                {
+                  "name": "Borkena",
+                  "url": "https://borkena.com/ethiopia-death-toll-rises-following-fatal-attack-on-civilians-in-endeto-as-human-rights-monitors-call-for-independent-probe/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-ruby-kritische-luecken-codeausfuehrung-update",
+              "slug": "ruby-kritische-luecken-codeausfuehrung-update",
+              "title": "Kritische Lücken in Ruby: Auch Rails, GitHub und GitLab betroffen",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "evening",
+              "kurz": "Sieben Sicherheitslücken in Ruby erlauben teils Codeausführung aus der Ferne, Exploits existieren. Updates sind verfügbar.",
+              "summary": "Das Ruby-Projekt hat am 18. November sieben Sicherheitslücken in der Verarbeitung von Zeichenketten und regulären Ausdrücken geschlossen; sechs davon können laut den Hinweisen Codeausführung im Ruby-Prozess erlauben, über Webanwendungen auch aus der Ferne. Für mehrere gibt es Demonstrations-Exploits. Die Entwickler raten dringend zum Update auf Ruby 4.0.10, 3.4.13 oder 3.3.14.",
+              "gegenstimme": "Die Einstufung «kritisch» ist umstritten: Der CVE-Eintrag bewertet die bereits nummerierte Lücke als lokal ausnutzbar und deutlich zurückhaltender als GitHub. Ob eine Anwendung aus der Ferne angreifbar ist, hängt davon ab, ob sie fremde Eingaben an die betroffenen Funktionen weitergibt.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Kritisch-eingestufte-Luecken-in-Ruby-auch-Rails-GitHub-und-GitLab-betroffen-11532469.html"
+                },
+                {
+                  "name": "Ruby-Projekt (Mitteilung)",
+                  "url": "https://www.ruby-lang.org/en/news/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-signal-blockiert-ki-assistenten-gemini-siri",
+              "slug": "signal-blockiert-ki-assistenten-gemini-siri",
+              "title": "Signal sperrt KI-Assistenten wie Gemini und Siri aus",
+              "date": "2026-11-20",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🔒",
+              "edition": "evening",
+              "kurz": "Der Messenger blockiert auf Android und iOS 27 Bildschirmaufnahmen, damit KI-Agenten keine Chats mitlesen. Auf dem Mac geht das nicht.",
+              "summary": "Der verschlüsselte Messenger Signal verhindert ab sofort, dass KI-Assistenten der Betriebssysteme seine Inhalte vom Bildschirm lesen: Auf Android schaltet die App die Bildschirmsicherheit automatisch ein, wenn sie einen Assistenten wie Gemini erkennt, auf iOS 27 gibt es eine Einstellung «Block Siri AI». Damit sind in der App auch Screenshots gesperrt; Nutzer können den Schutz abschalten.",
+              "gegenstimme": "Eine Stellungnahme von Google oder Apple fand sich in den geprüften Quellen nicht. Der Schutz hat einen Preis: Mit ihm sind auch normale Screenshots in Signal gesperrt, etwa zum Sichern von Belegen; wer sie braucht, muss den Schutz abschalten und nimmt laut Whittaker in Kauf, dass KI-Agenten mitlesen.",
+              "sources": [
+                {
+                  "name": "The Verge",
+                  "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+                },
+                {
+                  "name": "Android Authority",
+                  "url": "https://www.androidauthority.com/signal-blocks-gemini-siri-ai-private-messages-3737647/"
                 }
               ]
             }
