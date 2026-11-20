@@ -1,6 +1,433 @@
 {
-  "updated": "2026-11-19T17:15:00+01:00",
+  "updated": "2026-11-20T06:15:00+01:00",
   "days": [
+    {
+      "date": "2026-11-20",
+      "editions": {
+        "morning": {
+          "time": "06:15",
+          "articles": [
+            {
+              "id": "2026-11-20-jugendstreik-gewaltaufrufe-bern-mueller",
+              "slug": "jugendstreik-gewaltaufrufe-bern-mueller",
+              "title": "Jugendstreik heute: Gewaltaufrufe im Vorfeld, Berner Sicherheitsdirektor warnt vor Linksextremen",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "📣",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/2bf83d.jpg",
+              "kurz": "Heute protestieren Jugendliche in der Schweiz und in über 20 Ländern. Eine Sektion des Jugendstreiks teilte vorab ein gewaltverherrlichendes Video.",
+              "summary": "Für Freitag, 20. November, rufen Schüler- und Jugendorganisationen in mehr als zwanzig Ländern, auch in der Schweiz, zu Protesten gegen Aufrüstung und Wehrpflicht sowie für Bildung und Klimaschutz auf. Laut SRF-Recherchen verbreitete die Sektion Winterthur des Jugendstreiks ein inzwischen gelöschtes Video mit Bildern der Zürcher Halloween-Krawalle vom 31. Oktober und dem Satz «Wir entfachen Feuer – Flammen der Revolution». Der Berner Sicherheitsdirektor Philippe Müller (FDP) sagt in der NZZ, die Kundgebungen würden «von gewaltbereiten Linksextremen gekapert».",
+              "gegenstimme": "Die grosse Mehrheit der Teilnehmenden will laut SRF friedlich demonstrieren; Aktivistinnen betonen ihre politischen Forderungen gegen Aufrüstung, für Klimaschutz und bessere Perspektiven. Die Klimastreik-Sektion Zürich sagt, sie rufe zu friedlichen Protesten auf. Die Soziologin Miryam Eser Davolio warnt umgekehrt, dass Gewalt die berechtigten Anliegen der Jugendlichen völlig in den Hintergrund dränge. Müllers Kritiker auf der Linken sehen laut NZZ-Interview kein grundsätzliches Sicherheitsproblem; Müller nennt das «bewusstes Ignorieren der Tatsachen».",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/internationaler-protesttag-schweizer-jugendstreik-sektion-verbreitete-gewalt-video"
+                },
+                {
+                  "name": "NZZ (Interview Philippe Müller)",
+                  "url": "https://www.nzz.ch/schweiz/vor-den-jugendprotesten-sagt-der-berner-sicherheitsdirektor-die-kundgebungen-werden-von-gewaltbereiten-linksextremen-gekapert-ld.10068405"
+                },
+                {
+                  "name": "NZZ (Hintergrund DKP)",
+                  "url": "https://www.nzz.ch/international/wie-putinfreundliche-kommunisten-die-jugendproteste-anstiessen-ld.10067922"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/jugendstreik-bern-gymnasien-erteilen-keine-dispensation-532919753828"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-bern-stadtrat-gemeinderat-bleibt-fuenf-carterminal",
+              "slug": "bern-stadtrat-gemeinderat-bleibt-fuenf-carterminal",
+              "title": "Stadt Bern: Gemeinderat bleibt zu fünft, neues Carterminal kommt vors Volk",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/BNbHTStPaqU95C7mPnM7Ig.jpg?op=ocroped&val=1200,600,1000,750,125,0&sum=wJKTAMmndzQ",
+              "kurz": "Der Berner Stadtrat lehnt sieben Regierungssitze mit 52 zu 4 Stimmen ab und sagt einstimmig Ja zur Planung des Reisebusterminals im Neufeld.",
+              "summary": "Der Berner Stadtrat hat am Donnerstag die Vergrösserung des Gemeinderats von fünf auf sieben Mitglieder mit 52 zu 4 Stimmen abgelehnt; die geplante Volksabstimmung entfällt. Einstimmig hiess er die Planungsvorlage für ein Fern- und Reisebusterminal im Neufeld gut und sprach knapp 2,6 Millionen Franken für Konzeptstudie und Projektierung. Über Zonenplan und Bauordnung entscheidet das Stimmvolk voraussichtlich im Februar.",
+              "gegenstimme": "Die AL/PdA/TIF-Fraktion hielt an sieben Sitzen fest; auch der Gemeinderat räumt ein, dass die Arbeitslast der Direktionen ungleich verteilt ist – ob eine Reorganisation das löst, muss sich zeigen. Beim Terminal kritisierte Simone Richner (FDP), 21 Jahre Provisorium seien «sogar für Berner Verhältnisse zu lang», und forderte Tempo und wirtschaftliche Vernunft. Aus der vorberatenden Kommission kam zudem der Antrag, Lohn- und Sozialdumping in der Fernbusbranche stärker zu kontrollieren.",
+              "sources": [
+                {
+                  "name": "Der Bund (Gemeinderat)",
+                  "url": "https://www.derbund.ch/stadtrat-bern-lehnt-groesseren-gemeinderat-mit-52-zu-4-ab-565431057935"
+                },
+                {
+                  "name": "Der Bund (Carterminal)",
+                  "url": "https://www.derbund.ch/bern-stadtrat-sagt-einstimmig-ja-zum-reisebus-terminal-335880687501"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA (Gemeinderat)",
+                  "url": "https://www.swissinfo.ch/ger/berner-stadtrat-beerdigt-pl%c3%a4ne-f%c3%bcr-siebenk%c3%b6pfigen-gemeinderat/92410347"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA (Terminal)",
+                  "url": "https://www.swissinfo.ch/ger/berner-stadtrat-ebnet-weg-f%C3%BCr-neues-reiseterminal-im-neufeld/92409798"
+                },
+                {
+                  "name": "Stadtrat Bern (Traktanden 19.11.2026)",
+                  "url": "https://stadtrat.bern.ch/de/dokumente/eba7bac749774171be72730303dcb946-332"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-stadt-bern-sozialdienst-software-nffs-nach-2033",
+              "slug": "stadt-bern-sozialdienst-software-nffs-nach-2033",
+              "title": "Stadt Bern: Neue Sozialdienst-Software kommt erst nach 2033",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "regional",
+              "icon": "💻",
+              "edition": "morning",
+              "image": "https://cdn.unitycms.io/images/2Xm7m7-eKV5BSeFCoBnxSr.jpg?op=ocroped&val=1200,600,1000,807,96,0&sum=I5RjTbKQ5Ns",
+              "kurz": "Die Stadt Bern rechnet damit, dass das kantonale Fallführungssystem NFFS erst nach 2033 eingeführt wird. Ursprünglich war 2028 geplant.",
+              "summary": "Der Berner Gemeinderat erwartet, dass das neue kantonale Fallführungssystem (NFFS) im städtischen Sozialdienst erst nach 2033 eingeführt wird; einen Termin gibt es nicht. Das schreibt er in einer am Donnerstag veröffentlichten Antwort auf eine Kleine Anfrage. Der Kanton war im August noch von spätestens Ende 2033 ausgegangen, ursprünglich sollten alle Sozialdienste bis 2028 umstellen.",
+              "gegenstimme": "Der Gemeinderat betont, Citysoftnet laufe in den meisten Bereichen inzwischen gut und stabil – die Verzögerung gefährde den Betrieb der Sozialdienste also nicht unmittelbar. Kritisch bleibt, dass Bern nach Citysoftnet nun beim zweiten grossen Sozialdienst-IT-Projekt in Folge Verzögerungen erlebt; das wirft Fragen zur Steuerung solcher Vorhaben durch Stadt und Kanton auf, die die GPK nun klären soll.",
+              "sources": [
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/stadt-bern-neue-sozialdienst-software-nffs-erst-nach-2033-572091554669"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/stadt-bern-rechnet-mit-verz%c3%b6gerung-bei-einf%c3%bchrung-von-nffs-software/92409169"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-eu-parlament-vertragspaket-schweiz-ohne-aenderungen",
+              "slug": "eu-parlament-vertragspaket-schweiz-ohne-aenderungen",
+              "title": "EU-Parlament: Keine Änderungsanträge zum Vertragspaket mit der Schweiz",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "🇪🇺",
+              "edition": "morning",
+              "image": "https://c.nau.ch/i/30leDv/1360/680/eu-schweiz.jpg",
+              "kurz": "Das EU-Parlament stimmt nächsten Mittwoch ohne Änderungsanträge über die Verträge mit der Schweiz ab. Brüssel spricht neu selbst von den «Bilateralen III».",
+              "summary": "Zum Vertragspaket Schweiz–EU sind im Europäischen Parlament bis zum Fristablauf am Mittwochmittag keine Änderungsanträge eingegangen, auch nicht zum begleitenden Bericht des Franzosen Christophe Grudler. Das Plenum in Strassburg stimmt am kommenden Mittwoch, 25. November, darüber ab, eine Debatte ist nicht geplant. EU-Vertreter wie Kommissar Maros Sefcovic verwenden neu selbst den Begriff «Bilaterale III».",
+              "gegenstimme": "Die NZZ liest die neue Wortwahl als Teil einer Werbeoffensive, mit der Brüssel die Schweiz zur Eile drängt – zeitlich abgestimmt auf die Nationalratsdebatte. Gerade die Punkte, die für die EU zentral sind, nämlich dynamische Rechtsübernahme und verbindliche Streitbeilegung, sind in der Schweizer Debatte am stärksten umstritten. Sefcovic selbst betont die Partnerschaft: Man sei «vom Versöhnungsfondue bis zum Fondue der Freundschaft» gegangen.",
+              "sources": [
+                {
+                  "name": "Nau.ch / Keystone-SDA",
+                  "url": "https://www.nau.ch/politik/international/eu-parlament-verlangt-keine-anderungen-zum-vertragspaket-schweiz-eu-67204431"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/die-eu-fremdelte-mit-dem-begriff-der-bilateralen-iii-nun-uebernimmt-sie-die-wortwahl-und-draengt-die-schweiz-zur-eile-ld.10068419"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/bilaterale-vertraege-mit-der-eu-eine-positive-story-charmeoffensive-aus-bruessel"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-osze-vorsitz-dreijahrespaket-schweiz-cassis",
+              "slug": "osze-vorsitz-dreijahrespaket-schweiz-cassis",
+              "title": "OSZE: Schweiz schlägt Dreijahrespaket für die Vorsitze 2027 bis 2029 vor",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "🕊️",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/10b2bb34ae0a762c074689836820f556748cb0e0-92410153.jpg?ver=63199770&fit=1200,900",
+              "kurz": "Bundesrat Cassis will die blockierte Nachfolge im OSZE-Vorsitz mit einem Paket für drei Jahre lösen. Die Länderzuteilung ist noch offen.",
+              "summary": "Bundesrat Ignazio Cassis hat als amtierender OSZE-Vorsitzender am Donnerstag an einer Sondersitzung des Ständigen Rats in Wien ein «Dreijahrespaket» für die Vorsitze 2027 bis 2029 vorgelegt. Laut EDA unterstützt eine breite Mehrheit der 57 Teilnehmerstaaten das Modell. Bereit erklärt haben sich Armenien, Aserbaidschan, Norwegen und Österreich; Zypern und Georgien halten an ihren Kandidaturen fest.",
+              "gegenstimme": "Ein Paket über drei Jahre erhöht die Planbarkeit, löst aber das Grundproblem nicht: Jedes Land, also auch Russland, kann eine Lösung blockieren. Für die bereits bestehenden Kandidaturen Zyperns und Georgiens gab es laut EDA bisher keine Einigung. Gelingt bis zum Ministerrat keine Lösung, droht der OSZE ein Jahr ohne Vorsitz.",
+              "sources": [
+                {
+                  "name": "OSZE (Mitteilung)",
+                  "url": "https://www.osce.org/chairpersonship/669882"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/schweiz-unterbreitet-dreijahrespaket-f%c3%bcr-k%c3%bcnftige-osze-vorsitze/92410166"
+                },
+                {
+                  "name": "Vienna Online / APA",
+                  "url": "https://www.vol.at/schweizer-dreijahrespaket-fuer-osze-vorsitze-auch-oesterreich-dabei/11339558"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-cop31-entwurf-ohne-fossile-brennstoffe-roesti",
+              "slug": "cop31-entwurf-ohne-fossile-brennstoffe-roesti",
+              "title": "Klimakonferenz COP31: Neuer Entwurf streicht fossile Brennstoffe, Rösti wirbt für Kernenergie",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "politik",
+              "icon": "🌍",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/2d1e33.jpg",
+              "kurz": "Im neuen Schlussentwurf der Klimakonferenz in Antalya fehlen Öl, Gas und Kohle ganz. Bundesrat Rösti setzt auf Fahrpläne und Technologieneutralität.",
+              "summary": "Einen Tag vor dem geplanten Ende der UNO-Klimakonferenz COP31 in Antalya hat die türkische Präsidentschaft am Donnerstag einen neuen, neunseitigen Entwurf der Abschlusserklärung vorgelegt. Öl, Gas, Kohle und «fossile Brennstoffe» werden darin nicht mehr erwähnt; stattdessen soll der Stromanteil am Endenergieverbrauch bis 2035 von 23 auf 35 Prozent steigen. Bundesrat Albert Rösti rief die Staaten zu eigenen Fahrplänen für den Ausstieg aus fossilen Energien auf.",
+              "gegenstimme": "Befürworter des Elektrifizierungsziels sehen darin einen messbaren, für Öl- und Gasstaaten zustimmungsfähigen Weg, weil mehr Strom in Verkehr, Heizung und Industrie fossile Energie ohnehin verdrängt. Staaten wie Panama werten das Streichen jeder Erwähnung fossiler Brennstoffe als Rückschritt hinter frühere Konferenzen. Rösti betont einen «technologieneutralen Ansatz»; ob Kernenergie Teil der Schweizer Klimastrategie sein soll, ist im Inland umstritten und kommt voraussichtlich 2027 an die Urne.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/klimakonferenz-in-antalya-cop31-entwurf-streicht-alle-hinweise-auf-fossile-brennstoffe"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/panama-droht-mit-blockade-von-beschluessen-neuer-entwurf-spart-fossile-brennstoffe-aus-102.html"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/r%c3%b6sti-ruft-staaten-zu-ausstiegspl%c3%a4nen-f%c3%bcr-fossile-energien-auf/92410005"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-koalition-der-willigen-berlin-gespraeche-russland",
+              "slug": "koalition-der-willigen-berlin-gespraeche-russland",
+              "title": "Ukraine-Gipfel in Berlin: Europa will bald mit Russland verhandeln, aber nicht in Moskau",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "kurz": "Rund 40 Staaten sichern Kiew in Berlin weitere Hilfe zu. Kanzler Merz will Gespräche mit Russland auf neutralem Boden, etwa in den Emiraten.",
+              "summary": "Am bisher grössten Treffen der «Koalition der Willigen» im Berliner Kanzleramt haben am Donnerstag rund 40 Staaten der Ukraine Unterstützung «so lange wie nötig» zugesichert. Bundeskanzler Friedrich Merz sagte, Gespräche zwischen der Ukraine, Russland, den USA und Europa sollten «bald» stattfinden, auf neutralem Boden, zum Beispiel in den Vereinigten Arabischen Emiraten. Anwesend waren auch Präsident Selenskyj und die US-Unterhändler Steve Witkoff und Jared Kushner.",
+              "gegenstimme": "Putin hatte die Europäer nach dem Treffen in Shenzhen zu Sondierungen nach Moskau eingeladen, lobte laut Tagesspiegel die Konferenz von Jalta und drohte nach dem Angriff auf die Krim-Brücke eine «sehr viel schmerzhaftere» Antwort an. Kushner betonte, Trump wolle ein Abkommen mit Europa an seiner Seite. Aus Kiewer Sicht weist Russland weiterhin alle Vorschläge zur Deeskalation zurück; ob die Kontaktlinie als Ausgangspunkt für die Ukraine annehmbar ist, bleibt umstritten.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html"
+                },
+                {
+                  "name": "Bundesregierung",
+                  "url": "https://www.bundeskanzler.de/bk-de/aktuelles/koalition-der-willigen-in-berlin-2461162"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/merz-ukraine-gespraeche-mit-europaeischer-beteiligung-sollen-bald-stattfinden-104.html"
+                },
+                {
+                  "name": "Tagesspiegel",
+                  "url": "https://www.tagesspiegel.de/politik/der-kanzler-spottet-prasentiert-ein-stuck-berliner-mauer-und-appelliert-an-putin-16302635.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-uk-eu-gipfel-jugendmobilitaet-asyl-drittstaaten",
+              "slug": "uk-eu-gipfel-jugendmobilitaet-asyl-drittstaaten",
+              "title": "UK-EU-Gipfel heute: Jugendmobilität und erstmals Gespräche über Asyl-Rückführungen in Drittstaaten",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🇬🇧",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+              "kurz": "London und Brüssel wollen heute ein Programm für bis zu 100'000 junge Menschen pro Jahr vereinbaren und über Rückführungen in Drittstaaten reden.",
+              "summary": "Am heutigen UK-EU-Gipfel in Brüssel wollen Premierminister Andy Burnham und Kommissionspräsidentin Ursula von der Leyen laut BBC ein Jugendmobilitätsprogramm beschliessen: Bis zu 100'000 junge Menschen pro Jahr und Richtung sollen im anderen Gebiet arbeiten, studieren und reisen dürfen. Laut einem vom Guardian eingesehenen Entwurf der Schlusserklärung vereinbaren beide Seiten zudem erstmals einen «strukturierten Dialog» über die Rückführung abgelehnter Asylsuchender in Drittstaaten.",
+              "gegenstimme": "Oppositionsführerin Kemi Badenoch (Konservative) wirft Burnham vor, die Gräben des Brexit-Referendums wieder aufzureissen; Kritiker sehen in der Jugendmobilität eine Personenfreizügigkeit durch die Hintertür – genau das Argument, mit dem Labour selbst 2024 ablehnte. Burnham hält dagegen, die Bevölkerung wolle, dass man alles gegen illegale Migration tue, und will vom Fünf-Länder-Modell mit Ruanda «lernen». Ob Drittstaaten-Rückführungen rechtlich und praktisch funktionieren, ist nach dem Scheitern des früheren britischen Ruanda-Plans offen.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-huthi-angriff-riad-pif-tower",
+              "slug": "huthi-angriff-riad-pif-tower",
+              "title": "Saudi-Arabien: Huthi-Angriff beschädigt Riads höchsten Wolkenkratzer",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "morning",
+              "kurz": "Ein Angriff der vom Iran unterstützten Huthi hat den Turm des saudischen Staatsfonds in Riad beschädigt. Verletzt wurde laut Behörden niemand.",
+              "summary": "Bei einem Angriff der jemenitischen Huthi-Miliz ist am Donnerstag der 80-stöckige Turm des saudischen Staatsfonds PIF in Riad beschädigt worden, das höchste Gebäude der Stadt. Über sieben bis acht Stockwerke barsten Fenster, Teile der Metallfassade verbogen sich; laut Zivilschutz gab es keine Verletzten. Das saudische Aussenministerium behält sich «alle notwendigen Massnahmen» vor.",
+              "gegenstimme": "Riad nennt den Angriff einen Terrorakt gegen zivile Infrastruktur und einen Bruch des humanitären Völkerrechts; Fox News übernimmt diese Bezeichnung. Die Huthi selbst gaben laut Reuters zunächst keine Erklärung zum Treffer ab. Middle East Eye bewertet den Schaden als deutlich, aber vergleichsweise gering. Für Saudi-Arabien wiegt vor allem der Imageschaden: Der Distrikt soll das Land als sicheren Investitionsstandort zeigen.",
+              "sources": [
+                {
+                  "name": "NBC News / Reuters",
+                  "url": "https://www.nbcnews.com/world/saudi-arabia/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq-rcna610352"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
+                },
+                {
+                  "name": "France 24 / AFP",
+                  "url": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/iran-backed-houthi-terrorist-attack-hits-riyadh-tallest-skyscraper-hq-saudi-public-investment-fund"
+                },
+                {
+                  "name": "Middle East Eye",
+                  "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-hit-saudi-arabias-sovereign-wealth-fund-skyscraper"
+                },
+                {
+                  "name": "AP (Kosten Iran-Krieg)",
+                  "url": "https://apnews.com/article/iran-war-costs-base-damage-congress-effe3c444d5a5d83a506e47d28add19b"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-syrien-patriarchen-warnen-angriffe-christen",
+              "slug": "syrien-patriarchen-warnen-angriffe-christen",
+              "title": "Syrien: Patriarchen warnen vor systematischen Angriffen auf Christen",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "international",
+              "icon": "✝️",
+              "edition": "morning",
+              "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/syria-church-bombing-scene.jpg",
+              "kurz": "Die drei grössten Kirchen Syriens sprechen von wiederkehrenden Überfällen und Entführungen gegen Christen und werfen den Behörden Versagen vor.",
+              "summary": "Die Patriarchen Johannes X. (griechisch-orthodox), Ignatius Aphrem II. (syrisch-orthodox) und Youssef Absi (melkitisch griechisch-katholisch) haben am 17. November in Damaskus eine gemeinsame Erklärung veröffentlicht. Darin heisst es, die Angriffe auf Christen seien «keine Einzelfälle», die Behörden hätten beim Schutz versagt. Anlass sind unter anderem die Entführung und Folter des Goldschmieds Maher Sankari in Suqaylabiyah und ein Überfall auf den melkitischen Erzbischof von Homs am 14. November.",
+              "gegenstimme": "Eine Stellungnahme der syrischen Regierung lag in den geprüften Quellen nicht vor. Ein Teil der Gewalt ist laut der Erklärung selbst Lösegeldkriminalität, die in einem Land mit maroder Staatsordnung auch andere trifft; ob Christen gezielt als Religionsgemeinschaft angegriffen werden oder als vermeintlich wohlhabende, schlecht geschützte Minderheit, ist nicht abschliessend geklärt. Die Kirchen halten fest, dass die Häufung kein Zufall mehr sei.",
+              "sources": [
+                {
+                  "name": "Patriarchen Syriens (Erklärung)",
+                  "url": "https://antiochianprodsa.blob.core.windows.net/websiteattachments/Joint%20Statement%20Syrian%20Attacks%20111726%20EN.pdf"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/syrias-christian-leaders-warn-grave-threat-communitys-future-amid-wave-attacks"
+                },
+                {
+                  "name": "CSI",
+                  "url": "https://csi-de.de/artikel/angriffe-auf-christen-syrien-patriarchen-erklaerung/"
+                },
+                {
+                  "name": "Syriac Press",
+                  "url": "https://syriacpress.com/blog/2026/11/19/syria-suqaylabiyah-residents-hold-candlelight-vigil-demanding-release-of-kidnapped-jeweler-amid-torture-reports/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-schleuser-syrer-610-menschen-bundespolizei",
+              "slug": "schleuser-syrer-610-menschen-bundespolizei",
+              "title": "Deutschland: Drei Syrer sollen rund 610 Menschen nach Westeuropa geschleust haben",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🚔",
+              "edition": "morning",
+              "image": "https://images.welt.de/6aff6e5a5842ff528b9e0d02/efff4cf4e8de5e5681ceb3d34162675a-master/ci16x9-w1200/dpa-com-260709-935-1468495-jpg",
+              "kurz": "Die Bundespolizei hat drei mutmassliche Schleuser eines syrischen Clans festgenommen. Sie sollen pro Person bis zu 6000 Euro verlangt haben.",
+              "summary": "Die deutsche Bundespolizei hat am Donnerstag im Auftrag der Staatsanwaltschaft Weiden drei Haftbefehle gegen syrische Staatsangehörige im Alter von 28 bis 31 Jahren vollstreckt, die dem sogenannten «Al-Sarawi-Clan» angehören sollen. Sie sollen zwischen 2022 und 2024 knapp 610 Menschen, überwiegend Syrer und Türken, nach Westeuropa geschleust haben. Pro Person verlangten sie laut Ermittlern 3000 bis 6000 Euro, insgesamt rund zwei Millionen Euro.",
+              "gegenstimme": "Die Geschleusten sind zugleich zahlende Kunden und Opfer: Sie wurden auf teils langen Fussmärschen über Grenzzäune geführt. Wer legale Fluchtwege fordert, sieht im Schleppergeschäft eine Folge geschlossener Grenzen; wer auf Grenzschutz setzt, sieht im gezielten Einkalkulieren von Polizeikontrollen und Asylunterkünften einen Missbrauch des Asylsystems. Beides sind politische Deutungen, die Ermittlungsfakten stützen keine Seite allein.",
+              "sources": [
+                {
+                  "name": "Bundespolizei (Mitteilung)",
+                  "url": "https://www.presseportal.de/blaulicht/pm/64017/6393895"
+                },
+                {
+                  "name": "Tagesschau / SWR",
+                  "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-drei-haftbefehle-fuer-mutmassliche-schleuser-aus-rheinland-pfalz-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6aff6e5a5842ff528b9e0d02/rheinland-pfalz-bis-zu-6000-euro-pro-person-drei-syrer-sollen-mehr-als-600-menschen-eingeschleust-haben.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-lufthansa-1000-stellen-frankfurt-muenchen",
+              "slug": "lufthansa-1000-stellen-frankfurt-muenchen",
+              "title": "Lufthansa will 1000 Stellen in Frankfurt und München streichen",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "morning",
+              "kurz": "Die Kernmarke Lufthansa Airlines schreibt seit drei Jahren Verluste und will an ihren Drehkreuzen 1000 Vollzeitstellen abbauen.",
+              "summary": "Lufthansa Airlines will an den Drehkreuzen Frankfurt und München insgesamt 1000 Vollzeitstellen abbauen und die Zahl der Kurz- und Mittelstreckenflugzeuge der Airbus-A320-Familie verringern. Das steht in einem Brief von Airline-Chef Jens Ritter und vier Vorstandskollegen an die Belegschaft, der der dpa vorliegt. In den ersten neun Monaten 2026 machte die Kernmarke einen operativen Verlust von 180 Millionen Euro, rund 20 Millionen pro Monat.",
+              "gegenstimme": "Der Konzern ist insgesamt profitabel, das Problem liegt bei der Kernmarke; das Management nennt dabei auch Streiks als Verlustgrund. Eine Reaktion der Arbeitnehmervertreter lag bis heute Morgen nicht vor. Aus Sicht des Vorstands ist der Abbau dagegen nötig, um die Kosten auf das Niveau der Konkurrenz zu bringen.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html"
+                },
+                {
+                  "name": "ZEIT / dpa",
+                  "url": "https://www.zeit.de/wirtschaft/2026-11/lufthansa-stellenabbau-frankfurt-muenchen-airbus-a320-a220"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/lufthansa-will-1-000-stellen-an-drehkreuzen-streichen-und-flotte-auf-kurz-und-mittelstrecken-verklei-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-ki-chips-china-879000-bewilligt-nvidia-kalifornien",
+              "slug": "ki-chips-china-879000-bewilligt-nvidia-kalifornien",
+              "title": "USA: Regierung bewilligte über 879'000 KI-Chips für China, Kalifornien ermittelt gegen Nvidia",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "💾",
+              "edition": "morning",
+              "image": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&w=1920&h=1080",
+              "kurz": "Ein Kongressausschuss legt offen, wie viele Nvidia- und AMD-Chips nach China bewilligt wurden. Kalifornien hat Nvidia eine Vorladung zugestellt.",
+              "summary": "Der Vorsitzende des Aussenausschusses im US-Repräsentantenhaus, Brian Mast, hat am Donnerstag Lizenzdaten veröffentlicht: Das Handelsministerium (BIS) genehmigte von Dezember 2025 bis Mai 2026 den Verkauf von über 879'000 KI-Chips von Nvidia und AMD an chinesische Firmen, darunter Alibaba und Tencent; beantragt waren 3,4 Millionen. Am selben Tag stellte Kaliforniens Generalstaatsanwalt Rob Bonta Nvidia eine Vorladung zu.",
+              "gegenstimme": "Nvidia und AMD erklären, sie hielten die US-Exportgesetze ein; Nvidia betont, es sei den damals geltenden Regeln des Handelsministeriums gefolgt. Das BIS sagt, es habe den Kongress über Bewilligungen und Ablehnungen informiert. Kritik kommt parteiübergreifend: vom Republikaner Mast ebenso wie vom Demokraten Gregory Meeks, der dem BIS vorwirft, die Regeln nicht durchgesetzt zu haben.",
+              "sources": [
+                {
+                  "name": "US-Repräsentantenhaus, Aussenausschuss",
+                  "url": "https://foreignaffairs.house.gov/news/press-releases/chairman-brian-mast-exercises-legislative-authority-to-publicly-release-ai-chip-license-information-for-china"
+                },
+                {
+                  "name": "CNBC",
+                  "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-apple-hintertuer-grossbritannien-tribunal",
+              "slug": "apple-hintertuer-grossbritannien-tribunal",
+              "title": "Grossbritannien muss zugeben: Regierung verlangte von Apple eine iCloud-Hintertür",
+              "date": "2026-11-20",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "🔐",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/0/0/0/shutterstock_2022970481-9f19ed251de5a180.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Ein britisches Spezialgericht zwingt die Regierung, ihre geheime Anordnung gegen Apples iCloud-Verschlüsselung zu bestätigen.",
+              "summary": "Das britische Investigatory Powers Tribunal hat am Donnerstag entschieden, dass die Regierung bestätigen muss, Apple eine «technical capability notice» erteilt zu haben – eine geheime Anordnung, die auf die Verschlüsselung von iCloud-Konten zielt. Das Gericht verwarf die Haltung des Innenministeriums, die Existenz weder zu bestätigen noch zu dementieren, weil schon das die nationale Sicherheit gefährde. Geklagt hatten Apple und die Organisationen Privacy International und Liberty.",
+              "gegenstimme": "Das Innenministerium argumentierte, schon die Bestätigung schade der nationalen Sicherheit; Ermittlungsbehörden wollen bei schweren Straftaten Zugriff auf verschlüsselte Daten. Heise betont, das Urteil schaffe nur sehr bedingt einen Präzedenzfall. Datenschützer sehen dagegen in jeder Hintertür ein Risiko für alle Nutzer, weil sie auch von Kriminellen oder fremden Staaten ausgenutzt werden könnte.",
+              "sources": [
+                {
+                  "name": "Heise",
+                  "url": "https://www.heise.de/news/Spionagegericht-Grossbritannien-muss-Auftrag-fuer-Apple-Hintertuer-gestehen-11531845.html"
+                },
+                {
+                  "name": "TechCrunch",
+                  "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"
+                },
+                {
+                  "name": "The Record",
+                  "url": "https://therecord.media/apple-uk-encryption-notice"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-19",
       "editions": {
