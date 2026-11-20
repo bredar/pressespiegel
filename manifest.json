@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T06:15:00+01:00",
+  "updated": "2026-11-20T12:15:00+01:00",
   "days": [
     {
       "date": "2026-11-20",
@@ -421,6 +421,367 @@
                 {
                   "name": "The Record",
                   "url": "https://therecord.media/apple-uk-encryption-notice"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-20-russland-grossangriff-kiew-bruecken-polen-flugkoerper",
+              "slug": "russland-grossangriff-kiew-bruecken-polen-flugkoerper",
+              "title": "Russischer Grossangriff: Drei Kiewer Brücken getroffen, Flugkörper stürzen in Polen ab",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg",
+              "kurz": "Russland hat die Ukraine mit fast 100 Raketen und rund 400 Drohnen angegriffen. In Ostpolen fand die Armee Trümmer an drei Orten.",
+              "summary": "In der Nacht auf Freitag hat Russland laut ukrainischer Luftwaffe fast 100 Raketen und rund 400 Drohnen auf neun Regionen der Ukraine abgefeuert; in Kiew trafen ballistische Raketen drei Brücken über den Dnipro, sechs Menschen starben, in Lwiw zwei weitere. Polens Verteidigungsminister Władysław Kosiniak-Kamysz meldet Trümmer an drei Orten im Osten des Landes, wahrscheinlich von zwei Marschflugkörpern und einer Drohne; verletzt wurde niemand. Regierungschef Donald Tusk berief einen Krisenstab ein, Polen will die Nato um zusätzliche Unterstützung bitten.",
+              "gegenstimme": "Der Kreml hatte die Angriffe als Antwort auf den ukrainischen Schlag gegen die Krim-Brücke angekündigt, die für Russlands Versorgung der besetzten Halbinsel zentral ist. Zu den Flugkörpern in Polen hat sich Moskau in den geprüften Quellen bisher nicht geäussert; ein gezielter Angriff auf Nato-Gebiet ist nicht belegt.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/polen-meldet-absturz-von-drei-russischen-flugobjekten-a-590c07a8-aff7-45f3-bc77-38cc81cffb65"
+                },
+                {
+                  "name": "20 Minuten (Ticker, dpa)",
+                  "url": "https://www.20min.ch/story/ukraine-krieg-explosionen-in-polen-nach-russischem-grossangriff-auf-die-ukraine-453678534597"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-uk-eu-reset-deal-jugendmobilitaet-studiengebuehren",
+              "slug": "uk-eu-reset-deal-jugendmobilitaet-studiengebuehren",
+              "title": "Grossbritannien und EU einigen sich auf Reset-Paket, Studiengebühren bleiben Knackpunkt",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🤝",
+              "edition": "midday",
+              "image": "https://i.guim.co.uk/img/media/54da6151ea7baf4c326b9f74ea0f98da416b8954/665_25_4717_3773/master/4717.jpg?width=1200&height=630&quality=85&auto=format&fit=crop",
+              "kurz": "London meldet «Deal is done»: Jugendmobilität, Lebensmittelhandel und Emissionshandel. Die EU knüpft die Umsetzung an tiefere Studiengebühren.",
+              "summary": "Am EU-UK-Gipfel in Brüssel haben Premierminister Andy Burnham, Kommissionspräsidentin Ursula von der Leyen und Ratspräsident António Costa am Freitag drei Abkommen vereinbart: zum Handel mit Lebensmitteln und Agrarprodukten (SPS), zur Verknüpfung der Emissionshandelssysteme und zu einem Jugendmobilitätsprogramm für je 100'000 junge Menschen pro Jahr. Downing Street erklärte: «The deal is done». Die EU-Staaten wollen die Abkommen aber erst annehmen, wenn innert sechs Monaten eine Einigung über gleiche Studiengebühren für EU-Studierende vorliegt.",
+              "gegenstimme": "Reform-UK-Chef Nigel Farage sagt laut BBC, der Premier habe kein «demokratisches Mandat» für dieses Paket; Kritiker sehen in der Übernahme von EU-Standards einen Verlust an Selbstbestimmung. Die Regierung verweist auf weniger Bürokratie im Handel und mehr Wachstum. Ein EU-Vertreter bestreitet, dass Brüssel London mit der Gebührenfrage erpresse: «We don't take anyone hostage here.»",
+              "sources": [
+                {
+                  "name": "The Guardian (Live)",
+                  "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates"
+                },
+                {
+                  "name": "BBC (Live)",
+                  "url": "https://www.bbc.com/news/live/cm1j6gd3k5pdt"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/20/young-europeans-win-a-route-back-to-the-uk-but-not-cheaper-university-fees-yet"
+                },
+                {
+                  "name": "Politico Europe",
+                  "url": "https://www.politico.eu/article/brussels-to-link-uk-eu-summit-package-to-tuition-fee-demands/"
+                },
+                {
+                  "name": "Rapporteur",
+                  "url": "https://www.rapporteur.com/news/tuition-fees-talks-delay-adoption-of-eu-uk-deal/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-ki-ausverkauf-boersen-anthropic-smi",
+              "slug": "ki-ausverkauf-boersen-anthropic-smi",
+              "title": "KI-Ausverkauf an den Börsen: Anthropic-Debüt bremst den Absturz nicht",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/f690c882b0faef3156b42c4d0e34ac603c017697-92411690.jpg?ver=5b431f50&fit=1200,900",
+              "kurz": "Taiwan minus 6,7, Nikkei minus 5 Prozent: Chip- und KI-Aktien fallen weltweit. Der SMI hält sich dank Nestlé und Novartis besser.",
+              "summary": "Einen Tag nach dem Rekord-Börsengang von Anthropic sind die Aktienmärkte am Freitag weltweit eingebrochen: Taiwans Börse fiel laut Guardian um 6,7 Prozent, der japanische Nikkei um rund 5 Prozent und der südkoreanische Kospi um 5,5 Prozent. Die Anthropic-Aktie selbst lag im vorbörslichen Handel rund 6 Prozent im Minus bei 91,30 Dollar, nach einem Ausgabepreis von 83 Dollar. Der Schweizer Leitindex SMI verlor gegen 10 Uhr nur 0,5 Prozent, weil Nestlé und Novartis zulegten; ABB und VAT fielen um über 3 Prozent.",
+              "gegenstimme": "Laut Analystin Daniela Hathorn (Capital.com) zeigt der Börsengang, dass die Nachfrage nach KI-Anlagen stark bleibt; die Sorge gelte hohen Bewertungen und der Frage, ob sich die Milliardeninvestitionen auszahlen. Defensive Titel wie Nestlé und Novartis legten zu, der Abverkauf trifft also nicht alle Branchen.",
+              "sources": [
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/finanzen/ostasiens-boersen-brechen-nach-anthropics-boersengang-ein-ld.10069682"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/schwergewichte-bewahren-schweizer-b%c3%b6rse-vor-gr%c3%b6sseren-verlusten/92411703"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-usa-cyberchef-cairncross-abgeloest",
+              "slug": "usa-cyberchef-cairncross-abgeloest",
+              "title": "USA: Nationaler Cyberchef muss nach Serie von IT-Pannen gehen",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "midday",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795153683.jpg?resize=1620%2C1080&quality=80",
+              "kurz": "Sean Cairncross verlässt seinen Posten als National Cyber Director. Pentagon-IT-Chefin Kirsten Davies übernimmt vorerst.",
+              "summary": "US-Präsident Donald Trump hat den National Cyber Director Sean Cairncross abgelöst; die bisherige IT-Chefin des Pentagons, Kirsten Davies, übernimmt das Amt laut Aussenminister Marco Rubio kommissarisch. Reuters berichtet unter Berufung auf anonyme Quellen, Cairncross sei gefeuert worden. Vorausgegangen war eine Serie grosser IT-Ausfälle in den USA, darunter ein stundenlanger landesweiter Flugstopp.",
+              "gegenstimme": "Cairncross selbst nannte die Aufgabe laut Reuters «die grösste Ehre» seines Lebens. Laut zwei von Axios zitierten Quellen ging er einvernehmlich, um Trump eine rasche Nachbesetzung zu ermöglichen. Die Regierung betont, die Ausfälle seien technische Pannen und keine Angriffe; ein direkter Zusammenhang mit seiner Arbeit ist nicht belegt.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Nach-einer-Reihe-von-IT-Ausfaellen-Cyberchef-der-US-Regierung-gefeuert-11531967.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-menzingen-asylunterkunft-angriff-nach-vorwurf",
+              "slug": "menzingen-asylunterkunft-angriff-nach-vorwurf",
+              "title": "Menzingen ZG: Mann in Asylunterkunft nach Missbrauchsvorwurf angegriffen, drei in U-Haft",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🚔",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/2067a7ed1b02e3a4fcaf1cb5fc2e6238916a72a6-92411734.jpg?ver=4e31424c&fit=1200,900",
+              "kurz": "Bewohner warfen einem Mann einen Übergriff auf ein Kind vor, die Polizei fand keine Hinweise. Kurz darauf wurde er erheblich verletzt; vier Türken festgenommen.",
+              "summary": "In einer Asylunterkunft an der Seminarstrasse in Menzingen ist am Samstagabend ein Bewohner bei einem tätlichen Angriff erheblich verletzt worden. Zuvor hatten Bewohnende ihm einen sexuellen Übergriff auf ein Kind vorgeworfen; die Polizei fand vor Ort laut Zuger Strafverfolgungsbehörden «keine konkreten Hinweise, die den Verdacht erhärteten». Festgenommen wurden drei Frauen und ein Mann, alle türkische Staatsangehörige; drei von ihnen sitzen in Untersuchungshaft.",
+              "gegenstimme": "Für die vier Festgenommenen gilt die Unschuldsvermutung, ebenso für den Verletzten, gegen den sich ein schwerer Vorwurf richtete, der sich laut Polizei vor Ort nicht erhärtete. Ob die Angreifer aus Sorge um das Kind handelten oder andere Motive hatten, ist nicht bekannt; Selbstjustiz ist auch bei einem zutreffenden Verdacht strafbar.",
+              "sources": [
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/mann-bei-angriff-in-asylunterkunft-in-menzingen-zg-verletzt/92411747"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/menzingen-zg-sexueller-uebergriff-in-asylheim-bewohner-ueben-selbstjustiz-103670601"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-bern-toetungsdelikt-morillonstrasse-u-haft-bundesgericht",
+              "slug": "bern-toetungsdelikt-morillonstrasse-u-haft-bundesgericht",
+              "title": "Tötungsdelikt an der Berner Morillonstrasse: Verdächtiger bleibt in Untersuchungshaft",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/730391ae048c930177e032d572d10c160c75cca8-92412629.jpg?ver=98b4fa87&fit=1200,900",
+              "kurz": "Das Bundesgericht weist die Haftbeschwerde ab. DNA-Spuren und widersprüchliche Aussagen begründen laut Urteil einen dringenden Tatverdacht.",
+              "summary": "Der Mann, der im Zusammenhang mit dem Tod einer jungen Frau Ende Juni an der Morillonstrasse in Bern festgenommen wurde, bleibt in Untersuchungshaft. Das Bundesgericht hat seine Beschwerde abgewiesen, wie aus einem am Freitag publizierten Urteil (7B_1376/2026 vom 4. November) hervorgeht. Seine DNA und sein Sperma wurden auf der Toten und an ihrem Duvet gefunden.",
+              "gegenstimme": "Für den Beschuldigten gilt die Unschuldsvermutung. Das Bundesgericht hat nur geprüft, ob die Haft zulässig ist, nicht ob er schuldig ist. Spuren, die auf Geschlechtsverkehr hinweisen, belegen für sich allein noch keine Tötung; die Verteidigung hatte die Freilassung verlangt.",
+              "sources": [
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/u-haft%3a-verd%c3%a4chtigter-in-berner-t%c3%b6tungsfall-kommt-nicht-frei/92412642"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/femizid-in-bern-bundesgericht-lehnt-haftentlassung-ab-346105955722"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-bern-initiative-werbefrei-zustande-gekommen",
+              "slug": "bern-initiative-werbefrei-zustande-gekommen",
+              "title": "Stadt Bern: Initiative für ein Verbot kommerzieller Plakatwerbung ist zustande gekommen",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🪧",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/e2c451645c363d47391263e3442423527e07215c-92411852.jpg?ver=f0539926&fit=1200,900",
+              "kurz": "«Bern werbefrei» hat 5397 gültige Unterschriften. Die Initiative will kommerzielle Plakate und Werbebildschirme im ganzen Stadtgebiet verbieten.",
+              "summary": "Die städtische Initiative «Bern werbefrei» ist mit 5397 gültigen Unterschriften formell und materiell zustande gekommen, wie der Gemeinderat am Freitag mitteilte. Sie verlangt, dass sogenannte Fremdreklame – kommerzielle Plakate, Leuchtreklamen und digitale Werbebildschirme – auf dem ganzen Stadtgebiet nicht mehr bewilligt wird. Der Gemeinderat hat nun zwölf Monate Zeit, um dem Stadtrat einen Antrag zu stellen.",
+              "gegenstimme": "Die Mehrheit des Stadtrats lehnte ein Werbeverbot letztes Jahr wegen der Einnahmeausfälle von rund fünf Millionen Franken pro Jahr ab. Die Initianten wollen den öffentlichen Raum dagegen von kommerzieller Werbung befreien.",
+              "sources": [
+                {
+                  "name": "swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/initiative-f%c3%bcr-werbefreies-bern-ist-zustande-gekommen/92411865"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bern-initiative-fuer-werbeverbot-ist-zustande-gekommen-870274731886"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-biel-daniel-carr-strafverfahren-faustschlag",
+              "slug": "biel-daniel-carr-strafverfahren-faustschlag",
+              "title": "Biel: Strafverfahren gegen Eishockeyprofi Daniel Carr nach Faustschlag",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🏒",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/97a913.jpg",
+              "kurz": "Die Berner Staatsanwaltschaft ermittelt wegen versuchter schwerer Körperverletzung gegen den Ajoie-Stürmer. Er hatte einen Gegner am Boden geschlagen.",
+              "summary": "Die regionale Staatsanwaltschaft Berner Jura-Seeland hat gegen Ajoie-Stürmer Daniel Carr ein Verfahren wegen versuchter schwerer Körperverletzung eröffnet, wie die Kantonspolizei Bern am Freitag mitteilte. Carr hatte im National-League-Spiel vom 16. Oktober in Biel den Bieler Captain Gaëtan Haas, der ohne Helm am Boden lag, gegen den Kopf geschlagen. Haas erlitt eine Gehirnerschütterung und fällt seither aus.",
+              "gegenstimme": "Eishockey ist körperbetont, Faustkämpfe werden gewöhnlich verbandsintern bestraft, und Carr hat seine Sperre verbüsst. Für ihn gilt die Unschuldsvermutung; ob aus einem Foul im Spiel eine Straftat wird, muss die Staatsanwaltschaft erst prüfen. Laut Staatsanwaltschaft zählt vor allem das Signal, dass auch im Sport Grenzen gelten.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern (Medienmitteilung)",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=0e16927b-f6cc-4c08-a51d-a3ca1b20f84c"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/nach-faustschlag-im-spiel-staatsanwaltschaft-eroeffnet-verfahren-gegen-daniel-carr"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/daniel-carr-strafverfahren-wegen-schwerer-koerperverletzung-394507412809"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-emmentalwaerts-verkehrssanierung-baustart-2029",
+              "slug": "emmentalwaerts-verkehrssanierung-baustart-2029",
+              "title": "Emmental: Bau der Verkehrssanierung Burgdorf–Oberburg–Hasle beginnt 2029",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🚧",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/CABmE2Mjq-cA7hUWQqgw6j.jpg",
+              "kurz": "Eines der grössten Strassenbauvorhaben des Kantons Bern startet 2029. Das Projekt von 2018 wird vorher nochmals überprüft.",
+              "summary": "Die Bauarbeiten für die Verkehrssanierung Burgdorf–Oberburg–Hasle («Emmentalwärts») beginnen 2029, wie die kantonale Bau- und Verkehrsdirektion am Freitag mitteilte. Es ist eines der grössten Strassenbauvorhaben des Kantons Bern; die 19 Teilprojekte sollen laut Der Bund bis etwa Ende 2040 abgeschlossen sein. Regierungsrätin Evi Allemann informierte die Gemeinden des unteren Emmentals.",
+              "gegenstimme": "Dass das Projekt von 2018 nochmals überprüft wird, heisst auch: Umfang und Kosten stehen noch nicht abschliessend fest. Für die Bevölkerung entlang der heutigen Ortsdurchfahrten bedeutet der Zeitplan noch viele Jahre ohne Entlastung; ob das Review das Projekt verkleinert oder verteuert, ist offen.",
+              "sources": [
+                {
+                  "name": "Kanton Bern (Medienmitteilung)",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=a41db5b3-3951-40c0-b994-5b35d5d4b0da"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/verkehrssanierung-emmental-baustart-erfolgt-2029-570301399040"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-kantonsschule-hottingen-hack-freispruch",
+              "slug": "kantonsschule-hottingen-hack-freispruch",
+              "title": "Hackerangriff auf Kantonsschule Hottingen: Ex-Schüler freigesprochen",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/10/75317401-d4fc-4b9a-8551-7d8bc1eeceaf.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4256,2394,x0,y219&wmark=nzz",
+              "kurz": "Ein 23-Jähriger soll 2022 das Schul-Intranet gehackt und 6072 falsche Absenzen eingetragen haben. Das Gericht sah nur Indizien.",
+              "summary": "Das Bezirksgericht Zürich hat am Donnerstag einen 23-jährigen ehemaligen Schüler der Kantonsschule Hottingen vom Vorwurf freigesprochen, im Mai 2022 das Intranet der Schule gehackt zu haben. Der Angreifer hatte mit dem Konto des Prorektors 6072 falsche Absenzen eingetragen und Passwörter von Lehrpersonen sowie Noten von Maturaarbeiten an die ganze Schule verschickt. Der Richter sprach den Mann im Zweifel frei und ihm 3400 Franken Genugtuung für 17 Tage Untersuchungshaft zu.",
+              "gegenstimme": "Die Staatsanwaltschaft sah eine Indizienkette, die «keine Zweifel offenlasse», und vermutete als Motiv Geltungsdrang. Die Verteidigung hielt dagegen, ein User-Agent lasse sich verändern und der Klassenchat zeige nur Reaktionen auf bereits Bekanntes; der Beschuldigte bestreitet jede Beteiligung.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/zuerich/cyberangriff-auf-kantonsschule-hottingen-schueler-unter-verdacht-ld.10068471"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/hack-kantonsschule-hottingen-freispruch-fuer-ex-schueler-476553757290"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-dielsdorf-islam-projektwoche-kritik",
+              "slug": "dielsdorf-islam-projektwoche-kritik",
+              "title": "Dielsdorf ZH: Islam-Projektwoche an Sekundarschule löst Protest aus",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🏫",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/11/20/21ac9f1f-3768-470f-b1b4-6e1bd4304b63.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C291%2C6000%2C3375&s=975b8dd0ace4638873d9e3f958bdf078",
+              "kurz": "Eine Woche Islam im Fach «Religionen, Kulturen, Ethik», inklusive Moscheebesuch: Auf Facebook hagelt es Kritik, die Schule hält am Programm fest.",
+              "summary": "Die Sekundarschule Dielsdorf führt im Fach «Religionen, Kulturen, Ethik» (RKE) diese Woche eine Projektwoche zum Islam durch, inklusive Besuch einer Moschee in Zürich. Nach Kritik in einer lokalen Facebook-Gruppe – bis zur Forderung, den Unterricht sofort zu stoppen, und Ankündigungen, Kinder abzumelden – verschickte die Schule eine Stellungnahme an die Eltern. Die Projektwoche läuft wie geplant bis Freitag.",
+              "gegenstimme": "Kritikerinnen und Kritiker finden, eine öffentliche Schule müsse Religionen ausgewogen und neutral behandeln; eine ganze Woche zu einer einzigen Religion mit Moscheebesuch gehe zu weit, während die christlichen Wurzeln zu kurz kämen. Die Schule hält dagegen: «Wir unterrichten über Religionen, nicht in einer Religion»; Besuche in Synagogen, Tempeln, Kirchen und Klöstern seien im RKE-Unterricht ebenso üblich.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/dielsdorf-islam-projektwoche-an-sek-loest-kritik-aus-390207512039"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/dielsdorf-zh-schaemt-euch-islam-woche-an-schule-sorgt-fuer-wirbel-103670492"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-dietikon-polizeitaucher-verfahren-einsatzleiter",
+              "slug": "dietikon-polizeitaucher-verfahren-einsatzleiter",
+              "title": "Tod eines Polizeitauchers in Dietikon: Neues Verfahren gegen Einsatzleiter",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🚔",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/11/20/dbf495ea-41a8-4255-8a84-61786f46f691.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C2%2C4000%2C2250&s=342a5120a49d49c39a6902d6437bd02a",
+              "kurz": "Ein Jahr nach der Einstellung wird erneut ermittelt: Ein ausserkantonaler Staatsanwalt prüft den Verdacht der fahrlässigen Tötung.",
+              "summary": "Nach dem Tod eines 44-jährigen Zürcher Polizeitauchers beim Kraftwerk Dietikon im September 2025 ist erneut ein Strafverfahren eröffnet worden; ein ausserkantonaler Staatsanwalt untersucht den Verdacht der fahrlässigen Tötung. Das bestätigte die Oberstaatsanwaltschaft Zürich dem «Tages-Anzeiger». Im Fokus steht laut der Zeitung der damalige Einsatzleiter der Kantonspolizei; das Obergericht hat Ermittlungen gegen ihn erlaubt.",
+              "gegenstimme": "Für den Einsatzleiter gilt die Unschuldsvermutung; die erste Untersuchung fand keine Hinweise auf strafbares Verhalten. Die Kraftwerksbetreiberin EKZ betont, die Anlage entspreche dem Stand der Technik und den gesetzlichen Vorgaben.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/tauchunfall-dietikon-verfahren-wegen-fahrlaessiger-toetung-273710561360"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/dietikon-zh-tod-von-polizeitaucher-einsatzleiter-im-visier-der-ermittler-103670531"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-20-cop31-eu-entwurf-nicht-akzeptabel-schweiz-ohne-roadmap",
+              "slug": "cop31-eu-entwurf-nicht-akzeptabel-schweiz-ohne-roadmap",
+              "title": "Klimakonferenz COP31: EU nennt Schlussentwurf «nicht akzeptabel», Schweiz ohne eigenen Ausstiegsplan",
+              "date": "2026-11-20",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🌍",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/38532fa6e30c233f69665294755e83e5ffb728cf-92412377.jpg?ver=66797e7c&fit=1200,900",
+              "kurz": "Kurz vor Schluss in Antalya wehrt sich die EU gegen einen Text ohne fossile Brennstoffe. Rösti fordert Roadmaps, legt selbst aber keine vor.",
+              "summary": "Wenige Stunden vor dem geplanten Ende der UNO-Klimakonferenz in Antalya hat die EU den aktuellen Entwurf der Abschlusserklärung laut Verhandlungskreisen als «nicht akzeptabel» bezeichnet: «Dies darf keine Klimakonferenz für fossile Brennstoffe werden.» Eine Allianz von rund 25 Staaten, darunter Deutschland, macht Druck für den Abschied von Kohle, Öl und Gas. Die Schweiz legt laut Der Bund keinen eigenen Ausstiegsplan vor; Bundesrat Albert Rösti setzt auf die bestehenden Gesetze.",
+              "gegenstimme": "Rösti wertet das Elektrifizierungsziel als «gutes Resultat», falls es im Text bleibt, und verweist auf die bestehenden Schweizer Gesetze statt auf einen zusätzlichen Plan. Umweltorganisationen nennen das Streichen der fossilen Brennstoffe dagegen einen «riesigen Rückschritt». Der deutsche Umweltminister Carsten Schneider sagt, einige Staaten verdienten viel Geld mit fossilen Brennstoffen und wollten den Begriff deshalb nicht im Text.",
+              "sources": [
+                {
+                  "name": "swissinfo / Keystone-SDA (EU)",
+                  "url": "https://www.swissinfo.ch/ger/eu-frustriert-%c3%bcber-klimagipfel-%22nicht-akzeptabel%22/92411538"
+                },
+                {
+                  "name": "swissinfo / Keystone-SDA (Rösti)",
+                  "url": "https://www.swissinfo.ch/ger/klimakonferenz%3a-schweiz-macht-laut-r%c3%b6sti-druck/92412390"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/klimakonferenz-antalya-eu-lehnt-entwurf-als-inakzeptabel-ab-660147235288"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/klimakonferenz-antalya-schweiz-ohne-ausstiegsplan-fuer-oel-810688309632"
+                },
+                {
+                  "name": "ORF",
+                  "url": "https://orf.at/stories/3448746/"
+                },
+                {
+                  "name": "upday / dpa",
+                  "url": "https://www.upday.com/de/news/klimagipfel-rund-25-staaten-fordern-den-abschied-von-kohle-ol-und-gas/xl844nr"
                 }
               ]
             }
