@@ -1,6 +1,362 @@
 {
-  "updated": "2026-11-20T17:15:00+01:00",
+  "updated": "2026-11-21T06:15:00+01:00",
   "days": [
+    {
+      "date": "2026-11-21",
+      "editions": {
+        "morning": {
+          "time": "06:15",
+          "articles": [
+            {
+              "id": "2026-11-21-svp-bundesratsticket-aeschi-graber",
+              "slug": "svp-bundesratsticket-aeschi-graber",
+              "title": "Parmelin-Nachfolge: SVP schickt Aeschi und Graber ins Rennen, Romandie geht leer aus",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/89e1fd.jpg",
+              "kurz": "Die SVP-Fraktion nominiert die Nationalräte Thomas Aeschi (ZG) und Michael Graber (VS). Céline Amaudruz und alle Regierungsräte scheitern.",
+              "summary": "Die SVP-Bundeshausfraktion hat am Freitagabend Fraktionschef Thomas Aeschi (ZG, 47) und den Oberwalliser Nationalrat Michael Graber (45) als Zweierticket für die Nachfolge von Bundesrat Guy Parmelin nominiert. Aeschi kam nach sechs Wahlgängen auf 37 Stimmen, Graber im siebten Wahlgang auf 42; insgesamt brauchte es 13 geheime Wahlgänge. Die Vereinigte Bundesversammlung wählt am 9. Dezember.",
+              "gegenstimme": "Die SVP sagt, Herkunft, Sprache und Geschlecht hätten keine Rolle gespielt, sondern die Eignung; Aeschi und Graber verträten «unser Gedankengut», so wie andere Parteien früher Kandidaten nach ihren Werten gewählt hätten. Die Grünen nennen das Ticket «eine reine Provokation», Alliance F den Verzicht auf eine Frau «empörend». In der Westschweiz spricht Jean-Luc Addor (SVP/VS), Präsident der lateinischen SVP-Gruppe, von einem «schweren politischen Fehler»: Die Romandie habe ihren zweiten Bundesratssitz wohl für lange Zeit verloren.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/parmelin-nachfolge-svp-setzt-aeschi-und-graber-aufs-bundesratsticket"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/svp-tritt-mit-aeschi-und-graber-f%C3%BCr-nachfolge-von-guy-parmelin-vor/92415131"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/eine-schande-oder-eine-interessante-erfahrung-das-ticket-der-svp-erzaehlt-einiges-ueber-die-partei-und-ihre-gesichter-ld.10070563"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/bundesratswahl-svp-nominiert-aeschi-und-graber-299766751497"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-jugendstreik-bilanz-basel-ausschreitungen-zuerich-festnahmen",
+              "slug": "jugendstreik-bilanz-basel-ausschreitungen-zuerich-festnahmen",
+              "title": "Jugendstreik-Bilanz: Krawalle in Basel, Festnahmen in Zürich, Bern weitgehend friedlich",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "📢",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/1e7687.jpg",
+              "kurz": "Nach dem Jugendstreik meldet Zürich 4 Festnahmen und 29 vorübergehende, in Basel griffen Vermummte die Polizei mit Feuerwerk und Steinschleudern an. In Bern blieb es weitgehend ruhig.",
+              "summary": "In rund zehn Schweizer Städten haben am Freitag Tausende Jugendliche gegen Aufrüstung und Sparmassnahmen demonstriert; die Juso spricht von über 40'000 Teilnehmenden. In Basel errichteten Vermummte nach dem bewilligten Umzug Barrikaden und griffen die Polizei mit Feuerwerk und Steinschleudern an, die Polizei setzte Wasserwerfer, Gummischrot und Tränengas ein. In Zürich nahm die Polizei 4 Personen fest und 29 weitere vorübergehend; in Bern zogen laut Kantonspolizei rund 2000 Personen friedlich vom Münsterplatz zur Reitschule.",
+              "gegenstimme": "Mitorganisator Kai bedauert, dass die Basler Demo «gewaltvoll aufgelöst» worden sei; eskaliert sei es erst durch den Polizeieinsatz, und die Ausweitung sei nicht vom Bündnis ausgegangen. Die Polizei sagt, sie sei erst eingeschritten, als Teilnehmende die bewilligte Route verliessen. Der Berner Sicherheitsdirektor Philippe Müller hatte im Vorfeld gewarnt, die Kundgebungen würden von gewaltbereiten Linksextremen gekapert; die Organisatoren verweisen darauf, dass die grosse Mehrheit friedlich demonstrierte.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/schweizweiter-jugendstreik-jugend-demos-tausende-auf-der-strasse-wenige-zwischenfaelle"
+                },
+                {
+                  "name": "20 Minuten (Ticker mit Polizeibilanzen)",
+                  "url": "https://www.20min.ch/story/jugendproteste-schweiz-20-november-live-ticker-103670504"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/jugendstreik-schweiz-ausschreitungen-in-basel-bern-friedlich-531137594772"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-bfs-migrationshintergrund-42-prozent-arbeitsmarkt",
+              "slug": "bfs-migrationshintergrund-42-prozent-arbeitsmarkt",
+              "title": "BFS: 42 Prozent haben Migrationshintergrund, Zugewanderte finden meist rasch eine Stelle",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "📊",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/10/31/61bee880-d148-49ae-98b8-3c7358253889.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5999,3374,x0,y626&wmark=nzz",
+              "kurz": "Über drei Millionen Menschen in der Schweiz haben einen Migrationshintergrund. Die meisten finden schnell Arbeit, Geflüchtete deutlich seltener.",
+              "summary": "Laut neuen Zahlen des Bundesamts für Statistik (BFS) hatten 2025 42 Prozent der ständigen Wohnbevölkerung ab 15 Jahren einen Migrationshintergrund, mehr als drei Millionen Personen. Über zwei Drittel derjenigen, die zum Arbeiten kamen, hatten schon vor der Einreise eine Stelle; von den übrigen fanden zwei Drittel innert drei Monaten eine. Gut zwei Drittel der im Ausland Geborenen wollen für immer bleiben, 8 Prozent nicht.",
+              "gegenstimme": "Wer die Zuwanderung begrenzen will, verweist auf das rasche Bevölkerungswachstum und darauf, dass die gute Bilanz vor allem für Personen aus EU und Efta gilt, während sie bei Menschen aus Drittstaaten und Geflüchteten deutlich schlechter ausfällt. Bundesrat Jans fordert dagegen von Bund, Kantonen, Gemeinden und Wirtschaft mehr Chancen für geflüchtete Frauen, auch mit lückenhaftem Lebenslauf; Integration verlange Eigeninitiative, aber auch Offenheit.",
+              "sources": [
+                {
+                  "name": "Bundesamt für Statistik (Medienmitteilung)",
+                  "url": "https://www.bfs.admin.ch/de/newnsb/YskdJK6LxRTM"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/kaum-ein-zuwanderer-will-die-schweiz-wieder-verlassen-doch-nicht-alle-finden-gleich-schnell-eine-arbeitsstelle-ld.10069861"
+                },
+                {
+                  "name": "Cash / AWP",
+                  "url": "https://www.cash.ch/news/die-meisten-zugewanderten-sind-rasch-im-arbeitsmarkt-integriert-986901"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-baselland-cyberangriff-97000-grenzgaenger-daten",
+              "slug": "baselland-cyberangriff-97000-grenzgaenger-daten",
+              "title": "Cyberangriff auf Baselbieter Verwaltung: Daten von Grenzgängern gestohlen",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/eb646f3be45c9ab085b602e892e9157a24385e95-92413667.jpg?ver=241068ed&fit=1200,900",
+              "kurz": "Hacker haben beim Kanton Basel-Landschaft rund 97'000 Datensätze zu Grenzgängerbewilligungen erbeutet, inklusive Zemis-Nummern. Der Kanton warnt vor Phishing.",
+              "summary": "Bei einem Cyberangriff Mitte November hat sich eine unbekannte Täterschaft Zugriff auf eine Datenbank des Kantons Basel-Landschaft mit Arbeitsbewilligungen für Grenzgängerinnen und Grenzgänger verschafft. Entwendet wurden laut Kanton rund 97'000 Datensätze mit Namen, Adressen, Geburtsdaten, Zivilstand, Berufsfunktion und der Nummer des Zentralen Migrationsinformationssystems (Zemis) sowie Kontaktdaten von Arbeitgebern. Betroffen sind Gesuche, die seit dem 28. November 2016 online eingereicht wurden.",
+              "gegenstimme": "Der Kanton betont, man habe den «massiven, breit angelegten» Angriff schnell stoppen können und sofort Schutzmassnahmen ergriffen. Offen bleibt aus Sicht von Betroffenen, weshalb in der Online-Datenbank auch abgeschlossene Gesuche bis zurück ins Jahr 2016 gespeichert waren; der Kanton begründet die hohe Zahl selbst mit diesen älteren Daten.",
+              "sources": [
+                {
+                  "name": "Kanton Basel-Landschaft (Medienmitteilung)",
+                  "url": "https://www.baselland.ch/politik-und-behorden/besondere-behoerden/landeskanzlei/medienmitteilungen/cyberangriff-auf-die-it-infrastruktur-der-kantonalen-verwaltung-fuehrte-zu-datenabfluss"
+                },
+                {
+                  "name": "Kanton Basel-Landschaft (FAQ)",
+                  "url": "https://www.baselland.ch/politik-und-behorden/direktionen/sicherheitsdirektion/amt_fuer_migration/bewilligungen/faq-data/"
+                },
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/97%27000-datens%C3%A4tze-aus-baselbieter-verwaltung-abgeflossen/92413680"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/audio/themen/cyberangriff-97-000-datensaetze-aus-baselbieter-verwaltung-abgeflossen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-interlaken-gaestekarte-oev-bleibt-kurtaxe-2028",
+              "slug": "interlaken-gaestekarte-oev-bleibt-kurtaxe-2028",
+              "title": "Interlaken: Gratis-ÖV für Übernachtungsgäste bleibt, ab 2028 steigt die Kurtaxe",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "regional",
+              "icon": "🚌",
+              "edition": "morning",
+              "kurz": "Kehrtwende im Berner Oberland: Die Gästekarte Interlaken bleibt 2027 ein ÖV-Ticket. Bezahlen sollen es die Gäste ab 2028 mit einem Franken mehr Kurtaxe.",
+              "summary": "Interlaken Tourismus hat am Freitag eine Übergangslösung bekanntgegeben: Übernachtungsgäste in Interlaken und den Nachbargemeinden dürfen auch 2027 mit der Gästekarte gratis den lokalen öffentlichen Verkehr nutzen. Möglich machen das laut Direktor Daniel Sulzer die lokale Politik, der Kanton Bern und der Tarifverbund Libero. Ab April 2028 soll die Kurtaxe voraussichtlich um einen Franken pro Logiernacht steigen.",
+              "gegenstimme": "Den Preis zahlen Gäste und Tourismus: Interlaken Tourismus streicht dafür das Weihnachtsbaum-Labyrinth «Winter Park Interlaken», und ab 2028 werden Übernachtungen teurer. Befürworter verweisen darauf, dass ohne das Angebot mehr Gäste mit Mietautos unterwegs wären und Billettkäufe im Bus Verspätungen verursachen würden.",
+              "sources": [
+                {
+                  "name": "Interlaken Tourismus (Medienmitteilung)",
+                  "url": "https://www.interlaken.swiss/info-service/ueber-interlaken-tourismus/medien/medienmitteilungen/meldung/oev-bleibt-teil-der-gaestekarte-interlaken"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/interlaken-gaestekarte-mit-gratis-oev-bleibt-dank-kurtaxe-500850482015"
+                },
+                {
+                  "name": "Radio BeO",
+                  "url": "https://www.radiobeo.ch/oev-bleibt-nun-doch-teil-der-gaestekarte-interlaken/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-genf-ccw-killerroboter-minimalkonsens-2028",
+              "slug": "genf-ccw-killerroboter-minimalkonsens-2028",
+              "title": "Killerroboter: Genfer UNO-Konferenz endet mit Minimalkonsens",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🤖",
+              "edition": "morning",
+              "kurz": "Unter Schweizer Vorsitz einigten sich 128 Staaten nur auf weitere Gespräche bis 2028. Ob es je verbindliche Regeln für autonome Waffen gibt, bleibt offen.",
+              "summary": "Die Überprüfungskonferenz der UNO-Waffenkonvention (CCW) in Genf ist in der Nacht auf Samstag nach 4 Uhr mit einem Minimalkonsens zu autonomen Waffensystemen zu Ende gegangen. Eine Regierungsexpertengruppe soll bis 2028 Elemente für Regeln ausarbeiten; ob daraus ein rechtsverbindlicher Vertrag wird, ist offen. Rund 100 der 128 Vertragsstaaten hatten Verhandlungen über ein verbindliches Verbot verlangt.",
+              "gegenstimme": "Die USA, Russland und Israel argumentieren, das bestehende humanitäre Völkerrecht reiche aus, um autonome Waffen zu regeln. Die Kampagne «Stop Killer Robots» spricht dagegen von einem enttäuschenden Ergebnis auf dem kleinsten gemeinsamen Nenner. Ein Diplomat sagte Reuters, immerhin bleibe ein verbindliches Protokoll möglich, und das Mandat sei kurz befristet.",
+              "sources": [
+                {
+                  "name": "Reuters (via Arab News)",
+                  "url": "https://www.arabnews.com/world/states-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028-3013276"
+                },
+                {
+                  "name": "Der Bund / dpa",
+                  "url": "https://www.derbund.ch/killerroboter-genf-bringt-nur-minimalkonsens-statt-verbot-879085140155"
+                },
+                {
+                  "name": "UNO Genf",
+                  "url": "https://www.ungeneva.org/en/meetings-events/events/observances-special-events/2026/11/seventh-review-conference-high"
+                },
+                {
+                  "name": "Defence Tech Sector (Reuters-Zusammenfassung)",
+                  "url": "https://defencetechsector.com/news/2026-11-17-ccw-review-conference-autonomous-weapons"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-nvidia-sec-ermittlung-aktie-trump-huang",
+              "slug": "nvidia-sec-ermittlung-aktie-trump-huang",
+              "title": "Nvidia: Börsenaufsicht ermittelt, Aktie fällt auf Tiefststand, Trump will Huang zurück",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "📉",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00e93a45-1795221818.jpg?resize=1920%2C1440",
+              "kurz": "Die SEC prüft laut Reuters Nvidias Rechnungswesen, die Aktie brach um zwölf Prozent ein. Trump fordert eine zweite Chance für den zurückgetretenen Jensen Huang.",
+              "summary": "Die US-Börsenaufsicht SEC ermittelt laut Reuters zum Rechnungswesen des Chipkonzerns Nvidia; die Aktie fiel am Freitag um rund zwölf Prozent auf etwa 128 Dollar, den tiefsten Stand seit Mai 2025. Seit dem Rekord von rund 243 Dollar Anfang Oktober hat sie sich fast halbiert. Präsident Donald Trump sagte gleichentags, er würde eine Rückkehr des am 12. November zurückgetretenen Gründers Jensen Huang begrüssen.",
+              "gegenstimme": "Trump nennt Huang «einen guten Mann», der «schlechte Entscheidungen» getroffen habe, und verlangt eine grosse Entschuldigung und seine Rückkehr. Der Verwaltungsrat hat das ausgeschlossen: Präsident Harvey Jones sagte, das Gremium habe Huangs Rücktritt einstimmig angenommen und plane keine Wiedereinsetzung. Die Demokraten untersuchen zudem, ob Handelsminister Howard Lutnick Warnungen vor Chip-Schmuggel nach China ignorierte; Trump hält an ihm fest.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang"
+                },
+                {
+                  "name": "20 Minuten (Nachfolge, nach Bloomberg)",
+                  "url": "https://www.20min.ch/story/huang-nachfolge-rene-haas-soll-neuer-nvidia-boss-werden-103670892"
+                },
+                {
+                  "name": "20 Minuten (SEC)",
+                  "url": "https://www.20min.ch/story/krise-bei-chiphersteller-boersenaufsicht-ermittelt-gegen-nvidia-aktie-stuerzt-weiter-ab-103671091"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-trump-verbot-ki-rechenzentren-ausland",
+              "slug": "trump-verbot-ki-rechenzentren-ausland",
+              "title": "Trump will US-Konzernen den Bau von KI-Rechenzentren im Ausland verbieten",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "🖥️",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+              "kurz": "Der US-Präsident droht Techfirmen, die im Ausland Rechenzentren bauen, mit einer «enormen Steuer». Selbst sein Kabinett hörte zum ersten Mal davon.",
+              "summary": "US-Präsident Donald Trump hat am Freitag im Weissen Haus angekündigt, amerikanischen Unternehmen den Bau von KI-Rechenzentren im Ausland zu verbieten. Wer dennoch im Ausland baue, müsse mit einer «enormen Steuer» rechnen; als Begründung nannte er, China würde solche Anlagen sonst übernehmen. Details nannte Trump keine, seine Mitarbeitenden hörten nach eigener Aussage erst in diesem Moment davon.",
+              "gegenstimme": "Trump argumentiert, die USA müssten bei KI vor China bleiben, und die Infrastruktur gehöre ins eigene Land. Wie ein solches Verbot durchgesetzt werden soll, ist laut BBC unklar; die Konzerne selbst haben sich noch nicht geäussert. Im Inland stossen grosse Rechenzentren auf Widerstand der Bevölkerung, ein Verbot im Ausland würde den Druck auf US-Standorte erhöhen.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+                },
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/wirtschaft/donald-trump-will-us-konzernen-verbieten-rechenzentren-im-ausland-zu-bauen-a-e4b558c4-d9b8-4e7c-95c5-5a1c3ed2388f"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-trump-putin-freund-selenskyj-killer-krywyj-rih",
+              "slug": "trump-putin-freund-selenskyj-killer-krywyj-rih",
+              "title": "Trump nennt Putin «Freund», Selenskyj: «Er ist ein Killer»; Tote in Krywyj Rih",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f48/live/f2f4d6c0-e55c-11f1-99a1-253766e7ad8b.jpg",
+              "kurz": "Trump verteidigt seine Nähe zu Putin und drängt laut Financial Times auf einen Frieden bis Januar. In Krywyj Rih starben bei einem Raketenangriff ein Kind und eine Sanitäterin.",
+              "summary": "US-Präsident Donald Trump hat am Freitag seine Bezeichnung Wladimir Putins als «Freund» bekräftigt, sagte aber, er könne nicht beurteilen, ob Putin ein Freund der USA sei. Der ukrainische Präsident Wolodymyr Selenskyj sagte CNN: «Für uns ist er ein Feind, ein Killer.» Am Freitagabend töteten russische ballistische Raketen in Krywyj Rih laut Militärgouverneur eine Sanitäterin und einen siebenjährigen Jungen, 21 Menschen wurden verletzt.",
+              "gegenstimme": "Trump sagt, seine guten Beziehungen zu Putin und Xi machten die USA sicherer, und beide Kriegsparteien wollten den Krieg beenden. Selenskyj hält dagegen, wer Putin einen Freund nenne, zeige, dass dieser «nicht genug Druck» spüre. Russische Militärblogger stellen den Angriff auf Krywyj Rih als Schlag gegen eine Pumpstation dar.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo"
+                },
+                {
+                  "name": "WELT (Bericht Financial Times)",
+                  "url": "https://www.welt.de/politik/ausland/article6b00811abe487c54377479bd/ukraine-krieg-trump-fordert-laut-financial-times-frieden-mit-russland-bis-anfang-januar-von-kiew.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-daenemark-russland-mordkomplott-rapper-diplomat",
+              "slug": "daenemark-russland-mordkomplott-rapper-diplomat",
+              "title": "Dänemark weist russischen Diplomaten aus: Moskau soll Mord an Rapper geplant haben",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🇩🇰",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
+              "kurz": "Der dänische Geheimdienst macht Russland für einen vereitelten Anschlag auf den ukrainisch-amerikanischen Rapper Kyivstoner verantwortlich. Zwei Dänen sind angeklagt.",
+              "summary": "Dänemark weist den russischen Verteidigungsattaché aus, nachdem der Inlandgeheimdienst PET am Freitag erklärt hat, russische Geheimdienste hätten einen Mordanschlag auf den ukrainisch-amerikanischen Rapper Kyivstoner geplant und eingeleitet. Zwei dänische Staatsbürger wurden wegen versuchten Mordes und Unterstützung eines fremden Nachrichtendienstes angeklagt, sie sitzen in Untersuchungshaft und bestreiten die Vorwürfe. Der russische Botschafter wurde einbestellt.",
+              "gegenstimme": "Die russische Botschaft nennt die Vorwürfe «unbegründet», Dänemark habe keine Beweise für eine Beteiligung Moskaus vorgelegt. Sie spricht von einem «dänischen Modell», bei dem eine «russische Spur» für ein Propagandaspektakel ausgeschlachtet werde, um die Bevölkerung zu verängstigen und eine lange Konfrontation zu rechtfertigen. Zu Estland sagt Moskau, Tallinn baue einen «neuen Eisernen Vorhang».",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html"
+                },
+                {
+                  "name": "Al Jazeera (Estland)",
+                  "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-uno-generalsekretaer-wahl-blockade-sicherheitsrat",
+              "slug": "uno-generalsekretaer-wahl-blockade-sicherheitsrat",
+              "title": "Guterres-Nachfolge: Auch neunte Probeabstimmung im UNO-Sicherheitsrat ohne Einigung",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "politik",
+              "icon": "🇺🇳",
+              "edition": "morning",
+              "image": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c1b6fe3cec08e941e8066b96ef89b92",
+              "kurz": "Sechs Wochen vor Ende der Amtszeit von António Guterres hat keiner der acht Kandidaten die nötige Unterstützung. Die Vetomächte blockieren sich gegenseitig.",
+              "summary": "Der UNO-Sicherheitsrat hat sich am Freitag auch in der neunten geheimen Probeabstimmung nicht auf eine Nachfolge von Generalsekretär António Guterres geeinigt, wie US-Botschafter Mike Waltz in New York sagte. Keiner der acht Kandidierenden erreicht die nötigen neun von 15 Stimmen ohne Veto einer ständigen Macht. Guterres' Amtszeit endet in sechs Wochen.",
+              "gegenstimme": "Die USA zeigen sich trotz Blockade optimistisch. Kritiker sehen im 140 Tage dauernden Patt einen Beleg für die Übermacht der fünf Vetomächte. Unterstützer Nusseibehs verweisen auf ihre diplomatischen Fähigkeiten und die Rückendeckung grosser Mächte.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger / dpa",
+                  "url": "https://www.tagesanzeiger.ch/un-sicherheitsrat-keine-einigung-bei-guterres-nachfolge-954069696831"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-bayer-glyphosat-vergleich-gericht-genehmigt",
+              "slug": "bayer-glyphosat-vergleich-gericht-genehmigt",
+              "title": "Glyphosat: US-Gericht genehmigt Bayer-Vergleich über 7,25 Milliarden Dollar",
+              "date": "2026-11-21",
+              "time": "06:15",
+              "category": "wirtschaft",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/8abc89ba-9a3f-4036-b1d7-d035db21bc32/AAABnHAaiEY/AAABnSSvrFg/16x9-big/bayer-204.jpg?width=1280",
+              "kurz": "Ein Richter in Missouri hat Bayers Sammelvergleich zu Krebsklagen wegen Roundup endgültig gebilligt. Kläger erhalten im Schnitt 10'000 bis 165'000 Dollar.",
+              "summary": "Ein Gericht im US-Bundesstaat Missouri hat am Freitag den Sammelvergleich des Bayer-Konzerns über bis zu 7,25 Milliarden Dollar im Streit um Krebsrisiken des Unkrautvernichters Roundup mit dem Wirkstoff Glyphosat endgültig gebilligt. Richter Timothy Boyer nannte ihn «fair, vernünftig und angemessen». Bayer zahlt über bis zu 21 Jahre in einen Fonds für Zehntausende Betroffene mit Non-Hodgkin-Lymphom.",
+              "gegenstimme": "Bayer-Chef Bill Anderson spricht von einem «entscheidenden Meilenstein», um die Risiken laufender und künftiger Klagen einzudämmen. Einige Anwälte von Krebspatienten kritisieren die Entschädigungen als zu tief. Der Richter wies das zurück: Weitere Verzögerungen könnten schwer kranke Kläger auf unbestimmte Zeit warten lassen.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html"
+                },
+                {
+                  "name": "DW",
+                  "url": "https://www.dw.com/en/us-judge-approves-bayers-725-billion-cancer-settlement/a-80007474"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-20",
       "editions": {
