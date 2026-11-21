@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T12:15:00+01:00",
+  "updated": "2026-11-21T17:15:00+01:00",
   "days": [
     {
       "date": "2026-11-21",
@@ -649,6 +649,307 @@
                 {
                   "name": "Die Zeit",
                   "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/pew-studie-weltreligion-islam-christentum-demografie"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:15",
+          "articles": [
+            {
+              "id": "2026-11-21-bern-medienschaffende-demo-bundesplatz",
+              "slug": "bern-medienschaffende-demo-bundesplatz",
+              "title": "Bern: Über tausend Menschen demonstrieren auf dem Bundesplatz gegen Medienabbau",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "📰",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/eb69f1.jpg",
+              "kurz": "Unter dem Motto «Weniger Journalismus – weniger Demokratie» haben in Bern über tausend Personen gegen Entlassungen in Schweizer Redaktionen protestiert.",
+              "summary": "Am Samstagnachmittag haben sich auf dem Berner Bundesplatz laut Keystone-SDA über tausend Personen, darunter viele Medienschaffende, zu einer bewilligten Kundgebung gegen den Stellenabbau in der Medienbranche versammelt. Organisiert hat sie die im Herbst gegründete «Media Alliance» aus Journalistinnen, Personalvertretungen, Gewerkschaften und Berufsverbänden. In den vergangenen Monaten haben mehrere Schweizer Medienhäuser Dutzende Stellen gestrichen.",
+              "gegenstimme": "Kritiker staatlicher Medienförderung halten entgegen, dass Subventionen die Unabhängigkeit der Redaktionen gegenüber dem Staat schwächen können; das Stimmvolk hat das Medienpaket mit zusätzlicher Förderung im Februar 2022 mit rund 55 Prozent Nein abgelehnt. Die Verlage begründen den Abbau in der Regel mit sinkenden Werbe- und Abo-Erträgen, an denen Kundgebungen nichts ändern; zudem treten hier Betroffene in eigener Sache auf.",
+              "sources": [
+                {
+                  "name": "SWI swissinfo.ch (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/%C3%9Cber-tausend-personen-demonstrieren-in-bern-gegen-abbau-der-medien/92417554"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/demonstration-in-bern-medienschaffende-protestieren-fuer-journalismus-und-demokratie"
+                },
+                {
+                  "name": "Media Alliance (Veranstalterin)",
+                  "url": "https://demo.mediaalliance.ch/de/botschaft"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-belp-autogarage-einbruch-fluchtfahrten-drei-kantone",
+              "slug": "belp-autogarage-einbruch-fluchtfahrten-drei-kantone",
+              "title": "Belp: Einbrecher flüchten mit drei gestohlenen Autos bis nach Frankreich",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🚓",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/21/f4ad5a6f-3d8f-4267-9fba-b7ddb516780f.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C5568%2C3712&s=d18bea88eef00c2ea16ceece8169aa93",
+              "kurz": "Nach einem Einbruch in eine Garage in Belp kam es zu Fluchtfahrten durch mehrere Kantone und bis Pontarlier. Ein Täter wurde schwer verletzt, einer festgenommen.",
+              "summary": "In der Nacht auf Donnerstag, 19. November, brach eine Täterschaft in eine Autogarage am Oberriedweg in Belp ein und flüchtete mit drei gestohlenen Fahrzeugen in verschiedene Richtungen. Laut Kantonspolizei Bern durchbrach ein Lieferwagen in Kriegstetten SO eine Polizeisperre und rammte ein Einsatzfahrzeug; ein Transporter tauchte im französischen Pontarlier auf. Ein Mann wurde auf der Flucht schwer verletzt, eine weitere Person in La Chaux-de-Fonds festgenommen.",
+              "gegenstimme": "Der Fall zeigt, wie mobil Einbrecher über Kantons- und Landesgrenzen agieren, was für mehr Grenz- und Fahndungskontrollen spricht. Umgekehrt bergen Anhalteversuche unter Waffenhoheit und Strassensperren auf Autobahnen Risiken für Polizisten und Unbeteiligte; ihre Verhältnismässigkeit wird deshalb jeweils kritisch geprüft.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern (Medienmitteilung)",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=b6a94583-55fc-4aa3-a959-4f1f5db6efc4"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/belp-be-diebe-fluechten-mit-drei-autos-polizei-jagt-sie-durch-die-schweiz-103671306"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-zuerich-jugendstreik-vermummte-zivilpolizisten-kritik",
+              "slug": "zuerich-jugendstreik-vermummte-zivilpolizisten-kritik",
+              "title": "Zürich: Vermummte Zivilpolizisten am Jugendstreik sorgen für Kritik",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "👮",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/21/73cfdab4-75ae-4a92-886e-6113306a69ed.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=599%2C907%2C2754%2C1549&s=b00069be84f097440e03ca9b9ba66909",
+              "kurz": "Die Stadtpolizei Zürich bestätigt, dass vermummte Zivilbeamte im Demozug mitliefen. Linke Aktivisten sprechen von Provokation, die Polizei von «qualifizierten Festnahmen».",
+              "summary": "Am Zürcher Jugendstreik vom Freitagabend liefen schwarz gekleidete, vermummte Zivilpolizisten mit Schutzbrillen im Demonstrationszug mit, mindestens einer trug einen Schlagstock. Die Stadtpolizei bestätigt den Einsatz und weist den Vorwurf der Anstiftung zurück. Insgesamt wurden 33 Personen festgenommen und rund 60 weggewiesen.",
+              "gegenstimme": "Die Stadtpolizei verweist auf Gewaltaufrufe im Vorfeld, die Halloween-Krawalle und den Versuch beim Bahnhof Selnau, eine Polizeisperre zu durchbrechen; Zivilkräfte seien gängig und dienten dazu, potenziell gewalttätige Personen gezielt herauszugreifen. Die Kritik stammt zu einem grossen Teil aus dem linksextremen Umfeld, das zugleich offen zu weiterer Konfrontation aufruft.",
+              "sources": [
+                {
+                  "name": "Stadt Zürich (Medienmitteilung)",
+                  "url": "https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/11/polizeieinsatz-anlaesslich-bewilligter-demonstration.html"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/zuercher-jugendstreik-vermummt-und-mit-schlagstock-polizisten-undercover-an-protest-103671135"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/kritik-polizisten-vermummt-und-in-zivil-an-demonstration-in-zurich-67205115"
+                },
+                {
+                  "name": "watson",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/854893527-kritik-an-vermummter-polizei-bei-protesten-das-sagt-die-stapo-zuerich"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-finnischer-meerbusen-drohnen-russischer-frachter-sparta-ii",
+              "slug": "finnischer-meerbusen-drohnen-russischer-frachter-sparta-ii",
+              "title": "Drohnen treffen russischen Militärfrachter im Finnischen Meerbusen",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🚢",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/4ffc6b7b-b5a0-479c-aad8-927bf984e3dc/AAABof4zEqY/AAABnSSvrFg/16x9-big/sparta-2-100.jpg?width=1280",
+              "kurz": "Die «Sparta II» des russischen Verteidigungsministeriums brennt nach einem Drohnenangriff und trieb in finnische Gewässer. Ein russischer Helikopter verletzte den finnischen Luftraum.",
+              "summary": "Am Samstagmorgen haben zwei Drohnen den russischen Frachter «Sparta II» westlich der Insel Gogland in internationalen Gewässern getroffen, wie Finnlands Verteidigungsministerium und der russische Gouverneur des Gebiets Leningrad bestätigen. Das brennende Schiff war von St. Petersburg nach Kaliningrad unterwegs und trieb in finnische Hoheitsgewässer, die Besatzung wird evakuiert. Am Nachmittag meldete Finnland eine Luftraumverletzung durch einen russischen Militärhelikopter.",
+              "gegenstimme": "Aus ukrainischer Sicht ist ein Schiff, das dem russischen Verteidigungsministerium untersteht, auf der US-Sanktionsliste steht und früher Waffen transportiert haben soll, ein legitimes militärisches Ziel. Für Finnland und Estland rückt der Krieg damit aber direkt an die eigenen Grenzen; jede Rettungsaktion und jeder Grenzzwischenfall in der engen Ostsee birgt Eskalationsrisiken mit einem NATO-Staat.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/russischer-frachter-im-finnischen-meerbusen-von-drohnen-attackiert-ld.10070933"
+                },
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6b01906c45d8681e4fca3d5d/ostsee-drohnenangriff-auf-russischen-frachter-schiff-treibt-in-finnisches-gewaesser.html"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-iran-araghchi-atomdoktrin-debatte-uran-bleibt-im-land",
+              "slug": "iran-araghchi-atomdoktrin-debatte-uran-bleibt-im-land",
+              "title": "Iran: Aussenminister Araghchi nennt Wechsel der Atomdoktrin eine «ernsthafte Debatte»",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "international",
+              "icon": "☢️",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26271642253523-1795266505.jpg?resize=1920%2C1440",
+              "kurz": "Irans hoch angereichertes Uran soll im Land bleiben und «nach unseren Bedürfnissen, wie auch immer sie definiert werden» genutzt werden, sagt Araghchi.",
+              "summary": "Irans Aussenminister Abbas Araghchi sagte in einem am Samstag veröffentlichten Interview mit der Staatsagentur IRNA, die rund 400 Kilogramm auf 60 Prozent angereichertes Uran würden das Land nicht verlassen und «nach unseren Bedürfnissen, wie auch immer sie definiert werden» verwendet. Über eine Änderung der Nukleardoktrin laufe eine «grosse strategische Debatte» mit starken Argumenten auf beiden Seiten. Offiziell habe sich die Doktrin aber «vorerst nicht geändert».",
+              "gegenstimme": "Teheran betont, das Programm sei friedlich, die Doktrin unverändert, und Russland und China lehnten einen Kurswechsel ab. Die Befürworter einer Änderung argumentieren, NPT-Mitgliedschaft und IAEA-Aufsicht hätten die Angriffe auf Irans Atomanlagen nicht verhindert. Aus Sicht der USA und Israels bestätigt die Aussage dagegen, dass Iran die Option auf eine Atombombe offenhalten will.",
+              "sources": [
+                {
+                  "name": "Iran Daily (IRNA-Interview)",
+                  "url": "https://newspaper.irandaily.ir/8270/3/28252"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-mexiko-chapo-isidro-fbi-meistgesuchter-festgenommen",
+              "slug": "mexiko-chapo-isidro-fbi-meistgesuchter-festgenommen",
+              "title": "Mexiko fasst FBI-Top-Ten-Flüchtigen «Chapo Isidro» nach Feuergefecht",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🇲🇽",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+              "kurz": "Mexikanische Spezialkräfte haben in Sinaloa den Kartellchef Fausto Isidro Meza Flores festgenommen. Die USA hatten 5 Millionen Dollar auf ihn ausgesetzt und wollen seine Auslieferung.",
+              "summary": "Mexikanische Elitesoldaten haben am Freitag in Guasave im Bundesstaat Sinaloa den 44-jährigen Fausto Isidro Meza Flores, genannt «Chapo Isidro», festgenommen, wie das Verteidigungsministerium mitteilte. Er stand auf der Liste der zehn meistgesuchten Flüchtigen des FBI; die USA hatten 5 Millionen Dollar Belohnung ausgesetzt. Mit ihm wurden sein Stellvertreter und ein Finanzverantwortlicher gefasst.",
+              "gegenstimme": "Die Festnahme zeigt Wirkung des US-Drucks auf Mexiko. Erfahrungen etwa nach der Festnahme von Ismael «El Mayo» Zambada 2024 zeigen aber, dass Schläge gegen Kartellspitzen oft blutige Nachfolgekämpfe auslösen, unter denen vor allem die Zivilbevölkerung leidet; an den Strukturen des Drogenhandels ändert eine einzelne Festnahme wenig.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/fbi-ten-most-wanted-cartel-leader-chapo-isidro-captured-mexicos-elite-military-forces-us-help"
+                },
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-hoecke-wiedergewaehlt-thueringen-alleinregierung",
+              "slug": "hoecke-wiedergewaehlt-thueringen-alleinregierung",
+              "title": "Höcke als Thüringer AfD-Chef wiedergewählt, Ziel Alleinregierung",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "evening",
+              "image": "https://images.welt.de/6b01b27745d8681e4fca3f2c/03e3927423c6531bf3c58cadfe5b5a30-master/ci16x9-w1200/dpa-com-261121-936-151820-jpg",
+              "kurz": "Björn Höcke bleibt mit rund 89 Prozent Chef der Thüringer AfD. Er will 2029 Ministerpräsident werden und setzt auf eine Alleinregierung.",
+              "summary": "Am Landesparteitag in Pfiffelbach ist Björn Höcke mit 314 Ja-, 39 Nein-Stimmen und fünf Enthaltungen als Chef der Thüringer AfD bestätigt worden, nach AfD-Rechnung 88,95 Prozent. Auch Co-Chef Stefan Möller, zugleich stellvertretender Bundesvorsitzender, wurde wiedergewählt. Höcke rief den rund 360 Mitgliedern zu: «Wir werden dieses Land regieren.»",
+              "gegenstimme": "Für ihre Anhänger ist die AfD in Thüringen schlicht die stärkste Kraft, der die anderen Parteien mit der Brandmauer eine Regierungsbeteiligung verweigern. Für Verfassungsschutz und Kritiker ist der Landesverband gesichert rechtsextrem; Höcke greift den Verfassungsschutz offen an, was sie als Beleg für eine Gefahr für die Institutionen werten.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef-a-e44dee38-ea82-4269-8b15-eb3406dfe402"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6b01b27745d8681e4fca3f2c/landesparteitag-hoecke-bleibt-afd-chef-in-thueringen-und-schwoert-partei-auf-alleinregierung-ein.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-eu-haushalt-costa-kompromiss-digitalsteuer",
+              "slug": "eu-haushalt-costa-kompromiss-digitalsteuer",
+              "title": "EU-Haushalt: Costa schlägt Kürzungen und eine Digitalsteuer vor, Merz winkt ab",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇪🇺",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/1cd1e7b7-11e0-4c39-8a02-8ff893748343/AAABof6A5Jo/AAABnSSvrFg/16x9-big/eu-eingang-100.jpg?width=1280",
+              "kurz": "Ratspräsident Costa will den EU-Finanzrahmen 2028–2034 um rund 200 Milliarden Euro kürzen und Tech-Konzerne mit 3 Prozent besteuern. Kanzler Merz ist das Volumen zu hoch.",
+              "summary": "EU-Ratspräsident António Costa hat am Samstag einen Kompromiss für den langfristigen EU-Haushalt 2028 bis 2034 vorgelegt, der rund 204 Milliarden Euro weniger vorsieht als die EU-Kommission. Neu soll eine Digitalsteuer von 3 Prozent auf Umsätze aus Online-Werbung, Plattformdiensten und Nutzerdaten grosser Konzerne gelten. Bundeskanzler Friedrich Merz nennt den Vorschlag einen «ersten Schritt», das Volumen sei aber weiter zu hoch.",
+              "gegenstimme": "Frankreich und Befürworter neuer EU-Eigenmittel sehen in der Digitalsteuer einen Weg, europäische Investitionen ohne höhere nationale Beiträge zu finanzieren. Nettozahler wie Deutschland, die Niederlande und Österreich halten ein um über 40 Prozent wachsendes Budget dagegen für unvereinbar mit nationalen Sparzwängen, und US-Präsident Trump bekämpft Digitalsteuern gegen US-Techkonzerne grundsätzlich.",
+              "sources": [
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/digitales/digitalsteuer-streit-eu-deutschland-100.html"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/merz-gegen-kompromissvorschlag-von-ratspraesident-costa-100.html"
+                },
+                {
+                  "name": "Investing.com",
+                  "url": "https://de.investing.com/news/economy-news/euhaushalt-costa-schlagt-kurzungen-um-40-milliarden-euro-und-neue-digitalsteuer-vor-3780888"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-italien-de-gennaro-tot-borsellino-ermittlungen",
+              "slug": "italien-de-gennaro-tot-borsellino-ermittlungen",
+              "title": "Italien: Ex-Polizeichef De Gennaro tot, Fragen um Borsellino-Ermittlungen",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/59680543-e758-4c86-b9bd-47eec3847061/AAABof4dVkI/AAABnSSvrFg/16x9-big/gennaro-100.jpg?width=1280",
+              "kurz": "Gianni De Gennaro, Italiens Polizeichef 2000–2007, hat sich das Leben genommen. Gegen ihn lief ein Verfahren wegen mutmasslicher Vertuschung im Fall des Mafia-Jägers Borsellino.",
+              "summary": "Der frühere italienische Polizeichef Gianni De Gennaro ist tot; laut übereinstimmenden Medienberichten hat er sich in seinem Landhaus in der Toskana mit einer Schusswaffe das Leben genommen. Die Staatsanwaltschaft Caltanissetta ermittelte gegen ihn wegen Irreführung der Ermittlungen zum Mafia-Anschlag auf Richter Paolo Borsellino 1992. Regierungschefin Giorgia Meloni zeigte sich «zutiefst schockiert».",
+              "gegenstimme": "Politiker aus mehreren Lagern werfen der Staatsanwaltschaft Caltanissetta vor, mit Hausdurchsuchungen und dem Antrag auf Hausarrest Mitverantwortung für den Tod zu tragen. Umgekehrt gilt das Borsellino-Verfahren als einer der grössten Justizskandale Italiens mit unschuldig zu lebenslanger Haft Verurteilten; die Aufklärung möglicher Vertuschung durch Staatsorgane liegt im öffentlichen Interesse.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/tod-von-ex-mafia-jaeger-gianni-de-gennaro-schockiert-italien-ld.10070946"
+                },
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-icaid-rennes-ki-verteidigungszentrum-fuenf-eu-staaten",
+              "slug": "icaid-rennes-ki-verteidigungszentrum-fuenf-eu-staaten",
+              "title": "Fünf EU-Staaten gründen in Rennes ein Zentrum für militärische KI",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/8/3/4/shutterstock_1926849941-44e6051ee12584eb.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Deutschland, Frankreich, Italien, Polen und Schweden wollen ab Sommer 2027 im «International Centre for Artificial Intelligence in Defence» KI für Militäroperationen voranbringen.",
+              "summary": "An einer Gründungskonferenz in Rennes am 19. und 20. November haben Deutschland, Frankreich, Italien, Polen und Schweden ihre Absicht erklärt, dem International Centre for Artificial Intelligence in Defence (ICAID) beizutreten. Das Zentrum soll den Einsatz von KI zur Unterstützung militärischer Operationen beschleunigen und im Sommer 2027 mit zunächst mindestens 34 Stellen starten. Vertreter von 22 Ländern nahmen teil.",
+              "gegenstimme": "Befürworter sehen in gemeinsamen Standards für vertrauenswürdige militärische KI einen Weg, mit den USA und China Schritt zu halten. Kritiker fragen, wer Verantwortung trägt, wenn Algorithmen Ziele vorschlagen; erst am Freitag endete die Genfer UNO-Konferenz zu autonomen Waffen nur mit einem Minimalkonsens.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html"
+                },
+                {
+                  "name": "Französisches Verteidigungsministerium",
+                  "url": "https://www.defense.gouv.fr/actualites/intelligence-artificielle-france-annonce-lancement-dun-centre-international-defense-rennes"
+                },
+                {
+                  "name": "Polnisches Verteidigungsministerium",
+                  "url": "https://www.gov.pl/web/obrona-narodowa/polska-wlacza-sie-w-proces-tworzenia-miedzynarodowego-centrum-sztucznej-inteligencji-na-rzecz-obronnosci"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-gta-vi-379-milliarden-dollar-erster-tag-rekord",
+              "slug": "gta-vi-379-milliarden-dollar-erster-tag-rekord",
+              "title": "«GTA VI» spielt am ersten Tag 3,79 Milliarden Dollar ein",
+              "date": "2026-11-21",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "🎮",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/2dc21d0a-7742-47b7-b951-a2b950e8014f/AAABof1N474/AAABnSSvrFg/16x9-big/gta-174.jpg?width=1280",
+              "kurz": "Take-Two meldet für «Grand Theft Auto VI» 3,79 Milliarden Dollar Umsatz am ersten Verkaufstag, den grössten Start eines Unterhaltungsprodukts überhaupt.",
+              "summary": "Das am 19. November erschienene Videospiel «Grand Theft Auto VI» hat laut Publisher Take-Two und Entwickler Rockstar Games am ersten Verkaufstag 3,79 Milliarden Dollar umgesetzt. Das Spiel wurde 32,5 Millionen Mal vorbestellt. Der Vorgänger «GTA V» kam 2013 am ersten Tag auf rund 800 Millionen Dollar.",
+              "gegenstimme": "Die Zahlen stammen vom Hersteller selbst; der Marktforscher Sensor Tower hatte für den ersten Tag «mindestens» 2,36 Milliarden Dollar ermittelt. Kritiker verweisen zudem auf hohe Preise: Die Standardversion kostet rund 80 Euro, eine PC-Version fehlt, und Konsolenpreise stiegen im Vorfeld stark.",
+              "sources": [
+                {
+                  "name": "heise online",
+                  "url": "https://www.heise.de/news/Start-von-GTA-6-schlaegt-saemtliche-Entertainment-Rekorde-11533544.html"
+                },
+                {
+                  "name": "tagesschau",
+                  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html"
                 }
               ]
             }
