@@ -7,7 +7,7 @@ category: regional
 icon: 🚓
 edition: evening
 image: "https://image.20min.ch/2026/11/21/f4ad5a6f-3d8f-4267-9fba-b7ddb516780f.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C5568%2C3712&s=d18bea88eef00c2ea16ceece8169aa93"
-kurz: "Nach einem Einbruch in eine Garage in Belp kam es zu Fluchtfahrten durch mehrere Kantone und bis Pontarlier. Ein Täter wurde schwer verletzt, einer festgenommen."
+kurz: "Nach einem Einbruch in eine Garage in Belp kam es zu Fluchtfahrten durch mehrere Kantone und bis Pontarlier. Ein mutmasslicher Täter wurde schwer verletzt, eine Person festgenommen."
 summary: "In der Nacht auf Donnerstag, 19. November, brach eine Täterschaft in eine Autogarage am Oberriedweg in Belp ein und flüchtete mit drei gestohlenen Fahrzeugen in verschiedene Richtungen. Laut Kantonspolizei Bern durchbrach ein Lieferwagen in Kriegstetten SO eine Polizeisperre und rammte ein Einsatzfahrzeug; ein Transporter tauchte im französischen Pontarlier auf. Ein Mann wurde auf der Flucht schwer verletzt, eine weitere Person in La Chaux-de-Fonds festgenommen."
 gegenstimme: "Der Fall zeigt, wie mobil Einbrecher über Kantons- und Landesgrenzen agieren, was für mehr Grenz- und Fahndungskontrollen spricht. Umgekehrt bergen Anhalteversuche unter Waffenhoheit und Strassensperren auf Autobahnen Risiken für Polizisten und Unbeteiligte; ihre Verhältnismässigkeit wird deshalb jeweils kritisch geprüft."
 sources_json: '[{"name": "Kantonspolizei Bern (Medienmitteilung)", "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=b6a94583-55fc-4aa3-a959-4f1f5db6efc4"}, {"name": "20 Minuten", "url": "https://www.20min.ch/story/belp-be-diebe-fluechten-mit-drei-autos-polizei-jagt-sie-durch-die-schweiz-103671306"}]'
