@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T06:15:00+01:00",
+  "updated": "2026-11-21T12:15:00+01:00",
   "days": [
     {
       "date": "2026-11-21",
@@ -350,6 +350,305 @@
                 {
                   "name": "DW",
                   "url": "https://www.dw.com/en/us-judge-approves-bayers-725-billion-cancer-settlement/a-80007474"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-21-svp-ticket-gruene-verweigern-hearings-kritik",
+              "slug": "svp-ticket-gruene-verweigern-hearings-kritik",
+              "title": "SVP-Ticket: Grüne verweigern Hearings, SP und Mitte lassen Wahl offen",
+              "date": "2026-11-21",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "midday",
+              "image": "https://c.nau.ch/i/gyPaGP/1360/680/a.jpg",
+              "kurz": "Die Grünen hören Aeschi und Graber nicht an und fühlen sich nicht ans SVP-Ticket gebunden. Auch SP und Mitte äussern Vorbehalte, FDP und Mitte-Spitze wollen sich ans Ticket halten.",
+              "summary": "Die Grüne Bundeshausfraktion verzichtet auf Hearings mit den SVP-Bundesratskandidaten Thomas Aeschi und Michael Graber, nennt beide «unwählbar» und fühlt sich nicht an das Ticket gebunden. SP-Co-Präsident Cédric Wermuth spricht von «keiner echten Auswahl» und lässt offen, ob die SP sich ans Ticket hält. Die Bundesratswahl für die Nachfolge von Guy Parmelin findet am 9. Dezember statt.",
+              "gegenstimme": "Die SVP-Spitze spricht von einer «echten und guten Auswahl» und hat bei der Nomination bewusst Werte und Führungsstärke vor Herkunft, Sprache und Geschlecht gestellt. Nach der Konkordanz hat die SVP Anspruch auf den Sitz; wer ein offizielles Ticket ignoriert, riskiert eine Wiederholung früherer Konflikte um «wilde» Wahlen. Mitte und FDP haben angekündigt, sich grundsätzlich an die Vorauswahl der SVP zu halten.",
+              "sources": [
+                {
+                  "name": "Grüne Schweiz (Medienmitteilung)",
+                  "url": "https://gruene.ch/medienmitteilungen/gruene-fraktion-verzichtet-auf-hearings-mit-den-beiden-unwaehlbaren-svp-kandidaten"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/kritik-an-svp-bundesratsticket-wahl-von-aeschi-und-graber-sorgt-parteiuebergreifend-fuer-unmut"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/bundeshaus/grune-verweigern-aeschi-und-graber-die-anhorung-67205072"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/bundesrats-ticket-mitte-nause-kann-niemanden-waehlen-der-auf-polizisten-losging-103670800"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-unterschriften-bschiss-bundesrat-massnahmen-wirken-stiftung-kritik",
+              "slug": "unterschriften-bschiss-bundesrat-massnahmen-wirken-stiftung-kritik",
+              "title": "Unterschriften-Bschiss: Bundesrat sieht Erfolg, Stiftung kritisiert Streichungen",
+              "date": "2026-11-21",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "✍️",
+              "edition": "midday",
+              "kurz": "Laut Bundesrat sind gefälschte Unterschriften stark zurückgegangen. Die Stiftung für direkte Demokratie warnt, dass strengere Kontrollen rund 10'000 gültige Unterschriften kosten.",
+              "summary": "Der Bundesrat hat am 18. November einen Bericht zur Sicherheit bei Unterschriftensammlungen verabschiedet und sieht keinen gesetzlichen Handlungsbedarf: Zwischen September 2025 und September 2026 seien der Bundeskanzlei nur noch rund 60 verdächtige Unterschriften gemeldet worden. Die Stiftung für direkte Demokratie hält dagegen, die verschärfte Praxis habe innert eines Jahres rund 10'000 Unterschriften gestrichen, die früher akzeptiert worden wären.",
+              "gegenstimme": "Die Bundeskanzlei betont, sie setze nur geltendes Recht einheitlich um: Wer unterschreibt, muss Vor- und Nachnamen eigenhändig eintragen. Kritiker eines bezahlten Sammelwesens wiederum halten die bisherigen Massnahmen für zu schwach, weil das Parlament ein Verbot kommerzieller Sammlungen und eine Bewilligungspflicht für Sammelfirmen abgelehnt hat.",
+              "sources": [
+                {
+                  "name": "Bundeskanzlei (Medienmitteilung)",
+                  "url": "https://www.bk.admin.ch/de/newnsb/3SQ3K4BkzfiU"
+                },
+                {
+                  "name": "Schweiz heute / CH Media",
+                  "url": "https://www.schweizheute.ch/schweiz/unterschriften-bschiss-stiftung-warnt-vor-folgen-der-kontrollen-ld.4270137"
+                },
+                {
+                  "name": "Clarus News (Einordnung)",
+                  "url": "https://clarus.news/de/post/unterschriftenfaelschungen-gehen-zurueck-bundesrat-sieht-keinen-handlungsbedarf-20261118"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-cop31-verlaengert-streit-fossile-energien",
+              "slug": "cop31-verlaengert-streit-fossile-energien",
+              "title": "COP31 in Antalya geht in die Verlängerung, Streit um fossile Energien",
+              "date": "2026-11-21",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/79a454b9602c03ba6a7e91ab6a47275f48be60cd-92415895.jpg?ver=6dda7f6d&fit=1200,900",
+              "kurz": "Die Weltklimakonferenz ist ohne Einigung ins Wochenende verlängert worden. Hauptstreitpunkt bleibt, ob der Ausstieg aus Öl, Gas und Kohle in der Schlusserklärung steht.",
+              "summary": "Die UNO-Klimakonferenz COP31 im türkischen Antalya ist am Samstag ohne Einigung in die Verlängerung gegangen; ein neuer Beschlusstext wurde erwartet, ein Termin fürs Schlussplenum stand am Mittag noch nicht fest. Ein zweiter Entwurf hatte alle Hinweise auf fossile Brennstoffe gestrichen, worauf Frankreich, Panama und weitere Staaten in einem Brief einen «klaren Übergang weg von fossilen Brennstoffen» forderten.",
+              "gegenstimme": "Ölförderstaaten blockieren laut Berichten eine ausdrückliche Nennung des Ausstiegs; sie und viele Schwellenländer verweisen auf ihr Recht auf Entwicklung und auf die Hauptverantwortung der Industrieländer. Von der anderen Seite wird auch die Schweiz kritisiert: Bundesrat Albert Rösti bezeichnet das Klima- und Innovationsgesetz (Netto Null 2050) als Ausstiegsplan, während Länder wie Frankreich oder Norwegen jahrgenaue Ausstiegspfade vorgelegt haben.",
+              "sources": [
+                {
+                  "name": "Swissinfo / Keystone-SDA",
+                  "url": "https://www.swissinfo.ch/ger/klimagipfel-verl%C3%A4ngert-nur-trippelschritte-in-sicht/92415908"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://de.euronews.com/2026/11/21/cop31-in-antalya-streit-um-fossilenergie-verlangert-klimaverhandlungen"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/cop31-albert-roestis-versprechen-an-der-klimakonferenz"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-hormus-zwei-tanker-getroffen-khasab",
+              "slug": "hormus-zwei-tanker-getroffen-khasab",
+              "title": "Strasse von Hormus: Zwei Tanker von unbekannten Geschossen getroffen",
+              "date": "2026-11-21",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "midday",
+              "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/21/thumbs_b_c_975758e14a2b1a23b05c073e8b51f0c0.jpg",
+              "kurz": "Vor Khasab (Oman) sind am Samstagmorgen zwei auslaufende Tanker getroffen worden. Verletzte gab es laut britischer Seefahrtsbehörde keine; Irans Revolutionsgarde meldet den Abschuss einer US-Drohne.",
+              "summary": "In der Strasse von Hormus sind am Samstag innerhalb einer Stunde zwei auslaufende Tanker von «unbekannten Geschossen» getroffen worden: um 6 Uhr Schweizer Zeit 11 Seemeilen nördlich von Khasab (Oman) am Heck, um 6.50 Uhr 17 Seemeilen östlich davon im Maschinenraum. Laut der britischen Seefahrtsbehörde UKMTO gab es keine Verletzten, Umweltschäden sind unbestätigt.",
+              "gegenstimme": "Wer geschossen hat, ist offen; Iran bestreitet in der Regel Angriffe auf die Handelsschifffahrt, während westliche und arabische Staaten auf die Revolutionsgarde verweisen. Al Jazeera ordnet die Vorfälle in den laufenden Krieg der USA und Israels gegen Iran ein; aus iranischer Sicht ist die US-Militärpräsenz im Golf selbst die Eskalation.",
+              "sources": [
+                {
+                  "name": "UKMTO (Warnung 215-26)",
+                  "url": "https://www.ukmto.org/-/media/ukmto/products/20261121-ukmto_warning_215-26.pdf"
+                },
+                {
+                  "name": "Anadolu Agency",
+                  "url": "https://www.aa.com.tr/en/middle-east/2-oil-tankers-struck-by-unknown-projectiles-off-oman-uk-maritime-agency/4132768"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
+                },
+                {
+                  "name": "Al Arabiya",
+                  "url": "https://english.alarabiya.net/News/middle-east/2026/11/21/tanker-hit-by-unknown-projectile-near-oman-s-khasab-ukmto"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-huthi-raketen-riad-abgefangen-hodeidah",
+              "slug": "huthi-raketen-riad-abgefangen-hodeidah",
+              "title": "Huthi feuern erneut Raketen auf Riad, Koalition greift Hodeidah an",
+              "date": "2026-11-21",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "midday",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b010dd74d22-1795231191.jpg?resize=1200%2C675",
+              "kurz": "Die saudisch geführte Koalition hat drei ballistische Huthi-Raketen auf Riad abgefangen. Es ist die dritte Nacht in Folge mit Luftalarm in der saudischen Hauptstadt.",
+              "summary": "Die saudisch geführte Koalition hat in der Nacht auf Samstag drei ballistische Raketen der jemenitischen Huthi-Miliz auf Riad abgefangen; Zeugen hörten zwei Explosionen. Es war die dritte Nacht in Folge mit Luftalarm in Riad, zwei Tage nachdem ein Huthi-Angriff den Turm des Staatsfonds PIF beschädigt hatte. Zuvor hatte die Koalition den Huthi-Hafen Hodeidah und Ziele in Sanaa angegriffen.",
+              "gegenstimme": "Die Huthi stellen ihre Angriffe als Antwort auf die Bombardierung Hodeidahs dar und drohen nun auch Jeddah, anderen Häfen am Roten Meer und einem Kraftwerk. Die UNO warnt, die Eskalation gefährde Versorgungswege für humanitäre Hilfe im Jemen. Die Koalition und Jemens anerkannte Regierung werfen den Huthi vor, über Hodeidah geschmuggelte iranische Waffen zu beziehen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera / AFP",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"
+                },
+                {
+                  "name": "Arab News",
+                  "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-intercept-3-houthi-ballistic-missiles-targeting-riyadh-3013264"
+                },
+                {
+                  "name": "Qatar News Agency",
+                  "url": "https://qna.org.qa/en/news/news-details?date=21%2F11%2F2026&id=coalition-to-support-legitimacy-in-yemen-intercepts-three-houthi-ballistic-missiles-launched-towards-riyadh"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-fbi-ncic-datenbank-hack",
+              "slug": "fbi-ncic-datenbank-hack",
+              "title": "Hackerangriff auf zentrale FBI-Kriminaldatenbank NCIC",
+              "date": "2026-11-21",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+              "kurz": "Das FBI untersucht einen mutmasslichen Einbruch in das National Crime Information Center, die landesweite Datenbank für Haftbefehle und Hintergrundprüfungen.",
+              "summary": "Das FBI untersucht laut übereinstimmenden Berichten von CNN und NBC einen mutmasslichen Hackerangriff auf das National Crime Information Center (NCIC), die Datenbank, über die Bundes-, Staats- und Lokalpolizei in den USA Haftbefehle und Hintergrundinformationen austauschen. Wer dahintersteckt und welche Daten betroffen sind, ist unbekannt; das FBI äusserte sich bisher nicht.",
+              "gegenstimme": "Behörden betonen, die Ausfälle bei Banken und Flugsicherung der vergangenen Woche seien keine Cyberangriffe gewesen; ein Zusammenhang mit dem NCIC-Vorfall ist nicht belegt. Kritiker im Kongress sehen dagegen ein Muster mangelnder Cyberabwehr, zumal Präsident Trump diese Woche den nationalen Cyberdirektor Sean Cairncross entliess.",
+              "sources": [
+                {
+                  "name": "NBC News",
+                  "url": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.com/news/articles/cvze7de86pk3o"
+                },
+                {
+                  "name": "Reuters via Investing.com",
+                  "url": "https://www.investing.com/news/world-news/fbis-criminal-information-database-hacked-cnn-reports-5043109"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-riemann-vermutung-claude-beweis-anthropic",
+              "slug": "riemann-vermutung-claude-beweis-anthropic",
+              "title": "Riemann-Vermutung: Anthropic-Mathematiker meldet KI-gestützten Beweis",
+              "date": "2026-11-21",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🧮",
+              "edition": "midday",
+              "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03812-7/d41586-026-03812-7_54003400.jpg",
+              "kurz": "Levent Alpöge will mit dem KI-Modell Claude die Riemann-Vermutung bewiesen haben. Unabhängige Prüfer bestätigen, dass der formale Beweis fehlerfrei kompiliert.",
+              "summary": "Der Anthropic-Mathematiker Levent Alpöge hat am Freitag erklärt, er habe zusammen mit dem KI-Modell Claude einen Beweis der Riemann-Vermutung gefunden, des wohl berühmtesten offenen Problems der Mathematik von 1859. Unabhängige Forscher, darunter Andrew Sutherland vom MIT, haben den in der Beweissprache Lean formalisierten Beweis nachgeprüft und ohne Fehler kompiliert.",
+              "gegenstimme": "Fachleute wie Kevin Buzzard (Imperial College) mahnen: Zu prüfen ist, ob die Aussage im Lean-Code wirklich der Riemann-Vermutung entspricht und der Code keine Definitionen verbiegt. Kritisch ist auch, dass die Ankündigung von einem Unternehmen kommt, das kurz nach seinem Börsengang ein starkes kommerzielles Interesse an KI-Durchbrüchen hat.",
+              "sources": [
+                {
+                  "name": "Nature",
+                  "url": "https://www.nature.com/articles/d41586-026-03812-7"
+                },
+                {
+                  "name": "Scientific American",
+                  "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+                },
+                {
+                  "name": "MIT (Prüfdateien)",
+                  "url": "https://math.mit.edu/~drew/grh/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-tiktok-weimer-verkauf-europageschaeft-unsinn",
+              "slug": "tiktok-weimer-verkauf-europageschaeft-unsinn",
+              "title": "TikTok weist Weimers Forderung nach europäischen Eigentümern zurück",
+              "date": "2026-11-21",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "📱",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/eea44a66-15b6-4e59-ac98-3b90d9c66f7a_w1200_r1.778_fpx41_fpy21.jpg",
+              "kurz": "Deutschland und Österreich wollen, dass TikTok 75 bis 80 Prozent seines Europageschäfts an europäische Investoren verkauft. TikTok nennt das «Unsinn».",
+              "summary": "Der deutsche Kultur- und Medienstaatsminister Wolfram Weimer hat am Freitag beim EU-Medienministerrat in Brüssel gefordert, TikTok solle 75 bis 80 Prozent seines Europageschäfts an europäische Investoren verkaufen; Österreichs Digitalstaatssekretär Alexander Pröll unterstützt den Vorstoss. Eine TikTok-Sprecherin nannte das am Samstag «Unsinn», der «jeglicher Grundlage» entbehre.",
+              "gegenstimme": "TikTok verweist darauf, bereits europäischem Recht zu unterliegen und mit dem «Projekt Clover» zwölf Milliarden Euro in europäische Rechenzentren und eine unabhängige Datenaufsicht zu investieren. Rechtlich ist unklar, womit eine Regierung einen Verkauf in der EU erzwingen könnte; in den USA brauchte es dafür ein eigenes Gesetz.",
+              "sources": [
+                {
+                  "name": "Der Spiegel",
+                  "url": "https://www.spiegel.de/netzwelt/netzpolitik/tiktok-bezeichnet-verkaufsplaene-von-wolfram-weimer-als-unsinn-a-824dc8bd-b7be-4e5c-a139-73ab61a6da3c"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/absurd-tiktok-weist-verkaufsplaene-von-medienstaatsminister-weimer-zurueck-102.html"
+                },
+                {
+                  "name": "FAZ",
+                  "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unsinn-tiktok-kritisiert-verkaufsplaene-vom-kulturstaatsminister-weimer-faz-200452404.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-hessen-rhein-abschiebungen-frankfurter-krawalle",
+              "slug": "hessen-rhein-abschiebungen-frankfurter-krawalle",
+              "title": "Frankfurter Krawalle: Hessens Regierungschef Rhein will ausländische Randalierer abschieben",
+              "date": "2026-11-21",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://images.welt.de/6b015fed39a3e8110f0e50aa/33ac3439dc649c21f9cf209be614abd0/ci16x9-w1200/dpa-com-261110-936-142604-jpg",
+              "kurz": "Boris Rhein (CDU) macht Linksextreme und «migrantische Gewalttäter» für die Ausschreitungen Ende Oktober verantwortlich und fordert Abschiebungen und strengere Einbürgerungsregeln.",
+              "summary": "Hessens Ministerpräsident Boris Rhein (CDU) fordert nach den Ausschreitungen bei Jugendprotesten in Frankfurt Ende Oktober die Abschiebung ausländischer Randalierer «überall, wo es rechtlich möglich ist», und ein Überdenken der Einbürgerungsregeln. Die Krawalle seien «eine Folge von Migration ohne Integration», sagte er der Frankfurter Allgemeinen Sonntagszeitung. Von 73 identifizierten Tatverdächtigen haben laut Hessens Innenminister 26 nur eine ausländische, 17 eine doppelte und 30 die deutsche Staatsangehörigkeit.",
+              "gegenstimme": "Kritiker wenden ein, dass mit 47 Deutschen und Doppelbürgern eine Mehrheit der Verdächtigen gar nicht abgeschoben werden kann und Abschiebungen rechtlich einen ausreisepflichtigen Status voraussetzen. Die Organisatoren der Jugendproteste sehen ihr Anliegen durch eine Migrationsdebatte überlagert. Rhein selbst betont, Millionen Menschen mit Migrationshintergrund gehörten «selbstverständlich» zum Land und dürften nicht in Mithaftung genommen werden.",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html"
+                },
+                {
+                  "name": "dts Nachrichtenagentur via Finanznachrichten",
+                  "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70192358-rhein-will-randalierer-ohne-deutsche-staatsbuergerschaft-abschieben-003.htm"
+                },
+                {
+                  "name": "Frankfurter Rundschau",
+                  "url": "https://www.fr.de/frankfurt/45-von-73-tatverdaechtigen-sind-juenger-als-21-jahre-94585660.html"
+                },
+                {
+                  "name": "Apollo News (Einordnung)",
+                  "url": "https://apollo-news.net/frankfurter-krawallnacht-unter-auslndischen-festgenommenen-dominieren-afghanen-und-syrer/"
+                },
+                {
+                  "name": "Tagesschau / HR",
+                  "url": "https://www.tagesschau.de/inland/regional/hessen/hr-jugendproteste-am-freitag-tausende-demonstranten-in-hessen-erwartet-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-21-pew-studie-islam-2070-groesste-religion",
+              "slug": "pew-studie-islam-2070-groesste-religion",
+              "title": "Pew-Studie: Islam dürfte bis 2070 grösste Weltreligion werden",
+              "date": "2026-11-21",
+              "time": "12:15",
+              "category": "international",
+              "icon": "📊",
+              "edition": "midday",
+              "kurz": "Laut Pew Research Center wird es 2070 rund 3,6 Milliarden Muslime und knapp 3 Milliarden Christen geben. In Europa soll der muslimische Anteil von 6 auf 13 Prozent steigen.",
+              "summary": "Das Pew Research Center prognostiziert in seiner Studie «The Future of World Religions», dass 2070 rund 3,6 Milliarden Muslime (36 Prozent der Weltbevölkerung) und knapp 3 Milliarden Christen (29 Prozent) leben werden; der Islam würde damit erstmals die grösste Religion. Für Europa erwartet Pew einen Anstieg des muslimischen Bevölkerungsanteils von 6 auf 13 Prozent, hauptsächlich durch Migration.",
+              "gegenstimme": "Es handelt sich um Fortschreibungen heutiger Trends, keine Vorhersagen: Migration, Geburtenraten und Religionswechsel können sich in 45 Jahren stark verändern, wie auch SRF betont. Studien deuten zudem auf eine Säkularisierung bei europäischen Muslimen der zweiten und dritten Generation hin. Migrationskritische Stimmen sehen in den Europa-Zahlen dagegen einen Beleg dafür, dass die demografischen Folgen der Zuwanderung politisch zu wenig diskutiert werden.",
+              "sources": [
+                {
+                  "name": "Pew Research Center",
+                  "url": "https://www.pewresearch.org/religion/2026/11/18/the-future-of-world-religions-population-growth-projections-2020-2070/"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/kultur/gesellschaft-religion/weltreligionen-im-wandel-studie-islam-koennte-bis-2070-groesste-religion-der-welt-werden"
+                },
+                {
+                  "name": "Die Zeit",
+                  "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/pew-studie-weltreligion-islam-christentum-demografie"
                 }
               ]
             }
