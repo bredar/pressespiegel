@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:15:00+01:00",
+  "updated": "2026-11-22T17:10:00+01:00",
   "days": [
     {
       "date": "2026-11-22",
@@ -663,6 +663,401 @@
                 {
                   "name": "The Guardian",
                   "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:10",
+          "articles": [
+            {
+              "id": "2026-11-22-cop31-gescheitert-schweiz-eu-lehnen-antalya-pakt-ab",
+              "slug": "cop31-gescheitert-schweiz-eu-lehnen-antalya-pakt-ab",
+              "title": "COP31 gescheitert: Schweiz und EU lehnen «Antalya-Pakt» ab, keine Schlusserklärung",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/cb0904.jpg",
+              "kurz": "Nach zwei Wochen endet die Weltklimakonferenz in Antalya ohne gemeinsame Abschlusserklärung. Der Entwurf erwähnte fossile Energien nicht, die Schweiz stimmte mit der EU dagegen.",
+              "summary": "Die UN-Klimakonferenz COP31 im türkischen Antalya ist am Sonntagnachmittag ohne gemeinsame Abschlusserklärung zu Ende gegangen. Konferenzpräsident Murat Kurum stellte fest, dass es keinen Konsens über den «Antalya-Pakt» gebe; die EU, Grossbritannien, kleine Inselstaaten und die Schweiz hatten den Entwurf abgelehnt, weil er Kohle, Öl und Gas nicht erwähnt. Mehr als 130 Staaten hatten eine ausdrückliche Abkehr von fossilen Energien verlangt.",
+              "gegenstimme": "Saudi-Arabien verteidigte den Entwurf: Arabische Länder seien nur für einen kleinen Teil der historischen Emissionen verantwortlich, CO2-Abscheidung (CCS) sei Teil der Lösung. Kurum betonte, man habe niemandem ein Ultimatum gestellt. In der WELT (Meinung) heisst es, nicht die Ölstaaten, sondern Europas Klimapolitik sei gescheitert, weil der Rest der Welt Europas Vorgaben nicht mehr folgen wolle.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/international/klimakonferenz-in-der-tuerkei-keine-einigung-bei-weltklimakonferenz-auch-schweiz-lehnt-ab"
+                },
+                {
+                  "name": "SRF (Reaktionen)",
+                  "url": "https://www.srf.ch/news/international/cop31-in-antalya-das-sind-die-reaktionen-auf-die-gescheiterte-klimakonferenz"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/fossile-brennstoffe-und-geldsorgen-bringen-die-globalen-klimaverhandlungen-zum-scheitern-ld.10068913"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+                },
+                {
+                  "name": "WELT (Meinung)",
+                  "url": "https://www.welt.de/debatte/plus6b02b68025b618a0b5d5b98c/cop31-in-antalya-europas-grosse-klima-lebensluege-ist-gescheitert.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-pfister-bleibt-im-vbs-jans-wbf-departementsverteilung",
+              "slug": "pfister-bleibt-im-vbs-jans-wbf-departementsverteilung",
+              "title": "Bundesrat Pfister will im VBS bleiben, Jans' Weg ins Wirtschaftsdepartement wird frei",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/19/48713408-1344-4fa6-8891-ee27803ac23e.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2206,1241,x244,y131&wmark=nzz",
+              "kurz": "Verteidigungsminister Martin Pfister verzichtet auf einen Wechsel ins frei werdende WBF. Damit steigen die Chancen von Beat Jans, die SVP könnte das Justizdepartement erhalten.",
+              "summary": "Bundesrat Martin Pfister (Mitte) will Vorsteher des VBS bleiben und nicht ins Wirtschaftsdepartement wechseln, das mit dem Rücktritt von Guy Parmelin frei wird. «Ich bin entschlossen, im VBS zu bleiben», sagte er in «NZZ Standpunkte»; laut Blick und SonntagsBlick informierte er die Mitte-Fraktion am Freitag. Damit kann SP-Bundesrat Beat Jans als Amtsälterer das WBF beanspruchen.",
+              "gegenstimme": "Bürgerliche Parteien und Verbände hätten einen Wechsel Pfisters ins WBF lieber gesehen als einen Wirtschaftsminister Jans; laut Blick hätten auch viele in der Mitte einen Abgang aus dem «Departement der Pleiten, Pech und Pannen» akzeptiert. Pfister selbst weist den Vorwurf zurück, das VBS sei nach den Problemen mit den F-35-Kosten und der Ruag nicht vertrauenswürdig.",
+              "sources": [
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/ich-bin-entschlossen-im-vbs-zu-bleiben-sagt-martin-pfister-ld.10069362"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/pfister-will-vbs-chef-bleiben/hjxx6gv"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/medienbericht-bundesrat-pfister-bleibt-wohl-im-vbs-jans-koennte-profitieren-103671615"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-svp-romandie-rebelliert-addor-amaudruz-wilde-wahl",
+              "slug": "svp-romandie-rebelliert-addor-amaudruz-wilde-wahl",
+              "title": "SVP-Ticket: Romands werfen Parteispitze Kampagne gegen Amaudruz vor, Ehemann ruft zur wilden Wahl auf",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "evening",
+              "kurz": "Nationalrat Jean-Luc Addor sagt, man habe «versucht, Céline zu zerstören». Ihr Ehemann wirbt auf Facebook für eine Wahl neben dem Ticket, doch Amaudruz hat eine Nichtannahme unterschrieben.",
+              "summary": "Der Walliser SVP-Nationalrat Jean-Luc Addor wirft der eigenen Partei vor, die Genferin Céline Amaudruz gezielt vom Bundesratsticket ferngehalten zu haben: «Man hat versucht, Céline zu zerstören», sagte er dem SonntagsBlick. Laut Tages-Anzeiger ruft Amaudruz' Ehemann auf Facebook zu einer «Off-Ticket-Wahl» auf, der Neuenburger Ex-Nationalrat Yvan Perrin spricht vom «Hooligan-Ticket». Amaudruz blieb dem Fraktionsessen demonstrativ fern.",
+              "gegenstimme": "Addor selbst akzeptiert das Ticket Aeschi/Graber, weil die Wahl nach demokratischen Regeln verlaufen sei. Der Berner Regierungsrat Pierre Alain Schnegg lehnt eine Sprengkandidatur ab und macht die Fixierung der Romands auf eine einzige Kandidatin für das Scheitern verantwortlich. Die NZZ hält eine echte Sprengkandidatur für wenig aussichtsreich, weil jede Fraktion 2027 mit einer Retourkutsche der SVP rechnen müsste.",
+              "sources": [
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/bundeshaus/svp-nationalrat-wirft-parteispitze-vor-amaudruz-verhindert-zu-haben-67205368"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/celine-amaudruz-romandie-svp-erwaegt-wilde-bundesratswahl-304317381676"
+                },
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/bundesratsticket-der-svp-pierre-alain-schnegg-bedauert-spaltung-innerhalb-der-romandie"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/hooligan-ticket-wie-wahrscheinlich-ist-eine-sprengkandidatur-ld.10071425"
+                },
+                {
+                  "name": "20 Minuten (Oktober)",
+                  "url": "https://www.20min.ch/story/wilde-bundesratswahl-droht-svp-neuer-fall-widmer-schlumpf-jetzt-spricht-amaudruz-103650805"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-destinus-ruta-krim-bruecke-debatte-kriegsmaterialgesetz",
+              "slug": "destinus-ruta-krim-bruecke-debatte-kriegsmaterialgesetz",
+              "title": "Marschflugkörper aus Payerner Firma gegen Krim-Brücke: Köppel tobt, Seco sieht keinen Verstoss",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "schweiz",
+              "icon": "🚀",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/22/5084b1ca-153d-4f79-bc8d-acb8182c2b21.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C3500%2C1969&s=c83043930a908ed7db11a3435dc9c63a",
+              "kurz": "Die Firma Destinus wurde in Payerne gegründet, ihre Ruta-Marschflugkörper trafen die Krim-Brücke. Eine Woche vor der Abstimmung über das Kriegsmaterialgesetz entbrennt Streit.",
+              "summary": "Ein Teil der Marschflugkörper, mit denen die Ukraine am 17. November die Krim-Brücke angriff, stammt vom Rüstungsunternehmen Destinus, das 2021 in Payerne VD gegründet wurde. Roger Köppel wirft der Firma laut SonntagsZeitung vor, das Schweizer Kriegsmaterialgesetz zu umgehen, und nennt die Verantwortlichen «kriegsverrückte Vollidioten». Destinus sagt, die Ruta würden in der EU, vor allem in den Niederlanden, gebaut und nicht aus der Schweiz geliefert.",
+              "gegenstimme": "Das Seco hält fest, dass Exporte aus den ausländischen Werken von Destinus dem dortigen Recht unterliegen; Zulieferungen von Komponenten an europäische Rüstungsfirmen sind erlaubt, auch wenn die Systeme später an die Ukraine gehen, und gelten laut Bundesrat als neutralitätskonform. Destinus betont, die Arbeit in der Schweiz erfolge im Einklang mit den Exportregeln. Köppel hingegen warnt, die Enthüllungen könnten die Schweiz ins Visier Russlands rücken.",
+              "sources": [
+                {
+                  "name": "20 Minuten (FR)",
+                  "url": "https://www.20min.ch/fr/story/attaque-du-pont-de-crimee-polemique-apres-l-utilisation-de-missiles-vaudois-par-l-ukraine-103671700"
+                },
+                {
+                  "name": "Tages-Anzeiger",
+                  "url": "https://www.tagesanzeiger.ch/ukraine-news-roger-koeppel-tobt-wegen-ruta-raketen-905821491869"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/international/hinter-dem-angriff-auf-russlands-krim-bruecke-steckt-auch-waffentechnologie-aus-der-schweiz-ld.10066989"
+                },
+                {
+                  "name": "SRF (Umfrage)",
+                  "url": "https://www.srf.ch/news/zweite-srg-umfrage-kriegsmaterialgesetz-pattsituation-mit-leichtem-ja-vorteil"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-biel-mann-mit-stichwaffe-schwer-verletzt-taeter-angehalten",
+              "slug": "biel-mann-mit-stichwaffe-schwer-verletzt-taeter-angehalten",
+              "title": "Biel: Mann auf offener Strasse mit Stichwaffe schwer verletzt, mutmasslicher Täter festgenommen",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "regional",
+              "icon": "🚔",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/22/f381abca-bcc9-4210-9a7c-f59c02ffdfd9.png?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C561%2C388&s=4819fc8356cac36ec0264b98f7ef2696",
+              "kurz": "In der Bieler Altstadt griff ein Mann in der Nacht auf Sonntag einen anderen unvermittelt an. Das Opfer liegt schwer verletzt im Spital, der Verdächtige wurde kurz darauf gefasst.",
+              "summary": "In Biel ist am Sonntag gegen 0.40 Uhr an der Adam-Friedrich-Molz-Gasse ein Mann von einem anderen Mann unvermittelt auf der Strasse angegriffen und mit einer Stichwaffe schwer verletzt worden. Der Verletzte wurde ins Spital gebracht. Die Kantonspolizei Bern nahm den mutmasslichen Täter kurz darauf vorläufig fest und stellte die mutmassliche Tatwaffe sicher.",
+              "gegenstimme": "Bis zu einem Urteil gilt für den Festgenommenen die Unschuldsvermutung. Die Polizei schreibt von einem «unvermittelten» Angriff nach Aussagen von Beteiligten; ob sich Opfer und Täter kannten und was der Auslöser war, ist laut Kantonspolizei noch offen. Voreilige Schlüsse auf ein Zufallsopfer sind deshalb nicht gedeckt.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern (Medienmitteilung)",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=3105584b-8848-436e-ab37-70945a31d83e"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/biel-be-mann-bei-angriff-schwer-verletzt-mutmasslicher-taeter-angehalten-103672063"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-unwetterwarnung-schnee-alpennordhang-jura-regen",
+              "slug": "unwetterwarnung-schnee-alpennordhang-jura-regen",
+              "title": "Bund warnt vor starkem Schneefall in den Alpen und Dauerregen im Jura, Schnee bis ins Flachland möglich",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "schweiz",
+              "icon": "❄️",
+              "edition": "evening",
+              "kurz": "MeteoSchweiz hat bis Montagabend Gefahrenstufe 3 ausgerufen. In den Berner Alpen sind über 1600 Metern bis zu 70 Zentimeter Neuschnee möglich, im Westjura bis 80 Millimeter Regen.",
+              "summary": "MeteoSchweiz warnt von Sonntag bis Montagabend für den Alpennordhang, das Unterwallis sowie die Waadtländer und Freiburger Alpen vor starkem Schneefall und für den westlichen Jura vor intensivem Regen, jeweils mit Gefahrenstufe 3 von 5. Von den Berner bis zu den Glarner Alpen werden oberhalb von 1600 Metern 50 bis 70 Zentimeter, oberhalb von 2000 Metern 70 bis 90 Zentimeter Neuschnee erwartet. In der Nacht auf Montag sinkt die Schneefallgrenze in der Nord- und Ostschweiz auf 400 bis 800 Meter.",
+              "gegenstimme": "MeteoSchweiz betont selbst grosse Unsicherheiten, vor allem beim Verlauf der Schneefallgrenze und der Grenze zwischen kalter und warmer Luft. Die Mengen im Flachland dürften gering bleiben. Ende November sind solche Wintereinbrüche in den Alpen nicht ungewöhnlich, Stufe 3 bedeutet erhebliche, nicht grosse Gefahr.",
+              "sources": [
+                {
+                  "name": "MeteoSchweiz (Naturgefahrenbulletin)",
+                  "url": "https://www.meteoschweiz.admin.ch/service-und-publikationen/applikationen/naturgefahrenbulletin.html"
+                },
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/news/schweiz/bis-zu-60-zentimeter-neuschnee-bund-warnt-vor-unwettern-67205361"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/schweiz/bund-warnt-vor-schnee-und-regen-gefahrenstufe-3/hr8qy6v"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-prelicz-huber-tritt-2027-nicht-mehr-an",
+              "slug": "prelicz-huber-tritt-2027-nicht-mehr-an",
+              "title": "Grünen-Nationalrätin Katharina Prelicz-Huber tritt 2027 nicht mehr an",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "schweiz",
+              "icon": "🌱",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/0d4322.jpg",
+              "kurz": "Die Zürcher Bildungs- und Sozialpolitikerin hört nach der Herbstsession 2027 auf. Sie übernimmt das Präsidium des Seniorendachverbands Vasos.",
+              "summary": "Die Zürcher Grünen-Nationalrätin Katharina Prelicz-Huber kandidiert bei den eidgenössischen Wahlen im Oktober 2027 nicht mehr, die Herbstsession 2027 wird ihre letzte sein. «Einmal ist genug», sagte sie zu Keystone-SDA, sie werde 67; sie politisiert seit 1990 in Parlamenten verschiedener Staatsebenen. Im Frühling übernimmt sie das Präsidium der Vereinigung aktiver Seniorinnen- und Selbsthilfeorganisationen der Schweiz (Vasos).",
+              "gegenstimme": "Prelicz-Huber betont, sie habe nicht genug von der Politik, der Rücktritt falle ihr schwer. Als Minderheitenpolitikerin habe sie oft «auf die Zähne beissen» müssen, bei der Gleichstellung müsse man immer wieder von vorne anfangen. Für die Grünen bedeutet ihr Abgang, dass sie 2027 im Kanton Zürich ohne eine ihrer bekanntesten Sozialpolitikerinnen antreten.",
+              "sources": [
+                {
+                  "name": "SRF",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2027-gruenen-nationalraetin-prelicz-huber-verlaesst-politikbuehne"
+                },
+                {
+                  "name": "Swissinfo (Keystone-SDA)",
+                  "url": "https://www.swissinfo.ch/ger/gr%c3%bcne-nationalr%c3%a4tin-prelicz-huber-tritt-2027-nicht-mehr-an/92418973"
+                },
+                {
+                  "name": "Blick",
+                  "url": "https://www.blick.ch/politik/gruenen-nationalraetin-katharina-prelicz-huber-tritt-ab/jm0fjme"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-belgien-streik-flughaefen-swiss-annulliert-fluege",
+              "slug": "belgien-streik-flughaefen-swiss-annulliert-fluege",
+              "title": "Generalstreik in Belgien: Brüsseler Flughafen steht am Montag still, Swiss streicht sechs Flüge",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "wirtschaft",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/22/2d9732b7-a862-4303-9d8c-d0051639d80a.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C68%2C6000%2C3375&s=baa832824ff67423d561bba43e46cae1",
+              "kurz": "Die Fluglotsen schliessen sich dem landesweiten Streik gegen die Sparpolitik der Regierung De Wever an. In Brüssel und Charleroi fallen alle Flüge zwischen 7 und 21 Uhr aus.",
+              "summary": "Wegen eines landesweiten Streiks gegen die Sparpläne der belgischen Regierung von Bart De Wever fallen am Montag zwischen 7 und 21 Uhr alle Flüge in Brüssel und Charleroi aus. Die Flugsicherung Skeyes erklärt, mit dem verbleibenden Personal könne sie keinen sicheren Betrieb gewährleisten. Die Swiss annulliert je drei Hin- und Rückflüge zwischen Zürich bzw. Genf und Brüssel, rund 500 Passagiere sind betroffen.",
+              "gegenstimme": "Die Regierung De Wever hält ihr Spar- und Reformprogramm für nötig, um den Haushalt zu sanieren; das Budget ist weiterhin blockiert. Der Flughafen Charleroi wirft den Fluglotsen eine «völlig unbekümmerte Haltung» vor: Er sei weniger als 36 Stunden vorher informiert worden, Tausende Reisende und 3400 Beschäftigte seien betroffen.",
+              "sources": [
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/am-montag-belgische-fluglotsen-streiken-auch-swiss-fluege-betroffen-103671752"
+                },
+                {
+                  "name": "Politico Europe",
+                  "url": "https://www.politico.eu/article/brussels-charleroi-airports-cancel-most-flights-monday-belgian-strike/"
+                },
+                {
+                  "name": "Belga",
+                  "url": "https://www.belganewsagency.eu/press-releases/38990/no-flights-at-brussels-airport-on-monday-due-to-air-traffic-controllers-strike/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-libyen-russisches-kriegsschiff-benghazi-drohnenangriff",
+              "slug": "libyen-russisches-kriegsschiff-benghazi-drohnenangriff",
+              "title": "Libyen: Russisches Kriegsschiff im Hafen von Benghazi nach mutmasslichem Drohnenangriff ausgebrannt",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "international",
+              "icon": "⚓",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg",
+              "kurz": "Nach dem Frachter «Sparta II» in der Ostsee trifft es ein zweites russisches Schiff: In Benghazi explodierte am Sonntagmorgen ein Marineschiff. Libyen spricht von einem Drohnenangriff.",
+              "summary": "Im Marinehafen der libyschen Stadt Benghazi ist am Sonntag in der Morgendämmerung ein russisches Schiff explodiert und in Brand geraten. Die ostlibysche Regierung erklärte, es sei wahrscheinlich mit unbemannten Fahrzeugen angegriffen worden; das Schiff habe auf dem Rückweg nach Russland Treibstoff und Vorräte aufgenommen. Satellitenbilder zeigen ein brennendes und Stunden später teilweise gesunkenes Schiff.",
+              "gegenstimme": "Die ostlibysche Regierung nennt den Angriff eine «schwere Aggression gegen die nationale Souveränität» und betont, Libyen sei nicht Partei im Ukraine-Krieg. Die international anerkannte Regierung in Tripolis warnt dagegen gerade davor, ausländische Streitkräfte in libyschen Häfen zu beherbergen. Moskau und Kiew äusserten sich bis zum Abend nicht.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+                },
+                {
+                  "name": "AP",
+                  "url": "https://apnews.com/article/libya-russia-vessel-drone-benghazi-59f6f304f3053c69c8cc890138a94d1b"
+                },
+                {
+                  "name": "Tagesschau (Sparta II)",
+                  "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html"
+                },
+                {
+                  "name": "BBC (Sparta II)",
+                  "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+                },
+                {
+                  "name": "Defence Blog",
+                  "url": "https://defence-blog.com/libya-says-russian-corvette-in-benghazi-hit-by-drones/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-deutschland-femizide-mordparagraf-hubig-gesetzentwurf",
+              "slug": "deutschland-femizide-mordparagraf-hubig-gesetzentwurf",
+              "title": "Deutschland: Justizministerin Hubig will Tötungen aus Besitzdenken ausdrücklich als Mord bestrafen",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "politik",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/bbdb6cd3-3bf8-4f12-9e32-9b5ea7ef500a/AAABnrvnwgE/AAABnSSvrFg/16x9-big/stoppt-femizide-banner-100.jpg?width=1280",
+              "kurz": "Ein Gesetzentwurf soll «geschlechtsspezifische oder sonstige menschenverachtende Beweggründe» als Mordmerkmal verankern. Einen eigenen Straftatbestand Femizid lehnt Hubig ab.",
+              "summary": "Die deutsche Bundesjustizministerin Stefanie Hubig (SPD) hat einen Gesetzentwurf fertiggestellt, der im Mordparagrafen 211 «geschlechtsspezifische oder sonstige menschenverachtende Beweggründe» ausdrücklich als Mordmerkmal nennt. Ziel sind vor allem Trennungstötungen, die Gerichte heute teils nur als Totschlag werten. «Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden», sagte Hubig der Bild am Sonntag.",
+              "gegenstimme": "Der Deutsche Anwaltverein verlangte schon 2024 eine grundlegende Reform der Tötungsdelikte, die nach dem Grad der Verantwortung und nicht nach täterorientierten Gesinnungsmerkmalen unterscheidet; ein zusätzliches Motivmerkmal geht eher in die Gegenrichtung. Zudem können Gerichte solche Taten schon heute als Mord aus niedrigen Beweggründen werten. Hubig räumt selbst ein, viele Gerichte entschieden bereits so, und spricht von einer «Klarstellung mit Signalwirkung».",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
+                },
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/femizide-stefanie-hubig-will-mordparagrafen-verschaerfen-a-c6d29e6d-8edb-4651-8128-ef74725623e4"
+                },
+                {
+                  "name": "Legal Tribune Online",
+                  "url": "https://www.lto.de/recht/nachrichten/n/mordtatbestand-211-stgb-anpassung-femizid-entwurf-hubig-bmjv"
+                },
+                {
+                  "name": "Bild",
+                  "url": "https://www.bild.de/leben-wissen/femizid-als-straftatbestand-wer-frauen-toetet-ist-nicht-gleich-moerder-6af710a59849eea0701e1ae2"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-grossbritannien-barnham-symbolischer-austritt-asylunterkunft",
+              "slug": "grossbritannien-barnham-symbolischer-austritt-asylunterkunft",
+              "title": "England: Dorf Barnham stimmt aus Protest gegen Asylunterkunft symbolisch für «Austritt» aus Grossbritannien",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "politik",
+              "icon": "🇬🇧",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c693/live/fd5f2ba0-e5da-11f1-9ab8-8737221634d6.jpg",
+              "kurz": "Die Regierung will auf einem früheren Luftwaffengelände bis zu 931 alleinstehende Asylbewerber unterbringen. 257 von 274 Abstimmenden im Dorf stimmten für die symbolische Unabhängigkeit.",
+              "summary": "Im Dorf Barnham in der Grafschaft Suffolk haben am Samstag 257 Einwohnerinnen und Einwohner (94 Prozent) in einer rechtlich nicht bindenden Abstimmung für einen symbolischen Austritt aus dem Vereinigten Königreich gestimmt, 16 dagegen. Anlass ist der Plan der Labour-Regierung, auf dem stillgelegten Militärgelände RAF Barnham bis zu 931 alleinstehende männliche Asylsuchende unterzubringen. Barnham ist nach Piddington in Oxfordshire das zweite Dorf mit einer solchen Abstimmung.",
+              "gegenstimme": "Das Innenministerium sagt, eine Entscheidung sei nicht gefallen, man nehme die Sorgen ernst; Sicherheit der Gemeinde habe höchste Priorität. Die Regierung will damit die teuren Asylhotels abbauen, die zeitweise rund 9 Millionen Pfund pro Tag kosteten. Die deutsche Agentur dpa (via Nau.ch) verweist zudem darauf, dass die Nettozuwanderung zuletzt deutlich gesunken sei, und bezeichnet die Unterstützer der ersten Abstimmung in Piddington als rechtsextrem.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cvze71y6g85yo"
+                },
+                {
+                  "name": "Nau.ch (dpa)",
+                  "url": "https://www.nau.ch/news/europa/protest-gegen-asylunterkunft-dorf-will-nicht-britisch-sein-67205279"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-indonesien-brand-suesswarenfabrik-tote-vermisste",
+              "slug": "indonesien-brand-suesswarenfabrik-tote-vermisste",
+              "title": "Indonesien: Brand in Süsswarenfabrik bei Jakarta, Dutzende Arbeiter vermisst",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/77451618-e14b-487b-99a5-cc5151a61333/AAABogO7eo4/AAABnSSvrFg/16x9-big/indonesien-490.jpg?width=1280",
+              "kurz": "In der Provinz Banten brannte eine Süsswarenfabrik nieder. Offiziell bestätigt sind drei Tote, Rettungskräfte bargen aber über 20 Leichensäcke, 36 Menschen werden vermisst.",
+              "summary": "Bei einem Brand in einer Süsswarenfabrik im Bezirk Serang in der Provinz Banten, rund 50 Kilometer westlich von Jakarta, sind seit Samstagabend mindestens drei Menschen ums Leben gekommen. Rund 36 Personen werden vermisst; laut Gouverneur Andra Soni waren etwa 60 Menschen im Gebäude. Bis Sonntagabend bargen die Rettungskräfte 24 Leichensäcke.",
+              "gegenstimme": "Die Behörden haben bisher nur drei Tote bestätigt; die Zahl der Leichensäcke ist nicht gleichbedeutend mit der Zahl der Opfer. Zur Ursache gibt es keine Angaben, Vorwürfe gegen den Betreiber sind bisher nicht belegt.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo"
+                },
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html"
+                },
+                {
+                  "name": "Fox News",
+                  "url": "https://www.foxnews.com/world/indonesia-candy-factory-fire-leaves-multiple-dead-dozens-missing"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-bepicolombo-merkur-umlaufbahn-erreicht",
+              "slug": "bepicolombo-merkur-umlaufbahn-erreicht",
+              "title": "Raumsonde BepiColombo erreicht nach acht Jahren die Umlaufbahn des Merkur",
+              "date": "2026-11-22",
+              "time": "17:10",
+              "category": "tech",
+              "icon": "🪐",
+              "edition": "evening",
+              "image": "https://images.tagesschau.de/image/13ec5600-cd7e-480c-a414-135a4f4f8877/AAABogI-8Es/AAABnSSvrFg/16x9-big/bepicolombo-104.jpg?width=1280",
+              "kurz": "Die europäisch-japanische Mission ist am Ziel: Die ESA bestätigt den Einschuss in eine Merkur-Umlaufbahn. An Bord ist auch ein Laser-Höhenmesser mit Berner Beteiligung.",
+              "summary": "Die europäisch-japanische Raumsonde BepiColombo ist nach achtjähriger Reise und mehr als zehn Milliarden Kilometern in eine Umlaufbahn um den Merkur eingetreten. «Wir haben von Bepi gehört», meldete die ESA in der Nacht auf Sonntag; die Flugdynamik habe den Einfang in den Orbit bestätigt. Die rund 1,7 Milliarden Euro teure Mission von ESA und Jaxa soll ab April 2027 wissenschaftliche Daten liefern.",
+              "gegenstimme": "Zum Feiern ist es aus Sicht der ESA selbst noch früh: Die Telemetrie wird noch ausgewertet, die heikle Trennung der beiden Orbiter und mehrere Bremsmanöver stehen bevor, Wissenschaftsdaten gibt es frühestens ab April 2027. Zudem ist BepiColombo laut ESA nicht die erste, sondern die zweite Mission in einer Merkur-Umlaufbahn.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/wissen/weltraum/merkur-sonde-esa-100.html"
+                },
+                {
+                  "name": "Euronews",
+                  "url": "https://www.euronews.com/2026/11/22/bepicolombo-space-probe-enters-mercurys-orbit-after-eight-year-journey"
+                },
+                {
+                  "name": "ESA",
+                  "url": "https://www.esa.int/media/about-us/directorates/science/bepicolombo-entering-orbit-around-mercury"
+                },
+                {
+                  "name": "ESA (BELA, Universität Bern)",
+                  "url": "https://www.esa.int/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury"
                 }
               ]
             }
