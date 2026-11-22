@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T06:11:00+01:00",
+  "updated": "2026-11-22T12:15:00+01:00",
   "days": [
     {
       "date": "2026-11-22",
@@ -326,6 +326,343 @@
                 {
                   "name": "Handelsblatt",
                   "url": "https://www.handelsblatt.com/politik/deutschland/teures-tanken-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen/100271751.html"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-22-cop31-deutschland-frankreich-lehnen-text-ab",
+              "slug": "cop31-deutschland-frankreich-lehnen-text-ab",
+              "title": "COP31: Deutschland und Frankreich lehnen neuen Abschlusstext ab, Einigung wackelt",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌍",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/e953bb69-d5fd-4d66-aeed-83af01d9bb73/AAABogKhx7c/AAABnSSvrFg/16x9-big/schneider-208.jpg?width=1280",
+              "kurz": "Der jüngste Entwurf der türkischen Präsidentschaft erwähnt Kohle, Öl und Gas nicht. Berlin nennt ihn «nicht zustimmungsfähig», Paris «noch schwächer als den vorigen».",
+              "summary": "An der UN-Klimakonferenz in Antalya hat der deutsche Umweltminister Carsten Schneider (SPD) am Sonntagvormittag den neuen, zehnseitigen Beschlussentwurf der Präsidentschaft als «nicht zustimmungsfähig» zurückgewiesen; Frankreichs Umweltministerin Monique Barbut nannte ihn «noch schwächer als den vorigen». Der Text verweist nur allgemein auf den Dubai-Beschluss von 2023 zur Abkehr von fossilen Energien. Das für den Morgen angesetzte Abschlussplenum hatte bis zum späten Vormittag nicht begonnen, die Konferenz ist über 40 Stunden in Verlängerung.",
+              "gegenstimme": "Konferenzpräsident Murat Kurum sagt, die Bedenken zu fossilen Energien und zur Finanzierung der Anpassung seien berücksichtigt; es seien nur «kleine Punkte offen», ein Beschluss wäre «ein bedeutender Erfolg». Kritik kommt auch von der anderen Seite: Die Klimaorganisation 350.org lehnt die im Text geförderte CO2-Entnahme als «einen der grössten Schwindel» ab.",
+              "sources": [
+                {
+                  "name": "Tagesschau",
+                  "url": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html"
+                },
+                {
+                  "name": "Nau.ch / dpa (Schneider)",
+                  "url": "https://www.nau.ch/politik/international/umweltminister-einigung-bei-klimagipfel-unwahrscheinlich-67205389"
+                },
+                {
+                  "name": "Nau.ch / dpa (Barbut, Kurum)",
+                  "url": "https://www.nau.ch/politik/international/paris-weist-turkischen-klimagipfel-abschlussentwurf-zuruck-67205388"
+                },
+                {
+                  "name": "Al Jazeera",
+                  "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-svp-ticket-jositsch-gerangel-sprengkandidatur",
+              "slug": "svp-ticket-jositsch-gerangel-sprengkandidatur",
+              "title": "SVP-Ticket: Jositsch nennt Bundeshaus-Gerangel «geringfügige Verfehlung», Debatte um Sprengkandidatur",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "midday",
+              "image": "https://c.nau.ch/i/2mnz91/1360/680/krawallticket.jpg",
+              "kurz": "Ständerat Daniel Jositsch entlastet Thomas Aeschi und Michael Graber im Fall der gesperrten Bundeshaus-Treppe. Gleichzeitig wird über einen Kandidaten neben dem Ticket spekuliert.",
+              "summary": "Der parteilose Ständerat Daniel Jositsch, damals Präsident der ständerätlichen Rechtskommission, bezeichnet das Gerangel der SVP-Bundesratskandidaten Thomas Aeschi und Michael Graber mit dem Sicherheitsdienst im Bundeshaus vom Juni 2024 im Tages-Anzeiger als «sehr geringfügige Verfehlung» und kritisiert die Polizei. Zwei Parlamentskommissionen hatten die Immunität der beiden nicht aufgehoben, ein Strafverfahren gab es deshalb nicht. Wegen des Vorfalls ist in Bern vom «Hooligan-Ticket» die Rede; Grüne und GLP wollen eine allfällige Sprengkandidatur prüfen.",
+              "gegenstimme": "Aeschi und Graber sagen, der Fall sei «juristisch und auch persönlich abgeschlossen». In der Weltwoche (Meinung) lobte ein Redaktor das «geniale Ticket» und erwartet eine Wahl ab Ticket, während Herausgeber Roger Köppel selbst von einem «Horror-Ticket» sprach. Auf der anderen Seite nennt SP-Nationalrätin Tamara Funiciello die beiden «gewalttätige Männer», Grünen-Nationalrätin Katharina Prelicz-Huber ist «erschüttert», dass die Kommissionen kein Zeichen gesetzt hätten.",
+              "sources": [
+                {
+                  "name": "Nau.ch",
+                  "url": "https://www.nau.ch/politik/bundeshaus/treppenhaus-randale-jositsch-nimmt-aeschi-und-graber-in-schutz-67205358"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/schweiz/hooligan-ticket-wie-wahrscheinlich-ist-eine-sprengkandidatur-ld.10071425"
+                },
+                {
+                  "name": "Nau.ch (Hintergrund zum Video)",
+                  "url": "https://www.nau.ch/politik/bundeshaus/bundesrat-wegen-diesem-nau-video-spricht-man-vom-hooligan-ticket-67205156"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-bankenregulierung-lobby-gegen-keller-sutter-paket",
+              "slug": "bankenregulierung-lobby-gegen-keller-sutter-paket",
+              "title": "Bankenregulierung: Bankenlobby will Keller-Sutters Reformpaket stoppen",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/03/0d7c45ac-793c-4d39-8ffc-46aeeaf9c6c0.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3931,2211,x0,y209&wmark=nzz",
+              "kurz": "Bankiervereinigung und UBS lehnen das dritte Too-big-to-fail-Paket weitgehend ab, Economiesuisse will die Eigenkapitalfrage aufschieben. Ökonomen widersprechen.",
+              "summary": "Die Schweizerische Bankiervereinigung und die UBS lehnen das dritte Massnahmenpaket von Finanzministerin Karin Keller-Sutter zur Too-big-to-fail-Regulierung weitgehend ab, wie die SonntagsZeitung nach der am Donnerstag abgelaufenen Vernehmlassung zusammenfasst; Economiesuisse fordert, die Beratung zur Eigenkapitalunterlegung bis mindestens Ende 2027 zu sistieren. Das Paket sieht unter anderem Bussen der Finma von bis zu zehn Prozent des jährlichen Betriebsergebnisses, Zwangsgelder und ein Senior Managers Regime mit klaren Verantwortlichkeiten vor.",
+              "gegenstimme": "Die Banken argumentieren, pauschale Verschärfungen schwächten die Vielfalt und Wettbewerbsfähigkeit des Finanzplatzes und verteuerten Finanzierungen für die Wirtschaft. Dem widersprechen laut SonntagsZeitung sieben befragte Ökonominnen und Ökonomen klar; SP-Vertreter nennen den Lobby-Vorstoss einen Affront und verteidigen die Vorlage als absolutes Minimum.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger / SonntagsZeitung (Abo)",
+                  "url": "https://www.tagesanzeiger.ch/ubs-banken-wollen-reform-von-keller-sutter-versenken-989532733119"
+                },
+                {
+                  "name": "NZZ",
+                  "url": "https://www.nzz.ch/wirtschaft/die-ubs-lehnt-wesentliche-teile-des-dritten-pakets-der-grossbankenregulierung-ab-und-fordert-substanzielle-aenderungen-ld.10068757"
+                },
+                {
+                  "name": "cash.ch",
+                  "url": "https://www.cash.ch/news/top-news/schweizer-bankenverband-stellt-sich-gegen-strengere-aufsichtsregeln-986480"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-solothurn-grosskontrolle-polizei-armee-684-personen",
+              "slug": "solothurn-grosskontrolle-polizei-armee-684-personen",
+              "title": "Solothurn: Polizei kontrolliert mit Armee 684 Personen, zwei Festnahmen",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🚔",
+              "edition": "midday",
+              "image": "https://c.nau.ch/i/vMWnBG/1360/680/kanton-solothurn.jpg",
+              "kurz": "In zwei Nächten haben Kantonspolizei, Armee und Zoll im Kanton Solothurn 455 Fahrzeuge kontrolliert. Hauptzweck war laut Polizei, die Zusammenarbeit zu üben.",
+              "summary": "Die Kantonspolizei Solothurn hat in den Nächten auf Samstag und auf Sonntag zusammen mit 45 Armeeangehörigen, dem Bundesamt für Zoll und Grenzsicherheit (BAZG), der Motorfahrzeugkontrolle und einem Amtsarzt 455 Fahrzeuge und 684 Personen kontrolliert. Zwei Personen wurden festgenommen, bei vier Lenkenden besteht Verdacht auf Alkohol- oder Drogeneinfluss; es gab 17 Anzeigen wegen Verstössen gegen das Strassenverkehrsgesetz und 8 Ordnungsbussen.",
+              "gegenstimme": "Die Polizei betont den Übungszweck und die Suche nach Einbrechern und Gesuchten. Eine kritische Stellungnahme zum Armeeeinsatz bei dieser Kontrolle liegt nicht vor. Offen bleibt, wie gross der Fahndungsnutzen war: Auf 684 kontrollierte Personen kamen zwei Festnahmen, die Gründe dafür nennt die Polizei nicht.",
+              "sources": [
+                {
+                  "name": "Nau.ch (Medienmitteilung Kapo SO)",
+                  "url": "https://www.nau.ch/ort/solothurn/kanton-solothurn-grosskontrolle-mit-armee-zwei-festnahmen-67205366"
+                },
+                {
+                  "name": "20 Minuten",
+                  "url": "https://www.20min.ch/story/kanton-solothurn-455-fahrzeuge-kontrolliert-militaer-faehrt-mit-panzer-auf-103671701"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-stadt-bern-wirtschaftsstrategie-parteien-verbindlichkeit",
+              "slug": "stadt-bern-wirtschaftsstrategie-parteien-verbindlichkeit",
+              "title": "Stadt Bern: Parteien verlangen verbindlichere Wirtschaftsstrategie",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🏙️",
+              "edition": "midday",
+              "image": "https://c.nau.ch/i/oVRWbG/1360/680/die-wirtschaftsstrategie-der-berner-stadtregierung-ist-in-der-vernehmlassung-grundsatzlich-gut-angekommen-symbolbild.jpg",
+              "kurz": "Die erste Wirtschaftsstrategie des Berner Gemeinderats kommt in der Vernehmlassung grundsätzlich gut an. Von links bis rechts fehlt den Parteien aber die Verbindlichkeit.",
+              "summary": "Die erste Wirtschaftsstrategie des Berner Gemeinderats mit acht Handlungsfeldern und 26 Massnahmen ist in der Vernehmlassung grundsätzlich gut angekommen, wie eine Auswertung von Keystone-SDA zeigt. Den Parteien von SP bis SVP fehlt aber die Verbindlichkeit. Die Strategie soll den Standort mit rund 15'000 Unternehmen und über 200'000 Beschäftigten weiterentwickeln.",
+              "gegenstimme": "Die Forderungen laufen auseinander: SP und Grünes Bündnis wollen einen städtischen Mindestlohn, Land nur im Baurecht, Airbnb-Regeln und eine autofreie Innenstadt. FDP und SVP verlangen dagegen eine Verkehrspolitik, die nicht nur auf den öV setzt; die SVP warnt davor, die Strategie für gesellschafts- oder klimapolitische Regulierungen zu nutzen, und fordert tiefere Steuern und Gebühren.",
+              "sources": [
+                {
+                  "name": "Nau.ch / Keystone-SDA",
+                  "url": "https://www.nau.ch/politik/regional/stadtberner-parteien-fordern-verbindlichere-wirtschaftsstrategie-67205365"
+                },
+                {
+                  "name": "Der Bund",
+                  "url": "https://www.derbund.ch/wirtschaft-bern-parteien-fordern-mehr-verbindlichkeit-221895936264"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-westjordanland-siedlerangriffe-eisenkot-juedischer-terror",
+              "slug": "westjordanland-siedlerangriffe-eisenkot-juedischer-terror",
+              "title": "Westjordanland: Siedler zünden Autos und Häuser an, Eisenkot spricht von «jüdischem Terrorismus»",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🔥",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/165ff7.jpg",
+              "kurz": "Radikale israelische Siedler sind in der Nacht in mehrere palästinensische Dörfer eingedrungen. Der mit der Regierungsbildung beauftragte Gadi Eisenkot verlangt harte Strafen.",
+              "summary": "Radikale israelische Siedler sind in der Nacht auf Sonntag in mehrere palästinensische Dörfer im besetzten Westjordanland eingedrungen, laut Augenzeugen und lokalen Medien in drei Orte nahe Ramallah, und haben Autos sowie laut Times of Israel auch Häuser in Brand gesetzt; Verletzte wurden nicht gemeldet. Die israelische Armee verurteilte die Taten «aufs Schärfste» und sicherte Beweise. Gadi Eisenkot, derzeit mit der Regierungsbildung beauftragt, sprach von «jüdischem Terrorismus».",
+              "gegenstimme": "Die Armee betont, sie verurteile solche Taten und sichere Beweise; Kritiker werfen ihr vor, trotzdem nicht entschlossen genug gegen gewalttätige Siedler vorzugehen. Ben-Gvir und Smotrich, die Eisenkot verantwortlich macht, streben eine Annexion des Westjordanlands an und unterstützen radikale Siedler; eine Antwort von ihnen auf die Vorwürfe enthalten die vorliegenden Berichte nicht. Die Schmierereien deuten darauf hin, dass die Täter gegen die Räumung eines Aussenpostens protestierten.",
+              "sources": [
+                {
+                  "name": "Nau.ch / dpa",
+                  "url": "https://www.nau.ch/politik/international/siedler-setzen-autos-in-palastinensischen-dorfern-in-brand-67205379"
+                },
+                {
+                  "name": "SRF (Ticker)",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-siedler-attackieren-erneut-doerfer-im-westjordanland"
+                },
+                {
+                  "name": "Times of Israel",
+                  "url": "https://www.timesofisrael.com/palestinian-homes-cars-set-ablaze-in-attacks-decried-by-eisenkot-as-jewish-terror/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-polen-ch101-russischer-marschflugkoerper-nato-rat",
+              "slug": "polen-ch101-russischer-marschflugkoerper-nato-rat",
+              "title": "Polen: Abgestürztes Flugobjekt war russischer Marschflugkörper, Nato-Rat tagt am Montag",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/5b4c7b94-67b2-4adb-8921-f0b456db2721_w1200_r1.778_fpx40.16_fpy49.99.jpg",
+              "kurz": "Die Staatsanwaltschaft in Lublin bestätigt einen russischen Ch-101, gebaut im vierten Quartal 2026. Nato-Generalsekretär Rutte verspricht, «jeden Zentimeter» Polens zu verteidigen.",
+              "summary": "Bei einem der am Freitag in Südostpolen abgestürzten Flugobjekte handelt es sich laut der ermittelnden Staatsanwaltschaft in Lublin um einen russischen Marschflugkörper vom Typ Ch-101, hergestellt im vierten Quartal dieses Jahres; in Nowy Lipowiec wurden Antriebs- und Steuerungsteile geborgen. Nato-Generalsekretär Mark Rutte sprach in Warschau von einem «gefährlichen Vorfall», die Nato werde «jeden Zentimeter polnischen Territoriums» verteidigen. Am Montag befasst sich der Nordatlantikrat in Brüssel mit der Luftraumverletzung.",
+              "gegenstimme": "Ein Nato-Vertreter dämpfte: Bei der Sitzung am Montag handle es sich um «reguläre Konsultationen unter Verbündeten». Eine Stellungnahme Moskaus enthalten die vorliegenden Berichte nicht; dass Russland Polen gezielt treffen wollte, ist nicht nachgewiesen. Zwischen Tusk und Präsident Karol Nawrocki sind die Beziehungen laut Spiegel zudem äusserst angespannt, was eine gemeinsame Linie Warschaus erschwert.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3"
+                },
+                {
+                  "name": "Nau.ch / dpa",
+                  "url": "https://www.nau.ch/politik/international/rutte-nato-wird-jeden-zentimeter-von-polen-verteidigen-67205268"
+                },
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-bundeswehr-litauen-bahn-statt-konvoi-grand-eagle",
+              "slug": "bundeswehr-litauen-bahn-statt-konvoi-grand-eagle",
+              "title": "Bundeswehr bringt Panzer per Bahn statt im Strassenkonvoi zur Nato-Übung nach Litauen",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🚆",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/b9267c4b-256c-4eb6-aa15-bc2c44f590df_w1200_r1.778_fpx63_fpy37.jpg",
+              "kurz": "Für «Grand Eagle 26» sollten Teile der 10. Panzerdivision über Strassen durch Polen fahren. Laut Bild am Sonntag wollte die Nato Russland nicht unnötig provozieren.",
+              "summary": "Die Bundeswehr hat die Verlegung von Kräften der 10. Panzerdivision zur Nato-Grossübung «Grand Eagle 26» in Litauen kurzfristig geändert: Statt im Konvoi über Strassen durch Polen wurden Panzer und weitere Fahrzeuge per Bahn ins Baltikum gebracht. Das bestätigten Bundeswehrkreise dem Spiegel, zuerst berichtete die Bild am Sonntag. Hintergrund war laut BamS die Sorge, sichtbare deutsche Panzerkolonnen könnten Russland unnötig provozieren; entschieden wurde nach Abstimmung innerhalb der Nato.",
+              "gegenstimme": "Das Verteidigungsministerium stellt die Änderung als Routine dar: Ein Wechsel der Verkehrsträger sei «nichts Ungewöhnliches» und müsse geübt werden, weil er auch im Ernstfall möglich sein müsse. Ob die Rücksichtnahme auf Russland der Abschreckung schadet oder Eskalation vermeidet, wird in den Berichten nicht von einer offiziellen Seite bewertet.",
+              "sources": [
+                {
+                  "name": "Spiegel",
+                  "url": "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce"
+                },
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/videos/video6b02c19c5842ff528b9e3a3b/nato-uebung-grand-eagle-russland-nicht-provozieren-bundeswehr-aufmarschplaene-fuer-grossuebung-in.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-ukraine-dymer-drohne-wohnhaus-vermisste",
+              "slug": "ukraine-dymer-drohne-wohnhaus-vermisste",
+              "title": "Ukraine: Russische Drohne trifft Wohnhaus bei Kiew, bis zu 15 Menschen verschüttet",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🏚️",
+              "edition": "midday",
+              "image": "https://www.sn.at/storage/image/8/9/7/4/1184798_russland-attackierte-wohnhaus-in-der-region-kiew_metadaten_1H0Ir__CsL0WL.jpg",
+              "kurz": "In Dymer nördlich von Kiew ist ein Teil eines fünfstöckigen Wohnhauses eingestürzt. Präsident Selenskyj spricht von 14 Vermissten.",
+              "summary": "Eine russische Drohne hat am Sonntagfrüh in Dymer in der Region Kiew ein fünfstöckiges Wohnhaus getroffen, ein Teil des Gebäudes stürzte ein. Präsident Wolodymyr Selenskyj sprach von 14 Vermissten, der Chef der regionalen Militärverwaltung, Tymur Tkatschenko, von bis zu 15 möglichen Verschütteten; 9 bis 11 Menschen wurden evakuiert, 2 verletzt, darunter ein Teenager.",
+              "gegenstimme": "Moskau stellt die jüngste Angriffswelle als Antwort auf die ukrainischen Schläge gegen die Krim-Brücke dar und bezeichnet diese als rein zivile Verbindung; zu Dymer liegt keine russische Stellungnahme vor. Selenskyj nennt die Angriffe auf die Krim-Brücke seinerseits eine «faire Antwort» auf 109 russische Angriffe auf ukrainische Brücken und verweist auf Bilder von Militärtransporten über die Brücke.",
+              "sources": [
+                {
+                  "name": "Salzburger Nachrichten / APA, Reuters",
+                  "url": "https://www.sn.at/politik/weltpolitik/14-vermisste-nach-einschlag-russischer-drohne-in-region-kiew-art-685386"
+                },
+                {
+                  "name": "Ukrinform",
+                  "url": "https://www.ukrinform.de/rubric-ato/4187349-bis-zu-15-menschen-unter-trummern-in-dymer.html"
+                },
+                {
+                  "name": "BBC (Kontext)",
+                  "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-grossbritannien-burnham-eu-wiedereintritt-may-kritik",
+              "slug": "grossbritannien-burnham-eu-wiedereintritt-may-kritik",
+              "title": "Grossbritannien: Regierung hält EU-Wiedereintritt offen, Theresa May: «Brexit ist erledigt»",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🇬🇧",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4fb1/live/99436a80-e5f0-11f1-b1d8-fd34c88a50a0.jpg",
+              "kurz": "Nach dem EU-UK-Gipfel will Premier Andy Burnham noch engere Bande prüfen, bis hin zum Wiedereintritt. Ex-Premierministerin May, Konservative und Reform UK halten dagegen.",
+              "summary": "Zwei Tage nach dem EU-UK-Gipfel in Brüssel sagte Aussenminister Ed Miliband in der BBC, «alle Optionen» seien auf dem Tisch, auch ein EU-Wiedereintritt; Premier Andy Burnham will in den kommenden Monaten Ideen für noch engere Beziehungen prüfen. Ex-Premierministerin Theresa May sagte der BBC, sie sei «fassungslos»: «Brexit is done. Just accept Brexit and move on.» Die Konservativen kündigen an, die neuen Abkommen zu Lebensmitteln, Handel und Jugendvisa rückgängig zu machen.",
+              "gegenstimme": "Reform-UK-Vize Richard Tice nennt die Abkommen «a really bad deal», es sei «kein Reset, sondern ein Rückwärtsgang»: Die dynamische Übernahme von EU-Regeln belaste Hunderttausende Firmen, die gar nicht in die EU exportieren. Konservative und Reform verweisen darauf, dass über 90 Prozent der britischen Bauern nicht in die EU exportieren. Die Regierung hält dagegen, Exporteure müssten die EU-Regeln schon heute einhalten und dazu Formulare ausfüllen, laut Miliband «das Schlechteste aus beiden Welten».",
+              "sources": [
+                {
+                  "name": "BBC (May)",
+                  "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o"
+                },
+                {
+                  "name": "BBC (Miliband)",
+                  "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o"
+                },
+                {
+                  "name": "The Guardian (Live)",
+                  "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates"
+                },
+                {
+                  "name": "Tages-Anzeiger (Abo)",
+                  "url": "https://www.tagesanzeiger.ch/brexit-burnham-erwaegt-rueckkehr-grossbritanniens-in-die-eu-179638267939"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-berlin-preisler-angriff-propalaestinensische-demo",
+              "slug": "berlin-preisler-angriff-propalaestinensische-demo",
+              "title": "Berlin: FDP-Politikerin Karoline Preisler nach propalästinensischer Demo getreten",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "⚠️",
+              "edition": "midday",
+              "image": "https://images.welt.de/6b01f9745842ff528b9e336d/07fd2972fd36e34aec3f64a928bd9a90/ci16x9-w1200/demo-solidaritaet-mit-palaestina",
+              "kurz": "Die Aktivistin, die seit dem 7. Oktober 2023 gegen Israelhass protestiert, stürzte nach einem Tritt und schlug mit dem Kopf auf. Eine 25-Jährige wurde vorläufig festgenommen.",
+              "summary": "Die Berliner FDP-Politikerin und Aktivistin Karoline Preisler (55) ist am Samstag gegen 17.15 Uhr nach der propalästinensischen Demonstration «Solidarität ist kein Verbrechen – Für ein freies Palästina!» in Berlin-Schöneberg angegriffen worden. Laut Berliner Polizei kam es zunächst zu einem Handgemenge mit einer ehemaligen Versammlungsteilnehmerin, danach trat eine weitere, 25-jährige Teilnehmerin Preisler, die zu Boden ging; die 25-Jährige wurde vorläufig festgenommen.",
+              "gegenstimme": "Die Polizei schildert den Vorfall als Handgemenge, an dem Preisler beteiligt war; eine medizinische Behandlung habe sie vor Ort zunächst abgelehnt. Von den Organisatoren der Demonstration liegt keine Stellungnahme vor. Preisler selbst sieht ein «grosses gesellschaftliches Problem mit politisch motivierter Gewalt».",
+              "sources": [
+                {
+                  "name": "WELT",
+                  "url": "https://www.welt.de/politik/deutschland/article6b01f9745842ff528b9e336d/fdp-politikerin-karoline-preisler-bei-palaestina-demonstration-in-berlin-angegriffen.html"
+                },
+                {
+                  "name": "Berliner Zeitung",
+                  "url": "https://www.berliner-zeitung.de/article/fdp-politikerin-angriff-palaestina-demo-berlin-preisler-10622939"
+                },
+                {
+                  "name": "Deutschlandfunk",
+                  "url": "https://www.deutschlandfunk.de/fdp-politikerin-preisler-bei-propalaestinensischer-demonstration-attackiert-100.html"
+                },
+                {
+                  "name": "Jüdische Allgemeine (Interview)",
+                  "url": "https://www.juedische-allgemeine.de/politik/wir-haben-ein-grosses-problem-mit-politisch-motivierter-gewalt/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-22-suedkorea-bildungsminister-ki-betrug-ruecktritt",
+              "slug": "suedkorea-bildungsminister-ki-betrug-ruecktritt",
+              "title": "Südkorea: Bildungsminister tritt nach KI-Betrugsskandal rund um Uni-Aufnahmeprüfung zurück",
+              "date": "2026-11-22",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg",
+              "kurz": "Ein Spitzenkandidat hatte gestanden, Prüfungsfragen per Minikamera an eine KI geschickt zu haben. Die Regierung reagierte mit Notfallalarmen auf allen Handys im Land.",
+              "summary": "Südkoreas Bildungsminister Choi Kyo-jin (72) ist am Sonntag zurückgetreten, Präsident Lee Jae Myung nahm den Rücktritt an. Choi übernahm die Verantwortung für die kurzfristigen Massnahmen gegen KI-gestützten Betrug bei der nationalen Uni-Aufnahmeprüfung Suneung vom Donnerstag, die rund 500'000 Kandidatinnen und Kandidaten ablegten. Bei 111 von ihnen wurden unerlaubte smarte Geräte gefunden.",
+              "gegenstimme": "Choi betont, die Prüfung sei «ohne grössere Zwischenfälle» verlaufen; er trete wegen der Kritik an mangelhafter Vorbereitung zurück. Lehrergewerkschaften kritisierten die Reaktion der Regierung dagegen als verspätet.",
+              "sources": [
+                {
+                  "name": "BBC",
+                  "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no"
+                },
+                {
+                  "name": "The Guardian",
+                  "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
                 }
               ]
             }
