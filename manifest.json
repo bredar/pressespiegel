@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T06:10:00+01:00",
+  "updated": "2026-11-23T12:10:00+01:00",
   "days": [
     {
       "date": "2026-11-23",
@@ -343,6 +343,295 @@
                 {
                   "name": "WELT: US-Armee plant trotz Gerichtsstopp Sprengung",
                   "url": "https://www.welt.de/politik/ausland/article6b03bc5639a3e8110f0e744c/iowa-us-armee-plant-trotz-gerichtsstopp-sprengung-gefaehrlicher-chemikalien.html"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:10",
+          "articles": [
+            {
+              "id": "2026-11-23-buffat-prozess-renens-haeusliche-gewalt-auftakt",
+              "slug": "buffat-prozess-renens-haeusliche-gewalt-auftakt",
+              "title": "Prozess gegen SVP-Nationalrat Buffat hat begonnen: Anklage wegen häuslicher Gewalt",
+              "date": "2026-11-23",
+              "time": "12:10",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/3c3bddf4d9d1a99afd3c4221cb561fabfce04a4e-92422662.jpg?ver=863ee937&fit=1200,900",
+              "kurz": "In Renens VD steht seit Montagmorgen der Waadtländer SVP-Nationalrat Michaël Buffat wegen mutmasslicher häuslicher Gewalt vor Gericht; auch seine Ehefrau ist angeklagt.",
+              "summary": "Vor dem Strafgericht Broye und Nord vaudois, das in den kantonalen Gerichtssaal von Renens ausweicht, hat am Montag kurz nach 9 Uhr der Prozess gegen den 47-jährigen SVP-Nationalrat Michaël Buffat begonnen. Die Waadtländer Staatsanwaltschaft wirft ihm einfache Körperverletzung, Drohung, Nötigung sowie Freiheitsberaubung und Entführung während der rund achtjährigen Ehe vor. Auch seine Ehefrau ist angeklagt, unter anderem wegen einfacher Körperverletzung und Nötigung; das Urteil ist für den 30. November angekündigt.",
+              "gegenstimme": "Buffat hat sich öffentlich nicht geäussert und will seine Sicht vor Gericht darlegen. Er hat seinerseits Anzeige gegen seine Frau erstattet: Sie soll ihn laut Anklage gezwungen haben, eine Scheidungskonvention zu unterschreiben und 100'000 Franken zu zahlen, sonst gehe sie mit den Gewaltvorwürfen an die Medien. Für beide gilt die Unschuldsvermutung.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Buffat steht wegen häuslicher Gewalt vor Gericht",
+                  "url": "https://www.swissinfo.ch/ger/svp-nationalrat-buffat-steht-wegen-h%c3%a4uslicher-gewalt-vor-gericht/92422675"
+                },
+                {
+                  "name": "RTS: Le procès de Michaël Buffat s'ouvre",
+                  "url": "https://www.rts.ch/info/regions/vaud/2026/article/michael-buffat-le-proces-pour-violences-conjugales-s-ouvre-29423379.html"
+                },
+                {
+                  "name": "SRF: Michaël Buffat wollte «kommandieren, kontrollieren, korrigieren»",
+                  "url": "https://www.srf.ch/news/schweiz/svp-nationalrat-vor-gericht-michael-buffat-wollte-kommandieren-kontrollieren-korrigieren"
+                },
+                {
+                  "name": "Swissinfo/Keystone-ATS: Buffat jugé à Renens",
+                  "url": "https://www.swissinfo.ch/fre/micha%C3%ABl-buffat-jug%C3%A9-lundi-%C3%A0-renens-pour-violences-conjugales/92422313"
+                },
+                {
+                  "name": "Le Temps: Le procès de Michaël Buffat s'ouvre",
+                  "url": "https://www.letemps.ch/suisse/vaud/tu-n-es-pas-seule-victimes-on-vous-croit-le-proces-de-michael-buffat-s-ouvre-en-presence-de-manifestantes"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-bern-syrer-landesverweis-bundesgericht-japanmesser",
+              "slug": "bern-syrer-landesverweis-bundesgericht-japanmesser",
+              "title": "Bundesgericht: Syrer muss nach Messerangriff in Bern für sieben Jahre das Land verlassen",
+              "date": "2026-11-23",
+              "time": "12:10",
+              "category": "regional",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/94cde50effbe2cd0fc3060ce31b67c2950ebc7a6-92423219.jpg?ver=f86e4fac&fit=1200,900",
+              "kurz": "Das Bundesgericht bestätigt die Verurteilung eines Syrers wegen versuchter vorsätzlicher Tötung in Bern und seine siebenjährige Landesverweisung.",
+              "summary": "Das Bundesgericht hat die Beschwerde eines 1999 geborenen Syrers abgewiesen, soweit es darauf eintrat, wie am Montag bekannt wurde (Urteil 6B_205/2025 vom 29. September 2026). Der Mann hatte einen Kontrahenten in einem Gemeinschaftsraum in Bern mit einem Japanmesser an Stirn und Nase verletzt und ihm mit dem Tod gedroht. Damit gelten die Strafe des Berner Obergerichts von dreieinhalb Jahren Freiheitsstrafe plus Geldstrafe und die Landesverweisung von sieben Jahren samt Ausschreibung im Schengener Informationssystem.",
+              "gegenstimme": "Der Verurteilte machte einen Härtefall geltend: Er leidet an paranoider Schizophrenie und kam als 16-Jähriger in die Schweiz. Die erste Instanz hatte die Tat noch als versuchte schwere Körperverletzung gewertet, nur zehn Monate und eine stationäre Therapie verhängt und auf eine Landesverweisung verzichtet. Das Bundesgericht verneinte den Härtefall, weil der Mann weder sozial noch beruflich stark verwurzelt und seine Erkrankung weitgehend abgeklungen sei.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Bundesgericht bestätigt Landesverweisung nach Attacke in Bern",
+                  "url": "https://www.swissinfo.ch/ger/bundesgericht-best%c3%a4tigt-landesverweisung-nach-attacke-in-bern/92423232"
+                },
+                {
+                  "name": "Der Bund: Bundesgericht bestätigt siebenjährigen Landesverweis für Syrer",
+                  "url": "https://www.derbund.ch/bern-syrer-muss-nach-messerattacke-ausreisen-473340664525"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-swissmem-tech-industrie-auftraege-q3-plus-13-prozent",
+              "slug": "swissmem-tech-industrie-auftraege-q3-plus-13-prozent",
+              "title": "Tech-Industrie: Aufträge im dritten Quartal 13 Prozent im Plus, Umsatz hinkt hinterher",
+              "date": "2026-11-23",
+              "time": "12:10",
+              "category": "wirtschaft",
+              "icon": "🏭",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/9facce1df9d978be80fd68e9ec7d9272be29b420-92423028.jpg?ver=fe8791f4&fit=1200,900",
+              "kurz": "Die Schweizer Maschinen-, Elektro- und Metallindustrie verbucht deutlich mehr Bestellungen, doch Umsatz und Auslastung bleiben schwach.",
+              "summary": "Die Bestellungen der Schweizer Tech-Industrie stiegen im dritten Quartal 2026 gegenüber dem Vorjahr um 13,1 Prozent, nach neun Monaten liegt das Plus bei 12,4 Prozent, wie der Verband Swissmem am Montag mitteilte. Der Umsatz wuchs im Quartal aber nur um 1,8 Prozent, die Kapazitätsauslastung liegt mit 82,1 Prozent unter dem langjährigen Mittel von 85,6 Prozent. Die Exporte nahmen um 8,9 Prozent zu und erreichten nach drei Quartalen 52,6 Milliarden Franken.",
+              "gegenstimme": "Swissmem selbst nennt die Erholung «verletzlich»: Profitieren würden vor allem Firmen für Energie- und Rechenzentrumsinfrastruktur, während Werkzeug- und Textilmaschinenhersteller weiter unter Druck stünden. Das Exportplus in die USA von 28,5 Prozent beruht laut Verband stark auf einem Basiseffekt, weil die Ausfuhren im Vorjahresquartal wegen der Zölle eingebrochen waren.",
+              "sources": [
+                {
+                  "name": "Swissmem: Tech-Industrie – Aufwärtstrend mit erheblichen Risiken",
+                  "url": "https://www.swissmem.ch/de/mediencorner/medienmitteilungen/tech-industrie-aufwaertstrend-mit-erheblichen-risiken.html"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Schweizer Industrie mit neuerlichem Wachstum",
+                  "url": "https://www.swissinfo.ch/ger/schweizer-industrie-mit-neuerlichem-wachstum/92423041"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-abb-kauft-ziehl-abegg-2-65-milliarden",
+              "slug": "abb-kauft-ziehl-abegg-2-65-milliarden",
+              "title": "ABB kauft deutschen Ventilatorenhersteller Ziehl-Abegg für 2,65 Milliarden Dollar",
+              "date": "2026-11-23",
+              "time": "12:10",
+              "category": "wirtschaft",
+              "icon": "🌀",
+              "edition": "midday",
+              "image": "https://resources.news.e.abb.com/images/2026/11/22/1/1.ABB_HQ_Zurich_-_Switzerland_1-large.jpg",
+              "kurz": "Der Zürcher Industriekonzern ABB übernimmt den Familienkonzern Ziehl-Abegg aus Künzelsau und baut sein Geschäft mit Kühl- und Lüftungstechnik aus.",
+              "summary": "ABB hat am Montag eine Vereinbarung zur Übernahme von Ziehl-Abegg unterzeichnet, einem Hersteller energieeffizienter EC-Ventilatoren und Elektromotoren mit rund 6300 Beschäftigten. Der Unternehmenswert beträgt 2,65 Milliarden Dollar, der Eigenkapitalwert 2,22 Milliarden. Der Abschluss ist vorbehaltlich behördlicher Genehmigungen für die zweite Jahreshälfte 2027 geplant.",
+              "gegenstimme": "Der Preis ist ambitioniert: ABB zahlt laut eigener Mitteilung das 18,6-Fache des operativen Gewinns (EBITDA) 2026, bei einer Marge von Ziehl-Abegg im mittleren einstelligen Prozentbereich; die Rechnung geht nur auf, wenn die versprochenen Synergien eintreten. Mit dem Verkauf geht zudem ein deutsches Familienunternehmen an einen ausländischen Konzern; ABB betont, Sitz und Standort Deutschland zu erhalten.",
+              "sources": [
+                {
+                  "name": "ABB: Medienmitteilung zur Übernahme von Ziehl-Abegg",
+                  "url": "https://new.abb.com/news/detail/140614/abb-to-acquire-ziehl-abegg-expanding-offering-for-hvac-and-industrial-cooling-applications"
+                },
+                {
+                  "name": "NZZ: ABB will Ziehl-Abegg übernehmen",
+                  "url": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841"
+                },
+                {
+                  "name": "Der Bund: ABB kauft Ziehl-Abegg für 2,65 Milliarden Dollar",
+                  "url": "https://www.derbund.ch/abb-uebernahme-ziehl-abegg-kostet-2-65-milliarden-dollar-815831759561"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-eurozone-pmi-deutschland-vierjahreshoch-frankreich-schrumpft",
+              "slug": "eurozone-pmi-deutschland-vierjahreshoch-frankreich-schrumpft",
+              "title": "Konjunktur: Deutsche Wirtschaft auf Vierjahreshoch, Frankreich schrumpft weiter",
+              "date": "2026-11-23",
+              "time": "12:10",
+              "category": "wirtschaft",
+              "icon": "📈",
+              "edition": "midday",
+              "image": "https://images.handelsblatt.com/7AwPOfFTYatA/cover/2048/1152/0/0/107/107/0.492/0.403/eurozone.jpeg",
+              "kurz": "Die Einkaufsmanagerindizes für November zeigen eine wachsende Kluft zwischen Deutschland und Frankreich, die Eurozone insgesamt wächst moderat.",
+              "summary": "Der Einkaufsmanagerindex für die deutsche Gesamtwirtschaft stieg im November von 53,4 auf 55,0 Punkte, den höchsten Stand seit März 2022; erwartet worden war ein Rückgang auf 53,2. In Frankreich fiel der Index von 46,6 auf 46,2 Punkte und liegt damit den zweiten Monat in Folge tief im Schrumpfungsbereich. Für die gesamte Eurozone blieb der Wert unverändert bei 51,7 Punkten.",
+              "gegenstimme": "Die Daten sind Schnellschätzungen und werden oft revidiert. Analysten weisen auf Gegenwind hin: Die EZB hat die Zinsen dieses Jahr zweimal erhöht, die Märkte erwarten im Dezember einen dritten Schritt, und steigende Anleiherenditen könnten auch Deutschland bremsen. Zudem ist Gas wieder teurer: Der europäische Referenzpreis stieg am Montag wegen einer erwarteten Kältewelle zeitweise um 8,6 Prozent.",
+              "sources": [
+                {
+                  "name": "Handelsblatt: Einkaufsmanagerindex für Deutschland steigt auf Vier-Jahres-Hoch",
+                  "url": "https://www.handelsblatt.com/finanzen/maerkte/einkaufsmanager-hoechster-stand-seit-2022-deutsche-wirtschaft-gewinnt-kraeftig/100271986.html"
+                },
+                {
+                  "name": "XTB: L'Allemagne accélère, la France ralentit",
+                  "url": "https://www.xtb.com/fr/analyses-marches/breaking-l-allemagne-accelere-la-france-ralentit-les-indices-pmi-revelent-un-ecart-qui-se-creuse"
+                },
+                {
+                  "name": "The Guardian: Gas prices in Europe surge as forecast cold snap feeds supply fears",
+                  "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-libyen-selenski-bestaetigt-angriff-merkury-angara",
+              "slug": "libyen-selenski-bestaetigt-angriff-merkury-angara",
+              "title": "Bengasi: Selenski bestätigt ukrainischen Angriff auf russische Schiffe, Kreml verweist auf Armee",
+              "date": "2026-11-23",
+              "time": "12:10",
+              "category": "international",
+              "icon": "⚓",
+              "edition": "midday",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1920%2C1440",
+              "kurz": "Die Ukraine bekennt sich zum Seedrohnenangriff in Libyen: Die Korvette «Merkury» sei versenkt, ein Frachter für Waffentransporte getroffen worden.",
+              "summary": "Präsident Wolodimir Selenski erklärte am Montag, ukrainische Kräfte hätten am Sonntag mit sieben in der Ukraine gebauten Seedrohnen die russische Korvette «Merkury» im Hafen von Bengasi versenkt und einen Kampfhelikopter Ka-27 zerstört. Getroffen worden sei auch der russische Frachter «Angara», der laut Kiew Waffen transportierte. Kremlsprecher Dmitri Peskow sagte, man habe die Erklärung zur Kenntnis genommen, Informationen gebe gegebenenfalls das Verteidigungsministerium.",
+              "gegenstimme": "Ostlibyen weist den Angriff scharf zurück: Saddam Haftar, Vize-Oberbefehlshaber der Truppen im Osten, will das libysche Territorium nicht als «Arena für die Begleichung von Rechnungen» fremder Konflikte missbraucht sehen. Die UNO-Mission UNSMIL verlangt eine unabhängige Untersuchung. Laut Libyen lag die «Merkury» nur zum Tanken auf der Rückreise nach Russland im Hafen; Kiew begründet den Angriff damit, dass der Frachter Waffen transportiert habe, und nennt ihn eine Antwort auf Russlands Krieg.",
+              "sources": [
+                {
+                  "name": "Al Jazeera: Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya"
+                },
+                {
+                  "name": "BBC: Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+                  "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+                },
+                {
+                  "name": "SRF: Das ist über den Angriff auf das russische Kriegsschiff bekannt",
+                  "url": "https://www.srf.ch/news/international/ukraine/drohnenangriffe-vor-libyen-das-ist-ueber-den-angriff-auf-das-russische-kriegsschiff-bekannt"
+                },
+                {
+                  "name": "DW: Ukraine bestätigt Angriffe auf russische Schiffe vor Libyen",
+                  "url": "https://www.dw.com/de/ukraine-best%C3%A4tigt-angriffe-auf-russische-schiffe-vor-libyen/a-80018005"
+                },
+                {
+                  "name": "Kommersant: Kreml verweist Frage zu «Merkury» an Verteidigungsministerium",
+                  "url": "https://www.kommersant.ru/doc/9128027"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-deutschland-bombendrohungen-hunderte-schulen-email",
+              "slug": "deutschland-bombendrohungen-hunderte-schulen-email",
+              "title": "Deutschland: Bombendrohungen per E-Mail an Hunderte Schulen, auch in Konstanz",
+              "date": "2026-11-23",
+              "time": "12:10",
+              "category": "international",
+              "icon": "🏫",
+              "edition": "midday",
+              "image": "https://images.welt.de/6b0416995842ff528b9e54f3/e1b152357b828701665e579f536093a5/ci16x9-w1200/dpa-com-20090101-260223-911-017284-jpg",
+              "kurz": "Allein in Baden-Württemberg erhielten über 450 Schulen am Montagmorgen Drohmails; die Polizei sieht keine konkrete Gefahr.",
+              "summary": "Unbekannte haben am Montagmorgen Hunderten Schulen in Deutschland per E-Mail mit Bomben gedroht. Laut Polizeipräsidium Freiburg gingen die Schreiben landesweit an über 450 Schulen in Baden-Württemberg, darunter auch in Konstanz nahe der Schweizer Grenze; betroffen sind zudem Thüringen, Niedersachsen, Schleswig-Holstein und Sachsen-Anhalt. Die Polizei hat keine Hinweise auf eine konkrete Gefährdung, wer hinter den Mails steckt, ist offen.",
+              "gegenstimme": "Die Behörden reagieren uneinheitlich: Die Thüringer Polizei empfahl, die Schulen nicht zu räumen und den Unterricht normal fortzusetzen, während andernorts Schulen evakuiert oder der Unterricht vorsorglich abgebrochen wurde. Wer dahinter steckt und mit welchem Motiv, ist offen; Vermutungen über Urheber sind bisher durch nichts belegt.",
+              "sources": [
+                {
+                  "name": "Polizeipräsidium Freiburg: Aktuelle Welle von Bombendrohungen an Schulen",
+                  "url": "https://www.presseportal.de/blaulicht/pm/110970/6395901"
+                },
+                {
+                  "name": "WELT: Bombendrohungen an Hunderten Schulen in ganz Deutschland",
+                  "url": "https://www.welt.de/vermischtes/article6b0416995842ff528b9e54f3/bombendrohungen-an-hunderten-schulen-in-ganz-deutschland.html"
+                },
+                {
+                  "name": "Spiegel: Bombendrohungen gegen zahlreiche Schulen",
+                  "url": "https://www.spiegel.de/panorama/justiz/bombendrohungen-gegen-schulen-in-mehreren-bundeslaendern-a-99dcdb25-8015-4e98-90ff-658f963ad00b"
+                },
+                {
+                  "name": "20 Minuten: Bombendrohungen an rund 450 Schulen in Deutschland",
+                  "url": "https://www.20min.ch/story/auch-nahe-schweiz-bombendrohungen-an-rund-450-schulen-in-deutschland-103672424"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-riemann-vermutung-ki-beweis-lean-unabhaengig-geprueft",
+              "slug": "riemann-vermutung-ki-beweis-lean-unabhaengig-geprueft",
+              "title": "Mathematik: KI-gestützter Beweis der Riemann-Vermutung hält ersten unabhängigen Prüfungen stand",
+              "date": "2026-11-23",
+              "time": "12:10",
+              "category": "tech",
+              "icon": "🧮",
+              "edition": "midday",
+              "image": "https://static.scientificamerican.com/dam/asset/64e45f50-d1c5-4a9f-ad48-60b52541abcc/riemann-proven.jpg?m=1795211310.647&w=1200",
+              "kurz": "Ein mit dem KI-Modell Claude erstellter, maschinell prüfbarer Beweis für eines der berühmtesten Probleme der Mathematik gilt Fachleuten als sehr wahrscheinlich korrekt.",
+              "summary": "Der Anthropic-Mathematiker Levent Alpöge hat am 20. November einen mit dem KI-Modell Claude erzeugten Beweis der Riemann-Vermutung in der Beweissprache Lean vorgelegt. Unabhängige Prüfer, darunter Andrew Sutherland vom MIT, haben die 175'187 Module ohne Fehler kompiliert; die Lean- und Mathlib-Gemeinschaften bescheinigen, dass Aussage und Beweis korrekt seien. Die 1859 formulierte Vermutung über die Verteilung der Primzahlen gehört zu den sieben Millennium-Problemen.",
+              "gegenstimme": "Kein Mensch versteht den Beweis bisher im Detail: In natürliche Sprache übertragen wäre er laut ETH-Mathematiker Tim Gehrunger rund 250'000 Seiten lang. Kevin Buzzard (Imperial College) mahnte, zuerst zu prüfen, ob die Lean-Aussage wirklich der Riemann-Vermutung entspricht. Zudem stammt der Beweis von einem Mitarbeiter jener Firma, deren KI-Modell damit wirbt; die Prüfung durch Unabhängige ist deshalb zentral.",
+              "sources": [
+                {
+                  "name": "Scientific American: The AI Riemann hypothesis proof is true, independent mathematicians confirm",
+                  "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+                },
+                {
+                  "name": "MIT (Andrew Sutherland): Verification files for the Lean proof",
+                  "url": "https://math.mit.edu/~drew/grh/"
+                },
+                {
+                  "name": "SRF: KI soll berühmtestes Problem der Mathematik gelöst haben",
+                  "url": "https://www.srf.ch/news/beweis-in-17-millionen-zeilen-ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-android-entwickler-verifizierung-sideloading-weltweit-2027",
+              "slug": "android-entwickler-verifizierung-sideloading-weltweit-2027",
+              "title": "Android: Google schränkt Sideloading ab Januar 2027 weltweit ein",
+              "date": "2026-11-23",
+              "time": "12:10",
+              "category": "tech",
+              "icon": "📱",
+              "edition": "midday",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/1/4/9/android-logos-5199701dfaa6dfe3.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Apps ausserhalb des Play Store lassen sich auf zertifizierten Android-Geräten künftig nur noch einfach installieren, wenn der Entwickler bei Google registriert ist.",
+              "summary": "Google weitet die Pflicht zur Entwickler-Verifizierung ab Januar 2027 schrittweise auf alle Länder aus, wie das Unternehmen im Android-Developers-Blog ankündigte. Danach lassen sich auf zertifizierten Geräten Apps aus anderen Quellen nur noch ohne Umweg installieren, wenn sich der Entwickler mit Ausweis registriert und eine Gebühr von 25 Dollar bezahlt hat. Seit dem 30. September gilt die Regel bereits in Brasilien, Indonesien, Singapur und Thailand.",
+              "gegenstimme": "Entwickler und Nutzer hatten die Pläne seit der Ankündigung im August 2025 heftig kritisiert, weil Google damit die Kontrolle über App-Quellen ausserhalb des eigenen Stores ausweitet. Google begründet die Regel mit dem Schutz vor Malware und betrügerischen Apps und verweist darauf, dass Installationen über einen erweiterten Weg weiter möglich bleiben.",
+              "sources": [
+                {
+                  "name": "Heise: Android – Neue Sideloading-Regeln ab Januar 2027 global",
+                  "url": "https://www.heise.de/news/Ab-Januar-2027-Google-weitet-Android-Entwickler-Verifizierung-weltweit-aus-11534121.html"
+                },
+                {
+                  "name": "Ars Technica: Google will launch Android app verification requirement globally in January 2027",
+                  "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-gl-inet-router-kvm-cloud-luecke-malware",
+              "slug": "gl-inet-router-kvm-cloud-luecke-malware",
+              "title": "GL.iNet: Angreifer installieren über Cloud-Lücke Schadsoftware auf Routern und KVM-Geräten",
+              "date": "2026-11-23",
+              "time": "12:10",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "midday",
+              "image": "https://www.bleepstatic.com/content/hl-images/2026/11/22/routers-kvms.jpg",
+              "kurz": "Der Hersteller beliebter Reise-Router bestätigt einen Einbruch in seinen Fernverwaltungsdienst; Kunden sollen sofort die Sicherheits-Firmware installieren.",
+              "summary": "Der Netzwerkausrüster GL.iNet hat bestätigt, dass Unbekannte eine Schwachstelle in seinem Cloud-Fernverwaltungsdienst ausgenutzt und Schadsoftware auf Routern und KVM-Geräten installiert haben; die Lücke wurde am 20. November entdeckt. Laut Firma ist der Angriffsweg inzwischen geschlossen, bereits infizierte Geräte bleiben aber kompromittiert. Betroffene Nutzer berichten von Hintertüren und Fernzugriffen auf ihre Geräte.",
+              "gegenstimme": "GL.iNet betont, dass neue Infektionen über diesen Weg nicht mehr möglich seien und die Sicherheits-Firmware die Schadsoftware ohne Zurücksetzen entferne. Kritisch ist, dass die Firma bisher weder offenlegt, wie die Angreifer vorgingen, noch wie viele Kunden betroffen sind oder ob Daten abflossen; zudem warnt sie selbst, dass auch nicht aufgeführte Modelle betroffen sein könnten.",
+              "sources": [
+                {
+                  "name": "GL.iNet: Security Notice 2026-11-20",
+                  "url": "https://www.gl-inet.com/blogs/blog/glinet-security-notice-2026-11-20"
+                },
+                {
+                  "name": "BleepingComputer: Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+                  "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"
                 }
               ]
             }
