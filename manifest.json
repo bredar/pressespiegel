@@ -1,6 +1,355 @@
 {
-  "updated": "2026-11-22T17:10:00+01:00",
+  "updated": "2026-11-23T06:10:00+01:00",
   "days": [
+    {
+      "date": "2026-11-23",
+      "editions": {
+        "morning": {
+          "time": "06:10",
+          "articles": [
+            {
+              "id": "2026-11-23-grosser-rat-bern-wintersession-budget-auslaenderstimmrecht",
+              "slug": "grosser-rat-bern-wintersession-budget-auslaenderstimmrecht",
+              "title": "Berner Grosser Rat startet Wintersession: Budget, Sparkurs und Ausländerstimmrecht",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "morning",
+              "kurz": "Ab heute berät das Berner Kantonsparlament während zwei Wochen über Budget und Finanzplan bis 2030 sowie über ein freiwilliges Ausländerstimmrecht für Gemeinden.",
+              "summary": "Der Grosse Rat des Kantons Bern beginnt am Montag, 23. November, seine Wintersession, die bis am 3. Dezember dauert. Im Zentrum stehen das Budget und die Finanzplanung bis 2030: Für 2027 ist ein Überschuss von rund einer Viertelmilliarde Franken budgetiert, ab 2028 sind die Aussichten laut Mitte-rechts deutlich schlechter. Zudem entscheidet das Parlament in erster Lesung, ob Gemeinden das Stimmrecht für Ausländerinnen und Ausländer freiwillig einführen dürfen.",
+              "gegenstimme": "Eine Minderheit der Staatspolitischen Kommission will gar nicht auf die Stimmrechtsvorlage eintreten: Das Stimmrecht solle Schweizerinnen und Schweizern vorbehalten bleiben. Befürwortern auf der linken Seite sind die Kriterien dagegen zu streng (Der Bund). Beim Budget wirft die Ratslinke den Bürgerlichen Schwarzmalerei vor: Eigenkapital und tiefe Verschuldung liessen Spielraum für öffentliche Leistungen statt Steuersenkungen.",
+              "sources": [
+                {
+                  "name": "Kanton Bern: Kommission unterstützt freiwilliges Ausländerstimmrecht",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=4017d753-dd2c-4628-aca1-95d450c6f6ed"
+                },
+                {
+                  "name": "Grosser Rat: Sessionsprogramm Wintersession 2026",
+                  "url": "https://www.gr.be.ch/de/start/sessionen/wintersession-2026/sessionsprogramm.html"
+                },
+                {
+                  "name": "plattformj: Grosser Rat muss über brisante Themen entscheiden",
+                  "url": "https://www.plattformj.ch/artikel/248639/"
+                },
+                {
+                  "name": "Der Bund: Ausländerstimmrecht im Kanton Bern",
+                  "url": "https://www.derbund.ch/auslaenderstimmrecht-kanton-bern-grosser-rat-debattiert-952401314559"
+                },
+                {
+                  "name": "26news: Berner Gemeinden sollen selbst entscheiden",
+                  "url": "https://26news.ch/de/politik/berner-gemeinden-sollen-selbst-ueber-das-stimmrecht-fuer-auslaender-entscheiden-8aba62"
+                },
+                {
+                  "name": "Radio BeO: Wintersession beginnt am Montag",
+                  "url": "https://www.radiobeo.ch/wintersession-im-grossen-rat-beginnt-am-montag/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-ustertag-polizei-weist-28-aktivisten-weg-roesti",
+              "slug": "ustertag-polizei-weist-28-aktivisten-weg-roesti",
+              "title": "Ustertag: Polizei weist 28 Klimaaktivisten vor Rösti-Rede weg",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "schweiz",
+              "icon": "👮",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/c018321461783ea831c5942d7172b350b8e973a4-92421197.jpg?ver=c7d839ea&fit=1200,900",
+              "kurz": "Die Zürcher Kantonspolizei hat am Ustertag eine geplante Störaktion gegen Bundesrat Albert Rösti verhindert und 28 Personen weggewiesen.",
+              "summary": "Die Kantonspolizei Zürich hat am Sonntag in Uster 28 Klimaaktivistinnen und -aktivisten des Drop-Kollektivs und der Juso Oberland weggewiesen, bevor sie die Rede von Bundesrat Albert Rösti (SVP) am traditionellen Ustertag mit Gesang stören konnten. Die Polizei bestätigte die Wegweisungen «wegen möglicher Störaktionen»; rechtliche Folgen haben sie laut einem Sprecher nicht. Rösti hielt seine Rede ungestört.",
+              "gegenstimme": "Die Aktivisten nennen den Einsatz unverhältnismässig: Laut dem Kollektiv standen 50 bis 100 Polizistinnen und Polizisten in Zivil und Uniform im Einsatz, Verdächtige seien gezielt kontrolliert und auf einen Posten gebracht worden. Die Polizei äusserte sich zur Grösse des Aufgebots nicht. Aus Sicht der Organisatoren und vieler Besucher schützte der Einsatz eine Gedenkfeier zur Volksversammlung von 1830, die Rösti selbst als «Meilenstein der Demokratie» würdigte.",
+              "sources": [
+                {
+                  "name": "swissinfo (Keystone-SDA): Polizei stoppt Protest gegen Rösti",
+                  "url": "https://www.swissinfo.ch/ger/polizei-stoppt-protest-gegen-bundesrat-albert-r%c3%b6sti-am-ustertag/92421210"
+                },
+                {
+                  "name": "watson: Polizei stoppt Aktion in Uster",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/972616300-protest-gegen-albert-roesti-polizei-stoppt-aktion-in-uster-zh"
+                },
+                {
+                  "name": "Tages-Anzeiger: Klimaaktivisten mit Kuhglocken abgeblitzt",
+                  "url": "https://www.tagesanzeiger.ch/ustertag-polizei-verhindert-stoerung-von-albert-roesti-190483633781"
+                },
+                {
+                  "name": "Zürcher Oberländer: Rösti am Ustertag",
+                  "url": "https://www.zo-online.ch/gesellschaft/2026-11-22/albert-roesti"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-ki-ausverkauf-asien-kospi-nasdaq-baerenmarkt",
+              "slug": "ki-ausverkauf-asien-kospi-nasdaq-baerenmarkt",
+              "title": "KI-Ausverkauf erfasst Asien: Kospi bricht ein, US-Techwerte im Bärenmarkt",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/a9d7b4.jpg",
+              "kurz": "Nach der schwarzen Woche an der Wall Street fallen am Montag auch Asiens Börsen. Der südkoreanische Kospi verlor zeitweise 5,8 Prozent.",
+              "summary": "Die Sorge um eine KI-Blase drückt am Montag die asiatischen Börsen: Der südkoreanische Kospi mit Samsung und SK Hynix fiel zeitweise um 5,8 Prozent, Hongkong und Shanghai gaben ebenfalls nach. Zuvor hatte der Nasdaq 100 in der vergangenen Woche 10,4 Prozent verloren, der S&P 500 8,6 Prozent; US-Techwerte gelten damit als im Bärenmarkt. Belastend wirken die Krise bei Nvidia und der Machtwechsel im US-Kongress.",
+              "gegenstimme": "SRF-Wirtschaftsredaktion und mehrere Analysten sprechen eher von einer Bereinigung als vom Platzen einer Blase: Betroffen seien vor allem reine KI-Softwarefirmen und Chiphersteller, nicht Konzerne wie Apple oder Microsoft mit breiten Geschäftsmodellen. Der SMI stand noch Anfang letzter Woche auf einem Allzeithoch, der Rückgang erfolgt also auf hohem Niveau. In Taiwan drehte der Taiex am Montag sogar ins Plus.",
+              "sources": [
+                {
+                  "name": "Al Jazeera: Asian stock markets tumble as AI bubble fears mount",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"
+                },
+                {
+                  "name": "Heise: Nvidia unter Druck, US-Tech-Aktien im Bärenmarkt",
+                  "url": "https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html"
+                },
+                {
+                  "name": "SRF: KI-Börsenkorrektur: Hype vorbei oder gesunde Bereinigung?",
+                  "url": "https://www.srf.ch/news/wirtschaft/ki-aktien-im-sinkflug-ki-boersenkorrektur-hype-vorbei-oder-gesunde-bereinigung"
+                },
+                {
+                  "name": "Tages-Anzeiger: KI-Sorgen setzen Asiens Börsen unter Druck",
+                  "url": "https://www.tagesanzeiger.ch/ki-sorgen-setzen-asiens-boersen-weiter-unter-druck-625686216495"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-nvidia-huang-nyt-geheimdienstkontakt-trump-wiedereinstellung",
+              "slug": "nvidia-huang-nyt-geheimdienstkontakt-trump-wiedereinstellung",
+              "title": "Nvidia-Affäre: Bericht über Geheimdienstkontakt von Alice Huang, Trump will Jensen Huang zurück",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "morning",
+              "image": "https://images.welt.de/6b03ac0739a3e8110f0e7395/ecc38899e3f22022b518f45253eba516-master/ci16x9-w1200/dpa-com-261115-935-1744368-jpg",
+              "kurz": "Laut New York Times hatte Alice Huang über ein Jahr Kontakt zu einem Mann des chinesischen Staatssicherheitsministeriums. Trump fordert trotzdem die Rückkehr von Jensen Huang als Nvidia-Chef.",
+              "summary": "Die New York Times berichtet, Alice Huang habe während ihrer Affäre mit dem früheren Nvidia-Chef Jensen Huang vom Frühjahr 2025 bis Herbst 2026 Kontakt zu einem Mitarbeiter des chinesischen Ministeriums für Staatssicherheit gehabt. Jensen Huang war am 12. November zurückgetreten. Präsident Donald Trump forderte am Sonntagabend auf Truth Social den Nvidia-Verwaltungsrat auf, Huang sofort wieder einzusetzen.",
+              "gegenstimme": "Vertreter der Trump-Regierung haben wiederholt erklärt, sie hätten nicht festgestellt, dass Alice Huang für China spioniert habe; Geheimdienstkoordinator Jay Clayton verwies am Sonntag nur auf laufende Ermittlungen des Justizministeriums. Der republikanische Senator John Kennedy hielt die Affäre selbst für zweitrangig, nannte sie aber «den teuersten Sex seit Helena von Troja» und rückte die Frage der Exportkontrollen ins Zentrum.",
+              "sources": [
+                {
+                  "name": "WELT: Trump fordert Wiedereinstellung von Huang",
+                  "url": "https://www.welt.de/politik/ausland/article6b03ac0739a3e8110f0e7395/nvidia-skandal-gut-fuer-die-vereinigten-staaten-trump-fordert-wiedereinstellung-von-huang.html"
+                },
+                {
+                  "name": "The Guardian: Kennedy on Huang affair",
+                  "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy"
+                },
+                {
+                  "name": "Heise: Nvidia gerät weiter unter Druck",
+                  "url": "https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-russland-sputnik-s-atomsatellit-geheimdienste",
+              "slug": "russland-sputnik-s-atomsatellit-geheimdienste",
+              "title": "Geheimdienste: Russland könnte noch im Dezember Atomsatelliten «Sputnik-S» starten",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "international",
+              "icon": "🛰️",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/19037764-a4d1-4db9-8c62-bf6398ab5555/AAABoKS-xV8/AAABnSSvrFg/16x9-big/raketenstart-116.jpg?width=1280",
+              "kurz": "Westliche Dienste, darunter BND und Bundeswehr, rechnen laut WDR, NDR und SZ damit, dass Russland bald einen Satelliten mit Atomsprengkopf ins All bringt.",
+              "summary": "Westliche Geheimdienste und Militärs, darunter der Bundesnachrichtendienst und das Weltraumkommando der Bundeswehr, gehen laut einer Recherche von WDR, NDR und Süddeutscher Zeitung davon aus, dass Russland einen atomar bestückten Satelliten namens «Sputnik-S» starten will. Warnungen von Anfang November nannten ein Zeitfenster von 60 Tagen, die Bundeswehr hält einen Start noch im Dezember für möglich. Der US-Militärgeheimdienst DIA hatte im Oktober öffentlich bestätigt, dass Russland einen solchen Satelliten entwickelt.",
+              "gegenstimme": "Die russische Botschaft weist die Berichte als «unbegründete Unterstellungen» und Teil einer Propagandakampagne zurück; Russland nutze den Weltraum ausschliesslich friedlich. Zudem stützt sich die Recherche auf nicht öffentliche Lagebilder; der öffentliche DIA-Bericht (Stand Juli 2026) sagt nicht, dass ein Sprengkopf bereits gestartet oder getestet wurde. Seit den ersten US-Warnungen 2023 ist der befürchtete Ernstfall bisher ausgeblieben.",
+              "sources": [
+                {
+                  "name": "tagesschau (WDR/NDR/SZ): Russland soll Atomwaffe im Weltraum vorbereiten",
+                  "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html"
+                },
+                {
+                  "name": "DIA: Challenges to Security in Space 2026",
+                  "url": "https://www.dia.mil/Articles/Press-Release/Article/4633953/dia-releases-challenges-to-security-in-space/"
+                },
+                {
+                  "name": "Space.com: Russia is developing a nuclear space weapon",
+                  "url": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds"
+                },
+                {
+                  "name": "tagesschau: Deutschland auf Satelliten-Ausfall nicht vorbereitet",
+                  "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satelliten-ausfall-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-libyen-korvette-merkury-gesunken-ascalon-unsmil",
+              "slug": "libyen-korvette-merkury-gesunken-ascalon-unsmil",
+              "title": "Bengasi: Russische Korvette «Merkury» gesunken, zweites Schiff getroffen, UNO verlangt Untersuchung",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "international",
+              "icon": "⚓",
+              "edition": "morning",
+              "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36f0900c0e04a98985b3b99d902cf06e",
+              "kurz": "Die im Hafen von Bengasi getroffene russische Korvette ist laut Satellitenbildern gesunken. Stunden später traf eine Seedrohne den Frachter Ascalon.",
+              "summary": "Die russische Korvette «Merkury» ist nach dem mutmasslichen Seedrohnenangriff vom Sonntag im libyschen Bengasi gesunken, wie Satellitenbilder zeigen. Laut ostlibyschen Behörden wurden mindestens vier Drohnen abgefangen, zwei trafen das Schiff. Stunden später wurde vor Bengasi der russlandnahe Frachter «Ascalon», der Militärgüter geladen haben soll, ebenfalls von einer Seedrohne getroffen; die UNO-Mission UNSMIL fordert eine sofortige, unabhängige Untersuchung.",
+              "gegenstimme": "Die ostlibysche Regierung von General Haftar spricht von einer Verletzung der Souveränität und will Libyen nicht zum Schauplatz fremder Konflikte werden lassen. Aus ukrainischer und westlicher Sicht ist Bengasi dagegen längst eine russische Militärdrehscheibe für Söldner in Afrika, seit Moskau seine Basen in Syrien verloren hat. Fox News und Analysten werten den Angriff als Ausweitung des Krieges weit über das Schwarze Meer hinaus, mit Risiken für Zivilisten und Hafenbetrieb in Libyen.",
+              "sources": [
+                {
+                  "name": "The Guardian: Russian warship sinks in Benghazi",
+                  "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+                },
+                {
+                  "name": "Fox News: Russian warship sinks off Libya",
+                  "url": "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea"
+                },
+                {
+                  "name": "Spiegel: Uno fordert Untersuchung nach Angriffen vor Bengasi",
+                  "url": "https://www.spiegel.de/ausland/libyen-uno-fordert-untersuchung-nach-angriffen-auf-schiffe-vor-bengasi-a-0843553c-ae70-475c-9d9f-9a64df4122a3"
+                },
+                {
+                  "name": "AP: Sea drones hit Russian warship at Benghazi",
+                  "url": "https://apnews.com/article/libya-russia-vessel-drone-benghazi-59f6f304f3053c69c8cc890138a94d1b"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-iran-trump-bullshit-blockade-tanker-kharg",
+              "slug": "iran-trump-bullshit-blockade-tanker-kharg",
+              "title": "Iran-Krieg: Trump nennt Verhandlungen «Bullshit» und droht Tankern mit Versenkung",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "morning",
+              "image": "https://images.welt.de/6b038c2939a3e8110f0e732f/c9417c485e0f7fa74fc335c934130f9d-master/ci16x9-w1200/2026-11-22t153805z-1765363175-rc2xhoautbgj-rtrmadp-3-usa-trump-congress-jpg",
+              "kurz": "Trump sagt, Iran habe zuletzt so viele Drohnen und Raketen abgefeuert wie seit einem Jahr nicht, und warnt Teheran davor, die US-Seeblockade mit Tankern zu durchbrechen.",
+              "summary": "US-Präsident Donald Trump hat die Verhandlungen mit Iran am Sonntag gegenüber Fox News als «Bullshit» bezeichnet und rechnet mit weiteren Angriffen. Iran habe in der vergangenen Woche mehr Drohnen und Raketen abgefeuert als je zuvor in einem Jahr, alle seien abgewehrt worden. Auf Berichte, Teheran bereite von der Insel Kharg aus einen Konvoi von 14 Tankern gegen die seit April geltende US-Seeblockade vor, sagte Trump: «Sie werden alle auf dem Meeresgrund liegen.»",
+              "gegenstimme": "Teheran setzt nach eigener Darstellung auf Diplomatie: Katarische Vermittler waren am Freitag in Teheran, Aussenminister Abbas Araghchi sagt, eine Öffnung der Strasse von Hormus sei «nicht schwierig», wenn die USA vernünftige Bedingungen akzeptierten (Al Jazeera). Experten halten einen Ausbruch von 14 Tankern für unwahrscheinlich, das Institute for the Study of War warnt aber, ein Versuch könnte einen grösseren Krieg auslösen.",
+              "sources": [
+                {
+                  "name": "WELT: Trump nennt Verhandlungen Bullshit",
+                  "url": "https://www.welt.de/politik/ausland/article6b038c2939a3e8110f0e732f/iran-krieg-trump-nennt-verhandlungen-bullshit-und-rechnet-mit-fortsetzung-der-angriffe.html"
+                },
+                {
+                  "name": "Fox News: Trump dares Iran to breach US blockade",
+                  "url": "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers"
+                },
+                {
+                  "name": "Al Jazeera: Iran says held talks with Qatari mediators",
+                  "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-usa-demokraten-258-sitze-repraesentantenhaus",
+              "slug": "usa-demokraten-258-sitze-repraesentantenhaus",
+              "title": "USA: Demokraten mit grösster Mehrheit im Repräsentantenhaus seit 1992",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "politik",
+              "icon": "🇺🇸",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/0eb750.jpg",
+              "kurz": "Mit einem knappen Sieg in North Carolina kommen die Demokraten auf mindestens 258 der 435 Sitze. Ab Januar kontrollieren sie beide Kammern des Kongresses.",
+              "summary": "Die Demokraten haben bei den US-Zwischenwahlen mindestens 258 der 435 Sitze im Repräsentantenhaus gewonnen, so viele wie zuletzt 1992. Den 258. Sitz holte am Sonntag Chuck Hubbard im 5. Bezirk von North Carolina nach einer Nachzählung mit 330 Stimmen Vorsprung gegen die langjährige Republikanerin Virginia Foxx. Die Republikaner haben mindestens 173 Sitze, vier Rennen sind offen; auch den Senat haben die Demokraten gewonnen.",
+              "gegenstimme": "Die Macht der Demokraten bleibt begrenzt: Trump behält sein Vetorecht, und mit 258 Sitzen verfehlen sie im Repräsentantenhaus die Zweidrittelmehrheit von 290 Sitzen deutlich, die zum Überstimmen eines Vetos nötig wäre. Foxx hatte das knappe Resultat mit einer Nachzählung angefochten. Trump griff nach der Wahl Senatsführer Chuck Schumer an, während im demokratischen Lager selbst über eine neue Führung im Senat diskutiert wird (Al Jazeera).",
+              "sources": [
+                {
+                  "name": "BBC: Democrats win largest House majority since 1992",
+                  "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno"
+                },
+                {
+                  "name": "Al Jazeera: Democrats win largest House majority since 1992",
+                  "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat"
+                },
+                {
+                  "name": "SRF: US-Demokraten sichern sich historische Mehrheit",
+                  "url": "https://www.srf.ch/news/international/usa/us-zwischenwahlen-us-demokraten-sichern-sich-historische-mehrheit-im-kongress"
+                },
+                {
+                  "name": "Spiegel: Demokraten erreichen historisch starke Mehrheit",
+                  "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-demokraten-erreichen-im-repraesentantenhaus-historisch-starke-mehrheit-a-6b42898d-ee86-41e7-a545-8275e28ea40d"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-tuerkei-istanbul-protest-pressefreiheit-medienschliessungen",
+              "slug": "tuerkei-istanbul-protest-pressefreiheit-medienschliessungen",
+              "title": "Türkei: Tausende demonstrieren in Istanbul gegen Schliessung oppositionsnaher Medien",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "international",
+              "icon": "📰",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/682da354-0dfb-470b-8c2f-1984242c15d0/AAABogPvbQw/AAABnSSvrFg/16x9-big/proteste-istanbul-124.jpg?width=1280",
+              "kurz": "Nach der Schliessung mehrerer regierungskritischer Medien sind in Istanbul Tausende für Pressefreiheit auf die Strasse gegangen.",
+              "summary": "In Istanbul haben am Sonntag nach Angaben der Oppositionszeitung Cumhuriyet Tausende Menschen gegen die Schliessung mehrerer oppositionsnaher Medien und für Pressefreiheit demonstriert. Aufgerufen hatte die grösste Oppositionspartei Yeni; der Marsch führte über mehrere Kilometer durch die Stadt. Auf Plakaten stand etwa «Die Presse lässt sich nicht zum Schweigen bringen».",
+              "gegenstimme": "Eine Begründung der Regierung für die Schliessungen enthalten die vorliegenden Berichte nicht, eine Stellungnahme aus Ankara fehlt. Die Teilnehmerzahl stammt von einer Oppositionszeitung, die türkischen Behörden nennen keine Zahlen. Laut der ARD-Korrespondentin kamen vor allem Ältere; viele Junge hätten Angst, sich kritisch zu äussern.",
+              "sources": [
+                {
+                  "name": "tagesschau: Tausende demonstrieren in Istanbul für Pressefreiheit",
+                  "url": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html"
+                },
+                {
+                  "name": "Spiegel: Tausende protestieren gegen Schliessung regierungskritischer Medien",
+                  "url": "https://www.spiegel.de/ausland/tuerkei-tausende-protestieren-in-istanbul-gegen-schliessung-regierungskritischer-medien-a-96b78e92-3227-42f7-9a22-4cd1494db7a8"
+                },
+                {
+                  "name": "France 24: Thousands rally in Istanbul",
+                  "url": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-sudan-khartum-drohnenangriff-uno-gebaeude",
+              "slug": "sudan-khartum-drohnenangriff-uno-gebaeude",
+              "title": "Sudan: Drohnenangriff auf Wohngebiet in Khartum, UNO-Gebäude beschädigt",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "international",
+              "icon": "💥",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/f7c57429-0702-4760-8516-ed70b15b7553_w1200_r1.778_fpx58_fpy43.jpg",
+              "kurz": "Bei einem Drohnenangriff auf ein Wohnquartier in Khartum wurden mehrere Häuser zerstört und ein UNO-Gebäude beschädigt. Die UNO nennt das inakzeptabel.",
+              "summary": "Ein Drohnenangriff hat am Sonntag ein Wohngebiet in der sudanesischen Hauptstadt Khartum getroffen und dabei auch ein Gebäude der Vereinten Nationen beschädigt, wie das UNO-Nothilfebüro OCHA mitteilte. Augenzeugen zufolge wurden mehrere Häuser vollständig zerstört, Angehörige suchten nach Verschütteten. Zu Opfern und zum Angreifer gab es zunächst keine Angaben.",
+              "gegenstimme": "Die UNO kritisiert den Angriff als inakzeptabel, nennt aber keinen Urheber. Khartum steht unter Kontrolle der Armee von Abdel-Fattah al-Burhan; im Krieg zwischen Armee und RSF-Miliz verändern Drohnen laut WELT das Kampfgeschehen, eine Zuordnung ist deshalb ohne Untersuchung nicht möglich. Die sudanesischen Behörden machten zunächst keine Angaben zu Opfern.",
+              "sources": [
+                {
+                  "name": "Spiegel: Uno melden Angriff auf Wohngebiet im Sudan",
+                  "url": "https://www.spiegel.de/ausland/krieg-in-sudan-uno-gebaeude-bei-drohnenangriff-beschaedigt-a-c4b398b9-f7f6-40a0-a92c-3377e276a67a"
+                },
+                {
+                  "name": "WELT: UN-Gebäude bei Drohnenangriff beschädigt",
+                  "url": "https://www.welt.de/politik/article6b03283739a3e8110f0e6ee8/konflikt-im-sudan-inakzeptabel-ungebaeude-bei-drohnenangriff-beschaedigt.html"
+                },
+                {
+                  "name": "UN OCHA Sudan auf X",
+                  "url": "https://x.com/UNOCHA_Sudan"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-iowa-armee-sprengung-bleiazid-trotz-gericht",
+              "slug": "iowa-armee-sprengung-bleiazid-trotz-gericht",
+              "title": "Iowa: US-Armee will instabile Sprengstoffe trotz Gerichtsstopp sprengen",
+              "date": "2026-11-23",
+              "time": "06:10",
+              "category": "international",
+              "icon": "💣",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+              "kurz": "Die US-Armee beruft sich auf eine Notfallklausel, um fünf Tonnen kristallisiertes Bleiazid in Middletown zu sprengen, obwohl ein Berufungsgericht die Bewilligung gestoppt hat.",
+              "summary": "Die US-Armee will rund fünf Tonnen instabiles Bleiazid in der Munitionsfabrik Iowa Army Ammunition Plant in Middletown sprengen, obwohl ein Berufungsgericht am Donnerstag die Bewilligung auf Antrag von Umweltorganisationen ausgesetzt hat. Das Justizministerium beruft sich in einer Eingabe vom Samstag auf eine Notfallregelung: Bei Temperaturen unter minus 1 Grad drohe eine unkontrollierte Explosion. Die Sprengung soll in den nächsten Tagen erfolgen.",
+              "gegenstimme": "Das Iowa Environmental Council, Sierra Club und Earthjustice sprechen von einem Manöver, um einen Gerichtsentscheid zu umgehen; sichere Alternativen wie Transport oder chemische Behandlung seien nicht ernsthaft geprüft worden, Laut WELT drohen bei einer Sprengung Bleivergiftungen. Die Armee hält dagegen, eine kontrollierte Sprengung sei sicherer als jede Alternative, und weil die Bunkertüren bereits entfernt wurden, sei das Material Temperaturschwankungen stärker ausgesetzt.",
+              "sources": [
+                {
+                  "name": "BBC: US Army to detonate explosives in Iowa despite court order",
+                  "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo"
+                },
+                {
+                  "name": "The Guardian: US army to blow up bomb-making chemicals",
+                  "url": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa"
+                },
+                {
+                  "name": "WELT: US-Armee plant trotz Gerichtsstopp Sprengung",
+                  "url": "https://www.welt.de/politik/ausland/article6b03bc5639a3e8110f0e744c/iowa-us-armee-plant-trotz-gerichtsstopp-sprengung-gefaehrlicher-chemikalien.html"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-22",
       "editions": {
