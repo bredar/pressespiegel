@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:10:00+01:00",
+  "updated": "2026-11-23T17:15:00+01:00",
   "days": [
     {
       "date": "2026-11-23",
@@ -632,6 +632,339 @@
                 {
                   "name": "BleepingComputer: Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
                   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:15",
+          "articles": [
+            {
+              "id": "2026-11-23-bundesratswahl-gruene-klopfenstein-broggini-gegen-svp-ticket",
+              "slug": "bundesratswahl-gruene-klopfenstein-broggini-gegen-svp-ticket",
+              "title": "Bundesratswahl: Grüne schicken Delphine Klopfenstein Broggini gegen das SVP-Ticket ins Rennen",
+              "date": "2026-11-23",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/fe144a9b396a02f651a10f25d3d9124ab626fcad-92424038.jpg?ver=ada50600&fit=1200,900",
+              "kurz": "Die Grünen greifen den frei werdenden SVP-Sitz von Guy Parmelin an und nominieren die Genfer Nationalrätin Delphine Klopfenstein Broggini.",
+              "summary": "Die Grünen-Fraktion hat am Montag die 50-jährige Genfer Nationalrätin Delphine Klopfenstein Broggini für die Nachfolge von SVP-Bundesrat Guy Parmelin nominiert; sie setzte sich nach sechs Wahlgängen gegen Léonore Porchet und Sophie Michaud Gigon durch. Die Partei begründet die Kandidatur mit dem SVP-Zweierticket aus Fraktionschef Thomas Aeschi und dem Walliser Nationalrat Michael Graber, das sie eine «Provokation» und einen «Affront gegenüber der Romandie und den Frauen» nennt. Gewählt wird am 9. Dezember von der Vereinigten Bundesversammlung.",
+              "gegenstimme": "SVP-Präsident Marcel Dettling nennt die Grünen «eigentliche Antidemokraten», weil sie die offiziellen Kandidaten nicht einmal anhören wollen; die Konkordanz sichere seit über 50 Jahren die Stabilität. Auch Mitte-Fraktionschefin Yvonne Bürgin und FDP-Co-Präsidentin Susanne Vincenz-Stauffacher halten am Anspruch der wählerstärksten Partei auf zwei Sitze fest, obwohl sie das Ticket kritisieren.",
+              "sources": [
+                {
+                  "name": "SRF: Grüne schicken Sprengkandidatin ins Rennen",
+                  "url": "https://www.srf.ch/news/schweiz/nach-svp-bundesratsticket-gruene-schicken-sprengkandidatin-ins-rennen"
+                },
+                {
+                  "name": "NZZ: Angriff auf das SVP-Ticket – Die Grünen lancieren ihre eigene Kandidatin",
+                  "url": "https://www.nzz.ch/schweiz/doch-noch-eine-genferin-fuer-den-bundesrat-die-gruenen-attackieren-die-svp-und-nominieren-delphine-klopfenstein-broggini-ld.10072234"
+                },
+                {
+                  "name": "20 Minuten: Grüne greifen SVP-Sitz an (mit Reaktionen Dettling, Bürgin, Vincenz-Stauffacher)",
+                  "url": "https://www.20min.ch/story/bundesratswahl-gruene-kandidieren-gegen-svp-bundesratsticket-103672472"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Grüne wollen Alternative zum SVP-Ticket bieten",
+                  "url": "https://www.swissinfo.ch/ger/gr%c3%bcne-wollen-mit-nationalr%c3%a4tin-alternative-zum-svp-ticket-bieten/92424051"
+                },
+                {
+                  "name": "Der Bund: Das ist die Sprengkandidatin der Grünen",
+                  "url": "https://www.derbund.ch/bundesrat-gruene-nominieren-klopfenstein-broggini-691122920303"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-grosser-rat-bern-polizisten-parlament-stellvertretung-vorsorge",
+              "slug": "grosser-rat-bern-polizisten-parlament-stellvertretung-vorsorge",
+              "title": "Berner Grosser Rat: Polizisten dürfen ins Parlament, Stellvertretung kommt vors Volk",
+              "date": "2026-11-23",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/d4eb4c3a3f59708154a407cc76f8972904558a77-92425038.jpg?ver=e40ab41d&fit=1200,900",
+              "kurz": "Am ersten Sessionstag öffnet das Kantonsparlament den Grossen Rat für Polizistinnen und Polizisten ohne Kaderfunktion und regelt Stellvertretung und Vorsorge seiner Mitglieder.",
+              "summary": "Der bernische Grosse Rat hat am Montag mit 87 zu 54 Stimmen bei 9 Enthaltungen beschlossen, dass Angehörige der Kantonspolizei ohne Kaderfunktion bis zu einer bestimmten Gehaltsklasse Grossrätin oder Grossrat werden dürfen; auf eine zweite Lesung wurde verzichtet. Zudem sollen sich Ratsmitglieder während Mutterschafts- oder Vaterschaftsurlaub vertreten lassen können; weil dafür die Verfassung geändert wird, entscheidet das Stimmvolk voraussichtlich am 7. Juni 2027. Neu können die Mitglieder ihre Einkünfte aus dem Mandat auch beruflich vorsorgeversichern.",
+              "gegenstimme": "SP, Grüne und Teile der GLP lehnten die Polizei-Ausnahme als willkürlich ab: Auch anderes Kantonspersonal habe Fachwissen. Das Obergericht hatte in der Vernehmlassung gewarnt, Polizisten verkörperten das staatliche Gewaltmonopol und sollten nicht über Gesetze entscheiden, die sie selbst durchsetzen. Gegen die Stellvertretung stimmten einzig SVP und EDU.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Angehörige der Berner Polizei dürfen künftig in den Grossen Rat",
+                  "url": "https://www.swissinfo.ch/ger/angeh%c3%b6rige-der-berner-polizei-d%c3%bcrfen-k%c3%bcnftig-in-den-grossen-rat/92425051"
+                },
+                {
+                  "name": "Der Bund: Berner Grossrat öffnet Türen für Polizistinnen und Polizisten",
+                  "url": "https://www.derbund.ch/grosser-rat-berner-polizisten-duerfen-ins-parlament-100110452345"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Die Beschlüsse des bernischen Grossen Rates",
+                  "url": "https://www.swissinfo.ch/ger/die-beschl%c3%bcsse-des-bernischen-grossen-rates/92425096"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Nun entscheidet Berner Stimmvolk über Stellvertretung",
+                  "url": "https://www.swissinfo.ch/ger/nun-entscheidet-berner-stimmvolk-%c3%bcber-stellvertretung-im-parlament/92424097"
+                },
+                {
+                  "name": "Grosser Rat Kanton Bern: Antrag zur GRG-Teilrevision 2025.GRPARL.152 (PDF)",
+                  "url": "https://www.rrgr-service.apps.be.ch/api/gr/documents/document/20ebe58478214b018aa899ea6548e319-332/2/2025.GRPARL.152-Antrag_Gesetzgebung-D-645162.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-a1-kirchberg-autofahrer-medizinisches-problem-kollisionen",
+              "slug": "a1-kirchberg-autofahrer-medizinisches-problem-kollisionen",
+              "title": "A1 bei Kirchberg: Autofahrer kollidiert nach medizinischem Problem mit fünf Fahrzeugen",
+              "date": "2026-11-23",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🚓",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/f95e21a0a123cdbff74669b44bfba22da4264541-92424980.jpg?ver=c16b4c82&fit=1200,900",
+              "kurz": "Auf vier Kilometern der A1 Richtung Zürich stiess ein Lenker nach einem medizinischen Problem mit mindestens fünf Fahrzeugen zusammen; verletzt wurde niemand.",
+              "summary": "Am Sonntag zwischen 15 und 15.10 Uhr erlitt ein Autofahrer auf der A1 Richtung Zürich auf Höhe Kirchberg ein medizinisches Problem und verlor die Kontrolle über sein Fahrzeug, wie die Kantonspolizei Bern am Montag mitteilte. Über rund vier Kilometer stiess er mit mindestens fünf Fahrzeugen zusammen und prallte mehrfach in die Leitplanke, bevor er kurz nach der Einfahrt Kriegstetten stillstand. Alle Beteiligten blieben nach aktuellem Stand unverletzt, der Sachschaden ist erheblich.",
+              "gegenstimme": "Dass ein medizinisches Problem die Ursache war, sind laut Polizei «erste Erkenntnisse»; die Ermittlungen zum Unfallhergang laufen. Ob der Lenker eine bekannte Vorerkrankung hatte oder ob Fragen zur Fahreignung bestehen, geht aus den Mitteilungen nicht hervor und sollte nicht vorschnell angenommen werden.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern: A1 / Kirchberg – Mehrere Kollisionen nach medizinischem Problem",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=ec507860-8bfa-4f10-9bc5-65072261b45b"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Kollisionen auf A1 wegen medizinischem Problem eines Autofahrers",
+                  "url": "https://www.swissinfo.ch/ger/kollisionen-auf-a1-wegen-medizinischem-problem-eines-autofahrers/92424993"
+                },
+                {
+                  "name": "Der Bund: Autofahrer kollidiert auf der A1 mit fünf Fahrzeugen",
+                  "url": "https://www.derbund.ch/a1-bei-kirchberg-autofahrer-kollidiert-mit-fuenf-fahrzeugen-995295487209"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-basel-steinschleuder-angriff-polizei-16-jaehriger-identifiziert",
+              "slug": "basel-steinschleuder-angriff-polizei-16-jaehriger-identifiziert",
+              "title": "Basel: 16-jähriger Ukrainer nach Steinschleuder-Angriff auf Polizei identifiziert",
+              "date": "2026-11-23",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🚔",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/9050e0a0ae68d07c347a2704f9a4078ea89e3b53-92424439.jpg?ver=007ed78e&fit=1200,900",
+              "kurz": "Nach der eskalierten Jugenddemo vom Freitag hat die Basler Polizei einen 16-jährigen ukrainischen Staatsangehörigen identifiziert; ein zweiter Täter wird gesucht.",
+              "summary": "Die Kantonspolizei Basel-Stadt hat einen 16-Jährigen identifiziert, der am Freitag nach der Jugenddemonstration auf der Wettsteinbrücke Einsatzkräfte mit einer Steinschleuder angegriffen haben soll. Eine Patrouille erkannte den ukrainischen Staatsangehörigen in der Nacht auf Sonntag am Bahnhof Basel SBB und kontrollierte ihn. Er wird der Jugendanwaltschaft unter anderem wegen versuchter schwerer Körperverletzung rapportiert; nach mindestens einer weiteren beteiligten Person wird gefahndet.",
+              "gegenstimme": "Organisatoren des Jugendstreiks hatten nach der Demo kritisiert, die Kundgebung sei «gewaltvoll aufgelöst» worden und erst durch den Polizeieinsatz mit Wasserwerfer, Gummischrot und Tränengas eskaliert; die grosse Mehrheit habe friedlich demonstriert. Für den 16-Jährigen gilt die Unschuldsvermutung, zudem das Jugendstrafrecht.",
+              "sources": [
+                {
+                  "name": "Kanton Basel-Stadt: Angriff mit Steinschleuder auf Polizei – 16-Jähriger identifiziert",
+                  "url": "https://www.bs.ch/medienmitteilungen/jsd/2026-angriff-mit-steinschleuder-auf-polizei-16-jaehriger-identifiziert"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: 16-Jähriger nach Angriff auf Basler Polizei ermittelt",
+                  "url": "https://www.swissinfo.ch/ger/16-j%c3%a4hriger-nach-angriff-auf-basler-polizei-ermittelt/92424452"
+                },
+                {
+                  "name": "20 Minuten: 16-Jähriger griff Polizei mit Steinschleuder an",
+                  "url": "https://www.20min.ch/story/angriff-auf-einsatzkraefte-16-jaehriger-griff-polizei-mit-steinschleuder-an-identifiziert-103672558"
+                },
+                {
+                  "name": "BaZ: Steinschleuder-Angriff auf Polizei – 16-Jähriger identifiziert",
+                  "url": "https://www.bazonline.ch/basel-16-jaehriger-nach-steinschleuder-angriff-identifiziert-148295600254"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-micasa-ceo-landolt-tritt-zurueck",
+              "slug": "micasa-ceo-landolt-tritt-zurueck",
+              "title": "Kriselnde Ex-Migros-Tochter Micasa: Chef Manuel Landolt tritt nach wenigen Wochen zurück",
+              "date": "2026-11-23",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "🛋️",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/e4b05879217579a8feeb67413a2c9ffa6efa3dfa-92424731.jpg?ver=765fe864&fit=1200,900",
+              "kurz": "Erneuter Wechsel an der Spitze des Möbelhändlers Micasa: CEO Manuel Landolt geht voraussichtlich Ende Februar 2027.",
+              "summary": "Micasa-Chef Manuel Landolt legt sein Amt nieder und verlässt den Möbelhändler voraussichtlich Ende Februar 2027, wie das Unternehmen am Montag mitteilte. Landolt führt die frühere Migros-Tochter erst seit Ende Oktober allein, nachdem der bisherige CEO Philipp Agustoni gegangen war. Seit Anfang Oktober gehört Micasa dem Logistikunternehmer Toni Shala; über die Nachfolge will der Verwaltungsrat später informieren.",
+              "gegenstimme": "Micasa betont, Landolt werde bis zu seinem Austritt die Restrukturierungs- und Stabilisierungsmassnahmen voll begleiten; der Verwaltungsrat dankte ihm für den Aufbau als eigenständiges Unternehmen. Eine Zahlungsunfähigkeit hat das Unternehmen nicht kommuniziert.",
+              "sources": [
+                {
+                  "name": "SRF: Micasa-Chef Manuel Landolt tritt zurück",
+                  "url": "https://www.srf.ch/news/wirtschaft/detailhandel-micasa-chef-manuel-landolt-tritt-zurueck"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Micasa-Chef Manuel Landolt tritt zurück",
+                  "url": "https://www.swissinfo.ch/ger/micasa-chef-manuel-landolt-tritt-zur%c3%bcck/92424744"
+                },
+                {
+                  "name": "Der Bund: CEO von Micasa tritt schon wieder zurück",
+                  "url": "https://www.derbund.ch/micasa-chef-manuel-landolt-tritt-nach-monaten-zurueck-455708741126"
+                },
+                {
+                  "name": "20 Minuten: Kriselnde Ex-Migros-Tochter – Micasa-CEO tritt zurück",
+                  "url": "https://www.20min.ch/story/wieder-fuehrungswechsel-kriselnde-ex-migros-tochter-micasa-ceo-tritt-zurueck-103672574"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-nvidia-jensen-huang-zurueck-als-ceo-aktie-springt",
+              "slug": "nvidia-jensen-huang-zurueck-als-ceo-aktie-springt",
+              "title": "Nvidia holt Jensen Huang als Chef zurück – Aktie springt um rund 30 Prozent",
+              "date": "2026-11-23",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/23/e5ec93df-a78e-4c49-9420-3bf28827ebd7.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3840,2160,x0,y200&wmark=nzz",
+              "kurz": "Elf Tage nach seinem Abgang ist Jensen Huang wieder CEO von Nvidia; der Verwaltungsrat sieht nach Rücksprache mit der US-Regierung kein Sicherheitsrisiko.",
+              "summary": "Der Nvidia-Verwaltungsrat hat Jensen Huang am Montag einstimmig wieder als CEO und Präsident eingesetzt, nachdem er am 12. November nach Berichten über aussereheliche Affären zurückgetreten war, darunter eine mit einer mutmasslich für China spionierenden Geschäftsfrau. Der Verwaltungsrat erklärte, er sei mit Huangs Offenheit zufrieden und habe nach Rücksprache mit «hochrangigen» US-Regierungsvertretern kein Risiko für die nationale Sicherheit festgestellt. Die Nvidia-Aktie stieg im US-Handel um über 30 Prozent; Präsident Trump begrüsste den Entscheid.",
+              "gegenstimme": "Huang kehrt zurück, obwohl Untersuchungen der Börsenaufsicht SEC und des Justizministeriums laufen und Nvidias eigene unabhängige Untersuchung noch nicht abgeschlossen ist. Die NZZ hält fest, dass der Verwaltungsrat wie schon beim Rauswurf vor allem auf Druck von aussen reagiert habe; Präsident Harvey Jones hatte eine Rückkehr noch vergangene Woche ausgeschlossen.",
+              "sources": [
+                {
+                  "name": "NZZ: Nvidia – Jensen Huang kehrt als CEO zurück",
+                  "url": "https://www.nzz.ch/wirtschaft/jensen-huang-kehrt-als-ceo-zu-nvidia-zurueck-ld.10072449"
+                },
+                {
+                  "name": "SRF: Trotz Affären – Nvidia holt Jensen Huang an die Spitze zurück",
+                  "url": "https://www.srf.ch/news/wirtschaft/trotz-affaeren-nvidia-holt-jensen-huang-an-die-spitze-zurueck"
+                },
+                {
+                  "name": "The Guardian: Jensen Huang reinstated as Nvidia CEO",
+                  "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive"
+                },
+                {
+                  "name": "Al Jazeera: Nvidia board reinstates Jensen Huang as CEO",
+                  "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo"
+                },
+                {
+                  "name": "Heise: Nvidia setzt Jensen Huang wieder als CEO ein",
+                  "url": "https://www.heise.de/news/Nvidia-setzt-Jensen-Huang-wieder-als-CEO-ein-11534936.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-crowdstrike-kauft-zscaler-44-milliarden",
+              "slug": "crowdstrike-kauft-zscaler-44-milliarden",
+              "title": "Cybersecurity: CrowdStrike kauft Zscaler für 43,9 Milliarden Dollar",
+              "date": "2026-11-23",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🔐",
+              "edition": "evening",
+              "image": "https://image.cnbcfm.com/api/v1/image/108557320-1795437543594-gettyimages-2306451809-vcg111684299096.jpeg?v=1795437565&w=1920&h=1080",
+              "kurz": "In einem der grössten Cybersecurity-Deals überhaupt übernimmt CrowdStrike den Cloud-Sicherheitsanbieter Zscaler in einem reinen Aktientausch.",
+              "summary": "CrowdStrike übernimmt Zscaler in einer reinen Aktientransaktion, die den Cloud-Sicherheitsanbieter mit rund 43,9 Milliarden Dollar bewertet. Zscaler-Aktionäre erhalten 1,135 CrowdStrike-Aktien pro Titel, was einer Prämie von rund 34 Prozent auf den Schlusskurs vom 20. November entspricht. Der Abschluss ist für die zweite Hälfte von CrowdStrikes Geschäftsjahr 2028 geplant und braucht die Zustimmung der Zscaler-Aktionäre und der Behörden.",
+              "gegenstimme": "Die Börse reagierte skeptisch auf den Preis: Die CrowdStrike-Aktie fiel im frühen Handel um rund 5 bis 8 Prozent, während Zscaler über 20 Prozent zulegte. Grosskunden müssen sich zudem fragen, ob sie Endgeräte- und Netzwerksicherheit bei einem einzigen Anbieter bündeln wollen – CrowdStrike verursachte 2024 mit einem fehlerhaften Update weltweite IT-Ausfälle.",
+              "sources": [
+                {
+                  "name": "AP: Crowdstrike to acquire Zscaler in a $44 billion deal",
+                  "url": "https://apnews.com/article/crowdstrike-zscaler-cybersecurity-ai-artificial-intelligence-cf5a66aaa14f98763eabfb767ff8727c"
+                },
+                {
+                  "name": "CNBC: CrowdStrike to buy Zscaler in $44 billion deal",
+                  "url": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html"
+                },
+                {
+                  "name": "CrowdStrike: Medienmitteilung zur Übernahme von Zscaler",
+                  "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero"
+                },
+                {
+                  "name": "Bloomberg Law: CrowdStrike Reaches $44 Billion Cyber Deal for Zscaler",
+                  "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-eu-22-sanktionspaket-russland-sport-banken-ex-soldaten",
+              "slug": "eu-22-sanktionspaket-russland-sport-banken-ex-soldaten",
+              "title": "EU-Kommission legt 22. Sanktionspaket vor: Russland-Flagge im Sport verboten, 60 Banken aus Swift",
+              "date": "2026-11-23",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🇪🇺",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/82247bef17d0e1e5523ce4ea1acc877785fbf5e8-92425182.jpg?ver=5a69281f&fit=1200,900",
+              "kurz": "Brüssel will russische Sportler unter eigener Flagge aus der EU verbannen, 60 Banken aus Swift ausschliessen und ehemaligen russischen Kämpfern Visa verweigern.",
+              "summary": "Kommissionspräsidentin Ursula von der Leyen hat am Montag das 22. Sanktionspaket gegen Russland vorgeschlagen. Es sieht vor, dass russische Teams und Athleten bei Sportanlässen in der EU nicht mehr unter russischer Flagge antreten dürfen, verbietet offizielle russische Symbole und beschränkt Gelder russischer Sponsoren an europäische Sport- und Kulturverbände. Zudem sollen rund 60 russische Banken mit einem Transaktionsverbot belegt und aus Swift ausgeschlossen, über 70 weitere Schiffe der Schattenflotte gelistet und ehemalige russische Kämpfer mit einem Einreiseverbot belegt werden.",
+              "gegenstimme": "Das IOC vertritt die Linie, dass Sportler «nicht durch das Handeln ihrer Regierungen» eingeschränkt werden dürfen, und hatte im Juli die Suspendierung des russischen Olympischen Komitees vorläufig aufgehoben; ein Cas-Urteil liess Russland zuletzt wieder an Eishockey-Turnieren zu. Sanktionen brauchen Einstimmigkeit aller 27 Mitgliedstaaten, was in früheren Runden zu langen Blockaden führte.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Russland-Flagge soll bei Sportevents in EU verboten werden",
+                  "url": "https://www.swissinfo.ch/ger/russland-flagge-soll-bei-sportevents-in-eu-verboten-werden/92425195"
+                },
+                {
+                  "name": "Anadolu Agency: European Commission presents latest sanctions package against Russia",
+                  "url": "https://www.aa.com.tr/en/europe/european-commission-presents-latest-sanctions-package-against-russia/4134832"
+                },
+                {
+                  "name": "Kyiv Independent: EU proposes package of Russian sports sanctions, visa bans",
+                  "url": "https://kyivindependent.com/eu-proposes-package-of-russian-sports-sanctions-visa-bans-and-a-krygyzstan-crypto-blockade/"
+                },
+                {
+                  "name": "SRF-Newsticker: Russland-Flagge soll bei Sportevents in EU verboten werden",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russland-flagge-soll-bei-sportevents-in-eu-verboten-werden"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-merz-rutte-bukarest-2008-fehler-ukraine-sicherheitsgarantien",
+              "slug": "merz-rutte-bukarest-2008-fehler-ukraine-sicherheitsgarantien",
+              "title": "Merz: Ukraine 2008 nicht in die Nato aufzunehmen, war ein Fehler",
+              "date": "2026-11-23",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "evening",
+              "image": "https://bilder.deutschlandfunk.de/eb/27/76/9d/eb27769d-b1a7-4d7b-ad04-5196a25a80f8/merz-rutte-berlin-100-1920x1080.jpg",
+              "kurz": "Bundeskanzler Merz kritisiert indirekt Merkels Nein zum Nato-Beitritt der Ukraine 2008 und fordert Sicherheitsgarantien nach dem Vorbild von Artikel 5.",
+              "summary": "Nach einem Treffen mit Nato-Generalsekretär Mark Rutte in Berlin sagte Bundeskanzler Friedrich Merz am Montag, es sei ein Fehler gewesen, 2008 auf dem Nato-Gipfel in Bukarest dem US-Vorschlag zur Aufnahme der Ukraine nicht zu folgen; als Nato-Mitglied wäre der Krieg «wahrscheinlich zu verhindern gewesen». Damit spielte er auf die damalige Haltung von Kanzlerin Angela Merkel (CDU) an. Nach einem Waffenstillstand brauche die Ukraine Sicherheitsgarantien, die Artikel 5 des Nato-Vertrags ähnlich seien und einem Beitritt «sehr nahe» kämen.",
+              "gegenstimme": "Deutschland und Frankreich hatten 2008 die Ablehnung mit innenpolitischen Spannungen in der Ukraine und dem Risiko einer Eskalation mit Russland begründet – ein Argument, das Kritiker eines Beitritts bis heute vorbringen. Für Selenski wiederum reichen Garantien nicht: Er forderte am Montag erneut eine reguläre Nato-Mitgliedschaft. Rutte sagte, für einen Beitritt gebe es derzeit keine Einstimmigkeit.",
+              "sources": [
+                {
+                  "name": "WELT: Merz kritisiert Ukraine-Entscheidung von Merkel",
+                  "url": "https://www.welt.de/politik/deutschland/article6b04575739a3e8110f0e8dc5/ukraine-krieg-friedrich-merz-kritisiert-ukraine-entscheidung-von-angela-merkel-und-nennt-atomwaffen-bericht-schockierend.html"
+                },
+                {
+                  "name": "Deutschlandfunk: Merz – Ukraine sollte Nato-ähnliche Sicherheitsgarantien erhalten",
+                  "url": "https://www.deutschlandfunk.de/bundeskanzler-merz-ukraine-sollte-nach-dem-krieg-nato-aehnliche-sicherheitsgarantien-erhalten-100.html"
+                },
+                {
+                  "name": "Handelsblatt: Merz fordert Nato-ähnliche Sicherheitsgarantien für die Ukraine",
+                  "url": "https://www.handelsblatt.com/politik/international/ukraine-merz-fordert-nato-aehnliche-sicherheitsgarantien-fuer-die-ukraine/27982126.html"
+                },
+                {
+                  "name": "SRF-Newsticker: Rutte – keine Einstimmigkeit zu Nato-Beitritt der Ukraine",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russland-flagge-soll-bei-sportevents-in-eu-verboten-werden"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-23-jerusalem-anklage-suizidanschlag-tempelberg-juden",
+              "slug": "jerusalem-anklage-suizidanschlag-tempelberg-juden",
+              "title": "Jerusalem: Pharmaziestudent wegen geplanten Selbstmordanschlags auf Juden am Tempelberg angeklagt",
+              "date": "2026-11-23",
+              "time": "17:15",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740766",
+              "kurz": "Die Staatsanwaltschaft Jerusalem wirft einem 22-jährigen Pharmaziestudenten vor, einen Selbstmordanschlag auf jüdische Besucher des Tempelbergs geplant zu haben.",
+              "summary": "Die Bezirksstaatsanwaltschaft Jerusalem hat am Montag Anklage gegen Abdullah Jamjoum (22) aus Beit Hanina in Ostjerusalem erhoben. Er soll geplant haben, sich auf dem Tempelberg in die Luft zu sprengen, um jüdische Besucher zu töten und weitere Besuche abzuschrecken, und einem Mitstudenten Fachwissen für den Bau eines Sprengsatzes für einen separaten Anschlag geliefert haben. Laut Anklage radikalisierten sich beide in Jihad-Lektionen in einer Moschee in Beit Hanina, in denen zu Selbstmordanschlägen und zur Tötung von Juden aufgerufen worden sei.",
+              "gegenstimme": "Es handelt sich um eine Anklageschrift; Jamjoum ist nicht verurteilt und hat sich öffentlich nicht geäussert, es gilt die Unschuldsvermutung. Der Tempelberg, für Muslime der Haram al-Sharif mit der Al-Aqsa-Moschee, ist einer der umstrittensten Orte der Region; jüdische Besuche dort werden von palästinensischer Seite regelmässig als Provokation kritisiert. Das rechtfertigt keine Gewalt, erklärt aber die Brisanz des Ortes.",
+              "sources": [
+                {
+                  "name": "The Jerusalem Post: Pharmacy student indicted over alleged Temple Mount suicide attack plot",
+                  "url": "https://www.jpost.com/israel-news/crime-in-israel/article-915837"
+                },
+                {
+                  "name": "Ynet News: Pharmacy assistant accused of plotting suicide attack on Jews at Temple Mount",
+                  "url": "https://www.ynetnews.com/article/rywef911k7x"
+                },
+                {
+                  "name": "Times of Israel: East Jerusalem pharmacology student charged",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/east-jerusalem-pharmacology-student-charged-with-planning-suicide-attack-against-jews-on-temple-mount/"
+                },
+                {
+                  "name": "Israel National News (rechtskonservativ): Mosque jihad lessons – Beit Hanina resident charged",
+                  "url": "https://www.israelnationalnews.com/news/436891"
                 }
               ]
             }
