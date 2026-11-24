@@ -1,6 +1,408 @@
 {
-  "updated": "2026-11-23T17:15:00+01:00",
+  "updated": "2026-11-24T06:15:00+01:00",
   "days": [
+    {
+      "date": "2026-11-24",
+      "editions": {
+        "morning": {
+          "time": "06:15",
+          "articles": [
+            {
+              "id": "2026-11-24-nordkorea-droht-schweizer-buero-pjoengjang-sanktionen",
+              "slug": "nordkorea-droht-schweizer-buero-pjoengjang-sanktionen",
+              "title": "Nordkorea droht mit Schliessung des Schweizer Büros in Pjöngjang",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "🏢",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/59bd0e.jpg",
+              "kurz": "Kim Yo Jong stellt das erst Ende Oktober wiedereröffnete Schweizer Diplomatenbüro in Frage – als Reaktion auf Sanktionen gegen ein Kinderlager.",
+              "summary": "Kim Yo Jong, die Schwester von Machthaber Kim Jong Un, will dem nordkoreanischen Aussenministerium empfehlen, einen Abzug des Schweizer diplomatischen Büros aus Pjöngjang zu prüfen; das meldete die Staatsagentur KCNA am Dienstag. Anlass sind Schweizer Sanktionen gegen das staatliche Kinderlager Songdowon, dem die EU vorwirft, an der Verbringung ukrainischer Kinder aus besetzten Gebieten beteiligt zu sein. Das Büro war erst Ende Oktober im Beisein von Bundesrat Ignazio Cassis wiedereröffnet worden.",
+              "gegenstimme": "Kim Yo Jong nennt die Sanktionen einen Angriff auf die Souveränität Nordkoreas; das Lager biete Kindern Kultur und Erholung, die Schweiz sei «unzuverlässig», ihre Taten stimmten nicht mit ihren Worten überein. Die Gegenseite verweist auf den EU-Rat, wonach das Lager Teil organisierter Programme zur prorussischen Beeinflussung verschleppter ukrainischer Kinder ist.",
+              "sources": [
+                {
+                  "name": "SRF: Kim Yo Jong droht mit Schliessung von Schweizer Büro",
+                  "url": "https://www.srf.ch/news/international/schweizer-buero-in-nordkorea-kim-yo-jong-droht-mit-schliessung-von-diplomatischem-buero"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Nordkorea droht mit Schliessung von Schweizer Büro",
+                  "url": "https://www.swissinfo.ch/ger/nordkorea-droht-mit-schliessung-von-schweizer-b%c3%bcro/92426273"
+                },
+                {
+                  "name": "NZZ (Reuters/sda): Nordkorea droht, Schweizer Büro zu schliessen",
+                  "url": "https://www.nzz.ch/international/nordkorea-droht-mit-der-schliessung-des-erst-kuerzlich-wiedereroeffneten-schweizer-bueros-ld.10072867"
+                },
+                {
+                  "name": "Rat der EU: Sanktionen wegen Deportation ukrainischer Kinder (28.9.2026)",
+                  "url": "https://www.consilium.europa.eu/de/press/press-releases/2026/09/28/eu-sanctions-10-individuals-and-17-entities-over-unlawful-deportation-of-ukrainian-children-to-russia/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-ubs-wak-n-eigenkapital-entscheid-heute",
+              "slug": "ubs-wak-n-eigenkapital-entscheid-heute",
+              "title": "UBS-Regulierung: Nationalratskommission entscheidet heute über Eigenkapital",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/10/27/8773e49b-f664-4544-83ef-c53f9568bb11.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7505,4222,x384,y84&wmark=nzz",
+              "kurz": "Die Wirtschaftskommission des Nationalrats schliesst heute ihre Detailberatung zur Eigenkapitalpflicht der UBS ab – 100, 90 oder 75 Prozent stehen zur Wahl.",
+              "summary": "Die Wirtschaftskommission des Nationalrats (WAK-N) berät am Montag und Dienstag im Detail, wie stark die UBS ihre ausländischen Tochtergesellschaften mit hartem Kernkapital unterlegen muss. Der Bundesrat will 100 Prozent, der Ständerat hat im September 90 Prozent beschlossen; eine Gruppe von SVP- und FDP-Politikern schlägt 75 Prozent vor. Der Nationalrat soll das Geschäft in der Wintersession behandeln.",
+              "gegenstimme": "Die UBS lehnt sowohl die 100 als auch die 90 Prozent ab und warnt vor Nachteilen gegenüber amerikanischen und europäischen Konkurrenten. Auf der anderen Seite droht die SP mit dem Referendum, falls das Parlament die Vorlage zu stark abschwächt, und fordert zusätzlich eine Begrenzung der Boni.",
+              "sources": [
+                {
+                  "name": "NZZ: Showdown um die UBS",
+                  "url": "https://www.nzz.ch/schweiz/showdown-um-die-ubs-ld.10072336"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Unterschiedliche Auffassungen zu UBS-Eigenkapitalvorschriften",
+                  "url": "https://www.swissinfo.ch/ger/unterschiedliche-auffassungen-zu-ubs-eigenkapitalvorschriften/92287514"
+                },
+                {
+                  "name": "Parlament.ch: WAK-N steigt in die Beratung ein (28.10.2026)",
+                  "url": "https://www.parlament.ch/press-releases/Pages/mm-wak-n-2026-10-28.aspx?lang=1047"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-wallis-woelfin-f168-abschuss-rechtswidrig-bafu",
+              "slug": "wallis-woelfin-f168-abschuss-rechtswidrig-bafu",
+              "title": "Bafu: Abschuss einer säugenden Wölfin im Wallis war rechtswidrig",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "🐺",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/2037530.jpg",
+              "kurz": "Die Walliser Wildhut schoss 2025 eine Wölfin, die Junge säugte. Der Bund stuft das als rechtswidrig ein – Folgen hat es keine.",
+              "summary": "Die Walliser Wildhut hat am 4. August 2025 im Rappental die Wölfin F168 als Einzelwolf geschossen; laut Obduktion der Universität Bern hatte sie im Mai Junge geworfen und gesäugt. Das Bundesamt für Umwelt (Bafu) hält in einer Stellungnahme vom Montag fest, der Abschuss sei rechtswidrig gewesen, weil damit ein neu gebildetes Rudel aufgelöst worden sei. Rechtliche Konsequenzen gibt es nicht, weil die 30-tägige Beschwerdefrist abgelaufen war.",
+              "gegenstimme": "Der Kanton Wallis bestreitet die Rechtswidrigkeit: Laut Nicolas Bourquin, Chef der Walliser Jagddienststelle, waren die Kriterien für einen Einzelabschuss erfüllt, es habe vorher keine Hinweise auf ein Rudel gegeben, die Welpen seien erst danach gesichtet worden. Die Verbindung zu den Welpen nennt der Kanton eine unbewiesene Vermutung.",
+              "sources": [
+                {
+                  "name": "SRF: Bund sagt, Abschuss von Wölfin im Wallis war rechtswidrig",
+                  "url": "https://www.srf.ch/news/schweiz/umgang-mit-woelfen-walliser-wildhut-schoss-illegal-woelfin-die-junge-saeugte"
+                },
+                {
+                  "name": "Blick: Bafu rügt rechtswidrigen Abschuss von Wölfin",
+                  "url": "https://www.blick.ch/schweiz/wallis-bafu-ruegt-rechtswidrigen-abschuss-von-woelfin/r3cwplh"
+                },
+                {
+                  "name": "Watson: Bund rügt Tötung einer Wolfsmutter",
+                  "url": "https://www.watson.ch/schweiz/tier/268314460-wolfsabschuss-im-wallis-bund-ruegt-toetung-einer-wolfsmutter"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-bundesgericht-medikamentenvergleiche-gesundheitstipp-swissmedic",
+              "slug": "bundesgericht-medikamentenvergleiche-gesundheitstipp-swissmedic",
+              "title": "Bundesgericht: Medien dürfen rezeptpflichtige Medikamente vergleichen und bewerten",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/e29bad.jpg",
+              "kurz": "Swissmedic hatte einen kritischen «Gesundheitstipp»-Artikel über MS-Medikamente als verbotene Werbung eingestuft. Das Bundesgericht widerspricht.",
+              "summary": "Das Bundesgericht hat ein Verbot von Swissmedic gegen einen Artikel des Konsumentenmagazins «Gesundheitstipp» aufgehoben, der 2021 verschreibungspflichtige Medikamente gegen Multiple Sklerose nach Nebenwirkungen und Kosten verglichen und als empfehlenswert oder nicht bewertet hatte. Ein unabhängiger redaktioneller Beitrag ohne Absatzinteresse sei keine Arzneimittelwerbung im Sinne des Heilmittelgesetzes, hält das am Montag veröffentlichte Urteil fest. Die Vorinstanzen hätten Bundesrecht verletzt.",
+              "gegenstimme": "Swissmedic hatte argumentiert, der Artikel sei unzulässige Publikumswerbung für rezeptpflichtige Arzneimittel und zudem unsachlich, unvollständig und damit irreführend. Das Bundesverwaltungsgericht hatte diese Sicht 2024 gestützt. Swissmedic begrüsst nun die Klärung und prüft die Folgen für die Vollzugspraxis.",
+              "sources": [
+                {
+                  "name": "SRF: Bundesgericht erlaubt Medikamentenvergleiche in den Medien",
+                  "url": "https://www.srf.ch/news/schweiz/urteil-zu-arzneimittelbericht-bundesgericht-erlaubt-medikamentenvergleiche-in-den-medien"
+                },
+                {
+                  "name": "persoenlich.com: Gesundheitstipp gewinnt gegen Swissmedic",
+                  "url": "https://www.persoenlich.com/medien/gesundheitstipp-gewinnt-gegen-swissmedic"
+                },
+                {
+                  "name": "zentralplus: BGer gibt Medien Recht",
+                  "url": "https://www.zentralplus.ch/news/medikamente-bger-gibt-medien-recht-2913352/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-megaspeed-schwarze-liste-usa-nvidia-affaere",
+              "slug": "megaspeed-schwarze-liste-usa-nvidia-affaere",
+              "title": "Nvidia-Affäre: USA setzen Megaspeed und sechs weitere Firmen auf schwarze Liste",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+              "kurz": "Wenige Stunden nach Jensen Huangs Rückkehr an die Nvidia-Spitze sperrt Washington die Firma, bei der seine mutmasslich für China spionierende Ex-Geliebte arbeitete.",
+              "summary": "Das US-Handelsministerium hat Megaspeed aus Singapur, ihre malaysische Tochter Speedmatrix und fünf weitere südostasiatische Firmen auf die Entity List gesetzt. Sie dürfen ohne Sondergenehmigung keine KI-Chips von Nvidia mehr kaufen; begründet wird das mit einem «erheblichen Risiko» der Weitergabe an unberechtigte Nutzer. Bei Megaspeed arbeitete Alice Huang, mit der Nvidia-Chef Jensen Huang eine Affäre hatte und die US-Dienste als Quelle Pekings einstufen.",
+              "gegenstimme": "Megaspeed bestreitet, Nvidia-Chips unter Umgehung der Exportverbote nach China geliefert zu haben. US-Abgeordnete kritisieren derweil Huangs Comeback und die Rolle von Präsident Trump, der den Nvidia-Verwaltungsrat nach eigenen Angaben überzeugt hat.",
+              "sources": [
+                {
+                  "name": "Der Bund: USA setzen Megaspeed auf schwarze Liste",
+                  "url": "https://www.derbund.ch/nvidia-usa-setzen-megaspeed-auf-schwarze-liste-536810043039"
+                },
+                {
+                  "name": "BBC: US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+                  "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
+                },
+                {
+                  "name": "Al Jazeera: US adds Megaspeed to trade blacklist",
+                  "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list"
+                },
+                {
+                  "name": "heise: USA verhängen Handelsverbot über Megaspeed",
+                  "url": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-grok-klagen-virginia-oregon-spacex-sexualisierte-bilder",
+              "slug": "grok-klagen-virginia-oregon-spacex-sexualisierte-bilder",
+              "title": "Grok: Virginia und Oregon verklagen Musks SpaceX wegen sexualisierter KI-Bilder",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-18T142725Z_1699232240_RC2PVCAIIX5G_RTRMADP_3_XAI-GROK-EU-1774548597.jpg?resize=1920%2C1440",
+              "kurz": "Zwei US-Bundesstaaten werfen SpaceX vor, den KI-Chatbot Grok bewusst ohne Schutzmechanismen für Nacktbilder und Missbrauchsdarstellungen vermarktet zu haben.",
+              "summary": "Die Generalstaatsanwälte von Virginia und Oregon haben am Montag separate Klagen gegen SpaceX Super Intelligence (früher xAI), X Corp. und SpaceX eingereicht. Sie werfen den Firmen vor, mit dem «Spicy Mode» von Grok branchenübliche Schutzmechanismen entfernt zu haben, sodass Nutzer sexualisierte Bilder realer Personen ohne deren Zustimmung und Darstellungen sexuellen Kindesmissbrauchs erzeugen konnten. Gestützt werden die Klagen auf Konsumentenschutzgesetze.",
+              "gegenstimme": "Das Unternehmen erklärt, Darstellungen sexuellen Kindesmissbrauchs und nicht einvernehmliche Nacktbilder realer Personen hätten «keinen Platz auf X oder in Grok»; es passe seine Schutzmechanismen laufend an neue Umgehungstaktiken an. Ein Gericht hat über die Vorwürfe noch nicht entschieden.",
+              "sources": [
+                {
+                  "name": "Al Jazeera: US states sue SpaceX over Grok",
+                  "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material"
+                },
+                {
+                  "name": "NPR: Virginia, Oregon sue SpaceXSI over deepfake images",
+                  "url": "https://www.npr.org/2026/11/23/nx-s1-6049124/virginia-oregon-sue-elon-musks-spacexsi-over-deepfake-nonconsensual-sexual-images"
+                },
+                {
+                  "name": "Generalstaatsanwalt Virginia: Medienmitteilung zur Klage",
+                  "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"
+                },
+                {
+                  "name": "Oregon DOJ: Klageschrift (PDF)",
+                  "url": "https://www.doj.state.or.us/wp-content/uploads/2026/11/ODOJ-Grok-Complaint-Final-Submitted-2026-11-22.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-amazon-kauft-decart-technologie-trainium",
+              "slug": "amazon-kauft-decart-technologie-trainium",
+              "title": "Amazon übernimmt Technologie und Team des israelischen KI-Start-ups Decart",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "🧠",
+              "edition": "morning",
+              "image": "https://image.cnbcfm.com/api/v1/image/108217403-1769610896097-108217403-1761591014974-gettyimages-2233522650-298621final.jpg?v=1773149071&w=1920&h=1080",
+              "kurz": "Für berichtete 7,5 Milliarden Dollar sichert sich Amazon Software, die KI-Modelle auf verschiedenen Chips schneller laufen lässt – ein Baustein für die eigenen Trainium-Chips.",
+              "summary": "Amazon kauft die Optimierungstechnologie des israelischen KI-Start-ups Decart und stellt dessen drei Gründer sowie einen Grossteil der Forschenden und Ingenieure ein, wie der Konzern am Montag mitteilte. Die Software soll die Leistung der hauseigenen Trainium-Chips und die Geschwindigkeit bei der Ausführung von KI-Modellen verbessern. Medien beziffern den Wert des Deals auf 7,5 Milliarden Dollar.",
+              "gegenstimme": "Kritiker solcher Deals verweisen darauf, dass grosse Techkonzerne mit dem Kauf von Technologie und Personal statt ganzer Firmen eine vertiefte Fusionskontrolle umgehen können. Amazon betont dagegen den Kundennutzen: KI-Modelle sollen schneller und günstiger trainiert und betrieben werden.",
+              "sources": [
+                {
+                  "name": "Amazon: Amazon to purchase Decart AI optimization technology",
+                  "url": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization"
+                },
+                {
+                  "name": "CNBC: Amazon to acquire AI startup Decart chip software",
+                  "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
+                },
+                {
+                  "name": "TechCrunch: Amazon snaps up Decart tech for 7.5B",
+                  "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+                },
+                {
+                  "name": "Golem: Amazon kauft KI-Chip-Optimierung von Decart",
+                  "url": "https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-guterres-globaler-ki-pakt-innert-eines-jahres",
+              "slug": "guterres-globaler-ki-pakt-innert-eines-jahres",
+              "title": "UNO-Generalsekretär Guterres fordert globalen KI-Rahmen innert eines Jahres",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "tech",
+              "icon": "🌐",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/7dec4123-bd75-4737-bdb5-b240637b2b42_w1200_r1.778_fpx63_fpy49.99.jpg",
+              "kurz": "An einem KI-Sicherheitsgipfel auf Barbados verlangt António Guterres gemeinsame Regeln und eine unabhängige Aufsicht für künstliche Intelligenz.",
+              "summary": "UNO-Generalsekretär António Guterres hat die Mitgliedstaaten an einem KI-Sicherheitsgipfel in Bridgetown auf Barbados aufgerufen, innerhalb eines Jahres einen globalen, prinzipienbasierten Rahmen für das Management von KI-Risiken zu schaffen. Dieser solle von einer «unabhängigen und glaubwürdigen Aufsicht» begleitet werden. Als erste Schritte nannte er gemeinsame Sicherheitsstandards, einheitliche Prüfverfahren für KI-Systeme und Mindestanforderungen an die Kontrolle.",
+              "gegenstimme": "Die Chancen auf eine Einigung gelten als gering: Vor allem der technologische Machtkampf zwischen den USA und China erschwert gemeinsame Regeln. Kritiker globaler KI-Regulierung warnen zudem, internationale Vorgaben könnten Innovation bremsen und demokratischen Staaten im Wettbewerb mit autoritären Regimen schaden.",
+              "sources": [
+                {
+                  "name": "Spiegel: Guterres fordert globalen Pakt gegen KI-Risiken",
+                  "url": "https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-antonio-guterres-fordert-globalen-pakt-gegen-ki-risiken-a-06273369-59a6-42fc-a9b6-91338e0f4122"
+                },
+                {
+                  "name": "Al Jazeera: UN chief calls for world to agree on AI oversight within a year",
+                  "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-iran-saengerin-parastu-ahmadi-74-peitschenhiebe",
+              "slug": "iran-saengerin-parastu-ahmadi-74-peitschenhiebe",
+              "title": "Iran: Sängerin Parastu Ahmadi wegen Konzert ohne Kopftuch ausgepeitscht",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "international",
+              "icon": "⛓️",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
+              "kurz": "Je 74 Peitschenhiebe für die 29-Jährige und vier Mitglieder ihres Teams: Iran hat das Urteil wegen eines Youtube-Konzerts ohne Hijab vollstreckt.",
+              "summary": "Die iranische Sängerin Parastu Ahmadi (29), drei Musiker und ein Produzent haben am Montag in Qom je 74 Peitschenhiebe erhalten, wie ihr Anwalt Mostafa Nili dem Portal Emtedad und ein Mitglied des Verteidigerteams der BBC sagte. Ahmadi hatte im Dezember 2024 ohne Kopftuch und in ärmellosem Kleid ein Konzert aus einer Karawanserei auf Youtube übertragen. Öffentliche Gesangsauftritte von Frauen sind in Iran verboten.",
+              "gegenstimme": "Die iranische Justiz stützt sich auf geltendes Recht: Ein Strafgericht in Qom sprach die Beteiligten im Juni wegen «Verletzung des öffentlichen Anstands» durch Veröffentlichung «obszönen Materials» schuldig, ein Berufungsgericht bestätigte das im September. Die Verurteilten hatten die Vorwürfe bestritten.",
+              "sources": [
+                {
+                  "name": "BBC: Iranian authorities flog singer who performed without hijab",
+                  "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o"
+                },
+                {
+                  "name": "Al Jazeera: Iran flogs singer Parastoo Ahmadi",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf"
+                },
+                {
+                  "name": "Spiegel: Iran lässt Sängerin nach Urteil auspeitschen",
+                  "url": "https://www.spiegel.de/ausland/iran-saengerin-parastu-ahmadi-wegen-verstoss-gegen-kopftuchpflicht-ausgepeitscht-a-aeda6a6e-0556-4654-83fc-4e5fa7e97e2e"
+                },
+                {
+                  "name": "20 Minuten: Parastu Ahmadi wegen Youtube-Konzert ausgepeitscht",
+                  "url": "https://www.20min.ch/story/parastu-ahmadi-iranische-saengerin-wegen-youtube-konzert-ausgepeitscht-103672517"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-hormus-drei-tanker-minen-usa-sanktionen-schattenbanken",
+              "slug": "hormus-drei-tanker-minen-usa-sanktionen-schattenbanken",
+              "title": "Hormus: Iran meldet drei brennende Tanker nach Minentreffern, USA verschärfen Sanktionen",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261123__D8BZ7G9__v2__HighRes__IranUsIsraelWar-1795471267.jpg?resize=1920%2C1440",
+              "kurz": "Laut Revolutionsgarden sind drei Öltanker in der Strasse von Hormus auf Seeminen gelaufen. Washington zielt derweil auf Irans Schattenbanken.",
+              "summary": "Die Marine der iranischen Revolutionsgarden meldete am Montag, drei Öltanker, die gegen Seefahrtsbeschränkungen verstossen hätten, seien in der Strasse von Hormus auf Minen gelaufen und nach Explosionen in Brand geraten; zwei davon unter US-Luftbegleitung. Namen und Flaggen der Schiffe wurden nicht genannt. Am selben Tag sanktionierte das US-Finanzministerium mehr als zwei Dutzend iranische Wechselstuben, Tarnfirmen und Verantwortliche, um Irans «Schattenbankennetzwerke» zu treffen.",
+              "gegenstimme": "Iran stellt die Vorfälle als Folge missachteter Warnungen dar: Schiffe, die nicht genehmigte Routen nähmen, würden als «Kooperation mit den Invasoren» behandelt. Katars Premierminister warnt gegenüber Al Jazeera, die Region verkrafte keine weitere Eskalation zwischen den USA und Iran, und versucht, Gespräche wiederzubeleben.",
+              "sources": [
+                {
+                  "name": "Al Jazeera: Iran says three ships catch fire after hitting Hormuz mines",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines"
+                },
+                {
+                  "name": "Iran International: IRGC Navy says three tankers hit mines",
+                  "url": "https://www.iranintl.com/en/202611232940"
+                },
+                {
+                  "name": "Jerusalem Post: IRGC says three tankers hit mines",
+                  "url": "https://www.jpost.com/middle-east/iran-news/article-915899"
+                },
+                {
+                  "name": "Al Jazeera: US escalates sanctions on Iran, targets shadow banking",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks"
+                },
+                {
+                  "name": "SRF: USA verhängen Sanktionen gegen Irans Schattenbankensystem",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-usa-verhaengen-sanktionen-gegen-irans-schattenbankensystem"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-medwedew-praeventiver-atomschlag-artikel",
+              "slug": "medwedew-praeventiver-atomschlag-artikel",
+              "title": "Medwedew: Russland könnte «präventiven» Atomschlag führen",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "international",
+              "icon": "☢️",
+              "edition": "morning",
+              "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/dmitry-medevev-photo-1.jpg",
+              "kurz": "Der Vizechef des russischen Sicherheitsrats nennt in einem Fachartikel Bedingungen, unter denen Moskau zuerst Atomwaffen einsetzen könnte.",
+              "summary": "Dmitri Medwedew, stellvertretender Vorsitzender des russischen Sicherheitsrats, schreibt in einem am Montag im «Moskauer Journal für Völkerrecht» veröffentlichten Artikel, der massive Einsatz nichtnuklearer Waffen mit katastrophalen Folgen könne einen «präventiven» russischen Atomschlag rechtfertigen. Auch geheime westliche Atomwaffenlieferungen an Kiew würden einen solchen Schlag «legitim» machen. Die Staatsagentur Tass verbreitete Auszüge.",
+              "gegenstimme": "Medwedew argumentiert, Russland sei unter bestimmten Umständen sogar «verpflichtet», Atomwaffen einzusetzen, und wirft der Ukraine und Nato-Staaten vor, Schwellen bereits überschritten zu haben. Westliche Regierungen haben frühere Drohungen Medwedews als Einschüchterungsversuche zurückgewiesen; Belege für Atomwaffenlieferungen an die Ukraine gibt es keine.",
+              "sources": [
+                {
+                  "name": "TASS: Medvedev cites grounds for preemptive nuclear strike",
+                  "url": "https://tass.com/politics/2223221"
+                },
+                {
+                  "name": "Fox News: Russia warns of preventive nuclear attack",
+                  "url": "https://www.foxnews.com/world/russia-warns-preventive-nuclear-attack-medvedev-claims-ukraine-nato-crossed-line"
+                },
+                {
+                  "name": "Kommersant: Medwedew zur Pflicht des Atomwaffeneinsatzes",
+                  "url": "https://www.kommersant.ru/doc/9127946"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-suedkorea-ulleung-russische-militaerflugzeuge-evakuierungswarnung",
+              "slug": "suedkorea-ulleung-russische-militaerflugzeuge-evakuierungswarnung",
+              "title": "Südkorea: Russische Militärflugzeuge lösen Evakuierungswarnung auf Insel Ulleung aus",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "international",
+              "icon": "✈️",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/247cc5aa-27b9-4acb-9e72-d6b8af409c6f/AAABogu1DBY/AAABnSSvrFg/16x9-big/ulleung-suedkorea-100.jpg?width=1280",
+              "kurz": "Mehrere russische Maschinen drangen in Südkoreas Luftverteidigungszone ein; Kampfjets stiegen auf, die Behörden meldeten fälschlich ein nordkoreanisches Flugzeug.",
+              "summary": "Mehrere russische Militärflugzeuge sind am Dienstagmorgen in Südkoreas Luftverteidigungsidentifikationszone (ADIZ) eingedrungen und haben sich der Insel Ulleung genähert, wie der Generalstab laut Yonhap mitteilte. Südkorea liess Kampfflugzeuge aufsteigen, worauf sich die russischen Maschinen zurückzogen. Für die rund 10'000 Einwohner der Insel wurde vorübergehend eine Evakuierungswarnung ausgegeben.",
+              "gegenstimme": "Die ADIZ ist kein Hoheitsgebiet, sondern eine vorgelagerte Pufferzone, in der fremde Flugzeuge frühzeitig identifiziert werden sollen; ein Eindringen ist völkerrechtlich keine Luftraumverletzung. Russland hat solche Flüge in der Vergangenheit als planmässige Patrouillen über internationalen Gewässern bezeichnet.",
+              "sources": [
+                {
+                  "name": "Tagesschau: Südkorea meldet russische Militärflugzeuge vor seiner Küste",
+                  "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html"
+                },
+                {
+                  "name": "Spiegel: Russische Flugzeuge lösen Evakuierungswarnung auf Insel aus",
+                  "url": "https://www.spiegel.de/ausland/suedkorea-russische-flugzeuge-loesen-evakuierungswarnung-auf-insel-aus-a-3cbbbe29-0c01-4678-8af4-26f97a9f33db"
+                },
+                {
+                  "name": "Der Bund: Russische Flieger lösen Evakuierungswarnung in Südkorea aus",
+                  "url": "https://www.derbund.ch/suedkorea-mutmasslich-nordkoreanischer-flugkoerper-im-luftraum-450224780067"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-schwerte-maskierter-angriff-gruene-fraktionssitzung",
+              "slug": "schwerte-maskierter-angriff-gruene-fraktionssitzung",
+              "title": "Schwerte (D): Maskierter greift Fraktionssitzung der Grünen an, drei Verletzte",
+              "date": "2026-11-24",
+              "time": "06:15",
+              "category": "politik",
+              "icon": "🚨",
+              "edition": "morning",
+              "image": "https://www1.wdr.de/nrw/ruhrgebiet/kreis-unna/angriff-fraktionssitzung-gruene-schwerte-106~_v-gseagaleriexl.jpg",
+              "kurz": "Ein Unbekannter stürmte am Montagabend das Grünen-Büro in Schwerte bei Dortmund. Der Staatsschutz ermittelt wegen einer möglichen politisch motivierten Tat.",
+              "summary": "Eine maskierte Person ist am Montagabend während einer Fraktionssitzung in das Büro der Grünen an der Brückstrasse in Schwerte (Nordrhein-Westfalen) eingedrungen und soll einen Politiker angegriffen haben. Drei Menschen wurden verletzt und ins Spital gebracht; der Täter flüchtete. Der Staatsschutz der Polizei Dortmund hat die Ermittlungen wegen des Verdachts einer politisch motivierten Straftat übernommen.",
+              "gegenstimme": "Polizei und Staatsanwaltschaft haben sich zu Motiv, Tatablauf und Schwere der Verletzungen noch nicht geäussert; ein politisches Motiv ist bisher Verdacht, nicht belegt. Weitere Angaben werden frühestens im Laufe des Dienstags erwartet.",
+              "sources": [
+                {
+                  "name": "WDR: Drei Verletzte nach Angriff auf Parteibüro der Grünen",
+                  "url": "https://www1.wdr.de/nrw/ruhrgebiet/kreis-unna/angriff-fraktionssitzung-gruene-schwerte-100.html"
+                },
+                {
+                  "name": "ZDFheute: Unbekannter stürmt Grünen-Sitzung",
+                  "url": "https://www.zdfheute.de/politik/deutschland/schwerte-unbekannter-stuermt-gruenen-sitzung-100.html"
+                },
+                {
+                  "name": "Bild: Maskierter attackiert Grüne in Parteibüro",
+                  "url": "https://www.bild.de/regional/nordrhein-westfalen/schwerte-maskierter-attackiert-gruene-in-parteibuero-drei-verletzte-6b04b1dd39a3e8110f0e95f0"
+                },
+                {
+                  "name": "20 Minuten: Maskierter stürmt Sitzung der Grünen",
+                  "url": "https://www.20min.ch/story/schwerte-d-maskierter-greift-gruene-bei-sitzung-an-drei-verletzte-103672744"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-23",
       "editions": {
