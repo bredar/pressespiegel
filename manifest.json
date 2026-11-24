@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T12:20:00+01:00",
+  "updated": "2026-11-24T17:05:00+01:00",
   "days": [
     {
       "date": "2026-11-24",
@@ -575,6 +575,395 @@
                 {
                   "name": "Al Jazeera: Pakistan's Zeeshan Ali set for historic flight",
                   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:05",
+          "articles": [
+            {
+              "id": "2026-11-24-ubs-wak-n-90-prozent-eigenkapital-auslandtoechter",
+              "slug": "ubs-wak-n-90-prozent-eigenkapital-auslandtoechter",
+              "title": "Lex UBS: Nationalratskommission stützt 90 Prozent Eigenkapital für Auslandtöchter",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/7d9377.jpg",
+              "kurz": "Die WAK-N folgt knapp dem Ständerat: Die UBS soll ihre ausländischen Töchter zu 90 Prozent mit hartem Kernkapital unterlegen.",
+              "summary": "Die Wirtschaftskommission des Nationalrats (WAK-N) hat am Dienstag mit 13 zu 12 Stimmen beschlossen, dass die UBS ihre Beteiligungen an ausländischen Tochtergesellschaften künftig zu 90 Prozent mit hartem Eigenkapital unterlegen muss; eine Minderheit wollte 80 Prozent. Die vom Bundesrat beantragten 100 Prozent lehnte die Kommission mit 17 zu 7 Stimmen ab, einen Antrag für 75 Prozent mit 12 zu 8 Stimmen bei 5 Enthaltungen.",
+              "gegenstimme": "Die UBS lehnt die 90 Prozent ab; ihr Chef Sergio Ermotti hatte ein solches Szenario als «schlimmstmöglichen Fall» bezeichnet, die Bank warnt vor Nachteilen gegenüber ausländischen Konkurrenten. Die starke Minderheit für 80 Prozent zeigt, dass der Nationalrat anders entscheiden könnte. In die andere Richtung zielt der Bundesrat: Er hatte nach dem CS-Untergang eine volle Unterlegung von 100 Prozent beantragt, damit Krisen von Auslandtöchtern das Stammhaus nicht gefährden – die Kommission verwarf das deutlich.",
+              "sources": [
+                {
+                  "name": "SRF: Kommission bestätigt bei «Lex UBS» Eigenkapital von 90 Prozent",
+                  "url": "https://www.srf.ch/news/schweiz/bankenregulierung-kommission-bestaetigt-bei-lex-ubs-eigenkapital-von-90-prozent"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Kommission bestätigt Eigenkapital von neunzig Prozent",
+                  "url": "https://www.swissinfo.ch/ger/kommission-best%C3%A4tigt-bei-%22lex-ubs%22-eigenkapital-von-neunzig-prozent/92429719"
+                },
+                {
+                  "name": "NZZ: Kaum Kulanz gegenüber der UBS",
+                  "url": "https://www.nzz.ch/wirtschaft/ubs-auch-die-wirtschaftskommission-des-nationalrates-fordert-kapitalunterlegung-von-90-prozent-fuer-die-auslandtoechter-ld.10072716"
+                },
+                {
+                  "name": "Börsen-Zeitung/Bloomberg: Rückschlag für UBS im Kapitalstreit",
+                  "url": "https://www.boersen-zeitung.de/banken-finanzen/rueckschlag-fuer-ubs-im-kapitalstreit"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-kerosin-pflichtlager-flughaefen-verordnung-wbf",
+              "slug": "kerosin-pflichtlager-flughaefen-verordnung-wbf",
+              "title": "Kerosin knapp: Bund öffnet Flughäfen weitere Pflichtlager",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "schweiz",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/bf6896.jpg",
+              "kurz": "Wegen Lieferengpässen bei Bahn und Pipeline erlaubt das WBF ab 30. November zusätzliche Bezüge aus den Pflichtlagern für Flugpetrol.",
+              "summary": "Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) ermöglicht mit einer Verordnung ab dem 30. November weitere Bezüge aus den Pflichtlagern für Flugpetrol. Zwischen Mitte Oktober und Ende November wurden bereits rund 18 Prozent der Bestände über befristete Notfreigaben in den Markt gegeben; der Delegierte für wirtschaftliche Landesversorgung darf allein höchstens 20 Prozent freigeben.",
+              "gegenstimme": "Der Bund nennt weder die absoluten Mengen noch, wie lange die Reserven bei anhaltenden Störungen reichen. Offen bleibt auch, warum beide Hauptversorgungswege – Bahn aus Deutschland für Zürich, Pipeline aus Frankreich für Genf – gleichzeitig an ihre Grenzen stossen und ob die Schweiz damit zu stark von Nachbarländern abhängt. Die Behörden betonen, die Massnahme sei vorübergehend und werde aufgehoben, sobald sich die Lage entspannt.",
+              "sources": [
+                {
+                  "name": "SRF: Bund gibt Flughäfen Zugriff auf Notreserve",
+                  "url": "https://www.srf.ch/news/schweiz/treibstoffknappheit-bund-gibt-flughaefen-zugriff-auf-notreserve"
+                },
+                {
+                  "name": "Watson/SDA: Bundesrat will weiter Kerosin-Reserven anzapfen",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/258889700-schweiz-zapft-wegen-lieferengpaessen-weiter-flugpetrol-reserven-an"
+                },
+                {
+                  "name": "Fedlex: Verordnung des WBF über die Pflichtlagerfreigabe von Flugpetrol",
+                  "url": "https://www.fedlex.admin.ch/eli/oc/2026/657/de"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-buffat-staatsanwalt-fordert-36-monate",
+              "slug": "buffat-staatsanwalt-fordert-36-monate",
+              "title": "Prozess Buffat: Staatsanwalt fordert 36 Monate, davon 12 unbedingt",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://www.watson.ch/imgdb/a4a5/Z1200,675,1090,455,256,256/7516658516239317",
+              "kurz": "Im Prozess wegen häuslicher Gewalt verlangt die Waadtländer Staatsanwaltschaft gegen SVP-Nationalrat Michaël Buffat eine teilbedingte Freiheitsstrafe.",
+              "summary": "Der Waadtländer Generalstaatsanwalt Eric Kaltenrieder hat am Dienstag vor dem Gericht in Renens gegen SVP-Nationalrat Michaël Buffat eine Freiheitsstrafe von 36 Monaten beantragt, davon 12 Monate unbedingt, bei einer Probezeit von fünf Jahren. Buffat soll seine frühere Partnerin zwischen der Heirat 2015 und der Trennung 2024 misshandelt, gedemütigt und überwacht haben; angeklagt ist er unter anderem wegen einfacher Körperverletzung, Nötigung, Drohung und Freiheitsberaubung.",
+              "gegenstimme": "Buffat bestreitet, der Urheber der Gewalt zu sein, und spricht von gegenseitigen Auseinandersetzungen; er hat laut 20 minutes Ohrfeigen, Fusstritte und Beschimpfungen eingeräumt, diese aber als beidseitige «Paarstreitigkeiten» dargestellt. Auch die Ex-Frau steht wegen Körperverletzung, Nötigung und unerlaubter Tonaufnahmen vor Gericht. Für Buffat gilt die Unschuldsvermutung.",
+              "sources": [
+                {
+                  "name": "Watson/SDA: Staatsanwaltschaft fordert Freiheitsstrafe für Nationalrat Buffat",
+                  "url": "https://www.watson.ch/schweiz/svp/128681419-staatsanwaltschaft-fordert-freiheitsstrafe-fuer-nationalrat-buffat"
+                },
+                {
+                  "name": "RTS: Trois ans de prison, dont un ferme, requis contre Michaël Buffat",
+                  "url": "https://www.rts.ch/info/regions/vaud/2026/article/le-proces-du-conseiller-national-udc-michael-buffat-a-debute-lundi-a-renens-29423379.html"
+                },
+                {
+                  "name": "Le Temps: Trente-six mois de prison dont un an ferme requis",
+                  "url": "https://www.letemps.ch/suisse/vaud/le-procureur-general-requiert-trente-six-mois-de-prison-dont-un-an-ferme-contre-michael-buffat"
+                },
+                {
+                  "name": "20 minutes: Procès Buffat, le procureur requiert 36 mois",
+                  "url": "https://www.20min.ch/fr/story/proces-de-michael-buffat-le-procureur-requiert-36-mois-de-prison-dont-12-ferme-103672815"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-einbrueche-schweiz-60-prozent-mehr-helvetia",
+              "slug": "einbrueche-schweiz-60-prozent-mehr-helvetia",
+              "title": "Einbrüche: Versicherer meldet 60 Prozent mehr Fälle in fünf Jahren",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "schweiz",
+              "icon": "🔓",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/6095271.jpg",
+              "kurz": "Laut Schadenstatistik von Helvetia stieg die Zahl der Einbrüche von 27 auf 42 pro 10'000 Policen; jeder vierte Fall passiert im November oder Dezember.",
+              "summary": "Die Zahl der gemeldeten Einbruchdiebstähle ist gemäss Schadendaten von Helvetia in den letzten fünf Jahren von rund 27 auf 42 pro 10'000 Policen gestiegen, ein Plus von rund 60 Prozent. Der durchschnittliche Beutewert stieg von 6500 Franken (2021) auf über 7100 Franken (2025); rund ein Viertel der Einbrüche geschieht im November und Dezember.",
+              "gegenstimme": "Die Zahlen stammen von einem Versicherer, der Hausratversicherungen verkauft, und bilden nur dessen Kundenstamm ab. Über Täter, deren Herkunft oder die Aufklärungsquote sagt die Auswertung nichts – dazu müsste die Polizeiliche Kriminalstatistik herangezogen werden, die laut 20 Minuten den Trend grundsätzlich bestätigt.",
+              "sources": [
+                {
+                  "name": "Helvetia: Jeder vierte Einbruch findet zwischen Zeitumstellung und Jahresende statt",
+                  "url": "https://www.helvetia.com/ch/web/de/ueber-uns/news/medienmitteilungen/2026/20261124.html"
+                },
+                {
+                  "name": "SRF: Einbrüche in der Schweiz nehmen weiter zu",
+                  "url": "https://www.srf.ch/news/schweiz/haeufiger-und-teurer-einbrueche-in-der-schweiz-nehmen-weiter-zu"
+                },
+                {
+                  "name": "20 Minuten: 60 Prozent mehr in 5 Jahren",
+                  "url": "https://www.20min.ch/story/kantons-ranking-60-prozent-mehr-in-5-jahren-hier-gibt-es-die-meisten-einbrueche-103672916"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-kapo-bern-vier-telefonbetrueger-angehalten",
+              "slug": "kapo-bern-vier-telefonbetrueger-angehalten",
+              "title": "Bern und Konolfingen: Vier mutmassliche Telefonbetrüger bei Übergaben gefasst",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "regional",
+              "icon": "🚓",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/2RoH6Cv5a-jBpKVb1WSJAW.jpg?op=ocroped&val=1200,600,870,653,181,0&sum=H5DOLanJFcs",
+              "kurz": "Die Kantonspolizei Bern hat in zwei unabhängigen Fällen vier Verdächtige in flagranti angehalten, darunter einen Jugendlichen; alle sind in Untersuchungshaft.",
+              "summary": "Die Kantonspolizei Bern hat in zwei voneinander unabhängigen Fällen von Telefonbetrug vier Personen angehalten, die sich in Untersuchungshaft befinden. In Bern wurde am 13. November eine Person beim Abholen von Bargeld gefasst, in Konolfingen am 15. November drei Personen – darunter ein Jugendlicher – bei der geplanten Übergabe von Bank- und Kreditkarten.",
+              "gegenstimme": "Die Polizei macht keine Angaben zu Alter, Herkunft oder Wohnort der Beschuldigten und nicht dazu, ob sie Teil einer grösseren Organisation sind; gefasst wurden bei den Übergaben, nicht die Anrufer selbst. Es gilt die Unschuldsvermutung.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern: Vier mutmassliche Telefonbetrüger in flagranti angehalten",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=fd623662-973a-4364-8494-910c28a88794"
+                },
+                {
+                  "name": "Der Bund: Vier Telefonbetrüger bei Übergabe gefasst",
+                  "url": "https://www.derbund.ch/betrug-im-kanton-bern-polizei-stoppt-vier-verdaechtige-669083919327"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-grosser-rat-bern-porto-abstimmungscouverts-gratis-einladungen",
+              "slug": "grosser-rat-bern-porto-abstimmungscouverts-gratis-einladungen",
+              "title": "Grosser Rat Bern: Ja zu vorfrankierten Couverts, Nein zur Bezahlpflicht bei Einladungen",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "regional",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/7426d6124b9e33fdeeb1442d64bca66a3bac7779-92430246.jpg?ver=6d70c76f&fit=1200,900",
+              "kurz": "Der Kanton Bern soll das Porto für Abstimmungscouverts zahlen, wenn Gemeinden mitziehen; Grossräte dürfen weiterhin gratis an Anlässe.",
+              "summary": "Der Berner Grosse Rat hat am Dienstag eine überparteiliche Motion mit 80 zu 74 Stimmen angenommen: Der Kanton übernimmt das Porto bei kantonalen und nationalen Wahlen und Abstimmungen, sofern die Gemeinde ihrerseits bei kommunalen und regionalen Urnengängen vorfrankiert. Eine Motion von Nils Fiechter (SVP), wonach Ratsmitglieder bei Einladungen zu Kultur-, Sport- und Gesellschaftsanlässen den Eintritt selbst bezahlen sollen, lehnte der Rat mit 140 zu 9 Stimmen ab.",
+              "gegenstimme": "Der Regierungsrat lehnte die Vorfrankierung aus Kostengründen ab und sprach von einem «Nice-to-have»; Staatsschreiber Christoph Auer verwies auf jährliche Kosten von 1,3 bis 1,6 Millionen Franken. Fiechter kritisiert die Gratiseinladungen als «Sonderprivilegien», die sich normale Bürger nicht leisten könnten; die Ratsmehrheit und das Ratsbüro argumentierten, solche Besuche gehörten zur politischen Arbeit und das Strafrecht regle Geschenke bereits.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Berner Grosser Rat sagt Ja zu vorfrankierten Abstimmungscouverts",
+                  "url": "https://www.swissinfo.ch/ger/berner-grosser-rat-sagt-ja-zu-vorfrankierten-abstimmungscouverts/92430259"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Berner Grossratsmitglieder wollen weiterhin an kostenlose Anlässe",
+                  "url": "https://www.swissinfo.ch/ger/berner-grossratsmitglieder-wollen-weiterhin-an-kostenlose-anl%C3%A4sse/92427624"
+                },
+                {
+                  "name": "Der Bund: Kanton Bern will das Porto für Abstimmende zahlen",
+                  "url": "https://www.derbund.ch/bern-kanton-zahlt-porto-fuer-abstimmungscouverts-660035771093"
+                },
+                {
+                  "name": "Der Bund: Berner Grossräte wollen weiterhin gratis ans Skirennen",
+                  "url": "https://www.derbund.ch/grossrat-bern-gratis-einladungen-fuer-politiker-bleiben-482829431552"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-egmr-pushbacks-belarus-instrumentalisierung-urteil",
+              "slug": "egmr-pushbacks-belarus-instrumentalisierung-urteil",
+              "title": "EGMR: Rückweisungen nach Belarus bei instrumentalisierter Migration nicht automatisch rechtswidrig",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "politik",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/24/43fe2917-0b15-48ea-af0c-d93780ccf327.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y550&wmark=nzz",
+              "kurz": "Die Grosse Kammer in Strassburg erlaubt Rückweisungen an der Grenze zu Belarus, verlangt aber Schutz für Kinder und klar Gefährdete.",
+              "summary": "Die Grosse Kammer des Europäischen Gerichtshofs für Menschenrechte (EGMR) hat am Dienstag in drei Fällen gegen Polen, Lettland und Litauen entschieden, dass die Rückweisung von Migranten in einen Staat, der Migration als Druckmittel einsetzt, nicht an sich gegen das Folterverbot (Art. 3 EMRK) verstösst. Polen und Lettland verletzten Art. 3 dennoch, weil sie einen erkennbar gefährdeten Afghanen beziehungsweise Kinder und deren Angehörige zurückschickten; im Fall Litauens sah das Gericht mit 11 zu 6 Stimmen keine Verletzung.",
+              "gegenstimme": "Amnesty International hatte vor dem Urteil gewarnt, Notstandsregeln und Pushbacks dürften das Non-Refoulement-Gebot nicht aushebeln; sechs der 17 Richter stimmten im Fall Litauen gegen die Mehrheit. Von der anderen Seite gilt das Urteil als Bestätigung der Grenzschutzpolitik der drei Staaten, die von einem Notfall und einem hybriden Angriff durch Belarus sprechen und betonen, die Kläger hätten legale Einreisewege nicht genutzt.",
+              "sources": [
+                {
+                  "name": "EGMR: Questions and Answers zu den drei Belarus-Fällen",
+                  "url": "https://www.echr.coe.int/documents/d/echr/press-q-a-pushback-cases-eng"
+                },
+                {
+                  "name": "NZZ/dpa: Pushbacks können bei Instrumentalisierung legal sein",
+                  "url": "https://www.nzz.ch/international/migration-pushbacks-koennen-laut-einem-urteil-bei-instrumentalisierung-legal-sein-ld.10073419"
+                },
+                {
+                  "name": "SRF: EGMR erlaubt Pushbacks an EU-Grenzen unter Bedingungen",
+                  "url": "https://www.srf.ch/news/international/gerichtshof-fuer-menschenrechte-egmr-erlaubt-pushbacks-an-eu-grenzen-unter-bedingungen"
+                },
+                {
+                  "name": "LRT: ECHR rules Lithuania did not violate human rights",
+                  "url": "https://www.lrt.lt/en/news-in-english/19/3124297/echr-rules-lithuania-did-not-violate-human-rights-by-deporting-migrants-to-belarus"
+                },
+                {
+                  "name": "Amnesty International: Gerichtshof verhandelt Pushback-Fälle (Feb. 2025)",
+                  "url": "https://www.amnesty.org/en/latest/news/2025/02/europe-european-court-of-human-rights-to-hear-landmark-pushback-cases/"
+                },
+                {
+                  "name": "Euronews: European court rules against Poland and Latvia over pushbacks",
+                  "url": "https://www.euronews.com/2026/11/24/european-court-rules-against-poland-and-latvia-over-migrant-pushbacks-at-belarus-border"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-daenemark-hoechstes-gericht-ghettogesetz-nicht-diskriminierend",
+              "slug": "daenemark-hoechstes-gericht-ghettogesetz-nicht-diskriminierend",
+              "title": "Dänemark: Höchstes Gericht hält Kündigungen nach «Ghettogesetz» nicht für diskriminierend",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "international",
+              "icon": "🏘️",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b048100-1795457280.jpg?resize=1920%2C1440",
+              "kurz": "Das Kriterium «Einwanderer aus nichtwestlichen Ländern» sei neutral und nicht ethnisch, urteilt der dänische Højesteret im Fall Helsingør.",
+              "summary": "Das Oberste Gericht Dänemarks hat am Montag die Klagen von sieben Familien aus der Siedlung Nøjsomhed in Helsingør abgewiesen, denen ihr Vermieter Boliggården im Zuge des Parallelgesellschaftsgesetzes von 2018 gekündigt hatte. Das Gericht bestätigte zwei Vorinstanzen: Das gesetzliche Kriterium «Einwanderer und Nachkommen aus nichtwestlichen Ländern» sei neutral und keine Unterscheidung nach ethnischer Herkunft; weder direkte noch indirekte Diskriminierung sei belegt.",
+              "gegenstimme": "Der Anwalt der Familien, Eddie Khawaja, sagte, das Gericht habe das Gesetz gelesen, aber die Realität nicht berücksichtigt; ein Kläger zeigte sich gegenüber AFP «enttäuscht». Mieterverbände kritisieren, dass bis 2030 landesweit rund 11'000 Menschen umziehen müssen. Befürworter sehen im Urteil die Bestätigung einer Integrationspolitik, die Segregation und Parallelgesellschaften gezielt aufbrechen will.",
+              "sources": [
+                {
+                  "name": "DR: Højesteret – Opsigelser som følge af ghettolov var ikke diskrimination",
+                  "url": "https://www.dr.dk/nyheder/indland/hoejesteret-ikke-forskelsbehandling-opsige-lejere-i-noejsomhed"
+                },
+                {
+                  "name": "Al Jazeera: Danish top court's 'ghetto law' ruling supports hardline immigration policy",
+                  "url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy"
+                },
+                {
+                  "name": "The Local Denmark/AFP: Supreme Court rules evictions not discriminatory",
+                  "url": "https://www.thelocal.dk/20261124/danish-supreme-court-rules-that-it-was-not-discriminatory-to-evict-non-western-tenants"
+                },
+                {
+                  "name": "Apollo News (Inspirationsquelle, Meinung): Sieg für Migrationshardliner",
+                  "url": "https://apollo-news.net/sieg-fr-migrationshardliner-dnemarks-oberstes-gericht-hlt-ghetto-gesetz-fr-nicht-diskriminierend/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-selenskyj-usa-druck-frieden-bis-januar-kongress",
+              "slug": "selenskyj-usa-druck-frieden-bis-januar-kongress",
+              "title": "Selenskyj: US-Unterhändler drängen auf Frieden bis Januar",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/3b13e6.jpg",
+              "kurz": "Kushner und Witkoff wollen laut Selenskyj ein Abkommen möglichst bis Januar; scheitert es, setzt Kiew auf den neuen US-Kongress.",
+              "summary": "Der ukrainische Präsident Wolodimir Selenskyj sagte in einem Bloomberg-Interview, die US-Gesandten Jared Kushner und Steve Witkoff drängten auf einen Friedensschluss mit Russland «so schnell wie möglich», idealerweise bis Januar. Frieden dürfe nicht allein auf Kosten der Ukraine gehen; komme kein für Kiew akzeptables Abkommen zustande, werde er beim neuen, ab Januar demokratisch dominierten Kongress mehr Militärhilfe und härtere Sanktionen gegen Russland verlangen.",
+              "gegenstimme": "Der Kreml sieht laut SRF-Ticker keinen Mehrwert in einer Beteiligung der Europäer an den Gesprächen und hält an seiner Forderung nach dem restlichen Gebiet Donezk fest, das Kiew nicht abtreten will. US-Unterhändler Kushner sagte laut Liga.net, er versuche Trump davon abzuhalten, Selenskyj unter Druck zu setzen, und stellte Sicherheitsgarantien nach dem Vorbild von Nato-Artikel 5 in Aussicht.",
+              "sources": [
+                {
+                  "name": "SRF-Ticker: Selenski – USA machen Ukraine Druck auf Frieden bis Januar",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-usa-machen-ukraine-druck-auf-frieden-bis-januar"
+                },
+                {
+                  "name": "Straits Times/Bloomberg: Zelensky wants US Congress to pressure Putin",
+                  "url": "https://www.straitstimes.com/world/europe/ukraines-zelensky-wants-us-congress-to-pressure-putin-if-trump-cant-win-deal"
+                },
+                {
+                  "name": "RBC-Ukraine: Trump's envoys push for peace deal by January",
+                  "url": "https://newsukraine.rbc.ua/news/trump-s-envoys-push-for-ukraine-peace-deal-1795523236.html"
+                },
+                {
+                  "name": "Ukrinform: Zelensky to reach out to new US Congress",
+                  "url": "https://www.ukrinform.net/rubric-polytics/4188059-zelensky-to-reach-out-to-new-us-congress-if-trump-fails-to-reach-deal-with-putin-to-end-war.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-rosstat-leak-russische-kriegstote-490000-700000",
+              "slug": "rosstat-leak-russische-kriegstote-490000-700000",
+              "title": "Gehackte Rosstat-Daten: Mindestens 490'000 tote russische Soldaten",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "international",
+              "icon": "📊",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/a3c42d.jpg",
+              "kurz": "Meduza und Mediazona werten geleakte Daten der russischen Statistikbehörde aus und schätzen inklusive Vermisster über 700'000 Gefallene.",
+              "summary": "Die unabhängigen russischen Medien Meduza und Mediazona haben Daten ausgewertet, die Hacker der belarussischen Cyber-Partisanen und der Gruppe Silent Crow bei der Statistikbehörde Rosstat erbeutet hatten. Demnach waren bis Ende September 2026 mindestens 490'000 russische Armeeangehörige als tot registriert; zählt man Vermisste dazu, schätzen die Medien über 700'000 Tote.",
+              "gegenstimme": "Russland veröffentlicht keine Gesamtzahl eigener Kriegstoter, und der Kreml hat die Auswertung in den geprüften Quellen nicht bestätigt. Die Hacker verfolgen ein klares politisches Ziel; zudem ist die Zahl von 700'000 eine Hochrechnung, die vermisste Soldaten mehrheitlich als tot annimmt – andere Zählungen liegen laut SRF tiefer.",
+              "sources": [
+                {
+                  "name": "SRF: Statistikbehörde gehackt – 720'000 Gefallene?",
+                  "url": "https://www.srf.ch/news/international/ukraine/statistikbehoerde-gehackt-720-000-gefallene-russlands-gewaltiger-blutzoll-im-ukraine-krieg"
+                },
+                {
+                  "name": "Meduza: More than 700,000 Russian troops died",
+                  "url": "https://meduza.io/en/feature/2026/11/23/more-than-700-000-russian-troops-died-in-the-war-in-ukraine-by-late-september-2026-meduza-and-mediazona-estimate"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-gaza-israel-toetet-hamas-sicherheitschef-abu-nahel",
+              "slug": "gaza-israel-toetet-hamas-sicherheitschef-abu-nahel",
+              "title": "Gaza: Israel tötet Chef des Hamas-Inlandgeheimdienstes",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+              "kurz": "Naim Abu Nahl, seit September Leiter der inneren Sicherheit der Hamas, ist in Gaza-Stadt bei einem israelischen Luftangriff getötet worden.",
+              "summary": "Ein israelischer Luftangriff hat am Dienstag im Westen von Gaza-Stadt Naim Abu Nahl (50) getötet, den Leiter des Inlandsicherheitsdienstes der Hamas. Premierminister Benjamin Netanjahu und Verteidigungsminister Israel Katz bestätigten die Tötung; Abu Nahl hatte das Amt seit September inne, nachdem israelische Spezialkräfte seinen Vorgänger gefangen genommen hatten.",
+              "gegenstimme": "Die Hamas spricht von einem Kriegsverbrechen und einem Versuch, in Gaza «Chaos» zu stiften; laut dem von der Hamas geführten Innenministerium wurden bei dem Angriff in einer von Vertriebenen belebten Strasse vier weitere Personen verletzt. Israel argumentiert, es bekämpfe Terroristen, und verweist darauf, dass auch seit dem Waffenstillstand sechs israelische Soldaten in Gaza getötet wurden.",
+              "sources": [
+                {
+                  "name": "BBC: Israeli air strike kills Hamas internal security chief in Gaza",
+                  "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o"
+                },
+                {
+                  "name": "Al Jazeera: Israeli air strike kills senior Hamas security official",
+                  "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-eu-kommission-cyberangriff-ki-datenleck-eu-academy",
+              "slug": "eu-kommission-cyberangriff-ki-datenleck-eu-academy",
+              "title": "EU-Kommission bestätigt Datendiebstahl bei KI-gestütztem Cyberangriff",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "tech",
+              "icon": "🔐",
+              "edition": "evening",
+              "image": "https://image.theregister.com/5311112.jpg?imageId=5311112&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+              "kurz": "Bei der Lernplattform EU Academy wurden Namen und E-Mail-Adressen externer Nutzer gestohlen; der Angriff ist womöglich nicht beendet.",
+              "summary": "Die EU-Kommission hat bestätigt, dass bei einer seit über einem Monat laufenden Cyberkampagne gegen ihre Systeme Personendaten von Nutzern der Lernplattform EU Academy abgeflossen sind, darunter Namen und E-Mail-Adressen externer Nutzer. Laut Sprecher Thomas Regnier setzten die Angreifer ein KI-gestütztes Werkzeug ein; das Ausmass ist noch unklar, die Plattform wurde vorsorglich vom Netz genommen.",
+              "gegenstimme": "Kritisiert wird unter anderem von The Register, dass die Kommission Betroffene nicht direkt per E-Mail informiert, sondern nur einen allgemeinen Hinweis auf der Website veröffentlicht hat. Laut Euronews vermutet die Kommission intern eine von China unterstützte Gruppe; öffentlich will sie den Angriff vor Abschluss der Untersuchung niemandem zuschreiben.",
+              "sources": [
+                {
+                  "name": "The Register: European Commission confirms personal data stolen",
+                  "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
+                },
+                {
+                  "name": "Politico Europe: EU Commission confirms personal data leak",
+                  "url": "https://www.politico.eu/article/european-commission-personal-data-leak-cyberattack-disruption/"
+                },
+                {
+                  "name": "Euronews: China-backed hackers suspected",
+                  "url": "https://www.euronews.com/2026/11/23/exclusive-china-backed-hackers-suspected-behind-ongoing-eu-commission-cyberattack"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-vp-vnp-valiant-vermutung-anthropic-openai-beweise",
+              "slug": "vp-vnp-valiant-vermutung-anthropic-openai-beweise",
+              "title": "KI-Beweise für Valiants Vermutung: Anthropic und OpenAI legen fast zeitgleich vor",
+              "date": "2026-11-24",
+              "time": "17:05",
+              "category": "tech",
+              "icon": "🧮",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/4/2/5/shutterstock_2755383857-3cbbd48e8cc11827.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Beide KI-Firmen beanspruchen den Beweis von VP ≠ VNP, einem seit 1979 offenen Problem der Informatik; geprüft hat ihn noch kein Mensch.",
+              "summary": "Anthropic hat am 23. November ein 70-seitiges Paper veröffentlicht, das mit einem von einem internen Claude-Modell gefundenen Beweis die Vermutung VP ≠ VNP von Leslie Valiant (1979) belegen soll; wenige Stunden später folgte OpenAI mit einem 30-seitigen Paper. Beide Arbeiten sind in der Beweissprache Lean formalisiert, aber noch von keinem unabhängigen Mathematiker geprüft.",
+              "gegenstimme": "Fachleute mahnen zur Vorsicht: Lean prüft nur, ob die Beweisschritte aus den Definitionen folgen, nicht ob die Definitionen das meinen, was behauptet wird – Anthropic räumt selbst ein, dies hätten «nur KI-Leser» beurteilt. Laut Paper sind zudem vier Beweisschritte nur in Lean, nicht auf Papier nachvollziehbar; die Formalisierung von OpenAI deckt laut Fachportalen nicht den Hauptsatz des Papers ab.",
+              "sources": [
+                {
+                  "name": "Heise: Anthropic und OpenAI mit fast zeitgleichen Beweisen für VP ≠ VNP",
+                  "url": "https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html"
+                },
+                {
+                  "name": "Anthropic (Primärquelle): VP ≠ VNP over every field",
+                  "url": "https://raw.githubusercontent.com/anthropics/formal-math/main/vp-vnp/paper.pdf"
+                },
+                {
+                  "name": "Sysnote: Proofs five hours apart, Lean coverage differs",
+                  "url": "https://sysnote.net/news/anthropic-and-openai-post-vp-vnp-proofs-five-hours-apart-only-anthropic-s-lean-c"
                 }
               ]
             }
