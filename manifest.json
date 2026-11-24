@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T06:15:00+01:00",
+  "updated": "2026-11-24T12:20:00+01:00",
   "days": [
     {
       "date": "2026-11-24",
@@ -396,6 +396,185 @@
                 {
                   "name": "20 Minuten: Maskierter stürmt Sitzung der Grünen",
                   "url": "https://www.20min.ch/story/schwerte-d-maskierter-greift-gruene-bei-sitzung-an-drei-verletzte-103672744"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:20",
+          "articles": [
+            {
+              "id": "2026-11-24-snb-swiss-financial-ledger-projekt-banken",
+              "slug": "snb-swiss-financial-ledger-projekt-banken",
+              "title": "SNB startet mit acht Partnern Projekt für einen «Swiss Financial Ledger»",
+              "date": "2026-11-24",
+              "time": "12:20",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "midday",
+              "kurz": "Nationalbank, UBS, SIX und weitere Institute prüfen eine gemeinsame Blockchain-Plattform für Zentralbankgeld, Bankengeld und Wertschriften.",
+              "summary": "Die Schweizerische Nationalbank hat am Dienstag gemeinsam mit UBS, SIX, Zürcher Kantonalbank, Postfinance, Banque Cantonale Vaudoise, Basler Kantonalbank, Sygnum Bank und der Abwicklungsplattform Seturion ein exploratives Projekt für einen «Swiss Financial Ledger» angekündigt. Geprüft wird, ob eine Plattform auf Basis der Distributed-Ledger-Technologie (DLT) inländische und grenzüberschreitende Transaktionen mit Zentralbankgeld, Geschäftsbankengeld und Wertschriften abwickeln könnte.",
+              "gegenstimme": "Skeptiker digitaler Zentralbankprojekte befürchten, dass solche Plattformen langfristig den Weg zu staatlich kontrolliertem digitalem Geld ebnen. Die SNB hält dagegen, es gehe um die Infrastruktur des Finanzmarkts zwischen Banken, nicht um digitales Bargeld für Private, und es sei kein Einführungsentscheid gefallen.",
+              "sources": [
+                {
+                  "name": "SNB: Exploratives Projekt für einen Swiss Financial Ledger",
+                  "url": "https://www.snb.ch/de/publications/communication/press-releases/2026/pre_20261124_2"
+                },
+                {
+                  "name": "finanzen.ch (AWP): SNB startet Projekt für digitale Finanzmarktplattform",
+                  "url": "https://www.finanzen.ch/nachrichten/devisen/snb-startet-projekt-fuer-digitale-finanzmarktplattform-mit-schweizer-banken-1036794835"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-sanofi-kauft-insmed-41-milliarden",
+              "slug": "sanofi-kauft-insmed-41-milliarden",
+              "title": "Sanofi kauft Insmed für 41 Milliarden Dollar",
+              "date": "2026-11-24",
+              "time": "12:20",
+              "category": "wirtschaft",
+              "icon": "💊",
+              "edition": "midday",
+              "image": "https://image.cnbcfm.com/api/v1/image/107299519-1694544344393-gettyimages-1676556085-dsc03159_evecyedm.jpeg?v=1697746273&w=1920&h=1080",
+              "kurz": "Der französische Pharmakonzern übernimmt den US-Spezialisten für Atemwegserkrankungen – die grösste Pharma-Übernahme seit drei Jahren.",
+              "summary": "Der französische Pharmakonzern Sanofi übernimmt den US-Hersteller Insmed für 175 Dollar pro Aktie in bar, insgesamt 41,0 Milliarden Dollar (37,6 Milliarden Euro), wie Sanofi am Dienstag mitteilte. Insmed bringt zwei zugelassene Medikamente gegen Atemwegserkrankungen, Brinsupri und Arikayce, sowie eine Forschungspipeline mit. Die Insmed-Aktie stieg vorbörslich um rund 14 Prozent.",
+              "gegenstimme": "Kritisch betrachtet kauft Sanofi Wachstum ein, statt es selbst zu entwickeln: Der Deal ist vor allem eine Antwort auf den drohenden Patentablauf des Kassenschlagers Dupixent. Sanofi selbst spricht von einer «transformativen» Übernahme mit guter strategischer Passung und hält an Dividendenpolitik und starkem Kreditrating fest.",
+              "sources": [
+                {
+                  "name": "Sanofi: Sanofi to acquire Insmed",
+                  "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-11-24-06-30-00-3409002"
+                },
+                {
+                  "name": "CNBC: Insmed shares rally after Sanofi agrees to buy it",
+                  "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-magyar-trifft-selenskyj-transkarpatien",
+              "slug": "magyar-trifft-selenskyj-transkarpatien",
+              "title": "Ungarns Premier Magyar trifft Selenskyj in der Westukraine",
+              "date": "2026-11-24",
+              "time": "12:20",
+              "category": "politik",
+              "icon": "🤝",
+              "edition": "midday",
+              "image": "https://images.euronews.com/articles/stories/10/00/55/66/1200x675_cmsv2_d359600d-07b3-5f06-8db9-8517b690e787-10005566.jpg",
+              "kurz": "Erster Besuch eines ungarischen Regierungschefs in der Ukraine seit 2015 – ein deutlicher Bruch mit der Linie von Viktor Orbán.",
+              "summary": "Ungarns Ministerpräsident Péter Magyar trifft am Dienstag den ukrainischen Präsidenten Wolodymyr Selenskyj in der westukrainischen Region Transkarpatien, wo eine grosse ungarische Minderheit lebt. Es ist der erste Besuch eines ungarischen Regierungschefs in der Ukraine seit 2015; Magyar wird von Aussenministerin Anita Orbán begleitet und will auch Vertreter der ungarischen Minderheit treffen.",
+              "gegenstimme": "Aus Sicht vieler Ukraine-Unterstützer bleibt Budapest trotz des Kurswechsels zurückhaltend: Die Regierung Magyar benennt Russland zwar als Aggressor, schliesst Waffenlieferungen und Truppen aber aus. Für die ungarische Minderheit wiederum zählt vor allem, ob die neuen Sprachregeln im Schulunterricht auch umgesetzt werden.",
+              "sources": [
+                {
+                  "name": "Euronews: Hungary's Magyar meets Zelenskyy in Ukraine",
+                  "url": "https://www.euronews.com/2026/11/24/hungarys-magyar-meets-zelenskyy-in-ukraine-in-sharp-break-with-orban-era"
+                },
+                {
+                  "name": "ORF: Magyar und Selenskyj: Treffen in Transkarpatien",
+                  "url": "https://orf.at/stories/3449118/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-russische-drohne-polen-luftraum-nato-awacs",
+              "slug": "russische-drohne-polen-luftraum-nato-awacs",
+              "title": "Russische Drohne dringt in polnischen Luftraum ein – NATO schickt Awacs",
+              "date": "2026-11-24",
+              "time": "12:20",
+              "category": "international",
+              "icon": "🛩️",
+              "edition": "midday",
+              "image": "https://www.tagesspiegel.de/images/16318356/alternates/BASE_16_9_W1400/1795504341000/imago0860006433h.jpeg",
+              "kurz": "Warschau geht von Absicht aus; in der Ukraine sterben bei einem russischen Angriff auf Saporischschja mindestens zwei Menschen.",
+              "summary": "Während russischer Angriffe auf die Westukraine ist in der Nacht auf Dienstag eine russische Drohne kurzzeitig in den polnischen Luftraum über der Woiwodschaft Lublin eingedrungen; Bewohner wurden aufgerufen, Schutzräume aufzusuchen. Polen verzichtete auf einen Abschuss, nachdem die Drohne Richtung Osten abgedreht hatte. Die NATO verstärkt die Luftüberwachung an der Ostflanke und verlegt ein Awacs-Aufklärungsflugzeug nach Litauen.",
+              "gegenstimme": "Dass Russland gezielt handelte, ist bisher eine Einschätzung der polnischen Regierung, kein öffentlich vorgelegter Beweis; eine russische Stellungnahme fand sich in den geprüften Berichten nicht. Umgekehrt dürfte der Verzicht auf einen Abschuss die Debatte befeuern, ob Polen und die NATO genug abschrecken.",
+              "sources": [
+                {
+                  "name": "Tagesspiegel (dpa): Russische Drohne dringt in Polens Luftraum ein",
+                  "url": "https://www.tagesspiegel.de/internationales/dpa-wir-gehen-davon-aus-dass-es-absicht-war-russische-drohne-dringt-in-polens-luftraum-ein-16318099.html"
+                },
+                {
+                  "name": "BR24: Russische Drohne dringt in polnischen Luftraum ein",
+                  "url": "https://www.br.de/nachrichten/meldung/russische-drohne-dringt-in-polnischen-luftraum-ein%2C30082990e"
+                },
+                {
+                  "name": "ORF: Tote bei russischem Angriff auf Saporischschja",
+                  "url": "https://orf.at/stories/3449087/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-israel-koalition-eisenkot-likud-kein-durchbruch",
+              "slug": "israel-koalition-eisenkot-likud-kein-durchbruch",
+              "title": "Israel: Koalitionsgespräche zwischen Eisenkot und Likud stecken fest",
+              "date": "2026-11-24",
+              "time": "12:20",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "midday",
+              "kurz": "Streitpunkt ist vor allem, wer Regierungschef wird. Eisenkot hat noch bis 6. Dezember Zeit für eine Regierungsbildung.",
+              "summary": "Die Gespräche über eine Einheitsregierung zwischen der Partei Yashar von Gadi Eisenkot und dem Likud von Benjamin Netanjahu haben nach drei Runden keinen Durchbruch gebracht. Der Likud verlangt Netanjahu an der Regierungsspitze, Eisenkot lehnt das kategorisch ab. Eisenkot, der den Auftrag zur Regierungsbildung hat, bleibt dafür bis am 6. Dezember Zeit.",
+              "gegenstimme": "Der Likud argumentiert, eine Regierung ohne Netanjahu als amtierenden Premier komme nicht in Frage, wie Abgeordneter Miki Zohar nach den letzten Gesprächen sagte. Eisenkots Lager dagegen hält eine Regierung unter Netanjahu für ausgeschlossen und setzt auf Fortschritte mit anderen Parteien, etwa mit der ultraorthodoxen UTJ.",
+              "sources": [
+                {
+                  "name": "Times of Israel: No breakthrough in latest Yashar-Likud unity talks",
+                  "url": "https://www.timesofisrael.com/no-breakthrough-in-latest-yashar-likud-unity-talks-progress-reported-with-utj/"
+                },
+                {
+                  "name": "Jüdische Allgemeine: Koalitionsgespräche in Israel stecken fest",
+                  "url": "https://www.juedische-allgemeine.de/israel/netanjahu-oder-eisenkot-koalitionsgespraeche-in-israel-stecken-fest/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-n-able-mail-assure-luecke-aktiv-ausgenutzt-cisa",
+              "slug": "n-able-mail-assure-luecke-aktiv-ausgenutzt-cisa",
+              "title": "Aktiv ausgenutzte Lücken in N-able Mail Assure und Monai Label",
+              "date": "2026-11-24",
+              "time": "12:20",
+              "category": "tech",
+              "icon": "🔐",
+              "edition": "midday",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/0/0/9/shutterstock_1124819546_jpg-09b0a814a5d4851d.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Die US-Cybersicherheitsbehörde CISA warnt vor Angriffen auf einen E-Mail-Filterdienst für IT-Dienstleister und eine medizinische KI-Software.",
+              "summary": "Die US-Behörde CISA hat am 23. November zwei Sicherheitslücken in ihren Katalog aktiv ausgenutzter Schwachstellen aufgenommen: eine Server-Side-Request-Forgery-Lücke (CVE-2026-134624) im E-Mail-Filterdienst N-able Mail Assure (SpamExperts) und eine Path-Traversal-Lücke (CVE-2026-133968) in der medizinischen KI-Bildanalyse-Software Monai Label. Für beide gibt es Updates.",
+              "gegenstimme": "N-able betont, Mailzustellung und Spamfilter hätten während des Vorfalls durchgehend funktioniert, der gehostete Dienst sei gepatcht. Offen bleibt, ob die Lücke tatsächlich das Einfallstor der Angreifer war – das hat N-able bisher nicht gesagt.",
+              "sources": [
+                {
+                  "name": "CISA: CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+                  "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+                },
+                {
+                  "name": "The Hacker News: N-able Discloses Critical Mail Assure Vulnerability",
+                  "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html"
+                },
+                {
+                  "name": "heise: Cyberattacken auf N-able Mail Assure und Monai Label",
+                  "url": "https://www.heise.de/news/Cyberattacken-auf-N-able-Mail-Assure-und-Monai-Label-11535820.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-24-pakistaner-tiangong-shenzhou-24",
+              "slug": "pakistaner-tiangong-shenzhou-24",
+              "title": "Erster Pakistaner fliegt zur chinesischen Raumstation Tiangong",
+              "date": "2026-11-24",
+              "time": "12:20",
+              "category": "tech",
+              "icon": "🚀",
+              "edition": "midday",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T033008Z_1170236701_RC23UOA7V8F8_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU-1795502610.jpg?resize=1920%2C1440",
+              "kurz": "Mit Muhammad Zeeshan Ali soll in der Nacht auf Mittwoch erstmals ein ausländischer Astronaut zur chinesischen Raumstation starten.",
+              "summary": "China hat am Dienstag die Besatzung der Mission Shenzhou-24 vorgestellt: Neben Kommandant Tang Hongbo und Bordingenieur Wu Yi fliegt der pakistanische Luftwaffenpilot Muhammad Zeeshan Ali (40) als Nutzlastspezialist mit. Der Start vom Kosmodrom Jiuquan ist für Mittwoch, 8.18 Uhr Pekinger Zeit (1.18 Uhr Schweizer Zeit), geplant; Ali soll rund eine Woche auf der Tiangong bleiben.",
+              "gegenstimme": "Die Mission ist nicht nur Wissenschaft, sondern auch Geopolitik: China nutzt seine Raumstation, um Partnerschaften mit Staaten wie Pakistan zu vertiefen, während die westlich geführte ISS sich dem Ende nähert. Aus Sicht Pakistans und Chinas steht dagegen die gemeinsame Forschung im Vordergrund.",
+              "sources": [
+                {
+                  "name": "AP: China unveils new space mission crew with Pakistani astronaut",
+                  "url": "https://apnews.com/article/china-pakistan-shenzhou-24-space-a618c7d419cd556de0392829286ede66"
+                },
+                {
+                  "name": "Al Jazeera: Pakistan's Zeeshan Ali set for historic flight",
+                  "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station"
                 }
               ]
             }
