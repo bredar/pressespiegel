@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:20:00+01:00",
+  "updated": "2026-11-25T17:20:00+01:00",
   "days": [
     {
       "date": "2026-11-25",
@@ -689,6 +689,367 @@
                 {
                   "name": "Netzwelt: Datenleck bei Deichmann",
                   "url": "https://www.netzwelt.de/news/261222-datenleck-deichmann-onlineshop-bestellt-sollte-mails-achten.html"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:20",
+          "articles": [
+            {
+              "id": "2026-11-25-eu-parlament-genehmigt-vertragspaket-schweiz",
+              "slug": "eu-parlament-genehmigt-vertragspaket-schweiz",
+              "title": "EU-Parlament sagt deutlich Ja zum Vertragspaket mit der Schweiz",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "schweiz",
+              "icon": "🇪🇺",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/ddd3c4.jpg",
+              "kurz": "584 zu 13 Stimmen: In Strassburg hat das Vertragspaket ohne Debatte eine weitere Hürde genommen – jetzt ist die Schweiz am Zug.",
+              "summary": "Das Europäische Parlament hat am Mittwoch in Strassburg dem Vertragspaket zwischen der Schweiz und der EU mit 584 zu 13 Stimmen bei 60 Enthaltungen zugestimmt. Einen begleitenden 36-seitigen Bericht zu den bilateralen Beziehungen nahm es mit 554 zu 22 Stimmen bei 79 Enthaltungen an.",
+              "gegenstimme": "Die Nein-Stimmen kamen laut NZZ von rechts aussen, etwa von der AfD und der niederländischen PVV; deren Abgeordnete Mieke Andriese begründete dies damit, dass ihre Partei gegen immer mehr Kompetenzen für die EU sei. In der Schweiz bekämpfen die SVP und weitere Kritiker das Paket, weil es die dynamische Übernahme von EU-Recht und eine Rolle des EU-Gerichtshofs vorsieht. Die NZZ verweist zudem darauf, dass gerade das EU-Parlament mit seiner Neigung zu Industriepolitik (Industrial Accelerator Act) neue Handelshürden für die Schweiz bringen könnte.",
+              "sources": [
+                {
+                  "name": "SRF: EU-Parlament stimmt Vertragspaket mit der Schweiz zu",
+                  "url": "https://www.srf.ch/news/international/europapolitik-eu-parlament-stimmt-vertragspaket-mit-der-schweiz-zu"
+                },
+                {
+                  "name": "NZZ: Ablehnung nur von ganz rechts – EU-Parlament stimmt haushoch zu",
+                  "url": "https://www.nzz.ch/wirtschaft/opposition-nur-von-ganz-rechts-das-eu-parlament-stimmt-dem-bilateralen-vertrag-mit-der-schweiz-haushoch-zu-ld.10074337"
+                },
+                {
+                  "name": "Watson/Keystone-SDA: Europäisches Parlament gibt Vertragspaket grünes Licht",
+                  "url": "https://www.watson.ch/schweiz/international/197590739-vertragspaket-schweiz-eu-nimmt-weitere-huerde"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-usa-ustr-schlaegt-bis-15-prozent-zoll-schweiz-vor",
+              "slug": "usa-ustr-schlaegt-bis-15-prozent-zoll-schweiz-vor",
+              "title": "USA schlagen formell bis zu 15 Prozent Zoll auf Schweizer Waren vor",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "wirtschaft",
+              "icon": "📦",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/aab15a.jpg",
+              "kurz": "Der US-Handelsbeauftragte wirft der Schweiz unfaire Praktiken vor – unter anderem eine künstlich tiefe Währung. Bern sieht den 15-Prozent-Deal gewahrt.",
+              "summary": "Der US-Handelsbeauftragte Jamieson Greer hat am Mittwoch eine achtmonatige Untersuchung nach Section 301 abgeschlossen und für die Schweiz neue Zölle von bis zu 15 Prozent inklusive bestehender Zölle vorgeschlagen, für China bis zu 20 Prozent. Betroffen sind 14 Volkswirtschaften, darunter die EU; den definitiven Satz legt Präsident Trump später fest.",
+              "gegenstimme": "Das WBF weist die Vorwürfe zurück, geht aber davon aus, dass mit dem Vorschlag die gemeinsame Absichtserklärung vom 14. November 2025 (Obergrenze 15 statt 39 Prozent) respektiert würde. Aus Sicht der US-Regierung verzerren Länder wie die Schweiz den Handel mit Subventionen, steuerlichen Anreizen für die Pharmabranche und einer unterbewerteten Währung – ein Vorwurf, den die Schweiz seit Jahren bestreitet. Die NZZ weist darauf hin, dass Washington zugleich mit einer Erhöhung auf 20 Prozent droht.",
+              "sources": [
+                {
+                  "name": "SRF: US-Regierung schlägt neue Zölle vor – auch gegen Schweiz",
+                  "url": "https://www.srf.ch/news/international/bis-zu-15-prozent-us-regierung-schlaegt-neue-zoelle-vor-auch-gegen-schweiz"
+                },
+                {
+                  "name": "NZZ: Trump will die Zölle erneut erhöhen – was bedeutet das für die Schweiz?",
+                  "url": "https://www.nzz.ch/wirtschaft/trump-will-die-zoelle-erneut-erhoehen-aber-der-15-prozent-deal-mit-der-schweiz-duerfte-halten-ld.10074146"
+                },
+                {
+                  "name": "Watson/AP: Trump plant neue Zölle gegen die Schweiz – bis zu 15 Prozent",
+                  "url": "https://www.watson.ch/schweiz/international/396921227-donald-trump-kuendigt-neue-zoelle-fuer-die-schweiz-und-weitere-laender-an"
+                },
+                {
+                  "name": "Al Jazeera: Trump announces new trade tariffs",
+                  "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-konzernverantwortung-bundesrat-botschaft-gegenvorschlag-nufg",
+              "slug": "konzernverantwortung-bundesrat-botschaft-gegenvorschlag-nufg",
+              "title": "Konzernverantwortung: Bundesrat schickt abgeschwächten Gegenvorschlag ans Parlament",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "schweiz",
+              "icon": "🏭",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/66aa7f.jpg",
+              "kurz": "Sorgfaltspflichten nur für 30 bis 60 Grosskonzerne, keine Haftung für Tochterfirmen: Der Bundesrat orientiert sich eng an der gelockerten EU-Regel.",
+              "summary": "Der Bundesrat hat am Mittwoch die Botschaft zum neuen Bundesgesetz über die nachhaltige Unternehmensführung (NUFG) verabschiedet, als indirekten Gegenvorschlag zur zweiten Konzernverantwortungsinitiative. Die Sorgfaltspflichten sollen nur für Firmen mit mehr als 5000 Vollzeitstellen und über 1,5 Milliarden Franken Umsatz gelten, also für rund 30 bis 60 Konzerne.",
+              "gegenstimme": "Die Koalition für Konzernverantwortung wirft dem Bundesrat vor, der «Konzernlobby» gegenüber der Vernehmlassung weiter entgegengekommen zu sein; die kritisierten Schlupflöcher blieben bestehen, nun sei das Parlament gefordert. Von der anderen Seite lehnt Economiesuisse einen Gegenvorschlag grundsätzlich ab und warnt vor einem teuren «Schweizer Sonderweg» mit zusätzlicher Bürokratie. Der Bundesrat hält dagegen, die Pflichten gingen nicht über das EU-Niveau hinaus.",
+              "sources": [
+                {
+                  "name": "Bundesrat: Neues Gesetz für die nachhaltige Unternehmensführung",
+                  "url": "https://www.efd.admin.ch/de/newnsb/Prvb4ekrdHsH"
+                },
+                {
+                  "name": "SRF: Konzernverantwortung – Bundesrat passt sich der EU an",
+                  "url": "https://www.srf.ch/news/schweiz/gegenvorschlag-zu-initiative-konzernverantwortung-bundesrat-passt-sich-der-eu-an"
+                },
+                {
+                  "name": "Watson/Keystone-SDA: Bundesrat will Gegenvorschlag zu Konzernverantwortungs-Initiative",
+                  "url": "https://www.watson.ch/wirtschaft/schweiz/299198560-bundesrat-will-gegenvorschlag-zu-konzernverantwortungsinitiative"
+                },
+                {
+                  "name": "Koalition für Konzernverantwortung: Bundesrat schwächt Gegenvorschlag weiter ab (Initianten)",
+                  "url": "https://konzernverantwortung.ch/news/"
+                },
+                {
+                  "name": "Economiesuisse: Schweizer Sonderweg mit hohen Kosten (Meinung, Juli 2026)",
+                  "url": "https://www.economiesuisse.ch/de/artikel/gegenvorschlag-zur-neuen-konzernverantwortungsinitiative-schweizer-sonderweg-mit-hohen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-grosser-rat-bern-lehnt-gratis-kitas-ab",
+              "slug": "grosser-rat-bern-lehnt-gratis-kitas-ab",
+              "title": "Berner Grosser Rat lehnt Gratis-Kitas deutlich ab",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "regional",
+              "icon": "🧸",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/EiRl8aXh4xz9Gneuka5meX.jpg?op=ocroped&val=1200,600,1000,750,236,0&sum=f_6ZaAHshDE",
+              "kurz": "Mit 102 zu 50 Stimmen versenkt das Kantonsparlament die SP/Grüne-Motion – sie hätte jährlich über 160 Millionen Franken gekostet.",
+              "summary": "Der Grosse Rat des Kantons Bern hat am Mittwoch eine Motion von SP und Grünen für kostenlose Kitas mit 102 zu 50 Stimmen abgelehnt. Er folgte dem Regierungsrat, der die Mehrkosten für Kanton und Gemeinden allein für die heute genutzten Plätze auf über 160 Millionen Franken pro Jahr schätzt.",
+              "gegenstimme": "Motionärin Maya Weber Hadorn (SP) bezeichnete Kitas als «Service public» und kündigte an, das Anliegen wieder zu bringen. Die Grünen verwiesen auf die Frühförderung und die hohen Rechnungsüberschüsse des Kantons, die Gratis-Kitas finanzierbar machten. Auf der bürgerlichen Seite war die Ablehnung nicht nur finanziell begründet: Die EVP kritisierte, Gratis-Kitas benachteiligten Eltern, die ihre Kinder selbst betreuen, und schlug stattdessen ein Kindergeld vor.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Berner Kantonsparlament lehnt gratis Kinderbetreuung ab",
+                  "url": "https://www.swissinfo.ch/ger/berner-kantonsparlament-lehnt-gratis-kinderbetreuung-ab/92436801"
+                },
+                {
+                  "name": "Der Bund: Grosser Rat lehnt Gratis-Kitas deutlich ab",
+                  "url": "https://www.derbund.ch/kita-bern-grosser-rat-lehnt-gratis-kinderbetreuung-ab-428535868112"
+                },
+                {
+                  "name": "Kanton Bern: Antwort des Regierungsrats auf Motion 116-2026",
+                  "url": "https://www.rrgr-service.apps.be.ch/api/gr/documents/document/a965b78622ec4bab93ed341e69c95dd0-332/28/2026.GRPARL.352-RRB-D-643439.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-grosser-rat-bern-medikamentenabgabe-ausnahmen-arztpraxen",
+              "slug": "grosser-rat-bern-medikamentenabgabe-ausnahmen-arztpraxen",
+              "title": "Bern: Ärzte dürfen Medikamente künftig ausnahmsweise selbst abgeben",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "regional",
+              "icon": "💊",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/d1ab14d77e6657d6cc7cf8ff3d5a7126e644c22c-92436585.jpg?ver=425ec887&fit=1200,900",
+              "kurz": "Im Dauerstreit zwischen Ärzten und Apothekern bleibt die Regel von 1984 – neu kann das Gesundheitsamt aber Ausnahmen bewilligen.",
+              "summary": "Der Berner Grosse Rat hat am Mittwoch mit 91 zu 65 Stimmen entschieden, die Regeln zur Medikamentenabgabe in Arztpraxen (Selbstdispensation) grundsätzlich beizubehalten. Neu kann das Gesundheitsamt in begründeten Ausnahmefällen, etwa in Tourismusregionen, eine Selbstdispensation bewilligen.",
+              "gegenstimme": "SP, Grüne/AL und GLP stimmten praktisch geschlossen dagegen; sie kritisierten vor allem, dass nicht definiert sei, was ein Ausnahmefall ist. GLP-Grossrat Tobias Vögeli stellte grundsätzlich in Frage, ob es Staatsaufgabe sei, Berufsverbände zu besänftigen. Für Patientinnen und Patienten in Orten mit zwei oder mehr Apotheken ändert sich vorerst nichts – wer den direkten Bezug beim Arzt wünscht, bleibt aussen vor.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Berner Grosser Rat passt Regeln bei Medikamentenabgabe leicht an",
+                  "url": "https://www.swissinfo.ch/ger/berner-grosser-rat-passt-regeln-bei-medikamentenabgabe-leicht-an/92436598"
+                },
+                {
+                  "name": "Der Bund: Medikamente direkt beim Arzt – künftig in Ausnahmefällen möglich",
+                  "url": "https://www.derbund.ch/medikamentenabgabe-bern-erlaubt-ausnahmen-fuer-aerzte-198509932054"
+                },
+                {
+                  "name": "Kanton Bern: Kommission unschlüssig über Selbstdispensation (13.11.2026)",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=e3b8fb35-9cbf-4005-b415-47bf708f9521"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-lausanne-demo-sparpolitik-hundert-festnahmen",
+              "slug": "lausanne-demo-sparpolitik-hundert-festnahmen",
+              "title": "Lausanne: Rund 100 Festnahmen nach Demo gegen Sparpolitik, 41 davon Minderjährige",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "schweiz",
+              "icon": "🚔",
+              "edition": "evening",
+              "image": "https://www.watson.ch/imgdb/c02f/Z1200,675,1267,809,337,337/3110500893557323",
+              "kurz": "Nach einer friedlichen Grossdemo griff ein vermummter Block die Polizei mit Steinen und Pyros an – die Polizei setzte Tränengas und Gummischrot ein.",
+              "summary": "Nach einer bewilligten Kundgebung gegen die Sparpläne des Kantons Waadt mit rund 5000 Teilnehmenden hat die Polizei am Dienstagabend in Lausanne rund 100 Personen vorübergehend festgenommen, darunter 41 Minderjährige. Laut Kantonspolizei hatten sich danach rund 300 teils vermummte Personen zu einem unbewilligten Umzug formiert und die Einsatzkräfte mit Steinen, Glasflaschen und Pyrotechnik angegriffen.",
+              "gegenstimme": "Die linke Gruppierung Solidarités Vaud spricht von «Polizeirepression» und von wiederholten Angriffen auf das Demonstrationsrecht; ein Anti-Repressions-Kollektiv sagt, die Lage sei erst mit dem Polizeieinsatz eskaliert. Eine Anwohnerin, die 100 bis 150 eingekesselten Jugendlichen Zuflucht im Treppenhaus und Keller gab, kritisierte den Einsatz von Tränengas und Wasserwerfern bei zwei Grad. Kanton und Stadt verurteilen dagegen «entschieden» die Gewalt gegen die Polizei.",
+              "sources": [
+                {
+                  "name": "Kanton Waadt: Manifestation du 24 novembre 2026",
+                  "url": "https://www.vd.ch/actualites/actualite/news/26842-manifestation-du-24-novembre-2026-5000-manifestant-e-s-defilent-en-ville-de-lausanne"
+                },
+                {
+                  "name": "RTS: Lausanne – plus de 100 interpellations après la manifestation",
+                  "url": "https://www.rts.ch/info/regions/vaud/2026/article/lausanne-plus-de-100-interpellations-apres-la-manifestation-29427303.html"
+                },
+                {
+                  "name": "Watson/Keystone-SDA: Hundert Festnahmen nach Demo gegen Sparpolitik",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/306690511-demo-gegen-sparpolitik-in-lausanne-polizei-nimmt-hundert-leute-fest"
+                },
+                {
+                  "name": "20 Minuten: Anwohnerin rettet über 100 Jugendliche vor Tränengas",
+                  "url": "https://www.20min.ch/story/lausanne-anwohnerin-rettet-ueber-100-jugendliche-vor-traenengas-103673762"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-eu-busse-parfum-kartell-givaudan-firmenich-iff",
+              "slug": "eu-busse-parfum-kartell-givaudan-firmenich-iff",
+              "title": "EU büsst Givaudan, Firmenich und IFF mit 471,9 Millionen Euro wegen Duftstoff-Kartell",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "wirtschaft",
+              "icon": "🧴",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/25/85b80d98-3b5c-4ee8-a367-c8f00bcc220b.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C2121%2C1414&s=91a542277ea9c645ed0d9aed0dae0796",
+              "kurz": "Die zwei Schweizer Weltmarktführer tauschten über vier Jahre Preisinformationen aus – Givaudan zahlt mit 252 Millionen Euro am meisten.",
+              "summary": "Die EU-Kommission hat am Mittwoch die drei grössten Duftstoffhersteller der Welt wegen eines Kartells mit insgesamt 471,9 Millionen Euro gebüsst. Givaudan muss 252,4 Millionen Euro zahlen, Firmenich 137,7 Millionen und der US-Konzern IFF 81,9 Millionen; das Kartell dauerte von März 2019 bis März 2023 und umfasste den ganzen EWR.",
+              "gegenstimme": "Die Firmen haben ihre Beteiligung anerkannt und mit der Kommission einen Vergleich geschlossen; dafür wurden die Bussen reduziert. Die Kommission schreibt selbst nur, das Kartell habe die Kosten der Kunden «wahrscheinlich» erhöht – einen konkreten Preisschaden beziffert sie nicht. Konsumentinnen und Konsumenten erhalten aus den Bussen nichts; Geschädigte müssen vor nationalen Gerichten selbst auf Schadenersatz klagen.",
+              "sources": [
+                {
+                  "name": "EU-Kommission: Commission fines Firmenich, Givaudan and IFF €471.9 million (via 1848.nl)",
+                  "url": "https://app.1848.nl/document/item/583316"
+                },
+                {
+                  "name": "Reuters (via Euronext): EU fines 3 global fragrance makers",
+                  "url": "https://live.euronext.com/en/financial-news/eu-antitrust-regulators-fine-3-global-fragrance-makers-5165-million-taking-part"
+                },
+                {
+                  "name": "20 Minuten: Parfüm-Kartell fliegt auf – Millionenbusse für Schweizer Konzerne",
+                  "url": "https://www.20min.ch/story/firmenich-und-givaudan-parfuem-kartell-aufgeflogen-millionenbusse-fuer-schweizer-konzerne-103673755"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-netanyahu-prozess-richter-raten-fall-4000-fallen-zu-lassen",
+              "slug": "netanyahu-prozess-richter-raten-fall-4000-fallen-zu-lassen",
+              "title": "Netanyahu-Prozess: Richter raten der Anklage, den schwersten Fall fallen zu lassen",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/F261125CG119-e1795610211800.jpg",
+              "kurz": "Das Bezirksgericht Jerusalem sieht im Bestechungsfall 4000 kaum Aussicht auf Verurteilung – nach fast sieben Jahren Prozess ein Wendepunkt.",
+              "summary": "Die drei Richter im Korruptionsprozess gegen Israels Ministerpräsidenten Benjamin Netanyahu haben Generalstaatsanwältin Gali Baharav-Miara am Mittwoch persönlich vorgeladen und ihr nahegelegt, Fall 4000 fallen zu lassen. Die Chancen auf eine Verurteilung seien «so gering, dass eine Neubeurteilung gerechtfertigt ist»; auch bei Fall 2000 zweifeln sie, ob überhaupt eine Straftat vorliegt.",
+              "gegenstimme": "Die Generalstaatsanwältin verteidigte ihr Team und sagte nur eine Prüfung zu; ein sofortiges Verhandlungsangebot von Netanyahus Anwalt Amit Hadad lehnte sie ab. Die Richter betonten, es handle sich um vorläufige Eindrücke und kein Urteil, und die Anklage gegen den Unternehmer Shaul Elovitch sei davon nicht automatisch betroffen. Während Minister der Regierung nun ein Ende des Prozesses fordern, bleibt Fall 1000 – Luxusgeschenke im Wert von Hunderttausenden Schekel – mit realistischen Verurteilungschancen bestehen.",
+              "sources": [
+                {
+                  "name": "Times of Israel: Court casts heavy doubt over most serious Netanyahu charges",
+                  "url": "https://www.timesofisrael.com/court-casts-heavy-doubt-over-most-serious-netanyahu-charges-in-huge-blow-to-prosecution/"
+                },
+                {
+                  "name": "Jerusalem Post: Netanyahu trial judges suggest dropping Case 4000",
+                  "url": "https://www.jpost.com/israel-news/crime-in-israel/article-916054"
+                },
+                {
+                  "name": "Ynet: Judge – Netanyahu unlikely to be convicted in two corruption cases",
+                  "url": "https://www.ynetnews.com/article/b194len1ml"
+                },
+                {
+                  "name": "Audiatur-Online: Richter raten der Anklage, den Hauptfall fallen zu lassen",
+                  "url": "https://www.audiatur-online.ch/2026/11/25/netanyahu-prozess-richter-raten-der-anklage-den-hauptfall-fallen-zu-lassen/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-gaza-israel-toetet-auch-nachfolger-hamas-sicherheitschef",
+              "slug": "gaza-israel-toetet-auch-nachfolger-hamas-sicherheitschef",
+              "title": "Gaza: Israel tötet auch designierten Nachfolger des Hamas-Sicherheitschefs – mit Frau und Töchtern",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "international",
+              "icon": "🎯",
+              "edition": "evening",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T092857Z_670670454_RC2WUOAYSQUZ_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1-1795606726.jpg?resize=1920%2C1440",
+              "kurz": "Einen Tag nach Naim Abu Nahal ist Muhammad Abu al-Awf tot. Beim Angriff auf seine Wohnung starben auch seine Frau und zwei Töchter.",
+              "summary": "Bei einem israelischen Luftangriff auf eine Wohnung im Lager Schati in Gaza-Stadt ist in der Nacht auf Mittwoch Muhammad Abu al-Awf (47) getötet worden, Leiter des Hamas-Inlandsgeheimdienstes im nördlichen Gazastreifen. Armee und Schin Bet bestätigten den Angriff; laut dem Hamas-Innenministerium starben auch seine Frau und seine zwei Töchter im Alter von 13 und 15 Jahren.",
+              "gegenstimme": "Das Hamas-Innenministerium spricht von einem «schrecklichen Massaker» und wirft Israel vor, gezielt den Sicherheitsapparat zu zerschlagen, um Chaos zu stiften. Al Jazeera berichtet von mindestens sieben Toten bei israelischen Angriffen am selben Tag. Israel wirft Abu al-Awf dagegen vor, Angriffe auf Soldaten und Zivilisten vorbereitet und die Waffenruhe «systematisch» verletzt zu haben; der Apparat habe im Krieg Hamas-Gegner hingerichtet und Folterstätten betrieben.",
+              "sources": [
+                {
+                  "name": "Times of Israel: IDF also kills likely replacement of Hamas security chief",
+                  "url": "https://www.timesofisrael.com/a-day-after-killing-hamass-internal-security-chief-idf-also-kills-his-likely-replacement/"
+                },
+                {
+                  "name": "Al Jazeera: Israeli strike kills senior Hamas official, his wife and children",
+                  "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children"
+                },
+                {
+                  "name": "SRF: Newsticker Naher Osten",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-palaestinenser-hochrangiges-hamas-mitglied-bei-angriff-getoetet"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-bundestag-linke-blockieren-veranstaltung-ex-mossad-chef-barnea",
+              "slug": "bundestag-linke-blockieren-veranstaltung-ex-mossad-chef-barnea",
+              "title": "Bundestag: Linke-Abgeordnete blockieren Treffen mit Ex-Mossad-Chef Barnea",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "evening",
+              "image": "https://bilder.deutschlandfunk.de/26/77/26/72/26772672-1cf8-4000-b735-209d1797f2f1/ex-mossad-chef-david-barnea-100-1920x1080.jpg",
+              "kurz": "Zwei Abgeordnete setzten sich vor die Saaltür, ein Aktivist wurde abgeführt. Bundestagspräsidentin Klöckner bringt den Vorfall in den Ältestenrat.",
+              "summary": "Die Linken-Bundestagsabgeordneten Desiree Becker und Tamara Mazzi haben am Mittwoch im Paul-Löbe-Haus den Zugang zu einem Parlamentarischen Frühstück mit dem früheren Mossad-Chef David Barnea kurz blockiert. Danach störte ein Aktivist die Veranstaltung und wurde von der Bundestagspolizei aus dem Saal gebracht; Bundestagspräsidentin Julia Klöckner (CDU) will den Vorfall am Donnerstag im Ältestenrat ansprechen.",
+              "gegenstimme": "Becker sagte, der Bundestag dürfe «Kriegsverbrechern keine Bühne bieten»; die Abgeordneten hätten Fotos von Opfern des Pager-Angriffs hochgehalten. Die Berliner Organisation ECCHR hat gegen Barnea Strafanzeige wegen Verdachts auf Kriegsverbrechen erstattet. Schirmherr Konstantin von Notz (Grüne) verteidigte das Treffen: Die israelischen Dienste seien enge Partner von BND und Verfassungsschutz, die Zusammenarbeit sei «wichtig und wertvoll, auch für die Sicherheit in Deutschland».",
+              "sources": [
+                {
+                  "name": "WELT: Linken-Abgeordnete blockieren Bundestagsveranstaltung mit Ex-Mossad-Chef",
+                  "url": "https://www.welt.de/politik/deutschland/article6b06c4ecd4a4a3142c572fe6/bundestag-linke-abgeordnete-blockieren-veranstaltung-mit-ex-mossad-chef.html"
+                },
+                {
+                  "name": "n-tv/dpa: Linke blockieren Parlamentsfrühstück mit Ex-Mossad-Chef",
+                  "url": "https://www.n-tv.de/politik/Linke-blockieren-Parlamentsfruehstueck-mit-Ex-Mossad-Chef-id31576990.html"
+                },
+                {
+                  "name": "Deutschlandfunk: Vorfall im Parlament soll ein Nachspiel haben",
+                  "url": "https://www.deutschlandfunk.de/linken-abgeordnete-blockieren-veranstaltung-mit-ex-mossad-chef-vorfall-im-parlament-soll-ein-nachspi-100.html"
+                },
+                {
+                  "name": "Spiegel: Tumulte im Bundestag rund um Besuch von Ex-Mossad-Chef",
+                  "url": "https://www.spiegel.de/politik/deutschland/bundestag-tumulte-rund-um-besuch-von-ex-mossad-chef-david-barnea-a-a900cae3-9de2-469f-a225-d3a5e2b6cd73"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-ukraine-trifft-russische-kampfjets-savasleika-russland-angriffe-energie",
+              "slug": "ukraine-trifft-russische-kampfjets-savasleika-russland-angriffe-energie",
+              "title": "Ukraine meldet Treffer auf fünf russische Kampfjets – Russland legt Strom in fünf Regionen lahm",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "international",
+              "icon": "✈️",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
+              "kurz": "Kiew greift einen Flugplatz 300 km östlich von Moskau und zwei Raffinerien an; russische Schläge treffen die ukrainische Energieversorgung.",
+              "summary": "Der ukrainische Generalstab gibt an, auf dem Militärflugplatz Sawasleika rund 300 Kilometer östlich von Moskau drei MiG-31 und zwei Su-34 beschädigt zu haben; zudem seien zwei Raffinerien in der Region Samara getroffen worden. Russische Angriffe auf die Energie-Infrastruktur verursachten gleichzeitig Stromausfälle in den Regionen Dnipropetrowsk, Donezk, Saporischschja, Odessa und Charkiw.",
+              "gegenstimme": "Russland hat sich zum Angriff auf Sawasleika nicht geäussert; Ausmass und Art der Schäden sind unabhängig nicht bestätigt, Kiew selbst spricht von einer laufenden Auswertung. Der Gouverneur von Samara meldete über 145 abgeschossene Drohnen, einen Toten und Stromausfälle – die ukrainischen Angriffe treffen also auch zivile Versorgung in Russland. Umgekehrt zeigt der erneute Ausfall der Stromversorgung des AKW Saporischschja, wie gefährlich die Angriffe auf das ukrainische Netz sind.",
+              "sources": [
+                {
+                  "name": "BBC: Five Russian military jets hit in airfield strike, says Ukraine",
+                  "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo"
+                },
+                {
+                  "name": "Al Jazeera: Russian strikes on Ukraine kill five, cause power outages in five regions",
+                  "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions"
+                },
+                {
+                  "name": "SRF: Ukraine greift russische Kampfjets und Raffinerien an",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukraine-greift-russische-kampfjets-und-raffinerien-an"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-australien-gesetz-digital-duty-of-care-milliardenbussen-techkonzerne",
+              "slug": "australien-gesetz-digital-duty-of-care-milliardenbussen-techkonzerne",
+              "title": "Australien droht Techkonzernen mit Bussen bis 5 Prozent des Weltumsatzes",
+              "date": "2026-11-25",
+              "time": "17:20",
+              "category": "tech",
+              "icon": "📱",
+              "edition": "evening",
+              "image": "https://cdn.unitycms.io/images/8-vhG6GCaEg8KH_HunSvx4.jpg?op=ocroped&val=1200,600,1000,750,125,0&sum=ovHcmISA-9o",
+              "kurz": "Das neue Onlinesicherheitsgesetz verpflichtet Apps, Games und KI-Chatbots, vorhersehbare Schäden zu verhindern – Kritiker warnen vor Zensur.",
+              "summary": "Das australische Parlament hat am Mittwoch den «Digital Duty of Care» verabschiedet: Das Repräsentantenhaus stimmte mit 97 zu 43, der Senat mit 36 zu 23 Stimmen zu. Onlinedienste wie Apps, Spiele und KI-Chatbots müssen künftig vorhersehbare schwere Schäden verhindern; bei Verstössen drohen Bussen bis zu 5 Prozent des weltweiten Umsatzes.",
+              "gegenstimme": "Oppositionsführer Angus Taylor (Liberale) nennt das Gesetz «autoritär» und einen «Blankoscheck für politische Zensur» und will es bei einem Wahlsieg 2028 aufheben. US-Botschafter David Brat warnte, «vage definierte Schäden» bei so hohen Bussen würden Plattformen dazu bringen, legale Äusserungen zu löschen, und benachteiligten US-Firmen. Die Regierung und die Grünen halten dagegen, die Sicherheit von Kindern gehe den Gewinnen der Konzerne vor.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger/dpa: Australien droht Techkonzernen mit Milliardenstrafen",
+                  "url": "https://www.tagesanzeiger.ch/australien-neues-gesetz-zur-onlinesicherheit-verabschiedet-391980750713"
+                },
+                {
+                  "name": "India Today: Australia passes online safety law",
+                  "url": "https://www.indiatoday.in/world/story/australia-passes-online-safety-law-big-tech-can-face-fines-of-up-to-5-per-cent-of-global-revenue-3046713-2026-11-25"
                 }
               ]
             }
