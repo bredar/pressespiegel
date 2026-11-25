@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T06:20:00+01:00",
+  "updated": "2026-11-25T12:20:00+01:00",
   "days": [
     {
       "date": "2026-11-25",
@@ -356,6 +356,339 @@
                 {
                   "name": "Times of Israel: Democrats suspend coalition talks with Yashar",
                   "url": "https://www.timesofisrael.com/democrats-party-declares-suspension-of-coalition-talks-with-yashar-amid-stalemate/"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:20",
+          "articles": [
+            {
+              "id": "2026-11-25-drittstaatenkontingente-2027-unveraendert",
+              "slug": "drittstaatenkontingente-2027-unveraendert",
+              "title": "Bundesrat lässt Kontingente für Fachkräfte aus Drittstaaten 2027 unverändert",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "schweiz",
+              "icon": "🛂",
+              "edition": "midday",
+              "image": "https://c.nau.ch/i/1kDPx/1360/680/erwerbstatige-aus-drittstaaten.jpg",
+              "kurz": "Auch 2027 dürfen Firmen höchstens 8500 Fachkräfte aus Nicht-EU-Staaten holen – genutzt wurden zuletzt nur 69 Prozent.",
+              "summary": "Der Bundesrat hat am Mittwoch die Höchstzahlen für erwerbstätige Drittstaatsangehörige für 2027 unverändert festgelegt: 8500 Bewilligungen, davon 4500 Aufenthaltsbewilligungen B und 4000 Kurzaufenthaltsbewilligungen L. Für Dienstleistungserbringer aus EU/EFTA-Staaten bleiben es 3500, für Erwerbstätige aus Grossbritannien ebenfalls 3500 Bewilligungen.",
+              "gegenstimme": "Der Schweizerische Arbeitgeberverband hatte in der Vernehmlassung zwar das bisherige Niveau als Minimum akzeptiert, verlangt aber 10’000 Drittstaaten-Bewilligungen, falls der Schutzstatus S im März 2027 aufgehoben wird – damit integrierte Ukrainerinnen und Ukrainer bleiben können. Zuwanderungskritische Kreise, allen voran die SVP, halten dagegen jede zusätzliche Zuwanderung für problematisch und verweisen darauf, dass die Bevölkerung vor allem über Personenfreizügigkeit und Asyl wächst, wo der Bundesrat kaum steuert.",
+              "sources": [
+                {
+                  "name": "SEM/Bundesrat: Unveränderte Drittstaatenkontingente für 2027",
+                  "url": "https://www.admin.ch/de/newnsb/dvHGtzzJ-yR0"
+                },
+                {
+                  "name": "Nau.ch/Keystone-SDA: Kontingente für Fachleute aus Drittstaaten bleiben 2027 unverändert",
+                  "url": "https://www.nau.ch/news/schweiz/kontingente-fur-fachleute-aus-drittstaaten-bleiben-2027-unverandert-67206595"
+                },
+                {
+                  "name": "Schweizerischer Arbeitgeberverband: Bei Wegfall des Status S braucht es eine Erhöhung (Meinung)",
+                  "url": "https://www.arbeitgeber.ch/arbeitsmarkt/drittstaatenkontingente-bei-wegfall-des-status-s-braucht-es-eine-erhoehung-fuer-qualifizierte-arbeitskraefte/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-finanzausgleich-2027-bern-groesster-nehmerkanton",
+              "slug": "finanzausgleich-2027-bern-groesster-nehmerkanton",
+              "title": "Finanzausgleich 2027: 6,9 Milliarden – Bern bleibt grösster Empfänger",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "regional",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/e6128e.jpg",
+              "kurz": "Der Bundesrat hat die Zahlungen definitiv genehmigt: 527 Millionen mehr als 2026, Bern erhält netto rund 1,7 Milliarden.",
+              "summary": "Der Bundesrat hat am Mittwoch die Finanzausgleichszahlungen für 2027 definitiv gutgeheissen: Sie steigen um 527 Millionen auf 6,9 Milliarden Franken. Der Kanton Bern bleibt mit netto rund 1,7 Milliarden Franken mit Abstand der grösste Nehmerkanton, Zug mit rund 529 Millionen der grösste Zahler.",
+              "gegenstimme": "Aus Sicht der Geberkantone wird die Last immer schwerer: Zug zahlt 2027 rund 62 Millionen mehr als im Vorjahr, pro Kopf 4001 Franken. Aus finanzstarken Kantonen kommt seit Jahren die Kritik, dass das System wenig Anreize setze, die eigene Wirtschaftskraft zu steigern. Die Nehmerkantone halten dagegen, dass der Ausgleich gesetzlich vorgesehen ist, um strukturelle Nachteile wie Topografie, Siedlungsstruktur oder tiefe Steuerkraft auszugleichen – und dass die Zahlen aus objektiven Steuerdaten berechnet werden.",
+              "sources": [
+                {
+                  "name": "EFV/Bundesrat: Finanzausgleich – starker Anstieg der Ausgleichszahlungen 2027",
+                  "url": "https://www.efv.admin.ch/de/finanzausgleich-starker-anstieg-ausgleichszahlungen-2027"
+                },
+                {
+                  "name": "SRF: Finanzausgleich 2027 – die Profiteure sind Bern, Wallis und Aargau",
+                  "url": "https://www.srf.ch/news/wirtschaft/nationaler-finanzausgleich-finanzausgleich-2027-die-profiteure-sind-bern-wallis-und-aargau"
+                },
+                {
+                  "name": "Statistikportal Kanton Zug: Nationaler Finanzausgleich",
+                  "url": "https://statistik.zg.ch/produkte/00131/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-biel-reuchenettestrasse-lastwagenverbot-2027",
+              "slug": "biel-reuchenettestrasse-lastwagenverbot-2027",
+              "title": "Biel: Kanton will Lastwagen von der Reuchenettestrasse verbannen",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "regional",
+              "icon": "🚛",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/0278d861d1d8fb579c78cc16d0f0f474c910b1ac-92433517.jpg?ver=f011ba67&fit=1200,900",
+              "kurz": "Ab 2027 soll auf der engen Bieler Achse schrittweise ein Lastwagenfahrverbot gelten – rund 270 Fahrten pro Tag weniger.",
+              "summary": "Die Bau- und Verkehrsdirektion des Kantons Bern plant, ab 2027 auf der Reuchenettestrasse in Biel schrittweise ein Lastwagenfahrverbot einzuführen. Zubringerdienst und Traktoren bleiben erlaubt; der Kanton reagiert damit auf Vorstösse im Grossen Rat und im Bieler Stadtparlament.",
+              "gegenstimme": "Für Transportunternehmen und Zulieferer bedeutet das Verbot Umwege über den Anschluss Biel-Ost und den A5-Ostast; ob das Gewerbe sich wehrt, ist noch offen. Aus Sicht des Velo- und Fussverkehrs bleibt offen, ob ein Verbot ohne baulichen Umbau genügt. Zudem stellt sich die Frage, wie konsequent ein Fahrverbot mit Ausnahme für Zubringer kontrolliert werden kann.",
+              "sources": [
+                {
+                  "name": "Kanton Bern: Reuchenettestrasse Biel – Lastwagenfahrverbot",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=40a90ee0-20e8-4843-866d-587448e500b5"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Kanton plant Lastwagenverbot auf Bieler Reuchenettestrasse",
+                  "url": "https://www.swissinfo.ch/ger/kanton-plant-lastwagenverbot-auf-bieler-reuchenettestrasse/92433530"
+                },
+                {
+                  "name": "Der Bund: Kanton plant Lastwagenverbot auf der engen Reuchenettestrasse",
+                  "url": "https://www.derbund.ch/reuchenettestrasse-biel-lastwagenverbot-ab-2027-geplant-205447791974"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Deutlich weniger Autoverkehr auf Bieler Hauptachsen",
+                  "url": "https://www.swissinfo.ch/ger/deutlich-weniger-autoverkehr-auf-bieler-hauptachsen/92433501"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-langnau-ilfis-hochwasserschutz-kosten-verdoppelt",
+              "slug": "langnau-ilfis-hochwasserschutz-kosten-verdoppelt",
+              "title": "Langnau: Hochwasserschutz an der Ilfis wird doppelt so teuer",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "regional",
+              "icon": "🌊",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/965f7c85839a5329bcf2fd9d0a139ccb23b4eebe-92434399.jpg?ver=482a319c&fit=1200,900",
+              "kurz": "Statt 15 nun über 30 Millionen Franken: Der Gemeinderat will das Projekt verkleinern, weil die Gemeinde sonst mindestens 10 Millionen tragen müsste.",
+              "summary": "Der Gemeinderat von Langnau im Emmental will das Hochwasserschutzprojekt «Ilfis Langnau Mitte-Ost» redimensionieren. Die geschätzten Kosten sind von rund 15 auf über 30 Millionen Franken gestiegen, gleichzeitig haben Bund und Kanton die Subventionsregeln geändert.",
+              "gegenstimme": "Ein kleineres Projekt spart Geld, kann aber weniger Schutz für die betroffenen Quartiere bedeuten – gerade im Emmental, wo Hochwasser regelmässig Schäden anrichten. Wer an den ökologischen Zielen festhält, dürfte eine Verkleinerung kritisch sehen. Umgekehrt stellt sich die Frage, warum die Kostenschätzung erst nach Jahren Planung derart aus dem Ruder lief.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Langnau muss Hochwasserschutzprojekt an der Ilfis überprüfen",
+                  "url": "https://www.swissinfo.ch/ger/langnau-muss-hochwasserschutzprojekt-an-der-ilfis-%c3%bcberpr%c3%bcfen/92434412"
+                },
+                {
+                  "name": "Der Bund: Kosten verdoppelt – Langnau prüft Verkleinerung beim Hochwasserschutz",
+                  "url": "https://www.derbund.ch/hochwasserschutz-langnau-kosten-steigen-auf-30-millionen-617153950181"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-iihf-zieht-tas-urteil-russland-vor-bundesgericht",
+              "slug": "iihf-zieht-tas-urteil-russland-vor-bundesgericht",
+              "title": "Eishockey: IIHF zieht Russland-Urteil des TAS ans Bundesgericht",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "schweiz",
+              "icon": "🏒",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_sport/07eb46.jpg",
+              "kurz": "Der Weltverband zweifelt an der Unabhängigkeit von zwei der drei Schiedsrichter – nun soll Lausanne entscheiden.",
+              "summary": "Der Internationale Eishockeyverband IIHF zieht das Urteil des Internationalen Sportgerichtshofs TAS, das die Suspendierung der russischen Teams aufgehoben hatte, an das Schweizerische Bundesgericht weiter. Das Council begründet dies mit Zweifeln an der Unabhängigkeit von zwei der drei Schiedsrichter, denen mögliche Verbindungen zu Russland nachgesagt werden.",
+              "gegenstimme": "Russland und seine Unterstützer sehen im TAS-Urteil die Bestätigung, dass Sportler nicht für den Krieg ihres Staates bestraft werden dürfen, und werten den Gang ans Bundesgericht als politisch motiviert. Befürworter des Ausschlusses halten dagegen, eine Rückkehr Russlands während des andauernden Angriffskriegs gegen die Ukraine sei nicht vertretbar – zumal mehrere Gastgeberländer ohnehin keine Visa erteilen wollen.",
+              "sources": [
+                {
+                  "name": "SRF: IIHF zieht TAS-Urteil zu Russland vor das Bundesgericht",
+                  "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/zweifel-an-unabhaengigkeit-iihf-zieht-tas-urteil-zu-russland-vor-das-bundesgericht"
+                },
+                {
+                  "name": "NZZ: Streit um Russlands WM-Teilnahme – die neuesten Entwicklungen",
+                  "url": "https://www.nzz.ch/sport/streit-um-russlands-wm-teilnahme-russischer-eishockeyverband-droht-gastgeber-deutschland-ld.10063174"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-terror-18-razzia-rechtsextreme-jugendliche-festgenommen",
+              "slug": "terror-18-razzia-rechtsextreme-jugendliche-festgenommen",
+              "title": "Deutschland: Bundesanwaltschaft geht gegen rechtsextreme Jugendgruppe «Terror 18» vor",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "politik",
+              "icon": "🚔",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/01e14bf7-b158-4fac-9831-4029b5655fb2/AAABnkUewKg/AAABnSSvrFg/16x9-big/generalbundesanwalt-130.jpg?width=1280",
+              "kurz": "Drei 14- und 15-Jährige festgenommen: Die Gruppe soll Brandanschläge und gezielte Tötungen von Ausländern und politischen Gegnern geplant haben.",
+              "summary": "Die deutsche Bundesanwaltschaft hat am Mittwoch in Brandenburg, Niedersachsen und Schleswig-Holstein drei mutmassliche Mitglieder der rechtsextremistischen Gruppe «Terror 18» festnehmen lassen. Den deutschen Staatsangehörigen im Alter von 14 und 15 Jahren wird Mitgliedschaft in einer terroristischen Vereinigung vorgeworfen; zehn Objekte wurden durchsucht.",
+              "gegenstimme": "Der Fall sollte nicht politisch instrumentalisiert werden: Er belegt keine breite Bewegung und rechtfertigt nicht, Kritik an der Migrationspolitik pauschal mit Terror gleichzusetzen. Umgekehrt zeigt er, wie schnell sich sehr junge Menschen in Online-Gruppen radikalisieren und Gewalt gegen Ausländer und Andersdenkende planen. Für die Beschuldigten gilt die Unschuldsvermutung; bei 14- und 15-Jährigen kommt das Jugendstrafrecht zur Anwendung.",
+              "sources": [
+                {
+                  "name": "Tagesschau: Razzia bei rechtsextremistischer Gruppe «Terror 18»",
+                  "url": "https://www.tagesschau.de/eilmeldung/razzia-terror-18-100.html"
+                },
+                {
+                  "name": "WELT: Rechtsextremistische Gruppe «Terror 18» zerschlagen",
+                  "url": "https://www.welt.de/politik/deutschland/article6b06a4fdc75e09cb88d1502b/razzia-rechtsextremistische-gruppe-terror-18-zerschlagen-polizei-nimmt-drei-jugendliche-fest.html"
+                },
+                {
+                  "name": "Spiegel: Bundesanwaltschaft geht gegen mutmassliche Rechtsterroristen vor",
+                  "url": "https://www.spiegel.de/panorama/justiz/terror-18-bundesanwaltschaft-geht-gegen-mutmassliche-rechtsterroristen-vor-a-0f1adf41-8cf7-4306-934d-6d8d9186fa43"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-deutschland-bip-drittes-quartal-nur-0-1-prozent",
+              "slug": "deutschland-bip-drittes-quartal-nur-0-1-prozent",
+              "title": "Deutsche Wirtschaft wuchs im Sommer nur um 0,1 Prozent",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "wirtschaft",
+              "icon": "📉",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/396900cc-1f7b-4550-977f-19cc8ca507be/AAABogyBELc/AAABnSSvrFg/16x9-big/konjunktur-420.jpg?width=1280",
+              "kurz": "Das Statistische Bundesamt halbiert seine Schätzung: Exporte und Investitionen brechen ein, nur der Konsum hält die Wirtschaft knapp im Plus.",
+              "summary": "Das deutsche Bruttoinlandsprodukt ist im dritten Quartal 2026 nur um 0,1 Prozent gegenüber dem Vorquartal gewachsen, wie das Statistische Bundesamt am Mittwoch mitteilte. Ende Oktober war noch ein Plus von 0,2 Prozent geschätzt worden; im zweiten Quartal betrug das Wachstum 0,3 Prozent.",
+              "gegenstimme": "Optimisten verweisen darauf, dass es das vierte Quartalsplus in Folge ist und der Ifo-Geschäftsklimaindex auf den höchsten Stand seit 2023 gestiegen ist. Kritiker wie Bethmann-Chefökonom Alexander Krüger warnen dagegen, dass fast nur der schuldenfinanzierte Staatskonsum zulegt – die AfD kündigte am selben Tag in der Haushaltsdebatte eine Klage gegen den Bundeshaushalt an, Kanzler Merz nannte den Etat «vertretbar».",
+              "sources": [
+                {
+                  "name": "Tagesschau: Deutsche Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
+                  "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html"
+                },
+                {
+                  "name": "Spiegel: Deutsche Wirtschaft wuchs im dritten Quartal nur um 0,1 Prozent",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/bruttoinlandsprodukt-deutsche-wirtschaft-wuchs-im-dritten-quartal-nur-um-0-1-prozent-a-ac4e0c68-791b-41ad-ba00-15757a303758"
+                },
+                {
+                  "name": "Tagesschau: AfD fordert Klage gegen Haushalt – Merz nennt Etat vertretbar",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-154.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-tuerkei-imamoglu-diplom-endgueltig-aberkannt",
+              "slug": "tuerkei-imamoglu-diplom-endgueltig-aberkannt",
+              "title": "Türkei: Gericht entzieht Erdogan-Rivale Imamoglu endgültig das Diplom",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "politik",
+              "icon": "🇹🇷",
+              "edition": "midday",
+              "image": "https://c.nau.ch/i/ynn8Gm/1360/680/imamoglu.jpg",
+              "kurz": "Ohne Hochschulabschluss darf der inhaftierte Istanbuler Bürgermeister nicht Präsident werden – seine Anwälte ziehen vors Verfassungsgericht.",
+              "summary": "Das Oberste Verwaltungsgericht der Türkei (Danistay) hat am Mittwoch die Aberkennung des Universitätsdiploms von Ekrem Imamoglu einstimmig und letztinstanzlich bestätigt. Weil die Verfassung für Präsidentschaftskandidaten einen Hochschulabschluss verlangt, fehlt dem wichtigsten Rivalen von Präsident Recep Tayyip Erdogan damit die Voraussetzung für eine Kandidatur 2028.",
+              "gegenstimme": "Regierung und Justiz verweisen auf angebliche Unregelmässigkeiten beim Universitätswechsel 1990 von der Girne American University in Nordzypern an die Universität Istanbul; es handle sich um ein ordentliches Verfahren. Die Opposition und Imamoglus Anwalt nennen das Urteil «irrational» und politisch motiviert: Oppositionsführer Özgür Özel sagte, das Diplom sei aberkannt worden, weil Imamoglu Erdogan in einer Wahl besiegen würde.",
+              "sources": [
+                {
+                  "name": "Hürriyet Daily News: Top administrative court upholds annulment of İmamoğlu’s diploma",
+                  "url": "https://www.hurriyetdailynews.com/top-administrative-court-upholds-annulment-of-imamoglus-diploma-229830"
+                },
+                {
+                  "name": "Nau.ch/DPA: Erdogan-Rivale wird Voraussetzung fürs Präsidentenamt final entzogen",
+                  "url": "https://www.nau.ch/news/europa/erdogan-rivale-wird-voraussetzung-furs-prasidentenamt-final-entzogen-67206602"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-kanaren-el-hierro-rekord-2100-migranten-an-einem-tag",
+              "slug": "kanaren-el-hierro-rekord-2100-migranten-an-einem-tag",
+              "title": "Kanaren: Über 2100 Migranten an einem Tag auf El Hierro – Rekord",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "international",
+              "icon": "🚤",
+              "edition": "midday",
+              "image": "https://imagenes.elpais.com/resizer/v2/T2HRAF4QYBNSRC2HCCFDGNJNNA.jpg?auth=9b87798fab4cdc06db6d4ee8d75b61a19a8694594bedddbf7016f11cbd0eee66&width=1200",
+              "kurz": "Noch nie kamen in Spanien an einem Tag so viele Bootsmigranten an. Die Kanaren-Regierung spricht von einem «gescheiterten System».",
+              "summary": "Am Dienstag sind auf der Kanareninsel El Hierro über 2100 Migranten in 14 bis 15 Booten angekommen, die meisten aus Senegal und Gambia – so viele wie noch nie an einem Tag in Spanien. Eine Person starb auf der Überfahrt; unter den Ankommenden waren 203 Frauen und 127 Minderjährige.",
+              "gegenstimme": "Kanaren-Präsident Fernando Clavijo verlangt mehr Mittel und spricht von einem gescheiterten System; Kritiker der spanischen und europäischen Migrationspolitik sehen in den Rekordzahlen den Beleg, dass fehlender Grenzschutz und Rettung vor der Küste die Überfahrten erst attraktiv machen. Hilfsorganisationen wie die Schweizer Humanitarian Pilots Initiative argumentieren umgekehrt, die Route werde immer tödlicher und es brauche mehr Seenotrettung und legale Wege.",
+              "sources": [
+                {
+                  "name": "El País: La ruta canaria vuelve a batir su récord – 2.100 migrantes en El Hierro",
+                  "url": "https://elpais.com/espana/2026-11-24/seis-nuevos-cayucos-llegan-a-canarias-con-900-personas.html"
+                },
+                {
+                  "name": "Spiegel: Rekordzahl von Migranten auf El Hierro angekommen",
+                  "url": "https://www.spiegel.de/ausland/spanien-rekordzahl-von-migranten-auf-el-hierro-angekommen-a-8f070602-7629-40f4-a5a9-0485e86804e4"
+                },
+                {
+                  "name": "Nau.ch/Keystone-SDA: Schweizer Luftaufklärungsprojekt sichtet fünf Boote im Atlantik",
+                  "url": "https://www.nau.ch/news/ausland/schweizer-luftaufklarungsprojekt-sichtet-funf-boote-im-atlantik-67206480"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-libyen-zwei-offiziere-tot-nach-ukrainischem-drohnenangriff-bengasi",
+              "slug": "libyen-zwei-offiziere-tot-nach-ukrainischem-drohnenangriff-bengasi",
+              "title": "Libyen: Zwei Offiziere sterben nach ukrainischem Angriff auf russisches Kriegsschiff",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "international",
+              "icon": "⚓",
+              "edition": "midday",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0696ca9bb9d-1795593930.jpg?resize=1920%2C1440",
+              "kurz": "Der Krieg greift nach Nordafrika über: Haftars Armee droht nach dem Tod zweier Marineoffiziere mit Vergeltung.",
+              "summary": "Zwei Marineoffiziere der ostlibyschen Libyschen Nationalarmee (LNA) von General Khalifa Haftar sind am Dienstag ihren Verletzungen erlegen. Sie waren beim ukrainischen Seedrohnenangriff auf die russische Korvette «Merkury» im Marinestützpunkt Bengasi in der Nacht auf Montag verletzt worden.",
+              "gegenstimme": "Präsident Selenskyj hatte den Angriff als «beispielhafte ukrainische Operation» gefeiert; aus ukrainischer Sicht ist ein russisches Kriegsschiff ein militärisches Ziel, auch im Ausland. Die ostlibysche Regierung spricht dagegen von einer «verräterischen ukrainischen Aggression» gegen libysches Territorium und hat sich bei der UNO beschwert; ein früherer US-Beamter warnte gegenüber Fox News vor einer «ernsthaften Eskalation».",
+              "sources": [
+                {
+                  "name": "Al Jazeera: Two Libyan soldiers die after Ukraine attack on Russian vessel",
+                  "url": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel"
+                },
+                {
+                  "name": "Der Bund: Libysche Marineoffiziere nach ukrainischem Drohnenangriff gestorben",
+                  "url": "https://www.derbund.ch/bengasi-zwei-libysche-offiziere-nach-seedrohnenangriff-tot-776810780836"
+                },
+                {
+                  "name": "Fox News: Zelenskyy hails exemplary Ukrainian operation sinking Russian warship off Libya",
+                  "url": "https://www.foxnews.com/world/zelenskyy-hails-exemplary-ukrainian-operation-sinking-russian-warship-libya"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-kolumbien-autobombe-villavicencio-geiselnahme-cartagena",
+              "slug": "kolumbien-autobombe-villavicencio-geiselnahme-cartagena",
+              "title": "Kolumbien: Autobombe zum Jahrestag des Friedensvertrags, Geiselnahme in Cartagena beendet",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "international",
+              "icon": "🇨🇴",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77f7/live/4f619020-e8b3-11f1-9e64-bddd508b9881.jpg",
+              "kurz": "20 Verletzte in Villavicencio, 17 Stunden Geiselhaft in einem Supermarkt: Präsident De la Espriella kündigt harte Hand an.",
+              "summary": "Bei einem Autobombenanschlag in Villavicencio im Departement Meta sind in der Nacht auf Dienstag mindestens 20 Menschen verletzt worden, Präsident Abelardo de la Espriella macht die Farc-Splittergruppe von Iván Mordisco verantwortlich. In Cartagena befreiten Spezialkräfte am Dienstag rund 20 Geiseln, die bewaffnete Männer nach einem gescheiterten Überfall 17 Stunden lang in einem Supermarkt festgehalten hatten; ein Geiselnehmer wurde getötet.",
+              "gegenstimme": "De la Espriella setzt auf Härte: «Wir werden weder zurückweichen noch unter Terror verhandeln.» Befürworter des Friedensprozesses wie Caritas international kritisieren dagegen, dass zentrale Teile des Abkommens – Landreform, Wiedereingliederung, Opferentschädigung – bis heute nicht umgesetzt seien und dies bewaffneten Gruppen neuen Zulauf verschaffe.",
+              "sources": [
+                {
+                  "name": "NZZ: Bombenanschlag vor dem Jahrestag des Friedensvertrags in Kolumbien",
+                  "url": "https://www.nzz.ch/international/bombenanschlag-vor-dem-jahrestag-des-friedensvertrags-in-kolumbien-ld.10074120"
+                },
+                {
+                  "name": "BBC: Colombian police storm supermarket to free 20 held hostage for 17 hours",
+                  "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo"
+                },
+                {
+                  "name": "Spiegel: Polizei beendet laut Präsident Geiselnahme in Supermarkt",
+                  "url": "https://www.spiegel.de/panorama/justiz/kolumbien-angreifer-halten-mindestens-20-menschen-als-geiseln-in-supermarkt-a-f938d0ec-3591-4a70-b5aa-e5dc8ef74aa6"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-deichmann-hackerangriff-onlineshop-kundendaten",
+              "slug": "deichmann-hackerangriff-onlineshop-kundendaten",
+              "title": "Hacker erbeuten Kundendaten aus dem Onlineshop von Deichmann",
+              "date": "2026-11-25",
+              "time": "12:20",
+              "category": "tech",
+              "icon": "🔓",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/cb53365e-9ff0-4840-bc18-416f0447a532_w1200_r1.778_fpx29_fpy29.jpg",
+              "kurz": "Namen, Adressen, Telefonnummern und Rechnungen sind betroffen – Deichmann warnt vor täuschend echten Phishing-Versuchen.",
+              "summary": "Unbekannte haben sich Zugriff auf Kundendaten aus dem Onlineshop des Schuhhändlers Deichmann verschafft, wie das Unternehmen am Dienstag mitteilte. Betroffen sind Namen, Rechnungs- und Lieferadressen, E-Mail-Adressen, Telefonnummern, Rechnungen und die gewählte Zahlungsart; Passwörter und Zahlungsdaten wie Kreditkartennummern sollen nicht abgeflossen sein.",
+              "gegenstimme": "Deichmann betont, der Umfang sei «begrenzt», die Lücke geschlossen und es gebe keine Hinweise auf Missbrauch. Dagegen spricht: Gerade Bestelldaten mit echten Rechnungen sind für Betrüger wertvoll, weil sie gefälschte Mahnungen und Anrufe glaubwürdig machen. Zudem nennt das Unternehmen weder die Zahl der Betroffenen noch die Art der Schwachstelle.",
+              "sources": [
+                {
+                  "name": "Spiegel: Hacker erbeuten Kundendaten im Onlineshop von Deichmann",
+                  "url": "https://www.spiegel.de/netzwelt/web/hacker-erbeuten-kundendaten-im-onlineshop-von-deichmann-a-99004b5b-1694-488f-8a55-1e30778dce82"
+                },
+                {
+                  "name": "Caschys Blog: Deichmann – IT-Sicherheitsvorfall im Onlineshop betrifft Kundendaten",
+                  "url": "https://stadt-bremerhaven.de/deichmann-it-sicherheitsvorfall-im-onlineshop-betrifft-kundendaten/"
+                },
+                {
+                  "name": "Netzwelt: Datenleck bei Deichmann",
+                  "url": "https://www.netzwelt.de/news/261222-datenleck-deichmann-onlineshop-bestellt-sollte-mails-achten.html"
                 }
               ]
             }
