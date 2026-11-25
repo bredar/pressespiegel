@@ -1,6 +1,368 @@
 {
-  "updated": "2026-11-24T17:05:00+01:00",
+  "updated": "2026-11-25T06:20:00+01:00",
   "days": [
+    {
+      "date": "2026-11-25",
+      "editions": {
+        "morning": {
+          "time": "06:20",
+          "articles": [
+            {
+              "id": "2026-11-25-nordkorea-weist-schweizer-diplomaten-aus-buero-geschlossen",
+              "slug": "nordkorea-weist-schweizer-diplomaten-aus-buero-geschlossen",
+              "title": "Nordkorea weist Schweizer Diplomaten aus und verlangt Schliessung des Büros",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "schweiz",
+              "icon": "🇰🇵",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/4221f7.jpg",
+              "kurz": "Einen Tag nach der Drohung macht Pjöngjang ernst: Der Leiter des Schweizer Büros muss innert 48 Stunden ausreisen.",
+              "summary": "Das nordkoreanische Aussenministerium hat Sylvain Astier, den Leiter des Schweizer diplomatischen Büros in Pjöngjang, zur unerwünschten Person erklärt und ihn aufgefordert, das Land innert 48 Stunden zu verlassen. Laut der Staatsagentur KCNA übergab ihm Europa-Direktor Pak Hyon-su am Mittwoch ein Memorandum, das die Schliessung des erst am 19. Oktober wiedereröffneten Büros verlangt.",
+              "gegenstimme": "Das EDA hatte noch am Dienstag betont, die Präsenz in Pjöngjang sei unabhängig von der Sanktionspolitik und diene dem Dialog auch mit schwierigen Staaten – diese Linie ist nun gescheitert. Kritiker der Wiedereröffnung können darauf verweisen, dass das Regime diplomatische Präsenz offenbar als Druckmittel gegen Schweizer Sanktionen nutzt. Umgekehrt lässt sich argumentieren, dass die Schweiz richtig gehandelt hat, die EU-Sanktionen wegen der Verschleppung ukrainischer Kinder nicht für einen Gesprächskanal zu opfern.",
+              "sources": [
+                {
+                  "name": "SRF: Nordkorea weist Schweizer Diplomaten aus und schliesst Vertretung",
+                  "url": "https://www.srf.ch/news/international/schweizer-buero-in-nordkorea-nordkorea-weist-schweizer-diplomaten-aus-und-schliesst-vertretung"
+                },
+                {
+                  "name": "Swissinfo/Keystone-ATS: La Corée du Nord expulse le chef du bureau diplomatique suisse",
+                  "url": "https://www.swissinfo.ch/fre/la-cor%C3%A9e-du-nord-expulse-le-chef-du-bureau-diplomatique-suisse/92432549"
+                },
+                {
+                  "name": "Der Bund: Schweizer Diplomat muss das Land verlassen",
+                  "url": "https://www.derbund.ch/nordkorea-schliesst-schweizer-buero-und-weist-diplomaten-aus-564500927507"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Trotz Drohung hält die Schweiz an Dialog fest",
+                  "url": "https://www.swissinfo.ch/ger/trotz-drohung-aus-nordkorea:-schweiz-h%C3%A4lt-an-dialog-fest/92429512"
+                },
+                {
+                  "name": "Spiegel: Schweiz muss Vertretung in Pjöngjang schliessen",
+                  "url": "https://www.spiegel.de/ausland/nordkorea-schweiz-muss-vertretung-in-pjoengjang-schliessen-a-50b0dd63-9c9f-45d8-92b5-cd6d2b352e65"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-jungfraubahnen-kaufangebot-schilthornbahn",
+              "slug": "jungfraubahnen-kaufangebot-schilthornbahn",
+              "title": "Jungfraubahnen wollen die Schilthornbahn übernehmen",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "regional",
+              "icon": "🚡",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/65bbb6.jpg",
+              "kurz": "Die Jungfraubahn Holding bietet 1800 Franken pro Aktie – Grossaktionäre mit 52,3 Prozent haben bereits zugesagt.",
+              "summary": "Die Jungfraubahn Holding AG hat am Dienstag ein öffentliches Kaufangebot für alle Aktien der Schilthornbahn AG zu 1800 Franken pro Aktie angekündigt. Grossaktionäre haben sich verpflichtet, eine Mehrheit von 52,3 Prozent anzudienen; der Verwaltungsrat der Schilthornbahn empfiehlt die Annahme. Das Angebot läuft vom 26. November bis 9. Dezember 2026.",
+              "gegenstimme": "Kritiker sehen ein wachsendes Klumpenrisiko: Das Oberland hängt immer stärker von einem einzigen Konzern ab, der künftig Jungfraujoch, Schilthorn und weitere Bahnen kontrolliert – mit Folgen für Preise und Wettbewerb. In Leserkommentaren im «Bund» ist vom Ausverkauf regionaler Eigenständigkeit die Rede. Befürworter wie der Präsident der Regionalkonferenz Oberland Ost, Peter Äschimann, halten eine Übernahme durch ein regionales Unternehmen für besser als einen Kauf durch ausländische Investoren.",
+              "sources": [
+                {
+                  "name": "Jungfraubahn Holding: Ad-hoc-Mitteilung zum Kaufangebot",
+                  "url": "https://www.jungfrau.ch/de-ch/unternehmen/news/ad-hoc-mitteilung-gemaess-art-53-kr-jungfraubahn-holding-ag-unterbreitet-ein-oeffentliches-kaufangebot-fuer-alle-aktien-der-schilthornbahn-ag/"
+                },
+                {
+                  "name": "Schilthornbahn: Angebotsprospekt vom 24. November 2026",
+                  "url": "https://schilthorn.ch/cmsfiles/angebotsprospekt_20261124_signiert.pdf"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Jungfraubahn will Schilthornbahn übernehmen",
+                  "url": "https://www.swissinfo.ch/ger/jungfraubahn-will-schilthornbahn-%C3%BCbernehmen/92426815"
+                },
+                {
+                  "name": "SRF: Jungfraubahnen übernehmen Schilthornbahn – Chancen und Risiken",
+                  "url": "https://www.srf.ch/news/schweiz/berner-oberland-expandierende-jungfraubahnen-chance-oder-klumpenrisiko"
+                },
+                {
+                  "name": "Der Bund: Leserkommentare zur Übernahme",
+                  "url": "https://www.derbund.ch/schilthornbahn-leser-streiten-ueber-uebernahme-596255690297"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-spital-thun-kundgebung-chefarzt-hess",
+              "slug": "spital-thun-kundgebung-chefarzt-hess",
+              "title": "Spital Thun: Hunderte demonstrieren für entlassenen Chefarzt",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "regional",
+              "icon": "🏥",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/11/23/797813e7-dd2b-463f-b659-63c19b440bd3.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C244%2C1920%2C1080&s=ca25d0544dfbbb4cbdf86145c722bc6e",
+              "kurz": "Rund 400 Menschen stellten sich auf dem Thuner Rathausplatz hinter Orthopädie-Chefarzt Rolf Hess, den die Spital STS AG freigestellt hat.",
+              "summary": "Am Dienstagabend haben sich laut «Bund» rund 400 Menschen auf dem Rathausplatz in Thun versammelt, um sich mit Rolf Hess zu solidarisieren. Der Orthopädie-Chefarzt war nach 27 Jahren am 18. November per sofort freigestellt worden; der Verwaltungsrat der Spital STS AG nennt «anhaltende und unüberbrückbare Differenzen».",
+              "gegenstimme": "Die Spitalleitung weist die Vorwürfe zurück und hält die Kündigungsfrist von sechs Monaten ein; die Gründe für die Trennung legt sie mit Verweis auf Personalschutz nicht offen. Dass Solidaritätsbekundungen laut sind, sagt wenig über die internen Konflikte aus: Selbst Unterstützerinnen räumen ein, dass es in den chirurgischen Abteilungen seit Jahren Spannungen gibt. Ohne die Sicht des Verwaltungsrats bleibt das Bild einseitig.",
+              "sources": [
+                {
+                  "name": "20 Minuten: Spital Thun entlässt Orthopädie-Chefarzt nach 27 Jahren",
+                  "url": "https://www.20min.ch/story/spital-thun-kundgebung-in-thun-viel-solidaritaet-fuer-gefeuerten-chefarzt-hess-103670224"
+                },
+                {
+                  "name": "Der Bund: Hunderte demonstrieren für entlassenen Chefarzt in Thun",
+                  "url": "https://www.derbund.ch/spital-thun-400-personen-demonstrieren-fuer-rolf-hess-899962938519"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-eu-vertraege-arbeitslose-grenzgaenger-kosten-alv",
+              "slug": "eu-vertraege-arbeitslose-grenzgaenger-kosten-alv",
+              "title": "EU-Verträge: Arbeitslose Grenzgänger könnten die ALV bis zu 900 Millionen kosten",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "schweiz",
+              "icon": "💶",
+              "edition": "morning",
+              "image": "https://img-msp-prod.nzz.ch/2026/06/02/1d226921-127d-42d7-a52f-4a6855c93e46.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y1125&wmark=nzz",
+              "kurz": "Mit einem Ja zum EU-Paket müsste die Schweiz die neue EU-Regel für arbeitslose Grenzgänger laut EDA dynamisch übernehmen.",
+              "summary": "Nach einer revidierten EU-Verordnung soll künftig der letzte Beschäftigungsstaat Arbeitslosengeld an Grenzgänger zahlen, wenn diese dort 22 Wochen am Stück gearbeitet haben. Laut NZZ rechnet das Seco für die Schweizer Arbeitslosenversicherung neu mit Mehrkosten von 600 bis 900 Millionen Franken pro Jahr. Mit dem Inkrafttreten der neuen EU-Verträge wäre die Schweiz laut EDA zur Übernahme verpflichtet.",
+              "gegenstimme": "Befürworter der Verträge betonen, die Schweiz könne weiterhin Nein sagen; Parlament und allenfalls Volk hätten das letzte Wort, und das EDA schliesst pauschale Strafzahlungen als Ausgleichsmassnahme aus. Zudem zahlen Grenzgänger heute rund 600 Millionen Franken ALV-Beiträge ein. Gegner – Mehrheiten in beiden Räten haben SVP-Motionen gegen die Übernahme überwiesen – sehen dagegen einen weiteren Beleg, dass die dynamische Rechtsübernahme teure Folgen hat, die bei der Präsentation des Pakets nicht auf dem Tisch lagen.",
+              "sources": [
+                {
+                  "name": "NZZ: Die EU-Verträge bekommen ein neues Preisschild",
+                  "url": "https://www.nzz.ch/schweiz/die-eu-vertraege-bekommen-ein-neues-preisschild-wegen-der-arbeitslosen-grenzgaenger-ld.10073121"
+                },
+                {
+                  "name": "SEM: 29. Gemischter Ausschuss Schweiz–EU zur Personenfreizügigkeit",
+                  "url": "https://www.sem.admin.ch/de/newnsb/vpJVENEuDlBz"
+                },
+                {
+                  "name": "Seco/arbeit.swiss: Die EU-Verordnung 883/2004",
+                  "url": "https://www.arbeit.swiss/de/informationszentrum/eu-verordnung-8832004"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: EU-Regeländerung bedeutet für Bern hohe Mehrkosten",
+                  "url": "https://www.swissinfo.ch/ger/eu-regel%c3%a4nderung-bedeutet-f%c3%bcr-bern-hohe-mehrkosten/92372376"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-baselbiet-landeskirchenrat-ruegt-bischof-gmuer-fall-roeschenz",
+              "slug": "baselbiet-landeskirchenrat-ruegt-bischof-gmuer-fall-roeschenz",
+              "title": "Missbrauchsfall Röschenz: Landeskirche rügt Bistum Basel wegen Vertuschung",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "schweiz",
+              "icon": "⛪",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/36b42fed8f9742d9233887e386fbc95c4f52c371-92428266.jpg?ver=1b659fc2&fit=1200,900",
+              "kurz": "Der Baselbieter Landeskirchenrat wirft Bischof Felix Gmür und der Kirchgemeinde Röschenz vor, Missbrauchsvorwürfe gegen Pfarrer Franz Sabo nicht ernsthaft aufgearbeitet zu haben.",
+              "summary": "Der Landeskirchenrat der Römisch-katholischen Kirche Basel-Landschaft hat am Dienstag den Bericht zu seinem Aufsichtsverfahren im Fall Röschenz veröffentlicht und rügt Versäumnisse und Vertuschung. Ein Mann wirft dem inzwischen pensionierten Pfarrer Franz Sabo vor, ihn 1982 in Bamberg als 17-Jährigen sexuell missbraucht zu haben. Der Rat verlangt, dass Bischof Felix Gmür mit dem mutmasslichen Opfer und mit Sabo spricht.",
+              "gegenstimme": "Der Fall ist strafrechtlich verjährt, ein Gericht hat die Vorwürfe nie beurteilt; für Sabo gilt die Unschuldsvermutung. Das Bistum Basel und die Kirchgemeinde haben ihre Sicht in den geöffneten Berichten nicht ausführlich dargelegt. Grundsätzlicher lässt sich fragen, ob ein staatskirchenrechtliches Gremium wie der Landeskirchenrat überhaupt wirksam gegen einen Bischof vorgehen kann – seine Mittel im dualen System sind begrenzt.",
+              "sources": [
+                {
+                  "name": "SRF: Landeskirche BL rüffelt Bischof Gmür und Kirchgemeinde Röschenz",
+                  "url": "https://www.srf.ch/news/schweiz/missbrauchsvorwuerfe-baselbieter-landeskirche-rueffelt-bischof-wegen-vertuschung"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Landeskirchenrat kritisiert Vertuschungen im Fall Röschenz",
+                  "url": "https://www.swissinfo.ch/ger/landeskirchenrat-kritisiert-vertuschungen-im-fall-r%c3%b6schenz-bl/92428279"
+                },
+                {
+                  "name": "kath.ch: Landeskirche fordert Bischof zum Handeln auf",
+                  "url": "https://www.kath.ch/newsd/landeskirche-fordert-bischof-zum-handeln-auf/"
+                },
+                {
+                  "name": "bz Basel: Baselbieter Landeskirchenrat geisselt Bistum Basel",
+                  "url": "https://www.bzbasel.ch/basel/baselland/missbrauchsvorwuerfe-baselbieter-landeskirchenrat-geisselt-bistum-basel-ld.4273254"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-usa-neue-zoelle-16-volkswirtschaften-schweiz-auf-liste",
+              "slug": "usa-neue-zoelle-16-volkswirtschaften-schweiz-auf-liste",
+              "title": "USA bereiten neue Zölle vor – auch die Schweiz soll betroffen sein",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "wirtschaft",
+              "icon": "📦",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/5d072283-fe47-4911-b986-8e589da8078d/AAABohCT8R4/AAABnSSvrFg/16x9-big/trump-5456.jpg?width=1280",
+              "kurz": "Die Trump-Regierung will vom Supreme Court gekippte Zölle ersetzen; auf der Liste der 16 Volkswirtschaften steht laut AP auch die Schweiz.",
+              "summary": "Die US-Regierung bereitet laut AP, Bloomberg, Reuters und Wall Street Journal neue Zölle gegen China, die EU und 14 weitere Volkswirtschaften vor, darunter die Schweiz. Grundlage ist eine Untersuchung des US-Handelsbeauftragten (USTR) zu staatlichen Industriesubventionen, deren Ergebnisse in den kommenden Tagen erscheinen sollen.",
+              "gegenstimme": "Die Berichte stützen sich auf anonyme Quellen; Weisses Haus und USTR haben sich nicht geäussert, Zeitpunkt und Höhe sind offen. Aus Sicht der US-Regierung reagieren die Zölle auf subventionierte Überproduktion, die US-Firmen mit Billigwaren unterbiete. Dass die Schweiz mit ihrer vergleichsweise geringen Industriesubventionierung auf einer Subventionsliste steht, dürfte Bern bestreiten – eine Reaktion des Bundes liegt noch nicht vor.",
+              "sources": [
+                {
+                  "name": "Tagesschau: Trump plant wohl neue Zölle – auch gegen die EU",
+                  "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html"
+                },
+                {
+                  "name": "WELT: Trump plant neue Zölle gegen China und EU",
+                  "url": "https://www.welt.de/politik/ausland/article6b063883cd4642ba2eb17a34/usa-trump-plant-neue-zoelle-gegen-china-und-eu.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-huawei-us-jury-schuldig-geschaeftsgeheimnisse-bankbetrug",
+              "slug": "huawei-us-jury-schuldig-geschaeftsgeheimnisse-bankbetrug",
+              "title": "US-Jury spricht Huawei in zehn von zwölf Anklagepunkten schuldig",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "tech",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://images.welt.de/6b06071e6197c358f99fc719/b1eb8a07040d4fcd6b8472d079543998-master/ci16x9-w1200/gyi-2283217858-jpg",
+              "kurz": "Diebstahl von Geschäftsgeheimnissen, Bankbetrug, Sanktionsverstösse: Ein New Yorker Bundesgericht verurteilt den chinesischen Konzern, spricht ihn aber vom Vorwurf der organisierten Kriminalität frei.",
+              "summary": "Geschworene an einem Bundesgericht in New York haben Huawei am Dienstag in 10 von 12 Anklagepunkten schuldig gesprochen, unter anderem wegen Verschwörung zum Diebstahl von Geschäftsgeheimnissen, Bankbetrugs, Geldwäsche und Verstössen gegen US-Sanktionen gegen Iran und Nordkorea. Freigesprochen wurde der Konzern vom Vorwurf einer kriminellen Verschwörung nach dem Racketeering-Gesetz und von Behinderung der Justiz. Das Strafmass soll am 14. September 2027 verkündet werden.",
+              "gegenstimme": "Huawei-Anwalt Brian Heberlig kündigte Berufung an; die Verteidigung wirft den Ermittlern vor, Fehlverhalten einzelner der über 200'000 Angestellten zu einer grossen Verschwörung aufgebauscht zu haben. Peking sieht im Verfahren seit Jahren politisch motivierte Industriepolitik der USA. Auf der anderen Seite bestätigt das Urteil nach Ansicht von Sicherheitsfachleuten Bedenken, die auch in Europa gegen Huawei-Technik in kritischen Netzen bestehen.",
+              "sources": [
+                {
+                  "name": "The Verge: Huawei found guilty of stealing trade secrets",
+                  "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+                },
+                {
+                  "name": "WELT: Huawei in zehn von zwölf Punkten schuldig",
+                  "url": "https://www.welt.de/wirtschaft/article6b06071e6197c358f99fc719/huawei-in-zehn-von-zwoelf-punkten-schuldig-chinesischer-tech-konzern-in-den-usa-verurteilt.html"
+                },
+                {
+                  "name": "BBC: Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+                  "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
+                },
+                {
+                  "name": "20 Minuten: Huawei nach jahrelangem Verfahren schuldig gesprochen",
+                  "url": "https://www.20min.ch/story/jahrelanges-verfahren-us-geschworene-sprechen-huawei-schuldig-103673414"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-usa-hackerangriffe-cia-odni-fincen",
+              "slug": "usa-hackerangriffe-cia-odni-fincen",
+              "title": "USA: Hacker dringen bei CIA, Geheimdienstdirektion und FinCEN ein",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/181672a2-254f-4a0b-8fea-85f8656d6355_w1200_r1.778_fpx76_fpy21.jpg",
+              "kurz": "Nach Berichten über einen Angriff auf ein Analysesystem von CIA und ODNI meldet auch die Finanzaufsicht FinCEN einen Sicherheitsvorfall.",
+              "summary": "Laut «New York Times» haben Angreifer ein Open-Source-Analysesystem der CIA und der Nationalen Geheimdienstdirektion (ODNI) kompromittiert und dabei nicht geheime Informationen offengelegt. Stunden später gab das Financial Crimes Enforcement Network (FinCEN) des US-Finanzministeriums am Dienstag einen «Cybersicherheitsvorfall» mit unbefugtem Zugriff auf einen Teil seiner Systeme bekannt.",
+              "gegenstimme": "Die Zuschreibung an China beruht auf anonymen Quellen der «New York Times» und ersten Indizien; Peking bestreitet jede Beteiligung an Cyberangriffen auf US-Systeme. CIA und ODNI haben sich nicht geäussert, das Verteidigungsministerium verweigerte einen Kommentar. Ob die Vorfälle zusammenhängen, ist offen – vorschnelle Verknüpfung mehrerer Pannen zu einer Kampagne wäre ebenso unbelegt wie eine Verharmlosung.",
+              "sources": [
+                {
+                  "name": "The Verge: US financial crimes bureau discloses cybersecurity incident",
+                  "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
+                },
+                {
+                  "name": "Spiegel: Hacker sollen offenbar CIA angegriffen haben",
+                  "url": "https://www.spiegel.de/ausland/usa-hacker-sollen-offenbar-cia-geheimdienst-angegriffen-haben-a-2f3378e4-e6a9-4b83-b4f6-c2ee97ab9cbf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-berlin-linke-schliesst-vanessa-emde-aus-fraktion-aus",
+              "slug": "berlin-linke-schliesst-vanessa-emde-aus-fraktion-aus",
+              "title": "Berlin: Linke schliesst Abgeordnete Vanessa Emde nach Antisemitismusvorwürfen aus",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "politik",
+              "icon": "🏛️",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/1c451789-1eed-4126-9883-2749033be163/AAABog5ru3c/AAABnSSvrFg/16x9-big/emde-104.jpg?width=1280",
+              "kurz": "33 von 44 Abgeordneten stimmen für den Ausschluss – SPD und Grüne hatten ihn zur Bedingung für eine rot-grün-rote Koalition gemacht.",
+              "summary": "Die Linksfraktion im Berliner Abgeordnetenhaus hat am Dienstag Vanessa Emde mit 33 Ja- bei 6 Nein-Stimmen und 4 Enthaltungen ausgeschlossen. Emde steht wegen ihrer Positionen zu Israel in der Kritik; ihr wird israelbezogener Antisemitismus vorgeworfen. Sie bleibt als fraktionslose Abgeordnete im Parlament und Parteimitglied.",
+              "gegenstimme": "Emde spricht von einer «medialen Hetzkampagne» und sagt, die Fraktion sei unter dem Druck von SPD und Grünen eingeknickt; die Neuköllner Linke nennt den Ausschluss einen «Fehler». Landeschefin Kerstin Wolter betont, es sei keine Abstimmung über Palästina-Solidarität gewesen. Der Zentralrat der Juden hält den Schritt für ungenügend: Präsident Josef Schuster sagte, Emde sei «beileibe kein Einzelfall».",
+              "sources": [
+                {
+                  "name": "Tagesschau: Berliner Linke schliesst Emde aus Fraktion aus",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html"
+                },
+                {
+                  "name": "WELT: Emde wird ausgeschlossen – und kritisiert «mediale Hetzkampagne»",
+                  "url": "https://www.welt.de/politik/deutschland/article6b05bc84460ead0fdbd80e7e/interne-abstimmung-vanessa-emde-wird-aus-berliner-linke-fraktion-ausgeschlossen-und-kritisiert-mediale-hetzkampagne.html"
+                },
+                {
+                  "name": "SRF: Berliner Linke wirft Vanessa Emde aus der Fraktion",
+                  "url": "https://www.srf.ch/news/international/antisemitismusvorwuerfe-berliner-linke-wirft-vanessa-emde-aus-der-fraktion"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-sarkozy-carla-bruni-prozess-zeugenbeeinflussung",
+              "slug": "sarkozy-carla-bruni-prozess-zeugenbeeinflussung",
+              "title": "Sarkozy und Carla Bruni müssen wegen Zeugenbeeinflussung vor Gericht",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/43f5499f-90d1-4872-898f-82d45d48ea5c_w1200_r1.778_fpx50.76_fpy44.99.jpg",
+              "kurz": "Im Umfeld der Libyen-Affäre sollen Frankreichs Ex-Präsident und seine Frau versucht haben, den Hauptbelastungszeugen zu beeinflussen.",
+              "summary": "Untersuchungsrichter in Paris haben entschieden, rund zehn Personen, darunter Nicolas Sarkozy und Carla Bruni-Sarkozy, wegen mutmasslicher Zeugenbeeinflussung vor Gericht zu stellen; der Prozess soll 2027 stattfinden. Es geht um den Widerruf der Aussage des Geschäftsmanns Ziad Takieddine, der Sarkozy in der Libyen-Affäre zunächst belastet hatte.",
+              "gegenstimme": "Sarkozy bestreitet seit jeher jedes Fehlverhalten und spricht von politisch motivierter Justiz; für ihn und Bruni gilt die Unschuldsvermutung. Seine Unterstützer verweisen darauf, dass Takieddine seine Aussagen mehrfach geändert hat und damit als Zeuge in beide Richtungen fragwürdig ist. Kritiker sehen dagegen ein Muster: Sarkozy ist bereits in mehreren Verfahren rechtskräftig verurteilt.",
+              "sources": [
+                {
+                  "name": "BBC: Sarkozy and wife Carla Bruni to be tried next year",
+                  "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o"
+                },
+                {
+                  "name": "Spiegel: Sarkozy wird wegen Zeugenmanipulation angeklagt",
+                  "url": "https://www.spiegel.de/ausland/nicolas-sarkozy-frankreichs-ex-praesident-wird-wegen-zeugenmanipulation-angeklagt-a-df561e45-eb2a-4aa8-a0c2-ca7b7ed09337"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-huthi-angriff-pif-turm-riad-elf-verletzte",
+              "slug": "huthi-angriff-pif-turm-riad-elf-verletzte",
+              "title": "Huthi-Angriff auf höchsten Turm Riads: Elf Verletzte",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "international",
+              "icon": "🇸🇦",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/927492.jpg",
+              "kurz": "Zum zweiten Mal in sechs Tagen trifft ein Angriff der jemenitischen Huthi das Hochhaus des saudischen Staatsfonds PIF.",
+              "summary": "Bei einem Drohnenangriff der jemenitischen Huthi-Miliz auf den Turm des saudischen Staatsfonds PIF im Finanzviertel von Riad sind am Dienstag elf Menschen verletzt worden: zwei Saudis, zwei Inder, drei Nepalesen und vier Ägypter. Die saudisch geführte Koalition bombardierte daraufhin nach eigenen Angaben den von den Huthi kontrollierten Hafen Hodeidah und Ziele im Norden Jemens.",
+              "gegenstimme": "Saudi-Arabien und die Koalition sprechen von einem «feigen Terrorangriff» auf Zivilisten. Die Huthi haben den Angriff laut Al-Monitor nicht ausdrücklich bekannt; ihr Sprecher Yahya Saree warf Saudi-Arabien stattdessen 72 Luftangriffe auf zivile Ziele im Jemen vor, ohne Opferzahlen zu nennen. Opferangaben beider Seiten lassen sich unabhängig kaum prüfen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera/AFP: 11 injured in Houthi drone attack on Riyadh tower",
+                  "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh"
+                },
+                {
+                  "name": "Arab News: 11 injured in Houthi attack on tower in Riyadh’s financial district",
+                  "url": "https://www.arabnews.com/saudi-arabia/11-injured-after-houthi-attack-on-tower-in-riyadhs-financial-district-3013857"
+                },
+                {
+                  "name": "SRF: Huthi-Miliz greift höchsten Wolkenkratzer in Riad an",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-jemen-huthi-miliz-greift-hoechsten-wolkenkratzer-in-riad-an"
+                },
+                {
+                  "name": "Al-Monitor: Houthi attack on Saudi PIF Tower – what to know",
+                  "url": "https://www.al-monitor.com/originals/2026/11/least-11-injured-houthi-attack-saudi-pif-tower-what-know"
+                },
+                {
+                  "name": "Al Jazeera: Saudi-led coalition strikes Yemen’s Hodeidah port",
+                  "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-25-israel-eisenkot-erster-koalitionspartner-lieberman",
+              "slug": "israel-eisenkot-erster-koalitionspartner-lieberman",
+              "title": "Israel: Eisenkot gewinnt Lieberman als ersten Koalitionspartner",
+              "date": "2026-11-25",
+              "time": "06:20",
+              "category": "international",
+              "icon": "🇮🇱",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1920%2C1440",
+              "kurz": "Jaschar und Israel Beitenu unterzeichnen ein Koalitionsabkommen – gleichzeitig steigt die linke Partei der Demokraten aus den Gesprächen aus.",
+              "summary": "Die Partei Jaschar von Gadi Eisenkot hat am Dienstag ein Koalitionsabkommen mit Avigdor Liebermans Israel Beitenu unterzeichnet, das erste seit der Wahl vom 27. Oktober. Zusammen kommen die Parteien auf 28 der 120 Sitze. Kurz zuvor hatten die Demokraten von Jair Golan ihre Gespräche mit Jaschar ausgesetzt.",
+              "gegenstimme": "Die Demokraten begründen ihren Ausstieg mit Fortschritten in Eisenkots Gesprächen mit Netanyahus Likud über eine Einheitsregierung und einer Einigung auf ein Gremium zur Justizreform; Golan bevorzugt eine Regierung ohne Netanyahu, gestützt auf arabische Parteien. Lieberman lehnt genau das ab und drängt auf eine Koalition mit den Ultraorthodoxen. Der Likud wiederum sieht sich als stärkste Kraft im rechten Lager mit 53 Sitzen im Recht, die Regierung zu führen.",
+              "sources": [
+                {
+                  "name": "Al Jazeera/Reuters: Eisenkot secures first coalition partner",
+                  "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government"
+                },
+                {
+                  "name": "Times of Israel: Democrats suspend coalition talks with Yashar",
+                  "url": "https://www.timesofisrael.com/democrats-party-declares-suspension-of-coalition-talks-with-yashar-amid-stalemate/"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-24",
       "editions": {
