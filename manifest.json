@@ -1,6 +1,386 @@
 {
-  "updated": "2026-11-25T17:20:00+01:00",
+  "updated": "2026-11-26T06:20:00+01:00",
   "days": [
+    {
+      "date": "2026-11-26",
+      "editions": {
+        "morning": {
+          "time": "06:20",
+          "articles": [
+            {
+              "id": "2026-11-26-bundesgericht-parrino-praesident-gerichtskommission",
+              "slug": "bundesgericht-parrino-praesident-gerichtskommission",
+              "title": "Gerichtskommission will Francesco Parrino an der Spitze des Bundesgerichts",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/a0bc2f.jpg",
+              "kurz": "Nach dem Rückzug von Thomas Müller (SVP) soll Vizepräsident Parrino (SP) das Bundesgericht 2027/28 führen – und die Kommission zeigt erneut Unbekannt wegen Indiskretionen an.",
+              "summary": "Die Gerichtskommission der Bundesversammlung empfiehlt Francesco Parrino (SP) als Präsidenten und Stephan Hartmann (Grüne) als Vizepräsidenten des Bundesgerichts für 2027–2028. Sie folgte am Mittwoch dem neuen Vorschlag des Gesamtgerichts; die Wahl ist am 8. Dezember angesetzt.",
+              "gegenstimme": "Der frühere Bundesgerichtspräsident Ulrich Meyer warf der Kommission laut «Schweiz heute»/Watson einen Verfassungsbruch vor, weil sie den ersten Vorschlag des Gerichts zurückgewiesen und so in dessen Selbstverwaltung eingegriffen habe. Die «Weltwoche» (Meinung, Inspirationsquelle) bezeichnete FDP-Ständerat Andrea Caroni als «Anführer» des Manövers gegen Müller. Caroni widerspricht: Die Kommission habe mit 16 zu 1 Stimmen, also auch mit SVP-Stimmen, nur das intransparente Verfahren kritisiert.",
+              "sources": [
+                {
+                  "name": "Parlament.ch: Medienmitteilung der Gerichtskommission vom 25.11.2026",
+                  "url": "https://www.parlament.ch/press-releases/Pages/mm-gk-2026-11-25.aspx"
+                },
+                {
+                  "name": "SRF: Gerichtskommission will Parrino an der Spitze des Bundesgerichts",
+                  "url": "https://www.srf.ch/news/schweiz/gerichtskommission-francesco-parrino-sp-soll-bundesgerichtspraesident-werden"
+                },
+                {
+                  "name": "Watson/Keystone-SDA: Francesco Parrino soll Bundesgerichtspräsident werden",
+                  "url": "https://www.watson.ch/schweiz/sp/390793225-francesco-parrino-sp-soll-bundesgerichtspraesident-werden"
+                },
+                {
+                  "name": "Watson/Schweiz heute: Ex-Präsident wirft Kommission Verfassungsbruch vor",
+                  "url": "https://www.watson.ch/schweiz/justiz/873794825-bundesgerichtswahlen-ex-praesident-wirft-kommission-verfassungsbruch-vor"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-uvg-opfer-sexueller-uebergriffe-k-o-tropfen-unfallversicherung",
+              "slug": "uvg-opfer-sexueller-uebergriffe-k-o-tropfen-unfallversicherung",
+              "title": "Unfallversicherung soll Opfer sexueller Übergriffe auch nach K.-o.-Tropfen abdecken",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "schweiz",
+              "icon": "🩺",
+              "edition": "morning",
+              "kurz": "Der Bundesrat schliesst eine Lücke: Wer betäubt und missbraucht wurde, soll Behandlung und Taggeld von der Unfallversicherung erhalten. Die SVP war dagegen.",
+              "summary": "Der Bundesrat hat am Mittwoch die Botschaft zur Änderung des Unfallversicherungsgesetzes ans Parlament überwiesen. Gesundheitsschäden nach Vergewaltigung oder anderen sexuellen Übergriffen sollen künftig immer als Unfall gelten, auch wenn das Opfer etwa durch K.-o.-Tropfen bewusstlos war; die Mehrkosten werden auf 0,3 bis 1 Million Franken pro Jahr geschätzt.",
+              "gegenstimme": "Die SVP lehnte die Vorlage in der Vernehmlassung als «systemwidrige Speziallösung» ab, warnte vor Missbrauch und Prämienanstieg und verlangte als Bedingung eine Wahrscheinlichkeit von über 75 Prozent sowie eine Strafanzeige oder ein Strafurteil. Der Schweizerische Versicherungsverband (SVV) unterstützt das Ziel, hat aber «erhebliche Vorbehalte»: Die Versicherer seien für heikle Abklärungen ohne Strafverfahren weder geschult noch ausgerüstet, und es entstünden neue Ungleichheiten zwischen UVG-Versicherten und Nichtversicherten.",
+              "sources": [
+                {
+                  "name": "BAG: Medienmitteilung vom 25.11.2026",
+                  "url": "https://www.bag.admin.ch/de/newnsb/f6CupdOvTdWq"
+                },
+                {
+                  "name": "BAG: Botschaft und Ergebnisbericht der Vernehmlassung",
+                  "url": "https://www.bag.admin.ch/de/aenderung-uvg-uebergriffe-vernehmlassung"
+                },
+                {
+                  "name": "Nau.ch/Keystone-SDA: Bundesrat will Opfer von K.-o.-Tropfen rechtlich besserstellen",
+                  "url": "https://www.nau.ch/news/schweiz/bundesrat-will-opfer-von-k-o-tropfen-rechtlich-besserstellen-67206770"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-svp-dettling-aussprache-romandie-bundesratsticket",
+              "slug": "svp-dettling-aussprache-romandie-bundesratsticket",
+              "title": "SVP lädt nach Kritik am Bundesratsticket die Westschweizer zur Aussprache",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "politik",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/f56f532d7975b30c9686edebd050d381739d171b-92439507.jpg?ver=a4ccaaac&fit=1200,900",
+              "kurz": "Parteichef Marcel Dettling spürt «die Enttäuschung in der Westschweiz» – am Ticket Aeschi/Graber hält er fest.",
+              "summary": "SVP-Präsident Marcel Dettling hat für nächste Woche ein Treffen mit allen SVP-Vertretern aus der Romandie angekündigt. Das sagte er in einem am Donnerstag veröffentlichten NZZ-Interview; Anlass ist die Kritik am reinen Deutschschweizer Ticket mit Thomas Aeschi und Michael Graber.",
+              "gegenstimme": "SRF wertet das Ticket als Botschaft, die Fraktion fühle sich stark genug, den Protest auszuhalten; auch in FDP und Mitte stosse es auf Skepsis, und die Romandie dürfte erstmals seit über 50 Jahren nur einen Bundesratssitz haben. Die Grünen sprechen von einer Provokation und verweigern die Hearings. Dettling hält dagegen, Konkordanz heisse nicht, «möglichst gmögige» Personen zu wählen, ein Kandidat dürfe «Ecken, Kanten und ein klares Profil» haben, und die lateinische Schweiz bleibe mit zwei Sitzen angemessen vertreten.",
+              "sources": [
+                {
+                  "name": "NZZ: Interview mit SVP-Präsident Marcel Dettling",
+                  "url": "https://www.nzz.ch/schweiz/es-wurde-noch-nie-ein-liebling-geboren-sagt-der-svp-praesident-marcel-dettling-ueber-das-hooligan-ticket-fuer-die-bundesratswahl-ld.10073513"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: SVP plant eine Aussprache mit Westschweizer Parteivertretern",
+                  "url": "https://www.swissinfo.ch/ger/svp-plant-eine-aussprache-mit-westschweizer-parteivertretern/92439520"
+                },
+                {
+                  "name": "SRF: «Hardliner-Ticket» – Und die SVP hat es doch getan",
+                  "url": "https://www.srf.ch/news/schweiz/hardliner-ticket-und-die-svp-hat-es-doch-getan"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-worb-jugendlicher-mit-spitzem-gegenstand-verletzt-zeugenaufruf",
+              "slug": "worb-jugendlicher-mit-spitzem-gegenstand-verletzt-zeugenaufruf",
+              "title": "Worb: Unbekannter verletzt Jugendlichen am Bahnhofplatz mit spitzem Gegenstand",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "regional",
+              "icon": "🚔",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/4e7bd93cc3f489ee45acc6189a8e0d7d66b9f5f4-92437564.jpg?ver=7e1f6f56&fit=1200,900",
+              "kurz": "Nach einem Streit am Montagabend griff ein Mann den Jugendlichen an und flüchtete. Die Kantonspolizei Bern sucht Zeugen.",
+              "summary": "Am Montag, 23. November, kurz nach 21.10 Uhr, hat ein unbekannter Mann am Bahnhofplatz in Worb einen Jugendlichen nach einem Streit mit einem spitzen Gegenstand angegriffen und verletzt. Der Jugendliche kam mit der Ambulanz ins Spital, der Täter flüchtete; die Kantonspolizei Bern meldete den Fall am Mittwoch.",
+              "gegenstimme": "Der Fall ist ein Einzelereignis; aus der Polizeimeldung lässt sich kein Trend ableiten. Gleichzeitig fällt auf, dass die Kantonspolizei erst zwei Tage nach der Tat informierte und weder ein Signalement noch Angaben zum Alter des Opfers oder zur Schwere der Verletzung machte. Das schränkt den Zeugenaufruf ein und lässt offen, ob für die Bevölkerung eine Gefahr besteht.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern: Worb/Zeugenaufruf – Jugendlicher bei Auseinandersetzung verletzt",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=e2675836-911e-4240-9f1c-919d7fcf282b"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Jugendlicher bei Auseinandersetzung in Worb verletzt",
+                  "url": "https://www.swissinfo.ch/ger/jugendlicher-bei-auseinandersetzung-in-worb-verletzt/92437577"
+                },
+                {
+                  "name": "Berner Zeitung: Mann verletzt Jugendlichen bei Auseinandersetzung in Worb",
+                  "url": "https://www.bernerzeitung.ch/worb-jugendlicher-bei-angriff-am-bahnhofplatz-verletzt-802918145979"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-zuerich-unbewilligte-demo-gewalt-an-frauen-sachbeschaedigungen",
+              "slug": "zuerich-unbewilligte-demo-gewalt-an-frauen-sachbeschaedigungen",
+              "title": "Zürich: Unbewilligte Demo mit mehreren Hundert Vermummten und Sachbeschädigungen",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "schweiz",
+              "icon": "🚨",
+              "edition": "morning",
+              "image": "https://image.20min.ch/2026/11/25/c63afe3a-ddf0-4b90-bb59-9ac02b8ba2b4.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C2%2C4000%2C2250&s=eb49027e4b88923fd4916c9fdfe3b343",
+              "kurz": "Linke Gruppen zogen am Tag gegen Gewalt an Frauen unbewilligt durch die Innenstadt. Die Polizei tolerierte den Umzug, es gab Sprayereien und Pyros.",
+              "summary": "Mehrere Hundert Personen sind am Mittwochabend in einer unbewilligten Demonstration unter dem Motto «Patriarchale Gewalt zerschlagen» von der Bahnhofstrasse zum Helvetiaplatz gezogen. Die Stadtpolizei tolerierte den Umzug unter Auflagen; entlang der Route wurden Gebäude, eine Tramhaltestelle und ein Tesla besprayt, und der Tram- und Busverkehr war stark eingeschränkt.",
+              "gegenstimme": "Die Organisatoren sprechen von einem «Tag kollektiver Selbstverteidigung» gegen Femizide und sexualisierte Gewalt und wollen die Normalisierung von Gewalt gegen Frauen anprangern. Kritiker der städtischen Linie, etwa die Stadtzürcher SVP nach der Krawallnacht vom 31. Oktober, werfen der Polizei vor, gegenüber unbewilligten linken Demonstrationen zu defensiv aufzutreten; die FDP sprach damals von «krimineller Selbstinszenierung».",
+              "sources": [
+                {
+                  "name": "20 Minuten: Demo gegen Gewalt an Frauen in Zürich (Ticker)",
+                  "url": "https://www.20min.ch/story/zuerich-gegen-gewalt-an-frauen-demonstrationszug-durch-zuerich-gestartet-103673875"
+                },
+                {
+                  "name": "Nau.ch: Unbewilligte Demo – mehrere 100 Personen versammeln sich in Zürich",
+                  "url": "https://www.nau.ch/news/schweiz/unbewilligte-demo-rund-100-personen-versammeln-sich-in-zurich-67206796"
+                },
+                {
+                  "name": "Watson: Pyrotechnik und angespannte Stimmung – Proteste in Zürich und Basel",
+                  "url": "https://www.watson.ch/schweiz/gesellschaft-politik/103280474-angespannte-stimmung-demonstration-gegen-patriarchale-gewalt-in-zuerich"
+                },
+                {
+                  "name": "SRF: Nach der Krawallnacht in Zürich – so reagiert die Politik (1.11.2026)",
+                  "url": "https://www.srf.ch/news/schweiz/unverstaendnis-und-forderungen-nach-der-krawallnacht-in-zuerich-so-reagiert-die-politik"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-ochsner-sport-dosenbach-datenleck-onlineshop",
+              "slug": "ochsner-sport-dosenbach-datenleck-onlineshop",
+              "title": "Datenleck auch bei Ochsner Sport und Dosenbach",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "wirtschaft",
+              "icon": "🔓",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/ada7c8406a8b118090d925b55deb5244cb751990-92437550.jpg?ver=d8197eb9&fit=1200,900",
+              "kurz": "Nach Deichmann melden auch die Schweizer Töchter einen Zugriff auf Kundendaten aus dem Onlineshop. Kunden sollen sich vor gezieltem Phishing hüten.",
+              "summary": "Unbefugte haben beim Sporthändler Ochsner Sport auf Kundendaten aus Onlineshop-Einkäufen zugegriffen: Namen, Adressen, Rechnungen, E-Mail-Adressen, Telefonnummern und die gewählte Zahlungsart. Am Mittwoch meldete auch die Schuhkette Dosenbach einen Vorfall mit denselben Datenkategorien; beide gehören zum deutschen Deichmann-Konzern, der seinen Fall am Mittag publik gemacht hatte.",
+              "gegenstimme": "Ochsner Sport bezeichnet den Umfang als «begrenzt» und betont, Passwörter, Kontozugänge und Zahlungsdaten wie Kreditkartennummern seien nicht betroffen und es gebe keine Hinweise auf Missbrauch. Kritisch sieht das ein von Blick zitierter Kunde: Die Firma lasse offen, wann der Zugriff erfolgte und wie lange er möglich war. Auch die Zahl der Betroffenen nennt keines der Unternehmen.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Hacker greifen bei Ochsner Sport auf Kundendaten zu",
+                  "url": "https://www.swissinfo.ch/ger/hacker-greifen-bei-ochsner-sport-auf-kundendaten-zu/92437563"
+                },
+                {
+                  "name": "Blick: IT-Vorfall bei Ochsner Sport",
+                  "url": "https://www.blick.ch/schweiz/zugriff-auf-daten-von-kunden-it-vorfall-bei-ochsner-sport/xe557jk"
+                },
+                {
+                  "name": "inside-it.ch: Cybervorfall bei Dosenbach-Mutter Deichmann",
+                  "url": "https://www.inside-it.ch/cybervorfall-bei-dosenbach-mutter-deichmann-20261125"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-fifa-bestaetigt-hackerangriff-daten-gestohlen",
+              "slug": "fifa-bestaetigt-hackerangriff-daten-gestohlen",
+              "title": "Fifa bestätigt Hackerangriff – Gruppe behauptet, 12 Gigabyte erbeutet zu haben",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "morning",
+              "image": "https://cms.therecord.media/uploads/fifa_sign_wc_final_202655407277531_c63256a9d9_o_77bc61d70a.jpg",
+              "kurz": "Der Weltfussballverband mit Sitz in Zürich spricht von «begrenzten» persönlichen und geschäftlichen Daten. Die Täter wollen die Fifa erfolglos erpresst haben.",
+              "summary": "Die Fifa hat einen Cyberangriff auf ihre IT-Systeme bestätigt, bei dem Unbefugte Zugriff auf eine «begrenzte Menge persönlicher und geschäftlicher Informationen» erhielten. Die Gruppe «Handsome Boy Hacking Club» behauptet, über 12 Gigabyte gestohlen und nach einem gescheiterten Erpressungsversuch in einem kriminellen Forum veröffentlicht zu haben.",
+              "gegenstimme": "Die Fifa betont, sie arbeite mit den Strafverfolgungsbehörden zusammen, und verurteilt die Veröffentlichung insbesondere persönlicher Daten «aufs Schärfste». Zu den Behauptungen der Täter – Zugriff auf die Microsoft-Umgebung, Ausweis- und Einwanderungsdokumente, Finanz- und Rechtsunterlagen – äussert sie sich nicht. Angaben von Erpressergruppen dienen oft auch dazu, Druck aufzubauen, und sind ohne Prüfung der Daten nicht verlässlich.",
+              "sources": [
+                {
+                  "name": "The Record: FIFA says hackers accessed limited set of personal and business information",
+                  "url": "https://therecord.media/fifa-data-breach-limited"
+                },
+                {
+                  "name": "20 Minuten: Fifa bestätigt Hackerangriff",
+                  "url": "https://www.20min.ch/story/cyberattacke-fifa-bestaetigt-hackerangriff-12-gigabyte-daten-gestohlen-103673991"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-1password-kundendaten-gestohlen-github-konto",
+              "slug": "1password-kundendaten-gestohlen-github-konto",
+              "title": "1Password: Angreifer erbeuten Kundendaten über gekapertes Github-Konto",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "tech",
+              "icon": "🔑",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/3/4/4/shutterstock_2839481119-eb3763d22c93a997.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Die Passwort-Tresore blieben laut Hersteller sicher, doch Namen, E-Mail-Adressen und Kontodaten sind abgeflossen – ideal für Phishing.",
+              "summary": "Beim Passwortmanager 1Password haben Angreifer Kundendaten erbeutet, darunter Namen, E-Mail-Adressen, Kontonummern, öffentliche Schlüssel und teils Identifizierungs-Token. Einfallstor war das Firmen-Github-Konto eines Mitarbeiters, über das die Täter Schadcode in Backend-Systeme einschleusten; der Hersteller Agilebits bemerkte den Vorfall am 19. November.",
+              "gegenstimme": "1Password betont, die Tresore und die darin gespeicherten Passwörter seien nicht betroffen, und ruft nicht zu Passwortänderungen auf. Heise hält dagegen, die Kombination aus echten Konto- und Identitätsdaten mache Phishing-Mails im Namen von 1Password besonders glaubwürdig. Wie viele Kunden betroffen sind, sagt das Unternehmen nicht.",
+              "sources": [
+                {
+                  "name": "Heise: 1Password – Kundendaten entfleucht",
+                  "url": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html"
+                },
+                {
+                  "name": "The Verge: 1Password breach leaked customer names and emails, but not passwords",
+                  "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-spacex-starmind-fcc-eine-million-ki-satelliten",
+              "slug": "spacex-starmind-fcc-eine-million-ki-satelliten",
+              "title": "USA erlauben SpaceX eine Million Satelliten für KI-Rechenzentren im All",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "tech",
+              "icon": "🛰️",
+              "edition": "morning",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/3/3/5/shutterstock_2023520396-c8074dd55b032e78.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Die FCC genehmigt erstmals eine ganze Konstellation von KI-Satelliten. Der erste muss bis 2033 im Orbit sein, alle bis 2040.",
+              "summary": "Die US-Telekombehörde FCC hat SpaceX am Mittwoch erlaubt, im Projekt «Starmind» bis zu eine Million mit KI-Chips bestückte Satelliten ins All zu bringen. Es ist die erste Genehmigung für eine vollständige Konstellation von Rechenzentrums-Satelliten; mindestens einer muss bis 2033 starten, die volle Zahl bis 2040 erreicht sein.",
+              "gegenstimme": "Die FCC selbst hat einen heiklen Punkt zurückgestellt: SpaceX wollte ausgediente Satelliten oberhalb von 600 Kilometern in einen «Friedhofsorbit» schieben statt sie in der Atmosphäre verglühen zu lassen; dazu fehlten laut Behörde «ausreichende Informationen». Fachleute sehen laut SRF zudem grosse technische Hürden, etwa bei der Kühlung der Chips und beim Schutz vor Weltraumschrott. Ob Rechenzentren im All wirtschaftlich sind, ist unbewiesen – bisher gibt es nur Testsatelliten.",
+              "sources": [
+                {
+                  "name": "The Verge: FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+                  "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+                },
+                {
+                  "name": "Heise: USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
+                  "url": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html"
+                },
+                {
+                  "name": "SRF: SpaceX darf eine Million Satelliten ins All schicken",
+                  "url": "https://www.srf.ch/news/international/usa/weltraum-rechenzentren-spacex-darf-eine-million-satelliten-ins-all-schicken"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-microsoft-code-red-nach-exchange-ausfall",
+              "slug": "microsoft-code-red-nach-exchange-ausfall",
+              "title": "Microsoft ruft nach historischem Outlook-Ausfall «Code Red» aus",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "tech",
+              "icon": "🖥️",
+              "edition": "morning",
+              "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+              "kurz": "Interne Memos zeigen: Der 24-Stunden-Ausfall vom 12./13. November war der schwerste in der Geschichte von Exchange Online. Künftig soll jede Störung binnen einer Stunde behoben sein.",
+              "summary": "Microsoft hat nach dem rund 24-stündigen weltweiten Ausfall von Exchange Online, Outlook und Teams vom 12. und 13. November intern die höchste Alarmstufe «Code Red» ausgerufen. Das geht aus internen Memos hervor, über die Reuters berichtet; laut Manager Jason Henderson war es der Vorfall mit den meisten betroffenen Kunden in der Geschichte des Dienstes.",
+              "gegenstimme": "Microsoft präsentiert das Programm als Beweis, dass es die Lehren zieht: Lastabwurf, geografische Aufteilung des Datenverkehrs und schnellere Wiederherstellung, unterstützt von KI-Agenten. Die internen Dokumente werfen aber Fragen auf: Der auslösende Fehler lag laut The Verge seit Juli unbemerkt auf den Servern, und die Koordination während der Störung war chaotisch. Zudem zeigt der Fall die Abhängigkeit vieler Behörden und Firmen von einem einzigen Anbieter.",
+              "sources": [
+                {
+                  "name": "Reuters (via Investing.com): Microsoft declares Code Red after historic outage",
+                  "url": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-declares-code-red-after-historic-outage-internal-memos-show-5048702"
+                },
+                {
+                  "name": "Spiegel: Microsoft ruft nach weltweitem IT-Ausfall «Code Red» aus",
+                  "url": "https://www.spiegel.de/netzwelt/microsoft-konzern-reagiert-mit-code-red-auf-globale-it-stoerung-a-fc06304f-0754-4c93-a44b-c931f775a79c"
+                },
+                {
+                  "name": "The Verge: Microsoft declares Code Red after huge Outlook outage",
+                  "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-schweinfurt-13-jaehrige-missbraucht-sieben-tatverdaechtige",
+              "slug": "schweinfurt-13-jaehrige-missbraucht-sieben-tatverdaechtige",
+              "title": "Schweinfurt: 13-Jährige monatelang missbraucht – sieben Tatverdächtige, keiner in U-Haft",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "international",
+              "icon": "🚔",
+              "edition": "morning",
+              "image": "https://images.welt.de/6b071512c75e09cb88d15fe6/70363c09853accc713455f01f6395dbe/ci16x9-w1200/dpa-com-261125-935-1766813-jpg",
+              "kurz": "Laut Polizei sind sechs Verdächtige Syrer, einer deutsch-syrischer Doppelbürger. Mehrere grosse Medien liessen diese Angabe weg.",
+              "summary": "Im bayerischen Schweinfurt ermitteln Kriminalpolizei und Staatsanwaltschaft gegen sieben 16- bis 18-Jährige, die von Anfang 2025 bis April 2026 eine heute 13-jährige Schülerin wiederholt sexuell missbraucht haben sollen. Sechs wurden bei Durchsuchungen am 19. November vorläufig festgenommen, sitzen aber nicht in Untersuchungshaft; laut Polizei haben sechs die syrische und einer die deutsch-syrische Staatsangehörigkeit.",
+              "gegenstimme": "Für alle Beschuldigten gilt die Unschuldsvermutung, worauf die Behörden ausdrücklich hinweisen; wer welche Tat begangen haben soll, ist nicht bekannt. Das Portal NIUS (Meinungsmedium) wirft den Behörden vor, sechs Tage geschwiegen und erst auf Anfrage informiert zu haben, und spricht unter Berufung auf eigene Informationen von Gruppenvergewaltigungen, einer Messerdrohung und einem Abschiedsbrief des Mädchens – diese Details sind von Polizei und Staatsanwaltschaft nicht bestätigt.",
+              "sources": [
+                {
+                  "name": "WELT: 13-Jährige offenbar über Monate sexuell missbraucht",
+                  "url": "https://www.welt.de/vermischtes/article6b071512c75e09cb88d15fe6/schweinfurt-13-jaehrige-offenbar-ueber-monate-sexuell-missbraucht-polizei-nimmt-sechs-verdaechtige-fest.html"
+                },
+                {
+                  "name": "BR24: Mädchen monatelang missbraucht – sechs Jugendliche festgenommen",
+                  "url": "https://www.br.de/nachrichten/bayern/maedchen-monatelang-missbraucht-sechs-jugendliche-festgenommen,Vc0RIiH"
+                },
+                {
+                  "name": "Spiegel: Schülerin über Monate missbraucht – sieben Tatverdächtige",
+                  "url": "https://www.spiegel.de/panorama/justiz/schweinfurt-schuelerin-ueber-monate-missbraucht-sieben-tatverdaechtige-a-9dd6daa6-d67b-4ede-8d05-1f93d7b9a0d9"
+                },
+                {
+                  "name": "NIUS (Meinung/Inspiration): Mädchen Opfer von Gruppenvergewaltigung",
+                  "url": "https://nius.de/kriminalitaet/maedchen-opfer-gruppenvergewaltigung-syrer-tatverdaechtig"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-nrw-verbietet-gesichtsschleier-an-schulen",
+              "slug": "nrw-verbietet-gesichtsschleier-an-schulen",
+              "title": "Nordrhein-Westfalen verbietet Gesichtsschleier an Schulen",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "politik",
+              "icon": "🏫",
+              "edition": "morning",
+              "image": "https://images.welt.de/6b077766c75e09cb88d1649a/2cf18f2e47f751fbf75d03c3619c5cd4-master/ci16x9-w1200/dpa-com-261125-935-1765051-jpg",
+              "kurz": "Der Landtag beschliesst mit CDU und Grünen auch härtere Regeln gegen gewalttätige Schüler: Ausschluss bis zu vier Wochen.",
+              "summary": "Der Landtag von Nordrhein-Westfalen hat am späten Mittwochabend mit den Stimmen von CDU und Grünen beschlossen, Schülerinnen und Schülern das Verhüllen des Gesichts im Unterricht, bei Schulanlässen und auf dem Schulgelände zu verbieten. Zudem können Schulleitungen Schüler, von denen Bedrohungen ausgehen, künftig bis zu vier Wochen vom Unterricht ausschliessen.",
+              "gegenstimme": "Die mitregierenden Grünen fordern «Augenmass»: Ordnungsmassnahmen müssten pädagogisch sinnvoll sein. Die SPD begrüsst mehr Handlungssicherheit, mahnt aber, das Ziel bleibe die Rückkehr in die Schulgemeinschaft. Rechtlich war die Frage umstritten: In Hamburg hatten Richter vor einigen Jahren gegen ein Schleierverbot entschieden, weil eine ausdrückliche gesetzliche Grundlage fehlte. Eine Stellungnahme muslimischer Verbände zum Beschluss lag am Morgen nicht vor.",
+              "sources": [
+                {
+                  "name": "WELT/dpa: NRW verbietet Gesichtsschleier im Unterricht",
+                  "url": "https://www.welt.de/politik/article6b077766c75e09cb88d1649a/verschaerfung-der-schulregeln-nrw-verbietet-gesichtsschleier-im-unterricht.html"
+                },
+                {
+                  "name": "WDR: Neue Schulregeln verbieten Schleier",
+                  "url": "https://www1.wdr.de/politik/verbot-gesichtsschleier-schule-100.html"
+                },
+                {
+                  "name": "n-tv/dpa: NRW verbietet Gesichtsschleier im Unterricht",
+                  "url": "https://www.n-tv.de/regionales/nordrhein-westfalen/NRW-verbietet-Gesichtsschleier-im-Unterricht-id31578286.html"
+                },
+                {
+                  "name": "Antenne NRW: Gesichtsschleier-Verbot an NRW-Schulen beschlossen",
+                  "url": "https://antenne.nrw/nrw/gesichtsschleier-verbot-an-nrw-schulen-ist-jetzt-beschlossene-sache/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-kiew-ballistische-raketen-einkaufszentrum-verletzte",
+              "slug": "kiew-ballistische-raketen-einkaufszentrum-verletzte",
+              "title": "Russland greift Kiew mit ballistischen Raketen an – Einkaufszentrum getroffen",
+              "date": "2026-11-26",
+              "time": "06:20",
+              "category": "international",
+              "icon": "🚀",
+              "edition": "morning",
+              "kurz": "Sieben Verletzte im Bezirk Desnjanskyj. Kiew wartet derweil auf 48 bereits bezahlte Patriot-Abfangraketen aus den USA.",
+              "summary": "Russland hat Kiew am späten Mittwochabend mit ballistischen Raketen angegriffen und im östlichen Bezirk Desnjanskyj ein Einkaufszentrum, ein Industriegebäude und ein weiteres Gebäude getroffen. Laut der Kiewer Militärverwaltung wurden sieben Menschen verletzt, zwei davon schwer.",
+              "gegenstimme": "Russland bestreitet wie die Ukraine, zivile Ziele anzugreifen, und begründet seine Schläge regelmässig mit militärischer Infrastruktur; zu diesem Angriff lag am Morgen keine Stellungnahme aus Moskau vor. Die Ukraine greift ihrerseits laufend Ziele in Russland an, zuletzt Militärflugplätze und Raffinerien.",
+              "sources": [
+                {
+                  "name": "Reuters (via Internazionale): Russian forces hit Kyiv with ballistic missiles, mayor says",
+                  "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/25/russian-forces-hit-kyiv-with-ballistic-missiles-mayor-says"
+                },
+                {
+                  "name": "Kyiv Independent: Russia slams Kyiv in ballistic missile attack, hits shopping center",
+                  "url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/"
+                },
+                {
+                  "name": "Kyiv Post: Russia strikes Kyiv shopping mall as Pentagon delays Patriot deliveries",
+                  "url": "https://www.kyivpost.com/post/91219"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-25",
       "editions": {
