@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T06:20:00+01:00",
+  "updated": "2026-11-26T12:55:00+01:00",
   "days": [
     {
       "date": "2026-11-26",
@@ -374,6 +374,317 @@
                 {
                   "name": "Kyiv Post: Russia strikes Kyiv shopping mall as Pentagon delays Patriot deliveries",
                   "url": "https://www.kyivpost.com/post/91219"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:55",
+          "articles": [
+            {
+              "id": "2026-11-26-asylstrategie-2027-vorpruefung-haft-jans",
+              "slug": "asylstrategie-2027-vorpruefung-haft-jans",
+              "title": "Asylstrategie 2027: Bund will Gesuche ohne Asylgründe vorab aussortieren",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "schweiz",
+              "icon": "🛂",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2025/12/15/d8dd043b-a74d-46d7-9515-c472826c30d6.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4128,2322,x0,y215&wmark=nzz",
+              "kurz": "Eine Vorprüfung soll offensichtlich unbegründete Asylgesuche aus dem Verfahren halten, die Administrativhaft soll leichter möglich werden – der Bundesrat entscheidet voraussichtlich nächste Woche.",
+              "summary": "Das Justizdepartement von Bundesrat Beat Jans (SP) bereitet zur Asylstrategie 2027 ein Gesetzespaket vor, das der Bundesrat laut NZZ voraussichtlich Anfang Dezember in die Vernehmlassung schickt. Kern ist eine Testphase mit einer Vorprüfung, ob überhaupt ein Asylverfahren eröffnet wird; laut NZZ rechnet der Bund mit rund 20 Prozent aller Gesuche, die betroffen wären – 2025 über 5000.",
+              "gegenstimme": "Die Schweizerische Flüchtlingshilfe hält die Vorprüfung laut NZZ für «nicht mit dem Asylrecht vereinbar», Solidarité sans frontières nennt sie «verfassungsmässig fragwürdig»; zudem sei es diskriminierend, Administrativhaft faktisch zur Kriminalitätsbekämpfung einzusetzen. Von der anderen Seite geht das Paket der SVP nicht weit genug: Ihre Grenzschutzinitiative verlangt lückenlose Grenzkontrollen und höchstens 5000 Asylgewährungen pro Jahr. Jans selbst betont, am individuellen Recht auf ein Verfahren festzuhalten.",
+              "sources": [
+                {
+                  "name": "NZZ: Das sind die Pfeiler von Jans' Asylstrategie 2027",
+                  "url": "https://www.nzz.ch/schweiz/das-sind-die-pfeiler-von-jans-asylstrategie-2027-das-recht-auf-ein-asylverfahren-wird-eingeschraenkt-und-das-haftregime-wird-verschaerft-ld.10072350"
+                },
+                {
+                  "name": "EJPD: Asylstrategie 2027 (Mandat und Unterlagen)",
+                  "url": "https://www.ejpd.admin.ch/de/asylstrategie-2027"
+                },
+                {
+                  "name": "Demokratis (Daten Fedlex): Geplante Vernehmlassung Asylstrategie 2027",
+                  "url": "https://demokratis.ch/vernehmlassung/bund/aenderung-des-asylgesetzes-und-des-auslaender-und-integrationsgesetzes-sowie-der-verordnung-ueber-zulassung-aufenthalt-und-erwerbstaetigkeit-asylstrategie-2027_ksfsu4kz"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-bacs-erste-cyberangriffe-mit-ki-agenten-schweiz",
+              "slug": "bacs-erste-cyberangriffe-mit-ki-agenten-schweiz",
+              "title": "Erstmals Cyberangriffe mit KI-Agenten in der Schweiz bestätigt",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/5e61e4.jpg",
+              "kurz": "Das Bundesamt für Cybersicherheit zählt fünf Angriffe, bei denen KI-Agenten selbständig Schwachstellen suchten – betroffen sind auch Betreiber kritischer Infrastruktur.",
+              "summary": "Das Bundesamt für Cybersicherheit (BACS) hat fünf Cyberangriffe bestätigt, bei denen Angreifer KI-Agenten einsetzten; drei betrafen Betreiberinnen kritischer Infrastruktur, die übrigen KMU. Direktor Florian Schütz sagte am Donnerstag gegenüber SRF, grössere Ausfälle habe es nicht gegeben, wer dahintersteckt, sei unklar.",
+              "gegenstimme": "Das BACS nennt die Betroffenen nicht, mit Verweis auf deren Recht, selbst zu informieren – damit lässt sich der Schaden von aussen nicht überprüfen. Die eingesetzten Werkzeuge nutzen laut BACS vor allem Standardpasswörter und bekannte, ungepatchte Lücken; neu ist also eher Tempo und Ausdauer als eine neue Angriffsart. Dieselben «Agentic Offensive Frameworks» werden auch legal für Penetrationstests eingesetzt (Dual-Use), weshalb Verbote wenig bringen dürften.",
+              "sources": [
+                {
+                  "name": "BACS: Cyberangriffe mit KI-Agenten – erste bestätigte Fälle in der Schweiz",
+                  "url": "https://www.bacs.admin.ch/de/26-ki-agenten-1-de"
+                },
+                {
+                  "name": "SRF: Erstmals Cyberangriffe mit KI-Agenten in der Schweiz",
+                  "url": "https://www.srf.ch/news/schweiz/fuenf-bestaetigte-faelle-erstmals-cyberangriffe-mit-ki-agenten-in-der-schweiz"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Erste Cyberangriffe auf kritische Infrastruktur mit KI-Agenten",
+                  "url": "https://www.swissinfo.ch/ger/erste-cyberangriffe-auf-kritische-infrastruktur-mit-ki-agenten/92439882"
+                },
+                {
+                  "name": "20 Minuten: Angriffe mit KI-Agenten – Bund meldet erste Fälle",
+                  "url": "https://www.20min.ch/story/kritische-infrastruktur-angriffe-mit-ki-agenten-bund-meldet-erste-faelle-103674010"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-planzer-cyberangriff-digitec-galaxus-sendungsdaten",
+              "slug": "planzer-cyberangriff-digitec-galaxus-sendungsdaten",
+              "title": "Cyberangriff auf Planzer: Auch Daten von Digitec-Galaxus-Kunden gestohlen",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "wirtschaft",
+              "icon": "📦",
+              "edition": "midday",
+              "kurz": "Hacker haben beim Transportunternehmen Planzer Sendungsdaten erbeutet – darunter Namen und Adressen zu Galaxus-Bestellungen bis Anfang 2023.",
+              "summary": "Unbekannte haben beim Schweizer Transportunternehmen Planzer Daten zu Transportaufträgen gestohlen, wie Planzer und Digitec Galaxus am Mittwoch mitteilten. Betroffen sind Paketnummern, Namen, Lieferadressen, E-Mail-Adressen und teils Telefonnummern zu Galaxus- und Digitec-Bestellungen; die neusten Daten stammen von Anfang 2023.",
+              "gegenstimme": "Digitec Galaxus betont, die eigenen Systeme, Konten und Zahlungsdaten seien nicht betroffen, und Planzer liefere normal weiter. Kritisch bleibt, dass beide Firmen keine Zahl der Betroffenen nennen und offen ist, ob weitere Planzer-Kunden betroffen sind. Dass Daten von 2023 noch bei einem Logistiker lagen, wirft zudem die Frage nach Löschfristen auf – dazu haben sich die Unternehmen nicht geäussert.",
+              "sources": [
+                {
+                  "name": "Planzer: Mitteilung Datendiebstahl",
+                  "url": "https://www.planzer.ch/de/mitteilung-datendiebstahl/"
+                },
+                {
+                  "name": "Galaxus: Cyberangriff bei unserem Lieferpartner Planzer",
+                  "url": "https://www.galaxus.ch/de/page/cyberangriff-bei-unserem-lieferpartner-planzer-das-musst-du-wissen-44528"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden",
+                  "url": "https://www.swissinfo.ch/ger/cyberangriff-auf-planzer-trifft-auch-digitec-galaxus-kunden/92439868"
+                },
+                {
+                  "name": "RSI: Attacco hacker alla società di spedizioni Planzer",
+                  "url": "https://www.rsi.ch/info/svizzera/Attacco-hacker-alla-societ%C3%A0-di-spedizioni-Planzer--4270832.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-grevio-europarat-schweiz-haeusliche-gewalt-sorgerecht",
+              "slug": "grevio-europarat-schweiz-haeusliche-gewalt-sorgerecht",
+              "title": "Europarat: Schweiz prüft häusliche Gewalt bei Sorgerecht zu selten",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "kurz": "Die Expertengruppe GREVIO anerkennt Fortschritte, bemängelt aber kantonale Unterschiede, fehlendes Geld für Schutzplätze und die Praxis beim Sorge- und Besuchsrecht.",
+              "summary": "Die Expertengruppe des Europarats zur Istanbul-Konvention (GREVIO) hat am 25. November ihren ersten thematischen Evaluationsbericht zur Schweiz veröffentlicht. Sie anerkennt Fortschritte, fordert aber dringend eine gemeinsame Definition häuslicher Gewalt aller Kantone, eine dauerhafte Finanzierung von Schutzplätzen und eine Pflicht für Gerichte, bei Sorge- und Besuchsrecht frühere Gewalt aktiv zu prüfen.",
+              "gegenstimme": "Der Bundesrat zieht eine positivere Bilanz: Laut Gleichstellungsbüro wurden mit dem Aktionsplan 2022–2026 die Opferhilfe-Nummer 142, Mindeststandards für Polizei und Gesundheitswesen und das revidierte Sexualstrafrecht umgesetzt. Beim Sorgerecht verweisen Fachleute laut Bericht auf den seit 2014 geltenden Vorrang des gemeinsamen Sorgerechts und auf die Gleichstellung der Eltern. Der Bericht selbst hält fest, dass manchen Frauen das Sorgerecht entzogen wurde, weil ihre Gewaltvorwürfe als Versuch gewertet wurden, den Vater vom Kind zu entfremden; das zeigt, wie umstritten die Abwägung im Einzelfall ist.",
+              "sources": [
+                {
+                  "name": "GREVIO: Erster thematischer Evaluationsbericht Schweiz (PDF, EBG)",
+                  "url": "https://www.ebg.admin.ch/dam/fr/sd-web/OITV7EuWkDmS/Bericht-Erster%20Evaluationsbericht%20von%20GREVIO-%20Schweiz.pdf"
+                },
+                {
+                  "name": "EBG/Bundesrat: Wichtige Fortschritte im Kampf gegen geschlechtsbezogene Gewalt",
+                  "url": "https://www.ebg.admin.ch/de/newnsb/grGdsYAZlSjC"
+                },
+                {
+                  "name": "Le Temps: Il Consiglio d'Europa giudica insufficiente la protezione delle donne vittime di violenza",
+                  "url": "https://www.letemps.ch/it/svizzera/il-consiglio-d-europa-giudica-insufficiente-la-protezione-delle-donne-vittime-di-violenza-in-svizzera"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-stadt-bern-strategie-digitale-sicherheit",
+              "slug": "stadt-bern-strategie-digitale-sicherheit",
+              "title": "Stadt Bern will Verwaltung und Schulen besser vor Hackern schützen",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "regional",
+              "icon": "🛡️",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/bff6023547059ce7363adb502bf680bd99342455-92440955.jpg?ver=757f545a&fit=1200,900",
+              "kurz": "Der Gemeinderat hat eine Strategie Digitale Sicherheit verabschiedet und ein stadtweites Gremium geschaffen – Kosten nennt er keine.",
+              "summary": "Der Berner Gemeinderat hat die Strategie Digitale Sicherheit verabschiedet, die Daten, Systeme und Online-Dienste der Stadtverwaltung und der städtischen Volksschulen besser vor Cyberangriffen und Ausfällen schützen soll. Neu koordiniert ein «Enterprise Security Board» unter Leitung von Digital Stadt Bern die Sicherheit, die Verantwortung für die Umsetzung bleibt bei den Direktionen.",
+              "gegenstimme": "Konkrete Beträge nennt der Gemeinderat nicht; die Massnahmen sollen über die ordentlichen Budgets der Direktionen laufen. Kritiker könnten einwenden, dass ein neues Gremium ohne eigene Mittel und mit bei den Direktionen verbleibender Verantwortung vor allem Koordination und weniger zusätzlichen Schutz bringt. Ob die Strategie wirkt, wird sich erst bei einem Ernstfall zeigen.",
+              "sources": [
+                {
+                  "name": "Stadt Bern: Der Gemeinderat verabschiedet Strategie Digitale Sicherheit",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/der-gemeinderat-verabschiedet-strategie-digitale-sicherheit"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Stadt Bern will Schutz vor Cyberangriffen verbessern",
+                  "url": "https://www.swissinfo.ch/ger/stadt-bern-will-schutz-vor-cyberangriffen-verbessern/92440968"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-jegenstorf-totes-neugeborenes-strafverfahren-kindestoetung",
+              "slug": "jegenstorf-totes-neugeborenes-strafverfahren-kindestoetung",
+              "title": "Jegenstorf: Totes Neugeborenes gefunden – Verfahren wegen Kindestötung",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "regional",
+              "icon": "🚔",
+              "edition": "midday",
+              "image": "https://image.20min.ch/2026/11/26/266a89ef-2809-458f-b1f8-2ff2c555209f.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C2126%2C1419&s=3ff30bc10590d580de9ee330957b5ec9",
+              "kurz": "Das Kind lebte bei der Geburt noch. Die Mutter wurde angehalten und wieder entlassen, die Todesursache ist unklar.",
+              "summary": "In einer Wohnung in Jegenstorf ist am 17. November ein totes Neugeborenes gefunden worden, wie die Kantonspolizei Bern am Donnerstag mitteilte. Laut Institut für Rechtsmedizin der Universität Bern lebte das Kind bei der Geburt noch; die Regionale Staatsanwaltschaft Bern-Mittelland hat ein Strafverfahren wegen Kindestötung eröffnet.",
+              "gegenstimme": "Die Behörden informierten erst neun Tage nach dem Fund und machen aus Rücksicht auf die Angehörigen keine Angaben zur beschuldigten Person. Das schützt das Verfahren und die Familie, lässt aber offen, ob es Hinweise auf eine Notlage gab. Bis zu einem Urteil gilt für die Mutter die Unschuldsvermutung.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern: Jegenstorf – Totes Neugeborenes aufgefunden, Strafverfahren eröffnet",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=4991342b-f6d5-4940-9674-e320b4b711ce"
+                },
+                {
+                  "name": "20 Minuten: Neugeborenes tot aufgefunden – Ermittlungen wegen Kindestötung",
+                  "url": "https://www.20min.ch/story/jegenstorf-be-neugeborenes-tot-in-wohnung-aufgefunden-strafverfahren-eroeffnet-103674064"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-koeln-synagoge-anschlagsplan-hayi-zwei-iraker-festgenommen",
+              "slug": "koeln-synagoge-anschlagsplan-hayi-zwei-iraker-festgenommen",
+              "title": "Anschlag auf Kölner Synagoge geplant: Zwei Iraker festgenommen",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "international",
+              "icon": "🕍",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/2d873e64-4b4e-46b1-bb36-2d367af2d57e/AAABohdVFtY/AAABnSSvrFg/16x9-big/generalbundesanwalt-115.jpg?width=1280",
+              "kurz": "Die Männer sollen einer pro-iranischen Terrorgruppe angehören, die im März mutmasslich mit Sprengsätzen zu Synagogen in Köln und einer weiteren europäischen Stadt geschickt wurde.",
+              "summary": "Die deutsche Bundesanwaltschaft hat am Donnerstag in Heidelberg und Köln die irakischen Staatsangehörigen Mostafa Al-R. und Ameer J. festnehmen lassen; 17 Objekte in drei Bundesländern wurden durchsucht. Sie sollen Mitglieder einer inländischen terroristischen Vereinigung sein, die Ende März 2026 angeworbene Täter vermutlich mit Sprengsätzen zu Synagogen in Köln und in einer weiteren europäischen Stadt schickte; die Anschläge wurden nicht ausgeführt.",
+              "gegenstimme": "Die iranische Botschaft weist laut WELT «jegliche Behauptungen» über Verbindungen zur Gruppe HAYI zurück. Laut tagesschau ordnen Sicherheitsbehörden HAYI eher der organisierten Kriminalität zu und nicht direkt den iranischen Geheimdiensten. Die Beschuldigten gelten bis zu einem Urteil als unschuldig; warum die Anschläge im März nicht ausgeführt wurden, ist offen.",
+              "sources": [
+                {
+                  "name": "Generalbundesanwalt: Festnahme von zwei mutmasslichen Mitgliedern einer pro-iranischen terroristischen Vereinigung",
+                  "url": "https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-26-11-2026-2.html?nn=478184"
+                },
+                {
+                  "name": "tagesschau: Terrorverdacht – zwei Iraker in Köln und Heidelberg festgenommen",
+                  "url": "https://www.tagesschau.de/inland/terrorverdacht-festnahmen-102.html"
+                },
+                {
+                  "name": "WELT: Anschlag auf Kölner Synagoge geplant – Generalbundesanwalt nimmt zwei Verdächtige fest",
+                  "url": "https://www.welt.de/politik/deutschland/article6b07ed7f09772de37184f172/pro-iranische-tarnorganisation-anschlag-auf-koelner-synagoge-geplant-generalbundesanwalt-nimmt-zwei-verdaechtige-fest.html"
+                },
+                {
+                  "name": "Spiegel: Islamisten sollen Anschlag auf Kölner Synagoge geplant haben",
+                  "url": "https://www.spiegel.de/panorama/justiz/islamisten-sollen-anschlag-auf-koelner-synagoge-geplant-haben-a-496b3ef7-69a8-41f4-864b-b856f28105dd"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-mare-boote-deutscher-haendler-aermelkanal-schleuser",
+              "slug": "mare-boote-deutscher-haendler-aermelkanal-schleuser",
+              "title": "Deutscher Bootshändler soll Ärmelkanal-Schleuser beliefert haben",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "international",
+              "icon": "🚤",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/4e68743b-9b2b-4bc6-b347-4848fc5fd361/AAABohY522I/AAABnSSvrFg/16x9-big/migranten-schlauchboot-102.jpg?width=1280",
+              "kurz": "Fast ein Drittel der Überfahrten Anfang 2026 soll mit Booten oder Motoren einer Firma aus NRW erfolgt sein – Frankreich hat einen europäischen Haftbefehl erlassen.",
+              "summary": "Gegen den 35-jährigen Geschäftsführer der MaRe Boote GmbH aus Nordrhein-Westfalen liegt ein europäischer Haftbefehl aus Frankreich vor; er soll kurdischstämmige Schleuserclans am Ärmelkanal jahrelang mit Schlauchbooten, Motoren und Schwimmwesten beliefert haben. Das zeigt eine gemeinsame Recherche von WDR, NDR, SZ, BBC und «Le Monde»; laut den Akten waren in den ersten vier Monaten 2026 fast ein Drittel der Überfahrten mit seinen Produkten verbunden.",
+              "gegenstimme": "Der Unternehmer wehrt sich laut BBC gegen die Auslieferung und beantwortete deren Fragen nicht; er gilt als unschuldig, bis ein Gericht anders entscheidet. 2021 hatte er gegenüber britischen Medien erklärt, er sei «frustriert», dass seine Boote bei Schleusern landeten; ein deutscher Ermittler verglich das damals laut «Sun» mit einem Autoverkäufer, der nichts für Taten seiner Kunden kann. Grundsätzlich bleibt umstritten, ob Härte gegen Zulieferer die Überfahrten senkt, solange die Nachfrage besteht.",
+              "sources": [
+                {
+                  "name": "tagesschau (WDR/NDR): Deutscher Firmenchef soll Schleuser beliefert haben",
+                  "url": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html"
+                },
+                {
+                  "name": "BBC: German boat dealer suspected of supplying Channel smuggling gangs",
+                  "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo"
+                },
+                {
+                  "name": "WELT: Deutscher Firmenchef soll Schleuserclans mit Schlauchbooten beliefert haben",
+                  "url": "https://www.welt.de/vermischtes/article6b07fae71d0c4f9ebad70415/haftbefehl-deutscher-firmenchef-soll-schleuserclans-mit-schlauchbooten-beliefert-haben.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-eu-gipfel-merz-lehnt-haushaltskompromiss-ab-ukraine-27",
+              "slug": "eu-gipfel-merz-lehnt-haushaltskompromiss-ab-ukraine-27",
+              "title": "EU-Gipfel: Merz lehnt Haushaltskompromiss ab und will alle 27 bei Ukraine-Hilfe",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "politik",
+              "icon": "🇪🇺",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/0ba55be4-b044-4d90-b2e9-a8d5158dd7d7_w1200_r1.778_fpx30_fpy45.jpg",
+              "kurz": "Auch 1,78 Billionen Euro sind dem deutschen Kanzler für den EU-Haushalt 2028–2034 zu viel; zugleich knüpft er seine Zustimmung an eine gemeinsame Ukraine-Finanzierung.",
+              "summary": "Bundeskanzler Friedrich Merz (CDU) hat am Donnerstag am EU-Sondergipfel in Brüssel den Kompromissvorschlag von Ratspräsident António Costa für den Finanzrahmen 2028–2034 abgelehnt. Costa wollte den Kommissionsentwurf um rund 204 Milliarden auf 1,78 Billionen Euro kürzen; Merz verlangt weniger und fordert, dass sich alle 27 Staaten an der Ukraine-Hilfe beteiligen – «27 und nicht 23 oder 24».",
+              "gegenstimme": "Tschechiens Regierungschef Andrej Babis widerspricht: Die Ukraine-Finanzierung müsse separat verhandelt werden, sein Land brauche das Geld für anderes. Die als «Freunde der Kohäsion» bezeichneten Staaten wollen laut WELT einen grossen Haushalt mit weiterhin hohen Fördermitteln. Bulgariens Regierungschef Rumen Radew schlägt zwei Töpfe vor, damit Skeptiker nur zivile, nicht militärische Hilfe mittragen müssen.",
+              "sources": [
+                {
+                  "name": "Spiegel: Merz lehnt Kompromissvorschlag zu EU-Finanzen ab",
+                  "url": "https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-lehnt-kompromissvorschlag-zu-eu-finanzen-ab-a-c0394446-807d-4b91-b85e-3edff947a318"
+                },
+                {
+                  "name": "WELT: «27 und nicht 23 oder 24» – Merz dringt auf Beteiligung aller EU-Länder an Ukraine-Hilfe",
+                  "url": "https://www.welt.de/politik/ausland/article6b07ffd81d0c4f9ebad704f9/eu-gipfel-27-und-nicht-23-oder-24-merz-dringt-auf-beteiligung-aller-eu-laender-an-ukraine-hilfe.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-nvidia-stoppt-serverlieferungen-suedostasien-exportregeln",
+              "slug": "nvidia-stoppt-serverlieferungen-suedostasien-exportregeln",
+              "title": "Nvidia stoppt Serverlieferungen nach Südostasien",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "tech",
+              "icon": "💾",
+              "edition": "midday",
+              "image": "https://img-msp-prod.nzz.ch/2026/11/12/daf4e364-3fd2-4c83-acaa-8161c2f3f8e6.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=8329,4685,x0,y434&wmark=nzz",
+              "kurz": "Nach neuen US-Exportregeln dürfen Dell und Supermicro vorerst keine Server mit Nvidia-Chips nach Malaysia, Singapur, Thailand und Indonesien liefern.",
+              "summary": "Nvidia hat seine Fertigungspartner angewiesen, keine Server mit seinen Chips mehr nach Malaysia, Singapur, Thailand und Indonesien zu liefern, wie die «Financial Times» am Donnerstag unter Berufung auf drei Insider berichtete. Hintergrund sind neue US-Exportregeln, die seit dem 19. November eine Lizenz für fortgeschrittene KI-Chips in diese Länder verlangen.",
+              "gegenstimme": "Nvidia hat sich nicht geäussert; unklar ist, ob der Stopp nur vorübergehend ist, bis die Regeln geklärt sind. Für die Region bedeutet er laut einem Cloud-Manager «schieres Chaos», weil niemand wisse, wie man die Lizenz beantragt. Aus Sicht Washingtons ist der Schritt nötig, weil chinesische Firmen über Rechenzentren in Südostasien US-Exportkontrollen umgehen; Singapur will einen vertrauenswürdigen Kanal für seine Firmen.",
+              "sources": [
+                {
+                  "name": "NZZ/Reuters: Nvidia stoppt Chip-Lieferungen in vier südostasiatische Länder",
+                  "url": "https://www.nzz.ch/wirtschaft/nvidia-stoppt-chip-lieferungen-in-vier-suedasiatische-laender-ld.10075191"
+                },
+                {
+                  "name": "CNA/Financial Times: Nvidia halts chip shipments to Southeast Asia",
+                  "url": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351"
+                },
+                {
+                  "name": "The Next Web: Nvidia reportedly stops server shipments to Malaysia, Singapore, Thailand and Indonesia",
+                  "url": "https://thenextweb.com/news/nvidia-halts-server-shipments-southeast-asia"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-ibiza-dieseltanker-med-emre-gesunken-ein-toter",
+              "slug": "ibiza-dieseltanker-med-emre-gesunken-ein-toter",
+              "title": "Dieseltanker vor Ibiza gesunken – ein Toter, Notfallplan aktiviert",
+              "date": "2026-11-26",
+              "time": "12:55",
+              "category": "international",
+              "icon": "🛢️",
+              "edition": "midday",
+              "image": "https://images.tagesschau.de/image/c695290b-e5fc-4415-bf4b-538f1af53f76/AAABohdMOSg/AAABnSSvrFg/16x9-big/tanker-med-emre-100.jpg?width=1280",
+              "kurz": "Die maltesische «Med Emre» ging rund 46 Kilometer nordöstlich von Ibiza unter; ob Diesel ausläuft, ist noch unklar.",
+              "summary": "Der unter maltesischer Flagge fahrende Tanker «Med Emre» ist in der Nacht auf Donnerstag rund 46 Kilometer nordöstlich von Ibiza gesunken. Alle 17 Besatzungsmitglieder wurden geborgen, einer starb im Spital auf Ibiza; Spanien aktivierte den nationalen Notfallplan gegen Meeresverschmutzung auf Stufe 2, der zweithöchsten.",
+              "gegenstimme": "Die Regierung der Balearen betont, Spezialschiff und Überwachungsflugzeug seien sofort im Einsatz. Greenpeace warnt dagegen vor schweren Schäden in einer Wanderroute von Walen und Delfinen. Laut ARD verhält sich Diesel anders als Rohöl: Statt eines lang anhaltenden Ölteppichs droht eher eine kurzfristig hohe Belastung des Wassers.",
+              "sources": [
+                {
+                  "name": "tagesschau: Tanker mit 7000 Tonnen Diesel vor Ibiza gesunken",
+                  "url": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html"
+                },
+                {
+                  "name": "NZZ/dpa: Tanker mit 1,2 Millionen Litern Diesel sinkt vor Ibiza",
+                  "url": "https://www.nzz.ch/panorama/tanker-mit-12-millionen-litern-diesel-an-bord-sinkt-vor-ibiza-regierung-aktiviert-notfallplan-ld.10075382"
+                },
+                {
+                  "name": "SRF: Dieselfrachter sinkt vor Ibiza – ein Toter",
+                  "url": "https://www.srf.ch/news/international/balearen-meer-dieselfrachter-sinkt-vor-ibiza-ein-toter"
                 }
               ]
             }
