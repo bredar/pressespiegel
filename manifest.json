@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:55:00+01:00",
+  "updated": "2026-11-26T17:30:00+01:00",
   "days": [
     {
       "date": "2026-11-26",
@@ -685,6 +685,327 @@
                 {
                   "name": "SRF: Dieselfrachter sinkt vor Ibiza – ein Toter",
                   "url": "https://www.srf.ch/news/international/balearen-meer-dieselfrachter-sinkt-vor-ibiza-ein-toter"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:30",
+          "articles": [
+            {
+              "id": "2026-11-26-dublin-erste-rueckfuehrungen-nach-italien",
+              "slug": "dublin-erste-rueckfuehrungen-nach-italien",
+              "title": "Nach vier Jahren Blockade: Schweiz schafft erste Asylsuchende nach Italien zurück",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🛂",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/c60089.jpg",
+              "kurz": "Italien nimmt wieder Dublin-Fälle aus der Schweiz zurück – bisher «einige Fälle», während 773 Personen auf eine Überstellung warten.",
+              "summary": "Italien hat erstmals seit 2022 wieder Asylsuchende aus der Schweiz im Rahmen des Dublin-Abkommens übernommen, wie der Bundesrat am Donnerstag in Antworten auf zwei Vorstösse der SVP-Fraktion schreibt. Laut dem Staatssekretariat für Migration (SEM) handelt es sich um «einige Fälle, keine grosse Zahl»; zurzeit könnte die Schweiz 773 Personen nach Italien überstellen.",
+              "gegenstimme": "Die Schweizerische Flüchtlingshilfe lehnt Überstellungen nach Italien grundsätzlich ab, weil das italienische Asylsystem überlastet sei, und verlangt eine Prüfung im Einzelfall, ob Unterkunft, medizinische Versorgung und Zugang zum Asylverfahren gewährleistet sind. Aus der Gegenrichtung zeigen die Zahlen, wie weit Italien noch von der Einhaltung des Abkommens entfernt ist: einige wenige Überstellungen stehen 773 offenen Fällen und über 4000 Gesuchen gegenüber, die die Schweiz seit 2022 an Italiens Stelle prüfen musste – ein Punkt, den die SVP-Fraktion mit ihren Vorstössen aufgegriffen hat.",
+              "sources": [
+                {
+                  "name": "SRF: Schweiz führt erste Asylsuchende nach Italien zurück",
+                  "url": "https://www.srf.ch/news/schweiz/nach-vierjaehriger-blockade-schweiz-fuehrt-erste-asylsuchende-nach-italien-zurueck"
+                },
+                {
+                  "name": "NZZ: Italien nimmt wieder Asylsuchende aus der Schweiz zurück",
+                  "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-fall-kabuga-bundesrat-raeumt-versaeumnisse-ein",
+              "slug": "fall-kabuga-bundesrat-raeumt-versaeumnisse-ein",
+              "title": "Fall Kabuga: Bundesrat räumt Fehler bei Einreise des mutmasslichen Völkermord-Financiers ein",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "📜",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/88f1eb.jpg",
+              "kurz": "Félicien Kabuga, mutmasslicher Drahtzieher des Genozids an den Tutsi, durfte 1994 in die Schweiz einreisen – eine Pflichtverletzung, wie eine Untersuchung nun bestätigt.",
+              "summary": "Der Bundesrat hat am Donnerstag in einem Bericht ans Parlament Versäumnisse im Fall Félicien Kabuga eingeräumt. Der mutmassliche Mitorganisator des Völkermords an den Tutsi in Ruanda war am 22. Juli 1994 trotz Eintrag auf der Liste unerwünschter Ausländer mit einem gültigen Visum in die Schweiz eingereist; eine gründlichere Prüfung hätte laut Bundesrat höchstwahrscheinlich zur Ablehnung des Visums geführt.",
+              "gegenstimme": "Der Bundesrat hält die damalige Wegweisung statt einer Festnahme für «rechtlich zulässig» und «im historischen Kontext nachvollziehbar»: Für eine stellvertretende Strafverfolgung durch die Militärjustiz sei die Beweislage zu dünn gewesen. Kritisch bleibt, dass die Schweiz innenpolitische Erwägungen über die Mitverantwortung bei der Aufklärung des Genozids stellte – und Kabuga laut Untersuchung vor der Ausreise noch Vermögensverschiebungen von 4,8 Millionen Franken erlaubte.",
+              "sources": [
+                {
+                  "name": "SRF: Mutmasslicher Kriegsverbrecher hätte 1994 nicht einreisen dürfen",
+                  "url": "https://www.srf.ch/news/schweiz/fall-kabuga-und-die-schweiz-mutmasslicher-kriegsverbrecher-haette-1994-nicht-einreisen-duerfen"
+                },
+                {
+                  "name": "Watson/Keystone-SDA: Bundesrat räumt Versäumnisse im Fall Kabuga ein",
+                  "url": "https://www.watson.ch/schweiz/international/996875090-voelkermordes-in-ruanda-bundesrat-raeumt-versaeumnisse-im-fall-kabuga-ein"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-grosser-rat-bern-wasserkraftstrategie-bkw-stimmrecht-kwo",
+              "slug": "grosser-rat-bern-wasserkraftstrategie-bkw-stimmrecht-kwo",
+              "title": "Grosser Rat sagt Ja zur Wasserkraftstrategie – und beschneidet die BKW mit einer Stimme Mehrheit",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "💧",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/39ca05ee33f1a855a3c29e7599ddc4d585007b75-92443852.jpg?ver=1f909620&fit=1200,900",
+              "kurz": "Die BKW soll 60 Prozent der Kraftwerke Oberhasli besitzen, aber nur 50 Prozent der Stimmen haben – so will es das Berner Parlament mit 72 zu 71 Stimmen.",
+              "summary": "Der bernische Grosse Rat hat am Donnerstag die überarbeitete Konzessionsstrategie Wasserkraft mit 141 zu 4 Stimmen verabschiedet. Mit 72 zu 71 Stimmen bei 4 Enthaltungen nahm er zudem eine Planungserklärung an, die das Stimmrecht der BKW bei den Kraftwerken Oberhasli (KWO) auf 50 Prozent begrenzen soll, obwohl die BKW künftig 60 Prozent der Aktien halten wird.",
+              "gegenstimme": "Bau- und Verkehrsdirektorin Evi Allemann (SP) warnte, eine solche Begrenzung könne Ausbauprojekte und die Neukonzessionierung verzögern und schaffe ein Ungleichgewicht zwischen finanziellem Risiko und Mitsprache der BKW; mehrere Fraktionen nannten das Szenario «brandgefährlich». Die Befürworter aus SVP, Grünen/AL und GLP argumentierten, es sei nie gut, wenn ein einzelner Aktionär bei einer für Region und Versorgung so wichtigen Gesellschaft zu viel Gewicht habe.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Berner Grosser Rat gibt grünes Licht für neue Wasserkraftstrategie",
+                  "url": "https://www.swissinfo.ch/ger/berner-grosser-rat-gibt-gr%C3%BCnes-licht-f%C3%BCr-neue-wasserkraftstrategie/92443865"
+                },
+                {
+                  "name": "Berner Zeitung: Grossrat beschränkt BKW-Stimmrecht bei der KWO",
+                  "url": "https://www.bernerzeitung.ch/wasserkraftstrategie-bern-beschraenkt-stimmrecht-der-bkw-917999076496"
+                },
+                {
+                  "name": "Kanton Bern: Kommission unterstützt überarbeitete Konzessionsstrategie Wasserkraft",
+                  "url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=1d39aafc-ae92-4797-bdba-9379ca44a22f"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-spital-thun-chirurgie-chefarzt-linke-kuendigt",
+              "slug": "spital-thun-chirurgie-chefarzt-linke-kuendigt",
+              "title": "Spital Thun: Nach Hess-Entlassung kündigt auch Chirurgie-Chefarzt Linke",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "regional",
+              "icon": "🏥",
+              "edition": "evening",
+              "image": "https://www.watson.ch/imgdb/b0db/Z1200,675,619,179,235,235/7722695172158299",
+              "kurz": "Im Machtkampf am Spital Thun geht der zweite Chefarzt; die Spitalleitung weist Vorwürfe gegen die Chirurgie als unwahr zurück.",
+              "summary": "Georg R. Linke (51), seit 2015 Chefarzt der Chirurgischen Klinik am Spital Thun, hat gekündigt, wie die Spital STS AG am Donnerstag mitteilte. Er begründet den Schritt mit der schwierigen Zusammenarbeit im Führungsteam und den Zweifeln an seiner Person; interimistisch übernimmt sein Stellvertreter Maximilian von Pichler.",
+              "gegenstimme": "Die Spitalleitung weist öffentlich erhobene Vorwürfe zurück, in der Chirurgie habe eine Berufsausübungsbewilligung gefehlt und es seien Operationen ausserhalb des Leistungsauftrags durchgeführt worden, und betont, die Versorgung sei jederzeit gewährleistet gewesen. Die Unterstützer von Rolf Hess, für den vor wenigen Tagen Hunderte auf dem Thuner Rathausplatz demonstrierten, sehen die Verantwortung dagegen bei der Spitalführung; auch Verwaltungsratspräsident Thomas Straubhaar räumt ein, die Verantwortung liege nicht bei einer Person allein.",
+              "sources": [
+                {
+                  "name": "Watson/Keystone-SDA: Machtkampf am Spital Thun – weiterer Chefarzt geht",
+                  "url": "https://www.watson.ch/schweiz/gesundheit/650371837-machtkampf-am-spital-thun-weiterer-chefarzt-geht"
+                },
+                {
+                  "name": "20 Minuten: Nächster Knall am Spital Thun – Chirurgiechef kündigt",
+                  "url": "https://www.20min.ch/story/spital-thun-naechster-knall-am-spital-thun-chirurgiechef-kuendigt-103674259"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-taser-transportpolizei-vernehmlassung-mehrheit-dafuer",
+              "slug": "taser-transportpolizei-vernehmlassung-mehrheit-dafuer",
+              "title": "Taser für die Transportpolizei: Breite Zustimmung, Kritik an KI-Videoüberwachung",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🚆",
+              "edition": "evening",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/0d2a4579c9aa5d5f754f50f5416218071aa77641-92440851.jpg?ver=876c4c2a&fit=1200,900",
+              "kurz": "Mitte, SVP, Transportunternehmen und Personal wollen Elektroschockgeräte im ÖV; SP, Grüne und Konsumentenschutz lehnen ab.",
+              "summary": "In der am Donnerstag abgelaufenen Vernehmlassung zu zwei Verordnungen des Bundesrats hat der Einsatz von Tasern durch die Transportpolizei breite Zustimmung gefunden. Die Geräte dürfen nur zusammen mit Bodycams eingesetzt werden, die sich beim Taser-Einsatz automatisch einschalten; umstritten sind die geplante Echtzeit-Videoüberwachung aus Fahrzeugen und deren Auswertung mit künstlicher Intelligenz.",
+              "gegenstimme": "Die SP und die Stiftung für Konsumentenschutz lehnen den flächendeckenden Taser-Einsatz ab; die SP fordert stattdessen mehr Personal und eine durchgehende Doppelbegleitung, der Konsumentenschutz warnt vor Gefahren für verletzliche Personen und Panik in vollen Zügen. Die Grünen meinen, weder Taser noch Bodycams oder KI-Überwachung lösten das Problem der Gewalt gegen Zugpersonal. Die Mitte hält dagegen, Gewalt gegen Personal und Reisende sei nicht tolerierbar und der Taser erlaube ein abgestuftes Vorgehen.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Mehrheit befürwortet Elektroschockpistolen für Transportpolizei",
+                  "url": "https://www.swissinfo.ch/ger/mehrheit-bef%c3%bcrwortet-elektroschockpistolen-f%c3%bcr-transportpolizei/92440864"
+                },
+                {
+                  "name": "Watson: Vernehmlassung zeigt – Mehrheit befürwortet Taser für Transportpolizei",
+                  "url": "https://www.watson.ch/schweiz/oev/860690883-vernehmlassung-zeigt-mehrheit-will-taser-fuer-transportpolizei-im-oev"
+                },
+                {
+                  "name": "Die Mitte: Vernehmlassungsantwort VST/VüV-ÖV (PDF)",
+                  "url": "https://die-mitte.ch/wp-content/uploads/2026/11/261117_STN.Mitte_UVEK_VST_VueV-OeV.docx.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-brustkrebs-abklaerungen-ohne-franchise-bundesrat",
+              "slug": "brustkrebs-abklaerungen-ohne-franchise-bundesrat",
+              "title": "Bundesrat will Abklärungen nach verdächtiger Mammografie von der Franchise befreien",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "schweiz",
+              "icon": "🩺",
+              "edition": "evening",
+              "image": "https://www.watson.ch/imgdb/8835/Z1200,675,541,422,68,68/2530027869870316",
+              "kurz": "Wer im Brustkrebs-Screening einen auffälligen Befund hat, soll die Folgeuntersuchungen nicht mehr selbst mitbezahlen müssen.",
+              "summary": "Der Bundesrat beantragt die Annahme einer Motion von Nationalrätin Brigitte Crottaz (SP/VD), wie aus seiner am Donnerstag veröffentlichten Stellungnahme hervorgeht. Konsultationen und Zusatzuntersuchungen nach einem verdächtigen Befund in kantonalen Brustkrebs-Früherkennungsprogrammen sollen bis zur Bestätigung oder zum Ausschluss einer Krebserkrankung von Franchise und Selbstbehalt befreit werden.",
+              "gegenstimme": "Jede Befreiung von der Kostenbeteiligung verlagert Kosten auf die Gesamtheit der Prämienzahlenden; wie viel die Massnahme kosten würde, nennen weder der Bundesrat noch die Berichte. Kritiker der Vorlage dürften im Nationalrat zudem fragen, warum gerade diese Untersuchungen privilegiert werden sollen, während andere Abklärungen nach auffälligen Befunden weiterhin unter die Kostenbeteiligung fallen.",
+              "sources": [
+                {
+                  "name": "Watson/Keystone-SDA: Abklärungen nach Brustkrebs-Screening sollen gratis sein",
+                  "url": "https://www.watson.ch/schweiz/bundesrat/673616490-abklaerungen-nach-brustkrebs-screening-sollen-gratis-sein"
+                },
+                {
+                  "name": "RSI: Esami gratuiti per la prevenzione del tumore al seno",
+                  "url": "https://www.rsi.ch/info/svizzera/Esami-gratuiti-per-la-prevenzione-del-tumore-al-seno--4272827.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-ezb-hernandez-de-cos-soll-lagarde-nachfolgen",
+              "slug": "ezb-hernandez-de-cos-soll-lagarde-nachfolgen",
+              "title": "BIZ-Chef Hernández de Cos soll neuer EZB-Präsident werden",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "🏦",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/c7da25.jpg",
+              "kurz": "Die EU-Staats- und Regierungschefs haben sich laut Diplomaten auf den Spanier geeinigt, der heute die Notenbanken-Bank in Basel führt.",
+              "summary": "Der Spanier Pablo Hernández de Cos (55) soll Christine Lagarde an der Spitze der Europäischen Zentralbank ablösen; darauf einigten sich die EU-Staats- und Regierungschefs am Donnerstag am Gipfel in Brüssel laut Diplomaten. Die Niederlande zogen ihren Kandidaten Klaas Knot zurück; Lagarde tritt am 7. Februar 2027 ab, fast neun Monate vor Ende ihrer Amtszeit.",
+              "gegenstimme": "Hernández de Cos gilt als geldpolitische «Taube», also als Befürworter tieferer Zinsen – für Sparer und für Länder mit tiefer Inflation wie Deutschland ein Grund zur Skepsis. Bethmann-Chefökonom Alexander Krüger hält dagegen, er sei als früherer Notenbankchef mit viel geldpolitischer Erfahrung ein Garant für einen reibungslosen Übergang; Sorgen um den preisstabilen Kurs seien unbegründet.",
+              "sources": [
+                {
+                  "name": "SRF: Spanier Hernández de Cos soll EZB-Chef werden",
+                  "url": "https://www.srf.ch/news/wirtschaft/eu-gipfel-berichte-spanier-hernandez-de-cos-soll-ezb-chef-werden"
+                },
+                {
+                  "name": "NZZ/dpa: Pablo Hernández de Cos soll neuer EZB-Präsident werden",
+                  "url": "https://www.nzz.ch/wirtschaft/pablo-hernandez-de-cos-soll-neuer-ezb-praesident-werden-ld.10075651"
+                },
+                {
+                  "name": "WELT: Er gilt als geldpolitische «Taube» – Spanier soll EZB-Chef werden",
+                  "url": "https://www.welt.de/wirtschaft/article6b083b1278855274ac4ab687/pablo-hernandez-de-cos-er-gilt-als-geldpolitische-taube-spanier-soll-ezb-chef-werden.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-kuwait-iranischer-drohnenangriff-zwei-rheinmetall-techniker-tot",
+              "slug": "kuwait-iranischer-drohnenangriff-zwei-rheinmetall-techniker-tot",
+              "title": "Iranischer Drohnenangriff in Kuwait tötet zwei italienische Rheinmetall-Techniker",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "international",
+              "icon": "🛩️",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+              "kurz": "Die beiden Italiener warteten Antennen des Flugabwehrsystems Skyguard, als eine Drohne iranischer Herkunft einschlug.",
+              "summary": "Bei einem iranischen Drohnenangriff auf eine «lebenswichtige Einrichtung» in Kuwait sind am Donnerstag zwei italienische Techniker der Rheinmetall Italia getötet worden, wie das italienische Aussenministerium und die kuwaitische Armee mitteilten. Ein Kuwaiter und ein Pakistaner wurden durch herabfallende Trümmer verletzt.",
+              "gegenstimme": "Eine Stellungnahme Irans zu diesem Angriff lag bis Redaktionsschluss nicht vor. Teheran stellt seine Angriffe auf Golfstaaten mit US-Militärpräsenz als Vergeltung im Krieg dar, den die USA und Israel Ende Februar mit Angriffen auf Iran begonnen haben. Offen ist, ob die Anlage gezielt als militärisches Ziel gewählt wurde: Die Opfer warteten ein Flugabwehrsystem der Streitkräfte. Kuwait spricht von «abscheulicher iranischer Aggression» gegen eine lebenswichtige Einrichtung.",
+              "sources": [
+                {
+                  "name": "Italienisches Aussenministerium: Drone attack in Kuwait",
+                  "url": "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/11/attacco-con-droni-in-kuwait-due-cittadini-italiani-deceduti/"
+                },
+                {
+                  "name": "BBC: Two Italians killed after Iranian strike in Kuwait",
+                  "url": "https://www.bbc.com/news/articles/c39w9y5dx4k5o"
+                },
+                {
+                  "name": "DW: Iranian drone kills 2 Italian Rheinmetall workers in Kuwait",
+                  "url": "https://www.dw.com/en/iranian-drone-attack-kills-2-italians-in-kuwait/a-80064974"
+                },
+                {
+                  "name": "Spiegel: Rheinmetall-Mitarbeiter in Kuwait durch Drohnenangriff getötet",
+                  "url": "https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-mitarbeiter-in-kuwait-durch-drohnenangriff-getoetet-a-c745dda3-d0ef-41cf-825e-3ee0e047e575"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-nrw-coesfelder-liste-erlass-passersatzpapiere",
+              "slug": "nrw-coesfelder-liste-erlass-passersatzpapiere",
+              "title": "Nach Kölner Abschiebe-Panne: NRW verpflichtet Kommunen zur Passbeschaffung",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "politik",
+              "icon": "📋",
+              "edition": "evening",
+              "image": "https://images.welt.de/6b084a2d1c4d5a00bfba0400/920ce6440fbd8ac887f4dd2ac7178142-master/ci16x9-w1200/dpa-com-260909-935-1598235-jpg",
+              "kurz": "Kommunale Ausländerbehörden dürfen die Hilfe des Landes bei fehlenden Pässen von Ausreisepflichtigen nicht mehr einfach ausschlagen.",
+              "summary": "Das nordrhein-westfälische Flüchtlingsministerium hat am Donnerstag einen Erlass vorgestellt, der kommunale Ausländerbehörden verpflichtet, bei fehlenden Pässen ausreisepflichtiger Personen konsequenter vorzugehen und Hilfe der zentralen Ausländerbehörden anzunehmen. Anlass ist die «Coesfelder Liste»: Die Stadt Köln hatte 2024 Unterstützung bei der Beschaffung von Passersatzpapieren für abzuschiebende Migranten abgelehnt.",
+              "gegenstimme": "Ministerin Verena Schäffer (Grüne) spricht von «klaren Verfahrensvorgaben» und einer gestärkten Zusammenarbeit und betont, die Zuständigkeiten im Land seien klar geregelt. Der FDP geht das nicht weit genug: Sie fordert, Abschiebungen ganz auf Landesebene zu organisieren und ausreisepflichtige Straftäter vorrangig und unverzüglich auszuschaffen.",
+              "sources": [
+                {
+                  "name": "WELT: NRW zieht aus Abschiebe-Skandal erste Konsequenzen",
+                  "url": "https://www.welt.de/politik/deutschland/article6b084a2d1c4d5a00bfba0400/coesfelder-liste-klare-verfahrensvorgaben-nrw-zieht-aus-abschiebe-skandal-erste-konsequenzen.html"
+                },
+                {
+                  "name": "n-tv/dpa: Nach «Coesfelder Liste» neue Vorgaben für Ausländerbehörden",
+                  "url": "https://www.n-tv.de/regionales/nordrhein-westfalen/Nach-Coesfelder-Liste-Neue-Vorgaben-fuer-Auslaenderbehoerden-id31581257.html"
+                },
+                {
+                  "name": "WDR: Was hinter der Coesfelder Liste steckt",
+                  "url": "https://www1.wdr.de/politik/politik-in-nrw/coesfelder-liste-straftaeter-faq-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-erzbistum-koeln-rekord-schmerzensgeld-missbrauchsopfer",
+              "slug": "erzbistum-koeln-rekord-schmerzensgeld-missbrauchsopfer",
+              "title": "Erzbistum Köln muss Missbrauchsopfer Rekord-Schmerzensgeld von 550'000 Euro zahlen",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://cdn.prod.www.spiegel.de/images/5eb7210f-e1b4-4a99-85a1-2d9c4e7d298b_w1200_r1.778_fpx36.01_fpy50.jpg",
+              "kurz": "Das Oberlandesgericht Köln sieht die Kirche in der Haftung für einen Priester, der seine Pflegetochter jahrelang missbrauchte.",
+              "summary": "Das Oberlandesgericht Köln hat das Erzbistum Köln am Donnerstag verurteilt, der heute 60-jährigen Melanie F. 550'000 Euro Schmerzensgeld zu zahlen – die bisher höchste Summe für ein Opfer sexuellen Missbrauchs in der katholischen Kirche in Deutschland. Ein Priester hatte sie in den 1970er- und 1980er-Jahren als seine Pflegetochter jahrelang missbraucht.",
+              "gegenstimme": "Das Erzbistum hatte argumentiert, der Priester habe in seiner Freizeit und nicht in Ausübung seines Amtes gehandelt; es nimmt das Urteil nun «mit Respekt» zur Kenntnis. Der Anwalt der Klägerin hält die Höhe dagegen für ein Fehlurteil, weil das Gericht 360'000 Euro, die die kirchliche Anerkennungskommission bereits gezahlt hat, anrechnet – effektiv muss das Bistum nur noch 190'000 Euro zahlen.",
+              "sources": [
+                {
+                  "name": "Tagesschau/WDR: Erzbistum Köln – Rekordschmerzensgeld für Missbrauchsopfer",
+                  "url": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html"
+                },
+                {
+                  "name": "Spiegel: Erzbistum Köln muss Rekord-Schmerzensgeld an Missbrauchsopfer zahlen",
+                  "url": "https://www.spiegel.de/panorama/justiz/erzbistum-koeln-muss-rekord-schmerzensgeld-an-missbrauchsopfer-zahlen-a-78fbb517-d77a-4f46-9a1f-4a72e9ecdeb2"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-speicherkrise-smartphone-hersteller-kuerzen-ziele-2027",
+              "slug": "speicherkrise-smartphone-hersteller-kuerzen-ziele-2027",
+              "title": "Speicherkrise: Smartphone-Hersteller kürzen Absatzziele für 2027 um bis zu 29 Prozent",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "tech",
+              "icon": "📱",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/8/6/5/sht-9439d00e3ae94af0-1380f55b13ef3d36.jpeg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Weil KI-Rechenzentren Speicherchips verknappen und verteuern, planen Xiaomi, Vivo, Apple und Samsung laut einem Bericht mit deutlich weniger Geräten.",
+              "summary": "Laut einem Bericht des chinesischen Portals Jiemian News, der sich auf Quellen aus der Lieferkette stützt, haben fast alle grossen Smartphone-Hersteller ihre Auslieferungsziele für 2027 gesenkt. Am stärksten kürzen Vivo (von 85 auf 60 Millionen Geräte, minus 29 Prozent) und Xiaomi (von 120 auf 90 Millionen, minus 25 Prozent); Apple plant mit 220 statt 233 Millionen, Samsung mit 210 statt 232 Millionen.",
+              "gegenstimme": "Keiner der Hersteller hat die Zahlen bestätigt; es handelt sich um Lieferketten-Informationen eines einzelnen Mediums, die heise und Business Standard weitergeben. Zudem trifft die Krise nicht alle gleich: Honor ist laut Bericht der einzige grosse Hersteller, der sein Ziel nicht senkt, und Apple und Samsung profitierten zuletzt von höheren Preisen – der weltweite Smartphone-Umsatz stieg im dritten Quartal trotz sinkender Stückzahlen um drei Prozent.",
+              "sources": [
+                {
+                  "name": "Jiemian News: 2027年手机厂商出货目标落地",
+                  "url": "https://www.jiemian.com/article/15369030.html"
+                },
+                {
+                  "name": "heise: Speicherkrise – Smartphone-Hersteller kürzen Absatzziele für 2027 deutlich",
+                  "url": "https://www.heise.de/news/Speicherkrise-Smartphone-Hersteller-kuerzen-Absatzziele-fuer-2027-deutlich-11539493.html"
+                },
+                {
+                  "name": "Business Standard: Xiaomi, Vivo, Oppo cut 2027 shipment targets",
+                  "url": "https://www.business-standard.com/technology/tech-news/xiaomi-vivo-oppo-cut-2027-shipment-targets-as-memory-prices-soar-126112500230_1.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-26-erster-schweizer-spot-bitcoin-etf-six",
+              "slug": "erster-schweizer-spot-bitcoin-etf-six",
+              "title": "Erster Schweizer Bitcoin-ETF startet an der SIX",
+              "date": "2026-11-26",
+              "time": "17:30",
+              "category": "wirtschaft",
+              "icon": "₿",
+              "edition": "evening",
+              "image": "https://www.six-group.com/dam/images/the-swiss-stock-exchange/listing/etps-etfs-and-funds/etfs/bit-etf-issuer.six-image.standard.1250.jpg",
+              "kurz": "Der Fonds BBIT investiert direkt in Bitcoin und ist der erste von der Finma bewilligte Publikumsfonds dieser Art.",
+              "summary": "An der SIX Swiss Exchange ist am Donnerstag mit dem Bitcoin Fund ETF (Kürzel BBIT) von BIT Asset Management der erste Schweizer ETF gestartet, der direkt in Bitcoin investiert. Die Finanzmarktaufsicht Finma hatte den Fonds im Oktober als Anlagefonds mit besonderem Risiko bewilligt; die Bitcoins werden bei einer Schweizer Bank offline verwahrt.",
+              "gegenstimme": "Die Finma betont, das Marktrisiko von Bitcoin bleibe «sehr hoch», und hat für den Fonds eigens eine Ausnahme von den Regeln zur Risikoverteilung gewährt – ein Fonds mit nur einem Basiswert widerspricht dem Grundgedanken der Diversifikation. Wer vor allem regulierten Zugang sucht, hatte diesen an der SIX schon seit Jahren über physisch besicherte Bitcoin-ETP; neu ist vor allem die Fondsform mit Anlegerschutz nach Kollektivanlagengesetz.",
+              "sources": [
+                {
+                  "name": "SIX: Erster Schweizer Spot-Bitcoin-ETF an SIX Swiss Exchange",
+                  "url": "https://www.six-group.com/de/newsroom/media-releases/2026/20261126-bit-etf-issuer.html"
+                },
+                {
+                  "name": "Finma: Finma genehmigt ersten Schweizer Bitcoin-ETF",
+                  "url": "https://www.finma.ch/news/2026/10/20261020-mm-finma-bitcoin-etf/"
                 }
               ]
             }
