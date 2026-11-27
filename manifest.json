@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:15:00+01:00",
+  "updated": "2026-11-27T17:15:00+01:00",
   "days": [
     {
       "date": "2026-11-27",
@@ -690,6 +690,433 @@
                 {
                   "name": "heise online: Niederlande kündigen Widerstand gegen neue US-Sanktionen für ASML an",
                   "url": "https://www.heise.de/news/Match-Act-Niederlande-kuendigen-Widerstand-gegen-neue-US-Sanktionen-fuer-ASML-an-11539961.html"
+                }
+              ]
+            }
+          ]
+        },
+        "evening": {
+          "time": "17:15",
+          "articles": [
+            {
+              "id": "2026-11-27-blocher-kritisiert-svp-ticket-schnegg-wilde-wahl",
+              "slug": "blocher-kritisiert-svp-ticket-schnegg-wilde-wahl",
+              "title": "Blocher nennt SVP-Bundesratsticket einen «Unfall» – und bringt Berner Regierungspräsident Schnegg ins Spiel",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/b0991a.jpg",
+              "kurz": "Eine Woche nach der Nomination von Aeschi und Graber kritisiert Christoph Blocher das Ticket offen; Pierre Alain Schnegg schliesst eine Wahl nicht aus.",
+              "summary": "Alt-Bundesrat Christoph Blocher hat im Teleblocher das offizielle SVP-Ticket mit Thomas Aeschi und Michael Graber für die Nachfolge von Guy Parmelin als «Unfall» bezeichnet; dass kein Romand darauf stehe, sei ein «Schönheitsfehler». Er hätte den Berner Regierungspräsidenten Pierre Alain Schnegg bevorzugt und kann sich vorstellen, dass dieser nach einer wilden Wahl am 9. Dezember wieder in die Partei aufgenommen würde. Schnegg sagt, das Ticket stehe, alles andere seien Spekulationen.",
+              "gegenstimme": "Blocher selbst nennt Aeschi und Graber «fähige, wählbare Kandidaten»; das Ticket sei kein Problem für das Land, sondern für die Partei. Die Fraktion hat in einem regulären Wahlgang Graber gegenüber Schnegg vorgezogen – gerade mit Stimmen aus der Romandie. Wer Blochers Worte als Einladung zur wilden Wahl liest, übergeht, dass ein Gewählter nach SVP-Statuten automatisch aus der Partei fällt und eine Wiederaufnahme Zweidrittelmehrheiten in Vorstand und Fraktion bräuchte, die Blocher nicht garantieren kann.",
+              "sources": [
+                {
+                  "name": "SRF: Blocher kritisiert SVP-Ticket und bringt Schnegg zurück ins Spiel",
+                  "url": "https://www.srf.ch/news/schweiz/schoenheitsfehler-blocher-kritisiert-svp-ticket-und-bringt-schnegg-zurueck-ins-spiel"
+                },
+                {
+                  "name": "20 Minuten: «Betriebsunfall»: Blocher zerpflückt Bundesratsticket der SVP",
+                  "url": "https://www.20min.ch/story/kritik-aus-herrliberg-zh-betriebsunfall-blocher-zerpflueckt-bundesratsticket-der-svp-103674738"
+                },
+                {
+                  "name": "20 Minuten: Blocher hebt ihn auf den Schild: Nun spricht Pierre Alain Schnegg",
+                  "url": "https://www.20min.ch/story/schaetze-die-meinungen-blocher-hebt-ihn-auf-den-schild-nun-spricht-pierre-alain-schnegg-103674837"
+                },
+                {
+                  "name": "NZZ: Meldungen Schweiz – Blocher stört sich an «Schönheitsfehler»",
+                  "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10054175"
+                },
+                {
+                  "name": "Tages-Anzeiger: Bauchef Michael Graber baut sein Haus um – und weicht von der Bewilligung ab",
+                  "url": "https://www.tagesanzeiger.ch/michael-graber-umbau-in-brig-weicht-von-baubewilligung-ab-468022029838"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-thurgau-regierung-kopftuchverbot-lehrpersonen",
+              "slug": "thurgau-regierung-kopftuchverbot-lehrpersonen",
+              "title": "Thurgauer Regierung will Kopftücher und Kippas für Lehrpersonen verbieten",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🏫",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/dd8b30.jpg",
+              "kurz": "Der Regierungsrat unterstützt eine Motion von SVP, Mitte und EVP teilweise: kein religiöser Kopfschmuck und keine Parteiwerbung im Unterricht – Schülerinnen bleiben ausgenommen.",
+              "summary": "Der Thurgauer Regierungsrat will Lehr- und Fachpersonen an öffentlichen Volks-, Mittel- und Berufsfachschulen verbieten, im Unterricht und an Schulanlässen religiöse Kopfbedeckungen wie Kopftücher oder Kippas zu tragen. Auch parteipolitische Zeichen sowie Wahl- und Abstimmungswerbung sollen untersagt werden, kleine religiöse Symbole und Schmuck bleiben erlaubt. Er beantragt, eine Motion von SVP, Mitte und EVP teilweise erheblich zu erklären; das letzte Wort hat der Grosse Rat.",
+              "gegenstimme": "Nach eigener Kenntnis trägt derzeit keine Thurgauer Lehrperson ein Kopftuch; die Regierung selbst sieht keinen «akuten Problemdruck». Gegner solcher Verbote – etwa in der heute in Kanada entschiedenen Debatte um das Québecer Gesetz – argumentieren, dass sie faktisch vor allem muslimische Frauen von Berufen im Staatsdienst ausschliessen. Befürworter halten dagegen, die Schule müsse ein weltanschaulich und politisch neutraler Ort sein, und eine einheitliche Regel schaffe Rechtssicherheit, bevor ein Konflikt entstehe.",
+              "sources": [
+                {
+                  "name": "SRF: Thurgauer Regierung will Kopftücher für Lehrerinnen verbieten",
+                  "url": "https://www.srf.ch/news/schweiz/an-oeffentlichen-schulen-thurgauer-regierung-will-kopftuecher-fuer-lehrerinnen-verbieten"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Thurgauer Regierung will Kopftücher für Lehrerinnen verbieten",
+                  "url": "https://www.swissinfo.ch/ger/thurgauer-regierung-will-kopft%C3%BCcher-f%C3%BCr-lehrerinnen-verbieten/92449298"
+                },
+                {
+                  "name": "Thurgauer Zeitung: Regierung befürwortet Kopftuchverbot für Thurgauer Lehrerinnen",
+                  "url": "https://www.thurgauerzeitung.ch/ostschweiz/kanton-thurgau/thurgau-regierung-will-religioese-zeichen-bei-lehrpersonen-einschraenken-ld.4275150"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-genf-kokainabgabe-pilotprojekt-crack-cogebe",
+              "slug": "genf-kokainabgabe-pilotprojekt-crack-cogebe",
+              "title": "Genf verschreibt ab 2027 Crack-Abhängigen ärztlich kontrolliert Kokain",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "💊",
+              "edition": "evening",
+              "image": "https://img-msp-prod.nzz.ch/2025/07/16/b29fd3eb-6b2c-4aca-9971-cb8519dc3ff6.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y309&wmark=nzz",
+              "kurz": "Erstmals in der Schweiz erhalten Schwerstsüchtige Kokain auf Rezept – inhaliert per E-Zigarette unter Aufsicht. Ein Platzspitz-Arzt hat Strafanzeige eingereicht.",
+              "summary": "Der Kanton Genf startet im Januar 2027 das Pilotprojekt CoGeBe (kokaingestützte Behandlung) mit zehn bis zwanzig freiwilligen, schwerstabhängigen Crack-Konsumenten. Sie inhalieren pharmazeutisches Kokain per E-Zigarette in überwachten Kabinen, in drei Zeitfenstern pro Tag mit höchstens sechs Inhalationen. Gesundheitsdirektor Pierre Maudet stellte das vom Staatsrat am 7. Oktober bewilligte und vom BAG unterstützte Projekt am Freitag vor.",
+              "gegenstimme": "Der Zürcher Platzspitz-Arzt André Seidenberg, ein Pionier der Heroinabgabe, hält den Genfer Versuch für «unethisch», weil medizinische Risiken für die Patienten vernachlässigt würden; er hat im April Strafanzeige gegen Programmleiter Daniele Zullino eingereicht, die Staatsanwaltschaft klärt ab. Zullino entgegnet, die Gefahren seien geringer als auf der Strasse, weil die Patienten medizinisch betreut würden. Anwohner rund um den Genfer Hauptbahnhof protestieren seit Längerem gegen die Crack-Szene – ob das Projekt diese sichtbar verkleinert, ist bei 10 bis 20 Teilnehmenden offen.",
+              "sources": [
+                {
+                  "name": "NZZ: Genf startet Pilot mit Kokainabgabe an Schwerstsüchtige",
+                  "url": "https://www.nzz.ch/schweiz/genf-startet-pilot-mit-kokain-abgabe-an-schwerstsuechtige-der-kanton-wagt-einen-umstrittenen-versuch-ld.10076377"
+                },
+                {
+                  "name": "Kanton Genf (Medienmitteilung): Crack à Genève",
+                  "url": "https://www.ge.ch/document/crack-geneve-canton-renforce-reduction-risques-ouvre-nouvelles-perspectives-traitement"
+                },
+                {
+                  "name": "RTS: Addiction au crack: Genève teste la prescription de cocaïne",
+                  "url": "https://www.rts.ch/info/regions/geneve/2026/article/addiction-au-crack-geneve-teste-la-prescription-de-cocaine-29430135.html"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Genf testet Kokainabgabe auf Rezept für Crack-Abhängige",
+                  "url": "https://www.swissinfo.ch/ger/genf-testet-kokainabgabe-auf-rezept-f%c3%bcr-crack-abh%c3%a4ngige/92449551"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-pfister-vautrin-bern-weltraum-absichtserklaerung-luftabwehr",
+              "slug": "pfister-vautrin-bern-weltraum-absichtserklaerung-luftabwehr",
+              "title": "Pfister und Frankreichs Verteidigungsministerin unterzeichnen in Bern Weltraum-Absichtserklärung",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "schweiz",
+              "icon": "🛰️",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/ac141c3.jpg",
+              "kurz": "Die Schweiz will militärisch im All enger mit Frankreich zusammenarbeiten; Paris wirbt offen für sein Luftabwehrsystem SAMP/T NG gegen das israelische Barak MX.",
+              "summary": "Bundesrat Martin Pfister hat in Bern die französische Verteidigungsministerin Catherine Vautrin empfangen und mit ihr eine Absichtserklärung zur Zusammenarbeit im Weltraumbereich unterzeichnet: Informationsaustausch, Aus- und Weiterbildung, Innovation und Forschung. «Die Schweiz kann die Souveränität im Weltraum nicht alleine garantieren», sagte Pfister. Beim zweiten bodengestützten Luftabwehrsystem grösserer Reichweite liess er offen, ob das französisch-italienische SAMP/T NG oder das israelische Barak MX gekauft wird.",
+              "gegenstimme": "Das VBS betont, die Kooperation erfolge «unter Wahrung der Neutralität»; was konkret ausgetauscht wird, lässt die Absichtserklärung offen. Beim Luftabwehr-Entscheid hat Frankreich ein klares Eigeninteresse: Vautrin bot Liefer- und Preisgarantien sowie Industriebeteiligungen an. Pfister hält fest, der Bundesrat bevorzuge zwar europäische Partner, entscheidend seien aber militärische Wirksamkeit, Kosten, Liefertermine und Gegengeschäfte – Kriterien, bei denen das israelische System nicht von vornherein unterlegen ist.",
+              "sources": [
+                {
+                  "name": "VBS (Medienmitteilung): Bundesrat Martin Pfister empfängt Catherine Vautrin",
+                  "url": "https://www.vbs.admin.ch/de/newnsb/pu4R3zCBrshR"
+                },
+                {
+                  "name": "SRF: Schweiz und Frankreich unterzeichnen Weltall-Absichtserklärung",
+                  "url": "https://www.srf.ch/news/schweiz/staerkung-der-expertise-schweiz-und-frankreich-unterzeichnen-weltall-absichtserklaerung"
+                },
+                {
+                  "name": "RTS: Berne et Paris renforcent leur coopération dans le domaine spatial",
+                  "url": "https://www.rts.ch/info/suisse/2026/article/suisse-france-accord-pour-renforcer-la-cooperation-spatiale-29430320.html"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Schweiz und Frankreich stärken militärische Zusammenarbeit",
+                  "url": "https://www.swissinfo.ch/ger/schweiz-und-frankreich-st%c3%a4rken-milit%c3%a4rische-zusammenarbeit/92449282"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-avenir-suisse-studie-neue-minderheit-staatliche-einkommen",
+              "slug": "avenir-suisse-studie-neue-minderheit-staatliche-einkommen",
+              "title": "Avenir Suisse: Ab 2027 leben mehr Menschen von staatlichem als von privatem Einkommen",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "📊",
+              "edition": "evening",
+              "kurz": "Laut der Denkfabrik kamen 2023 auf 100 Erwerbstätige in der Privatwirtschaft 95 Personen mit staatlich geprägtem Einkommen – bis 2040 sollen es deutlich mehr sein.",
+              "summary": "Die wirtschaftsliberale, von Unternehmen finanzierte Denkfabrik Avenir Suisse zählt für 2023 rund 3,51 Millionen Erwachsene mit staatlich geprägtem Einkommen – 1,75 Millionen AHV-Rentner, 1,23 Millionen Beschäftigte im staatlichen und staatsnahen Sektor sowie 0,53 Millionen IV-, Hinterlassenenrenten- oder Sozialhilfebeziehende – gegenüber 3,68 Millionen Erwerbstätigen in der Privatwirtschaft. 2027 dürfte sich das Verhältnis laut der Studie «Die neue Minderheit» umkehren, bis 2040 auf 4,4 gegen 3,8 Millionen.",
+              "gegenstimme": "Die Studie zählt AHV-Rentner zur «staatlichen» Seite, obwohl diese ihre Ansprüche über Jahrzehnte mit Beiträgen erworben haben – das räumt Avenir Suisse selbst ein, begründet es aber damit, dass Höhe und Finanzierung der Renten politisch bestimmt werden. Zudem überschneiden sich die Gruppen (wer neben der Rente arbeitet, zählt doppelt), es handelt sich also nicht um eine exakte Aufteilung der Bevölkerung. Und Beschäftigte in Spitälern oder Schulen erbringen Leistungen, die auch privat finanziert sein könnten – ob «staatsnah» politisch gleich tickt wie «staatlich», ist eine Annahme.",
+              "sources": [
+                {
+                  "name": "Avenir Suisse: Die neue Minderheit",
+                  "url": "https://www.avenir-suisse.ch/de/blog/die-neue-minderheit"
+                },
+                {
+                  "name": "Tages-Anzeiger: 2040 dürften 4,4 Millionen Menschen in der Schweiz von staatlichen Einkommen leben",
+                  "url": "https://www.tagesanzeiger.ch/avenir-suisse-95-staatlich-finanzierte-auf-100-erwerbstaetige-119326655954"
+                },
+                {
+                  "name": "CH Media (Schweiz Heute): In der Schweiz leben immer mehr Menschen von staatlichen Einkommen",
+                  "url": "https://www.schweizheute.ch/schweiz/in-der-schweiz-leben-immer-mehr-menschen-von-staatlichen-einkommen-ld.4274543"
+                },
+                {
+                  "name": "Weltwoche (Meinung, Inspiration): Staatsjunkies bald in Mehrheit",
+                  "url": "https://weltwoche.ch/daily/staatsjunkies-bald-in-mehrheit-privatwirtschaft-geraet-ins-hintertreffen-schweiz-am-kipppunkt/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-bern-breitenrain-saalbau-feuerwehr-viktoria-verschoben",
+              "slug": "bern-breitenrain-saalbau-feuerwehr-viktoria-verschoben",
+              "title": "Bern: 510 Tonnen schwerer Saalbau der Feuerwehrkaserne Viktoria verschoben",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "regional",
+              "icon": "🏗️",
+              "edition": "evening",
+              "image": "https://c.nau.ch/i/nKaPDJ/1360/680/hausverschiebung-bern.jpg",
+              "kurz": "Im Breitenrain wurde der Saalbau von 1957 rund 50 Meter in den Innenhof gefahren – Platz für den genossenschaftlichen Wohnneubau «Albert».",
+              "summary": "Die Genossenschaft Feuerwehr Viktoria hat am Freitag den rund 510 Tonnen schweren Saalbau der alten Berner Feuerwehrkaserne an der Gotthelfstrasse etwa 50 Meter in den Innenhof des Areals verschieben lassen. Das Gebäude wurde mit einem Stahl-Traggerüst stabilisiert, von selbstfahrenden Schwerlast-Plattformwagen angehoben und nach zwei Drehungen abgesetzt. Am alten Standort entsteht der Neubau «Albert» mit Wohnungen für rund 40 Personen und Schulraum.",
+              "gegenstimme": "Die Genossenschaft begründet die aufwendige Translozierung mit Nachhaltigkeit und dem Erhalt baukulturellen Erbes; die Denkmalpflege stuft den Saalbau als erhaltenswert ein. Was die Verschiebung im Vergleich zu Abriss und Neubau gekostet hat und ob die graue Energie den Aufwand für Stahlgerüst und Schwertransport tatsächlich überwiegt, geht aus den öffentlich zugänglichen Unterlagen nicht hervor.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: 510 Tonnen schweres Gebäude in Bern erfolgreich verschoben",
+                  "url": "https://www.swissinfo.ch/ger/in-bern-wird-ein-510-tonnen-schweres-geb%c3%a4ude-verschoben/92449506"
+                },
+                {
+                  "name": "Nau.ch: Spektakel in Bern: Hier wird ein 510-Tonnen-Gebäude verschoben",
+                  "url": "https://www.nau.ch/news/schweiz/in-bern-wird-ein-510-tonnen-schweres-gebaude-verschoben-67207562"
+                },
+                {
+                  "name": "Baublatt: In Bern wird ein 510 Tonnen schweres Gebäude verschoben",
+                  "url": "https://www.baublatt.ch/baupraxis/in-bern-wird-ein-510-tonnen-schweres-gebaeude-verschoben-39954"
+                },
+                {
+                  "name": "Genossenschaft Feuerwehr Viktoria: Translozierung",
+                  "url": "https://feuerwehrviktoria.ch/translozierung/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-benko-olg-innsbruck-erhoeht-strafe-36-monate",
+              "slug": "benko-olg-innsbruck-erhoeht-strafe-36-monate",
+              "title": "René Benko: Oberlandesgericht erhöht Strafe auf 36 Monate Haft",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "wirtschaft",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://image.20min.ch/2026/11/27/e5abd8fa-d360-40b6-adbb-636434498fc4.jpg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C3671%2C2065&s=f1f3feecab83f8ebbdfbd671eba30d1f",
+              "kurz": "Wegen versteckter Uhren und Manschettenknöpfe kommt für den Signa-Gründer eine Zusatzstrafe von sechs Monaten dazu.",
+              "summary": "Das Oberlandesgericht Innsbruck hat die Strafe gegen den Signa-Gründer René Benko wegen Schädigung von Gläubigern korrigiert: Statt 30 muss er nun 36 Monate in Haft. Das Landesgericht hatte im zweiten Verfahren eine bedingte Strafe von 15 Monaten und eine Geldstrafe verhängt; das OLG setzte stattdessen sechs Monate fest, die zur rechtskräftigen Verurteilung von 30 Monaten addiert werden. Benko hatte laut Gericht wertvolle Uhren und Manschettenknöpfe in einem Tresor bei Verwandten seiner Frau vor den Gläubigern versteckt.",
+              "gegenstimme": "Benko bestreitet alle Vorwürfe. Eine weitere Verurteilung zu zwei Jahren wegen schweren Betrugs ist noch nicht rechtskräftig, und in mehreren weiteren Strängen wird erst ermittelt – für diese gilt die Unschuldsvermutung. Für die Gläubiger ändert die höhere Strafe wenig: Bei Forderungen von rund 40 Milliarden Euro sind die versteckten Wertsachen ein Randposten.",
+              "sources": [
+                {
+                  "name": "20 Minuten: Benko muss ein halbes Jahr länger in Haft",
+                  "url": "https://www.20min.ch/story/schaedigung-von-glaeubigern-obergerichtsurteil-benko-muss-ein-halbes-jahr-laenger-in-haft-103674854"
+                },
+                {
+                  "name": "Tages-Anzeiger: Weiteres Urteil gegen Benko: nun drei Jahre Haft",
+                  "url": "https://www.tagesanzeiger.ch/rene-benko-oberlandesgericht-erhoeht-haft-auf-36-monate-119610035554"
+                },
+                {
+                  "name": "Spiegel: René Benko: Gericht korrigiert Strafe nach oben",
+                  "url": "https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651"
+                },
+                {
+                  "name": "NZZ: Signa-Krise – die wichtigsten Meldungen",
+                  "url": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-ukraine-bietet-waffenruhe-schwarzes-meer-getreide",
+              "slug": "ukraine-bietet-waffenruhe-schwarzes-meer-getreide",
+              "title": "Ukraine bietet Waffenruhe im Schwarzen Meer an – Russland will Öl einbeziehen",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "international",
+              "icon": "🚢",
+              "edition": "evening",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/db4359.jpg",
+              "kurz": "Kiew will den Export von Agrarprodukten über das Schwarze Meer sichern und wartet auf Moskaus Antwort; Vermittler sind Indien, die Türkei und Ägypten.",
+              "summary": "Der ukrainische Aussenminister Andrij Sybiha hat am Freitag erklärt, Kiew habe einen Vorschlag für eine Waffenruhe im Schwarzen Meer übermittelt, um Lebensmittelexporte zu sichern, und warte auf eine Antwort Russlands. Er dankte Indien, der Türkei und Ägypten für ihre Vermittlung. Russland wolle zusätzlich, dass die Ukraine ihre Angriffe auf den russischen Ölsektor einstellt – das komme für Kiew nur im Rahmen einer umfassenden Energie-Waffenruhe infrage.",
+              "gegenstimme": "Eine russische Stellungnahme zum Vorschlag liegt nicht vor; die Darstellung, Moskau stelle «unrealistische Zusatzforderungen», stammt allein von ukrainischer Seite. Aus russischer Sicht sind die ukrainischen Angriffe auf den Ölsektor Teil desselben Seekriegs – eine reine Getreide-Waffenruhe würde vor allem der Ukraine nützen. Zudem fällt der Vorstoss in eine Woche, in der Präsident Selenskyj vor einem neuen russischen Grossangriff warnt.",
+              "sources": [
+                {
+                  "name": "SRF: Ukraine bietet Waffenruhe im Schwarzen Meer an",
+                  "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-ukraine-bietet-waffenruhe-im-schwarzen-meer-an"
+                },
+                {
+                  "name": "Reuters (via Devdiscourse): Ukraine submits Black Sea truce offer, waits for Russian response",
+                  "url": "https://www.devdiscourse.com/article/international/4013295-ukraine-submits-black-sea-truce-offer-waits-for-russian-response-minister-says"
+                },
+                {
+                  "name": "Ukrinform: Russia seeks to include oil exports in Black Sea agricultural truce deal",
+                  "url": "https://www.ukrinform.net/rubric-polytics/4189335-fm-sybiha-russia-seeks-to-include-oil-exports-in-black-sea-agricultural-truce-deal.html"
+                },
+                {
+                  "name": "Handelsblatt: Ukraine bietet Waffenruhe im Schwarzen Meer an",
+                  "url": "https://www.handelsblatt.com/politik/international/ukraine-bietet-waffenruhe-im-schwarzen-meer-an/27982126.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-kanada-oberstes-gericht-quebec-bill-21-religiose-symbole",
+              "slug": "kanada-oberstes-gericht-quebec-bill-21-religiose-symbole",
+              "title": "Kanadas Oberstes Gericht bestätigt Québecs Verbot religiöser Symbole im Staatsdienst",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "international",
+              "icon": "⚖️",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+              "kurz": "Lehrpersonen, Polizisten und andere Staatsangestellte in Québec dürfen weiterhin kein Kopftuch, Kreuz oder Turban tragen – nur für Parlamentsmitglieder gilt eine Ausnahme.",
+              "summary": "Der Supreme Court of Canada hat das Québecer Laizitätsgesetz Bill 21 von 2019 weitgehend bestätigt. Es verbietet Staatsangestellten in Autoritätspositionen wie Lehrpersonen und Polizisten, bei der Arbeit religiöse Symbole wie Hijab, Kreuz oder Turban zu tragen. Einzige Ausnahme: Das Gesicht-Unverhüllt-Gebot darf nicht für gewählte Mitglieder der Nationalversammlung gelten, weil es deren demokratische Rechte verletze.",
+              "gegenstimme": "Bürgerrechtsgruppen sowie muslimische, Sikh- und katholische Lehrerinnen, die geklagt hatten, kritisieren, das Gesetz treffe überproportional muslimische Frauen mit Kopftuch und schliesse sie von Teilen des öffentlichen Lebens aus. Québec hat das Gesetz zudem nur dank der «Notwithstanding Clause» durchgesetzt, die Grundrechte wie Religionsfreiheit für bis zu fünf Jahre aushebeln kann – das Urteil stützt sich damit wesentlich auf diese Ausnahmeklausel. Befürworter sehen darin hingegen die Bestätigung der staatlichen Neutralität.",
+              "sources": [
+                {
+                  "name": "BBC: Canada's top court largely upholds Quebec ban on religious symbols",
+                  "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o"
+                },
+                {
+                  "name": "CBC: Supreme Court of Canada rules Quebec's secularism law is constitutionally valid",
+                  "url": "https://www.cbc.ca/news/politics/supreme-court-decison-bill-21-9.7437512"
+                },
+                {
+                  "name": "Al Jazeera: Canada's top court largely upholds Quebec's religious symbols ban",
+                  "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-italien-schulgesetz-burkaverbot-auslaender-obergrenze",
+              "slug": "italien-schulgesetz-burkaverbot-auslaender-obergrenze",
+              "title": "Italien: Burkaverbot an Schulen und 30-Prozent-Obergrenze für nicht integrierte ausländische Kinder",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇮🇹",
+              "edition": "evening",
+              "kurz": "Das Parlament in Rom hat Melonis Schuldekret endgültig gebilligt; auch Eltern mit grossen Sprachproblemen können zu Italienischkursen verpflichtet werden.",
+              "summary": "Die Abgeordnetenkammer in Rom hat das Schuldekret der Regierung Meloni mit 142 zu 112 Stimmen bei 4 Enthaltungen endgültig verabschiedet; der Senat hatte bereits zugestimmt. Gesichtsschleier wie Burka und Nikab sind auf dem gesamten Schulgelände verboten, Bussen bis 1000 Euro sind möglich. Ab dem Schuljahr 2027/28 dürfen in den ersten Klassen aller Stufen höchstens 30 Prozent ausländische Kinder sitzen, die die Integrationskriterien nicht erfüllen.",
+              "gegenstimme": "Die Opposition hielt bei der Schlussabstimmung Schilder mit der Aufschrift «A scuola nessuno è straniero» (In der Schule ist niemand fremd) hoch. Sie wendet sich gegen die Unterscheidung von Kindern nach Herkunft und gegen Bussen für Eltern. Die Regierung begründet Quote und Sprachpflicht mit Integration: Ziel seien vor allem neu zugewanderte Kinder ohne ausreichende Italienischkenntnisse; Eltern sollen nur verpflichtet werden, wenn die Kommunikation mit der Schule beeinträchtigt ist. Melonis Koalition steht zudem unter Druck von rechts durch Roberto Vannaccis Partei Futuro Nazionale.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger: Burkaverbot und Ausländer-Obergrenze: Meloni zieht in Italiens Schulen die Zügel an",
+                  "url": "https://www.tagesanzeiger.ch/italien-burka-und-nikab-an-schulen-verboten-342544361245"
+                },
+                {
+                  "name": "la Repubblica: Dl scuola approvato alla Camera: è legge",
+                  "url": "https://www.repubblica.it/politica/2026/11/26/news/dl_scuola_approvato_camera_ebook_tetto_stranieri-425751682/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-bundestag-haushalt-2027-rekord-556-milliarden",
+              "slug": "bundestag-haushalt-2027-rekord-556-milliarden",
+              "title": "Bundestag beschliesst Rekordhaushalt 2027 mit 210 Milliarden Euro neuen Schulden",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "evening",
+              "image": "https://images.welt.de/6b0984f5741a4ef947849efb/9e8b83cc4ca5dc170f8c8413170ee205-master/ci16x9-w1200/dpa-com-261127-936-158121-jpg",
+              "kurz": "Der Etat der schwarz-roten Koalition sieht 556 Milliarden Euro Ausgaben vor; mehr Schulden machte der Bund nur im Corona-Jahr 2021.",
+              "summary": "Der Deutsche Bundestag hat den Haushalt 2027 mit 317 zu 260 Stimmen verabschiedet. Vorgesehen sind Ausgaben von 556 Milliarden Euro, rund 31 Milliarden oder sechs Prozent mehr als 2026. Die Nettokreditaufnahme im Kernhaushalt steigt von 98 auf 123 Milliarden Euro; mit den Sondervermögen für Infrastruktur und Bundeswehr summiert sich die Neuverschuldung auf über 210 Milliarden Euro.",
+              "gegenstimme": "Kritiker – in der WELT etwa eine Mittelständlerin mit dem Appell «Herr Bundeskanzler, wir verpfänden die Zukunft unserer Kinder» – sehen in der Rekordverschuldung eine Belastung künftiger Generationen, zumal die Tilgung von Corona- und Bundeswehrkrediten auf 2033 verschoben werden soll. Finanzminister Lars Klingbeil (SPD) verteidigt die Investitionen und kündigt für 2028 «Zumutungen» an. Von links kommt die gegenteilige Kritik: Der Bundeszuschuss zur Rentenversicherung wird um drei Milliarden gekürzt, die Grundsicherungssätze werden eingefroren.",
+              "sources": [
+                {
+                  "name": "Spiegel: Bundestag beschliesst Etat für 2027",
+                  "url": "https://www.spiegel.de/politik/deutschland/haushalt-bundestag-beschliesst-etat-fuer-2027-a-a42c379c-74eb-4ecc-9b63-71105aed94f0"
+                },
+                {
+                  "name": "t-online/dpa: Bundestag verabschiedet Rekordhaushalt",
+                  "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101549630/bundeshaushalt-2027-bundestag-verabschiedet-rekordhaushalt.html"
+                },
+                {
+                  "name": "WELT: Bundestag beschliesst Haushalt 2027 mit Rekordausgaben",
+                  "url": "https://www.welt.de/politik/deutschland/article6b0984f5741a4ef947849efb/bundestag-beschliesst-haushalt-2027-mit-rekordausgaben.html"
+                },
+                {
+                  "name": "WELT: «Herr Bundeskanzler, wir verpfänden die Zukunft unserer Kinder»",
+                  "url": "https://www.welt.de/wirtschaft/article6b09666f6a4ea151d91c241d/herr-bundeskanzler-wir-verpfaenden-die-zukunft-unserer-kinder-schreibt-diese-mittelstaendlerin.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-grossbritannien-dwp-cyber-vorfall-renten-sozialleistungen",
+              "slug": "grossbritannien-dwp-cyber-vorfall-renten-sozialleistungen",
+              "title": "Grossbritannien: Cyber-Vorfall legt fast alle Online-Dienste für Renten und Sozialleistungen lahm",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🔐",
+              "edition": "evening",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c16d/live/d01bdb90-958d-11f1-b8bb-1b597db1ad66.jpg",
+              "kurz": "Das Department for Work and Pensions hat nach «ungewöhnlicher Aktivität» vorsorglich seine Systeme abgeschaltet; Zahlungen sollen trotzdem fliessen.",
+              "summary": "Das britische Arbeits- und Rentenministerium (DWP) hat nach einem «Cyber-Vorfall» fast alle Online-Dienste vom Netz genommen, darunter Universal Credit, staatliche Renten, Invaliditätsleistungen (PIP) und das Todesfall-Meldesystem «Tell Us Once». Die Dienste wurden am Donnerstag vorsorglich abgeschaltet, nachdem «ungewöhnliche Aktivität» festgestellt worden war. Renten und Leistungen sollen laut Regierung normal ausbezahlt werden; Hinweise auf Datenabfluss gebe es derzeit nicht.",
+              "gegenstimme": "Ob es sich um einen Angriff handelt und wer dahintersteht, ist offen; die Regierung warnt ausdrücklich davor, voreilige Schlüsse zu ziehen. Der Guardian stellt einen zeitlichen Zusammenhang zu einer Regierungswarnung vor russischer Sabotage her – Belege für eine russische Urheberschaft gibt es bisher nicht. Umgekehrt widersprechen Betroffene der Beruhigung: Einzelne berichten, erwartete Zahlungen seien am Freitag nicht eingegangen.",
+              "sources": [
+                {
+                  "name": "BBC: What we know about Department for Work and Pensions 'cyber incident'",
+                  "url": "https://www.bbc.com/news/articles/ck1l0e946dqmo"
+                },
+                {
+                  "name": "The Guardian: DWP 'cyber incident' knocks almost all pensions and benefits systems offline",
+                  "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline"
+                },
+                {
+                  "name": "GOV.UK: Temporary disruption to some DWP online services",
+                  "url": "https://www.gov.uk/government/news/temporary-disruption-to-some-dwp-online-services"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-us-air-force-cloud-one-hackerangriff",
+              "slug": "us-air-force-cloud-one-hackerangriff",
+              "title": "Hacker sollen in die zentrale Cloud-Plattform der US Air Force eingedrungen sein",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🛡️",
+              "edition": "evening",
+              "image": "https://www.bleepstatic.com/content/hl-images/2026/11/27/air-force-red-blue-2.jpg",
+              "kurz": "Laut Reuters wurde der Einbruch in «Cloud One» bei einem Upgrade entdeckt; auf der Plattform laufen auch Luftverteidigungs- und Munitionssysteme.",
+              "summary": "Unbekannte Angreifer sollen laut Reuters in Cloud One eingebrochen sein, die zentrale Cloud-Plattform der US-Luftwaffe. Der Einbruch über eine nicht näher bezeichnete Software-Schwachstelle sei in den vergangenen Wochen bei einem Systemupgrade entdeckt worden; seither gebe es Störungen, Migrationen und Updates seien blockiert, US Cyber Command prüfe den Schaden. Die Air Force bestätigt den Vorfall nicht.",
+              "gegenstimme": "Die Berichte beruhen auf anonymen Quellen einer einzigen Agentur; die Air Force äussert sich grundsätzlich nicht zur Sicherheitslage einzelner Systeme und betont, sie schütze ihre Informationen fortlaufend. Weder Täter noch Umfang noch ein allfälliger Datenabfluss sind geklärt – die Vermutung, sensible Einsatzdaten seien abgeflossen, ist derzeit nicht belegt.",
+              "sources": [
+                {
+                  "name": "heise online: Hacker brechen angeblich in Cloud-Plattform der US Air Force ein",
+                  "url": "https://www.heise.de/news/Hacker-brechen-angeblich-in-Cloud-Plattform-der-US-Air-Force-ein-11541212.html"
+                },
+                {
+                  "name": "BleepingComputer: US Air Force cloud platform reportedly hacked",
+                  "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/"
+                },
+                {
+                  "name": "HuffPost/Reuters: Hackers Breach U.S. Air Force Flagship Cloud One Computing Platform",
+                  "url": "https://www.huffpost.com/entry/us-air-force-cloud-one-hack_n_6b096996e4b084fa2e17d141"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-verbraucherzentrale-niedersachsen-mahnt-openai-anthropic-ab",
+              "slug": "verbraucherzentrale-niedersachsen-mahnt-openai-anthropic-ab",
+              "title": "Verbraucherschützer mahnen OpenAI und Anthropic wegen Abo-Klauseln ab",
+              "date": "2026-11-27",
+              "time": "17:15",
+              "category": "tech",
+              "icon": "🤖",
+              "edition": "evening",
+              "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/9/4/5/8/shutterstock_2745004941-99e33e0b1c78b8e1.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+              "kurz": "Die Verbraucherzentrale Niedersachsen kritisiert einseitige Preisklauseln bei Claude und intransparente Leistungsänderungen bei ChatGPT Plus.",
+              "summary": "Die Verbraucherzentrale Niedersachsen hat die KI-Anbieter Anthropic und OpenAI abgemahnt. Anthropic werbe für Claude-Abos mit Preisen ohne Steuern und behalte sich vor, Preise und Pläne nach Ermessen zu ändern; OpenAI werden intransparente Leistungsänderungen im Plus-Abo vorgeworfen, etwa die Bündelung der Kontingente von ChatGPT und Codex. Bei beiden sei zudem das Impressum kaum auffindbar und nenne keinen Vertretungsberechtigten.",
+              "gegenstimme": "Eine Abmahnung ist kein Urteil: Ob die Klauseln tatsächlich unzulässig sind, entscheidet im Streitfall ein Gericht. OpenAI und Anthropic hatten laut heise bis zur Veröffentlichung nicht Stellung genommen. Die US-Praxis, Preise ohne die je nach Bundesstaat verschiedene Sales Tax anzugeben, ist dort üblich – Anthropic richtet sich damit an einen globalen Markt. OpenAI hat zuletzt nach Kundenbeschwerden Kontingente für Pro- und Business-Kunden verdoppelt.",
+              "sources": [
+                {
+                  "name": "Verbraucherzentrale Niedersachsen (Medienmitteilung): Abmahnung Anthropic und OpenAI",
+                  "url": "https://www.verbraucherzentrale-niedersachsen.de/pressemitteilungen/verbraucherzentrale-niedersachsen-mahnt-anthropic-und-openai-ab-127562"
+                },
+                {
+                  "name": "heise online: Verbraucherzentrale mahnt OpenAI und Anthropic ab",
+                  "url": "https://www.heise.de/news/Verbraucherzentrale-mahnt-OpenAI-und-Anthropic-ab-11540670.html"
+                },
+                {
+                  "name": "NDR: Verbraucherzentrale Niedersachsen mahnt Anthropic und OpenAI ab",
+                  "url": "https://www.ndr.de/nachrichten/niedersachsen/verbraucherzentrale-niedersachsen-mahnt-anthropic-und-openai-ab,verbraucherzentrale-166.html"
                 }
               ]
             }
