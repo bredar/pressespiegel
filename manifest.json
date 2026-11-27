@@ -1,6 +1,334 @@
 {
-  "updated": "2026-11-26T17:30:00+01:00",
+  "updated": "2026-11-27T06:30:00+01:00",
   "days": [
+    {
+      "date": "2026-11-27",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-27-junge-svp-schliesst-zehn-luzerner-aus-junge-tat",
+              "slug": "junge-svp-schliesst-zehn-luzerner-aus-junge-tat",
+              "title": "Junge SVP schliesst zehn Luzerner Mitglieder wegen «Junger Tat» aus",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🚪",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/a7fcad.jpg",
+              "kurz": "Die nationale JSVP wirft der rechtsextremen «Jungen Tat» vor, die Luzerner Sektion unterwandert zu haben – die Ausgeschlossenen bestreiten das und prüfen rechtliche Schritte.",
+              "summary": "Die Junge SVP Schweiz hat zehn Mitglieder der Jungen SVP Kanton Luzern ausgeschlossen, darunter Präsident Joel Bucher und Vorstandsmitglied Gino Restelli, und mit Beitrittssperren für andere Sektionen belegt. Die Parteileitung begründet dies mit einer «gezielten personellen Unterwanderung» durch die als rechtsextrem geltende «Junge Tat». Bucher erklärte in der Nacht auf Freitag, keiner der Betroffenen sei je Mitglied der «Jungen Tat» gewesen.",
+              "gegenstimme": "Die Luzerner Sektion hält die Ausschlüsse für ungültig: Sie sei ein eigenständiger Verein, die Ausschlusskompetenz liege beim Kantonalvorstand, und den Betroffenen seien weder Belege vorgelegt noch sei ihnen rechtliches Gehör gewährt worden. Bucher nennt JSVP-Präsident Nils Fiechter «untragbar». Von links kommt die gegenteilige Kritik: Die übrigen Luzerner Jungparteien beenden jede Zusammenarbeit mit der JSVP Luzern, bis sich diese unmissverständlich von der «Jungen Tat» distanziert; die NZZ erinnert daran, dass Fiechter bei früheren Fällen 2023/24 zögerlich reagiert habe.",
+              "sources": [
+                {
+                  "name": "SRF: Junge SVP Schweiz schliesst zehn Luzerner aus",
+                  "url": "https://www.srf.ch/news/schweiz/unterwanderungs-vorwuerfe-junge-svp-schweiz-schliesst-zehn-luzerner-aus"
+                },
+                {
+                  "name": "NZZ: Junge SVP schliesst mehrere Mitglieder der Luzerner Sektion aus",
+                  "url": "https://www.nzz.ch/schweiz/unterwanderung-durch-junge-tat-junge-svp-schliesst-mehrere-mitglieder-aus-luzerner-sektion-aus-ld.10075890"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Junge SVP Luzern weist Vorwürfe der Mutterpartei zurück",
+                  "url": "https://www.swissinfo.ch/ger/junge-svp-luzern-weist-vorw%c3%bcrfe-der-mutterpartei-zur%c3%bcck/92446345"
+                },
+                {
+                  "name": "20 Minuten: JSVP schliesst zehn Mitglieder aus",
+                  "url": "https://www.20min.ch/story/auch-luzerner-praesident-von-junger-tat-unterwandert-jsvp-schliesst-zehn-mitglieder-aus-103674392"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-amherd-ruag-ersa-imfs-aktennotiz-politischer-zuschlag",
+              "slug": "amherd-ruag-ersa-imfs-aktennotiz-politischer-zuschlag",
+              "title": "Armee-Telekommunikation: Amherd gab Ruag den Zuschlag gegen den Rat des Rüstungschefs",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "📡",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/35091a.jpg",
+              "kurz": "Eine Aktennotiz von 2021 zeigt: Rüstungschef Sonderegger bat «innigst», Ruag und Elbit im Rennen zu lassen – Amherd entschied für die bundeseigene Ruag.",
+              "summary": "Laut einer Aktennotiz vom 11. Mai 2021, die SRF Investigativ nach zwei Jahren und einem Urteil des Bundesverwaltungsgerichts erhielt, wollte die damalige Verteidigungsministerin Viola Amherd beim Kommunikationssystem Ersa IMFS «einfach mit der Ruag weiterfahren». Rüstungschef Martin Sonderegger hatte gebeten, auch den israelischen Anbieter Elbit im Verfahren zu belassen. Der Auftrag über rund 80 Millionen Franken ging an Ruag; der Vertrag wurde erst im Februar 2026 unterschrieben.",
+              "gegenstimme": "Das VBS sieht kein Problem: Die Verzögerungen gingen auf die Vertragsverhandlungen zurück, nicht auf den Zuschlag, und das Projekt laufe seit Ende 2025 wie erhofft. Man habe die Armee-Telekommunikation bewusst bei einem Schweizer Anbieter beschafft, um nicht vom Ausland abhängig zu sein; neben technischen und finanziellen Kriterien zählten auch sicherheits- und wirtschaftspolitische Interessen. Beschaffungsrechtlich war ein Zuschlag laut dem Gutachten formal möglich; Ruag schnitt bei Preis und Bewertung besser ab als Elbit.",
+              "sources": [
+                {
+                  "name": "SRF Investigativ: So setzte Bundesrätin Amherd ihren Willen durch",
+                  "url": "https://www.srf.ch/news/schweiz/teures-ruestungsgeschaeft-jawohl-so-setzte-bundesraetin-amherd-ihren-willen-durch"
+                },
+                {
+                  "name": "VBS: Gutachten Lenz & Staehelin zur Beschaffung Ersa IMFS (PDF)",
+                  "url": "https://www.vbs.admin.ch/dam/de/sd-web/DvjmzN19Avmk/Gutachten%20Lenz%20Staelin_Beschaffung%20Ersa%20IMFS%20(FINAL).pdf"
+                },
+                {
+                  "name": "Watson: Amherd vergab heiklen Auftrag an RUAG",
+                  "url": "https://www.watson.ch/schweiz/armee/900069585-politischer-entscheid-amherd-vergab-heiklen-auftrag-an-ruag"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-bundesgericht-lindor-kugeln-aldi-rote-kugeln-verboten",
+              "slug": "bundesgericht-lindor-kugeln-aldi-rote-kugeln-verboten",
+              "title": "Bundesgericht: Aldis rote Schokoladenkugeln bleiben verboten – Lindt verliert beim Markenschutz",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "🍫",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/ba61532.jpg",
+              "kurz": "Die roten «Moser Roth»-Kugeln lehnen sich unlauter an Lindor an. Blaue Kugeln und Délice-Kugeln darf Aldi aber weiter verkaufen.",
+              "summary": "Das Bundesgericht hat im Streit zwischen Lindt & Sprüngli und Aldi Suisse die Beschwerden beider Seiten abgewiesen und damit das Urteil des Aargauer Handelsgerichts vom März 2026 bestätigt. Die roten Kugeln der Aldi-Marke «Moser Roth» beuten mit ihrer Rot-Gold-Aufmachung den Ruf der roten Lindor-Kugel aus und bleiben verboten. Eine Markenrechtsverletzung sieht das Gericht hingegen nicht.",
+              "gegenstimme": "Aus Sicht von Aldi und der Discounter ist das Urteil ein Teilerfolg: Die eingewickelte Kugelform gehöre zum Gemeingut, Lindor sei keine berühmte Marke, und eine generelle Verwechslungsgefahr bestehe nicht. Markenrechtler Stefan Hubacher sagt gegenüber SRF, es könne sich für Händler lohnen, die Grenzen auszuloten. Für Konsumentinnen und Konsumenten bleiben günstige Alternativprodukte damit grösstenteils erhältlich.",
+              "sources": [
+                {
+                  "name": "SRF: Aldi-Kopie der roten Lindor-Kugel bleibt verboten",
+                  "url": "https://www.srf.ch/news/schweiz/urteil-des-bundesgerichts-streit-um-schoggi-kugeln-lindt-bekommt-teilweise-recht"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Bundesgericht stützt Urteil gegen Aldi",
+                  "url": "https://www.swissinfo.ch/ger/streit-um-lindor-kugeln%3a-bundesgericht-st%c3%bctzt-urteil-gegen-aldi/92442054"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-gueterverkehr-schienenanteil-2025-allzeittief-35-prozent",
+              "slug": "gueterverkehr-schienenanteil-2025-allzeittief-35-prozent",
+              "title": "Güterverkehr: Anteil der Schiene sinkt auf historischen Tiefstwert",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "wirtschaft",
+              "icon": "🚂",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/e1de12c79d21f1de36d9ee6ef7982d311f025c8c-92440584.jpg?ver=9d2fde8e&fit=1200,900",
+              "kurz": "2025 transportierte die Bahn 5,5 Prozent weniger Güter, die Strasse 2,7 Prozent mehr. Der Schienenanteil fiel auf 35 Prozent – so tief wie nie.",
+              "summary": "Die Transportleistung im Schienengüterverkehr sank 2025 um 5,5 Prozent auf 9,1 Milliarden Tonnenkilometer, während die Strasse um 2,7 Prozent auf 16,9 Milliarden zulegte. Der Anteil der Schiene am Landgüterverkehr fiel damit auf 35 Prozent, den tiefsten je gemessenen Wert, wie das Bundesamt für Statistik mitteilt. Weniger Güter auf der Schiene gab es zuletzt 1999.",
+              "gegenstimme": "Das BFS führt den Rückgang vor allem auf Faktoren ausserhalb der Schweiz zurück: Baustellen auf der deutschen Rheintalstrecke und die schwache Konjunktur in Deutschland und Italien. Im Binnen-, Import- und Exportverkehr legte die Bahn sogar zu. Wer zusätzliche Mittel für den Schweizer Schienengüterverkehr skeptisch sieht, kann argumentieren, dass mehr Kapazität im Inland das Transitproblem kaum löst, solange die Zulaufstrecken im Ausland nicht funktionieren.",
+              "sources": [
+                {
+                  "name": "BFS: Schienenanteil im Güterverkehr 2025 so tief wie noch nie",
+                  "url": "https://www.bfs.admin.ch/de/newnsb/Du6Jes6gQfon"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Schienenanteil im Schweizer Güterverkehr erreicht neuen Tiefstand",
+                  "url": "https://www.swissinfo.ch/ger/schienenanteil-im-schweizer-g%C3%BCterverkehr-erreicht-neuen-tiefstand/92440597"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-biel-stadt-schliesst-palace-und-cecil-betriebsbewilligung",
+              "slug": "biel-stadt-schliesst-palace-und-cecil-betriebsbewilligung",
+              "title": "Biel schliesst Restaurant Palace und Café-Bar Cecil",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🍽️",
+              "edition": "morning",
+              "kurz": "Nach dem Rückzug der verantwortlichen Person hob die Stadt die Betriebsbewilligungen auf. Wann die beiden Innenstadtlokale wieder öffnen, ist offen.",
+              "summary": "Die Stadt Biel hat das Restaurant Palace und die Café-Bar Cecil vorübergehend stillgelegt. Laut dem Sicherheitsdelegierten André Glauser zog sich die für den Betrieb verantwortliche Person zurück, weshalb die Betriebsbewilligungen aufgehoben werden mussten. Beide Lokale gehören Devran Menge, der sie erst vor Kurzem vom EHC Biel übernommen hatte.",
+              "gegenstimme": "Der Eigentümer hat bisher nicht öffentlich Stellung genommen; an den Türen kündigte er eine baldige Wiedereröffnung des Palace an. Die Schliessung betrifft formal die fehlende verantwortliche Person, nicht die Qualität der Betriebe; mit einem neuen Gesuch und einer verantwortlichen Person mit den nötigen Papieren kann der Betrieb wieder aufgenommen werden.",
+              "sources": [
+                {
+                  "name": "Berner Zeitung: Stadt Biel schliesst Restaurant Palace und Café-Bar Cecil",
+                  "url": "https://www.bernerzeitung.ch/biel-stadt-legt-restaurant-palace-und-bar-cecil-still-763157662510"
+                },
+                {
+                  "name": "Ajour/Bieler Tagblatt: Die Stadt Biel hat die beiden Lokale geschlossen",
+                  "url": "https://ajour.ch/de/story/709233/die-stadt-biel-hat-die-beiden-lokale-palace-und-cecil-geschlossen"
+                },
+                {
+                  "name": "EHC Biel: Lokale Nachfolgelösung für Café Bar Cecil und Restaurant Palace (Juli 2026)",
+                  "url": "https://www.ehcb.ch/de/news/news/lokale-nachfolgeloesung-fuer-cafe-bar-cecil-und-restaurant-palace-ehc-biel-gruppe-fokussiert-sich-auf-die-tissot-arena"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-eu-sondergipfel-haushalt-vorzeitig-abgebrochen",
+              "slug": "eu-sondergipfel-haushalt-vorzeitig-abgebrochen",
+              "title": "EU-Sondergipfel zum Haushalt 2028–2034 vorzeitig abgebrochen",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇪🇺",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/9661d086-75d2-4c4e-94da-70f83c687c91/AAABohpAjdo/AAABnSSvrFg/16x9-big/merz-1832.jpg?width=1280",
+              "kurz": "Die 27 Staats- und Regierungschefs liegen beim Budget so weit auseinander, dass sie auf den zweiten Gipfeltag verzichten. Nun soll es im Dezember klappen.",
+              "summary": "Der EU-Sondergipfel zum mehrjährigen Finanzrahmen 2028–2034 ist in der Nacht auf Freitag ohne Einigung vorzeitig beendet worden. Bundeskanzler Friedrich Merz sagte, die Vorstellungen über Umfang und Verteilung lägen «weit auseinander»; der für Freitag geplante zweite Verhandlungstag fällt aus. Ratspräsident António Costa hatte ein Budget von rund 1,78 Billionen Euro vorgeschlagen.",
+              "gegenstimme": "Die Gegenseite sind die Empfängerländer: Eine grosse Gruppe von Staaten will keine weiteren Kürzungen und verteidigt hohe Ausgaben für strukturschwache Regionen und die Landwirtschaft; laut Spiegel trieben die Agrarsubventionen Merz, Macron und Meloni auseinander. Aus Sicht der Nettozahler dagegen ist der Abbruch kein Scheitern, sondern Ausdruck dafür, dass sie keine Ausweitung des EU-Haushalts und keine neuen gemeinsamen Schulden mittragen.",
+              "sources": [
+                {
+                  "name": "SRF: EU-Sondergipfel – Budget-Diskussionen werden abgebrochen",
+                  "url": "https://www.srf.ch/news/international/eu-finanzplanung-bis-2034-sondergipfel-wird-vorzeitig-beendet"
+                },
+                {
+                  "name": "Tagesschau: Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+                  "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-selenskyj-warnt-vor-russischem-massenangriff-kritik-an-usa",
+              "slug": "selenskyj-warnt-vor-russischem-massenangriff-kritik-an-usa",
+              "title": "Selenskyj warnt vor neuem Massenangriff und wirft den USA mangelnden Druck auf Moskau vor",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇺🇦",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+              "kurz": "Russland bereite in den kommenden Tagen einen Grossangriff auf Energie und Logistik vor, sagt der ukrainische Präsident – und nennt Trumps Freundschaft mit Putin «seltsam».",
+              "summary": "Wolodimir Selenskyj sagte in seiner abendlichen Videoansprache, Russland bereite laut Geheimdienst einen neuen massiven Angriff vor; Ziele seien Energieanlagen, Logistik und Versorgungseinrichtungen. Im BBC-Interview warf er den USA vor, sich zu stark auf den Nahen Osten zu konzentrieren und Russland in den Verhandlungen zu wenig unter Druck zu setzen. Verzögerte Lieferungen von Abwehrraketen gegen ballistische Raketen kosteten ukrainische Leben.",
+              "gegenstimme": "US-Präsident Donald Trump schrieb auf Truth Social, er habe Putin bei ihrem Gipfel in China lange gedrängt, «alle militärische Aggression» in Europa zurückzufahren, und halte eine baldige Einigung für «sehr gut möglich». Er habe Nato-Generalsekretär Mark Rutte am Mittwoch in Mar-a-Lago informiert. Aus Washingtoner Sicht ist die Vermittlung also nicht festgefahren, sondern auf Chefebene in Bewegung.",
+              "sources": [
+                {
+                  "name": "BBC: Zelensky tells BBC US too focused on Middle East",
+                  "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+                },
+                {
+                  "name": "Al Jazeera: Zelenskyy warns of major Russian attack as Trump urges Putin to pull back",
+                  "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back"
+                },
+                {
+                  "name": "Fox News: Putin's grip on Crimea tested amid major blackout",
+                  "url": "https://www.foxnews.com/world/putins-grip-crimea-tested-amid-major-blackout-zelenskyy-warns-imminent-russia-strike"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-neuseeland-koalition-luxon-verpasst-mehrheit-um-einen-sitz",
+              "slug": "neuseeland-koalition-luxon-verpasst-mehrheit-um-einen-sitz",
+              "title": "Neuseeland: Regierungskoalition verpasst Mehrheit um einen Sitz",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+              "kurz": "Nach dem Endergebnis kommt das Mitte-rechts-Bündnis von Premier Luxon auf 65 von 130 Sitzen. Die neue Opportunity-Partei wird zur Königsmacherin.",
+              "summary": "Nach dem am Freitag veröffentlichten Endergebnis der Wahl vom 7. November kommt die Koalition aus National Party (40 Sitze), ACT (13) und NZ First (12) auf 65 der 130 Sitze – einen weniger als für die Mehrheit nötig. Die zentristische Opportunity Party unter Qiulae Wong hält 7 Sitze und entscheidet damit über die Regierungsbildung. Eine Labour-geführte Regierung ist rechnerisch auch mit Opportunity nicht möglich.",
+              "gegenstimme": "Labour-Chef Chris Hipkins betont, mehr Neuseeländerinnen und Neuseeländer hätten für einen Wechsel als für den Status quo gestimmt. Premier Christopher Luxon dagegen beansprucht seit der Wahl den Regierungsauftrag und warnt vor einer überstürzten Einigung: Die Bevölkerung danke es niemandem, wenn ein Abkommen zerfalle oder es Neuwahlen gebe.",
+              "sources": [
+                {
+                  "name": "BBC: New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+                  "url": "https://www.bbc.co.uk/news/articles/c670278qk879o"
+                },
+                {
+                  "name": "Spiegel: Neuseeland – Konservatives Bündnis verpasst Mehrheit um einen Sitz",
+                  "url": "https://www.spiegel.de/ausland/neuseeland-konservatives-buendnis-verpasst-mehrheit-um-einen-sitz-a-9783f65d-4955-4ef5-8905-feecd02e7340"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-australien-sanktioniert-zwei-irgc-agenten-antisemitische-brandanschlaege",
+              "slug": "australien-sanktioniert-zwei-irgc-agenten-antisemitische-brandanschlaege",
+              "title": "Australien sanktioniert zwei mutmassliche IRGC-Drahtzieher antisemitischer Brandanschläge",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🕍",
+              "edition": "morning",
+              "kurz": "Zohair Hassib und Kazem Hamad sollen im Auftrag der iranischen Revolutionsgarden die Anschläge auf ein koscheres Restaurant in Sydney und eine Synagoge in Melbourne organisiert haben.",
+              "summary": "Australien hat Terrorfinanzierungs-Sanktionen gegen Zohair Hassib und Kazem Hamad verhängt. Laut Aussenministerin Penny Wong haben die beiden über eine «komplexe Kette von Mittelsleuten» im Auftrag der iranischen Revolutionsgarden (IRGC) 2024 die antisemitischen Brandanschläge auf das koschere Restaurant Lewis Continental Kitchen in Sydney und die Adass-Israel-Synagoge in Melbourne orchestriert. Ihre Namen wurden erstmals öffentlich genannt.",
+              "gegenstimme": "Die Zuordnung beruht auf einer Einschätzung des Inlandgeheimdiensts ASIO; ein Gerichtsurteil gegen die beiden gibt es nicht, und öffentlich wurden keine Beweise vorgelegt. Offen ist zudem, ob die Sanktionen praktisch greifen: Wo sich die beiden aufhalten und ob sie Vermögen in Australien besitzen, sagt die Regierung nicht.",
+              "sources": [
+                {
+                  "name": "Australische Aussenministerin: Further action against Iran's IRGC attacks in Australia",
+                  "url": "https://www.foreignminister.gov.au/minister/penny-wong/media-release/further-action-against-irans-irgc-attacks-australia"
+                },
+                {
+                  "name": "Times of Israel/Reuters: Australia sanctions two people over antisemitic arson attacks",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/australia-sanctions-two-people-over-antisemitic-attacks-it-says-were-linked-to-iran/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-sap-hackerangriff-github-und-plaene-fuer-10000-stellenabbau",
+              "slug": "sap-hackerangriff-github-und-plaene-fuer-10000-stellenabbau",
+              "title": "SAP meldet Sicherheitsvorfall – und plant laut Bloomberg Abbau von 10'000 Stellen",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "💻",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/c34fdec4-9fe4-4ca8-9b3f-a44e31848044_w1200_r1.778_fpx51.32_fpy50.97.jpg",
+              "kurz": "Angreifer sollen Github-Zugangsschlüssel von SAP-Entwicklern erbeutet haben. Gleichzeitig will Europas grösster Softwarekonzern wegen KI rund jede zehnte Stelle streichen.",
+              "summary": "SAP hat am Donnerstagabend «verdächtige Aktivitäten» bestätigt und Gegenmassnahmen ergriffen; Hinweise auf einen Zugriff auf Kundendaten gebe es nicht. Laut Spiegel erbeuteten die Angreifer Authentifizierungs-Token von SAP-Mitarbeitenden für die Entwicklerplattform Github. Am selben Tag berichtete Bloomberg, SAP plane im Zuge seiner «KI zuerst»-Strategie den Abbau von mindestens 10'000 Stellen.",
+              "gegenstimme": "SAP betont, nach aktuellem Stand seien keine Geschäftsdaten von Kunden betroffen, und nennt weder Angriffsweg noch Täter. Den Stellenabbau hat der Konzern nicht bestätigt, sondern nur von «kontinuierlichen Prüfungen der Organisation» gesprochen. Seit dem letzten Abbau 2024 hat SAP laut Heise rund 15'000 Stellen wieder aufgebaut; die endgültige Zahl kann sich in Verhandlungen mit den Arbeitnehmervertretern noch ändern.",
+              "sources": [
+                {
+                  "name": "Spiegel: SAP wird Opfer von Hackerangriff",
+                  "url": "https://www.spiegel.de/netzwelt/sap-wird-opfer-von-hackerangriff-a-6648b5ce-5d74-48dc-86ea-9469705bb91d"
+                },
+                {
+                  "name": "Handelsblatt: IT-Sicherheitsvorfall bei SAP",
+                  "url": "https://www.handelsblatt.com/technik/ki/sap-it-sicherheitsvorfall-bei-sap-haben-verdaechtige-aktivitaeten-identifiziert/100273138.html"
+                },
+                {
+                  "name": "Heise: SAP – KI zuerst, 10.000 Mitarbeiter weniger",
+                  "url": "https://www.heise.de/news/SAP-AI-First-10-000-Mitarbeiter-weniger-11539781.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-afp-cyberangriff-plattform-afp-forum-offline",
+              "slug": "afp-cyberangriff-plattform-afp-forum-offline",
+              "title": "Cyberangriff auf Nachrichtenagentur AFP – Kundenplattform vom Netz",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "📰",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08c392-1795736466.jpg?resize=1920%2C1440",
+              "kurz": "Die französische Agentur nahm ihre Plattform «AFP Forum» nach einem nächtlichen Angriff vorsorglich offline. Frankreichs Cyberchef spricht von einer beispiellosen Bedrohungslage.",
+              "summary": "Die Agence France-Presse ist in der Nacht auf Donnerstag ab 1.30 Uhr Pariser Zeit Ziel eines Cyberangriffs geworden. Betroffen war «AFP Forum», über das Kunden Inhalte sichten und herunterladen; die Plattform bleibt bis auf Weiteres offline. Abonnenten erhalten Ersatzlösungen.",
+              "gegenstimme": "AFP selbst weiss nach eigenen Angaben noch nicht, wer hinter dem Angriff steckt; Spekulationen über staatliche Akteure sind bisher nicht belegt. In den letzten Monaten gingen Angriffe in Frankreich teils auf kriminelle Banden mit finanziellen Motiven zurück, teils auf Akteure, die Instabilität stiften wollten. Laut der internen Mitteilung reagierte die Agentur rasch und isolierte die betroffene Plattform.",
+              "sources": [
+                {
+                  "name": "Al Jazeera: Global news agency AFP reports cyberattack",
+                  "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform"
+                },
+                {
+                  "name": "Anadolu: France's AFP news agency hit by cyberattack",
+                  "url": "https://www.aa.com.tr/en/europe/frances-afp-news-agency-hit-by-cyberattack-takes-content-platform-offline/4139870"
+                },
+                {
+                  "name": "RNZ/AFP: AFP hit by cyber attack",
+                  "url": "https://www.rnz.co.nz/news/world/2812571/afp-hit-by-cyber-attack"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-besiktas-hapoel-beer-sheva-krawalle-batumi-handschlag-verweigert",
+              "slug": "besiktas-hapoel-beer-sheva-krawalle-batumi-handschlag-verweigert",
+              "title": "Krawalle bei Besiktas gegen Hapoel Beer-Sheva – Spieler verweigern Handschlag",
+              "date": "2026-11-27",
+              "time": "06:30",
+              "category": "international",
+              "icon": "⚽",
+              "edition": "morning",
+              "image": "https://images.welt.de/6b0886a40df5a2a9b728895f/0f75e2101bce054b895c45dfaddd3fc7-master/ci16x9-w1200/635561053-jpg",
+              "kurz": "Das Europa-League-Spiel im georgischen Batumi wurde wegen Ausschreitungen rund um eine Palästina-Flagge lange unterbrochen. Zuvor hatten die Besiktas-Spieler den Israelis den Handschlag verweigert.",
+              "summary": "Das Europa-League-Spiel zwischen Besiktas Istanbul und dem israelischen Klub Hapoel Beer-Sheva musste am Donnerstag in Batumi nach 26 Minuten für 30 bis 40 Minuten unterbrochen werden. Auslöser war laut Berichten der Versuch der georgischen Polizei, eine Palästina-Flagge sicherzustellen; Fans warfen Sitzschalen, die Polizei setzte Pfefferspray ein. Vor dem Anpfiff hatten die Besiktas-Spieler ihren israelischen Gegnern den Handschlag verweigert.",
+              "gegenstimme": "Besiktas und der türkische Fussballverband werfen der georgischen Polizei «unverhältnismässige Gewalt» gegen die Fans vor und haben sich an die Uefa und das türkische Generalkonsulat gewandt; Präsident Erdogan liess verletzten Fans Genesungswünsche übermitteln. Aus dieser Sicht hat die Polizei mit dem Eingreifen wegen einer Fahne eskaliert. Laut WELT versuchten die Besiktas-Spieler, die eigenen Fans zu beruhigen.",
+              "sources": [
+                {
+                  "name": "WELT: Heftige Krawalle – Besiktas-Spiel gegen Israel-Klub endet im Skandal",
+                  "url": "https://www.welt.de/sport/fussball/europa-league/article6b0886a40df5a2a9b728895f/europa-league-heftige-krawalle-besiktas-spiel-gegen-israel-klub-endet-im-skandal.html"
+                },
+                {
+                  "name": "Al Jazeera: Georgian police clash with Besiktas fans over Palestinian flag",
+                  "url": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag"
+                },
+                {
+                  "name": "Sportschau: Randale und Unterbrechung trüben Besiktas-Sieg",
+                  "url": "https://www.sportschau.de/fussball/europaleague/randale-und-unterbrechung-trueben-besiktas-sieg,besiktas-randale-unterbrechung-100.html"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-26",
       "editions": {
