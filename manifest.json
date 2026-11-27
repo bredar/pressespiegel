@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T06:30:00+01:00",
+  "updated": "2026-11-27T12:15:00+01:00",
   "days": [
     {
       "date": "2026-11-27",
@@ -322,6 +322,374 @@
                 {
                   "name": "Sportschau: Randale und Unterbrechung trüben Besiktas-Sieg",
                   "url": "https://www.sportschau.de/fussball/europaleague/randale-und-unterbrechung-trueben-besiktas-sieg,besiktas-randale-unterbrechung-100.html"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-27-a1-massenkarambolage-37-fahrzeuge-kemptthal",
+              "slug": "a1-massenkarambolage-37-fahrzeuge-kemptthal",
+              "title": "A1 bei Winterthur: Massenkarambolage mit 37 Fahrzeugen, zehn Verletzte",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🚗",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/4d48f09.jpg",
+              "kurz": "Auf glatter Fahrbahn verkeilten sich am frühen Morgen Autos, Lieferwagen und Lastwagen; die A1 Richtung St. Gallen bleibt bis am Nachmittag gesperrt.",
+              "summary": "Gegen 5.45 Uhr sind auf der A1 beim Hammermühleviadukt zwischen Effretikon und Winterthur-Töss in Fahrtrichtung St. Gallen 37 Fahrzeuge kollidiert: 23 Personenwagen, 6 Lieferwagen und 8 Lastwagen. Laut Kantonspolizei Zürich wurden sechs Personen leicht und vier mittelschwer verletzt. Der Abschnitt bleibt voraussichtlich bis am späteren Nachmittag gesperrt.",
+              "gegenstimme": "Ob neben der Glätte auch das Fahrverhalten, etwa zu geringe Abstände oder ein unangepasstes Tempo, eine Rolle spielte, ist offen. Die Polizei nennt bisher nur die winterlichen Verhältnisse als mögliche Ursache («dürften eine Rolle gespielt haben»). Eine Schuldzuweisung an Wetter oder Lenkende ist derzeit nicht gedeckt.",
+              "sources": [
+                {
+                  "name": "SRF: Unfall mit 37 Fahrzeugen – zehn Verletzte, A1-Abschnitt gesperrt",
+                  "url": "https://www.srf.ch/news/schweiz/autobahn-im-kanton-zuerich-unfall-mit-37-fahrzeugen-zehn-verletzte-a1-abschnitt-gesperrt"
+                },
+                {
+                  "name": "NZZ: Zehn Verletzte nach Massenkarambolage mit 37 Fahrzeugen",
+                  "url": "https://www.nzz.ch/zuerich/zehn-verletzte-nach-massenkarambolage-mit-37-fahrzeugen-a-1-bleibt-bis-am-nachmittag-gesperrt-ld.10076356"
+                },
+                {
+                  "name": "20 Minuten: «Noch nie so etwas gesehen» – 37 Fahrzeuge in Massenkarambolage",
+                  "url": "https://www.20min.ch/story/massenkarambolage-a1-noch-nie-so-etwas-gesehen-unfall-mit-37-fahrzeugen-auf-a1-103674672"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-ubs-sorgenbarometer-2026-praemien-wohnkosten",
+              "slug": "ubs-sorgenbarometer-2026-praemien-wohnkosten",
+              "title": "Sorgenbarometer 2026: Prämien bleiben Sorge Nummer eins, Wohnkosten legen stark zu",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "📊",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/d8432db.jpg",
+              "kurz": "Gesundheitskosten führen das UBS-Sorgenbarometer weiter an, Mieten rücken auf Platz zwei vor, Zuwanderung und Altersvorsorge werden seltener genannt.",
+              "summary": "Im UBS-Sorgenbarometer 2026 nennen 48 Prozent der Stimmberechtigten Gesundheitskosten und Krankenkassenprämien als eine ihrer grössten Sorgen, nach 45 Prozent im Vorjahr. Wohnkosten und steigende Mieten springen von 24 auf 30 Prozent und damit auf Platz zwei. Das Forschungsinstitut gfs.bern befragte im Juni und Juli 2001 Stimmberechtigte.",
+              "gegenstimme": "Dass Zuwanderung seltener genannt wird, heisst nicht, dass das Thema an Gewicht verliert: Wohnungsknappheit, Mieten und Gesundheitskosten werden politisch direkt mit dem Bevölkerungswachstum verknüpft, wie es etwa die SVP mit ihrer Initiative «Keine 10-Millionen-Schweiz» tut. Linke und Mieterverband sehen die Ursachen dagegen vor allem bei Renditen und fehlender Regulierung. Umfragen messen zudem Wahrnehmung, nicht das tatsächliche Ausmass eines Problems.",
+              "sources": [
+                {
+                  "name": "UBS: Sorgenbarometer 2026 – Das bewegt die Schweiz (Medienmitteilung)",
+                  "url": "https://www.ubs.com/global/de/media/display-page-ndp/de-20261127-ubs-worry-barometer.html"
+                },
+                {
+                  "name": "SRF: Krankenkassenprämien bleiben die grösste Sorge der Schweizer",
+                  "url": "https://www.srf.ch/news/schweiz/ubs-sorgenbarometer-2026-krankenkassenpraemien-bleiben-die-groesste-sorge-der-schweizer"
+                },
+                {
+                  "name": "20 Minuten: Das sind die 20 grössten Sorgen der Schweizer",
+                  "url": "https://www.20min.ch/story/ubs-sorgenbarometer-das-sind-die-20-groessten-sorgen-der-schweizer-stimmbevoelkerung-103674629"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-travailsuisse-barometer-gute-arbeit-2026-jobsorgen",
+              "slug": "travailsuisse-barometer-gute-arbeit-2026-jobsorgen",
+              "title": "Barometer «Gute Arbeit»: Mehr als die Hälfte der Angestellten sorgt sich um den Job",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "💼",
+              "edition": "midday",
+              "kurz": "Die Sorge um den Arbeitsplatz steigt laut Travail.Suisse und BFH deutlich, Stress bleibt hoch, und KI erhöht für manche den Leistungsdruck.",
+              "summary": "Gemäss dem Barometer «Gute Arbeit 2026» von Travail.Suisse und der Berner Fachhochschule machen sich über 54 Prozent der Arbeitnehmenden Sorgen um ihren Arbeitsplatz, nach knapp 49 Prozent im Vorjahr. 42 Prozent fühlen sich bei der Arbeit oft oder sehr oft gestresst. Befragt wurden 1419 Arbeitnehmende zwischen 16 und 64 Jahren.",
+              "gegenstimme": "Die amtliche Statistik zeichnet ein robusteres Bild: Laut BFS lag die Beschäftigung im 3. Quartal 1,2 Prozent über dem Vorjahr, und die Firmen meldeten 3,3 Prozent mehr offene Stellen. Gefühlte Unsicherheit und tatsächliche Stellenlage können auseinanderklaffen. Zudem ist Travail.Suisse als Arbeitnehmerdachverband Interessenvertreter, der mit den Resultaten politische Forderungen begründet.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Arbeitsplatz-Barometer weist mehr Sorgen um den Arbeitsplatz aus",
+                  "url": "https://www.swissinfo.ch/ger/arbeitsplatz-barometer-weist-mehr-sorgen-um-den-arbeitsplatz-aus/92447244"
+                },
+                {
+                  "name": "Tages-Anzeiger: Schweizer Arbeitnehmer machen sich mehr Sorgen um ihren Job",
+                  "url": "https://www.tagesanzeiger.ch/travailsuisse-54-prozent-sorgen-sich-um-ihren-arbeitsplatz-660842591458"
+                },
+                {
+                  "name": "Travail.Suisse: Barometer Gute Arbeit 2026",
+                  "url": "https://www.travailsuisse.ch/de/arbeit-wirtschaft/arbeitsbedingungen/2026-11-05/barometer-gute-arbeit-2026-wie-geht-es-den"
+                },
+                {
+                  "name": "Bund/BFS: Zunahme der Beschäftigung im 3. Quartal 2026 (Medienmitteilungen)",
+                  "url": "https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-salt-umsatz-neun-monate-908-millionen",
+              "slug": "salt-umsatz-neun-monate-908-millionen",
+              "title": "Salt wächst gegen den Markttrend: Umsatz plus 5 Prozent",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "wirtschaft",
+              "icon": "📶",
+              "edition": "midday",
+              "kurz": "Der drittgrösste Telekomanbieter legt dank Roaming, Glasfaser und Post-Partnerschaft zu, während Swisscom und Sunrise schrumpfen.",
+              "summary": "Salt hat von Januar bis September 908,2 Millionen Franken umgesetzt, 5,0 Prozent mehr als im Vorjahr. Der Betriebsgewinn vor Abschreibungen nach Leasingkosten (EBITDAaL) stieg um 6,1 Prozent auf 406,1 Millionen Franken. Im dritten Quartal allein flachte das Umsatzwachstum auf 3,5 Prozent ab.",
+              "gegenstimme": "Für Kundinnen und Kunden ist das Wachstum nicht nur eine gute Nachricht: Laut AWP halfen auch erneute Preiserhöhungen. Weil Salt Kundenzahlen nur noch einmal jährlich publiziert, lässt sich nicht prüfen, wie viel des Plus aus neuen Kunden und wie viel aus höheren Preisen stammt. Zudem hat sich das Wachstum im dritten Quartal deutlich abgeschwächt.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Salt mit deutlichem Wachstum in den ersten neun Monaten",
+                  "url": "https://www.swissinfo.ch/ger/salt-mit-deutlichem-wachstum-in-den-ersten-neun-monaten/92446849"
+                },
+                {
+                  "name": "finanzen.ch/AWP: Salt mit deutlichem Wachstum (ausführliche Fassung)",
+                  "url": "https://www.finanzen.ch/nachrichten/aktien/salt-mit-deutlichem-wachstum-in-den-ersten-neun-monaten-1036804635"
+                },
+                {
+                  "name": "Salt (Medienmitteilung): Q3 – Salt wächst weiter stärker als der Markt",
+                  "url": "https://pubt.io/view/558A63B70FACD4E9F1BF8BA86A215A8EACF13CB1"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-stadt-bern-ki-strategie-bernportal",
+              "slug": "stadt-bern-ki-strategie-bernportal",
+              "title": "Stadt Bern: KI-Strategie verabschiedet, 2,48 Millionen für das «BernPortal» beantragt",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🏛️",
+              "edition": "midday",
+              "kurz": "Die Stadtverwaltung testet einen eigenen KI-Assistenten, und ein zentrales Online-Portal mit einem einzigen Login soll Behördengänge bündeln.",
+              "summary": "Der Berner Gemeinderat hat eine KI-Strategie für die ganze Stadtverwaltung inklusive Volksschulen verabschiedet und 250'000 Franken für die Projektierung eines städtischen KI-Assistenten gesprochen. Zudem beantragt er dem Stadtrat 2,48 Millionen Franken für das «BernPortal», eine zentrale Plattform für städtische Dienstleistungen.",
+              "gegenstimme": "Umstritten dürfte vor allem die geplante digitale «Bern Citizen Card» werden, die Menschen «unabhängig vom Aufenthaltsstatus» den Zugang zum öffentlichen Leben erleichtern soll: Ein ähnliches Projekt, die Züri City Card, war politisch heftig umstritten und wurde 2022 an der Urne nur knapp angenommen. Beim KI-Assistenten bleibt offen, welche Daten aus der Bevölkerung verarbeitet werden und bei welchem Anbieter.",
+              "sources": [
+                {
+                  "name": "Stadt Bern: Gemeinderat verabschiedet KI-Strategie",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/gemeinderat-verabschiedet-ki-strategie"
+                },
+                {
+                  "name": "Stadt Bern: Gemeinderat beantragt Projektierungskredit für das BernPortal",
+                  "url": "https://www.bern.ch/mediencenter/medienmitteilungen/aktuell_ptk/gemeinderat-beantragt-projektierungskredit-fuer-das-bernportal"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Stadt Bern spricht Viertelmillion für Projekt mit KI-Assistenten",
+                  "url": "https://www.swissinfo.ch/ger/stadt-bern-spricht-viertelmillion-f%c3%bcr-projekt-mit-ki-assistenten/92440508"
+                },
+                {
+                  "name": "Netzwoche: Bern packt ein neues E-Gov-Portal an",
+                  "url": "https://www.netzwoche.ch/news/2026-11-27/bern-packt-ein-neues-e-gov-portal-an"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-schaffhausen-verein-gegen-datenzentren-beringen",
+              "slug": "schaffhausen-verein-gegen-datenzentren-beringen",
+              "title": "Schaffhausen: Neuer Verein kämpft gegen Rechenzentren in Beringen",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🖥️",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/aad680.jpg",
+              "kurz": "Der Verein «Datenzentren? Nein danke!» fordert Mitsprache beim Strom- und Wasserverbrauch und kündigt eine Demonstration an.",
+              "summary": "In Schaffhausen haben Kritikerinnen und Kritiker diese Woche den Verein «Datenzentren? Nein danke!» gegründet. Er wehrt sich gegen ein im Bau befindliches und ein weiteres geplantes Datenzentrum in Beringen, einer Gemeinde mit rund 5500 Einwohnern, und verlangt mehr Mitsprache. Im Vorstand sitzt die SP-Kantonsrätin Eva Neumann.",
+              "gegenstimme": "Selbst im links-grünen Lager ist ein Baustopp umstritten: Grünen-Nationalrat Gerhard Andrey teilt zwar Vorbehalte zum Ressourcenverbrauch, hält ein Moratorium aber für falsch, weil die Schweiz für ihre digitale Souveränität eigene Rechenzentren brauche. Wer Daten nicht auf Servern im Ausland haben will, muss sie im Inland verarbeiten lassen.",
+              "sources": [
+                {
+                  "name": "SRF: Beringen SH – Widerstand gegen Datenzentrum wächst",
+                  "url": "https://www.srf.ch/news/schweiz/widerstand-in-schaffhausen-die-bevoelkerung-wehrt-sich-gegen-datenzentren"
+                },
+                {
+                  "name": "Schaffhauser Nachrichten: «KI ist nicht körperlos» – Der Widerstand gegen Datencenter wächst",
+                  "url": "https://www.shn.ch/region/kanton/2026-11-25/ki-ist-nicht-koerperlos-der-widerstand-gegen-datencenter-formiert-sich"
+                },
+                {
+                  "name": "Watson: Greenpeace protestiert in Beringen gegen US-Datenzentren (November)",
+                  "url": "https://www.watson.ch/schweiz/digital/315365058-greenpeace-protestiert-in-beringen-gegen-us-datenzentren"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-iiss-russische-sabotage-europa-plus-16-prozent",
+              "slug": "iiss-russische-sabotage-europa-plus-16-prozent",
+              "title": "IISS-Bericht: Russische Sabotage in Europa nimmt zu und wird gefährlicher",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "international",
+              "icon": "💣",
+              "edition": "midday",
+              "kurz": "Sabotageakte stiegen in einem Jahr um 16 Prozent, Brandstiftung und Sprengsätze verdoppelten sich etwa; der Thinktank hält einen Anschlag mit vielen Toten für möglich.",
+              "summary": "Russisch gesteuerte Sabotageakte in Europa haben in den zwölf Monaten bis September 2026 um 16 Prozent zugenommen, obwohl die insgesamt erfasste Aktivität russischer Dienste zurückging. Das zeigt ein am Donnerstag veröffentlichter Bericht des Londoner Thinktanks IISS. Der Einsatz von Brandstiftung und Sprengstoff hat sich etwa verdoppelt.",
+              "gegenstimme": "Moskau weist die Vorwürfe westlicher Regierungen und Geheimdienste zurück; die russische Botschaft in London erklärte diese Woche, Russland habe «keine Pläne, Gründe oder Absichten», Grossbritannien anzugreifen. Der Bericht selbst hält fest, dass die Sabotage bisher keine strategische Wirkung erzielt und die europäische Unterstützung für die Ukraine nicht verringert hat.",
+              "sources": [
+                {
+                  "name": "IISS: Russian sabotage in Europe growing more capable (Pressemitteilung)",
+                  "url": "https://www.iiss.org/press/2026/11/russian-sabotage-in-europe-growing-more-capable-even-as-more-plots-are-foiled-iiss-finds/"
+                },
+                {
+                  "name": "IISS: Russia's Unconventional War on Europe (Bericht, PDF)",
+                  "url": "https://www.iiss.org/globalassets/media-library---content--migration/files/research-papers/2026/11/russian-sabotage-2.0/iiss_russias-unconventional-war-on-europe-sabotage-deterrence-and-future-scenarios_26112026_.pdf"
+                },
+                {
+                  "name": "Reuters (via Investing.com): Russian sabotage attacks in Europe up 16%",
+                  "url": "https://www.investing.com/news/world-news/russian-sabotage-attacks-in-europe-up-16-iiss-says-5053106"
+                },
+                {
+                  "name": "Der Bund: Bericht warnt vor russischer Sabotage mit vielen Todesopfern",
+                  "url": "https://www.derbund.ch/sabotage-in-europa-iiss-zaehlt-16-prozent-mehr-anschlaege-104480744933"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-nordkorea-bremst-waffenhilfe-russland-hur",
+              "slug": "nordkorea-bremst-waffenhilfe-russland-hur",
+              "title": "Ukrainischer Geheimdienst: Nordkorea bremst Waffenhilfe für Russland",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇰🇵",
+              "edition": "midday",
+              "kurz": "Pjöngjang soll Raketen- und Artillerielieferungen ausgesetzt haben, weil Moskau sich Südkorea annähert. Die Angaben stammen allein aus Kiew.",
+              "summary": "Nordkorea hat laut dem ukrainischen Militärgeheimdienst HUR die militärische Zusammenarbeit mit Russland vorübergehend eingeschränkt, darunter Raketen- und Artillerielieferungen sowie russische Militärflüge über Nordkorea. Auslöser seien Aussagen des russischen Vize-Aussenministers Andrej Rudenko über eine Vermittlung zwischen Nord- und Südkorea. Zudem habe Pjöngjang eine russische Bitte auf Eis gelegt, seine Truppen in Russland von etwa 8500 auf 50'000 Soldaten aufzustocken.",
+              "gegenstimme": "Die Ukraine ist Kriegspartei und hat ein Interesse daran, Risse in der Allianz zwischen Moskau und Pjöngjang öffentlich zu machen. Noch im September hatten beide Staaten mit der Eröffnung der ersten Strassenbrücke ihre Partnerschaft demonstrativ vertieft. Eine Stellungnahme Nordkoreas oder Russlands lag in den konsultierten Berichten nicht vor.",
+              "sources": [
+                {
+                  "name": "HUR/GUR: offizielle Mitteilung (ukrainisch)",
+                  "url": "https://gur.gov.ua/content/kim-chen-yn-pryzupynyv-dopomohu-rosii-chomu-v-pkheniani-obrazylysia-na-moskvu.html"
+                },
+                {
+                  "name": "Spiegel: Nordkorea drosselt offenbar Waffenlieferungen an Russland",
+                  "url": "https://www.spiegel.de/ausland/nordkorea-drosselt-offenbar-waffenlieferungen-an-russland-a-83fe0597-7903-4556-b445-af08b3de5d1b"
+                },
+                {
+                  "name": "WELT: Nordkorea bremst laut Ukraine Militärhilfe für Russland",
+                  "url": "https://www.welt.de/politik/ausland/article6b0925d12c57ecf5a872a858/nordkorea-bremst-laut-ukraine-militaerhilfe-fuer-russland-wegen-aussage-von-vize-aussenminister.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-costa-rica-verweigert-albanese-einreise",
+              "slug": "costa-rica-verweigert-albanese-einreise",
+              "title": "Costa Rica verweigert UNO-Sonderberichterstatterin Albanese die Einreise",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🛂",
+              "edition": "midday",
+              "kurz": "Die Migrationsbehörde beruft sich auf eine nicht näher bezeichnete «internationale Warnung»; das Verfassungsgericht stoppt vorerst eine Ausschaffung.",
+              "summary": "Costa Rica hat der UNO-Sonderberichterstatterin für die besetzten palästinensischen Gebiete, Francesca Albanese, am Donnerstag am Flughafen von San José die Einreise verweigert. Migrationsdirektor Omer Badilla begründete dies mit einer «internationalen Warnung wegen Verbindungen zu terroristischen Handlungen», ohne deren Herkunft zu nennen. Albanese wollte an der Universität von Costa Rica einen Ehrendoktor entgegennehmen.",
+              "gegenstimme": "Israel und die US-Regierung werfen Albanese seit Langem Einseitigkeit gegen Israel vor; die USA haben Sanktionen gegen sie verhängt, Israel hat sie 2024 zur Persona non grata erklärt. Aus Sicht der Regierung in San José handelt es sich um einen souveränen Sicherheitsentscheid nach Migrationsrecht. Juristen, Abgeordnete und die Universität kritisieren dagegen, dass bisher keinerlei Belege offengelegt wurden.",
+              "sources": [
+                {
+                  "name": "AFP: Costa Rica bars entry to UN rapporteur over 'links to terrorist acts'",
+                  "url": "https://www.afp.com/en/costa-rica-bars-entry-un-rapporteur-over-links-terrorist-acts-0"
+                },
+                {
+                  "name": "Al Jazeera: Costa Rica denies entry to UN's Albanese",
+                  "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist"
+                },
+                {
+                  "name": "El País English: Costa Rica denies entry to UN Special Rapporteur Francesca Albanese",
+                  "url": "https://english.elpais.com/international/2026-11-27/costa-rica-denies-entry-to-un-special-rapporteur-francesca-albanese.html"
+                },
+                {
+                  "name": "La Nación (Costa Rica): Migración afirma que Albanese tiene alerta internacional",
+                  "url": "https://www.nacion.com/el-pais/migracion-justifica-impedimento-de-ingreso-a/Y7JLLY65KJFEJNVODLMYSEN4AY/story/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-venezuela-simon-bolivar-gesetz-aufhebung",
+              "slug": "venezuela-simon-bolivar-gesetz-aufhebung",
+              "title": "Venezuela will Gesetz zur Ämtersperre für Oppositionelle aufheben",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇻🇪",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6616/live/f53c94f0-ea1f-11f1-99a1-253766e7ad8b.jpg",
+              "kurz": "Das Simón-Bolívar-Gesetz aus der Maduro-Zeit soll fallen, Ergebnis der Gespräche zwischen Übergangsregierung und Teilen der Opposition.",
+              "summary": "Venezuelas Parlamentspräsident Jorge Rodríguez hat am Donnerstag angekündigt, das sogenannte Simón-Bolívar-Gesetz aufzuheben. Es sperrt Personen, die ausländische Sanktionen gegen Venezuela gefordert oder unterstützt haben, lebenslang von öffentlichen Ämtern, erlaubt die Beschlagnahme ihres Vermögens und sieht bis zu 30 Jahre Haft vor. Rodríguez erwartet die Zustimmung bereits nächste Woche.",
+              "gegenstimme": "Für die Opposition ist die Aufhebung überfällig, aber noch kein Beweis für eine Demokratisierung: Ein Wahltermin fehlt, Oppositionsführerin María Corina Machado bleibt von den Gesprächen ausgeschlossen, und das Lager des früheren Regimes kontrolliert weiterhin Parlament und Institutionen. Die Regierung stellt die Aufhebung dagegen als Erfolg der «friedlichen Diplomatie» von Übergangspräsidentin Delcy Rodríguez dar.",
+              "sources": [
+                {
+                  "name": "BBC: Venezuela to scrap law that bars opposition from public office",
+                  "url": "https://www.bbc.com/news/articles/c58j4pw9xjrlo"
+                },
+                {
+                  "name": "Le Temps: Venezuela moves to repeal law imposing lifetime bans on opposition candidates",
+                  "url": "https://www.letemps.ch/en/world/venezuela-moves-to-repeal-law-imposing-lifetime-bans-on-opposition-candidates"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-temu-eu-verbraucherschutz-zusagen",
+              "slug": "temu-eu-verbraucherschutz-zusagen",
+              "title": "Temu verpflichtet sich in der EU zu ehrlicheren Preisen und Bewertungen",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🛒",
+              "edition": "midday",
+              "kurz": "Nach einem Verfahren der europäischen Verbraucherschutzbehörden verzichtet der Onlinemarktplatz auf Scheinrabatte, Kaufdruck und erzwungene Glücksrad-Spiele.",
+              "summary": "Der chinesische Onlinemarktplatz Temu hat sich gegenüber den Verbraucherschutzbehörden von EU und EWR (CPC-Netzwerk) zu weitreichenden Änderungen verpflichtet. Er will echte Rabatte klar von Referenzpreis-Vergleichen trennen, gefälschte Bewertungen vor der Publikation herausfiltern und auf Kaufdruck-Hinweise wie «fast ausverkauft» sowie erzwungene Spiele verzichten. Das 2024 eröffnete Verfahren leiteten Behörden aus Deutschland, Belgien und Irland.",
+              "gegenstimme": "Zusagen sind keine Strafe: Für die bisherigen Praktiken muss Temu keine Busse bezahlen. Die Behörden halten dagegen, das kooperative Verfahren habe das Verhalten der Plattform bereits verändert, schneller als ein langer Rechtsstreit. Ob die Zusagen eingehalten werden, müssen die nationalen Behörden erst noch überprüfen.",
+              "sources": [
+                {
+                  "name": "Bundesamt für Justiz: Temu stellt unfaire Geschäftspraktiken ab",
+                  "url": "https://www.bundesjustizamt.de/DE/ServiceGSB/Presse/Pressemitteilungen/2026/20261126.html"
+                },
+                {
+                  "name": "CCPC Irland: Consumer protection commitments from Temu",
+                  "url": "https://www.ccpc.ie/news-and-media/news/article/2026/11/26/ccpc-and-eu-consumer-authorities-secure-consumer-protection-commitments-from-temu"
+                },
+                {
+                  "name": "Golem/dpa: EU zwingt Temu zu eindeutigen Preisen und echten Bewertungen",
+                  "url": "https://www.golem.de/news/onlineshopping-eu-zwingt-temu-zu-eindeutigen-preisen-und-echten-bewertungen-2611-215719.html"
+                },
+                {
+                  "name": "CHIP: Temu verspricht Ende irreführender Verkaufstricks",
+                  "url": "https://www.chip.de/news/geld-finanzen-recht/temu-verspricht-ende-irrefuehrender-verkaufstricks-was-sich-fuer-kunden-aendern-soll_7ccfa413-8366-4a6a-b1d6-418732ddbe2c.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-deutschland-ki-anbieter-verguetung-urheberrecht",
+              "slug": "deutschland-ki-anbieter-verguetung-urheberrecht",
+              "title": "Berlin will KI-Anbieter für erzeugte Inhalte zahlen lassen",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "©️",
+              "edition": "midday",
+              "kurz": "Die Bundesregierung schlägt der EU eine Vergütung vor, wenn KI-Systeme Texte, Musik oder Videos erzeugen, die mit menschlichen Werken konkurrieren.",
+              "summary": "Die deutsche Bundesregierung schlägt in einer Stellungnahme zur EU-Konsultation zum Urheberrecht einen neuen Vergütungsanspruch vor: Anbieter generativer KI sollen zahlen, wenn ihre Systeme Inhalte erzeugen, die mit von Menschen geschaffenen Werken konkurrieren. Das Geld soll über Verwertungsgesellschaften an die Rechteinhaber fliessen. Das Papier liegt der Deutschen Presse-Agentur vor.",
+              "gegenstimme": "Aus Sicht der KI-Branche stellt sich die Frage, ob eine Abgabe auf erzeugte Inhalte Europa gegenüber den USA und China weiter zurückwirft. Zudem ist schwer abgrenzbar, wann ein KI-Text ein menschliches Werk tatsächlich «verdrängt».",
+              "sources": [
+                {
+                  "name": "heise online: Bundesregierung will KI-Anbieter zur Kasse bitten",
+                  "url": "https://www.heise.de/news/Bundesregierung-will-KI-Anbieter-zur-Kasse-bitten-11540057.html"
+                },
+                {
+                  "name": "tagesschau: Bundesregierung will KI-Anbieter zur Kasse bitten",
+                  "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-urheberrecht-verguetung-100.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-27-niederlande-asml-match-act-widerstand",
+              "slug": "niederlande-asml-match-act-widerstand",
+              "title": "Niederlande wollen sich gegen neue US-Exportregeln für ASML wehren",
+              "date": "2026-11-27",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🔬",
+              "edition": "midday",
+              "kurz": "«Die USA sind nicht der Chef von Veldhoven»: Den Haag will den MATCH Act bekämpfen, der auch ältere ASML-Chipmaschinen für China treffen würde.",
+              "summary": "Die niederländische Regierung will sich gegen den geplanten US-«MATCH Act» wehren, der Verbündete zu schärferen Exportkontrollen für Chipmaschinen nach China zwingen soll. «Die USA sind nicht der Chef von Veldhoven», sagte Aussenhandelsminister Sjoerd Sjoerdsma im Parlament, mit Blick auf den Hauptsitz von ASML. Betroffen wären neu auch Verkauf und Wartung von DUV-Immersionsanlagen in China.",
+              "gegenstimme": "Befürworter in Washington argumentieren, ohne einheitliche Kontrollen unter Verbündeten könne China über ältere Anlagen und deren Wartung weiterhin Chips für Militär und KI herstellen; Sicherheitsinteressen gingen den Exportinteressen einzelner Firmen vor.",
+              "sources": [
+                {
+                  "name": "Taipei Times/Bloomberg: Netherlands plans to fight rollout of proposed US curbs on ASML",
+                  "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/27/2003868456"
+                },
+                {
+                  "name": "heise online: Niederlande kündigen Widerstand gegen neue US-Sanktionen für ASML an",
+                  "url": "https://www.heise.de/news/Match-Act-Niederlande-kuendigen-Widerstand-gegen-neue-US-Sanktionen-fuer-ASML-an-11539961.html"
                 }
               ]
             }
