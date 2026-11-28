@@ -1,6 +1,412 @@
 {
-  "updated": "2026-11-27T17:15:00+01:00",
+  "updated": "2026-11-28T06:30:00+01:00",
   "days": [
+    {
+      "date": "2026-11-28",
+      "editions": {
+        "morning": {
+          "time": "06:30",
+          "articles": [
+            {
+              "id": "2026-11-28-abstimmung-29-november-ahv-mwst-feuerwerk-kriegsmaterial",
+              "slug": "abstimmung-29-november-ahv-mwst-feuerwerk-kriegsmaterial",
+              "title": "Abstimmungssonntag: AHV-Mehrwertsteuer, Feuerwerk, Ehepaarbesteuerung und Kriegsmaterial",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/913685.jpg",
+              "kurz": "Am Sonntag entscheidet die Schweiz über vier Vorlagen – die letzten Umfragen sehen ein Nein zur AHV-Mehrwertsteuer und ein Ja zur Feuerwerksinitiative.",
+              "summary": "Am Sonntag, 29. November, stimmt die Schweiz über vier eidgenössische Vorlagen ab: die Zusatzfinanzierung der 13. AHV-Rente über 0,4 Mehrwertsteuerprozente, die Volksinitiative «Für eine Einschränkung von Feuerwerk», die Mitte-Initiative für eine faire Bundesbesteuerung von Ehepaaren und eine Lockerung des Kriegsmaterialgesetzes. In der zweiten SRG-Umfrage (gfs.bern, 4. bis 11. November) lagen die Mehrwertsteuer mit 51 Prozent Nein und die Mitte-Initiative mit 54 Prozent Nein hinten, die Feuerwerksinitiative mit 63 Prozent Ja vorne; beim Kriegsmaterialgesetz stand es 49 zu 46 Prozent.",
+              "gegenstimme": "Umfragen sind Momentaufnahmen von Mitte November; bei Initiativen sinkt die Zustimmung erfahrungsgemäss gegen Schluss, und der Ja-Anteil der Feuerwerksinitiative ist laut SRG bereits geschrumpft. Inhaltlich argumentiert die Parlamentsminderheit gegen die Mehrwertsteuer, die 13. Rente solle erst mit der nächsten AHV-Reform finanziert werden – zusammen mit strukturellen Massnahmen wie einem höheren Rentenalter statt allein über neue Einnahmen. Bundesrat und Parlamentsmehrheit halten dagegen, ohne Zusatzgeld wachse das AHV-Defizit Jahr für Jahr.",
+              "sources": [
+                {
+                  "name": "ch.ch: Volksabstimmung vom 29. November 2026",
+                  "url": "https://www.ch.ch/de/abstimmungen-und-wahlen/abstimmungen/volksabstimmung-vom-29-november-2026/"
+                },
+                {
+                  "name": "SRF: 2. SRG-Umfrage – die Ergebnisse",
+                  "url": "https://www.srf.ch/news/schweiz/2-srg-umfrage-auf-einen-blick-dem-bund-drohen-mindestens-zwei-niederlagen"
+                },
+                {
+                  "name": "Tamedia: Klares Nein zur AHV-Zusatzfinanzierung, alles offen beim Kriegsmaterialgesetz",
+                  "url": "https://www.tamedia.ch/news/klares-nein-zur-ahv-zusatzfinanzierung-alles-offen-beim-kriegsmaterialgesetz"
+                },
+                {
+                  "name": "SRF: Wallis entscheidet über Zukunft des Flughafens Sitten",
+                  "url": "https://www.srf.ch/news/abstimmungen-kanton-wallis-wallis-entscheidet-ueber-zukunft-des-flughafens-sitten"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-svp-ticket-dettling-entscheid-gilt-poggia-loyal",
+              "slug": "svp-ticket-dettling-entscheid-gilt-poggia-loyal",
+              "title": "Nach Blochers Kritik: SVP-Chef Dettling hält am Ticket Aeschi/Graber fest – Poggia winkt ab",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/b3b1b1.jpg",
+              "kurz": "Parteipräsident Dettling sagt «Dieser Entscheid gilt», der Genfer Ständerat Poggia will kein Sprengkandidat sein – doch Pierre Alain Schnegg schliesst eine wilde Wahl nicht mehr aus.",
+              "summary": "Nach Christoph Blochers Kritik am SVP-Bundesratsticket und seinem Lob für den Berner Regierungspräsidenten Pierre Alain Schnegg stellt Parteipräsident Marcel Dettling klar: «Dieser Entscheid gilt» – offizielle Kandidaten für die Nachfolge von Guy Parmelin bleiben Thomas Aeschi und Michael Graber. Der Genfer MCG-Ständerat Mauro Poggia, der der SVP-Fraktion angehört, sagte im Westschweizer Fernsehen, er wolle «nicht den Kuckuck spielen» und nichts gegen die Fraktion unternehmen. Schnegg selbst schliesst gegenüber «20 Minuten» die Annahme einer wilden Wahl hingegen nicht mehr aus.",
+              "gegenstimme": "In der SVP sehen nicht alle ein Problem: Nationalrat Egger nennt das Ticket «sicher kein Betriebsunfall», und die Parteispitze verweist auf den demokratischen Entscheid der Fraktion unter acht Bewerbungen. Aus Sicht vieler Romands und Frauen fehlt dem Zweierticket dagegen jede Vielfalt; selbst Poggia, der loyal bleiben will, nennt beide Kandidaten «ziemlich polarisierend», weil sie Wähler anderer Lager nicht auf Anhieb gewinnen.",
+              "sources": [
+                {
+                  "name": "20 Minuten: SVP-Chef Dettling reagiert auf Blochers Schnegg-Offensive",
+                  "url": "https://www.20min.ch/story/entscheid-gilt-so-reagiert-svp-chef-dettling-auf-blochers-schnegg-offensive-103674824"
+                },
+                {
+                  "name": "SRF: Poggia will nicht Sprengkandidat sein – und bleibt doch vage",
+                  "url": "https://www.srf.ch/news/dialog/parmelin-nachfolge-poggia-als-sprengkandidat-ich-will-nicht-den-kuckuck-spielen"
+                },
+                {
+                  "name": "NZZ: Im Bundeshaus beginnt eine Wintersession mit Seifenopern und Mammutdebatten",
+                  "url": "https://www.nzz.ch/schweiz/im-bundeshaus-beginnt-eine-wintersession-mit-seifenopern-und-mammut-debatten-ld.10076242"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-thun-wahlen-gemeinderat-sp-sitz-umkaempft",
+              "slug": "thun-wahlen-gemeinderat-sp-sitz-umkaempft",
+              "title": "Thun wählt: SVP greift den SP-Sitz und die links-grüne Mehrheit im Gemeinderat an",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🗳️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/314ef0.jpg",
+              "kurz": "27 Personen kandidieren am Sonntag für fünf Sitze in der Thuner Stadtregierung – im Zentrum steht der erst im Juli eroberte SP-Sitz.",
+              "summary": "Die Stadt Thun wählt am Sonntag, 29. November, ihr 40-köpfiges Parlament und den fünfköpfigen Gemeinderat neu; für die Regierung kandidieren 27 Personen, darunter alle Bisherigen. SVP-Stadtpräsidentin Eveline Salzmann ist mangels Gegenkandidatur still gewählt, muss aber den Sprung in den Gemeinderat schaffen. Umkämpft ist vor allem der Sitz von SP-Gemeinderat Claudius Domeyer, der Links-Grün erst im Juli die Mehrheit zurückgebracht hatte.",
+              "gegenstimme": "Der Fokus auf das Duell SP gegen SVP greift zu kurz: Mit FDP und einem Mitte-Bündnis von GLP bis EDU kämpfen weitere Kräfte um einen Sitz, die die Lagerlogik aufbrechen könnten. Zudem zeigt die stille Wahl des Stadtpräsidiums, dass das Amt keine einzige Gegenkandidatur angezogen hat – die Stimmberechtigten haben dort faktisch keine Auswahl, sondern entscheiden nur indirekt über die Gemeinderatswahl mit.",
+              "sources": [
+                {
+                  "name": "SRF: Erneut Wahlen in Thun – Grossangriff auf den SP-Sitz",
+                  "url": "https://www.srf.ch/news/wahlen-stadt-thun-thuner-wahlen-angriff-auf-die-links-gruene-mehrheit"
+                },
+                {
+                  "name": "Stadt Thun: Städtische Wahlen 2026",
+                  "url": "https://www.thun.ch/wahlenabstimmungen/55111"
+                },
+                {
+                  "name": "Thuner Amtsanzeiger: Gesamterneuerungswahlen vom 29. November, stille Wahl Stadtpräsidium",
+                  "url": "https://www.thuneramtsanzeiger.ch/gesamterneuerungswahlen-vom-29.-november-stille-wahl-stadtprsidium"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-kanton-bern-illegal-gehaltener-wolf-eingezogen",
+              "slug": "kanton-bern-illegal-gehaltener-wolf-eingezogen",
+              "title": "Als Hund registriert: Kanton Bern zieht privat gehaltenen Wolf ein",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "regional",
+              "icon": "🐺",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/ad0701.jpg",
+              "kurz": "Ein Gentest bestätigte, dass der vermeintliche Hund ein Wolf ist – nun ermittelt der Zoll, wie das Tier als Welpe in die Schweiz kam.",
+              "summary": "Das bernische Amt für Veterinärwesen hat einen zweieinhalbjährigen Wolf eingezogen, den Privatpersonen als Hund registriert und im Garten gehalten hatten; ein Gentest bestätigte den Verdacht. Die Haltung entsprach nicht den Tierschutzvorschriften. Das Bundesamt für Zoll und Grenzsicherheit (BAZG) untersucht, wie das Tier als Welpe mit einem europäischen Heimtierausweis für Hunde eingeführt wurde.",
+              "gegenstimme": "Laut der Gruppe Wolf Schweiz ist die Haltung von Wölfen und Wolfshybriden nicht grundsätzlich verboten, sondern bewilligungspflichtig – mit Ausbildung und artgerechtem Gehege; solche Fälle seien in der Schweiz eine grosse Ausnahme. Kritisch bleibt die Frage, wie ein Wolf über zwei Jahre als Hund registriert bleiben konnte, ohne dass Behörden oder Tierärzte etwas bemerkten – eine genetische Prüfung ist bei der Registrierung von Hunden nicht vorgesehen.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Behörden stellen im Kanton Bern illegal gehaltenen Wolf sicher",
+                  "url": "https://www.swissinfo.ch/ger/beh%C3%B6rden-stellen-im-kanton-bern-illegal-gehaltenen-wolf-sicher/92440640"
+                },
+                {
+                  "name": "SRF: Wolf im Kanton Bern eingezogen – die wichtigsten Fragen",
+                  "url": "https://www.srf.ch/news/schweiz/von-berner-behoerden-entdeckt-wolf-illegal-als-haustier-gehalten-die-wichtigsten-fragen"
+                },
+                {
+                  "name": "Berner Zeitung: Behörden stellen illegal gehaltenen Wolf sicher",
+                  "url": "https://www.bernerzeitung.ch/bern-behoerden-stellen-illegal-gehaltenen-wolf-sicher-964411139135"
+                },
+                {
+                  "name": "BAZG: Illegal im Garten gehaltener Wolf sichergestellt",
+                  "url": "https://www.bazg.admin.ch/dam/de/sd-web/ZVHQoQ21GZhI/illegal-im-garten-gehaltener-wolf-sichergestellt.pdf"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-tuggen-toedlicher-faustschlag-opfer-wollte-schlichten",
+              "slug": "tuggen-toedlicher-faustschlag-opfer-wollte-schlichten",
+              "title": "Tödlicher Faustschlag in Tuggen: Opfer wollte laut Videoaufnahmen schlichten – Verdächtiger aus Neonazi-Szene frei",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/ed841c.jpg",
+              "kurz": "Überwachungsvideos deuten darauf hin, dass der 27-jährige Konzertbesucher nur schlichten wollte; der 42-jährige Beschuldigte ist wieder auf freiem Fuss.",
+              "summary": "Nach einem Konzert der deutschen Band «Krawallbrüder» im Eventlokal «The Bandits» in Tuggen SZ starb im Oktober ein 27-jähriger Mann nach einem Faustschlag. Überwachungsvideos, die SRF einsehen konnte, zeigen, dass er sich dem Beschuldigten offenbar in schlichtender Absicht näherte. Der 42-jährige Tatverdächtige, laut Szenekennern Mitglied des Neonazi-Netzwerks Blood & Honour, wurde aus der Untersuchungshaft entlassen.",
+              "gegenstimme": "Die Strafrechtsexpertin Marianne Heer warnt vor Vorverurteilung: Es sehe nach einem «äusserst tragischen Zufallsopfer» aus, entscheidend sei, ob der Täter mit einem tödlichen Ausgang rechnen musste; eine Verurteilung nur wegen Körperverletzung sei möglich. Die Haftentlassung ist juristisch korrekt, auch wenn die Familie sie als unerträglich empfindet. Zudem waren laut Augenzeugen auch Personen mutmasslich aus dem linken Lager vor Ort – wer die Konfrontation auslöste, ist nicht abschliessend geklärt.",
+              "sources": [
+                {
+                  "name": "SRF: Tödlicher Faustschlag an Konzert in Tuggen – wollte das Opfer bloss schlichten?",
+                  "url": "https://www.srf.ch/news/schweiz/familie-aeussert-sich-erstmals-wollte-das-todesopfer-von-tuggen-schlichten"
+                },
+                {
+                  "name": "20 Minuten: Tödlicher Faustschlag in Tuggen – Opfer wollte wohl nur schlichten",
+                  "url": "https://www.20min.ch/story/neonazi-im-verdacht-toedlicher-faustschlag-in-tuggen-opfer-wollte-wohl-nur-schlichten-103675012"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-basel-anklage-thuering-verleumdung-leila-moon",
+              "slug": "basel-anklage-thuering-verleumdung-leila-moon",
+              "title": "Basel: Anklage gegen SVP-Grossrat Thüring wegen Verleumdung der DJ Leila Moon",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/54e3809d092725bc52d0548968fc7f3d92cb7785-92447317.jpg?ver=8e161659&fit=1200,900",
+              "kurz": "Thüring hatte die Musikerin als mutmassliche «Unterstützerin der Hamas-Terroristen» bezeichnet – nun muss er sich vor dem Basler Strafgericht verantworten.",
+              "summary": "Die Staatsanwaltschaft Basel-Stadt hat gegen SVP-Grossrat Joël Thüring Anklage wegen mehrfacher, teilweise planmässiger Verleumdung erhoben und den Fall ans Strafgericht überwiesen. Anlass ist eine Anzeige der DJ und Musikproduzentin Leila Moon, die Thüring 2024 als mutmassliche «Unterstützerin der Hamas-Terroristen» bezeichnet hatte. Thüring bestätigte die Anklage und sieht der Verhandlung «gelassen» entgegen; es gilt die Unschuldsvermutung.",
+              "gegenstimme": "Thüring stützte seine Aussagen auf öffentliche Posts der Künstlerin: Sie habe einseitig gegen Israel Stellung bezogen, das Massaker der Hamas vom 7. Oktober 2023 nie verurteilt und zum Boykott der israelisch-amerikanischen Band Yemen Blues aufgerufen. Auch das Basler Präsidialdepartement kam damals zum Schluss, solche Boykottaufrufe widersprächen dem Anliegen des Preises. Aus dieser Sicht steht nun die Frage im Raum, wie weit scharfe politische Kritik an Israel-Boykotten von der Meinungsfreiheit gedeckt ist.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Anklage gegen Basler SVP-Grossrat Joël Thüring wegen Verleumdung",
+                  "url": "https://www.swissinfo.ch/ger/anklage-gegen-basler-svp-grossrat-jo%C3%ABl-th%C3%BCring-wegen-verleumdung/92447330"
+                },
+                {
+                  "name": "20 Minuten: «Hamas-Unterstützerin» – Anklage gegen Thüring erhoben",
+                  "url": "https://www.20min.ch/story/leila-moon-hamas-unterstuetzerin-anklage-gegen-thuering-erhoben-103674633"
+                },
+                {
+                  "name": "Basler Zeitung: Anklage wegen Verleumdung gegen Joël Thüring",
+                  "url": "https://www.bazonline.ch/leila-moon-anklage-gegen-joel-thuering-wegen-verleumdung-304506591452"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-rheinfelden-porenbeton-empa-warnt-weitere-gebaeude",
+              "slug": "rheinfelden-porenbeton-empa-warnt-weitere-gebaeude",
+              "title": "Porenbeton-Risse in Rheinfelder Schulhaus: Empa warnt vor weiteren Fällen",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "schweiz",
+              "icon": "🏗️",
+              "edition": "morning",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/527cfa.jpg",
+              "kurz": "Nach der Notschliessung des Schulhauses Robersten fordert ein Empa-Experte, Schulen und Turnhallen mit Porenbeton-Dächern systematisch zu prüfen.",
+              "summary": "Die Schulanlage Robersten in Rheinfelden AG ist seit vergangenem Wochenende weitgehend geschlossen, weil Porenbeton-Platten im Dach Risse und Abplatzungen zeigen und herunterfallen könnten; rund 200 Kinder sind betroffen. Pietro Lura, Leiter des Beton-Labors der Empa, bezeichnet die Risse gegenüber SRF als «Warnsignal»: Rheinfelden sei wohl kein Einzelfall, das Material dürfte schweizweit in Schulen, Turnhallen und Industriebauten verbaut sein.",
+              "gegenstimme": "Lura selbst will nicht von einem generellen Risiko sprechen: «Nicht jede Porenbetonplatte ist gefährlich», kritisch sei vor allem das Zusammenspiel von Alterung, Feuchtigkeit und Zusatzlasten wie Solaranlagen. In Rheinfelden hatten Eltern und Lehrerschaft laut NFZ schon lange auf den schlechten Zustand der Gebäude hingewiesen – das spricht eher für vernachlässigten Unterhalt als für ein flächendeckendes Materialproblem.",
+              "sources": [
+                {
+                  "name": "SRF: Wegen instabilen Porenplatten in Rheinfelden – Empa ist alarmiert",
+                  "url": "https://www.srf.ch/news/schweiz/instabile-betonplatten-bund-alarmiert-wie-viele-weitere-gebaeude-sind-betroffen"
+                },
+                {
+                  "name": "NFZ: Betonteile könnten herunterfallen – Stadt schliesst Schulanlage per sofort",
+                  "url": "https://www.nfz.ch/rheinfelden-schliesst-schulrume-aus-sicherheitsgrnden"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-spanien-parlamentswahl-pp-vox-umfragen-sanchez",
+              "slug": "spanien-parlamentswahl-pp-vox-umfragen-sanchez",
+              "title": "Spanien wählt am Sonntag: Umfragen sehen Mehrheit für PP und Vox",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🇪🇸",
+              "edition": "morning",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
+              "kurz": "Rund 39 Millionen Spanier wählen am Sonntag ein neues Parlament – Feijóos Volkspartei liegt knapp vor Sánchez, zusammen mit Vox reicht es laut Umfragen zur Mehrheit.",
+              "summary": "In Spanien wählen am Sonntag, 29. November, rund 39 Millionen Stimmberechtigte ein neues Parlament. Die konservative Volkspartei (PP) von Alberto Núñez Feijóo liegt in den meisten Umfragen knapp vor den Sozialisten (PSOE) von Ministerpräsident Pedro Sánchez; zusammen mit der rechtspopulistischen Vox käme sie laut Modellrechnungen deutlich über die für eine absolute Mehrheit nötigen 176 von 350 Sitzen. Sánchez gab sich an seiner Schlusskundgebung siegesgewiss.",
+              "gegenstimme": "Sánchez wirft Feijóo vor, eine Koalition mit Vox zu planen, und mobilisiert mit der Warnung vor der extremen Rechten; das staatliche Umfrageinstitut CIS sieht die PSOE sogar rund zehn Punkte vor der PP – Kritiker halten das CIS allerdings für regierungsnah. Feijóo wiederum wirft Sánchez vor, Fragen zu Korruption, Bahnunglücken, Migration und Staatsschulden auszuweichen. Umfragen haben Sánchez schon früher unterschätzt.",
+              "sources": [
+                {
+                  "name": "BBC: Spanish PM and rivals rally supporters in final pitch for votes",
+                  "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo"
+                },
+                {
+                  "name": "Costa Nachrichten: Letzte Umfragen zur Wahl in Spanien",
+                  "url": "https://www.costanachrichten.com/spanien/politik-wirtschaft/letzte-umfragen-zur-wahl-in-spanien-klare-mehrheit-fuer-pp-vox-aber-47-mandate-noch-offen-94610683.html"
+                },
+                {
+                  "name": "SRF: Spanien im Wahlkampf – trotz EU-Regeln häufen sich KI-Fakes",
+                  "url": "https://www.srf.ch/news/dialog/propaganda-mit-deepfakes-spanien-im-wahlkampf-trotz-eu-regeln-haeufen-sich-ki-fakes"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-gaza-msf-klinik-zwei-waechter-getoetet-idf-hamas",
+              "slug": "gaza-msf-klinik-zwei-waechter-getoetet-idf-hamas",
+              "title": "Gaza: Israel tötet zwei Wächter einer MSF-Klinik – Armee nennt sie Hamas-Mitglieder",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🏥",
+              "edition": "morning",
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a40eea0b0-1795834094.jpg?resize=1920%2C1440",
+              "kurz": "Ärzte ohne Grenzen spricht von einem direkten Treffer auf eine markierte Klinik, die israelische Armee von zwei Hamas-Terroristen, einer davon Kommandant.",
+              "summary": "Bei einem israelischen Luftangriff in Gaza-Stadt sind am Freitagabend zwei Männer getötet worden, die als Wächter einer Klinik von Ärzte ohne Grenzen (MSF) arbeiteten. MSF spricht von einem «direkten Treffer» auf klar markierte Räumlichkeiten, deren Standort der Armee bekannt gewesen sei; damit seien in Gaza 17 MSF-Mitarbeitende getötet worden. Die israelische Armee identifizierte die Männer als Hamas-Mitglieder, einer davon Kommandant einer Artilleriezelle des militärischen Flügels.",
+              "gegenstimme": "Die israelische Armee bestreitet, eine Klinik angegriffen zu haben: Es sei keine medizinische Infrastruktur beschädigt worden, man habe Präzisionsmunition eingesetzt. Die beiden hätten Angriffe auf Soldaten und Zivilisten geplant und unter Verletzung der Waffenruhe an der Wiederaufrüstung gearbeitet – ein weiteres Beispiel dafür, wie die Hamas sich in internationale Organisationen einbette. MSF und WHO-Chef Tedros verurteilen den Angriff dagegen als «empörend» und verlangen Rechenschaft.",
+              "sources": [
+                {
+                  "name": "MSF: Israeli strike kills two MSF colleagues",
+                  "url": "https://prezly.msf.org.uk/msf-gaza-israeli-strike-kills-two-msf-colleagues"
+                },
+                {
+                  "name": "Ynet: IDF eliminates two Hamas terrorists working for Doctors Without Borders",
+                  "url": "https://www.ynetnews.com/article/bysj4opj7g"
+                },
+                {
+                  "name": "Al Jazeera: Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+                  "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"
+                },
+                {
+                  "name": "Times of Israel: IDF says Gaza strike killed two terrorists working for MSF",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-gaza-strike-killed-two-terrorists-working-for-doctors-without-borders/"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-usa-beschiessen-frachter-golf-von-oman-iran-blockade",
+              "slug": "usa-beschiessen-frachter-golf-von-oman-iran-blockade",
+              "title": "Golf von Oman: US-Militär macht Frachter manövrierunfähig, der die Iran-Blockade durchbrechen wollte",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🚢",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/d4f33ed9-50ca-450e-b1f2-3fac2df5843b/AAABoiAxs5A/AAABnSSvrFg/16x9-big/oman-136.jpg?width=1280",
+              "kurz": "Ein Kampfflugzeug traf das Heck des unter Palau-Flagge fahrenden Schiffs, das aus Bandar Abbas kam – die Crew blieb laut Centcom unverletzt.",
+              "summary": "Das US-Regionalkommando Centcom hat nach eigenen Angaben im Golf von Oman ein Handelsschiff beschossen, das trotz mehrfacher Warnungen die US-Seeblockade gegen iranische Häfen durchbrechen wollte. Ein Militärflugzeug traf das Heck mit Präzisionsmunition und legte den Antrieb lahm; die Besatzung blieb unverletzt. Der Frachter fuhr unter der Flagge von Palau, war kurz zuvor in Bandar Abbas ausgelaufen und hatte laut Schiffsverfolgungsportalen Singapur als Ziel.",
+              "gegenstimme": "Alle Angaben zum Vorfall stammen von Centcom; Reederei und iranische Behörden äusserten sich in den ausgewerteten Berichten nicht. Wie interessengeleitet die Informationslage im Iran-Krieg ist, zeigt ein anderer Fall: Für den tödlichen Drohnenangriff in Kuwait macht Teheran die Ukraine verantwortlich, während Italien sagt, die Drohne stamme aus iranischer Produktion.",
+              "sources": [
+                {
+                  "name": "Tagesschau: US-Militär beschiesst Frachter im Golf von Oman",
+                  "url": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html"
+                },
+                {
+                  "name": "Al Jazeera: US disables ship attempting to breach Iran blockade",
+                  "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade"
+                },
+                {
+                  "name": "SRF: Newsticker Krieg im Nahen Osten",
+                  "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-aerzte-ohne-grenzen-mitarbeiter-bei-israelischem-angriff-getoetet"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-deutschland-rentenreform-entwurf-schweitzer-rente-mit-63",
+              "slug": "deutschland-rentenreform-entwurf-schweitzer-rente-mit-63",
+              "title": "Deutschland: Rentenentwurf von Arbeitsminister Schweitzer stösst bei der Union auf Widerstand",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "politik",
+              "icon": "👴",
+              "edition": "morning",
+              "image": "https://images.tagesschau.de/image/0e430599-2cda-4821-8c37-65ff5c608f91/AAABoiCE0T8/AAABnSSvrFg/16x9-big/schweitzer-186.jpg?width=1280",
+              "kurz": "Die «Rente mit 63» soll im Kern bleiben, aber weniger Menschen offenstehen – CDU/CSU sieht die junge Generation zusätzlich belastet.",
+              "summary": "Der deutsche Arbeitsminister Alexander Schweitzer (SPD) hat einen 287-seitigen Referentenentwurf für die Rentenreform vorgelegt. Die abschlagsfreie Frührente nach 45 Beitragsjahren soll im Kern bleiben, Zeiten mit Arbeitslosen- oder Krankengeld sollen aber nicht mehr angerechnet werden; Kindererziehung und Pflege zählen weiterhin. Beim Koalitionspartner CDU/CSU stösst der Entwurf auf harsche Kritik.",
+              "gegenstimme": "Schweitzer gibt sich kompromissbereit («Wir können zusammenkommen») und verweist darauf, dass er den Kreis der Berechtigten bereits einschränkt, statt die Frührente für Langzeitbeschäftigte abzuschaffen. Der «Spiegel» kritisiert dagegen weniger den Inhalt als das Vorgehen: Schweitzer habe den Entwurf ohne Abstimmung an die anderen Ministerien geschickt – ein riskanter Alleingang, der den Streit in der Koalition eher anheizt.",
+              "sources": [
+                {
+                  "name": "Tagesschau: Das plant Arbeitsminister Schweitzer für die Rente",
+                  "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html"
+                },
+                {
+                  "name": "Tagesschau: Kritik aus der Union an Rentenplänen",
+                  "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html"
+                },
+                {
+                  "name": "Spiegel: Schweitzers riskanter Alleingang",
+                  "url": "https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b"
+                },
+                {
+                  "name": "WELT: «Und damit ist diese Reform eigentlich obsolet»",
+                  "url": "https://www.welt.de/videos/video6b09d03eb5813b772d180e87/renten-debatte-und-damit-ist-diese-reform-eigentlich-obsolet.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-openai-gegenklage-apple-geschaeftsgeheimnisse",
+              "slug": "openai-gegenklage-apple-geschaeftsgeheimnisse",
+              "title": "OpenAI verklagt Apple wegen Diebstahls von Geschäftsgeheimnissen",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "⚖️",
+              "edition": "morning",
+              "image": "https://cdn.prod.www.spiegel.de/images/09340773-5a12-43ea-90a9-198ce93f8604_w1200_r1.778_fpx55.98_fpy49.98.jpg",
+              "kurz": "Der ChatGPT-Entwickler reicht Gegenklage ein: Apple habe über einen Rückkehrer Hardware-Pläne abgeschöpft und Zulieferer blockiert.",
+              "summary": "OpenAI hat am Freitag vor einem Bundesgericht in Kalifornien Gegenklage gegen Apple eingereicht. Der ChatGPT-Entwickler wirft dem iPhone-Konzern vor, Geschäftsgeheimnisse gestohlen und OpenAI den Zugang zu Hardware-Zulieferern versperrt zu haben. Zudem seien Apples Arbeitsverträge darauf ausgelegt, Mitarbeitende «gefangenzuhalten».",
+              "gegenstimme": "Apple hatte zuerst geklagt: Der Konzern wirft OpenAI und zwei ehemaligen Angestellten vor, gezielt Personal abgeworben und Geschäftsgeheimnisse gestohlen zu haben, um eigene Hardware schneller zu entwickeln; OpenAI wies das zurück. Die Gegenklage kann deshalb auch als prozesstaktischer Zug gelesen werden. Beide Konzerne äusserten sich zunächst nicht zu den neuen Vorwürfen.",
+              "sources": [
+                {
+                  "name": "Spiegel: OpenAI reicht Gegenklage gegen Apple ein",
+                  "url": "https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor-a-97039215-746c-4cfc-9dc9-fa9c9adff1ef"
+                },
+                {
+                  "name": "Al Jazeera: OpenAI countersues Apple over trade secrets",
+                  "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-tiktok-deutschland-oesterreich-europaeische-kontrolle",
+              "slug": "tiktok-deutschland-oesterreich-europaeische-kontrolle",
+              "title": "Deutschland und Österreich wollen Tiktoks Europageschäft unter europäische Kontrolle bringen",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "tech",
+              "icon": "📱",
+              "edition": "morning",
+              "image": "https://images.euronews.com/articles/stories/09/98/89/60/1200x675_cmsv2_5f70b9d4-bd52-5a6b-bf23-d5caeed55eac-9988960.jpg",
+              "kurz": "Nach US-Vorbild soll ein Joint Venture mit europäischer Mehrheit entstehen – inklusive Kontrolle über Algorithmus und Daten. China nennt das «Unsinn».",
+              "summary": "Der deutsche Kulturstaatsminister Wolfram Weimer und Österreichs Digitalisierungs-Staatssekretär Alexander Pröll haben in Wien eine Initiative vorgestellt, um das Europageschäft von Tiktok in ein Joint Venture mit europäischer Mehrheit zu überführen. Europa soll auch die Verantwortung für die zentrale Technik übernehmen, vom Empfehlungsalgorithmus bis zum Datenzugang. Die Plattform berge «grundlegende sicherheitspolitische Risiken», sagte Weimer.",
+              "gegenstimme": "China weist den Vorstoss als «Unsinn ohne Grundlage» zurück. Zudem verfügt die EU mit dem Digital Services Act bereits über ein Instrument: Tiktok wurde am 6. November vorläufig als Verstoss gegen das Gesetz eingestuft. Ob Staaten einen privaten Konzern zum Verkauf drängen können, ohne die eigenen marktwirtschaftlichen Grundsätze zu verletzen, ist offen – Weimer und Pröll halten Regulierung allein jedoch für ungenügend.",
+              "sources": [
+                {
+                  "name": "NZZ: Deutschland und Österreich wollen China die Kontrolle über Tiktok entziehen",
+                  "url": "https://www.nzz.ch/international/deutschland-und-oesterreich-wollen-china-die-kontrolle-ueber-tiktok-entziehen-ld.10075429"
+                },
+                {
+                  "name": "Euronews: Deutschland und Österreich fordern europäische Kontrolle über Tiktok-Europageschäft",
+                  "url": "https://de.euronews.com/2026/11/27/deutschland-und-osterreich-fordern-europaische-kontrolle-uber-tiktok-europageschaft"
+                },
+                {
+                  "name": "Bundeskanzleramt Österreich: «Europa muss die Systemfrage zu Tiktok stellen»",
+                  "url": "https://www.bundeskanzleramt.gv.at/bundeskanzleramt/nachrichten-der-bundesregierung/2026/11/europa-muss-die-systemfrage-zu-tiktok-stellen-proell-und-weimer-treiben-allianz-fuer-europaeische-loesung-weiter-voran.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-drohnen-flughafen-koeln-bonn-gesperrt-hamburg-auslaendische-akteure",
+              "slug": "drohnen-flughafen-koeln-bonn-gesperrt-hamburg-auslaendische-akteure",
+              "title": "Drohne legt Flughafen Köln/Bonn lahm – Hamburg ordnet Vorfälle ausländischen Akteuren zu",
+              "date": "2026-11-28",
+              "time": "06:30",
+              "category": "international",
+              "icon": "🛸",
+              "edition": "morning",
+              "image": "https://images.welt.de/6b09d8213d0d9d6539f90a89/5727df3db1d7f20989c06ba0f571eb84-master/ci16x9-w1200/dpa-com-261127-935-1771929-jpg",
+              "kurz": "Zweieinhalb Stunden lang starteten und landeten in Köln/Bonn keine Flugzeuge; Hamburgs Innensenator spricht von Drohnen ausländischer Akteure.",
+              "summary": "Am Flughafen Köln/Bonn sind am Freitagabend nach einer Drohnensichtung kurz vor 22 Uhr alle Starts und Landungen für rund zweieinhalb Stunden eingestellt worden; gegen 0.30 Uhr gab die Deutsche Flugsicherung Entwarnung. Zur Herkunft der Drohne machten Betreiber und Flugsicherung keine Angaben. Am selben Tag sagte Hamburgs Innensenator Andy Grote (SPD), man habe in Hamburg Drohnenvorfälle festgestellt, die man «ausländischen Akteuren zuordnen» würde.",
+              "gegenstimme": "Für den Vorfall in Köln/Bonn gibt es keinerlei Angaben zu Täter, Art oder Zweck der Drohne. Auch Grote nennt weder Zahlen noch Belege und räumt ein, die Verantwortlichen seien schwer zu identifizieren – eine Zuschreibung an einen bestimmten Staat ist damit im Einzelfall nicht belegt. Umgekehrt warnen Sicherheitsfachleute seit Monaten, Europa unterschätze hybride Angriffe; ein IISS-Bericht von dieser Woche zählt 16 Prozent mehr russische Sabotageakte.",
+              "sources": [
+                {
+                  "name": "20 Minuten: Flugbetrieb in Köln/Bonn nach Drohnensichtung unterbrochen",
+                  "url": "https://www.20min.ch/story/deutschland-flugbetrieb-in-koelnbonn-nach-drohnensichtung-unterbrochen-103675059"
+                },
+                {
+                  "name": "Tages-Anzeiger: Drohne legt Flughafen Köln/Bonn 2,5 Stunden lahm",
+                  "url": "https://www.tagesanzeiger.ch/drohne-legt-flughafen-koeln-bonn-2-5-stunden-lahm-567234057494"
+                },
+                {
+                  "name": "WELT: «Haben in Hamburg Drohnenvorfälle festgestellt, die wir ausländischen Akteuren zuordnen würden»",
+                  "url": "https://www.welt.de/politik/article6b09d8213d0d9d6539f90a89/innensenator-grote-haben-in-hamburg-drohnenvorfaelle-festgestellt-die-wir-auslaendischen-akteuren-zuordnen-wuerden.html"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
     {
       "date": "2026-11-27",
       "editions": {
