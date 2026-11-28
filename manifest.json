@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T06:30:00+01:00",
+  "updated": "2026-11-28T12:15:00+01:00",
   "days": [
     {
       "date": "2026-11-28",
@@ -400,6 +400,335 @@
                 {
                   "name": "WELT: «Haben in Hamburg Drohnenvorfälle festgestellt, die wir ausländischen Akteuren zuordnen würden»",
                   "url": "https://www.welt.de/politik/article6b09d8213d0d9d6539f90a89/innensenator-grote-haben-in-hamburg-drohnenvorfaelle-festgestellt-die-wir-auslaendischen-akteuren-zuordnen-wuerden.html"
+                }
+              ]
+            }
+          ]
+        },
+        "midday": {
+          "time": "12:15",
+          "articles": [
+            {
+              "id": "2026-11-28-wintersession-budget-2027-notbudget-droht",
+              "slug": "wintersession-budget-2027-notbudget-droht",
+              "title": "Wintersession startet: Dem Bund droht erstmals seit 1975 ein Jahr ohne Budget",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🏛️",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/042a53d.jpg",
+              "kurz": "Ab Montag tagt das Parlament drei Wochen lang. SVP, SP und Grüne stellen sich gegen das Budget 2027 – in der «Arena» prallten die Lager schon am Freitag aufeinander.",
+              "summary": "Am Montag beginnt in Bern die dreiwöchige Wintersession. Die Finanzkommission des Nationalrats hat den Voranschlag 2027 mit 15 zu 9 Stimmen bei einer Enthaltung abgelehnt; SVP, SP und Grüne wollen ihn an den Bundesrat zurückweisen. Findet das Parlament keine Einigung, hätte der Bund erstmals seit 1975 kein rechtzeitig beschlossenes Budget.",
+              "gegenstimme": "SVP und Linke lehnen das Budget aus entgegengesetzten Gründen ab: SVP-Nationalrat Michael Götte verlangt mehr Sparmassnahmen ausserhalb der Armee, SP-Nationalrätin Sarah Wyss kritisiert Kürzungen bei Bildung, Klima und Kaufkraft und will die Aufrüstung über Zusatzeinnahmen finanzieren. Beide Seiten werfen der Mitte und der FDP vor, ihre Anliegen nicht aufgenommen zu haben. Mitte-Nationalrat Simon Stadler hält dagegen, die Polparteien machten «Wahlkampf auf dem Buckel des Budgets».",
+              "sources": [
+                {
+                  "name": "Parlament.ch: FK-N lehnt das Budget 2027 in der Gesamtabstimmung ab",
+                  "url": "https://www.parlament.ch/press-releases/Pages/mm-fk-n-2026-11-12.aspx?lang=1031"
+                },
+                {
+                  "name": "SRF: Arena zu Bundesbudget 2027",
+                  "url": "https://www.srf.ch/news/schweiz/arena-zu-bundesbudget-2027-schon-vor-dem-showdown-im-parlament-fliegen-die-fetzen"
+                },
+                {
+                  "name": "20 Minuten: Erstes Notbudget seit über 50 Jahren droht",
+                  "url": "https://www.20min.ch/story/sp-kritik-in-der-arena-svp-ticket-einen-solchen-menschen-will-ich-nicht-im-bundesrat-103675062"
+                },
+                {
+                  "name": "NZZ: Seifenopern und Mammutdebatten – stürmische Wochen im Bundeshaus",
+                  "url": "https://www.nzz.ch/schweiz/im-bundeshaus-beginnt-eine-wintersession-mit-seifenopern-und-mammut-debatten-ld.10076242"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-graber-video-bundeshaus-rangelei-bundespolizei",
+              "slug": "graber-video-bundeshaus-rangelei-bundespolizei",
+              "title": "Neues Video zur Bundeshaus-Rangelei: SVP-Kandidat Graber leistete länger Widerstand als Aeschi",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🎥",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/4JvWO4NKqcGA1xWluQQwV2.jpg?op=ocroped&val=1200,600,673,598,110,293&sum=Tmrx81R-Q28",
+              "kurz": "Bisher unbekannte Aufnahmen vom Juni 2024 zeigen, wie Bundesratskandidat Michael Graber Sicherheitsleute wegschob und rund vier Minuten diskutierte.",
+              "summary": "Der «Tages-Anzeiger» hat bisher unbekannte Videoaufnahmen der Rangelei vom Juni 2024 im Bundeshaus veröffentlicht. Sie zeigen laut den Berichten, dass SVP-Nationalrat Michael Graber Mitarbeitende des Bundessicherheitsdienstes schubste und stärker und länger Widerstand leistete als Fraktionschef Thomas Aeschi. Beide stehen auf dem SVP-Ticket für die Bundesratswahl in der Wintersession.",
+              "gegenstimme": "Die SVP hält am Ticket fest: Der Vorfall ist seit zwei Jahren bekannt, hatte kein juristisches Nachspiel, und die Fraktion habe Aeschi und Graber in einem «demokratischen und transparenten Prozess» nominiert, sagte SVP-Nationalrat Michael Götte in der «Arena». Auch FDP-Vizepräsident Andri Silberschmidt betont, der Sitz gehöre der SVP und die Konkordanz sei einzuhalten. Offen ist, wem die Veröffentlichung kurz vor der Wahl nützt: Woher das Video stammt, legt der «Tages-Anzeiger» in den frei zugänglichen Teilen nicht offen.",
+              "sources": [
+                {
+                  "name": "Tages-Anzeiger: Neues Video zeigt, wie Graber auf Polizisten losging",
+                  "url": "https://www.tagesanzeiger.ch/michael-graber-neues-video-zeigt-rangelei-im-bundeshaus-127429245998"
+                },
+                {
+                  "name": "20 Minuten: Neue Bilder zeigen, wer weiter ging",
+                  "url": "https://www.20min.ch/story/bundesratskandidat-neues-video-zeigt-wie-weit-graber-beim-bundeshaus-gerangel-ging-103675086"
+                },
+                {
+                  "name": "20 Minuten: Arena – «Einen solchen Menschen will ich nicht im Bundesrat»",
+                  "url": "https://www.20min.ch/story/sp-kritik-in-der-arena-svp-ticket-einen-solchen-menschen-will-ich-nicht-im-bundesrat-103675062"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-ostermundigen-drogenaktion-kokain-heroin-sichergestellt",
+              "slug": "ostermundigen-drogenaktion-kokain-heroin-sichergestellt",
+              "title": "Ostermundigen: Polizei stellt 260 Gramm Kokain und 400 Gramm Heroin sicher",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "🚔",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/6g64oDU8qNFBtz2TcpbyPU.jpg?op=ocroped&val=1200,600,1000,1000,0,0&sum=ckzHUCaJIrU",
+              "kurz": "Zivile Fahnder der Kantonspolizei Bern haben am Donnerstagabend einen mutmasslichen Dealer und seinen Abnehmer angehalten. Bei einer Hausdurchsuchung fanden sie weitere Drogen und Bargeld.",
+              "summary": "Die Kantonspolizei Bern hat am Donnerstagabend in Ostermundigen eine gezielte Aktion gegen den Drogenhandel durchgeführt und zwei Männer angehalten. Sichergestellt wurden rund 260 Gramm Kokain, rund 400 Gramm Heroin und Bargeld. Der mutmassliche Händler wurde vorläufig festgenommen, der mutmassliche Käufer am selben Abend wieder entlassen.",
+              "gegenstimme": "Ob solche Aktionen mehr als den Strassenhandel treffen, ist in der Drogenpolitik umstritten: Die einen halten Sicherstellungen für wenig wirksam gegen das Angebot, die anderen verlangen gerade mehr Kontrollen und härtere Strafen gegen Dealer. Die Polizei selbst gibt keine Einschätzung zur Bedeutung des Falls ab. Für beide Männer gilt die Unschuldsvermutung.",
+              "sources": [
+                {
+                  "name": "Kantonspolizei Bern: Ostermundigen – Aktion gegen Betäubungsmittelhandel",
+                  "url": "https://www.police.be.ch/de/start/themen/news/medienmitteilungen.html?newsID=9cf3e831-eee6-46e8-b236-ee13a264e368"
+                },
+                {
+                  "name": "Der Bund: Drogenrazzia in Ostermundigen",
+                  "url": "https://www.derbund.ch/ostermundigen-polizei-stellt-260-gramm-kokain-sicher-352456921744"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-wengen-wasser-sparen-trockenheit-lauberhorn",
+              "slug": "wengen-wasser-sparen-trockenheit-lauberhorn",
+              "title": "Wengen ruft zum Wassersparen auf – Schneekanonen fürs Lauberhorn laufen trotzdem",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "regional",
+              "icon": "💧",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/9e14bc.jpg",
+              "kurz": "Wegen der anhaltenden Trockenheit sind die Trinkwasserreserven im Berner Oberländer Skiort knapp. Die Lauberhornrennen beschneien nur mit Überlaufwasser, sagen die Organisatoren.",
+              "summary": "Die Genossenschaft Wasserwerk Wengen hat die Bevölkerung per Flyer aufgefordert, wegen der Trockenheit Wasser zu sparen: duschen statt baden, keine Pflanzen giessen, keine Terrassen reinigen, keine Pools füllen. Gleichzeitig laufen für die Festtage und die Lauberhornrennen im Januar die Schneekanonen. Lauterbrunnens Gemeindepräsident Karl Näpflin nennt die Lage «so ernst wie noch nie».",
+              "gegenstimme": "Lauberhorn-Geschäftsführer Andreas Mühlheim widerspricht dem Eindruck, die Bevölkerung spare für das Rennen: Man habe «keinen Appell gemacht» und keinen Druck ausgeübt, für die Beschneiung werde nur Überlaufwasser genutzt, das sonst ungenutzt ins Tal flösse. Die Rennen bringen der Region zudem eine hohe Wertschöpfung. Kritiker halten dagegen, dass Kunstschnee in einem Trockenjahr ein falsches Signal sende – ohne dass belegt ist, dass Trinkwasser dafür abgezweigt wird.",
+              "sources": [
+                {
+                  "name": "SRF: Wassernot in Lauterbrunnen – Sparen fürs Lauberhorn-Skirennen?",
+                  "url": "https://www.srf.ch/news/schweiz/aufruf-im-berner-oberland-wengen-spart-wasser-lauberhornrennen-profitieren-davon"
+                },
+                {
+                  "name": "Swissinfo/Keystone-SDA: Bevölkerung im Skisport-Ort Wengen soll Wasser sparen",
+                  "url": "https://www.swissinfo.ch/ger/bev%C3%B6lkerung-im-skisport-ort-wengen-soll-wasser-sparen/92452027"
+                },
+                {
+                  "name": "Der Bund: Wengen kämpft mit Wasserknappheit",
+                  "url": "https://www.derbund.ch/wengen-lauberhornrennen-sehen-sparaufruf-als-richtig-197006842491"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-leuggern-hooligan-schlaegerei-razzien-festnahmen",
+              "slug": "leuggern-hooligan-schlaegerei-razzien-festnahmen",
+              "title": "Organisierte Hooligan-Schlägerei in Leuggern: Razzien und Festnahmen 13 Monate später",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "⚖️",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/BLqcEXHD4w7APmkBBQu_Uo.jpg?op=ocroped&val=1200,600,1000,750,110,0&sum=yAyIEuNscw0",
+              "kurz": "Je rund 20 Basler und Zürcher Hooligans prügelten sich im Oktober 2025 auf einer Aargauer Wiese. Jetzt hat die Staatsanwaltschaft Wohnungen durchsucht und Beteiligte festgenommen.",
+              "summary": "Am 11. Oktober 2025 trafen sich in Leuggern AG je rund 20 Hooligans aus dem Umfeld des FC Basel («Bande Basel», «187») sowie von FCZ und GC («Zürichs Kranke Horde») zu einer verabredeten Schlägerei. Die Aargauer Staatsanwaltschaft bestätigt Hausdurchsuchungen und vorübergehende Festnahmen mehrerer Personen. Der Vorwurf lautet laut Untersuchungsbefehl auf Raufhandel und versuchte schwere Körperverletzung.",
+              "gegenstimme": "Aus dem Umfeld der Betroffenen heisst es, die Ermittlungen zu Leuggern seien ein Vorwand, um über Handydaten an weitere Informationen zu kommen; CH Media beschreibt die Schlägerei als «einvernehmlich organisiert» und abseits der Stadien. Gegen pauschale Urteile über Fussballfans spricht, dass es sich um kleine, abgeschottete Gruppen handelt. Die Staatsanwaltschaft äussert sich zu Umfang und Ziel der Ermittlungen nicht; für alle Beschuldigten gilt die Unschuldsvermutung.",
+              "sources": [
+                {
+                  "name": "Blick: Basler und Zürcher Hooligans trafen sich zum Kampf",
+                  "url": "https://www.blick.ch/schweiz/mittelland/aargau/im-aargau-basler-und-zuercher-hooligans-trafen-sich-zum-kampf/fynpbbs"
+                },
+                {
+                  "name": "Zofinger Tagblatt/CH Media: Razzia gegen Fussball-Hooligans aus Basel und Zürich",
+                  "url": "https://www.bote.ch/nachrichten/schweizundwelt/razzia-gegen-fussball-hooligans-aus-basel-und-zuerich-art-1734387"
+                },
+                {
+                  "name": "Tages-Anzeiger: Massenschlägerei in Leuggern",
+                  "url": "https://www.tagesanzeiger.ch/leuggern-ag-razzien-nach-hooligan-schlaegerei-in-aargau-779505875938"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-aarau-amoktat-schuetze-u-haft-regierung-bilanz",
+              "slug": "aarau-amoktat-schuetze-u-haft-regierung-bilanz",
+              "title": "Amoktat von Aarau: Schütze bleibt in Haft – Regierung lobt Einsatz, sieht aber Lücken",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "schweiz",
+              "icon": "🚨",
+              "edition": "midday",
+              "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/11/2d8facb9f8b4b429de7c6206410943a7d3c5bcd2-92447331.jpg?ver=13d9b150&fit=1200,900",
+              "kurz": "Der 43-jährige mutmassliche Schütze vom Rave auf der Aarauer Pferderennbahn bleibt in U-Haft. Die Aargauer Regierung zieht eine positive Einsatzbilanz – und will mehr Polizei.",
+              "summary": "Der mutmassliche Schütze, der Ende August an einem Rave in Aarau eine 22-jährige Italienerin tötete und sechs Personen verletzte, bleibt laut Aargauer Staatsanwaltschaft in Untersuchungshaft; wann Anklage erhoben wird, ist offen. Der Aargauer Regierungsrat bewertet den Grosseinsatz von Polizei und Rettungskräften in seiner Antwort auf eine SP-Interpellation als gelungen, sieht aber Lücken bei überkantonalen Gewaltschutzmassnahmen.",
+              "gegenstimme": "Die SP-Grossrätin Lelia Hunziker hatte mit 18 Fragen wissen wollen, welche Lehren gezogen werden – das positive Selbstzeugnis der Regierung ersetzt keine unabhängige Untersuchung. Offen bleibt insbesondere, ob Behörden die Gefährlichkeit des psychisch kranken Mannes hätten erkennen können, der seine Waffen legal besass. Umgekehrt wird argumentiert, strengere Waffengesetze träfen vor allem gesetzestreue Besitzer; die Regierung selbst verortet die Lücke beim überkantonalen Gewaltschutz.",
+              "sources": [
+                {
+                  "name": "Swissinfo/Keystone-SDA: Aargauer Regierungsrat zieht Bilanz nach Gewalttat in Aarau",
+                  "url": "https://www.swissinfo.ch/ger/aargauer-regierungsrat-zieht-bilanz-nach-gewalttat-in-aarau/92447344"
+                },
+                {
+                  "name": "20 Minuten: Schütze von Aarau bleibt in U-Haft",
+                  "url": "https://www.20min.ch/story/amoktat-aarau-italienerin-22-starb-an-rave-verdaechtiger-bleibt-in-u-haft-103675069"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-bsw-parteitag-dresden-streit-afd-magdeburger-weg",
+              "slug": "bsw-parteitag-dresden-streit-afd-magdeburger-weg",
+              "title": "BSW-Parteitag in Dresden: Parteispitze will Absprachen mit der AfD nicht ausschliessen",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "politik",
+              "icon": "🇩🇪",
+              "edition": "midday",
+              "image": "https://images.handelsblatt.com/UctWtmgbXNfo/cover/2048/1152/0/0/141/141/0.5/0.5/bundesparteitag-des-bsw.jpg",
+              "kurz": "Das BSW streitet in Dresden über den Umgang mit der AfD. Die Spitze schliesst Koalition und Tolerierung aus, will aber gemeinsame Anträge erlauben – Mitgründer Klaus Ernst droht mit Austritt.",
+              "summary": "Das BSW berät an seinem Bundesparteitag in Dresden über das Verhältnis zur AfD. Parteichef Fabio De Masi sagte, eine Koalition oder Tolerierung komme nicht in Frage, gemeinsame Anträge und schriftliche Vereinbarungen könnten aber nötig sein; Co-Chefin Amira Mohamed Ali schloss gegenüber WELT nicht aus, einem Haushalt einer AfD-Regierung in Sachsen-Anhalt zuzustimmen. Mitgründer Klaus Ernst droht mit dem Austritt, falls sich die Partei nicht klar abgrenzt.",
+              "gegenstimme": "Die Kritiker um Klaus Ernst halten die AfD für «grösstenteils völkisch und ausländerfeindlich» und sehen im «Magdeburger Weg» einen Schritt zur Normalisierung. Die Parteispitze argumentiert umgekehrt, die «Brandmauer»-Politik sei gescheitert: Die AfD habe die Unzufriedenen eingesammelt, Anträge müssten nach Inhalt statt nach Absender beurteilt werden. Die AfD und ihre Anhänger halten die Ausgrenzung einer Partei mit fast 44 Prozent Wähleranteil in Sachsen-Anhalt für undemokratisch.",
+              "sources": [
+                {
+                  "name": "Handelsblatt: BSW-Chef De Masi – «Möchte nicht Partei beerdigen»",
+                  "url": "https://www.handelsblatt.com/politik/deutschland/bundesparteitag-in-dresden-bsw-chef-de-masi-moechte-nicht-partei-beerdigen/100273414.html"
+                },
+                {
+                  "name": "WELT: BSW-Vorsitzende schliesst Zustimmung zu AfD-Haushalt nicht aus",
+                  "url": "https://www.welt.de/politik/deutschland/article6b09d216741a4ef94784ab6b/bundesparteitag-wir-entscheiden-immer-in-der-sache-bsw-vorsitzende-schliesst-zustimmung-zu-afd-haushalt-nicht-aus.html"
+                },
+                {
+                  "name": "Spiegel: BSW berät über Umgang mit AfD – Ernst droht mit Austritt",
+                  "url": "https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-frankreich-le-pen-rancourt-durchsuchung-lecks-innenministerium",
+              "slug": "frankreich-le-pen-rancourt-durchsuchung-lecks-innenministerium",
+              "title": "Frankreich: Ermittler durchsuchten Wohnung von Le Pens Programmchef – Verdacht auf Lecks aus dem Innenministerium",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🇫🇷",
+              "edition": "midday",
+              "image": "https://cdn.prod.www.spiegel.de/images/81b04895-0cde-4f0a-ad62-1a3988e0b6b4_w1200_r1.778_fpx59.33_fpy44.99.jpg",
+              "kurz": "Ambroise de Rancourt, Koordinator von Marine Le Pens Wahlprogramm, soll Hauptempfänger vertraulicher Informationen über Ermittlungen gegen den RN gewesen sein. Le Pen bestreitet jede Verwicklung.",
+              "summary": "Die Polizei hat bereits am 9. November Wohnung und Büro von Ambroise de Rancourt durchsucht, früher Bürochef und heute Programmkoordinator von RN-Präsidentschaftskandidatin Marine Le Pen. Laut «Le Monde» halten ihn die Ermittler für den Hauptempfänger vertraulicher Informationen aus dem Innenministerium über Verfahren gegen den Rassemblement National. Der verdächtigte Präfekt Hugues Moutouh wurde am 25. November abgesetzt.",
+              "gegenstimme": "Marine Le Pen sagte am Freitag, die Durchsuchung stelle weder den RN noch sie selbst in Frage – sonst wären die Büros von Parteichef Jordan Bardella und der Kandidatin durchsucht worden. Sie hatte zuvor betont, «niemals» vertrauliche Informationen erhalten zu haben. Der RN sieht in der Serie von Verfahren kurz vor der Präsidentschaftswahl 2027 einen Versuch, die Favoritin juristisch zu schwächen; belegt ist eine politische Steuerung der Justiz nicht, ebenso wenig sind die Vorwürfe gegen de Rancourt bewiesen.",
+              "sources": [
+                {
+                  "name": "Spiegel: Polizei durchsuchte Wohnung und Büro von Le Pens Ex-Büroleiter",
+                  "url": "https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt-a-7b23f3fc-b6b2-49c6-b056-5862cb945914"
+                },
+                {
+                  "name": "Euronews: Fuites ministérielles au profit du RN – perquisition chez un proche de Le Pen",
+                  "url": "https://fr.euronews.com/2026/11/28/fuites-ministerielles-au-profit-du-rn-perquisition-au-domicile-dun-proche-de-marine-le-pen"
+                },
+                {
+                  "name": "franceinfo: Un mail du service de Hugues Moutouh découvert lors d'une perquisition",
+                  "url": "https://www.franceinfo.fr/politique/front-national/un-mail-du-service-du-prefet-hugues-moutouh-soupconne-d-avoir-renseigne-le-rn-decouvert-lors-d-une-perquisition-chez-un-proche-de-marine-le-pen_8294915.html"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-afghanistan-kunar-explosion-schule-schueler-tot",
+              "slug": "afghanistan-kunar-explosion-schule-schueler-tot",
+              "title": "Afghanistan: Explosion neben Schule in Kunar tötet mindestens sieben Schüler",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "international",
+              "icon": "💥",
+              "edition": "midday",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2da/live/46909920-eb18-11f1-90b9-a9d17de9c0bd.jpg",
+              "kurz": "In der Provinzhauptstadt Asadabad ist ein Sprengstofflager von Bergbaufirmen neben einer Mittelschule explodiert. Fast hundert Kinder wurden verletzt, die Taliban sprechen von Fahrlässigkeit.",
+              "summary": "Bei einer Explosion neben einer Mittelschule in Asadabad, der Hauptstadt der ostafghanischen Provinz Kunar, sind am Samstagmorgen mindestens sieben Schüler getötet und 99 verletzt worden. Laut dem Sprecher des Taliban-Innenministeriums, Abdul Mateen Qani, explodierte ein Sprengstofflager nahegelegener Bergbaufirmen. Ein Provinzvertreter sagte Al Jazeera, in dem Haus sei Dynamit gelagert worden.",
+              "gegenstimme": "Die Taliban-Behörden sprechen von «Nachlässigkeit und Unachtsamkeit» und schliessen damit einen Anschlag implizit aus; unabhängig überprüfbar ist das nicht, weil die Taliban den Zugang für Journalisten stark einschränken. Bei den beiden früheren Vorfällen in Kapisa und Farah machten die Behörden Blindgänger verantwortlich; eine Bekennung oder Hinweise auf einen Anschlag gibt es auch im Fall Kunar bisher nicht. Wer das Sprengstofflager betrieb und ob es bewilligt war, ist offen.",
+              "sources": [
+                {
+                  "name": "BBC: Seven students killed and nearly 100 injured in explosion in Afghanistan",
+                  "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o"
+                },
+                {
+                  "name": "Al Jazeera: At least six students killed in blast beside school in Kunar",
+                  "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region"
+                },
+                {
+                  "name": "Spiegel: Mehrere Tote bei Explosion nahe Schule",
+                  "url": "https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-fao-wfp-hunger-hotspots-el-nino-sudan",
+              "slug": "fao-wfp-hunger-hotspots-el-nino-sudan",
+              "title": "UNO-Bericht: Hunger verschärft sich in 16 Krisengebieten – Hungersnot droht in Sudan und Südsudan",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌾",
+              "edition": "midday",
+              "image": "https://www.srf.ch/static/cms/images/branded_srf_news/28853a.jpg",
+              "kurz": "FAO und WFP zählen neu 16 statt 13 Hunger-Hotspots. Konflikte sind in 12 davon die Hauptursache, dazu kommt ein womöglich extremes El-Niño-Jahr.",
+              "summary": "Die UNO-Organisationen FAO und WFP warnen in ihrem halbjährlichen Bericht, dass sich die akute Ernährungsunsicherheit zwischen Dezember 2026 und Mai 2027 in 16 Krisengebieten deutlich verschärfen dürfte, gegenüber 13 im Juni. Am stärksten betroffen sind Sudan, Südsudan, Somalia, Teile Nigerias und Jemen; in Sudan und Südsudan besteht Hungersnotgefahr. Neu auf der Liste stehen das südliche Afrika, der zentralamerikanische Trockenkorridor, Nordost-Uganda und Tschad.",
+              "gegenstimme": "Die Berichte von FAO und WFP dienen auch dem Spendenaufruf: Die Organisationen beklagen, dass die Mittel für die fünf schlimmsten Hotspots von 5,1 Milliarden Dollar 2022 auf 2 Milliarden 2025 gefallen sind. Kritiker der UNO-Hilfe bemängeln, dass Konfliktparteien Hilfsgüter abzweigen oder behindern und dass mehr Geld ohne politische Lösungen wenig ändert – in 12 von 16 Hotspots ist Gewalt die Hauptursache. Zudem beruhen die Prognosen auf «plausiblen Worst-Case-Szenarien» und sind keine sicheren Vorhersagen.",
+              "sources": [
+                {
+                  "name": "WFP: El Niño adds new hunger hotspots as conflict continues to drive risk of famine",
+                  "url": "https://www.wfp.org/news/el-nino-adds-new-hunger-hotspots-conflict-continues-drive-risk-famine-warn-fao-and-wfp"
+                },
+                {
+                  "name": "SRF: UNO – Hunger dürfte sich in 16 Krisengebieten deutlich verschärfen",
+                  "url": "https://www.srf.ch/news/international/bericht-von-fao-und-wfp-uno-hunger-duerfte-sich-in-16-krisengebieten-deutlich-verschaerfen"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-kanaren-el-hierro-14-tote-boot-gambia",
+              "slug": "kanaren-el-hierro-14-tote-boot-gambia",
+              "title": "Kanaren: 14 Tote in Migrantenboot vor El Hierro – zehn Tage auf dem Atlantik getrieben",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "international",
+              "icon": "🌊",
+              "edition": "midday",
+              "image": "https://cdn.unitycms.io/images/Bel-8vmu4Cv8BG_ZDdjiAe.jpg?op=ocroped&val=1200,600,1000,750,125,0&sum=1AeHGFaJOFE",
+              "kurz": "Das Boot war in Gambia gestartet und trieb manövrierunfähig 72 Kilometer vor El Hierro. 90 Menschen aus Senegal, Gambia und Mali überlebten, viele schwer dehydriert.",
+              "summary": "Die spanische Seenotrettung hat am Freitag rund 72 Kilometer südlich von El Hierro ein manövrierunfähiges Boot mit 14 Toten an Bord geborgen. Etwa 90 Menschen überlebten, fast ausschliesslich Männer aus Senegal, Gambia und Mali, darunter drei Frauen und drei Minderjährige; sechs wurden per Helikopter ins Spital geflogen. Laut Überlebenden war das Boot vor zehn Tagen in Banjul (Gambia) gestartet.",
+              "gegenstimme": "Hilfsorganisationen sehen in den Toten die Folge fehlender sicherer Fluchtwege und verlangen mehr Rettungskapazität. Kritiker der spanischen Migrationspolitik halten dagegen, dass Schlepper gezielt auf die Rettung vor den Kanaren setzen und so immer neue, gefährliche Überfahrten auslösen; sie fordern wirksamere Kontrollen an den Abfahrtsküsten und Rückführungsabkommen mit Herkunftsstaaten wie Senegal und Gambia.",
+              "sources": [
+                {
+                  "name": "EFE: Desembarcan 14 cadáveres del cayuco rescatado a 72 kilómetros de El Hierro",
+                  "url": "https://efe.com/canarias/2026-11-27/desembarcan-14-cadaveres-del-cayuco-rescatado-a-72-kilometros-de-el-hierro/"
+                },
+                {
+                  "name": "Antena 3: Mueren 14 migrantes en un cayuco rescatado cerca de El Hierro",
+                  "url": "https://www.antena3.com/noticias/sociedad/diez-muertos-seis-migrantes-evacuados-helicoptero-cayuco-cerca-hierro_202611276b0991e15cb1082f89b6972e.html"
+                },
+                {
+                  "name": "Tages-Anzeiger: Mindestens 14 Tote vor den Kanaren",
+                  "url": "https://www.tagesanzeiger.ch/migranten-14-tote-auf-ueberfahrt-nach-el-hierro-893352793057"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-28-telekom-rheinmetall-lageplattform-palantir-konkurrenz",
+              "slug": "telekom-rheinmetall-lageplattform-palantir-konkurrenz",
+              "title": "Telekom und Rheinmetall bauen KI-Lageplattform – europäische Alternative zu Palantir",
+              "date": "2026-11-28",
+              "time": "12:15",
+              "category": "tech",
+              "icon": "🛰️",
+              "edition": "midday",
+              "image": "https://images.handelsblatt.com/Mnfz5B6W4MW8/cover/2048/1152/0/0/142/141/0.5/0.5/rheinmetall-digitalchef-timo-haas.jpg",
+              "kurz": "«Multi Threat Protection» soll Satelliten-, Mobilfunk-, Drohnen- und Radardaten zu einem Lagebild für Kraftwerke, Häfen und Spitäler verbinden. Start ist Ende März 2027 geplant.",
+              "summary": "Die Deutsche Telekom und der Rüstungskonzern Rheinmetall entwickeln eine KI-gestützte Aufklärungsplattform namens «Multi Threat Protection» für Betreiber kritischer Infrastruktur. Sie soll auf einer deutschen Cloud Satellitenbilder, Mobilfunk-, Drohnen-, Radar- und Kameradaten zu einem Gesamtlagebild verbinden und vor Sabotage, Cyberangriffen und Drohnen schützen. Der Vertrieb an Industriekunden soll laut Rheinmetall Ende des ersten Quartals 2027 beginnen.",
+              "gegenstimme": "Datenschützer dürften vor allem die Mobilfunkdaten kritisch sehen: Ob auch personenbezogene Daten wie Bewegungsprofile einfliessen, ist offen. Rheinmetall-Digitalchef Timo Haas sagt, man wolle «alles zusammenführen, was wir bekommen können» – genau diese Logik wird bei Palantir kritisiert. Befürworter argumentieren, Europa brauche gegen hybride Angriffe eigene Werkzeuge und dürfe sich nicht von einem US-Anbieter abhängig machen.",
+              "sources": [
+                {
+                  "name": "heise online: Telekom und Rheinmetall wollen Palantir Konkurrenz machen",
+                  "url": "https://www.heise.de/news/Medienbericht-Telekom-und-Rheinmetall-wollen-Palantir-Konkurrenz-machen-11541409.html"
+                },
+                {
+                  "name": "Handelsblatt: Telekom und Rheinmetall planen Schutzplattform",
+                  "url": "https://www.handelsblatt.com/technik/it-internet/kritische-infrastruktur-telekom-und-rheinmetall-planen-schutzplattform/100273336.html"
                 }
               ]
             }
